@@ -26,7 +26,7 @@ async function run(input) {
     const env={...process.env,...(fs.existsSync(input.envFile)?parseEnv(fs.readFileSync(input.envFile,'utf8')):{})};
     config={...configFromEnv(input.provider,env),maxTokens:3072,timeoutMs:180000,maxCalls:input.maxCalls,
       minIntervalMs:input.provider==='hcx'?1000:0,tokensPerMinute:input.provider==='hcx'?52000:undefined,
-      maxToolRounds:1,retryRateLimit:true,retryTransientTransport:true,seed:42};
+      retryRateLimit:true,retryTransientTransport:true,seed:42};
     timer=setTimeout(()=>controller.abort(Error('Run time limit exceeded')),input.timeoutSeconds*1000);
     session=createSession(config,{signal:controller.signal,log:event=>{
       if(event.event==='llm_request') {state.calls=session.calls.length;emit({type:'progress',...state});}
@@ -41,12 +41,12 @@ async function run(input) {
     state.phase='judging';
     for(let offset=0;offset<snapshot.candidates.length;offset+=16) {
       controller.signal.throwIfAborted();
-      decisions.push(...await session.decide('judge',snapshot.candidates.slice(offset,offset+16),{phase:'initial'}));
+      decisions.push(...await session.decide(snapshot.candidates.slice(offset,offset+16)));
       state.processed=decisions.length;state.calls=session.calls.length;
       save(input.jobDir,'partial-decisions.json',decisions);emit({type:'progress',...state});
     }
     controller.signal.throwIfAborted();
-    const output=outputResult(snapshot,decisions,startedAt,(performance.now()-started)/1000,input.provider,'pipeline');
+    const output=outputResult(snapshot,decisions,startedAt,(performance.now()-started)/1000,input.provider);
     save(input.jobDir,'result.json',output.result);save(input.jobDir,'diagnostics.json',output.diagnostics);
     state.status=output.diagnostics.length||snapshot.blocked_requests.length?'completed_with_warnings':'completed';
     state.needsReview=output.diagnostics.length;state.blockedRequests=snapshot.blocked_requests.length;

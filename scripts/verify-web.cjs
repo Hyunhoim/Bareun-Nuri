@@ -25,9 +25,9 @@ async function launch(){
   backend=spawn(java,['-Dfile.encoding=UTF-8','-jar',path.join(root,'backend/target/public-ad-backend.jar'),'--server.port=18766'],
     {cwd:root,env:{...process.env,APP_ROOT:root,NODE_EXECUTABLE:process.execPath},stdio:['ignore',log,log],windowsHide:true});
   fs.closeSync(log);
-  await waitFor(async()=>{try{return (await call('/api/health')).data.app==='public-ad-baseline';}catch{return false;}},60000);
+  await waitFor(async()=>{if(backend.exitCode!==null)throw Error('Backend exited; inspect backend.log');try{return (await call('/api/health')).data.app==='public-ad-baseline';}catch{return false;}},60000);
 }
-async function stop(){if(backend&&!backend.killed){backend.kill();await new Promise(resolve=>backend.once('exit',resolve));}}
+async function stop(){if(backend&&backend.exitCode===null&&!backend.killed){const exited=new Promise(resolve=>backend.once('exit',resolve));backend.kill();await exited;}}
 async function completed(id){return waitFor(async()=>{const r=await call('/api/jobs/'+id);return ['completed','completed_with_warnings','failed','cancelled'].includes(r.data.status)?r.data:false;},180000);}
 async function main(){
   try{await fetch(app+'/api/health');throw Error('Test port 18766 already in use');}catch(e){if(e.message.includes('already'))throw e;}

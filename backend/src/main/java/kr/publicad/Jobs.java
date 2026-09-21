@@ -93,7 +93,7 @@ public class Jobs {
             synchronized(this) {
                 process=child; input=new BufferedWriter(new OutputStreamWriter(child.getOutputStream(),StandardCharsets.UTF_8));
                 ObjectNode config=json.valueToTree(request);
-                Path env=root.resolve("agent/.env");if(!Files.exists(env)) env=root.resolve("agent-experiments/.env");
+                Path env=root.resolve("agent/.env");
                 config.put("jobDir",folder(id).resolve("artifacts").toString()).put("envFile",env.toString());
                 input.write(json.writeValueAsString(config));input.newLine();input.flush();
                 if(jobs.get(id).path("cancelRequested").asBoolean()) sendCancel();
