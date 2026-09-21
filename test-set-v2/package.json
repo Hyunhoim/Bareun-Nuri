@@ -1,0 +1,5 @@
+{
+  "name": "public-ad-advanced-test-set", "version": "2.0.0", "private": true,
+  "scripts": {"build": "python build.py", "verify": "node evaluate.cjs verify", "score": "node evaluate.cjs score"},
+  "dependencies": {"playwright": "1.62.1"}
+}

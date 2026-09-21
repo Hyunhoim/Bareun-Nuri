@@ -3,8 +3,8 @@ const fs = require('node:fs');
 const path = require('node:path');
 const assert = require('node:assert/strict');
 const crypto = require('node:crypto');
-const { chromium } = require('playwright');
-const ROOT = __dirname;
+const ROOT = path.resolve(process.env.BENCHMARK_ROOT || __dirname);
+const { chromium } = require(require.resolve('playwright', {paths: [ROOT]}));
 const truth = JSON.parse(fs.readFileSync(path.join(ROOT, 'private/ground_truth.json'), 'utf8'));
 
 function canonical(value, base) {
@@ -359,4 +359,5 @@ async function main() {
   } finally { await browser.close(); }
 }
 
+module.exports = {truth, grade, oracle, meta, fingerprint, launch, contextFor, ready, resolve, locationFor, canonical};
 if (require.main === module) main().catch(error => { console.error(error.stack); process.exitCode = 1; });

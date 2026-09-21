@@ -11,10 +11,15 @@ ROOT = Path(__file__).resolve().parent
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--port", type=int, default=8765)
+    parser.add_argument("--dataset-root", type=Path, default=ROOT)
+    parser.add_argument("--entry", default="/dev/")
     args = parser.parse_args()
     if not 1 <= args.port <= 65535:
         parser.error("port must be 1..65535")
-    routes = json.loads((ROOT / "private/routes.json").read_text(encoding="utf-8"))
+    root = args.dataset_root.resolve()
+    routes = json.loads((root / "private/routes.json").read_text(encoding="utf-8"))
+    if args.entry.rstrip("/") not in routes:
+        parser.error("entry is not in dataset routes")
 
     class Handler(BaseHTTPRequestHandler):
         def do_HEAD(self):
@@ -26,7 +31,7 @@ def main():
             path = parts.path.rstrip("/")
             if not path:
                 self.send_response(302)
-                self.send_header("Location", "/dev/")
+                self.send_header("Location", args.entry)
                 self.end_headers()
                 return
             # Alias only a missing list page; unknown queries must not masquerade as valid pages.
@@ -41,10 +46,10 @@ def main():
                 return
             key = path + ("?" + urlencode(sorted(query.items())) if query else "")
             if path in ["/assets/site.css", "/assets/site.js"] and not query:
-                file = ROOT / "public" / path.lstrip("/")
+                file = root / "public" / path.lstrip("/")
                 mime = "text/css" if path.endswith("css") else "text/javascript"
             elif key in routes:
-                file = ROOT / "public" / routes[key]
+                file = root / "public" / routes[key]
                 mime = "text/html"
             else:
                 self.send_error(404, "Not found")
@@ -61,8 +66,9 @@ def main():
                 self.wfile.write(data)
 
     server = ThreadingHTTPServer(("127.0.0.1", args.port), Handler)
-    print(f"Local benchmark: http://127.0.0.1:{args.port}/dev/", flush=True)
-    print(f"Evaluation entry: http://127.0.0.1:{args.port}/eval/", flush=True)
+    print(f"Local benchmark: http://127.0.0.1:{args.port}{args.entry}", flush=True)
+    if args.entry == "/dev/":
+        print(f"Evaluation entry: http://127.0.0.1:{args.port}/eval/", flush=True)
     try:
         server.serve_forever()
     except KeyboardInterrupt:

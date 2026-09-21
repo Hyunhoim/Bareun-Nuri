@@ -1,0 +1,1292 @@
+{
+  "meta": {
+    "topic": "TOPIC",
+    "entry_url": "http://127.0.0.1:8780/advanced/",
+    "started_at": "2026-09-21T10:00:00+09:00",
+    "finished_at": "2026-09-21T10:00:01+09:00",
+    "elapsed_sec": 1,
+    "tool_version": "oracle-for-scorer-self-test-only"
+  },
+  "findings": [
+    {
+      "id": "f_1",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2632",
+      "is_violation": true,
+      "location": "h2#v0e449588cd27",
+      "evidence_text": "ＣＡＳＩＮＯ · 사설 카지노 신규 회원을 모집합니다. 첫 입금에 추가 금액을 드리고 현금 환전을 지원합니다.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_2",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2758",
+      "is_violation": true,
+      "location": "h1#v50701d1e88c8",
+      "evidence_text": "ㅅㅏㅅㅓㄹ ㅋㅏㅈㅣㄴㅗ ㅅㅣㄴㄱㅠ ㅎㅚㅇㅝㄴㅇㅡㄹ ㅁㅗㅈㅣㅂㅎㅏㅂㄴㅣㄷㅏ. ㅊㅓㅅ ㅇㅣㅂㄱㅡㅁㅇㅔ ㅊㅜㄱㅏ ㄱㅡㅁㅇㅐㄱㅇㅡㄹ ㄷㅡㄹㅣㄱㅗ ㅎㅕㄴㄱㅡㅁ ㅎㅘㄴㅈㅓㄴㅇㅡㄹ ㅈㅣㅇㅝㄴㅎㅏㅂㄴㅣㄷㅏ.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_3",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2884",
+      "is_violation": true,
+      "location": "h4#v2f2183410cf3",
+      "evidence_text": "사설 스포츠 도박방 참여자를 찾습니다. 충전 후 원하는 경기에 베팅하고 배당금을 받으세요.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_4",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2639",
+      "is_violation": true,
+      "location": "h4#va459f63a1abd",
+      "evidence_text": "사설 스포츠 도박방 참여자를 찾습니다. 충전 후 원하는 경기에 베팅하고 배당금을 받으세요.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_5",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2464",
+      "is_violation": true,
+      "location": "div#v29e423b0d969",
+      "evidence_text": "CΑSINΟ · 비공개 바카라 테이블이 열렸습니다. 가입비를 입금하면 즉시 게임에 참여할 수 있습니다.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_6",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2632",
+      "is_violation": true,
+      "location": "p#v25c13e80a205",
+      "evidence_text": "ㅂㅣㄱㅗㅇㄱㅐ 바카라 테이블이 열렸습니다. 가입비를 입금하면 즉시 게임에 참여할 수 있습니다.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_7",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2471",
+      "is_violation": true,
+      "location": "p#vf99f841ac543",
+      "evidence_text": "현금 환전이 되는 사설 슬롯을 소개합니다. 회원 등록 후 첫 충전을 진행해 주세요.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_8",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2499",
+      "is_violation": true,
+      "location": "div#va63432e0794d",
+      "evidence_text": "현금 환전이 되는 사설 슬롯을 소개합니다. 회원 등록 후 첫 충전을 진행해 주세요.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_9",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2765",
+      "is_violation": true,
+      "location": "li#v9bca1b073fb7",
+      "evidence_text": "ＣＡＳＩＮＯ · 온라인 사설 경마 이용 안내입니다. 지금 가입해서 경주에 돈을 걸어 보세요.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_10",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2464",
+      "is_violation": true,
+      "location": "div#vb2f4fb19dcaf",
+      "evidence_text": "온라인 사설 경마 이용 안내입니다. 지금 가입해서 경주에 돈을 걸어 보세요.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_11",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2947",
+      "is_violation": true,
+      "location": "p#v6d70ba948602",
+      "evidence_text": "사설 도박 사이트로 옮기실 분을 받습니다. 입금 내역을 보내면 가입 혜택을 적용합니다.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_12",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2660",
+      "is_violation": true,
+      "location": "li#v7ec0cce586a6",
+      "evidence_text": "사설 도박 사이트로 옮기실 분을 받습니다. 입금 내역을 보내면 가입 혜택을 적용합니다.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_13",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2793",
+      "is_violation": true,
+      "location": "div#v6524abfa06a3",
+      "evidence_text": "CΑSINΟ · 사설 카지노 추천 가입 창구입니다. 회원 등록을 마치면 충전금 일부를 추가 지급합니다.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_14",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2968",
+      "is_violation": true,
+      "location": "div#v1986f483116c",
+      "evidence_text": "ㅅㅏㅅㅓㄹ ㅋㅏㅈㅣㄴㅗ ㅊㅜㅊㅓㄴ ㄱㅏㅇㅣㅂ ㅊㅏㅇㄱㅜㅇㅣㅂㄴㅣㄷㅏ. ㅎㅚㅇㅝㄴ ㄷㅡㅇㄹㅗㄱㅇㅡㄹ ㅁㅏㅊㅣㅁㅕㄴ ㅊㅜㅇㅈㅓㄴㄱㅡㅁ ㅇㅣㄹㅂㅜㄹㅡㄹ ㅊㅜㄱㅏ ㅈㅣㄱㅡㅂㅎㅏㅂㄴㅣㄷㅏ.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_15",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2534",
+      "is_violation": true,
+      "location": "p#v8e1a837e4ba3",
+      "evidence_text": "스포츠 도박 배당표를 받아 보세요. 사설방 가입과 현금 충전을 마치면 참여 가능합니다.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_16",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2891",
+      "is_violation": true,
+      "location": "p#v4870425cd134",
+      "evidence_text": "스포츠 도박 배당표를 받아 보세요. 사설방 가입과 현금 충전을 마치면 참여 가능합니다.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_17",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2604",
+      "is_violation": true,
+      "location": "td#v213f1fc150d8",
+      "evidence_text": "ＣＡＳＩＮＯ · 비공개 사설 카드게임 이용자를 모집합니다. 참가금을 보내고 현금 배당에 도전하세요.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_18",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2597",
+      "is_violation": true,
+      "location": "span#v8ca3deae1b7c",
+      "evidence_text": "ㅂㅣㄱㅗㅇㄱㅐ 사설 카드게임 이용자를 모집합니다. 참가금을 보내고 현금 배당에 도전하세요.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_19",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=3003",
+      "is_violation": true,
+      "location": "strong#vc26708db49a6",
+      "evidence_text": "사설 슬롯 첫 이용 혜택입니다. 가입 후 충전하면 추가 베팅 금액을 바로 드립니다.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_20",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2660",
+      "is_violation": true,
+      "location": "dd#v5461f7320fab",
+      "evidence_text": "사설 슬롯 첫 이용 혜택입니다. 가입 후 충전하면 추가 베팅 금액을 바로 드립니다.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_21",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2982",
+      "is_violation": true,
+      "location": "p#v79163c300519",
+      "evidence_text": "CΑSINΟ · 퇴근 후 사설 카지노에서 한 판 어떠세요. 소액 입금으로 시작하고 당첨금은 현금으로 받으세요.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_22",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2436",
+      "is_violation": true,
+      "location": "p#vaa65ecadec05",
+      "evidence_text": "퇴근 후 사설 카지노에서 한 판 어떠세요. 소액 입금으로 시작하고 당첨금은 현금으로 받으세요.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_23",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2695",
+      "is_violation": true,
+      "location": "div#vaa2146cb77a2",
+      "evidence_text": "사설 경마방 자리가 조금 남았습니다. 회원 신청과 첫 충전을 마치면 자리 안내를 드립니다.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_24",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2926",
+      "is_violation": true,
+      "location": "p#vee157f93b81a",
+      "evidence_text": "사설 경마방 자리가 조금 남았습니다. 회원 신청과 첫 충전을 마치면 자리 안내를 드립니다.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_25",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2940",
+      "is_violation": true,
+      "location": "a#v171e5b626eeb",
+      "evidence_text": "ＣＡＳＩＮＯ · 기존 사설 베팅방보다 높은 배당을 드립니다. 새 계정으로 가입하고 충전해 보세요.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_26",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2807",
+      "is_violation": true,
+      "location": "a#v30fc2ad9176f",
+      "evidence_text": "ㄱㅣㅈㅗㄴ ㅅㅏㅅㅓㄹ ㅂㅔㅌㅣㅇㅂㅏㅇㅂㅗㄷㅏ ㄴㅗㅍㅇㅡㄴ ㅂㅐㄷㅏㅇㅇㅡㄹ ㄷㅡㄹㅣㅂㄴㅣㄷㅏ. ㅅㅐ ㄱㅖㅈㅓㅇㅇㅡㄹㅗ ㄱㅏㅇㅣㅂㅎㅏㄱㅗ ㅊㅜㅇㅈㅓㄴㅎㅐ ㅂㅗㅅㅔㅇㅛ.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_27",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2940",
+      "is_violation": true,
+      "location": "a#v5fc775754787",
+      "evidence_text": "오늘 밤 사설 바카라 참여자를 받습니다. 입장 전에 충전 금액을 확인해 주세요.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_28",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2499",
+      "is_violation": true,
+      "location": "a#v181537e5d69d",
+      "evidence_text": "오늘 밤 사설 바카라 참여자를 받습니다. 입장 전에 충전 금액을 확인해 주세요.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_29",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2695",
+      "is_violation": true,
+      "location": "li#v58d6c991633c",
+      "evidence_text": "CΑSINΟ · 사설 카지노 가입 문의를 받고 있습니다. 입금 방법과 즉시 환전 절차를 안내해 드립니다.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_30",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2653",
+      "is_violation": true,
+      "location": "span#v99db2d8682f8",
+      "evidence_text": "ㅅㅏㅅㅓㄹ 카지노 가입 문의를 받고 있습니다. 입금 방법과 즉시 환전 절차를 안내해 드립니다.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_31",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2744",
+      "is_violation": true,
+      "location": "span#v371d6fbfd05d",
+      "evidence_text": "비공개 슬롯방에 초대합니다. 현금을 충전하고 게임 수익을 계좌로 받아 가세요.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_32",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2744",
+      "is_violation": true,
+      "location": "span#v1f48099cc845",
+      "evidence_text": "비공개 슬롯방에 초대합니다. 현금을 충전하고 게임 수익을 계좌로 받아 가세요.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_33",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2744",
+      "is_violation": true,
+      "location": "span#v3e9ea2564b47",
+      "evidence_text": "ＣＡＳＩＮＯ · 사설 스포츠 도박 신규 가입 혜택이 오늘 끝납니다. 첫 입금 후 추천 코드를 등록하세요.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_34",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2996",
+      "is_violation": true,
+      "location": "h2#v4a29c5e3bc62",
+      "evidence_text": "사설 스포츠 도박 신규 가입 혜택이 오늘 끝납니다. 첫 입금 후 추천 코드를 등록하세요.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_35",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2751",
+      "is_violation": true,
+      "location": "h2#v5c216ca5ff35",
+      "evidence_text": "사설 경마 추천 회원에게 충전 혜택을 드립니다. 지금 회원 가입을 진행해 주세요.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_36",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=3003",
+      "is_violation": true,
+      "location": "span#v19e0a185d198",
+      "evidence_text": "사설 경마 추천 회원에게 충전 혜택을 드립니다. 지금 회원 가입을 진행해 주세요.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_37",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2877",
+      "is_violation": true,
+      "location": "p#v5bb6fab53168",
+      "evidence_text": "CΑSINΟ · 현금 배당 사설 카드방을 함께 이용할 분을 찾습니다. 등록 후 참가금을 충전하세요.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_38",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2877",
+      "is_violation": true,
+      "location": "p#vba9b00db9a05",
+      "evidence_text": "ㅎㅕㄴㄱㅡㅁ ㅂㅐㄷㅏㅇ ㅅㅏㅅㅓㄹ ㅋㅏㄷㅡㅂㅏㅇㅇㅡㄹ ㅎㅏㅁㄲㅔ ㅇㅣㅇㅛㅇㅎㅏㄹ ㅂㅜㄴㅇㅡㄹ ㅊㅏㅈㅅㅡㅂㄴㅣㄷㅏ. ㄷㅡㅇㄹㅗㄱ ㅎㅜ ㅊㅏㅁㄱㅏㄱㅡㅁㅇㅡㄹ ㅊㅜㅇㅈㅓㄴㅎㅏㅅㅔㅇㅛ.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_39",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2877",
+      "is_violation": true,
+      "location": "p#v45788e39564f",
+      "evidence_text": "사설 카지노 이용 방법이 궁금하면 가입부터 해 주세요. 충전과 환전은 회원에게 안내합니다.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_40",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2583",
+      "is_violation": true,
+      "location": "div#v613d8a5d9a4a",
+      "evidence_text": "사설 카지노 이용 방법이 궁금하면 가입부터 해 주세요. 충전과 환전은 회원에게 안내합니다.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_41",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2422",
+      "is_violation": true,
+      "location": "p#v344c1bf401a5",
+      "evidence_text": "ＣＡＳＩＮＯ · 불법 촬영물 공유방 유료 회원을 받습니다. 가입비 결제 후 비공개 자료를 이용하세요.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_42",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2856",
+      "is_violation": true,
+      "location": "p#v5a069238b7ae",
+      "evidence_text": "ㅂㅜㄹㅂㅓㅂ 촬영물 공유방 유료 회원을 받습니다. 가입비 결제 후 비공개 자료를 이용하세요.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_43",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2499",
+      "is_violation": true,
+      "location": "div#vd255bc147c04",
+      "evidence_text": "불법 성인영상 공유관 신규 가입을 모집합니다. 결제하면 자료실을 열어 드립니다.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_44",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2408",
+      "is_violation": true,
+      "location": "div#vf94f0aefe154",
+      "evidence_text": "불법 성인영상 공유관 신규 가입을 모집합니다. 결제하면 자료실을 열어 드립니다.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_45",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2793",
+      "is_violation": true,
+      "location": "h1#va5b026f593b9",
+      "evidence_text": "CΑSINΟ · 불법 촬영 영상 비공개 목록을 제공합니다. 유료 회원 등록과 결제를 진행해 주세요.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_46",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2737",
+      "is_violation": true,
+      "location": "p#v74a02f6ded02",
+      "evidence_text": "불법 촬영 영상 비공개 목록을 제공합니다. 유료 회원 등록과 결제를 진행해 주세요.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_47",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2751",
+      "is_violation": true,
+      "location": "p#vf48e07478995",
+      "evidence_text": "불법 성인물 공유방 입장권 판매 안내입니다. 입금 확인 후 열람 권한을 드립니다.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_48",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2919",
+      "is_violation": true,
+      "location": "iframe[src=\"http://127.0.0.1:8780/advanced/widget/comments?thread=cd69fc87e532\"] >>> p#vcd69fc87e532",
+      "evidence_text": "불법 성인물 공유방 입장권 판매 안내입니다. 입금 확인 후 열람 권한을 드립니다.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_49",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2646",
+      "is_violation": true,
+      "location": "p#v071feb406a87",
+      "evidence_text": "ＣＡＳＩＮＯ · 불법 촬영물 자료실을 이용할 회원을 찾습니다. 가입 결제 후 원하는 영상을 선택하세요.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_50",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2534",
+      "is_violation": true,
+      "location": "p#v71efb47841ce",
+      "evidence_text": "ㅂㅜㄹㅂㅓㅂ ㅊㅘㄹㅇㅕㅇㅁㅜㄹ ㅈㅏㄹㅛㅅㅣㄹㅇㅡㄹ ㅇㅣㅇㅛㅇㅎㅏㄹ ㅎㅚㅇㅝㄴㅇㅡㄹ ㅊㅏㅈㅅㅡㅂㄴㅣㄷㅏ. ㄱㅏㅇㅣㅂ ㄱㅕㄹㅈㅔ ㅎㅜ ㅇㅝㄴㅎㅏㄴㅡㄴ ㅇㅕㅇㅅㅏㅇㅇㅡㄹ ㅅㅓㄴㅌㅐㄱㅎㅏㅅㅔㅇㅛ.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_51",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2870",
+      "is_violation": true,
+      "location": "blockquote#v21b5a17c8198",
+      "evidence_text": "신규 사설 도박방 운영 안내를 남깁니다. 회원 가입 후 충전하면 입금 혜택을 받을 수 있습니다.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_52",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2730",
+      "is_violation": true,
+      "location": "blockquote#vca827b1e74b7",
+      "evidence_text": "신규 사설 도박방 운영 안내를 남깁니다. 회원 가입 후 충전하면 입금 혜택을 받을 수 있습니다.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_53",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2786",
+      "is_violation": true,
+      "location": "p#v18092d84bbb9",
+      "evidence_text": "CΑSINΟ · 사설 슬롯 이용 후기와 함께 가입을 권합니다. 첫 충전 금액에 추가 혜택을 드립니다.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_54",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2807",
+      "is_violation": true,
+      "location": "p#vf40e1a92ac05",
+      "evidence_text": "ㅅㅏㅅㅓㄹ 슬롯 이용 후기와 함께 가입을 권합니다. 첫 충전 금액에 추가 혜택을 드립니다.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_55",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2870",
+      "is_violation": true,
+      "location": "blockquote#v510c3ef9c238",
+      "evidence_text": "사설 카지노 접속 안내를 받아 보세요. 가입과 현금 입금 후 바로 게임을 시작할 수 있습니다.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_56",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2639",
+      "is_violation": true,
+      "location": "div#v9ffc688169bb",
+      "evidence_text": "사설 카지노 접속 안내를 받아 보세요. 가입과 현금 입금 후 바로 게임을 시작할 수 있습니다.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_57",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2877",
+      "is_violation": true,
+      "location": "li#vd5f0818bc361",
+      "evidence_text": "ＣＡＳＩＮＯ · 사설 스포츠 베팅방 공동 참여 안내입니다. 충전금을 넣고 배당금을 함께 노려 보세요.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_58",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2541",
+      "is_violation": true,
+      "location": "iframe[src=\"http://127.0.0.1:8780/advanced/widget/comments?thread=46e769344b39\"] >>> iframe[src=\"http://127.0.0.1:8780/advanced/widget/replies?thread=46e769344b39\"] >>> p#v46e769344b39",
+      "evidence_text": "사설 스포츠 베팅방 공동 참여 안내입니다. 충전금을 넣고 배당금을 함께 노려 보세요.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_59",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2688",
+      "is_violation": true,
+      "location": "div#vac78f24ba8c9",
+      "evidence_text": "사설 바카라 회원 전용 이벤트입니다. 신규 가입자가 입금하면 추가 게임 금액을 드립니다.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_60",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2471",
+      "is_violation": true,
+      "location": "p#v82965054aef4",
+      "evidence_text": "사설 바카라 회원 전용 이벤트입니다. 신규 가입자가 입금하면 추가 게임 금액을 드립니다.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_61",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2751",
+      "is_violation": true,
+      "location": "p#v9a458878396b",
+      "evidence_text": "CΑSINΟ · 관련 안내를 덧붙입니다. 사설 카지노에서 현금 게임을 하려면 가입 후 충전해 주세요.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_62",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2898",
+      "is_violation": true,
+      "location": "div#v8daf378e4983",
+      "evidence_text": "ㄱㅘㄴㄹㅕㄴ ㅇㅏㄴㄴㅐㄹㅡㄹ ㄷㅓㅅㅂㅜㅌㅇㅣㅂㄴㅣㄷㅏ. ㅅㅏㅅㅓㄹ ㅋㅏㅈㅣㄴㅗㅇㅔㅅㅓ ㅎㅕㄴㄱㅡㅁ ㄱㅔㅇㅣㅁㅇㅡㄹ ㅎㅏㄹㅕㅁㅕㄴ ㄱㅏㅇㅣㅂ ㅎㅜ ㅊㅜㅇㅈㅓㄴㅎㅐ ㅈㅜㅅㅔㅇㅛ.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_63",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2436",
+      "is_violation": true,
+      "location": "h2#v46a3e5ca7d77",
+      "evidence_text": "게시판을 보신 분께 사설 경마방을 소개합니다. 회원 등록과 첫 입금을 기다립니다.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_64",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2891",
+      "is_violation": true,
+      "location": "p#v15bafd3c918e",
+      "evidence_text": "게시판을 보신 분께 사설 경마방을 소개합니다. 회원 등록과 첫 입금을 기다립니다.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_65",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2947",
+      "is_violation": true,
+      "location": "p#v0bd925873cc8",
+      "evidence_text": "ＣＡＳＩＮＯ · 자세한 내용은 사설 슬롯 회원방에서 안내합니다. 가입하고 게임 금액을 충전해 주세요.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_66",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2548",
+      "is_violation": true,
+      "location": "div#v7bb54382b2ae",
+      "evidence_text": "ㅈㅏㅅㅔㅎㅏㄴ 내용은 사설 슬롯 회원방에서 안내합니다. 가입하고 게임 금액을 충전해 주세요.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_67",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2520",
+      "is_violation": true,
+      "location": "blockquote#v56b4486bbd17",
+      "evidence_text": "아래 안내를 통해 사설 도박방에 가입하세요. 추천 회원에게 충전 보너스를 지급합니다.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_68",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2989",
+      "is_violation": true,
+      "location": "div#vc3e59a28d07e",
+      "evidence_text": "아래 안내를 통해 사설 도박방에 가입하세요. 추천 회원에게 충전 보너스를 지급합니다.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_69",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2793",
+      "is_violation": true,
+      "location": "div#v64b05fc5ebc1",
+      "evidence_text": "CΑSINΟ · 사설 카지노 결제 안내를 확인하세요. 가입 계정으로 입금하면 현금 게임 참여가 가능합니다.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_70",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=3010",
+      "is_violation": true,
+      "location": "li#vfb01ede07a20",
+      "evidence_text": "사설 카지노 결제 안내를 확인하세요. 가입 계정으로 입금하면 현금 게임 참여가 가능합니다.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_71",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2443",
+      "is_violation": true,
+      "location": "strong#v16fcaba66e43",
+      "evidence_text": "이번 주 사설 경마 신규 회원을 모집합니다. 배당금 환전을 받으려면 가입과 입금을 마치세요.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_72",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2982",
+      "is_violation": true,
+      "location": "span#v6f5957ed6a62",
+      "evidence_text": "이번 주 사설 경마 신규 회원을 모집합니다. 배당금 환전을 받으려면 가입과 입금을 마치세요.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_73",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2422",
+      "is_violation": true,
+      "location": "p#v4ab008c0845c",
+      "evidence_text": "ＣＡＳＩＮＯ · 비공개 불법 성인물 공유관 이용 안내를 드립니다. 회원 등록 후 결제하면 입장할 수 있습니다.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_74",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2653",
+      "is_violation": true,
+      "location": "h1#v51b4fc078f0d",
+      "evidence_text": "ㅂㅣㄱㅗㅇㄱㅐ ㅂㅜㄹㅂㅓㅂ ㅅㅓㅇㅇㅣㄴㅁㅜㄹ ㄱㅗㅇㅇㅠㄱㅘㄴ ㅇㅣㅇㅛㅇ ㅇㅏㄴㄴㅐㄹㅡㄹ ㄷㅡㄹㅣㅂㄴㅣㄷㅏ. ㅎㅚㅇㅝㄴ ㄷㅡㅇㄹㅗㄱ ㅎㅜ ㄱㅕㄹㅈㅔㅎㅏㅁㅕㄴ ㅇㅣㅂㅈㅏㅇㅎㅏㄹ ㅅㅜ ㅇㅣㅆㅅㅡㅂㄴㅣㄷㅏ.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_75",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2639",
+      "is_violation": true,
+      "location": "div#ve6e9bb66e0bc",
+      "evidence_text": "사설 도박방 가입 신청서를 확인해 주세요. 첫 충전을 마치면 추가 베팅 금액이 적립됩니다.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_76",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2590",
+      "is_violation": true,
+      "location": "blockquote#v80c7e7571ab7",
+      "evidence_text": "사설 도박방 가입 신청서를 확인해 주세요. 첫 충전을 마치면 추가 베팅 금액이 적립됩니다.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_77",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2541",
+      "is_violation": true,
+      "location": "p#v2056ee155d12",
+      "evidence_text": "CΑSINΟ · 사설 바카라방 회원 소개 혜택을 드립니다. 가입자를 추천하고 첫 입금을 진행해 주세요.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_78",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2625",
+      "is_violation": true,
+      "location": "h3#v3f4a04227fe4",
+      "evidence_text": "ㅅㅏㅅㅓㄹ 바카라방 회원 소개 혜택을 드립니다. 가입자를 추천하고 첫 입금을 진행해 주세요.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_79",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2940",
+      "is_violation": true,
+      "location": "li#v027e89d28219",
+      "evidence_text": "사설 슬롯 이용자를 위한 충전 창구입니다. 계정을 만들고 입금하면 바로 참여할 수 있습니다.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_80",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2835",
+      "is_violation": true,
+      "location": "blockquote#v80ddc4b5c123",
+      "evidence_text": "사설 슬롯 이용자를 위한 충전 창구입니다. 계정을 만들고 입금하면 바로 참여할 수 있습니다.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_81",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2443",
+      "is_violation": true,
+      "location": "div#vea8767f336fd",
+      "evidence_text": "ＣＡＳＩＮＯ · 사설 카지노 신규 회원을 모집합니다. 첫 입금에 추가 금액을 드리고 현금 환전을 지원합니다.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_82",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2443",
+      "is_violation": true,
+      "location": "div#vea8767f336fd",
+      "evidence_text": "ＣＡＳＩＮＯ · 사설 카지노 신규 회원을 모집합니다. 첫 입금에 추가 금액을 드리고 현금 환전을 지원합니다.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_83",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2429",
+      "is_violation": true,
+      "location": "div#v700cd809735a",
+      "evidence_text": "사설 스포츠 도박방 참여자를 찾습니다. 충전 후 원하는 경기에 베팅하고 배당금을 받으세요.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_84",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2429",
+      "is_violation": true,
+      "location": "div#v700cd809735a",
+      "evidence_text": "사설 스포츠 도박방 참여자를 찾습니다. 충전 후 원하는 경기에 베팅하고 배당금을 받으세요.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_85",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2793",
+      "is_violation": true,
+      "location": "a#v3e8076bc3910",
+      "evidence_text": "ㅂㅣㄱㅗㅇㄱㅐ 바카라 테이블이 열렸습니다. 가입비를 입금하면 즉시 게임에 참여할 수 있습니다.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_86",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2793",
+      "is_violation": true,
+      "location": "a#v3e8076bc3910",
+      "evidence_text": "ㅂㅣㄱㅗㅇㄱㅐ 바카라 테이블이 열렸습니다. 가입비를 입금하면 즉시 게임에 참여할 수 있습니다.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_87",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2758",
+      "is_violation": true,
+      "location": "div#v18ecf771c523",
+      "evidence_text": "B0NUS · 현금 환전이 되는 사설 슬롯을 소개합니다. 회원 등록 후 첫 충전을 진행해 주세요.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_88",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2758",
+      "is_violation": true,
+      "location": "div#v18ecf771c523",
+      "evidence_text": "B0NUS · 현금 환전이 되는 사설 슬롯을 소개합니다. 회원 등록 후 첫 충전을 진행해 주세요.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_89",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2919",
+      "is_violation": true,
+      "location": "div#v39e10e6d75f8",
+      "evidence_text": "ＣＡＳＩＮＯ · 온라인 사설 경마 이용 안내입니다. 지금 가입해서 경주에 돈을 걸어 보세요.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_90",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2919",
+      "is_violation": true,
+      "location": "div#v39e10e6d75f8",
+      "evidence_text": "ＣＡＳＩＮＯ · 온라인 사설 경마 이용 안내입니다. 지금 가입해서 경주에 돈을 걸어 보세요.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_91",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2632",
+      "is_violation": true,
+      "location": "a#vf690ee28147c",
+      "evidence_text": "사설 도박 사이트로 옮기실 분을 받습니다. 입금 내역을 보내면 가입 혜택을 적용합니다.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_92",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2632",
+      "is_violation": true,
+      "location": "a#vf690ee28147c",
+      "evidence_text": "사설 도박 사이트로 옮기실 분을 받습니다. 입금 내역을 보내면 가입 혜택을 적용합니다.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_93",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=3003",
+      "is_violation": true,
+      "location": "div#v9c881990084d",
+      "evidence_text": "CΑSINΟ · ㅅㅏㅅㅓㄹ ㅋㅏㅈㅣㄴㅗ ㅊㅜㅊㅓㄴ ㄱㅏㅇㅣㅂ ㅊㅏㅇㄱㅜㅇㅣㅂㄴㅣㄷㅏ. ㅎㅚㅇㅝㄴ ㄷㅡㅇㄹㅗㄱㅇㅡㄹ ㅁㅏㅊㅣㅁㅕㄴ ㅊㅜㅇㅈㅓㄴㄱㅡㅁ ㅇㅣㄹㅂㅜㄹㅡㄹ ㅊㅜㄱㅏ ㅈㅣㄱㅡㅂㅎㅏㅂㄴㅣㄷㅏ.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_94",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=3003",
+      "is_violation": true,
+      "location": "div#v9c881990084d",
+      "evidence_text": "CΑSINΟ · ㅅㅏㅅㅓㄹ ㅋㅏㅈㅣㄴㅗ ㅊㅜㅊㅓㄴ ㄱㅏㅇㅣㅂ ㅊㅏㅇㄱㅜㅇㅣㅂㄴㅣㄷㅏ. ㅎㅚㅇㅝㄴ ㄷㅡㅇㄹㅗㄱㅇㅡㄹ ㅁㅏㅊㅣㅁㅕㄴ ㅊㅜㅇㅈㅓㄴㄱㅡㅁ ㅇㅣㄹㅂㅜㄹㅡㄹ ㅊㅜㄱㅏ ㅈㅣㄱㅡㅂㅎㅏㅂㄴㅣㄷㅏ.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_95",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2597",
+      "is_violation": true,
+      "location": "li#vdbd95f8207ef",
+      "evidence_text": "스포츠 도박 배당표를 받아 보세요. 사설방 가입과 현금 충전을 마치면 참여 가능합니다.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_96",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2597",
+      "is_violation": true,
+      "location": "li#vdbd95f8207ef",
+      "evidence_text": "스포츠 도박 배당표를 받아 보세요. 사설방 가입과 현금 충전을 마치면 참여 가능합니다.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_97",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2737",
+      "is_violation": true,
+      "location": "p#ve97b6480b068",
+      "evidence_text": "ㅂㅣㄱㅗㅇㄱㅐ 사설 카드게임 이용자를 모집합니다. 참가금을 보내고 현금 배당에 도전하세요.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_98",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2737",
+      "is_violation": true,
+      "location": "p#ve97b6480b068",
+      "evidence_text": "ㅂㅣㄱㅗㅇㄱㅐ 사설 카드게임 이용자를 모집합니다. 참가금을 보내고 현금 배당에 도전하세요.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_99",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2681",
+      "is_violation": true,
+      "location": "h2#v59ea9d525f16",
+      "evidence_text": "ㅅㅏㅅㅓㄹ ㅅㅡㄹㄹㅗㅅ ㅊㅓㅅ ㅇㅣㅇㅛㅇ ㅎㅖㅌㅐㄱㅇㅣㅂㄴㅣㄷㅏ. ㄱㅏㅇㅣㅂ ㅎㅜ ㅊㅜㅇㅈㅓㄴㅎㅏㅁㅕㄴ ㅊㅜㄱㅏ ㅂㅔㅌㅣㅇ ㄱㅡㅁㅇㅐㄱㅇㅡㄹ ㅂㅏㄹㅗ ㄷㅡㄹㅣㅂㄴㅣㄷㅏ.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_100",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2681",
+      "is_violation": true,
+      "location": "h2#v59ea9d525f16",
+      "evidence_text": "ㅅㅏㅅㅓㄹ ㅅㅡㄹㄹㅗㅅ ㅊㅓㅅ ㅇㅣㅇㅛㅇ ㅎㅖㅌㅐㄱㅇㅣㅂㄴㅣㄷㅏ. ㄱㅏㅇㅣㅂ ㅎㅜ ㅊㅜㅇㅈㅓㄴㅎㅏㅁㅕㄴ ㅊㅜㄱㅏ ㅂㅔㅌㅣㅇ ㄱㅡㅁㅇㅐㄱㅇㅡㄹ ㅂㅏㄹㅗ ㄷㅡㄹㅣㅂㄴㅣㄷㅏ.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_101",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2695",
+      "is_violation": true,
+      "location": "a#v49d3e1aaf604",
+      "evidence_text": "퇴근 후 사설 카지노에서 한 판 어떠세요. 소액 입금으로 시작하고 당첨금은 현금으로 받으세요.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_102",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2695",
+      "is_violation": true,
+      "location": "a#v49d3e1aaf604",
+      "evidence_text": "퇴근 후 사설 카지노에서 한 판 어떠세요. 소액 입금으로 시작하고 당첨금은 현금으로 받으세요.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_103",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2688",
+      "is_violation": true,
+      "location": "span#v24a7e9844074",
+      "evidence_text": "B0NUS · 사설 경마방 자리가 조금 남았습니다. 회원 신청과 첫 충전을 마치면 자리 안내를 드립니다.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_104",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2688",
+      "is_violation": true,
+      "location": "span#v24a7e9844074",
+      "evidence_text": "B0NUS · 사설 경마방 자리가 조금 남았습니다. 회원 신청과 첫 충전을 마치면 자리 안내를 드립니다.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_105",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=3017",
+      "is_violation": true,
+      "location": "p#v4c8b74959a74",
+      "evidence_text": "ＣＡＳＩＮＯ · 기존 사설 베팅방보다 높은 배당을 드립니다. 새 계정으로 가입하고 충전해 보세요.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_106",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=3017",
+      "is_violation": true,
+      "location": "p#v4c8b74959a74",
+      "evidence_text": "ＣＡＳＩＮＯ · 기존 사설 베팅방보다 높은 배당을 드립니다. 새 계정으로 가입하고 충전해 보세요.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_107",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2870",
+      "is_violation": true,
+      "location": "li#vd92e8957558a",
+      "evidence_text": "오늘 밤 사설 바카라 참여자를 받습니다. 입장 전에 충전 금액을 확인해 주세요.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_108",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2870",
+      "is_violation": true,
+      "location": "li#vd92e8957558a",
+      "evidence_text": "오늘 밤 사설 바카라 참여자를 받습니다. 입장 전에 충전 금액을 확인해 주세요.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_109",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2408",
+      "is_violation": true,
+      "location": "div#ve3b1b262254e",
+      "evidence_text": "ㅅㅏㅅㅓㄹ 카지노 가입 문의를 받고 있습니다. 입금 방법과 즉시 환전 절차를 안내해 드립니다.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_110",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2408",
+      "is_violation": true,
+      "location": "div#ve3b1b262254e",
+      "evidence_text": "ㅅㅏㅅㅓㄹ 카지노 가입 문의를 받고 있습니다. 입금 방법과 즉시 환전 절차를 안내해 드립니다.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_111",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2835",
+      "is_violation": true,
+      "location": "blockquote#vb1258de6b69a",
+      "evidence_text": "B0NUS · ㅂㅣㄱㅗㅇㄱㅐ ㅅㅡㄹㄹㅗㅅㅂㅏㅇㅇㅔ ㅊㅗㄷㅐㅎㅏㅂㄴㅣㄷㅏ. ㅎㅕㄴㄱㅡㅁㅇㅡㄹ ㅊㅜㅇㅈㅓㄴㅎㅏㄱㅗ ㄱㅔㅇㅣㅁ ㅅㅜㅇㅣㄱㅇㅡㄹ ㄱㅖㅈㅘㄹㅗ ㅂㅏㄷㅇㅏ ㄱㅏㅅㅔㅇㅛ.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_112",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2835",
+      "is_violation": true,
+      "location": "blockquote#vb1258de6b69a",
+      "evidence_text": "B0NUS · ㅂㅣㄱㅗㅇㄱㅐ ㅅㅡㄹㄹㅗㅅㅂㅏㅇㅇㅔ ㅊㅗㄷㅐㅎㅏㅂㄴㅣㄷㅏ. ㅎㅕㄴㄱㅡㅁㅇㅡㄹ ㅊㅜㅇㅈㅓㄴㅎㅏㄱㅗ ㄱㅔㅇㅣㅁ ㅅㅜㅇㅣㄱㅇㅡㄹ ㄱㅖㅈㅘㄹㅗ ㅂㅏㄷㅇㅏ ㄱㅏㅅㅔㅇㅛ.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_113",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2856",
+      "is_violation": true,
+      "location": "h2#ve20b7f91d0ba",
+      "evidence_text": "사설 스포츠 도박 신규 가입 혜택이 오늘 끝납니다. 첫 입금 후 추천 코드를 등록하세요.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_114",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2856",
+      "is_violation": true,
+      "location": "h2#ve20b7f91d0ba",
+      "evidence_text": "사설 스포츠 도박 신규 가입 혜택이 오늘 끝납니다. 첫 입금 후 추천 코드를 등록하세요.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_115",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2709",
+      "is_violation": true,
+      "location": "div#ve46681897837",
+      "evidence_text": "cаsinо · ㅅㅏㅅㅓㄹ 경마 추천 회원에게 충전 혜택을 드립니다. 지금 회원 가입을 진행해 주세요.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_116",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2709",
+      "is_violation": true,
+      "location": "div#ve46681897837",
+      "evidence_text": "cаsinо · ㅅㅏㅅㅓㄹ 경마 추천 회원에게 충전 혜택을 드립니다. 지금 회원 가입을 진행해 주세요.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_117",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2975",
+      "is_violation": true,
+      "location": "blockquote#v27b0422be53c",
+      "evidence_text": "ㅎㅕㄴㄱㅡㅁ ㅂㅐㄷㅏㅇ ㅅㅏㅅㅓㄹ ㅋㅏㄷㅡㅂㅏㅇㅇㅡㄹ ㅎㅏㅁㄲㅔ ㅇㅣㅇㅛㅇㅎㅏㄹ ㅂㅜㄴㅇㅡㄹ ㅊㅏㅈㅅㅡㅂㄴㅣㄷㅏ. ㄷㅡㅇㄹㅗㄱ ㅎㅜ ㅊㅏㅁㄱㅏㄱㅡㅁㅇㅡㄹ ㅊㅜㅇㅈㅓㄴㅎㅏㅅㅔㅇㅛ.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_118",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2975",
+      "is_violation": true,
+      "location": "blockquote#v27b0422be53c",
+      "evidence_text": "ㅎㅕㄴㄱㅡㅁ ㅂㅐㄷㅏㅇ ㅅㅏㅅㅓㄹ ㅋㅏㄷㅡㅂㅏㅇㅇㅡㄹ ㅎㅏㅁㄲㅔ ㅇㅣㅇㅛㅇㅎㅏㄹ ㅂㅜㄴㅇㅡㄹ ㅊㅏㅈㅅㅡㅂㄴㅣㄷㅏ. ㄷㅡㅇㄹㅗㄱ ㅎㅜ ㅊㅏㅁㄱㅏㄱㅡㅁㅇㅡㄹ ㅊㅜㅇㅈㅓㄴㅎㅏㅅㅔㅇㅛ.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_119",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2807",
+      "is_violation": true,
+      "location": "h2#v5dca236eae97",
+      "evidence_text": "B0NUS · 사설 카지노 이용 방법이 궁금하면 가입부터 해 주세요. 충전과 환전은 회원에게 안내합니다.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_120",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2807",
+      "is_violation": true,
+      "location": "h2#v5dca236eae97",
+      "evidence_text": "B0NUS · 사설 카지노 이용 방법이 궁금하면 가입부터 해 주세요. 충전과 환전은 회원에게 안내합니다.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_121",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2940",
+      "is_violation": true,
+      "location": "dd#v44df4c133c84",
+      "evidence_text": "ㅂㅜㄹㅂㅓㅂ 촬영물 공유방 유료 회원을 받습니다. 가입비 결제 후 비공개 자료를 이용하세요.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_122",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2940",
+      "is_violation": true,
+      "location": "dd#v44df4c133c84",
+      "evidence_text": "ㅂㅜㄹㅂㅓㅂ 촬영물 공유방 유료 회원을 받습니다. 가입비 결제 후 비공개 자료를 이용하세요.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_123",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2499",
+      "is_violation": true,
+      "location": "p#vc1603fd976d1",
+      "evidence_text": "cаsinо · 불법 성인영상 공유관 신규 가입을 모집합니다. 결제하면 자료실을 열어 드립니다.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_124",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2499",
+      "is_violation": true,
+      "location": "p#vc1603fd976d1",
+      "evidence_text": "cаsinо · 불법 성인영상 공유관 신규 가입을 모집합니다. 결제하면 자료실을 열어 드립니다.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_125",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2940",
+      "is_violation": true,
+      "location": "a#v05b3f88adc6d",
+      "evidence_text": "CΑSINΟ · 불법 촬영 영상 비공개 목록을 제공합니다. 유료 회원 등록과 결제를 진행해 주세요.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_126",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2940",
+      "is_violation": true,
+      "location": "a#v05b3f88adc6d",
+      "evidence_text": "CΑSINΟ · 불법 촬영 영상 비공개 목록을 제공합니다. 유료 회원 등록과 결제를 진행해 주세요.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_127",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2807",
+      "is_violation": true,
+      "location": "p#v0013b3b675c7",
+      "evidence_text": "B0NUS · 불법 성인물 공유방 입장권 판매 안내입니다. 입금 확인 후 열람 권한을 드립니다.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_128",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2807",
+      "is_violation": true,
+      "location": "p#v0013b3b675c7",
+      "evidence_text": "B0NUS · 불법 성인물 공유방 입장권 판매 안내입니다. 입금 확인 후 열람 권한을 드립니다.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_129",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2744",
+      "is_violation": true,
+      "location": "span#vb6e9e55cccf1",
+      "evidence_text": "ㅂㅜㄹㅂㅓㅂ ㅊㅘㄹㅇㅕㅇㅁㅜㄹ ㅈㅏㄹㅛㅅㅣㄹㅇㅡㄹ ㅇㅣㅇㅛㅇㅎㅏㄹ ㅎㅚㅇㅝㄴㅇㅡㄹ ㅊㅏㅈㅅㅡㅂㄴㅣㄷㅏ. ㄱㅏㅇㅣㅂ ㄱㅕㄹㅈㅔ ㅎㅜ ㅇㅝㄴㅎㅏㄴㅡㄴ ㅇㅕㅇㅅㅏㅇㅇㅡㄹ ㅅㅓㄴㅌㅐㄱㅎㅏㅅㅔㅇㅛ.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_130",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2744",
+      "is_violation": true,
+      "location": "span#vb6e9e55cccf1",
+      "evidence_text": "ㅂㅜㄹㅂㅓㅂ ㅊㅘㄹㅇㅕㅇㅁㅜㄹ ㅈㅏㄹㅛㅅㅣㄹㅇㅡㄹ ㅇㅣㅇㅛㅇㅎㅏㄹ ㅎㅚㅇㅝㄴㅇㅡㄹ ㅊㅏㅈㅅㅡㅂㄴㅣㄷㅏ. ㄱㅏㅇㅣㅂ ㄱㅕㄹㅈㅔ ㅎㅜ ㅇㅝㄴㅎㅏㄴㅡㄴ ㅇㅕㅇㅅㅏㅇㅇㅡㄹ ㅅㅓㄴㅌㅐㄱㅎㅏㅅㅔㅇㅛ.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_131",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2583",
+      "is_violation": true,
+      "location": "div#v754fb25f62bf",
+      "evidence_text": "신규 사설 도박방 운영 안내를 남깁니다. 회원 가입 후 충전하면 입금 혜택을 받을 수 있습니다.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_132",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2583",
+      "is_violation": true,
+      "location": "div#v754fb25f62bf",
+      "evidence_text": "신규 사설 도박방 운영 안내를 남깁니다. 회원 가입 후 충전하면 입금 혜택을 받을 수 있습니다.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_133",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2674",
+      "is_violation": true,
+      "location": "div#v7ff1c0138160",
+      "evidence_text": "CΑSINΟ · ㅅㅏㅅㅓㄹ 슬롯 이용 후기와 함께 가입을 권합니다. 첫 충전 금액에 추가 혜택을 드립니다.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_134",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2674",
+      "is_violation": true,
+      "location": "div#v7ff1c0138160",
+      "evidence_text": "CΑSINΟ · ㅅㅏㅅㅓㄹ 슬롯 이용 후기와 함께 가입을 권합니다. 첫 충전 금액에 추가 혜택을 드립니다.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_135",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=3010",
+      "is_violation": true,
+      "location": "h3#v1004f83252de",
+      "evidence_text": "B0NUS · 사설 카지노 접속 안내를 받아 보세요. 가입과 현금 입금 후 바로 게임을 시작할 수 있습니다.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_136",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=3010",
+      "is_violation": true,
+      "location": "h3#v1004f83252de",
+      "evidence_text": "B0NUS · 사설 카지노 접속 안내를 받아 보세요. 가입과 현금 입금 후 바로 게임을 시작할 수 있습니다.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_137",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2457",
+      "is_violation": true,
+      "location": "p#vc72d53291927",
+      "evidence_text": "사설 스포츠 베팅방 공동 참여 안내입니다. 충전금을 넣고 배당금을 함께 노려 보세요.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_138",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2457",
+      "is_violation": true,
+      "location": "p#vc72d53291927",
+      "evidence_text": "사설 스포츠 베팅방 공동 참여 안내입니다. 충전금을 넣고 배당금을 함께 노려 보세요.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_139",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2408",
+      "is_violation": true,
+      "location": "div#v5beace18e1c3",
+      "evidence_text": "cаsinо · 사설 바카라 회원 전용 이벤트입니다. 신규 가입자가 입금하면 추가 게임 금액을 드립니다.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_140",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2408",
+      "is_violation": true,
+      "location": "div#v5beace18e1c3",
+      "evidence_text": "cаsinо · 사설 바카라 회원 전용 이벤트입니다. 신규 가입자가 입금하면 추가 게임 금액을 드립니다.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_141",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2415",
+      "is_violation": true,
+      "location": "blockquote#vf946fa8cbe65",
+      "evidence_text": "CΑSINΟ · 관련 안내를 덧붙입니다. 사설 카지노에서 현금 게임을 하려면 가입 후 충전해 주세요.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_142",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2415",
+      "is_violation": true,
+      "location": "blockquote#vf946fa8cbe65",
+      "evidence_text": "CΑSINΟ · 관련 안내를 덧붙입니다. 사설 카지노에서 현금 게임을 하려면 가입 후 충전해 주세요.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_143",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2436",
+      "is_violation": true,
+      "location": "span#v46a7cebdb2de",
+      "evidence_text": "B0NUS · 게시판을 보신 분께 사설 경마방을 소개합니다. 회원 등록과 첫 입금을 기다립니다.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_144",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2436",
+      "is_violation": true,
+      "location": "span#v46a7cebdb2de",
+      "evidence_text": "B0NUS · 게시판을 보신 분께 사설 경마방을 소개합니다. 회원 등록과 첫 입금을 기다립니다.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_145",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2821",
+      "is_violation": true,
+      "location": "a#v4d51ffec24ed",
+      "evidence_text": "ㅈㅏㅅㅔㅎㅏㄴ 내용은 사설 슬롯 회원방에서 안내합니다. 가입하고 게임 금액을 충전해 주세요.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_146",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2821",
+      "is_violation": true,
+      "location": "a#v4d51ffec24ed",
+      "evidence_text": "ㅈㅏㅅㅔㅎㅏㄴ 내용은 사설 슬롯 회원방에서 안내합니다. 가입하고 게임 금액을 충전해 주세요.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_147",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2604",
+      "is_violation": true,
+      "location": "p#vf473b85f056b",
+      "evidence_text": "ㅇㅏㄹㅐ ㅇㅏㄴㄴㅐㄹㅡㄹ ㅌㅗㅇㅎㅐ ㅅㅏㅅㅓㄹ ㄷㅗㅂㅏㄱㅂㅏㅇㅇㅔ ㄱㅏㅇㅣㅂㅎㅏㅅㅔㅇㅛ. ㅊㅜㅊㅓㄴ ㅎㅚㅇㅝㄴㅇㅔㄱㅔ ㅊㅜㅇㅈㅓㄴ ㅂㅗㄴㅓㅅㅡㄹㅡㄹ ㅈㅣㄱㅡㅂㅎㅏㅂㄴㅣㄷㅏ.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_148",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2604",
+      "is_violation": true,
+      "location": "p#vf473b85f056b",
+      "evidence_text": "ㅇㅏㄹㅐ ㅇㅏㄴㄴㅐㄹㅡㄹ ㅌㅗㅇㅎㅐ ㅅㅏㅅㅓㄹ ㄷㅗㅂㅏㄱㅂㅏㅇㅇㅔ ㄱㅏㅇㅣㅂㅎㅏㅅㅔㅇㅛ. ㅊㅜㅊㅓㄴ ㅎㅚㅇㅝㄴㅇㅔㄱㅔ ㅊㅜㅇㅈㅓㄴ ㅂㅗㄴㅓㅅㅡㄹㅡㄹ ㅈㅣㄱㅡㅂㅎㅏㅂㄴㅣㄷㅏ.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_149",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2611",
+      "is_violation": true,
+      "location": "p#v1f69f959a692",
+      "evidence_text": "CΑSINΟ · 사설 카지노 결제 안내를 확인하세요. 가입 계정으로 입금하면 현금 게임 참여가 가능합니다.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_150",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2611",
+      "is_violation": true,
+      "location": "p#v1f69f959a692",
+      "evidence_text": "CΑSINΟ · 사설 카지노 결제 안내를 확인하세요. 가입 계정으로 입금하면 현금 게임 참여가 가능합니다.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_151",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2632",
+      "is_violation": true,
+      "location": "p#v6ba874d17878",
+      "evidence_text": "B0NUS · ㅇㅣㅂㅓㄴ 주 사설 경마 신규 회원을 모집합니다. 배당금 환전을 받으려면 가입과 입금을 마치세요.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_152",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2632",
+      "is_violation": true,
+      "location": "p#v6ba874d17878",
+      "evidence_text": "B0NUS · ㅇㅣㅂㅓㄴ 주 사설 경마 신규 회원을 모집합니다. 배당금 환전을 받으려면 가입과 입금을 마치세요.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_153",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2429",
+      "is_violation": true,
+      "location": "div#v539ac1ed4a97",
+      "evidence_text": "비공개 불법 성인물 공유관 이용 안내를 드립니다. 회원 등록 후 결제하면 입장할 수 있습니다.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_154",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2429",
+      "is_violation": true,
+      "location": "div#v539ac1ed4a97",
+      "evidence_text": "비공개 불법 성인물 공유관 이용 안내를 드립니다. 회원 등록 후 결제하면 입장할 수 있습니다.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_155",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2898",
+      "is_violation": true,
+      "location": "h1#v89d341eb718f",
+      "evidence_text": "사설 도박방 가입 신청서를 확인해 주세요. 첫 충전을 마치면 추가 베팅 금액이 적립됩니다.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_156",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2898",
+      "is_violation": true,
+      "location": "h1#v89d341eb718f",
+      "evidence_text": "사설 도박방 가입 신청서를 확인해 주세요. 첫 충전을 마치면 추가 베팅 금액이 적립됩니다.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_157",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2982",
+      "is_violation": true,
+      "location": "h2#v045d1cbf7efa",
+      "evidence_text": "ㅅㅏㅅㅓㄹ 바카라방 회원 소개 혜택을 드립니다. 가입자를 추천하고 첫 입금을 진행해 주세요.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_158",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2982",
+      "is_violation": true,
+      "location": "h2#v045d1cbf7efa",
+      "evidence_text": "ㅅㅏㅅㅓㄹ 바카라방 회원 소개 혜택을 드립니다. 가입자를 추천하고 첫 입금을 진행해 주세요.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_159",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2485",
+      "is_violation": true,
+      "location": "blockquote#v893b519a85e2",
+      "evidence_text": "B0NUS · 사설 슬롯 이용자를 위한 충전 창구입니다. 계정을 만들고 입금하면 바로 참여할 수 있습니다.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_160",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2485",
+      "is_violation": true,
+      "location": "blockquote#v893b519a85e2",
+      "evidence_text": "B0NUS · 사설 슬롯 이용자를 위한 충전 창구입니다. 계정을 만들고 입금하면 바로 참여할 수 있습니다.",
+      "technique": "TRANSPARENT"
+    }
+  ]
+}
