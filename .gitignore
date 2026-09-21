@@ -7,7 +7,6 @@ backend/target/
 **/.env.*
 !**/.env.example
 Key/
-agent-experiments/outputs/
 local-benchmark/artifacts/
 **/graphify-out/
 *.log

@@ -1,7 +1,7 @@
 const {validateDecisions}=require('./llm.cjs');
-const VERSION='0.3.3-web.1';
-function outputResult(snapshot, decisions, startedAt, elapsed, provider, architecture) {
-  validateDecisions({ decisions }, snapshot.candidates, 'judge');
+const VERSION='0.3.3-web.2';
+function outputResult(snapshot, decisions, startedAt, elapsed, provider) {
+  validateDecisions({ decisions }, snapshot.candidates);
   const byId = new Map(snapshot.candidates.map(c => [c.node_id, c]));
   const findings = [], diagnostics = [], seen = new Set();
   for (const decision of decisions) {
@@ -21,7 +21,7 @@ function outputResult(snapshot, decisions, startedAt, elapsed, provider, archite
   }
   return { result: { meta: { topic: 'TOPIC', entry_url: snapshot.entry_url, started_at: startedAt,
     finished_at: new Date().toISOString(), elapsed_sec: elapsed,
-    tool_version: `${VERSION}/${architecture}/${provider === 'mock' ? 'MOCK-NOT-QWEN' : provider}` }, findings }, diagnostics };
+    tool_version: `${VERSION}/pipeline/${provider === 'mock' ? 'MOCK' : provider}` }, findings }, diagnostics };
 }
 
 module.exports={outputResult};
