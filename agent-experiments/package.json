@@ -1,8 +1,0 @@
-{
-  "name": "public-ad-agent-experiments",
-  "version": "0.1.0",
-  "private": true,
-  "engines": { "node": ">=22" },
-  "dependencies": { "playwright": "1.62.1" },
-  "scripts": { "test": "node test.cjs", "demo": "node run.cjs --architecture all --provider mock" }
-}
