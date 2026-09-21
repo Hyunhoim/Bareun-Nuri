@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "topic": "TOPIC",
+    "entry_url": "http://127.0.0.1:8765/eval/",
+    "started_at": "2026-09-21T10:00:00+09:00",
+    "finished_at": "2026-09-21T10:00:01+09:00",
+    "elapsed_sec": 1,
+    "tool_version": "oracle-for-scorer-self-test-only"
+  },
+  "findings": [
+    {
+      "id": "f_1",
+      "url": "http://127.0.0.1:8765/eval/board/view?board=free&id=2103",
+      "is_violation": true,
+      "location": "p#n9d8c6485b2",
+      "evidence_text": "bеt 신규 추천 회원 모집, 베팅 수익 현금 환전 당일 처리.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_2",
+      "url": "http://127.0.0.1:8765/eval/board/view?board=free&id=2114",
+      "is_violation": true,
+      "location": "p#nd2a76de57a",
+      "evidence_text": "ＢＥＴ 전용 가입창 오픈, 사설 스포츠 도박 충전 회원 혜택 지급.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_3",
+      "url": "http://127.0.0.1:8765/eval/board/view?board=free&id=2114",
+      "is_violation": true,
+      "location": "p#n1a85b41088",
+      "evidence_text": "불법 성인영상 공유방 회원 모집, 유료 가입 즉시 시청.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_4",
+      "url": "http://127.0.0.1:8765/eval/board/view?board=free&id=2125",
+      "is_violation": true,
+      "location": "p#na8f9e33aef",
+      "evidence_text": "사설 베팅 가입 이벤트, 지금 충전하면 현금 보너스 지급.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_5",
+      "url": "http://127.0.0.1:8765/eval/board/view?board=free&id=2125",
+      "is_violation": true,
+      "location": "p#na8f9e33aef",
+      "evidence_text": "사설 베팅 가입 이벤트, 지금 충전하면 현금 보너스 지급.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_6",
+      "url": "http://127.0.0.1:8765/eval/board/view?board=free&id=2125",
+      "is_violation": true,
+      "location": "p#n78e119bcda",
+      "evidence_text": "온라인 사설 경마 가입 접수, 배팅 충전금 추가 적립 이벤트.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_7",
+      "url": "http://127.0.0.1:8765/eval/board/view?board=free&id=2125",
+      "is_violation": true,
+      "location": "iframe[src=\"http://127.0.0.1:8765/eval/widget/comments?post=2125\"] >>> p#nebe0dfdee9",
+      "evidence_text": "바카라 사설 테이블 신규 가입, 첫 입금 환전 서비스 운영.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_8",
+      "url": "http://127.0.0.1:8765/eval/board/view?board=free&id=2136",
+      "is_violation": true,
+      "location": "p#n6aeb11fe4c",
+      "evidence_text": "불법 성인영상 공유관 신규 가입, 비공개 영상 결제 즉시 제공.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_9",
+      "url": "http://127.0.0.1:8765/eval/board/view?board=free&id=2136",
+      "is_violation": true,
+      "location": "p#n3497becc8c",
+      "evidence_text": "ㅅㅏㅅㅓㄹ ㄱㅕㅇㅁㅏ ㅂㅐㅌㅣㅇ ㅎㅚㅇㅝㄴ ㅁㅗㅈㅣㅂ, ㅊㅜㅇㅈㅓㄴㅎㅏㄱㅗ ㅂㅐㄷㅏㅇㄱㅡㅁ ㅂㅏㄷㅇㅏㄱㅏㅅㅔㅇㅛ.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_10",
+      "url": "http://127.0.0.1:8765/eval/board/view?board=free&id=2136",
+      "is_violation": true,
+      "location": "p#n0607eebeb6",
+      "evidence_text": "ㅂㅏㅋㅏㄹㅏ ㅈㅓㄴㅇㅛㅇㅂㅏㅇ ㄱㅏㅇㅣㅂ ㅎㅖㅌㅐㄱ, ㅊㅜㅇㅈㅓㄴ ㅎㅜ ㅎㅕㄴㄱㅡㅁ ㅎㅘㄴㅈㅓㄴㅎㅏㅅㅔㅇㅛ.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_11",
+      "url": "http://127.0.0.1:8765/eval/board/view?board=free&id=2147",
+      "is_violation": true,
+      "location": "p#nca99b141ac",
+      "evidence_text": "사설 바카라 입금 회원 혜택, 신규 충전하고 바로 게임하세요.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_12",
+      "url": "http://127.0.0.1:8765/eval/board/view?board=free&id=2147",
+      "is_violation": true,
+      "location": "p#n888b56d24e",
+      "evidence_text": "CΑSINΟ 비공개 룸 입장 안내, 첫 입금 추가 적립 후 게임 참여.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_13",
+      "url": "http://127.0.0.1:8765/eval/board/view?board=free&id=2158",
+      "is_violation": true,
+      "location": "p#nc86fdfcab9",
+      "evidence_text": "사설 경마 추천인 모집, 현금 충전 후 베팅하면 추가 지급.",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "id": "f_14",
+      "url": "http://127.0.0.1:8765/eval/board/view?board=free&id=2158",
+      "is_violation": true,
+      "location": "iframe[src=\"http://127.0.0.1:8765/eval/widget/comments?post=2158\"] >>> iframe[src=\"http://127.0.0.1:8765/eval/widget/thread?post=2158\"] >>> p#n7c30bc2b7b",
+      "evidence_text": "불법 성인영상 공유관 유료 회원 모집, 지금 결제하면 전용관 입장.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_15",
+      "url": "http://127.0.0.1:8765/eval/board/view?board=free&id=2169",
+      "is_violation": true,
+      "location": "p#n2f80bec7cc",
+      "evidence_text": "ㅂㅏㅋㅏㄹㅏ ㅅㅏㅅㅓㄹㅂㅏㅇ ㅇㅣㅂㄱㅡㅁ ㅎㅚㅇㅝㄴ ㅁㅗㅈㅣㅂ, ㄷㅏㅇㅇㅣㄹ ㅎㅘㄴㅈㅓㄴ ㄱㅏㄴㅡㅇ.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_16",
+      "url": "http://127.0.0.1:8765/eval/board/view?board=free&id=2169",
+      "is_violation": true,
+      "location": "p#n2f80bec7cc",
+      "evidence_text": "ㅂㅏㅋㅏㄹㅏ ㅅㅏㅅㅓㄹㅂㅏㅇ ㅇㅣㅂㄱㅡㅁ ㅎㅚㅇㅝㄴ ㅁㅗㅈㅣㅂ, ㄷㅏㅇㅇㅣㄹ ㅎㅘㄴㅈㅓㄴ ㄱㅏㄴㅡㅇ.",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "id": "f_17",
+      "url": "http://127.0.0.1:8765/eval/board/view?board=free&id=2180",
+      "is_violation": true,
+      "location": "p#n7b0e345cee",
+      "evidence_text": "bеt ㅅㅏㅅㅓㄹ ㄱㅕㅇㅁㅏ ㄱㅏㅇㅣㅂㅎㅏㅁㅕㄴ ㅊㅜㅇㅈㅓㄴ ㅂㅗㄴㅓㅅㅡ ㅈㅣㄱㅡㅂ.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_18",
+      "url": "http://127.0.0.1:8765/eval/board/view?board=free&id=2180",
+      "is_violation": true,
+      "location": "p#n7b0e345cee",
+      "evidence_text": "bеt ㅅㅏㅅㅓㄹ ㄱㅕㅇㅁㅏ ㄱㅏㅇㅣㅂㅎㅏㅁㅕㄴ ㅊㅜㅇㅈㅓㄴ ㅂㅗㄴㅓㅅㅡ ㅈㅣㄱㅡㅂ.",
+      "technique": "JAMO"
+    },
+    {
+      "id": "f_19",
+      "url": "http://127.0.0.1:8765/eval/board/view?board=free&id=2180",
+      "is_violation": true,
+      "location": "p#n06396b121d",
+      "evidence_text": "ＣＡＳＩＮＯ 유료 회원 전용, 입금 후 게임 참여하고 환전하세요.",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "id": "f_20",
+      "url": "http://127.0.0.1:8765/eval/board/view?board=free&id=2180",
+      "is_violation": true,
+      "location": "p#n06396b121d",
+      "evidence_text": "ＣＡＳＩＮＯ 유료 회원 전용, 입금 후 게임 참여하고 환전하세요.",
+      "technique": "OFFSCREEN"
+    }
+  ]
+}

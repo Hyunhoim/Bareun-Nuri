@@ -1,0 +1,885 @@
+{
+  "version": "1.0.0",
+  "synthetic": true,
+  "techniques": [
+    "HOMOGLYPH",
+    "JAMO",
+    "TRANSPARENT",
+    "OFFSCREEN"
+  ],
+  "splits": {
+    "dev": {
+      "entry": "/dev/",
+      "cases": [
+        {
+          "text": "시립 수영장 가을 강좌 접수 안내. 시민 누구나 정규 수강료로 신청할 수 있습니다.",
+          "techniques": [],
+          "visual": "",
+          "rationale": "정상 공공서비스 홍보",
+          "segmented": false,
+          "case_id": "dev-23",
+          "element_id": "n56f6982b25",
+          "category": "negative",
+          "page": "/dev/board/view?board=free&id=1041",
+          "frames": [],
+          "selector": "p#n56f6982b25",
+          "surface": "body"
+        },
+        {
+          "text": "예방 교육: ‘ＣＡＳＩＮＯ 첫 입금 보너스’라는 문구는 불법도박 유도 사례입니다. 가입하지 마세요.",
+          "techniques": [],
+          "visual": "",
+          "rationale": "교육용 인용. 실제 가입 유도 아님",
+          "segmented": false,
+          "case_id": "dev-19",
+          "element_id": "n8b1f228e6f",
+          "category": "negative",
+          "page": "/dev/board/view?board=free&id=1041",
+          "frames": [],
+          "selector": "p#n8b1f228e6f",
+          "surface": "comment"
+        },
+        {
+          "text": "ㅋㅏㅈㅣㄴㅗ ㄱㅏㅇㅣㅂㅎㅏㅁㅕㄴ ㅇㅣㅂㄱㅡㅁ ㅂㅗㄴㅓㅅㅡ ㅈㅣㄱㅡㅂ, ㅈㅡㄱㅅㅣ ㅎㅘㄴㅈㅓㄴ ㄱㅏㄴㅡㅇ.",
+          "techniques": [
+            "JAMO"
+          ],
+          "visual": "",
+          "rationale": "가입·입금 또는 유해 서비스 이용을 유도하는 합성 광고",
+          "segmented": false,
+          "case_id": "dev-04",
+          "element_id": "nbce91632c2",
+          "category": "single",
+          "page": "/dev/board/view?board=free&id=1041",
+          "frames": [],
+          "selector": "p#nbce91632c2",
+          "surface": "comment"
+        },
+        {
+          "text": "온라인 카지노 B0NUS 지급 중, 입금 후 추천 코드를 등록하세요.",
+          "techniques": [
+            "HOMOGLYPH"
+          ],
+          "visual": "",
+          "rationale": "가입·입금 또는 유해 서비스 이용을 유도하는 합성 광고",
+          "segmented": false,
+          "case_id": "dev-03",
+          "element_id": "n842ef6fabc",
+          "category": "single",
+          "page": "/dev/board/view?board=free&id=1048",
+          "frames": [],
+          "selector": "p#n842ef6fabc",
+          "surface": "body"
+        },
+        {
+          "text": "본문 바로가기 · 주메뉴 바로가기",
+          "techniques": [],
+          "visual": "font-one",
+          "rationale": "접근성 보조 문구. 광고 아님",
+          "segmented": false,
+          "case_id": "dev-17",
+          "element_id": "neac6b9ca6d",
+          "category": "negative",
+          "page": "/dev/board/view?board=free&id=1048",
+          "frames": [],
+          "selector": "p#neac6b9ca6d",
+          "surface": "comment"
+        },
+        {
+          "text": "cаsinо 전용방 입장 모집! 실시간 베팅과 즉시 환전 안내.",
+          "techniques": [
+            "HOMOGLYPH"
+          ],
+          "visual": "",
+          "rationale": "가입·입금 또는 유해 서비스 이용을 유도하는 합성 광고",
+          "segmented": false,
+          "case_id": "dev-02",
+          "element_id": "na32f8f6f3f",
+          "category": "single",
+          "page": "/dev/board/view?board=free&id=1048",
+          "frames": [],
+          "selector": "p#na32f8f6f3f",
+          "surface": "dynamic-comment"
+        },
+        {
+          "text": "ＣＡＳＩＮＯ 신규 가입 첫 입금 두 배 지급, 지금 참여하세요.",
+          "techniques": [
+            "HOMOGLYPH"
+          ],
+          "visual": "",
+          "rationale": "가입·입금 또는 유해 서비스 이용을 유도하는 합성 광고",
+          "segmented": false,
+          "case_id": "dev-01",
+          "element_id": "nd2c5e42368",
+          "category": "single",
+          "page": "/dev/board/view?board=free&id=1055",
+          "frames": [],
+          "selector": "p#nd2c5e42368",
+          "surface": "body"
+        },
+        {
+          "text": "사설 카지노 신규 회원 모집, 첫 입금 추가 지급과 현금 환전.",
+          "techniques": [
+            "TRANSPARENT"
+          ],
+          "visual": "opacity",
+          "rationale": "가입·입금 또는 유해 서비스 이용을 유도하는 합성 광고",
+          "segmented": false,
+          "case_id": "dev-07",
+          "element_id": "n67f2aa2376",
+          "category": "single",
+          "page": "/dev/board/view?board=free&id=1055",
+          "frames": [],
+          "selector": "p#n67f2aa2376",
+          "surface": "comment"
+        },
+        {
+          "text": "ㅅㅡㄹㄹㅗㅅ ㄱㅏㅇㅣㅂㅎㅏㅁㅕㄴ ㅊㅓㅅ ㅊㅜㅇㅈㅓㄴ ㄷㅜ ㅂㅐ, ㅎㅕㄴㄱㅡㅁ ㅎㅘㄴㅈㅓㄴ ㅈㅓㅂㅅㅜ.",
+          "techniques": [
+            "JAMO",
+            "OFFSCREEN"
+          ],
+          "visual": "display-parent",
+          "rationale": "가입·입금 또는 유해 서비스 이용을 유도하는 합성 광고",
+          "segmented": false,
+          "case_id": "dev-15",
+          "element_id": "n938cee67db",
+          "category": "composite",
+          "page": "/dev/board/view?board=free&id=1055",
+          "frames": [
+            "/dev/widget/comments?post=1055"
+          ],
+          "selector": "p#n938cee67db",
+          "surface": "iframe"
+        },
+        {
+          "text": "ㅌㅗㅌㅗ ㄱㅏㅇㅣㅂ ㅈㅓㄴㅇㅛㅇ ㅊㅏㅇㄱㅜ, ㅂㅐㅌㅣㅇㅎㅏㄱㅗ ㄷㅏㅇㅊㅓㅁㄱㅡㅁ ㅂㅏㄷㅇㅏㄱㅏㅅㅔㅇㅛ.",
+          "techniques": [
+            "JAMO"
+          ],
+          "visual": "",
+          "rationale": "가입·입금 또는 유해 서비스 이용을 유도하는 합성 광고",
+          "segmented": true,
+          "case_id": "dev-06",
+          "element_id": "n4b2d1a8d9a",
+          "category": "single",
+          "page": "/dev/board/view?board=free&id=1062",
+          "frames": [],
+          "selector": "p#n4b2d1a8d9a",
+          "surface": "body"
+        },
+        {
+          "text": "２０２６ 주민 문화행사 · Ａ동 안내데스크에서 신청서를 받습니다.",
+          "techniques": [],
+          "visual": "",
+          "rationale": "전각 문자 사용이지만 정상 행사 안내",
+          "segmented": false,
+          "case_id": "dev-24",
+          "element_id": "n8be905353e",
+          "category": "negative",
+          "page": "/dev/board/view?board=free&id=1062",
+          "frames": [],
+          "selector": "p#n8be905353e",
+          "surface": "comment"
+        },
+        {
+          "text": "불법 성인물 공유방 입장 회원 모집, 비공개 영상 결제 안내.",
+          "techniques": [
+            "OFFSCREEN"
+          ],
+          "visual": "left",
+          "rationale": "가입·입금 또는 유해 서비스 이용을 유도하는 합성 광고",
+          "segmented": false,
+          "case_id": "dev-11",
+          "element_id": "naacfbbb6fa",
+          "category": "single",
+          "page": "/dev/board/view?board=free&id=1062",
+          "frames": [],
+          "selector": "p#naacfbbb6fa",
+          "surface": "comment"
+        },
+        {
+          "text": "사설 스포츠베팅 회원 모집, 충전 즉시 추가 적립해 드립니다.",
+          "techniques": [
+            "OFFSCREEN"
+          ],
+          "visual": "font-zero",
+          "rationale": "가입·입금 또는 유해 서비스 이용을 유도하는 합성 광고",
+          "segmented": false,
+          "case_id": "dev-12",
+          "element_id": "na6e6efeaeb",
+          "category": "single",
+          "page": "/dev/board/view?board=free&id=1069",
+          "frames": [],
+          "selector": "p#na6e6efeaeb",
+          "surface": "body"
+        },
+        {
+          "text": "전체 메뉴 닫기 및 검색 도움말",
+          "techniques": [],
+          "visual": "opacity",
+          "rationale": "메뉴 상태 안내. 광고 아님",
+          "segmented": false,
+          "case_id": "dev-18",
+          "element_id": "n33ce6bbc0f",
+          "category": "negative",
+          "page": "/dev/board/view?board=free&id=1069",
+          "frames": [],
+          "selector": "p#n33ce6bbc0f",
+          "surface": "comment"
+        },
+        {
+          "text": "이전 교육자료: ‘첫충 100%, 즉시 환전’은 사기성 광고 예시입니다. 입금 금지.",
+          "techniques": [],
+          "visual": "display",
+          "rationale": "접힌 교육자료의 광고 인용",
+          "segmented": false,
+          "case_id": "dev-22",
+          "element_id": "n066fbf2e9f",
+          "category": "negative",
+          "page": "/dev/board/view?board=free&id=1069",
+          "frames": [],
+          "selector": "p#n066fbf2e9f",
+          "surface": "comment"
+        },
+        {
+          "text": "슬롯 신규 가입하고 첫충 보너스 받기, 바로 환전 가능합니다.",
+          "techniques": [
+            "OFFSCREEN"
+          ],
+          "visual": "display",
+          "rationale": "가입·입금 또는 유해 서비스 이용을 유도하는 합성 광고",
+          "segmented": false,
+          "case_id": "dev-10",
+          "element_id": "n4bd29ceb0a",
+          "category": "single",
+          "page": "/dev/board/view?board=free&id=1076",
+          "frames": [],
+          "selector": "p#n4bd29ceb0a",
+          "surface": "body"
+        },
+        {
+          "text": "문자 우회 사례인 ‘ㅋㅏㅈㅣㄴㅗ’를 발견하면 신고하고 접속하지 마세요.",
+          "techniques": [],
+          "visual": "",
+          "rationale": "자모 분해 표현을 설명하는 예방 안내",
+          "segmented": false,
+          "case_id": "dev-20",
+          "element_id": "n87cba35c06",
+          "category": "negative",
+          "page": "/dev/board/view?board=free&id=1076",
+          "frames": [],
+          "selector": "p#n87cba35c06",
+          "surface": "comment"
+        },
+        {
+          "text": "ＣＡＳＩＮＯ ㅋㅏㅈㅣㄴㅗ ㄱㅏㅇㅣㅂ ㅅㅣ ㅇㅣㅂㄱㅡㅁ ㅂㅗㄴㅓㅅㅡ ㅈㅣㄱㅡㅂ.",
+          "techniques": [
+            "HOMOGLYPH",
+            "JAMO"
+          ],
+          "visual": "",
+          "rationale": "가입·입금 또는 유해 서비스 이용을 유도하는 합성 광고",
+          "segmented": false,
+          "case_id": "dev-13",
+          "element_id": "n7436bdf93c",
+          "category": "composite",
+          "page": "/dev/board/view?board=free&id=1076",
+          "frames": [
+            "/dev/widget/comments?post=1076",
+            "/dev/widget/thread?post=1076"
+          ],
+          "selector": "p#n7436bdf93c",
+          "surface": "nested-iframe"
+        },
+        {
+          "text": "슬롯 회원 모집, 첫 충전 혜택과 현금 환전 제공.",
+          "techniques": [
+            "JAMO"
+          ],
+          "visual": "",
+          "rationale": "가입·입금 또는 유해 서비스 이용을 유도하는 합성 광고",
+          "segmented": false,
+          "case_id": "dev-05",
+          "element_id": "n931982250f",
+          "category": "single",
+          "page": "/dev/board/view?board=free&id=1083",
+          "frames": [],
+          "selector": "p#n931982250f",
+          "surface": "body"
+        },
+        {
+          "text": "ｍｅｇａ－ＢＥＴ 첫충 혜택, 사설 베팅방 회원 즉시 모집.",
+          "techniques": [
+            "HOMOGLYPH",
+            "TRANSPARENT"
+          ],
+          "visual": "opacity-parent",
+          "rationale": "가입·입금 또는 유해 서비스 이용을 유도하는 합성 광고",
+          "segmented": false,
+          "case_id": "dev-14",
+          "element_id": "n156d1dd85f",
+          "category": "composite",
+          "page": "/dev/board/view?board=free&id=1083",
+          "frames": [],
+          "selector": "p#n156d1dd85f",
+          "surface": "comment"
+        },
+        {
+          "text": "사설 카지노 충전 회원 모집, 배팅 후 현금으로 환전하세요.",
+          "techniques": [
+            "TRANSPARENT",
+            "OFFSCREEN"
+          ],
+          "visual": "opacity-left",
+          "rationale": "가입·입금 또는 유해 서비스 이용을 유도하는 합성 광고",
+          "segmented": false,
+          "case_id": "dev-16",
+          "element_id": "neb2d2306f0",
+          "category": "composite",
+          "page": "/dev/board/view?board=free&id=1083",
+          "frames": [],
+          "selector": "p#neb2d2306f0",
+          "surface": "dynamic-comment"
+        },
+        {
+          "text": "불법 성인영상 공유관 가입 안내, 유료 비공개 영상 무제한 이용.",
+          "techniques": [
+            "TRANSPARENT"
+          ],
+          "visual": "transparent",
+          "rationale": "가입·입금 또는 유해 서비스 이용을 유도하는 합성 광고",
+          "segmented": false,
+          "case_id": "dev-08",
+          "element_id": "nab98c8ff97",
+          "category": "single",
+          "page": "/dev/board/view?board=free&id=1090",
+          "frames": [],
+          "selector": "p#nab98c8ff97",
+          "surface": "body"
+        },
+        {
+          "text": "화면 읽기 안내: 불법도박 예방 교육은 무료이며 카지노 가입을 권유하지 않습니다.",
+          "techniques": [],
+          "visual": "transparent-parent",
+          "rationale": "보조 안내 문구. 은닉돼 있어도 광고 아님",
+          "segmented": false,
+          "case_id": "dev-21",
+          "element_id": "ncff50fec76",
+          "category": "negative",
+          "page": "/dev/board/view?board=free&id=1090",
+          "frames": [],
+          "selector": "p#ncff50fec76",
+          "surface": "comment"
+        },
+        {
+          "text": "사설 토토 충전 이벤트, 추천 가입 후 베팅을 시작하세요.",
+          "techniques": [
+            "TRANSPARENT"
+          ],
+          "visual": "same-color",
+          "rationale": "가입·입금 또는 유해 서비스 이용을 유도하는 합성 광고",
+          "segmented": false,
+          "case_id": "dev-09",
+          "element_id": "na7227d8256",
+          "category": "single",
+          "page": "/dev/board/view?board=free&id=1090",
+          "frames": [],
+          "selector": "p#na7227d8256",
+          "surface": "comment"
+        }
+      ],
+      "pages": [
+        {
+          "path": "/dev/board/view?board=free&id=1041",
+          "title": "생활체육 프로그램 운영에 관한 의견",
+          "post_id": 1041
+        },
+        {
+          "path": "/dev/board/view?board=free&id=1048",
+          "title": "도서관 야간 개방 안내",
+          "post_id": 1048
+        },
+        {
+          "path": "/dev/board/view?board=free&id=1055",
+          "title": "마을 산책로 정비 요청",
+          "post_id": 1055
+        },
+        {
+          "path": "/dev/board/view?board=free&id=1062",
+          "title": "가을 문화행사 참여 후기",
+          "post_id": 1062
+        },
+        {
+          "path": "/dev/board/view?board=free&id=1069",
+          "title": "시민 안전교육 자료 공유",
+          "post_id": 1069
+        },
+        {
+          "path": "/dev/board/view?board=free&id=1076",
+          "title": "주민센터 이용 문의",
+          "post_id": 1076
+        },
+        {
+          "path": "/dev/board/view?board=free&id=1083",
+          "title": "공원 시설 개선 제안",
+          "post_id": 1083
+        },
+        {
+          "path": "/dev/board/view?board=free&id=1090",
+          "title": "주말 행사 교통 안내",
+          "post_id": 1090
+        }
+      ],
+      "counts": {
+        "cases": 24,
+        "positive_elements": 16,
+        "negative_elements": 8,
+        "findings": 20,
+        "per_technique": {
+          "JAMO": 5,
+          "HOMOGLYPH": 5,
+          "TRANSPARENT": 5,
+          "OFFSCREEN": 5
+        }
+      }
+    },
+    "eval": {
+      "entry": "/eval/",
+      "cases": [
+        {
+          "text": "댓글 목록으로 이동 · 읽지 않은 답변 안내",
+          "techniques": [],
+          "visual": "left",
+          "rationale": "화면 읽기 보조 문구. 광고 아님",
+          "segmented": false,
+          "case_id": "eval-17",
+          "element_id": "n9a2106cdea",
+          "category": "negative",
+          "page": "/eval/board/view?board=free&id=2103",
+          "frames": [],
+          "selector": "p#n9a2106cdea",
+          "surface": "body"
+        },
+        {
+          "text": "bеt 신규 추천 회원 모집, 베팅 수익 현금 환전 당일 처리.",
+          "techniques": [
+            "HOMOGLYPH"
+          ],
+          "visual": "",
+          "rationale": "가입·입금 또는 유해 서비스 이용을 유도하는 합성 광고",
+          "segmented": false,
+          "case_id": "eval-02",
+          "element_id": "n9d8c6485b2",
+          "category": "single",
+          "page": "/eval/board/view?board=free&id=2103",
+          "frames": [],
+          "selector": "p#n9d8c6485b2",
+          "surface": "comment"
+        },
+        {
+          "text": "국어 체험교실에서 ‘ㅂㅏㄷㅏ’를 음절로 조합하는 활동을 진행합니다.",
+          "techniques": [],
+          "visual": "",
+          "rationale": "정상 자모 학습 자료",
+          "segmented": false,
+          "case_id": "eval-20",
+          "element_id": "n188f20d26f",
+          "category": "negative",
+          "page": "/eval/board/view?board=free&id=2103",
+          "frames": [],
+          "selector": "p#n188f20d26f",
+          "surface": "comment"
+        },
+        {
+          "text": "ＢＥＴ 전용 가입창 오픈, 사설 스포츠 도박 충전 회원 혜택 지급.",
+          "techniques": [
+            "HOMOGLYPH"
+          ],
+          "visual": "",
+          "rationale": "가입·입금 또는 유해 서비스 이용을 유도하는 합성 광고",
+          "segmented": false,
+          "case_id": "eval-01",
+          "element_id": "nd2a76de57a",
+          "category": "single",
+          "page": "/eval/board/view?board=free&id=2114",
+          "frames": [],
+          "selector": "p#nd2a76de57a",
+          "surface": "body"
+        },
+        {
+          "text": "불법 성인영상 공유방 회원 모집, 유료 가입 즉시 시청.",
+          "techniques": [
+            "OFFSCREEN"
+          ],
+          "visual": "font-one",
+          "rationale": "가입·입금 또는 유해 서비스 이용을 유도하는 합성 광고",
+          "segmented": false,
+          "case_id": "eval-11",
+          "element_id": "n1a85b41088",
+          "category": "single",
+          "page": "/eval/board/view?board=free&id=2114",
+          "frames": [],
+          "selector": "p#n1a85b41088",
+          "surface": "comment"
+        },
+        {
+          "text": "안내: 성인영상 유료 가입을 권하는 댓글은 신고 대상입니다. 결제하지 마세요.",
+          "techniques": [],
+          "visual": "same-color",
+          "rationale": "신고 절차 안내. 유해 서비스 판매 아님",
+          "segmented": false,
+          "case_id": "eval-21",
+          "element_id": "n8ddc5ef746",
+          "category": "negative",
+          "page": "/eval/board/view?board=free&id=2114",
+          "frames": [],
+          "selector": "p#n8ddc5ef746",
+          "surface": "dynamic-comment"
+        },
+        {
+          "text": "사설 베팅 가입 이벤트, 지금 충전하면 현금 보너스 지급.",
+          "techniques": [
+            "TRANSPARENT",
+            "OFFSCREEN"
+          ],
+          "visual": "transparent-font",
+          "rationale": "가입·입금 또는 유해 서비스 이용을 유도하는 합성 광고",
+          "segmented": false,
+          "case_id": "eval-16",
+          "element_id": "na8f9e33aef",
+          "category": "composite",
+          "page": "/eval/board/view?board=free&id=2125",
+          "frames": [],
+          "selector": "p#na8f9e33aef",
+          "surface": "body"
+        },
+        {
+          "text": "온라인 사설 경마 가입 접수, 배팅 충전금 추가 적립 이벤트.",
+          "techniques": [
+            "TRANSPARENT"
+          ],
+          "visual": "opacity-parent",
+          "rationale": "가입·입금 또는 유해 서비스 이용을 유도하는 합성 광고",
+          "segmented": false,
+          "case_id": "eval-07",
+          "element_id": "n78e119bcda",
+          "category": "single",
+          "page": "/eval/board/view?board=free&id=2125",
+          "frames": [],
+          "selector": "p#n78e119bcda",
+          "surface": "comment"
+        },
+        {
+          "text": "바카라 사설 테이블 신규 가입, 첫 입금 환전 서비스 운영.",
+          "techniques": [
+            "OFFSCREEN"
+          ],
+          "visual": "top",
+          "rationale": "가입·입금 또는 유해 서비스 이용을 유도하는 합성 광고",
+          "segmented": false,
+          "case_id": "eval-12",
+          "element_id": "nebe0dfdee9",
+          "category": "single",
+          "page": "/eval/board/view?board=free&id=2125",
+          "frames": [
+            "/eval/widget/comments?post=2125"
+          ],
+          "selector": "p#nebe0dfdee9",
+          "surface": "iframe"
+        },
+        {
+          "text": "불법 성인영상 공유관 신규 가입, 비공개 영상 결제 즉시 제공.",
+          "techniques": [
+            "JAMO"
+          ],
+          "visual": "",
+          "rationale": "가입·입금 또는 유해 서비스 이용을 유도하는 합성 광고",
+          "segmented": false,
+          "case_id": "eval-05",
+          "element_id": "n6aeb11fe4c",
+          "category": "single",
+          "page": "/eval/board/view?board=free&id=2136",
+          "frames": [],
+          "selector": "p#n6aeb11fe4c",
+          "surface": "body"
+        },
+        {
+          "text": "ㅅㅏㅅㅓㄹ ㄱㅕㅇㅁㅏ ㅂㅐㅌㅣㅇ ㅎㅚㅇㅝㄴ ㅁㅗㅈㅣㅂ, ㅊㅜㅇㅈㅓㄴㅎㅏㄱㅗ ㅂㅐㄷㅏㅇㄱㅡㅁ ㅂㅏㄷㅇㅏㄱㅏㅅㅔㅇㅛ.",
+          "techniques": [
+            "JAMO"
+          ],
+          "visual": "",
+          "rationale": "가입·입금 또는 유해 서비스 이용을 유도하는 합성 광고",
+          "segmented": false,
+          "case_id": "eval-04",
+          "element_id": "n3497becc8c",
+          "category": "single",
+          "page": "/eval/board/view?board=free&id=2136",
+          "frames": [],
+          "selector": "p#n3497becc8c",
+          "surface": "comment"
+        },
+        {
+          "text": "ㅂㅏㅋㅏㄹㅏ ㅈㅓㄴㅇㅛㅇㅂㅏㅇ ㄱㅏㅇㅣㅂ ㅎㅖㅌㅐㄱ, ㅊㅜㅇㅈㅓㄴ ㅎㅜ ㅎㅕㄴㄱㅡㅁ ㅎㅘㄴㅈㅓㄴㅎㅏㅅㅔㅇㅛ.",
+          "techniques": [
+            "JAMO"
+          ],
+          "visual": "",
+          "rationale": "가입·입금 또는 유해 서비스 이용을 유도하는 합성 광고",
+          "segmented": true,
+          "case_id": "eval-06",
+          "element_id": "n0607eebeb6",
+          "category": "single",
+          "page": "/eval/board/view?board=free&id=2136",
+          "frames": [],
+          "selector": "p#n0607eebeb6",
+          "surface": "comment"
+        },
+        {
+          "text": "Ｃ동 민원창구는 ９시부터 운영합니다. 온라인 예약 후 방문해 주세요.",
+          "techniques": [],
+          "visual": "",
+          "rationale": "정상 전각 문자 안내",
+          "segmented": false,
+          "case_id": "eval-24",
+          "element_id": "n77db2730c6",
+          "category": "negative",
+          "page": "/eval/board/view?board=free&id=2147",
+          "frames": [],
+          "selector": "p#n77db2730c6",
+          "surface": "body"
+        },
+        {
+          "text": "사설 바카라 입금 회원 혜택, 신규 충전하고 바로 게임하세요.",
+          "techniques": [
+            "TRANSPARENT"
+          ],
+          "visual": "same-color-parent",
+          "rationale": "가입·입금 또는 유해 서비스 이용을 유도하는 합성 광고",
+          "segmented": false,
+          "case_id": "eval-09",
+          "element_id": "nca99b141ac",
+          "category": "single",
+          "page": "/eval/board/view?board=free&id=2147",
+          "frames": [],
+          "selector": "p#nca99b141ac",
+          "surface": "comment"
+        },
+        {
+          "text": "CΑSINΟ 비공개 룸 입장 안내, 첫 입금 추가 적립 후 게임 참여.",
+          "techniques": [
+            "HOMOGLYPH"
+          ],
+          "visual": "",
+          "rationale": "가입·입금 또는 유해 서비스 이용을 유도하는 합성 광고",
+          "segmented": false,
+          "case_id": "eval-03",
+          "element_id": "n888b56d24e",
+          "category": "single",
+          "page": "/eval/board/view?board=free&id=2147",
+          "frames": [],
+          "selector": "p#n888b56d24e",
+          "surface": "comment"
+        },
+        {
+          "text": "지역 서점 독서 행사 안내. 참가비 없이 신청 가능하며 도서 대출은 회원증이 필요합니다.",
+          "techniques": [],
+          "visual": "",
+          "rationale": "정상 문화행사 홍보",
+          "segmented": false,
+          "case_id": "eval-23",
+          "element_id": "nea7d72e040",
+          "category": "negative",
+          "page": "/eval/board/view?board=free&id=2158",
+          "frames": [],
+          "selector": "p#nea7d72e040",
+          "surface": "body"
+        },
+        {
+          "text": "사설 경마 추천인 모집, 현금 충전 후 베팅하면 추가 지급.",
+          "techniques": [
+            "OFFSCREEN"
+          ],
+          "visual": "display-parent",
+          "rationale": "가입·입금 또는 유해 서비스 이용을 유도하는 합성 광고",
+          "segmented": false,
+          "case_id": "eval-10",
+          "element_id": "nc86fdfcab9",
+          "category": "single",
+          "page": "/eval/board/view?board=free&id=2158",
+          "frames": [],
+          "selector": "p#nc86fdfcab9",
+          "surface": "comment"
+        },
+        {
+          "text": "불법 성인영상 공유관 유료 회원 모집, 지금 결제하면 전용관 입장.",
+          "techniques": [
+            "TRANSPARENT"
+          ],
+          "visual": "transparent-class",
+          "rationale": "가입·입금 또는 유해 서비스 이용을 유도하는 합성 광고",
+          "segmented": false,
+          "case_id": "eval-08",
+          "element_id": "n7c30bc2b7b",
+          "category": "single",
+          "page": "/eval/board/view?board=free&id=2158",
+          "frames": [
+            "/eval/widget/comments?post=2158",
+            "/eval/widget/thread?post=2158"
+          ],
+          "selector": "p#n7c30bc2b7b",
+          "surface": "nested-iframe"
+        },
+        {
+          "text": "ㅂㅏㅋㅏㄹㅏ ㅅㅏㅅㅓㄹㅂㅏㅇ ㅇㅣㅂㄱㅡㅁ ㅎㅚㅇㅝㄴ ㅁㅗㅈㅣㅂ, ㄷㅏㅇㅇㅣㄹ ㅎㅘㄴㅈㅓㄴ ㄱㅏㄴㅡㅇ.",
+          "techniques": [
+            "JAMO",
+            "TRANSPARENT"
+          ],
+          "visual": "same-color",
+          "rationale": "가입·입금 또는 유해 서비스 이용을 유도하는 합성 광고",
+          "segmented": false,
+          "case_id": "eval-15",
+          "element_id": "n2f80bec7cc",
+          "category": "composite",
+          "page": "/eval/board/view?board=free&id=2169",
+          "frames": [],
+          "selector": "p#n2f80bec7cc",
+          "surface": "body"
+        },
+        {
+          "text": "단속 소식: ‘bеt 신규 회원 모집’ 게시물을 삭제했습니다. 사설 베팅을 이용하지 마세요.",
+          "techniques": [],
+          "visual": "",
+          "rationale": "단속 결과의 인용 문구",
+          "segmented": false,
+          "case_id": "eval-19",
+          "element_id": "n205d793d09",
+          "category": "negative",
+          "page": "/eval/board/view?board=free&id=2169",
+          "frames": [],
+          "selector": "p#n205d793d09",
+          "surface": "comment"
+        },
+        {
+          "text": "예약 메뉴를 열려면 Enter 키를 누르세요.",
+          "techniques": [],
+          "visual": "opacity-parent",
+          "rationale": "키보드 이용 안내",
+          "segmented": false,
+          "case_id": "eval-18",
+          "element_id": "n475b01bfce",
+          "category": "negative",
+          "page": "/eval/board/view?board=free&id=2169",
+          "frames": [],
+          "selector": "p#n475b01bfce",
+          "surface": "dynamic-comment"
+        },
+        {
+          "text": "지난 공지: ‘가입 시 입금 두 배’ 광고를 보고 송금하지 않도록 주의 바랍니다.",
+          "techniques": [],
+          "visual": "display-parent",
+          "rationale": "이전 공지 접힘 영역의 예방 안내",
+          "segmented": false,
+          "case_id": "eval-22",
+          "element_id": "n0dd4d3c848",
+          "category": "negative",
+          "page": "/eval/board/view?board=free&id=2180",
+          "frames": [],
+          "selector": "p#n0dd4d3c848",
+          "surface": "body"
+        },
+        {
+          "text": "bеt ㅅㅏㅅㅓㄹ ㄱㅕㅇㅁㅏ ㄱㅏㅇㅣㅂㅎㅏㅁㅕㄴ ㅊㅜㅇㅈㅓㄴ ㅂㅗㄴㅓㅅㅡ ㅈㅣㄱㅡㅂ.",
+          "techniques": [
+            "HOMOGLYPH",
+            "JAMO"
+          ],
+          "visual": "",
+          "rationale": "가입·입금 또는 유해 서비스 이용을 유도하는 합성 광고",
+          "segmented": false,
+          "case_id": "eval-13",
+          "element_id": "n7b0e345cee",
+          "category": "composite",
+          "page": "/eval/board/view?board=free&id=2180",
+          "frames": [],
+          "selector": "p#n7b0e345cee",
+          "surface": "comment"
+        },
+        {
+          "text": "ＣＡＳＩＮＯ 유료 회원 전용, 입금 후 게임 참여하고 환전하세요.",
+          "techniques": [
+            "HOMOGLYPH",
+            "OFFSCREEN"
+          ],
+          "visual": "left",
+          "rationale": "가입·입금 또는 유해 서비스 이용을 유도하는 합성 광고",
+          "segmented": false,
+          "case_id": "eval-14",
+          "element_id": "n06396b121d",
+          "category": "composite",
+          "page": "/eval/board/view?board=free&id=2180",
+          "frames": [],
+          "selector": "p#n06396b121d",
+          "surface": "comment"
+        }
+      ],
+      "pages": [
+        {
+          "path": "/eval/board/view?board=free&id=2103",
+          "title": "청소년 문화공간 운영 제안",
+          "post_id": 2103
+        },
+        {
+          "path": "/eval/board/view?board=free&id=2114",
+          "title": "시립도서관 독서모임 안내",
+          "post_id": 2114
+        },
+        {
+          "path": "/eval/board/view?board=free&id=2125",
+          "title": "버스 정류장 환경 개선",
+          "post_id": 2125
+        },
+        {
+          "path": "/eval/board/view?board=free&id=2136",
+          "title": "지역 문화교실 이용 후기",
+          "post_id": 2136
+        },
+        {
+          "path": "/eval/board/view?board=free&id=2147",
+          "title": "온라인 피해 예방 소식",
+          "post_id": 2147
+        },
+        {
+          "path": "/eval/board/view?board=free&id=2158",
+          "title": "체육시설 예약 방법 문의",
+          "post_id": 2158
+        },
+        {
+          "path": "/eval/board/view?board=free&id=2169",
+          "title": "동네 쉼터 정비 의견",
+          "post_id": 2169
+        },
+        {
+          "path": "/eval/board/view?board=free&id=2180",
+          "title": "주민 참여 행사 안내",
+          "post_id": 2180
+        }
+      ],
+      "counts": {
+        "cases": 24,
+        "positive_elements": 16,
+        "negative_elements": 8,
+        "findings": 20,
+        "per_technique": {
+          "HOMOGLYPH": 5,
+          "OFFSCREEN": 5,
+          "TRANSPARENT": 5,
+          "JAMO": 5
+        }
+      }
+    }
+  },
+  "dataset_sha256": "3500728d4c8f3be74a91cf0bcd9c73273fed8cd9033e42e8c865c994dd3f28e5"
+}

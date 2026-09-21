@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Local benchmark result (contest-required four techniques)",
+  "type": "object",
+  "required": ["meta", "findings"],
+  "additionalProperties": false,
+  "properties": {
+    "meta": {
+      "type": "object",
+      "required": ["topic", "entry_url", "started_at", "finished_at", "elapsed_sec"],
+      "properties": {
+        "topic": { "type": "string", "enum": ["TOPIC", "불법광고"] },
+        "entry_url": { "type": "string", "format": "uri", "pattern": "^https?://" },
+        "started_at": { "type": "string", "format": "date-time" },
+        "finished_at": { "type": "string", "format": "date-time" },
+        "elapsed_sec": { "type": "number", "minimum": 0 },
+        "tool_version": { "type": "string" }
+      }
+    },
+    "findings": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "url", "is_violation", "location", "evidence_text", "technique"],
+        "properties": {
+          "id": { "type": "string", "minLength": 1 },
+          "url": { "type": "string", "format": "uri", "pattern": "^https?://" },
+          "is_violation": { "type": "boolean" },
+          "location": { "type": "string", "minLength": 1 },
+          "evidence_text": { "type": "string", "minLength": 1 },
+          "technique": { "type": "string", "enum": ["HOMOGLYPH", "JAMO", "TRANSPARENT", "OFFSCREEN"] }
+        }
+      }
+    }
+  }
+}

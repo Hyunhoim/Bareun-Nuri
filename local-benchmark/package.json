@@ -1,0 +1,8 @@
+{
+  "name": "public-ad-local-benchmark",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Browser-backed evaluation of synthetic public portal ad fixtures",
+  "dependencies": { "playwright": "1.62.1" },
+  "scripts": { "verify": "node evaluate.cjs verify" }
+}
