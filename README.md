@@ -16,7 +16,7 @@ Windows x64, Node.js 22.12 이상 또는 24, Microsoft Edge가 필요합니다.
 
 화면의 초기 로컬 URL은 테스트 사이트가 별도로 실행 중일 때만 사용할 수 있습니다. 테스트 사이트가 필요하면 `Test_set` 브랜치를 별도 폴더에 checkout하고 그 안의 `local-benchmark/start.cmd`를 실행하세요.
 
-API 키는 서버에서만 읽습니다. 기존 작업 폴더에 `agent-experiments/.env`가 있고 `agent/.env`가 없으면 기존 키 파일을 사용할 수 있습니다. clone한 `main`에는 이 실험 폴더가 없으므로 `agent/.env`를 사용하세요. 키 파일·실행 데이터·다운로드된 도구·빌드 산출물은 Git에 포함하지 않습니다.
+API 키는 서버의 `agent/.env` 또는 환경변수에서만 읽습니다. 키 파일·실행 데이터·다운로드된 도구·빌드 산출물은 Git에 포함하지 않습니다.
 
 ## 구성과 브랜치
 
@@ -25,7 +25,7 @@ API 키는 서버에서만 읽습니다. 기존 작업 폴더에 `agent-experime
 | [main](https://github.com/Hyunhoim/spam-ad-detector/tree/main) | 최소 실행 구성과 README. 검증된 변경만 통합 |
 | [Frontend](https://github.com/Hyunhoim/spam-ad-detector/tree/Frontend) | `frontend/`: React 화면, 진행 상태, 결과 표시 |
 | [Backend](https://github.com/Hyunhoim/spam-ad-detector/tree/Backend) | `backend/`: 작업 API, 프로세스 제어, 결과 저장 및 웹 통합 검증 |
-| [Agent_core](https://github.com/Hyunhoim/spam-ad-detector/tree/Agent_core) | `agent/`: 수집·정규화·HCX 판정. `agent-experiments/`: 별도 구조 실험 |
+| [Agent_core](https://github.com/Hyunhoim/spam-ad-detector/tree/Agent_core) | `agent/`: 채택한 Pipeline의 수집·정규화·HCX 판정과 회귀 검사 |
 | [Test_set](https://github.com/Hyunhoim/spam-ad-detector/tree/Test_set) | `local-benchmark/`: 합성 사이트·채점기·평가 자료 및 연결용 사이트 |
 
 개발 브랜치들도 독립적으로 웹 앱을 실행할 수 있도록 공통 실행 기반을 포함합니다. 담당 범위는 폴더로 구분합니다. `main`으로 반영할 때는 담당 실행 코드의 커밋만 선택하며, 실험·평가 자료까지 브랜치 전체를 무조건 병합하지 않습니다. 특히 평가 정답은 Agent 입력으로 전달하지 않습니다.
@@ -45,7 +45,7 @@ agent/                Node.js Pipeline + HCX-007 어댑터
 powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/run.ps1 -Action build
 # 브라우저 자동 열기 없이 실행
 powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/run.ps1 -NoBrowser
-# Agent 자모 처리 자체 검사
+# Agent 자모 처리 및 Pipeline 판정 계약 검사
 npm.cmd test --prefix agent
 ```
 
