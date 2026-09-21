@@ -1,0 +1,16 @@
+.tools/
+.runtime/
+**/node_modules/
+frontend/dist/
+backend/target/
+**/.env
+**/.env.*
+!**/.env.example
+Key/
+agent-experiments/outputs/
+local-benchmark/artifacts/
+**/graphify-out/
+*.log
+Preview/
+**/__pycache__/
+local-benchmark/results/
