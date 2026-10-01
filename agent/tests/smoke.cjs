@@ -1,0 +1,10 @@
+const assert=require('node:assert/strict');
+const {identity,queries}=require('../src/core/antispoof.cjs');
+const {contract}=require('../src/core/judgment.cjs');
+const {resumable}=require('../src/core/quarantine-recovery.cjs');
+assert.equal(identity().name,'KcElectra-AntiSpoof');
+assert(contract().SYSTEM.includes('불법 거래'));
+assert(resumable({recovery:{inflight:{phase:'durable'}}}));
+assert(!resumable({recovery:{inflight:{phase:'sent'}}}));
+assert(queries({node_id:'test',raw_text:'ㅎㅏㄴㄱㅡㄹ B0nus'}).length>0);
+console.log('PASS: operating model integrity, prompt, recovery guards and text spans (API 0)');

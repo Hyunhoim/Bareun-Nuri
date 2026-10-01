@@ -1,5 +1,5 @@
 const {validateDecisions}=require('./llm.cjs');
-const VERSION='0.3.3-web.2';
+const VERSION='0.3.5-web.0';
 function outputResult(snapshot, decisions, startedAt, elapsed, provider) {
   validateDecisions({ decisions }, snapshot.candidates);
   const byId = new Map(snapshot.candidates.map(c => [c.node_id, c]));

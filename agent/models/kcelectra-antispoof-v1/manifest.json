@@ -1,0 +1,27 @@
+{
+  "name": "KcElectra-AntiSpoof",
+  "version": "1.0",
+  "threshold_h": 0.2,
+  "heads": [
+    "JAMO",
+    "HOMOGLYPH"
+  ],
+  "states": [
+    "present",
+    "absent",
+    "uncertain"
+  ],
+  "max_tokens": 512,
+  "device": "cpu",
+  "threads": 8,
+  "batch_size": 8,
+  "files": {
+    "config.json": "39d4ca2912194091316c5c8d86d3f5bdc89ef9dd704b9c1cf3477d37aefbff3f",
+    "confusables.txt": "95bd0aad6dced5ebc63436f459c06ab21a8d107cd842fb57f5c3a1e91bca8611",
+    "model.safetensors": "33cd744afda7e5a2128fb918ae659fceb01f3e4f9abf7f2eaa23ec397a678807",
+    "special_tokens_map.json": "5aa43c2f985a25296d5a5ce621c2f77376ca8091a47993c492fd5460b895b140",
+    "tokenizer.json": "1beb28419d4087668c6316aae66b0198e7b0a58b8584d9a892e4fd8bde370f29",
+    "tokenizer_config.json": "a788593c2a971a160d8ae85149b6cc4da9df3fb7d58139d3f3494ed77e59d0ce",
+    "vocab.txt": "324d50377df9b16001916d553fa01dca83c9fc54965f9671a50d6454cf85b70c"
+  }
+}
