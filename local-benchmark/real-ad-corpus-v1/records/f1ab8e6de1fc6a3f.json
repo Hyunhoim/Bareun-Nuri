@@ -1,0 +1,40 @@
+{
+  "id": "f1ab8e6de1fc6a3f",
+  "source": {
+    "id": "f1ab8e6de1fc6a3f",
+    "url": "https://gen.go.kr/child/xboard/board.php?mode=view&number=13&tbnum=6&sCat=0&page=3&keyset=&searchword=",
+    "source_scope": "government_board",
+    "captured_at": "2026-09-28T23:03:01.675399+00:00",
+    "rights_status": "unverified_third_party_content",
+    "human_reviewed": false,
+    "raw_file": "raw/f1ab8e6de1fc6a3f.html",
+    "byte_file": "raw/f1ab8e6de1fc6a3f.bin",
+    "response_sha256": "dcd7aed99673fa522aefdccc9b6473d58ba600364d58a29fc8abc139a0a8058f",
+    "decoded_sha256": "dcd7aed99673fa522aefdccc9b6473d58ba600364d58a29fc8abc139a0a8058f",
+    "encoding": "utf-8",
+    "status": "captured",
+    "page_title": "이용안내 - 배너모음 (게시물 내용 보기)"
+  },
+  "title": "국민안전처",
+  "raw_text": "국민안전처",
+  "body_xpath": "/html/body/div[1]/div[3]/div/div[3]/div[1]/table[1]/tbody/tr[5]/td",
+  "title_xpath": "/html/body/div[1]/div[3]/div/div[3]/div[1]/table[1]/tbody/tr[1]/td",
+  "source_kind": "real_web_post",
+  "extraction": "static_HTML_lxml_itertext",
+  "comments_status": "not_extracted_or_labeled",
+  "technique_observed": null,
+  "body_sha256": "4afb5a0f259c8a14a1e3f511cb6c0cb5591d0af1d746d811aae1b80bcf4a6c2f",
+  "label": null,
+  "human_reviewed": false,
+  "outgoing_links": [
+    {
+      "text": "",
+      "href": "#none;"
+    },
+    {
+      "text": "",
+      "href": "#none;"
+    }
+  ],
+  "notes": "No CSS technique claim from static text; listed neighbours are excluded from owned context."
+}

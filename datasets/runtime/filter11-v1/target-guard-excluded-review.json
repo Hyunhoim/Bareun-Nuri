@@ -1,0 +1,548 @@
+[
+  {
+    "id": "db29e749813377a031285ecd",
+    "panel": "real",
+    "url": "https://www.busan.go.kr/nbnews/1623079?curPage=190&srchBeginDt=2024-01-08&srchEndDt=2025-01-08&srchKey=&srchText=",
+    "selector": "html > body > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h4",
+    "node_id": "n_99c99dfcdb80c1e7",
+    "area": "heading",
+    "raw": "온라인 시민참여플랫폼  「시민열린마루」  참여이벤트",
+    "input": {
+      "target": "온라인 시민참여플랫폼  「시민열린마루」  참여이벤트",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "label": null,
+    "techniques": [],
+    "label_source": "unknown",
+    "collection_truncated": false,
+    "scores": [
+      0.9952665567398071,
+      0.0047334590926766396
+    ]
+  },
+  {
+    "id": "019fcf2086bce082ec8b0844",
+    "panel": "real",
+    "url": "https://www.busan.go.kr/nbnews/1623079?curPage=190&srchBeginDt=2024-01-08&srchEndDt=2025-01-08&srchKey=&srchText=",
+    "selector": "html > body > footer > div:nth-of-type(1) > div > p",
+    "node_id": "n_190bf9abc4b7d1cc",
+    "area": "footer",
+    "raw": "시정관련 건의사항 또는 답변을 원하는 사항은 부산민원120 민원신청 을 이용하여 주세요.",
+    "input": {
+      "target": "시정관련 건의사항 또는 답변을 원하는 사항은 부산민원120 민원신청 을 이용하여 주세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n뒤 문맥: 부산민원120 민원신청"
+    },
+    "label": null,
+    "techniques": [],
+    "label_source": "unknown",
+    "collection_truncated": false,
+    "scores": [
+      0.9954143762588501,
+      0.004585567396134138
+    ]
+  },
+  {
+    "id": "06db61c1c446168afcb7d357",
+    "panel": "replica",
+    "url": "http://127.0.0.1:19160/siminopen/index",
+    "selector": "html > body > div:nth-of-type(2) > main > div > article:nth-of-type(1) > p:nth-of-type(2)",
+    "node_id": "n_951c02faa63397b1",
+    "area": "article",
+    "raw": "부산시민 누구나 자유로운 생각, 아이디어로 소통하고, 공감하며\n\t\t\t\t정책으로 실현하는 ‘시민열린마루’ 입니다.",
+    "input": {
+      "target": "부산시민 누구나 자유로운 생각, 아이디어로 소통하고, 공감하며\n\t\t\t\t정책으로 실현하는 ‘시민열린마루’ 입니다.",
+      "context": "시민열린마루 소개\n앞 문맥: 시민열린마루"
+    },
+    "label": null,
+    "techniques": [],
+    "label_source": "unknown",
+    "collection_truncated": false,
+    "scores": [
+      0.9950919151306152,
+      0.004908041097223759
+    ]
+  },
+  {
+    "id": "f910f9b0d4dc3d78ef211491",
+    "panel": "replica",
+    "url": "http://127.0.0.1:19160/siminopen/index",
+    "selector": "html > body > div:nth-of-type(2) > main > div > article:nth-of-type(1) > div > p:nth-of-type(1) > span",
+    "node_id": "n_69414cf65f83b559",
+    "area": "article",
+    "raw": "단순민원, 불편사항, 공익신고 등은 '부산민원120' 에서 신청하시길 바랍니다",
+    "input": {
+      "target": "단순민원, 불편사항, 공익신고 등은 '부산민원120' 에서 신청하시길 바랍니다",
+      "context": "시민열린마루 소개\n뒤 문맥: 바로가기"
+    },
+    "label": null,
+    "techniques": [],
+    "label_source": "unknown",
+    "collection_truncated": false,
+    "scores": [
+      0.995410144329071,
+      0.004589896649122238
+    ]
+  },
+  {
+    "id": "c75c4c19c232bbee74b96722",
+    "panel": "replica",
+    "url": "http://127.0.0.1:19160/siminopen/index",
+    "selector": "html > body > div:nth-of-type(2) > main > div > article:nth-of-type(2) > a:nth-of-type(1) > dl > dd:nth-of-type(1)",
+    "node_id": "n_34e47f5bfd31a5b7",
+    "area": "article",
+    "raw": "단순민원, 불편사항, 공익신고 ☞ ‘부산민원120’ 상담민원 신청",
+    "input": {
+      "target": "단순민원, 불편사항, 공익신고 ☞ ‘부산민원120’ 상담민원 신청",
+      "context": "시민열린마루 소개\n앞 문맥: 시민의 다양한 생각을 나누고 좋은 생각은 부산시 정책으로\n\t\t\t\t\t발전시켜 나갑니다!\n앞 문맥: \n\t\t\t\t\t▶ 30일간 공감 받은 ‘시민생각’\n\t\t\t\t\t50명 이상 시(소관부서) 검토 후 답변\n\t\t\t\t\t100명 이상 토론의제 적합 검토 후 시민토론으로 진행\n\t\t\t\t\n앞 문맥: ※ 시민생각 제외대상\n뒤 문맥: 특정인, 특정기관, 단체 등의 비난이나 명예훼손의 우려가 있는 경우\n뒤 문맥: 영리목적의 상업성 광고 또는 저작권을 침해할 수 있는 경우\n뒤 문맥: 동일한 내용의 반복 게시(최초 1건만 남기고 ‘삭제’ 처리)"
+    },
+    "label": null,
+    "techniques": [],
+    "label_source": "unknown",
+    "collection_truncated": false,
+    "scores": [
+      0.9950957894325256,
+      0.004904153291136026
+    ]
+  },
+  {
+    "id": "c73869dad5ea8ee6b1b8934d",
+    "panel": "replica",
+    "url": "http://127.0.0.1:19160/member/login?referUrl=https://www.busan.go.kr/siminopen/index",
+    "selector": "html > body > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1)",
+    "node_id": "n_0c39d4e2c32cb3af",
+    "area": "other",
+    "raw": "\n\t\t\t※ 민원신청을 원하실 경우에는 로그인을 하지마시고 \n\t\t\t부산민원120 \n\t\t\t민원신청을 이용하여 주세요.\n\t\t",
+    "input": {
+      "target": "\n\t\t\t※ 민원신청을 원하실 경우에는 로그인을 하지마시고 \n\t\t\t부산민원120 \n\t\t\t민원신청을 이용하여 주세요.\n\t\t",
+      "context": "로그인 : 부산광역시\n뒤 문맥: 로그인"
+    },
+    "label": null,
+    "techniques": [],
+    "label_source": "unknown",
+    "collection_truncated": false,
+    "scores": [
+      0.9951150417327881,
+      0.0048848954029381275
+    ]
+  },
+  {
+    "id": "d1eb42034992d848baabdf1e",
+    "panel": "replica",
+    "url": "http://127.0.0.1:19160/member/login?referUrl=https://www.busan.go.kr/siminopen/index",
+    "selector": "html > body > footer > div:nth-of-type(1) > div > p",
+    "node_id": "n_82342942e0aa44c9",
+    "area": "footer",
+    "raw": "시정관련 건의사항 또는 답변을 원하는 사항은 부산민원120 민원신청 을 이용하여 주세요.",
+    "input": {
+      "target": "시정관련 건의사항 또는 답변을 원하는 사항은 부산민원120 민원신청 을 이용하여 주세요.",
+      "context": "로그인 : 부산광역시\n뒤 문맥: 부산민원120 민원신청"
+    },
+    "label": null,
+    "techniques": [],
+    "label_source": "unknown",
+    "collection_truncated": false,
+    "scores": [
+      0.9953226447105408,
+      0.004677313845604658
+    ]
+  },
+  {
+    "id": "5db0a744438dffde96de97b2",
+    "panel": "replica",
+    "url": "http://127.0.0.1:19160/member/register-step01",
+    "selector": "html > body > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(1)",
+    "node_id": "n_e611c81a4b85015e",
+    "area": "other",
+    "raw": "시정 홈페이지(시, 직속기관, 사업소 운영 공공홈페이지) 통합 회원관리",
+    "input": {
+      "target": "시정 홈페이지(시, 직속기관, 사업소 운영 공공홈페이지) 통합 회원관리",
+      "context": "회원가입(1단계 약관동의) : 부산광역시"
+    },
+    "label": null,
+    "techniques": [],
+    "label_source": "unknown",
+    "collection_truncated": false,
+    "scores": [
+      0.995311975479126,
+      0.004687941167503595
+    ]
+  },
+  {
+    "id": "b1bc58618b2b78602ef57a0d",
+    "panel": "replica",
+    "url": "http://127.0.0.1:19160/member/register-step01",
+    "selector": "html > body > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(8)",
+    "node_id": "n_2e29c2afbaca1f30",
+    "area": "other",
+    "raw": "부산시 사이버정보화교육, 주민자치사이트 서비스 이용",
+    "input": {
+      "target": "부산시 사이버정보화교육, 주민자치사이트 서비스 이용",
+      "context": "회원가입(1단계 약관동의) : 부산광역시"
+    },
+    "label": null,
+    "techniques": [],
+    "label_source": "unknown",
+    "collection_truncated": false,
+    "scores": [
+      0.9951634407043457,
+      0.004836570005863905
+    ]
+  },
+  {
+    "id": "4a0b638b22c49feca796dd2a",
+    "panel": "replica",
+    "url": "http://127.0.0.1:19160/member/register-step01",
+    "selector": "html > body > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(10)",
+    "node_id": "n_7569d98097f1a5e6",
+    "area": "other",
+    "raw": "패밀리사이트 공공교육·강좌·행사 참여 접수",
+    "input": {
+      "target": "패밀리사이트 공공교육·강좌·행사 참여 접수",
+      "context": "회원가입(1단계 약관동의) : 부산광역시"
+    },
+    "label": null,
+    "techniques": [],
+    "label_source": "unknown",
+    "collection_truncated": false,
+    "scores": [
+      0.9952313303947449,
+      0.004768591374158859
+    ]
+  },
+  {
+    "id": "6a154c03e34e7a437e0d28b4",
+    "panel": "replica",
+    "url": "http://127.0.0.1:19160/member/register-step01",
+    "selector": "html > body > footer > div:nth-of-type(1) > div > p",
+    "node_id": "n_7b58bf353fcab8c4",
+    "area": "footer",
+    "raw": "시정관련 건의사항 또는 답변을 원하는 사항은 부산민원120 민원신청 을 이용하여 주세요.",
+    "input": {
+      "target": "시정관련 건의사항 또는 답변을 원하는 사항은 부산민원120 민원신청 을 이용하여 주세요.",
+      "context": "회원가입(1단계 약관동의) : 부산광역시\n뒤 문맥: 부산민원120 민원신청"
+    },
+    "label": null,
+    "techniques": [],
+    "label_source": "unknown",
+    "collection_truncated": false,
+    "scores": [
+      0.9953268766403198,
+      0.004673088900744915
+    ]
+  },
+  {
+    "id": "052ac5244c16bfbe64dfa9c6",
+    "panel": "replica",
+    "url": "http://127.0.0.1:19160/siminopen/siminthink02",
+    "selector": "html > body > div:nth-of-type(2) > main > div:nth-of-type(1) > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2) > a",
+    "node_id": "n_7931893aec18e2fe",
+    "area": "other",
+    "raw": "\n\t\t\t\t\t\t\t\t\t2025년 부산광역시 온라인 시민참여플랫폼 「시민열린마루」 참여 이벤트 당첨자 알림",
+    "input": {
+      "target": "\n\t\t\t\t\t\t\t\t\t2025년 부산광역시 온라인 시민참여플랫폼 「시민열린마루」 참여 이벤트 당첨자 알림",
+      "context": "자료실\n앞 문맥: \n\t\t\t\t\t\t\t\t4\ncontains_target: \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t2025년 부산광역시 온라인 시민참여플랫폼 「시민열린마루」 참여 이벤트 당첨자 알림\n\t\t\t\t\t\t\t\n뒤 문맥: \n\t\t\t\t\t\t\t\t서민경\n뒤 문맥: 2025-11-28\n뒤 문맥: 113"
+    },
+    "label": null,
+    "techniques": [],
+    "label_source": "unknown",
+    "collection_truncated": false,
+    "scores": [
+      0.9950206279754639,
+      0.004979414865374565
+    ]
+  },
+  {
+    "id": "2ee601e74dc8d3dfc38076e1",
+    "panel": "replica",
+    "url": "http://127.0.0.1:19160/gnance/index",
+    "selector": "html > body > div:nth-of-type(2) > main > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1) > div:nth-of-type(2) > p",
+    "node_id": "n_f178dc59cc383b7d",
+    "area": "other",
+    "raw": "시민 주도적 시정구현을실천하는 협치부산의여러 가지 공지를 알려드립니다",
+    "input": {
+      "target": "시민 주도적 시정구현을실천하는 협치부산의여러 가지 공지를 알려드립니다",
+      "context": "Home : 협치부산\n앞 문맥: 공지사항"
+    },
+    "label": null,
+    "techniques": [],
+    "label_source": "unknown",
+    "collection_truncated": false,
+    "scores": [
+      0.9952292442321777,
+      0.004770785104483366
+    ]
+  },
+  {
+    "id": "83762d326fb542de5aed6040",
+    "panel": "replica",
+    "url": "http://127.0.0.1:19160/gnance/index",
+    "selector": "html > body > div:nth-of-type(2) > main > div:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(2) > div:nth-of-type(2) > p",
+    "node_id": "n_1344b30c80414c60",
+    "area": "other",
+    "raw": "시민 주도적 시정구현을실천하는 부산시민협치협의회 및3개 분과위원회를 소개합니다",
+    "input": {
+      "target": "시민 주도적 시정구현을실천하는 부산시민협치협의회 및3개 분과위원회를 소개합니다",
+      "context": "Home : 협치부산\n앞 문맥: 협의회 운영"
+    },
+    "label": null,
+    "techniques": [],
+    "label_source": "unknown",
+    "collection_truncated": false,
+    "scores": [
+      0.9951651096343994,
+      0.0048348489217460155
+    ]
+  },
+  {
+    "id": "79c41c591b9c78fbd28e2fbe",
+    "panel": "replica",
+    "url": "http://127.0.0.1:19160/yesan/index",
+    "selector": "html > body > div:nth-of-type(3) > main > section:nth-of-type(1) > div:nth-of-type(3) > div > div:nth-of-type(1) > a > p",
+    "node_id": "n_26713a92772c5d86",
+    "area": "other",
+    "raw": "제안하기시민 편의 증진, 지역 불편 해소 할 수 있는 사업",
+    "input": {
+      "target": "제안하기시민 편의 증진, 지역 불편 해소 할 수 있는 사업",
+      "context": "Home : 주민참여예산\n뒤 문맥: 자세히 보기"
+    },
+    "label": null,
+    "techniques": [],
+    "label_source": "unknown",
+    "collection_truncated": false,
+    "scores": [
+      0.9953268766403198,
+      0.004673075396567583
+    ]
+  },
+  {
+    "id": "fb62f729b0a0619625eecf07",
+    "panel": "replica",
+    "url": "http://127.0.0.1:19160/siminopen/",
+    "selector": "html > body > div:nth-of-type(2) > main > div > article:nth-of-type(1) > p:nth-of-type(2)",
+    "node_id": "n_c13767b0da5d3a55",
+    "area": "article",
+    "raw": "부산시민 누구나 자유로운 생각, 아이디어로 소통하고, 공감하며\n\t\t\t\t정책으로 실현하는 ‘시민열린마루’ 입니다.",
+    "input": {
+      "target": "부산시민 누구나 자유로운 생각, 아이디어로 소통하고, 공감하며\n\t\t\t\t정책으로 실현하는 ‘시민열린마루’ 입니다.",
+      "context": "시민열린마루 소개\n앞 문맥: 시민열린마루"
+    },
+    "label": null,
+    "techniques": [],
+    "label_source": "unknown",
+    "collection_truncated": false,
+    "scores": [
+      0.9950919151306152,
+      0.004908041097223759
+    ]
+  },
+  {
+    "id": "bd6a57fd39bc61b6190781dc",
+    "panel": "replica",
+    "url": "http://127.0.0.1:19160/siminopen/",
+    "selector": "html > body > div:nth-of-type(2) > main > div > article:nth-of-type(1) > div > p:nth-of-type(1) > span",
+    "node_id": "n_f5a11ea95f496cb0",
+    "area": "article",
+    "raw": "단순민원, 불편사항, 공익신고 등은 '부산민원120' 에서 신청하시길 바랍니다",
+    "input": {
+      "target": "단순민원, 불편사항, 공익신고 등은 '부산민원120' 에서 신청하시길 바랍니다",
+      "context": "시민열린마루 소개\n뒤 문맥: 바로가기"
+    },
+    "label": null,
+    "techniques": [],
+    "label_source": "unknown",
+    "collection_truncated": false,
+    "scores": [
+      0.995410144329071,
+      0.004589896649122238
+    ]
+  },
+  {
+    "id": "6b986e22756aaf8a33e8e053",
+    "panel": "replica",
+    "url": "http://127.0.0.1:19160/siminopen/",
+    "selector": "html > body > div:nth-of-type(2) > main > div > article:nth-of-type(2) > a:nth-of-type(1) > dl > dd:nth-of-type(1)",
+    "node_id": "n_1075285ef21174df",
+    "area": "article",
+    "raw": "단순민원, 불편사항, 공익신고 ☞ ‘부산민원120’ 상담민원 신청",
+    "input": {
+      "target": "단순민원, 불편사항, 공익신고 ☞ ‘부산민원120’ 상담민원 신청",
+      "context": "시민열린마루 소개\n앞 문맥: 시민의 다양한 생각을 나누고 좋은 생각은 부산시 정책으로\n\t\t\t\t\t발전시켜 나갑니다!\n앞 문맥: \n\t\t\t\t\t▶ 30일간 공감 받은 ‘시민생각’\n\t\t\t\t\t50명 이상 시(소관부서) 검토 후 답변\n\t\t\t\t\t100명 이상 토론의제 적합 검토 후 시민토론으로 진행\n\t\t\t\t\n앞 문맥: ※ 시민생각 제외대상\n뒤 문맥: 특정인, 특정기관, 단체 등의 비난이나 명예훼손의 우려가 있는 경우\n뒤 문맥: 영리목적의 상업성 광고 또는 저작권을 침해할 수 있는 경우\n뒤 문맥: 동일한 내용의 반복 게시(최초 1건만 남기고 ‘삭제’ 처리)"
+    },
+    "label": null,
+    "techniques": [],
+    "label_source": "unknown",
+    "collection_truncated": false,
+    "scores": [
+      0.9950957894325256,
+      0.004904153291136026
+    ]
+  },
+  {
+    "id": "41c24c6d24655cbb517c238a",
+    "panel": "replica",
+    "url": "http://127.0.0.1:19160/siminopen/siminthink01/1754929?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+    "selector": "html > body > div:nth-of-type(2) > main > div > div:nth-of-type(1) > div:nth-of-type(4) > div > article:nth-of-type(2) > section > p",
+    "node_id": "n_3d11e4a71877207c",
+    "area": "article",
+    "raw": "NOTICE 시립 미술관의 무료 해설 예약 페이지입니다.",
+    "input": {
+      "target": "NOTICE 시립 미술관의 무료 해설 예약 페이지입니다.",
+      "context": "시민생각 - 부산 전통시장 개선 정책 제안\n뒤 문맥: OPEN 연결 열기"
+    },
+    "label": null,
+    "techniques": [],
+    "label_source": "unknown",
+    "collection_truncated": false,
+    "scores": [
+      0.9954149723052979,
+      0.00458504119887948
+    ]
+  },
+  {
+    "id": "552b5576b9f78260b6a3f67c",
+    "panel": "replica",
+    "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753993?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+    "selector": "p#r43e1b78b6a5864425e",
+    "node_id": "n_db8c24a45a1c0dff",
+    "area": "article",
+    "raw": "NОTІСЕ 주민센터 무인 발급기 점검이 끝났습니다. 이용 시간을 확인해 주세요.",
+    "input": {
+      "target": "NОTІСЕ 주민센터 무인 발급기 점검이 끝났습니다. 이용 시간을 확인해 주세요.",
+      "context": "시민생각 - 부산시 플랫폼 노동자 근로환경 개선을 위한 정책제안"
+    },
+    "label": 2,
+    "techniques": [],
+    "label_source": "controlled64",
+    "collection_truncated": false,
+    "scores": [
+      0.995320737361908,
+      0.0046792165376245975
+    ]
+  },
+  {
+    "id": "ba673339e53f6e5b4812491a",
+    "panel": "replica",
+    "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753991?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+    "selector": "html > body > div:nth-of-type(2) > main > div > div:nth-of-type(1) > div:nth-of-type(1)",
+    "node_id": "n_252c701fa61cb4f4",
+    "area": "other",
+    "raw": "\n\t\t\t\t정책제안서진행중\n\t\t\t\t\t\t\tREPORT 한글 낱소리와 결합형 문자 표현을 비교하는 국어 수업 문장입니다.",
+    "input": {
+      "target": "\n\t\t\t\t정책제안서진행중\n\t\t\t\t\t\t\tREPORT 한글 낱소리와 결합형 문자 표현을 비교하는 국어 수업 문장입니다.",
+      "context": "시민생각 - 정책제안서\n뒤 문맥: \n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t되돌아가기\n\t\t\t\t전체목록\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t"
+    },
+    "label": null,
+    "techniques": [],
+    "label_source": "unknown",
+    "collection_truncated": false,
+    "scores": [
+      0.9952690005302429,
+      0.004731006920337677
+    ]
+  },
+  {
+    "id": "d2af01349c4d700549c8ae9f",
+    "panel": "replica",
+    "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753990?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+    "selector": "html > body > div:nth-of-type(2) > main > div > div:nth-of-type(1) > div:nth-of-type(4) > div > article:nth-of-type(3) > section > p",
+    "node_id": "n_ecb6612e412548f3",
+    "area": "article",
+    "raw": "ACCESS 공공 체육시설 이용 방법을 묻는 상담 창구입니다.",
+    "input": {
+      "target": "ACCESS 공공 체육시설 이용 방법을 묻는 상담 창구입니다.",
+      "context": "시민생각 - 부산의 응급의료 공간적 불평등 해소를 위한 골든타임 확보 정책 제안\n뒤 문맥: CONTACT 문의하기"
+    },
+    "label": null,
+    "techniques": [],
+    "label_source": "unknown",
+    "collection_truncated": false,
+    "scores": [
+      0.9952450394630432,
+      0.004754951689392328
+    ]
+  },
+  {
+    "id": "49e1b8fa2bc26363e53f1319",
+    "panel": "replica",
+    "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753833?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+    "selector": "p#r429dba475af322fb45",
+    "node_id": "n_72577c6a07cdd89d",
+    "area": "article",
+    "raw": "NOTICE ㅈ​ㅜ​ㅁ​ㅣ​ㄴ​ㅅ​ㅔ​ㄴ​ㅌ​ㅓ​ ㅁ​ㅜ​ㅇ​ㅣ​ㄴ​ ㅂ​ㅏ​ㄹ​ㄱ​ㅡ​ㅂ​ㄱ​ㅣ​ ㅈ​ㅓ​ㅁ​ㄱ​ㅓ​ㅁ​ㅇ​ㅣ​ ㄲ​ㅡ​ㅌ​ㄴ​ㅏ​ㅆ​ㅅ​ㅡ​ㅂ​ㄴ​ㅣ​ㄷ​ㅏ​. ㅇ​ㅣ​ㅇ​ㅛ​ㅇ​ ㅅ​ㅣ​ㄱ​ㅏ​ㄴ​ㅇ​ㅡ​ㄹ​ ㅎ​ㅘ​ㄱ​ㅇ​ㅣ​ㄴ​ㅎ​ㅐ​ ㅈ​ㅜ​ㅅ​ㅔ​ㅇ​ㅛ​.",
+    "input": {
+      "target": "NOTICE 주민센터​ 무인​ 발급기​ 점검이​ 끝났습니다​. 이용​ 시간을​ 확인해​ 주세요​.",
+      "context": "시민생각 - 부산 15분 도시의 장애인 이동 접근성 불평등과 배리어 프리 도시를 위한 정책 제안"
+    },
+    "label": 2,
+    "techniques": [],
+    "label_source": "controlled64",
+    "collection_truncated": false,
+    "scores": [
+      0.9953480362892151,
+      0.004651995841413736
+    ]
+  },
+  {
+    "id": "dfc1c3cc136fa7dd2f5eaf3c",
+    "panel": "replica",
+    "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753828?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+    "selector": "html > body > div:nth-of-type(2) > main > div > div:nth-of-type(1) > div:nth-of-type(1)",
+    "node_id": "n_95e8d904f598ca1c",
+    "area": "other",
+    "raw": "\n\t\t\t\t부산 연안 폐어구 지역순환관리체계 구축을 제안합니다.진행중\n\t\t\t\t\t\t\tPUBL1C 동네 도서관의 낭독 모임을 안내합니다. 누구나 무료로 참여할 수 있습니다.",
+    "input": {
+      "target": "\n\t\t\t\t부산 연안 폐어구 지역순환관리체계 구축을 제안합니다.진행중\n\t\t\t\t\t\t\tPUBL1C 동네 도서관의 낭독 모임을 안내합니다. 누구나 무료로 참여할 수 있습니다.",
+      "context": "시민생각 - 부산 연안 폐어구 지역순환관리체계 구축을 제안합니다.\n뒤 문맥: \n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t되돌아가기\n\t\t\t\t전체목록\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t"
+    },
+    "label": null,
+    "techniques": [],
+    "label_source": "unknown",
+    "collection_truncated": false,
+    "scores": [
+      0.9953666925430298,
+      0.004633339121937752
+    ]
+  },
+  {
+    "id": "11e9417b8a4a1fcd4a5f1d87",
+    "panel": "replica",
+    "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753828?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+    "selector": "html > body > div:nth-of-type(2) > main > div > div:nth-of-type(1) > div:nth-of-type(4) > div > article:nth-of-type(3) > section > p",
+    "node_id": "n_b2fdbcf59cdd40c2",
+    "area": "article",
+    "raw": "REPORT 보건소 응급처치 교육에 신청하는 연결입니다.",
+    "input": {
+      "target": "REPORT 보건소 응급처치 교육에 신청하는 연결입니다.",
+      "context": "시민생각 - 부산 연안 폐어구 지역순환관리체계 구축을 제안합니다.\n뒤 문맥: D3T41L 신청 안내"
+    },
+    "label": null,
+    "techniques": [],
+    "label_source": "unknown",
+    "collection_truncated": false,
+    "scores": [
+      0.9954267144203186,
+      0.0045732781291007996
+    ]
+  },
+  {
+    "id": "dc814c9afa7328ee1db014b8",
+    "panel": "replica",
+    "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753825?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+    "selector": "p#r93c2b31046c4f7fef5",
+    "node_id": "n_8aecdd4924156606",
+    "area": "article",
+    "raw": "기록번호 A2047은 도서관 안내문 관리번호입니다.",
+    "input": {
+      "target": "기록번호 A2047은 도서관 안내문 관리번호입니다.",
+      "context": "시민생각 - 교육 자원의 불평등과 지역 간 교육격차 해소를 위한 정책 제안"
+    },
+    "label": 2,
+    "techniques": [],
+    "label_source": "controlled64",
+    "collection_truncated": false,
+    "scores": [
+      0.9953180551528931,
+      0.004681931342929602
+    ]
+  }
+]

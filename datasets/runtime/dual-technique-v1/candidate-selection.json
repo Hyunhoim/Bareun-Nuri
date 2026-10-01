@@ -1,0 +1,171 @@
+{
+  "candidate": "kc-continue",
+  "arm": "kc",
+  "metrics": {
+    "kc-base": {
+      "JAMO": {
+        "confusion": [
+          [
+            336,
+            0,
+            0
+          ],
+          [
+            4,
+            272,
+            0
+          ],
+          [
+            0,
+            0,
+            12
+          ]
+        ],
+        "macro_f1": 0.9955945233878979,
+        "strict_f1": 0.9940828402366864,
+        "normal_false": 4,
+        "uncertain_false": 0
+      },
+      "HOMOGLYPH": {
+        "confusion": [
+          [
+            192,
+            48,
+            0
+          ],
+          [
+            2,
+            370,
+            0
+          ],
+          [
+            12,
+            0,
+            0
+          ]
+        ],
+        "macro_f1": 0.5992318026148985,
+        "strict_f1": 0.8609865470852018,
+        "normal_false": 2,
+        "uncertain_false": 12
+      },
+      "positive_macro_f1": 0.9275346936609441,
+      "min_f1": 0.8609865470852018,
+      "normal_false": 6,
+      "uncertain_false": 12,
+      "exact_state_accuracy": 0.8942307692307693,
+      "rows": 624
+    },
+    "kc-continue": {
+      "JAMO": {
+        "confusion": [
+          [
+            336,
+            0,
+            0
+          ],
+          [
+            0,
+            276,
+            0
+          ],
+          [
+            0,
+            0,
+            12
+          ]
+        ],
+        "macro_f1": 1.0,
+        "strict_f1": 1.0,
+        "normal_false": 0,
+        "uncertain_false": 0
+      },
+      "HOMOGLYPH": {
+        "confusion": [
+          [
+            240,
+            0,
+            0
+          ],
+          [
+            0,
+            372,
+            0
+          ],
+          [
+            0,
+            0,
+            12
+          ]
+        ],
+        "macro_f1": 1.0,
+        "strict_f1": 1.0,
+        "normal_false": 0,
+        "uncertain_false": 0
+      },
+      "positive_macro_f1": 1.0,
+      "min_f1": 1.0,
+      "normal_false": 0,
+      "uncertain_false": 0,
+      "exact_state_accuracy": 1.0,
+      "rows": 624
+    },
+    "kc-joint": {
+      "JAMO": {
+        "confusion": [
+          [
+            336,
+            0,
+            0
+          ],
+          [
+            0,
+            276,
+            0
+          ],
+          [
+            0,
+            0,
+            12
+          ]
+        ],
+        "macro_f1": 1.0,
+        "strict_f1": 1.0,
+        "normal_false": 0,
+        "uncertain_false": 0
+      },
+      "HOMOGLYPH": {
+        "confusion": [
+          [
+            240,
+            0,
+            0
+          ],
+          [
+            0,
+            372,
+            0
+          ],
+          [
+            0,
+            0,
+            12
+          ]
+        ],
+        "macro_f1": 1.0,
+        "strict_f1": 1.0,
+        "normal_false": 0,
+        "uncertain_false": 0
+      },
+      "positive_macro_f1": 1.0,
+      "min_f1": 1.0,
+      "normal_false": 0,
+      "uncertain_false": 0,
+      "exact_state_accuracy": 1.0,
+      "rows": 624
+    }
+  },
+  "eligible": true,
+  "reason": "fixed development rank, no final or regression selection",
+  "sha256": "8c556c389475ba4619970e454a5fa46c875b6ac7812cfbe9e8f6470f7e489a9a"
+}

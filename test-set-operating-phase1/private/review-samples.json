@@ -1,0 +1,1345 @@
+[
+  {
+    "id": "177fb5a73684b0",
+    "group_id": "g_f520c73c6676",
+    "seed_index": 92,
+    "variant": 0,
+    "domain": "illegal_adult",
+    "role": "direct_offer",
+    "is_violation": true,
+    "base_text": "성인 몰카 VIP방 이용 문의 받아요. 몰래 찍힌 자료 유료로 보실 분 연락 주세요.",
+    "context_before": "",
+    "context_after": "",
+    "keyword": "몰카",
+    "latin": "VIP",
+    "source_ids": [
+      "adult-report",
+      "police-categories"
+    ],
+    "authorship": "codex_synthetic_source_informed",
+    "revision_stratum": "rewritten_scenario",
+    "provenance_scope": "domain_pattern_reference_not_verbatim_or_per_sentence_proof",
+    "technique_origin": "organizer_rule_based_synthetic_not_observed_source_css",
+    "primary_stratum": "HOMOGLYPH",
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "style_variant_index": 0,
+    "target_text": "성인 몰카 ＶＩＰ방 이용 문의 받아요. 몰래 찍힌 자료 유료로 보실 분 연락 주세요.",
+    "text_transformations": [
+      {
+        "technique": "HOMOGLYPH",
+        "kind": "fullwidth-existing-span",
+        "original": "VIP",
+        "changed": "ＶＩＰ",
+        "original_codepoints": [
+          "U+0056",
+          "U+0049",
+          "U+0050"
+        ],
+        "changed_codepoints": [
+          "U+FF36",
+          "U+FF29",
+          "U+FF30"
+        ],
+        "basis": "visual character substitution, not phonetic transliteration",
+        "start_codepoint": 6,
+        "end_codepoint": 9,
+        "start_utf16": 6,
+        "end_utf16": 9
+      }
+    ],
+    "style_evidence": [],
+    "split_inline": false,
+    "dynamic": false,
+    "iframe": false,
+    "slot": "body",
+    "site": 0,
+    "page": 1,
+    "page_path": "/site-1/page-002.html",
+    "target_selector": "#n177fb5a73684b0",
+    "scope_selector": "#u177fb5a73684b0",
+    "title": "시민 게시판",
+    "location": "#n177fb5a73684b0",
+    "finding_techniques": [
+      "HOMOGLYPH"
+    ],
+    "label_reason": "대상과 같은 작성자의 문맥이 불법 대상 거래·이용을 직접 권유함.",
+    "label_status": "author_assigned_not_independently_human_reviewed"
+  },
+  {
+    "id": "6159a38c03caf0",
+    "group_id": "g_1518dd03762f",
+    "seed_index": 43,
+    "variant": 0,
+    "domain": "drugs",
+    "role": "direct_offer",
+    "is_violation": true,
+    "base_text": "코카인 찾으시면 DM 주세요. 판매 중이고 구매 문의만 확인합니다.",
+    "context_before": "",
+    "context_after": "",
+    "keyword": "코카인",
+    "latin": "DM",
+    "source_ids": [
+      "drug-community",
+      "drug-report",
+      "fn-drug-ad-report"
+    ],
+    "authorship": "codex_synthetic_source_informed",
+    "revision_stratum": "rewritten_scenario",
+    "provenance_scope": "domain_pattern_reference_not_verbatim_or_per_sentence_proof",
+    "technique_origin": "organizer_rule_based_synthetic_not_observed_source_css",
+    "primary_stratum": "HOMOGLYPH",
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "style_variant_index": 1,
+    "target_text": "코카인 찾으시면 ＤＭ 주세요. 판매 중이고 구매 문의만 확인합니다.",
+    "text_transformations": [
+      {
+        "technique": "HOMOGLYPH",
+        "kind": "fullwidth-existing-span",
+        "original": "DM",
+        "changed": "ＤＭ",
+        "original_codepoints": [
+          "U+0044",
+          "U+004D"
+        ],
+        "changed_codepoints": [
+          "U+FF24",
+          "U+FF2D"
+        ],
+        "basis": "visual character substitution, not phonetic transliteration",
+        "start_codepoint": 9,
+        "end_codepoint": 11,
+        "start_utf16": 9,
+        "end_utf16": 11
+      }
+    ],
+    "style_evidence": [],
+    "split_inline": false,
+    "dynamic": false,
+    "iframe": false,
+    "slot": "body",
+    "site": 0,
+    "page": 5,
+    "page_path": "/site-1/page-006.html",
+    "target_selector": "#n6159a38c03caf0",
+    "scope_selector": "#u6159a38c03caf0",
+    "title": "시민 게시판",
+    "location": "#n6159a38c03caf0",
+    "finding_techniques": [
+      "HOMOGLYPH"
+    ],
+    "label_reason": "대상과 같은 작성자의 문맥이 불법 대상 거래·이용을 직접 권유함.",
+    "label_status": "author_assigned_not_independently_human_reviewed"
+  },
+  {
+    "id": "64c8055b5fd80b",
+    "group_id": "g_637189b1c2ba",
+    "seed_index": 2,
+    "variant": 0,
+    "domain": "gambling",
+    "role": "direct_offer",
+    "is_violation": true,
+    "base_text": "스포츠 BET 모집 / 토토 현금 배팅 / 신규 충전 혜택. 경기 시작 전에 가입창 확인하세요.",
+    "context_before": "",
+    "context_after": "",
+    "keyword": "토토",
+    "latin": "BET",
+    "source_ids": [
+      "board-spam",
+      "board-bonus",
+      "gambling-prevention",
+      "yju-qna-snippet",
+      "wipo-ad-analysis"
+    ],
+    "authorship": "codex_synthetic_source_informed",
+    "revision_stratum": "rewritten_scenario",
+    "provenance_scope": "domain_pattern_reference_not_verbatim_or_per_sentence_proof",
+    "technique_origin": "organizer_rule_based_synthetic_not_observed_source_css",
+    "primary_stratum": "HOMOGLYPH",
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "style_variant_index": 1,
+    "target_text": "스포츠 ＢＥＴ 모집 / 토토 현금 배팅 / 신규 충전 혜택. 경기 시작 전에 가입창 확인하세요.",
+    "text_transformations": [
+      {
+        "technique": "HOMOGLYPH",
+        "kind": "fullwidth-existing-span",
+        "original": "BET",
+        "changed": "ＢＥＴ",
+        "original_codepoints": [
+          "U+0042",
+          "U+0045",
+          "U+0054"
+        ],
+        "changed_codepoints": [
+          "U+FF22",
+          "U+FF25",
+          "U+FF34"
+        ],
+        "basis": "visual character substitution, not phonetic transliteration",
+        "start_codepoint": 4,
+        "end_codepoint": 7,
+        "start_utf16": 4,
+        "end_utf16": 7
+      }
+    ],
+    "style_evidence": [],
+    "split_inline": false,
+    "dynamic": false,
+    "iframe": false,
+    "slot": "reply",
+    "site": 1,
+    "page": 12,
+    "page_path": "/site-2/page-013.html",
+    "target_selector": "#n64c8055b5fd80b",
+    "scope_selector": "#u64c8055b5fd80b",
+    "title": "자유게시판",
+    "location": "#n64c8055b5fd80b",
+    "finding_techniques": [
+      "HOMOGLYPH"
+    ],
+    "label_reason": "대상과 같은 작성자의 문맥이 불법 대상 거래·이용을 직접 권유함.",
+    "label_status": "author_assigned_not_independently_human_reviewed"
+  },
+  {
+    "id": "ee0e335c168be0",
+    "group_id": "g_c937c267ec1e",
+    "seed_index": 7,
+    "variant": 0,
+    "domain": "gambling",
+    "role": "direct_offer",
+    "is_violation": true,
+    "base_text": "슬롯 VIP 회원 모집합니다. 현금 충전방이고 기존 회원도 오늘 혜택 적용됩니다.",
+    "context_before": "",
+    "context_after": "",
+    "keyword": "슬롯",
+    "latin": "VIP",
+    "source_ids": [
+      "board-spam",
+      "board-bonus",
+      "gambling-prevention",
+      "yju-qna-snippet",
+      "wipo-ad-analysis"
+    ],
+    "authorship": "codex_synthetic_source_informed",
+    "revision_stratum": "rewritten_scenario",
+    "provenance_scope": "domain_pattern_reference_not_verbatim_or_per_sentence_proof",
+    "technique_origin": "organizer_rule_based_synthetic_not_observed_source_css",
+    "primary_stratum": "HOMOGLYPH",
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "style_variant_index": 3,
+    "target_text": "슬롯 ＶＩＰ 회원 모집합니다. 현금 충전방이고 기존 회원도 오늘 혜택 적용됩니다.",
+    "text_transformations": [
+      {
+        "technique": "HOMOGLYPH",
+        "kind": "fullwidth-existing-span",
+        "original": "VIP",
+        "changed": "ＶＩＰ",
+        "original_codepoints": [
+          "U+0056",
+          "U+0049",
+          "U+0050"
+        ],
+        "changed_codepoints": [
+          "U+FF36",
+          "U+FF29",
+          "U+FF30"
+        ],
+        "basis": "visual character substitution, not phonetic transliteration",
+        "start_codepoint": 3,
+        "end_codepoint": 6,
+        "start_utf16": 3,
+        "end_utf16": 6
+      }
+    ],
+    "style_evidence": [],
+    "split_inline": false,
+    "dynamic": false,
+    "iframe": false,
+    "slot": "reply",
+    "site": 1,
+    "page": 14,
+    "page_path": "/site-2/page-015.html",
+    "target_selector": "#nee0e335c168be0",
+    "scope_selector": "#uee0e335c168be0",
+    "title": "자유게시판",
+    "location": "#nee0e335c168be0",
+    "finding_techniques": [
+      "HOMOGLYPH"
+    ],
+    "label_reason": "대상과 같은 작성자의 문맥이 불법 대상 거래·이용을 직접 권유함.",
+    "label_status": "author_assigned_not_independently_human_reviewed"
+  },
+  {
+    "id": "17f382686b781a",
+    "group_id": "g_93026b4d6b0b",
+    "seed_index": 160,
+    "variant": 0,
+    "domain": "illegal_trade",
+    "role": "direct_offer",
+    "is_violation": true,
+    "base_text": "안 쓰는 통장 빌려주실 분 DM 주세요. 다른 사람 입출금용으로 쓰고 대여료 드립니다.",
+    "context_before": "",
+    "context_after": "",
+    "keyword": "통장",
+    "latin": "DM",
+    "source_ids": [
+      "public-abuse-report",
+      "forgery-report",
+      "sim-report",
+      "police-categories",
+      "segye-account-ad-report",
+      "account-qna-snippet"
+    ],
+    "authorship": "codex_synthetic_source_informed",
+    "revision_stratum": "rewritten_scenario",
+    "provenance_scope": "domain_pattern_reference_not_verbatim_or_per_sentence_proof",
+    "technique_origin": "organizer_rule_based_synthetic_not_observed_source_css",
+    "primary_stratum": "HOMOGLYPH",
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "style_variant_index": 2,
+    "target_text": "안 쓰는 통장 빌려주실 분 ＤＭ 주세요. 다른 사람 입출금용으로 쓰고 대여료 드립니다.",
+    "text_transformations": [
+      {
+        "technique": "HOMOGLYPH",
+        "kind": "fullwidth-existing-span",
+        "original": "DM",
+        "changed": "ＤＭ",
+        "original_codepoints": [
+          "U+0044",
+          "U+004D"
+        ],
+        "changed_codepoints": [
+          "U+FF24",
+          "U+FF2D"
+        ],
+        "basis": "visual character substitution, not phonetic transliteration",
+        "start_codepoint": 15,
+        "end_codepoint": 17,
+        "start_utf16": 15,
+        "end_utf16": 17
+      }
+    ],
+    "style_evidence": [],
+    "split_inline": false,
+    "dynamic": false,
+    "iframe": false,
+    "slot": "title",
+    "site": 1,
+    "page": 14,
+    "page_path": "/site-2/page-015.html",
+    "target_selector": "#n17f382686b781a",
+    "scope_selector": "#u17f382686b781a",
+    "title": "자유게시판",
+    "location": "#n17f382686b781a",
+    "finding_techniques": [
+      "HOMOGLYPH"
+    ],
+    "label_reason": "대상과 같은 작성자의 문맥이 불법 대상 거래·이용을 직접 권유함.",
+    "label_status": "author_assigned_not_independently_human_reviewed"
+  },
+  {
+    "id": "2966f574411cb9",
+    "group_id": "g_aaeb2c9b3f8b",
+    "seed_index": 170,
+    "variant": 0,
+    "domain": "illegal_trade",
+    "role": "direct_offer",
+    "is_violation": true,
+    "base_text": "대포통장 매입 상담 DM 확인 중입니다. 판매할 분 연락 남겨주세요.",
+    "context_before": "",
+    "context_after": "",
+    "keyword": "대포통장",
+    "latin": "DM",
+    "source_ids": [
+      "public-abuse-report",
+      "forgery-report",
+      "sim-report",
+      "police-categories",
+      "segye-account-ad-report",
+      "account-qna-snippet"
+    ],
+    "authorship": "codex_synthetic_source_informed",
+    "revision_stratum": "rewritten_scenario",
+    "provenance_scope": "domain_pattern_reference_not_verbatim_or_per_sentence_proof",
+    "technique_origin": "organizer_rule_based_synthetic_not_observed_source_css",
+    "primary_stratum": "JAMO",
+    "techniques": [
+      "JAMO"
+    ],
+    "style_variant_index": 2,
+    "target_text": "ㄷㅐㅍㅗㅌㅗㅇㅈㅏㅇ 매입 상담 DM 확인 중입니다. 판매할 분 연락 남겨주세요.",
+    "text_transformations": [
+      {
+        "technique": "JAMO",
+        "kind": "compat",
+        "original": "대포통장",
+        "changed": "ㄷㅐㅍㅗㅌㅗㅇㅈㅏㅇ",
+        "original_codepoints": [
+          "U+B300",
+          "U+D3EC",
+          "U+D1B5",
+          "U+C7A5"
+        ],
+        "changed_codepoints": [
+          "U+3137",
+          "U+3150",
+          "U+314D",
+          "U+3157",
+          "U+314C",
+          "U+3157",
+          "U+3147",
+          "U+3148",
+          "U+314F",
+          "U+3147"
+        ],
+        "start_codepoint": 0,
+        "end_codepoint": 10,
+        "start_utf16": 0,
+        "end_utf16": 10
+      }
+    ],
+    "style_evidence": [],
+    "split_inline": false,
+    "dynamic": true,
+    "iframe": false,
+    "slot": "title",
+    "site": 0,
+    "page": 2,
+    "page_path": "/site-1/page-003.html",
+    "target_selector": "#n2966f574411cb9",
+    "scope_selector": "#u2966f574411cb9",
+    "title": "시민 게시판",
+    "location": "#n2966f574411cb9",
+    "finding_techniques": [
+      "JAMO"
+    ],
+    "label_reason": "대상과 같은 작성자의 문맥이 불법 대상 거래·이용을 직접 권유함.",
+    "label_status": "author_assigned_not_independently_human_reviewed"
+  },
+  {
+    "id": "922313b1942675",
+    "group_id": "g_46e62ccd17e7",
+    "seed_index": 81,
+    "variant": 0,
+    "domain": "illegal_adult",
+    "role": "direct_offer",
+    "is_violation": true,
+    "base_text": "불법촬영물 모아둔 방입니다. 유료 입장 원하시면 DM 주세요.",
+    "context_before": "",
+    "context_after": "",
+    "keyword": "불법촬영물",
+    "latin": "DM",
+    "source_ids": [
+      "adult-report",
+      "police-categories"
+    ],
+    "authorship": "codex_synthetic_source_informed",
+    "revision_stratum": "rewritten_scenario",
+    "provenance_scope": "domain_pattern_reference_not_verbatim_or_per_sentence_proof",
+    "technique_origin": "organizer_rule_based_synthetic_not_observed_source_css",
+    "primary_stratum": "JAMO",
+    "techniques": [
+      "JAMO"
+    ],
+    "style_variant_index": 0,
+    "target_text": "ㅂㅜㄹ ㅂㅓㅂ ㅊㅘㄹ ㅇㅕㅇ ㅁㅜㄹ 모아둔 방입니다. 유료 입장 원하시면 DM 주세요.",
+    "text_transformations": [
+      {
+        "technique": "JAMO",
+        "kind": "compat-spaces",
+        "original": "불법촬영물",
+        "changed": "ㅂㅜㄹ ㅂㅓㅂ ㅊㅘㄹ ㅇㅕㅇ ㅁㅜㄹ",
+        "original_codepoints": [
+          "U+BD88",
+          "U+BC95",
+          "U+CD2C",
+          "U+C601",
+          "U+BB3C"
+        ],
+        "changed_codepoints": [
+          "U+3142",
+          "U+315C",
+          "U+3139",
+          "U+0020",
+          "U+3142",
+          "U+3153",
+          "U+3142",
+          "U+0020",
+          "U+314A",
+          "U+3158",
+          "U+3139",
+          "U+0020",
+          "U+3147",
+          "U+3155",
+          "U+3147",
+          "U+0020",
+          "U+3141",
+          "U+315C",
+          "U+3139"
+        ],
+        "start_codepoint": 0,
+        "end_codepoint": 19,
+        "start_utf16": 0,
+        "end_utf16": 19
+      }
+    ],
+    "style_evidence": [],
+    "split_inline": false,
+    "dynamic": false,
+    "iframe": false,
+    "slot": "body",
+    "site": 1,
+    "page": 11,
+    "page_path": "/site-2/page-012.html",
+    "target_selector": "#n922313b1942675",
+    "scope_selector": "#u922313b1942675",
+    "title": "자유게시판",
+    "location": "#n922313b1942675",
+    "finding_techniques": [
+      "JAMO"
+    ],
+    "label_reason": "대상과 같은 작성자의 문맥이 불법 대상 거래·이용을 직접 권유함.",
+    "label_status": "author_assigned_not_independently_human_reviewed"
+  },
+  {
+    "id": "4f075033d4e616",
+    "group_id": "g_e576f2896cb0",
+    "seed_index": 90,
+    "variant": 0,
+    "domain": "illegal_adult",
+    "role": "direct_offer",
+    "is_violation": true,
+    "base_text": "불법촬영물 구매 상담 다시 해요. 자료방 입장하실 분 DM 남겨주세요.",
+    "context_before": "",
+    "context_after": "",
+    "keyword": "불법촬영물",
+    "latin": "DM",
+    "source_ids": [
+      "adult-report",
+      "police-categories"
+    ],
+    "authorship": "codex_synthetic_source_informed",
+    "revision_stratum": "rewritten_scenario",
+    "provenance_scope": "domain_pattern_reference_not_verbatim_or_per_sentence_proof",
+    "technique_origin": "organizer_rule_based_synthetic_not_observed_source_css",
+    "primary_stratum": "JAMO",
+    "techniques": [
+      "JAMO"
+    ],
+    "style_variant_index": 1,
+    "target_text": "ㅂㅜㄹㅂㅓㅂㅊㅘㄹㅇㅕㅇㅁㅜㄹ 구매 상담 다시 해요. 자료방 입장하실 분 DM 남겨주세요.",
+    "text_transformations": [
+      {
+        "technique": "JAMO",
+        "kind": "compat",
+        "original": "불법촬영물",
+        "changed": "ㅂㅜㄹㅂㅓㅂㅊㅘㄹㅇㅕㅇㅁㅜㄹ",
+        "original_codepoints": [
+          "U+BD88",
+          "U+BC95",
+          "U+CD2C",
+          "U+C601",
+          "U+BB3C"
+        ],
+        "changed_codepoints": [
+          "U+3142",
+          "U+315C",
+          "U+3139",
+          "U+3142",
+          "U+3153",
+          "U+3142",
+          "U+314A",
+          "U+3158",
+          "U+3139",
+          "U+3147",
+          "U+3155",
+          "U+3147",
+          "U+3141",
+          "U+315C",
+          "U+3139"
+        ],
+        "start_codepoint": 0,
+        "end_codepoint": 15,
+        "start_utf16": 0,
+        "end_utf16": 15
+      }
+    ],
+    "style_evidence": [],
+    "split_inline": false,
+    "dynamic": false,
+    "iframe": false,
+    "slot": "comment",
+    "site": 7,
+    "page": 71,
+    "page_path": "/site-8/page-072.html",
+    "target_selector": "#n4f075033d4e616",
+    "scope_selector": "#u4f075033d4e616",
+    "title": "생활 문의",
+    "location": "#n4f075033d4e616",
+    "finding_techniques": [
+      "JAMO"
+    ],
+    "label_reason": "대상과 같은 작성자의 문맥이 불법 대상 거래·이용을 직접 권유함.",
+    "label_status": "author_assigned_not_independently_human_reviewed"
+  },
+  {
+    "id": "107b25a373d318",
+    "group_id": "g_f141499c009d",
+    "seed_index": 1,
+    "variant": 0,
+    "domain": "gambling",
+    "role": "direct_offer",
+    "is_violation": true,
+    "base_text": "SLOT 전용방 오늘 열었어요. 슬롯 충전하면 추가 적립, 잔액 현금 환전됩니다. 새 회원 받습니다.",
+    "context_before": "",
+    "context_after": "",
+    "keyword": "슬롯",
+    "latin": "SLOT",
+    "source_ids": [
+      "board-spam",
+      "board-bonus",
+      "gambling-prevention",
+      "yju-qna-snippet",
+      "wipo-ad-analysis"
+    ],
+    "authorship": "codex_synthetic_source_informed",
+    "revision_stratum": "rewritten_scenario",
+    "provenance_scope": "domain_pattern_reference_not_verbatim_or_per_sentence_proof",
+    "technique_origin": "organizer_rule_based_synthetic_not_observed_source_css",
+    "primary_stratum": "JAMO",
+    "techniques": [
+      "JAMO"
+    ],
+    "style_variant_index": 0,
+    "target_text": "SLOT 전용방 오늘 열었어요. ㅅㅡㄹ ㄹㅗㅅ 충전하면 추가 적립, 잔액 현금 환전됩니다. 새 회원 받습니다.",
+    "text_transformations": [
+      {
+        "technique": "JAMO",
+        "kind": "compat-spaces",
+        "original": "슬롯",
+        "changed": "ㅅㅡㄹ ㄹㅗㅅ",
+        "original_codepoints": [
+          "U+C2AC",
+          "U+B86F"
+        ],
+        "changed_codepoints": [
+          "U+3145",
+          "U+3161",
+          "U+3139",
+          "U+0020",
+          "U+3139",
+          "U+3157",
+          "U+3145"
+        ],
+        "start_codepoint": 18,
+        "end_codepoint": 25,
+        "start_utf16": 18,
+        "end_utf16": 25
+      }
+    ],
+    "style_evidence": [],
+    "split_inline": true,
+    "dynamic": false,
+    "iframe": false,
+    "slot": "body",
+    "site": 8,
+    "page": 83,
+    "page_path": "/site-9/page-084.html",
+    "target_selector": "#n107b25a373d318",
+    "scope_selector": "#u107b25a373d318",
+    "title": "주민 소통",
+    "location": "#n107b25a373d318",
+    "finding_techniques": [
+      "JAMO"
+    ],
+    "label_reason": "대상과 같은 작성자의 문맥이 불법 대상 거래·이용을 직접 권유함.",
+    "label_status": "author_assigned_not_independently_human_reviewed"
+  },
+  {
+    "id": "79e6486ea67749",
+    "group_id": "g_1df4ffecdde0",
+    "seed_index": 50,
+    "variant": 0,
+    "domain": "drugs",
+    "role": "direct_offer",
+    "is_violation": true,
+    "base_text": "필로폰 찾으셨던 분 아직 계신가요? 판매 중입니다. Telegram 구매 상담 남겨요.",
+    "context_before": "",
+    "context_after": "",
+    "keyword": "필로폰",
+    "latin": "Telegram",
+    "source_ids": [
+      "drug-community",
+      "drug-report",
+      "fn-drug-ad-report"
+    ],
+    "authorship": "codex_synthetic_source_informed",
+    "revision_stratum": "rewritten_scenario",
+    "provenance_scope": "domain_pattern_reference_not_verbatim_or_per_sentence_proof",
+    "technique_origin": "organizer_rule_based_synthetic_not_observed_source_css",
+    "primary_stratum": "TRANSPARENT",
+    "techniques": [
+      "TRANSPARENT"
+    ],
+    "style_variant_index": 0,
+    "target_text": "필로폰 찾으셨던 분 아직 계신가요? 판매 중입니다. Telegram 구매 상담 남겨요.",
+    "text_transformations": [],
+    "style_evidence": [
+      {
+        "technique": "TRANSPARENT",
+        "kind": "opacity-zero",
+        "css": "opacity:0",
+        "scope": "target"
+      }
+    ],
+    "split_inline": false,
+    "dynamic": true,
+    "iframe": false,
+    "slot": "title",
+    "site": 4,
+    "page": 41,
+    "page_path": "/site-5/page-042.html",
+    "target_selector": "#n79e6486ea67749",
+    "scope_selector": "#u79e6486ea67749",
+    "title": "참여 마당",
+    "location": "#n79e6486ea67749",
+    "finding_techniques": [
+      "TRANSPARENT"
+    ],
+    "label_reason": "대상과 같은 작성자의 문맥이 불법 대상 거래·이용을 직접 권유함.",
+    "label_status": "author_assigned_not_independently_human_reviewed"
+  },
+  {
+    "id": "864aa8af267c3e",
+    "group_id": "g_8e78c3fd42cf",
+    "seed_index": 15,
+    "variant": 0,
+    "domain": "gambling",
+    "role": "direct_offer",
+    "is_violation": true,
+    "base_text": "온라인 홀덤 POKER 테이블 채웁니다. 현금으로 칩 충전하고 환전하는 방이에요. 참여할 분 연락 주세요.",
+    "context_before": "",
+    "context_after": "",
+    "keyword": "홀덤",
+    "latin": "POKER",
+    "source_ids": [
+      "board-spam",
+      "board-bonus",
+      "gambling-prevention",
+      "yju-qna-snippet",
+      "wipo-ad-analysis"
+    ],
+    "authorship": "codex_synthetic_source_informed",
+    "revision_stratum": "rewritten_scenario",
+    "provenance_scope": "domain_pattern_reference_not_verbatim_or_per_sentence_proof",
+    "technique_origin": "organizer_rule_based_synthetic_not_observed_source_css",
+    "primary_stratum": "TRANSPARENT",
+    "techniques": [
+      "TRANSPARENT"
+    ],
+    "style_variant_index": 3,
+    "target_text": "온라인 홀덤 POKER 테이블 채웁니다. 현금으로 칩 충전하고 환전하는 방이에요. 참여할 분 연락 주세요.",
+    "text_transformations": [],
+    "style_evidence": [
+      {
+        "technique": "TRANSPARENT",
+        "kind": "matching-solid-color",
+        "css": "color:rgb(245,245,245);background-color:rgb(245,245,245)",
+        "scope": "ancestor"
+      }
+    ],
+    "split_inline": true,
+    "dynamic": false,
+    "iframe": false,
+    "slot": "link",
+    "site": 6,
+    "page": 67,
+    "page_path": "/site-7/page-068.html",
+    "target_selector": "#n864aa8af267c3e",
+    "scope_selector": "#u864aa8af267c3e",
+    "title": "자유게시판",
+    "location": "#n864aa8af267c3e",
+    "finding_techniques": [
+      "TRANSPARENT"
+    ],
+    "label_reason": "대상과 같은 작성자의 문맥이 불법 대상 거래·이용을 직접 권유함.",
+    "label_status": "author_assigned_not_independently_human_reviewed"
+  },
+  {
+    "id": "66b7826f5f4e15",
+    "group_id": "g_ab23f4be076d",
+    "seed_index": 48,
+    "variant": 0,
+    "domain": "drugs",
+    "role": "direct_offer",
+    "is_violation": true,
+    "base_text": "코카인 판매 상담 열어두었습니다. 구매할 분 Telegram 문의 주세요.",
+    "context_before": "",
+    "context_after": "",
+    "keyword": "코카인",
+    "latin": "Telegram",
+    "source_ids": [
+      "drug-community",
+      "drug-report",
+      "fn-drug-ad-report"
+    ],
+    "authorship": "codex_synthetic_source_informed",
+    "revision_stratum": "rewritten_scenario",
+    "provenance_scope": "domain_pattern_reference_not_verbatim_or_per_sentence_proof",
+    "technique_origin": "organizer_rule_based_synthetic_not_observed_source_css",
+    "primary_stratum": "TRANSPARENT",
+    "techniques": [
+      "TRANSPARENT"
+    ],
+    "style_variant_index": 1,
+    "target_text": "코카인 판매 상담 열어두었습니다. 구매할 분 Telegram 문의 주세요.",
+    "text_transformations": [],
+    "style_evidence": [
+      {
+        "technique": "TRANSPARENT",
+        "kind": "transparent-color",
+        "css": "color:transparent",
+        "scope": "ancestor"
+      }
+    ],
+    "split_inline": false,
+    "dynamic": false,
+    "iframe": false,
+    "slot": "title",
+    "site": 8,
+    "page": 88,
+    "page_path": "/site-9/page-089.html",
+    "target_selector": "#n66b7826f5f4e15",
+    "scope_selector": "#u66b7826f5f4e15",
+    "title": "주민 소통",
+    "location": "#n66b7826f5f4e15",
+    "finding_techniques": [
+      "TRANSPARENT"
+    ],
+    "label_reason": "대상과 같은 작성자의 문맥이 불법 대상 거래·이용을 직접 권유함.",
+    "label_status": "author_assigned_not_independently_human_reviewed"
+  },
+  {
+    "id": "662acd427daa98",
+    "group_id": "g_1c2aa3662464",
+    "seed_index": 164,
+    "variant": 0,
+    "domain": "illegal_trade",
+    "role": "direct_offer",
+    "is_violation": true,
+    "base_text": "통장 임대 모집. 타인 거래에 빌려주고 대가 받으실 분 Telegram으로요.",
+    "context_before": "",
+    "context_after": "",
+    "keyword": "통장",
+    "latin": "Telegram",
+    "source_ids": [
+      "public-abuse-report",
+      "forgery-report",
+      "sim-report",
+      "police-categories",
+      "segye-account-ad-report",
+      "account-qna-snippet"
+    ],
+    "authorship": "codex_synthetic_source_informed",
+    "revision_stratum": "rewritten_scenario",
+    "provenance_scope": "domain_pattern_reference_not_verbatim_or_per_sentence_proof",
+    "technique_origin": "organizer_rule_based_synthetic_not_observed_source_css",
+    "primary_stratum": "OFFSCREEN",
+    "techniques": [
+      "OFFSCREEN"
+    ],
+    "style_variant_index": 2,
+    "target_text": "통장 임대 모집. 타인 거래에 빌려주고 대가 받으실 분 Telegram으로요.",
+    "text_transformations": [],
+    "style_evidence": [
+      {
+        "technique": "OFFSCREEN",
+        "kind": "font-zero",
+        "css": "font-size:0px",
+        "scope": "target"
+      }
+    ],
+    "split_inline": false,
+    "dynamic": false,
+    "iframe": false,
+    "slot": "title",
+    "site": 0,
+    "page": 3,
+    "page_path": "/site-1/page-004.html",
+    "target_selector": "#n662acd427daa98",
+    "scope_selector": "#u662acd427daa98",
+    "title": "시민 게시판",
+    "location": "#n662acd427daa98",
+    "finding_techniques": [
+      "OFFSCREEN"
+    ],
+    "label_reason": "대상과 같은 작성자의 문맥이 불법 대상 거래·이용을 직접 권유함.",
+    "label_status": "author_assigned_not_independently_human_reviewed"
+  },
+  {
+    "id": "982fb6bfe9b1b1",
+    "group_id": "g_cdb1834f933b",
+    "seed_index": 122,
+    "variant": 0,
+    "domain": "sex_trade",
+    "role": "direct_offer",
+    "is_violation": true,
+    "base_text": "성매매 예약창 바뀌었습니다. Telegram에서 오늘 방문 문의 받아요.",
+    "context_before": "",
+    "context_after": "",
+    "keyword": "성매매",
+    "latin": "Telegram",
+    "source_ids": [
+      "sextrade-report",
+      "sextrade-reservations",
+      "police-categories"
+    ],
+    "authorship": "codex_synthetic_source_informed",
+    "revision_stratum": "rewritten_scenario",
+    "provenance_scope": "domain_pattern_reference_not_verbatim_or_per_sentence_proof",
+    "technique_origin": "organizer_rule_based_synthetic_not_observed_source_css",
+    "primary_stratum": "OFFSCREEN",
+    "techniques": [
+      "OFFSCREEN"
+    ],
+    "style_variant_index": 0,
+    "target_text": "성매매 예약창 바뀌었습니다. Telegram에서 오늘 방문 문의 받아요.",
+    "text_transformations": [],
+    "style_evidence": [
+      {
+        "technique": "OFFSCREEN",
+        "kind": "display-none",
+        "css": "display:none",
+        "scope": "target"
+      }
+    ],
+    "split_inline": false,
+    "dynamic": false,
+    "iframe": false,
+    "slot": "comment",
+    "site": 2,
+    "page": 25,
+    "page_path": "/site-3/page-026.html",
+    "target_selector": "#n982fb6bfe9b1b1",
+    "scope_selector": "#u982fb6bfe9b1b1",
+    "title": "생활 문의",
+    "location": "#n982fb6bfe9b1b1",
+    "finding_techniques": [
+      "OFFSCREEN"
+    ],
+    "label_reason": "대상과 같은 작성자의 문맥이 불법 대상 거래·이용을 직접 권유함.",
+    "label_status": "author_assigned_not_independently_human_reviewed"
+  },
+  {
+    "id": "ed3c61bcd6567b",
+    "group_id": "g_5b2bc13e7d87",
+    "seed_index": 120,
+    "variant": 0,
+    "domain": "sex_trade",
+    "role": "direct_offer",
+    "is_violation": true,
+    "base_text": "오늘 성매매 예약 자리 있습니다. 방문 문의 DM으로 남겨주세요.",
+    "context_before": "",
+    "context_after": "",
+    "keyword": "성매매",
+    "latin": "DM",
+    "source_ids": [
+      "sextrade-report",
+      "sextrade-reservations",
+      "police-categories"
+    ],
+    "authorship": "codex_synthetic_source_informed",
+    "revision_stratum": "rewritten_scenario",
+    "provenance_scope": "domain_pattern_reference_not_verbatim_or_per_sentence_proof",
+    "technique_origin": "organizer_rule_based_synthetic_not_observed_source_css",
+    "primary_stratum": "OFFSCREEN",
+    "techniques": [
+      "OFFSCREEN"
+    ],
+    "style_variant_index": 1,
+    "target_text": "오늘 성매매 예약 자리 있습니다. 방문 문의 DM으로 남겨주세요.",
+    "text_transformations": [],
+    "style_evidence": [
+      {
+        "technique": "OFFSCREEN",
+        "kind": "negative-left",
+        "css": "position:absolute;left:-9999px;top:0;width:600px",
+        "scope": "ancestor"
+      }
+    ],
+    "split_inline": false,
+    "dynamic": false,
+    "iframe": false,
+    "slot": "reply",
+    "site": 2,
+    "page": 29,
+    "page_path": "/site-3/page-030.html",
+    "target_selector": "#ned3c61bcd6567b",
+    "scope_selector": "#ued3c61bcd6567b",
+    "title": "생활 문의",
+    "location": "#ned3c61bcd6567b",
+    "finding_techniques": [
+      "OFFSCREEN"
+    ],
+    "label_reason": "대상과 같은 작성자의 문맥이 불법 대상 거래·이용을 직접 권유함.",
+    "label_status": "author_assigned_not_independently_human_reviewed"
+  },
+  {
+    "id": "953db839de42a6",
+    "group_id": "g_e86f4647de0a",
+    "seed_index": 131,
+    "variant": 3,
+    "domain": "sex_trade",
+    "role": "short_offer_with_own_body",
+    "is_violation": true,
+    "base_text": "유료만남 DM 문의",
+    "context_before": "",
+    "context_after": "성인 유료만남 오늘 예약 가능합니다. 성관계 포함 유료 이용, DM 문의.",
+    "keyword": "유료만남",
+    "latin": "DM",
+    "source_ids": [
+      "sextrade-report",
+      "sextrade-reservations",
+      "police-categories"
+    ],
+    "authorship": "codex_synthetic_source_informed",
+    "revision_stratum": "rewritten_scenario",
+    "provenance_scope": "domain_pattern_reference_not_verbatim_or_per_sentence_proof",
+    "technique_origin": "organizer_rule_based_synthetic_not_observed_source_css",
+    "primary_stratum": "JAMO",
+    "techniques": [
+      "JAMO"
+    ],
+    "style_variant_index": 1,
+    "target_text": "유료만남 DM 문의",
+    "text_transformations": [
+      {
+        "technique": "JAMO",
+        "kind": "nfd",
+        "original": "유료만남",
+        "changed": "유료만남",
+        "original_codepoints": [
+          "U+C720",
+          "U+B8CC",
+          "U+B9CC",
+          "U+B0A8"
+        ],
+        "changed_codepoints": [
+          "U+110B",
+          "U+1172",
+          "U+1105",
+          "U+116D",
+          "U+1106",
+          "U+1161",
+          "U+11AB",
+          "U+1102",
+          "U+1161",
+          "U+11B7"
+        ],
+        "start_codepoint": 0,
+        "end_codepoint": 10,
+        "start_utf16": 0,
+        "end_utf16": 10
+      }
+    ],
+    "style_evidence": [],
+    "split_inline": true,
+    "dynamic": false,
+    "iframe": false,
+    "slot": "comment",
+    "site": 0,
+    "page": 1,
+    "page_path": "/site-1/page-002.html",
+    "target_selector": "#n953db839de42a6",
+    "scope_selector": "#u953db839de42a6",
+    "title": "시민 게시판",
+    "location": "#n953db839de42a6",
+    "finding_techniques": [
+      "JAMO"
+    ],
+    "label_reason": "대상과 같은 작성자의 문맥이 불법 대상 거래·이용을 직접 권유함.",
+    "label_status": "author_assigned_not_independently_human_reviewed"
+  },
+  {
+    "id": "3dadd376bba235",
+    "group_id": "g_5b2bc13e7d87",
+    "seed_index": 120,
+    "variant": 5,
+    "domain": "sex_trade",
+    "role": "reported_ad_with_own_context",
+    "is_violation": false,
+    "base_text": "오늘 성매매 예약 자리 있습니다. 방문 문의 DM으로 남겨주세요.",
+    "context_before": "제 민원 답글인 줄 눌렀는데 이게 달려 있네요. 지워주실 수 있나요?",
+    "context_after": "",
+    "keyword": "성매매",
+    "latin": "DM",
+    "source_ids": [
+      "sextrade-report",
+      "sextrade-reservations",
+      "police-categories"
+    ],
+    "authorship": "codex_synthetic_source_informed",
+    "revision_stratum": "rewritten_scenario",
+    "provenance_scope": "domain_pattern_reference_not_verbatim_or_per_sentence_proof",
+    "technique_origin": "organizer_rule_based_synthetic_not_observed_source_css",
+    "primary_stratum": "HOMOGLYPH",
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "style_variant_index": 1,
+    "target_text": "오늘 성매매 예약 자리 있습니다. 방문 문의 DМ으로 남겨주세요.",
+    "text_transformations": [
+      {
+        "technique": "HOMOGLYPH",
+        "kind": "mixed-cyrillic-existing-span",
+        "original": "DM",
+        "changed": "DМ",
+        "original_codepoints": [
+          "U+0044",
+          "U+004D"
+        ],
+        "changed_codepoints": [
+          "U+0044",
+          "U+041C"
+        ],
+        "basis": "visual character substitution, not phonetic transliteration",
+        "start_codepoint": 25,
+        "end_codepoint": 27,
+        "start_utf16": 25,
+        "end_utf16": 27
+      }
+    ],
+    "style_evidence": [],
+    "split_inline": true,
+    "dynamic": false,
+    "iframe": false,
+    "slot": "comment",
+    "site": 0,
+    "page": 0,
+    "page_path": "/site-1/page-001.html",
+    "target_selector": "#n3dadd376bba235",
+    "scope_selector": "#u3dadd376bba235",
+    "title": "시민 게시판",
+    "location": "#n3dadd376bba235",
+    "finding_techniques": [],
+    "label_reason": "신고·삭제 요청·피해 상담·합법적 문의이며 해당 거래나 이용을 권유하지 않음.",
+    "label_status": "author_assigned_not_independently_human_reviewed"
+  },
+  {
+    "id": "5bd57094422238",
+    "group_id": "g_cd32a9162ce6",
+    "seed_index": 126,
+    "variant": 5,
+    "domain": "sex_trade",
+    "role": "reported_ad_with_own_context",
+    "is_violation": false,
+    "base_text": "성인 유료만남 예약 상담 Telegram으로요. 성관계 포함 유료 예약입니다.",
+    "context_before": "아이랑 행사 일정 보다가 이런 댓글을 봤어요. 아래 내용 삭제 요청합니다.",
+    "context_after": "",
+    "keyword": "유료만남",
+    "latin": "Telegram",
+    "source_ids": [
+      "sextrade-report",
+      "sextrade-reservations",
+      "police-categories"
+    ],
+    "authorship": "codex_synthetic_source_informed",
+    "revision_stratum": "rewritten_scenario",
+    "provenance_scope": "domain_pattern_reference_not_verbatim_or_per_sentence_proof",
+    "technique_origin": "organizer_rule_based_synthetic_not_observed_source_css",
+    "primary_stratum": "HOMOGLYPH",
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "style_variant_index": 0,
+    "target_text": "성인 유료만남 예약 상담 Теlеgrаm으로요. 성관계 포함 유료 예약입니다.",
+    "text_transformations": [
+      {
+        "technique": "HOMOGLYPH",
+        "kind": "mixed-cyrillic-existing-span",
+        "original": "Telegram",
+        "changed": "Теlеgrаm",
+        "original_codepoints": [
+          "U+0054",
+          "U+0065",
+          "U+006C",
+          "U+0065",
+          "U+0067",
+          "U+0072",
+          "U+0061",
+          "U+006D"
+        ],
+        "changed_codepoints": [
+          "U+0422",
+          "U+0435",
+          "U+006C",
+          "U+0435",
+          "U+0067",
+          "U+0072",
+          "U+0430",
+          "U+006D"
+        ],
+        "basis": "visual character substitution, not phonetic transliteration",
+        "start_codepoint": 14,
+        "end_codepoint": 22,
+        "start_utf16": 14,
+        "end_utf16": 22
+      }
+    ],
+    "style_evidence": [],
+    "split_inline": false,
+    "dynamic": false,
+    "iframe": false,
+    "slot": "table",
+    "site": 0,
+    "page": 3,
+    "page_path": "/site-1/page-004.html",
+    "target_selector": "#n5bd57094422238",
+    "scope_selector": "#u5bd57094422238",
+    "title": "시민 게시판",
+    "location": "#n5bd57094422238",
+    "finding_techniques": [],
+    "label_reason": "신고·삭제 요청·피해 상담·합법적 문의이며 해당 거래나 이용을 권유하지 않음.",
+    "label_status": "author_assigned_not_independently_human_reviewed"
+  },
+  {
+    "id": "17ff03079b72f4",
+    "group_id": "g_be1d73ada4f8",
+    "seed_index": 82,
+    "variant": 5,
+    "domain": "illegal_adult",
+    "role": "reported_ad_with_own_context",
+    "is_violation": false,
+    "base_text": "무단 유포된 성인 유출영상 판매방. 목록 보실 분 Telegram 문의 남겨요.",
+    "context_before": "어제 지워진 글이 다시 보여요. 아래 내용 확인 부탁드립니다.",
+    "context_after": "",
+    "keyword": "유출영상",
+    "latin": "Telegram",
+    "source_ids": [
+      "adult-report",
+      "police-categories"
+    ],
+    "authorship": "codex_synthetic_source_informed",
+    "revision_stratum": "rewritten_scenario",
+    "provenance_scope": "domain_pattern_reference_not_verbatim_or_per_sentence_proof",
+    "technique_origin": "organizer_rule_based_synthetic_not_observed_source_css",
+    "primary_stratum": "HOMOGLYPH",
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "style_variant_index": 3,
+    "target_text": "무단 유포된 성인 유출영상 판매방. 목록 보실 분 Теlеgrаm 문의 남겨요.",
+    "text_transformations": [
+      {
+        "technique": "HOMOGLYPH",
+        "kind": "mixed-cyrillic-existing-span",
+        "original": "Telegram",
+        "changed": "Теlеgrаm",
+        "original_codepoints": [
+          "U+0054",
+          "U+0065",
+          "U+006C",
+          "U+0065",
+          "U+0067",
+          "U+0072",
+          "U+0061",
+          "U+006D"
+        ],
+        "changed_codepoints": [
+          "U+0422",
+          "U+0435",
+          "U+006C",
+          "U+0435",
+          "U+0067",
+          "U+0072",
+          "U+0430",
+          "U+006D"
+        ],
+        "basis": "visual character substitution, not phonetic transliteration",
+        "start_codepoint": 28,
+        "end_codepoint": 36,
+        "start_utf16": 28,
+        "end_utf16": 36
+      }
+    ],
+    "style_evidence": [],
+    "split_inline": false,
+    "dynamic": false,
+    "iframe": true,
+    "slot": "link",
+    "site": 0,
+    "page": 3,
+    "page_path": "/site-1/page-004.html",
+    "target_selector": "#n17ff03079b72f4",
+    "scope_selector": "#u17ff03079b72f4",
+    "title": "시민 게시판",
+    "location": "iframe#f17ff03079b72f4 >>> #n17ff03079b72f4",
+    "finding_techniques": [],
+    "label_reason": "신고·삭제 요청·피해 상담·합법적 문의이며 해당 거래나 이용을 권유하지 않음.",
+    "label_status": "author_assigned_not_independently_human_reviewed"
+  },
+  {
+    "id": "7430213f716436",
+    "group_id": "g_38dc1290d59b",
+    "seed_index": 169,
+    "variant": 5,
+    "domain": "illegal_trade",
+    "role": "reported_ad_with_own_context",
+    "is_violation": false,
+    "base_text": "통장 빌려주실 분 찾습니다. 다른 사람이 거래하는 조건이고 대가 드려요. Telegram 문의.",
+    "context_before": "",
+    "context_after": "어제 신고했는데 그대로예요. 아래 댓글 삭제 좀 부탁드려요.",
+    "keyword": "통장",
+    "latin": "Telegram",
+    "source_ids": [
+      "public-abuse-report",
+      "forgery-report",
+      "sim-report",
+      "police-categories",
+      "segye-account-ad-report",
+      "account-qna-snippet"
+    ],
+    "authorship": "codex_synthetic_source_informed",
+    "revision_stratum": "rewritten_scenario",
+    "provenance_scope": "domain_pattern_reference_not_verbatim_or_per_sentence_proof",
+    "technique_origin": "organizer_rule_based_synthetic_not_observed_source_css",
+    "primary_stratum": "TRANSPARENT",
+    "techniques": [
+      "TRANSPARENT"
+    ],
+    "style_variant_index": 3,
+    "target_text": "통장 빌려주실 분 찾습니다. 다른 사람이 거래하는 조건이고 대가 드려요. Telegram 문의.",
+    "text_transformations": [],
+    "style_evidence": [
+      {
+        "technique": "TRANSPARENT",
+        "kind": "matching-solid-color",
+        "css": "color:rgb(245,245,245);background-color:rgb(245,245,245)",
+        "scope": "ancestor"
+      }
+    ],
+    "split_inline": false,
+    "dynamic": false,
+    "iframe": false,
+    "slot": "comment",
+    "site": 0,
+    "page": 5,
+    "page_path": "/site-1/page-006.html",
+    "target_selector": "#n7430213f716436",
+    "scope_selector": "#u7430213f716436",
+    "title": "시민 게시판",
+    "location": "#n7430213f716436",
+    "finding_techniques": [],
+    "label_reason": "신고·삭제 요청·피해 상담·합법적 문의이며 해당 거래나 이용을 권유하지 않음.",
+    "label_status": "author_assigned_not_independently_human_reviewed"
+  }
+]

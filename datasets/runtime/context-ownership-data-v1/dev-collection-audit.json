@@ -1,0 +1,410 @@
+[
+  {
+    "scenario": "quote",
+    "variant": 0,
+    "scope": {
+      "tag": "article",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [
+      "피해 상담 기록에 등장한 권유 문장을 자료로 옮겼습니다. 아래 인용은 홍보가 아니며 돈을 보내면 피해를 입을 수 있습니다."
+    ],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "quote",
+    "variant": 1,
+    "scope": {
+      "tag": "article",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [
+      "피해 상담 기록에 등장한 권유 문장을 자료로 옮겼습니다. 아래 인용은 홍보가 아니며 돈을 보내면 피해를 입을 수 있습니다."
+    ],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "quote",
+    "variant": 2,
+    "scope": {
+      "tag": "article",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [
+      "피해 상담 기록에 등장한 권유 문장을 자료로 옮겼습니다. 아래 인용은 홍보가 아니며 돈을 보내면 피해를 입을 수 있습니다."
+    ],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "quote",
+    "variant": 3,
+    "scope": {
+      "tag": "article",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [
+      "피해 상담 기록에 등장한 권유 문장을 자료로 옮겼습니다. 아래 인용은 홍보가 아니며 돈을 보내면 피해를 입을 수 있습니다."
+    ],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "warning-ad",
+    "variant": 0,
+    "scope": {
+      "tag": "article",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [
+      "다른 이용자의 글"
+    ],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "warning-ad",
+    "variant": 1,
+    "scope": {
+      "tag": "article",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [
+      "다른 이용자의 글"
+    ],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "warning-ad",
+    "variant": 2,
+    "scope": {
+      "tag": "article",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [
+      "다른 이용자의 글"
+    ],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "warning-ad",
+    "variant": 3,
+    "scope": {
+      "tag": "article",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [
+      "다른 이용자의 글"
+    ],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "other-comment",
+    "variant": 0,
+    "scope": {
+      "tag": "div",
+      "role": "comment",
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "other-comment",
+    "variant": 1,
+    "scope": {
+      "tag": "div",
+      "role": "comment",
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "other-comment",
+    "variant": 2,
+    "scope": {
+      "tag": "div",
+      "role": "comment",
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "other-comment",
+    "variant": 3,
+    "scope": {
+      "tag": "div",
+      "role": "comment",
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "neighbor-ad",
+    "variant": 0,
+    "scope": {
+      "tag": "div",
+      "role": "comment",
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "neighbor-ad",
+    "variant": 1,
+    "scope": {
+      "tag": "div",
+      "role": "comment",
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "neighbor-ad",
+    "variant": 2,
+    "scope": {
+      "tag": "div",
+      "role": "comment",
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "neighbor-ad",
+    "variant": 3,
+    "scope": {
+      "tag": "div",
+      "role": "comment",
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "linked",
+    "variant": 0,
+    "scope": {
+      "tag": "article",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [
+      "다음 연결은 사설 도박방의 가입 창구입니다. 충전할 회원은 이곳을 이용하세요."
+    ],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "linked",
+    "variant": 1,
+    "scope": {
+      "tag": "article",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [
+      "다음 연결은 사설 도박방의 가입 창구입니다. 충전할 회원은 이곳을 이용하세요."
+    ],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "linked",
+    "variant": 2,
+    "scope": {
+      "tag": "article",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [
+      "다음 연결은 사설 도박방의 가입 창구입니다. 충전할 회원은 이곳을 이용하세요."
+    ],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "linked",
+    "variant": 3,
+    "scope": {
+      "tag": "article",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [
+      "다음 연결은 사설 도박방의 가입 창구입니다. 충전할 회원은 이곳을 이용하세요."
+    ],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "insufficient",
+    "variant": 0,
+    "scope": {
+      "tag": "article",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "insufficient",
+    "variant": 1,
+    "scope": {
+      "tag": "article",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "insufficient",
+    "variant": 2,
+    "scope": {
+      "tag": "article",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "insufficient",
+    "variant": 3,
+    "scope": {
+      "tag": "article",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "direct",
+    "variant": 0,
+    "scope": {
+      "tag": "article",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "direct",
+    "variant": 1,
+    "scope": {
+      "tag": "article",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "direct",
+    "variant": 2,
+    "scope": {
+      "tag": "article",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "direct",
+    "variant": 3,
+    "scope": {
+      "tag": "article",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "ordinary",
+    "variant": 0,
+    "scope": {
+      "tag": "article",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "ordinary",
+    "variant": 1,
+    "scope": {
+      "tag": "article",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "ordinary",
+    "variant": 2,
+    "scope": {
+      "tag": "article",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "ordinary",
+    "variant": 3,
+    "scope": {
+      "tag": "article",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  }
+]

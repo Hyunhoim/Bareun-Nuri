@@ -1,0 +1,1589 @@
+{
+  "metrics": {
+    "tp": 62,
+    "fp": 61,
+    "fn": 2,
+    "precision": 0.5040650406504065,
+    "recall": 0.96875,
+    "f1": 0.6631016042780749,
+    "macro_f1": 0.2135024717081342,
+    "confusion": [
+      [
+        62,
+        2,
+        0,
+        0
+      ],
+      [
+        29,
+        8,
+        0,
+        1
+      ],
+      [
+        32,
+        49,
+        0,
+        1
+      ],
+      [
+        12,
+        23,
+        0,
+        2
+      ]
+    ],
+    "uncertain_correct": 2,
+    "uncertain_as_ad": 12
+  },
+  "records": [
+    {
+      "id": "a-ft-development-001",
+      "panel": "new40",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.5408203999977559
+    },
+    {
+      "id": "a-ft-development-002",
+      "panel": "new40",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.4934568000026047
+    },
+    {
+      "id": "a-ft-development-003",
+      "panel": "new40",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.5200078000198118
+    },
+    {
+      "id": "a-ft-development-004",
+      "panel": "new40",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.49275530001614243
+    },
+    {
+      "id": "a-ft-development-005",
+      "panel": "new40",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.5062696999520995
+    },
+    {
+      "id": "a-ft-development-006",
+      "panel": "new40",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.48396659997524694
+    },
+    {
+      "id": "a-ft-development-007",
+      "panel": "new40",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.45415100001264364
+    },
+    {
+      "id": "a-ft-development-008",
+      "panel": "new40",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.4583234000019729
+    },
+    {
+      "id": "a-ft-development-009",
+      "panel": "new40",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.47922039998229593
+    },
+    {
+      "id": "a-ft-development-010",
+      "panel": "new40",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.464314499986358
+    },
+    {
+      "id": "a-ft-development-011",
+      "panel": "new40",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.4644187000230886
+    },
+    {
+      "id": "a-ft-development-012",
+      "panel": "new40",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.4656688999966718
+    },
+    {
+      "id": "a-ft-development-013",
+      "panel": "new40",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.46825139998691157
+    },
+    {
+      "id": "a-ft-development-014",
+      "panel": "new40",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.45724359998712316
+    },
+    {
+      "id": "a-ft-development-015",
+      "panel": "new40",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.4747703000321053
+    },
+    {
+      "id": "a-ft-development-016",
+      "panel": "new40",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.4457740999641828
+    },
+    {
+      "id": "a-ft-development-017",
+      "panel": "new40",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.45991689997026697
+    },
+    {
+      "id": "a-ft-development-018",
+      "panel": "new40",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.4852944999583997
+    },
+    {
+      "id": "a-ft-development-019",
+      "panel": "new40",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.4527624999755062
+    },
+    {
+      "id": "a-ft-development-020",
+      "panel": "new40",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.4692819999763742
+    },
+    {
+      "id": "a-ft-development-021",
+      "panel": "new40",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.4590061000199057
+    },
+    {
+      "id": "a-ft-development-022",
+      "panel": "new40",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.49497709999559447
+    },
+    {
+      "id": "a-ft-development-023",
+      "panel": "new40",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.4154126000357792
+    },
+    {
+      "id": "a-ft-development-024",
+      "panel": "new40",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.43488660000730306
+    },
+    {
+      "id": "a-ft-development-025",
+      "panel": "new40",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.4400941000203602
+    },
+    {
+      "id": "a-ft-development-026",
+      "panel": "new40",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.44412140001077205
+    },
+    {
+      "id": "a-ft-development-027",
+      "panel": "new40",
+      "prediction": 3,
+      "raw": "{\"label\":3}",
+      "seconds": 0.44747100002132356
+    },
+    {
+      "id": "a-ft-development-028",
+      "panel": "new40",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.44361399998888373
+    },
+    {
+      "id": "a-ft-development-029",
+      "panel": "new40",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.47427839995361865
+    },
+    {
+      "id": "a-ft-development-030",
+      "panel": "new40",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.5438697999925353
+    },
+    {
+      "id": "a-ft-development-031",
+      "panel": "new40",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.5631727999425493
+    },
+    {
+      "id": "a-ft-development-032",
+      "panel": "new40",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.5728243000339717
+    },
+    {
+      "id": "a-ft-development-033",
+      "panel": "new40",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.5698748999857344
+    },
+    {
+      "id": "a-ft-development-034",
+      "panel": "new40",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.5230981000349857
+    },
+    {
+      "id": "a-ft-development-035",
+      "panel": "new40",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.4744749999954365
+    },
+    {
+      "id": "a-ft-development-036",
+      "panel": "new40",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.43711609998717904
+    },
+    {
+      "id": "a-ft-development-037",
+      "panel": "new40",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.4407371999695897
+    },
+    {
+      "id": "a-ft-development-038",
+      "panel": "new40",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.47840959997847676
+    },
+    {
+      "id": "a-ft-development-039",
+      "panel": "new40",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.44166940002469346
+    },
+    {
+      "id": "a-ft-development-040",
+      "panel": "new40",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.46030330000212416
+    },
+    {
+      "id": "neced753936c32c",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.4702735000173561
+    },
+    {
+      "id": "n667a6b4141cfe5",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.4610335999750532
+    },
+    {
+      "id": "nbc1121a8c9295e",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.47355809999862686
+    },
+    {
+      "id": "ndcd3428db48085",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.4587431999971159
+    },
+    {
+      "id": "n6c01f952f2719f",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.47957040002802387
+    },
+    {
+      "id": "n377989783d85ba",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.4680581000284292
+    },
+    {
+      "id": "nac8f24c40cb28f",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.46423839998897165
+    },
+    {
+      "id": "nfd2d1ce3929afa",
+      "panel": "broad120",
+      "prediction": 3,
+      "raw": "{\"label\":3}",
+      "seconds": 0.46472029999131337
+    },
+    {
+      "id": "n980cff66d0bb60",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.4610214999993332
+    },
+    {
+      "id": "na87322a635650b",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.4562698000227101
+    },
+    {
+      "id": "n377b731d5bd53e",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.4710880999919027
+    },
+    {
+      "id": "nf87ee2f50720cd",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.4499111999757588
+    },
+    {
+      "id": "n8a5c8149a33a8d",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.45689200004562736
+    },
+    {
+      "id": "n9b295542f1e4c9",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.46622930001467466
+    },
+    {
+      "id": "nb288bd444bb610",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.44726260000607
+    },
+    {
+      "id": "nac65f850092b90",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.4337472000042908
+    },
+    {
+      "id": "n64796b6c01a79d",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.3668555000331253
+    },
+    {
+      "id": "n0582467d3dde36",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.32697980001103133
+    },
+    {
+      "id": "n311bde7bd8b972",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.38529649999691173
+    },
+    {
+      "id": "na1d3f8d08b42ec",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.3815654000500217
+    },
+    {
+      "id": "n13475b85afd8c6",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.4123471000348218
+    },
+    {
+      "id": "ne2937db121dfcd",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.404541700030677
+    },
+    {
+      "id": "n6ab5788fd0291a",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.392783600022085
+    },
+    {
+      "id": "na6b75bdbbb3638",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.3941255999961868
+    },
+    {
+      "id": "n407a8e6b6e677b",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.33598749997327104
+    },
+    {
+      "id": "n3c2f174ef19026",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.34710430004633963
+    },
+    {
+      "id": "n5a6f6a6ea94062",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.38606570003321394
+    },
+    {
+      "id": "na001fac493c5ae",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.4176484999479726
+    },
+    {
+      "id": "n347be94eab0ea2",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.3825899000512436
+    },
+    {
+      "id": "n1bf7f6b3d9ea41",
+      "panel": "broad120",
+      "prediction": 3,
+      "raw": "{\"label\":3}",
+      "seconds": 0.39517650002380833
+    },
+    {
+      "id": "nc838430fabd70f",
+      "panel": "broad120",
+      "prediction": 3,
+      "raw": "{\"label\":3}",
+      "seconds": 0.3589802000205964
+    },
+    {
+      "id": "nf7525c3b75af9c",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.34171940002124757
+    },
+    {
+      "id": "n488f8e3b19a416",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.38998069998342544
+    },
+    {
+      "id": "nf117c1ded050bf",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.4225637000054121
+    },
+    {
+      "id": "n5b264676ef255a",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.3932484000106342
+    },
+    {
+      "id": "n1d6e271ec3b82d",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.40014700003666803
+    },
+    {
+      "id": "n481ce8906ca07c",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.3771126000210643
+    },
+    {
+      "id": "n10f4522c16efde",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.41745489998720586
+    },
+    {
+      "id": "n70847a6176e370",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.40467889996943995
+    },
+    {
+      "id": "ne9c4c2960827b8",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.4124089000397362
+    },
+    {
+      "id": "n0ce3a137587058",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.3860058000427671
+    },
+    {
+      "id": "nac4145ade39cef",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.39919650001684204
+    },
+    {
+      "id": "ne0df75a5f5ab55",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.41791929997270927
+    },
+    {
+      "id": "n7547e70a07427c",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.41030480002518743
+    },
+    {
+      "id": "n8777701f14ec9b",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.3827451000106521
+    },
+    {
+      "id": "n22c3d0afd80893",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.3844225999782793
+    },
+    {
+      "id": "n43e6473e038116",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.37453289999393746
+    },
+    {
+      "id": "n8e5148f4f90fee",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.38529540004674345
+    },
+    {
+      "id": "ne3c03adc3f4bfe",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.3328981999657117
+    },
+    {
+      "id": "nd9bbe29074ddb7",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.3632552999770269
+    },
+    {
+      "id": "nf9795a1b69121c",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.3439771000412293
+    },
+    {
+      "id": "ndbed100712fe5a",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.3565851000021212
+    },
+    {
+      "id": "n7339eb212948e7",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.37908169999718666
+    },
+    {
+      "id": "nd2bc84b9940774",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.3565828000428155
+    },
+    {
+      "id": "nfba70f832bdddc",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.39608199999202043
+    },
+    {
+      "id": "n0b86d8cf10bf28",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.36791600001743063
+    },
+    {
+      "id": "n68c83c50931834",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.35796650004340336
+    },
+    {
+      "id": "nfcca939ab9bed6",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.3897650999715552
+    },
+    {
+      "id": "n390bede3144940",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.4181034999783151
+    },
+    {
+      "id": "n6be6224e513595",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.4187138000270352
+    },
+    {
+      "id": "nd28041d3f99a3b",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.4006246999488212
+    },
+    {
+      "id": "n1f12259f4e7728",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.40336189995286986
+    },
+    {
+      "id": "na4626a3247f75c",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.4088542999816127
+    },
+    {
+      "id": "n772dc451ca4089",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.41433739999774843
+    },
+    {
+      "id": "n6630484e03ef91",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.40852249995805323
+    },
+    {
+      "id": "nb5017443adec1e",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.3394529999932274
+    },
+    {
+      "id": "nab79d81aa067d4",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.417888900032267
+    },
+    {
+      "id": "n3713604977f9eb",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.3942643000045791
+    },
+    {
+      "id": "n830db57095a1a7",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.37851060001412407
+    },
+    {
+      "id": "nac67b9e25597fa",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.39870700001483783
+    },
+    {
+      "id": "nd90cbcf725fea7",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.3398913000128232
+    },
+    {
+      "id": "nc782b7bf557eb2",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.3381690999958664
+    },
+    {
+      "id": "n5781d5e4a9e871",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.34443759999703616
+    },
+    {
+      "id": "n8a7b5ea74911ae",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.41241260000970215
+    },
+    {
+      "id": "n9fdb26fd0a62a8",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.40520049998303875
+    },
+    {
+      "id": "n7105d7c2dda5e8",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.38835670001572
+    },
+    {
+      "id": "n1d654354b122a2",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.38390809996053576
+    },
+    {
+      "id": "nc618e71ec4ac9d",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.3531104000285268
+    },
+    {
+      "id": "nf90da4947df1c6",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.3687463999958709
+    },
+    {
+      "id": "n17c10ea5487aeb",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.40948009997373447
+    },
+    {
+      "id": "n6a00cb14713648",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.38166590000037104
+    },
+    {
+      "id": "n7522a736a02225",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.37084089999552816
+    },
+    {
+      "id": "n70725e3c173419",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.40211800002725795
+    },
+    {
+      "id": "n6743646fb78392",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.4078664999688044
+    },
+    {
+      "id": "n8b898656659006",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.3964675000170246
+    },
+    {
+      "id": "nc0d9902c8a681e",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.39980289997765794
+    },
+    {
+      "id": "n232426155e8e0a",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.35565179999684915
+    },
+    {
+      "id": "n84f0847248c61f",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.386730499973055
+    },
+    {
+      "id": "n9436c18342c0ba",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.3527472000569105
+    },
+    {
+      "id": "n34342daa7c67da",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.399284599989187
+    },
+    {
+      "id": "n91c25e07d21b48",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.38328040001215413
+    },
+    {
+      "id": "nb3bb17430ab804",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.373832700017374
+    },
+    {
+      "id": "n5b0d64bbdb496b",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.3718491000472568
+    },
+    {
+      "id": "n5bcb773b27dbb4",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.3701662999810651
+    },
+    {
+      "id": "n7b4319319b7f21",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.38464100001147017
+    },
+    {
+      "id": "ne20b1fbd1d4fe2",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.3651988999918103
+    },
+    {
+      "id": "n8e1bde8d4cc9ab",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.35019890003604814
+    },
+    {
+      "id": "naeea819d281b11",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.34789579996140674
+    },
+    {
+      "id": "nc7756ac48a850a",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.3986753999488428
+    },
+    {
+      "id": "na262c7df241c72",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.38828760001342744
+    },
+    {
+      "id": "nc87a38d7cef9c9",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.3311179000302218
+    },
+    {
+      "id": "n433b3b48018588",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.39050909999059513
+    },
+    {
+      "id": "n036b9bb7a9b674",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.41025090002221987
+    },
+    {
+      "id": "n7c82ddd51d22bd",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.40893490001326427
+    },
+    {
+      "id": "n2073f589b6fe29",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.41695220000110567
+    },
+    {
+      "id": "n4c38aaa0cfc8ce",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.41555450001033023
+    },
+    {
+      "id": "nceb8832c5deeb0",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.38074269995559007
+    },
+    {
+      "id": "n62fc1d520c2610",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.3684072000323795
+    },
+    {
+      "id": "n88f43a1be77a20",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.39115089998813346
+    },
+    {
+      "id": "n138afbe07f1f91",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.40810980001697317
+    },
+    {
+      "id": "n0972350de3102a",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.4140802000183612
+    },
+    {
+      "id": "ncdd4191ae97e3a",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.42202800000086427
+    },
+    {
+      "id": "n3fd9bef2c4a427",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.413399999961257
+    },
+    {
+      "id": "n7646e1695e554c",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.3972329999669455
+    },
+    {
+      "id": "nfaaf31462bb760",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.3760234999936074
+    },
+    {
+      "id": "nc145af7271d602",
+      "panel": "broad120",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.3700237000011839
+    },
+    {
+      "id": "na26a19882b8a73",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.4043854000046849
+    },
+    {
+      "id": "nfb5ff39b02703a",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.4106173000182025
+    },
+    {
+      "id": "n116062f9f129f1",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.4065349000156857
+    },
+    {
+      "id": "na6155e28ee3c99",
+      "panel": "broad120",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.41061829996760935
+    },
+    {
+      "id": "n1b640345682b6d",
+      "panel": "ownership44",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.38884289999259636
+    },
+    {
+      "id": "neb02a700865d79",
+      "panel": "ownership44",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.3889650999917649
+    },
+    {
+      "id": "n3c64812c6c8e45",
+      "panel": "ownership44",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.4029156999895349
+    },
+    {
+      "id": "nbcf4cc919d1a97",
+      "panel": "ownership44",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.35484729998279363
+    },
+    {
+      "id": "n5e964c0db3ff52",
+      "panel": "ownership44",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.36473769997246563
+    },
+    {
+      "id": "ndfed606da99189",
+      "panel": "ownership44",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.39340269996318966
+    },
+    {
+      "id": "ne73afa6cbfa21f",
+      "panel": "ownership44",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.40950780001003295
+    },
+    {
+      "id": "n28f3874d9a4d24",
+      "panel": "ownership44",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.4174162999843247
+    },
+    {
+      "id": "nc62118c8fca7cb",
+      "panel": "ownership44",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.41200900002149865
+    },
+    {
+      "id": "n874f3d27236015",
+      "panel": "ownership44",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.41499770001973957
+    },
+    {
+      "id": "n4e33e67122438e",
+      "panel": "ownership44",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.38880519999656826
+    },
+    {
+      "id": "nb4ebb4e31d7297",
+      "panel": "ownership44",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.38516060000984
+    },
+    {
+      "id": "n9fd451777fc06f",
+      "panel": "ownership44",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.38855899998452514
+    },
+    {
+      "id": "n5b418aa679e73b",
+      "panel": "ownership44",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.3958930000080727
+    },
+    {
+      "id": "n2904b03794fe76",
+      "panel": "ownership44",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.4011831999523565
+    },
+    {
+      "id": "ned274fb06418ac",
+      "panel": "ownership44",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.4091879000188783
+    },
+    {
+      "id": "n1d628be54aba41",
+      "panel": "ownership44",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.4145365000003949
+    },
+    {
+      "id": "nb285856a23503e",
+      "panel": "ownership44",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.3829223999637179
+    },
+    {
+      "id": "n22cfe4af150847",
+      "panel": "ownership44",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.3985818999935873
+    },
+    {
+      "id": "n6282848f720599",
+      "panel": "ownership44",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.3365197000093758
+    },
+    {
+      "id": "n36797eca24efb7",
+      "panel": "ownership44",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.357728999981191
+    },
+    {
+      "id": "ndd79588be7f402",
+      "panel": "ownership44",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.38640289998147637
+    },
+    {
+      "id": "n04d69030369e85",
+      "panel": "ownership44",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.38688169996021315
+    },
+    {
+      "id": "n510868b23c8b85",
+      "panel": "ownership44",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.3395602999953553
+    },
+    {
+      "id": "n5385a0a3221a57",
+      "panel": "ownership44",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.3771305999835022
+    },
+    {
+      "id": "nae3fef3fa372d4",
+      "panel": "ownership44",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.37859859998570755
+    },
+    {
+      "id": "n06b70806ec7b2e",
+      "panel": "ownership44",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.3980422999593429
+    },
+    {
+      "id": "nc3751ef80bb6fa",
+      "panel": "ownership44",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.340417500003241
+    },
+    {
+      "id": "nf8cd92f5a0bd68",
+      "panel": "ownership44",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.37948509998386726
+    },
+    {
+      "id": "n98ff8431f7d1b3",
+      "panel": "ownership44",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.37241690000519156
+    },
+    {
+      "id": "n168c0514150d9f",
+      "panel": "ownership44",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.34633260004920885
+    },
+    {
+      "id": "n2ef7b9327fcb11",
+      "panel": "ownership44",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.33012249995954335
+    },
+    {
+      "id": "ne29800f5b15297",
+      "panel": "ownership44",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.4139873000094667
+    },
+    {
+      "id": "n89c4b59e559a1c",
+      "panel": "ownership44",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.3691453000064939
+    },
+    {
+      "id": "n3c64690f3f4956",
+      "panel": "ownership44",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.41551359998993576
+    },
+    {
+      "id": "nec1fe12fe6579e",
+      "panel": "ownership44",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.38989729998866096
+    },
+    {
+      "id": "n96d976a33b6b5a",
+      "panel": "ownership44",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.3815380000160076
+    },
+    {
+      "id": "n75f0218a344f3f",
+      "panel": "ownership44",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.3591469000093639
+    },
+    {
+      "id": "n918ba994e07c10",
+      "panel": "ownership44",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.4262563000083901
+    },
+    {
+      "id": "n5e5e6c4f44d30f",
+      "panel": "ownership44",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.4089514000224881
+    },
+    {
+      "id": "na9dbb4d3cdb2ba",
+      "panel": "ownership44",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.41749479999998584
+    },
+    {
+      "id": "na29ec9cbaf2bf8",
+      "panel": "ownership44",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.4184961999999359
+    },
+    {
+      "id": "n2e6fac2362b3fb",
+      "panel": "ownership44",
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.3916132999584079
+    },
+    {
+      "id": "n634c1940f34e8b",
+      "panel": "ownership44",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.3977922999765724
+    },
+    {
+      "id": "67e50351a36b5e0995",
+      "panel": "human17",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.4172360999509692
+    },
+    {
+      "id": "0c1c7f692e555cbb50",
+      "panel": "human17",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.40254350000759587
+    },
+    {
+      "id": "2270837de13ea21224",
+      "panel": "human17",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.3856905000284314
+    },
+    {
+      "id": "1bbda3db7423152229",
+      "panel": "human17",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.34771010000258684
+    },
+    {
+      "id": "f9bb9781e7a3dcfac0",
+      "panel": "human17",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.8017404999700375
+    },
+    {
+      "id": "364cd8ce84d53606cb",
+      "panel": "human17",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.8306803000159562
+    },
+    {
+      "id": "bc1abf2fb585fe56a0",
+      "panel": "human17",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.8502341999555938
+    },
+    {
+      "id": "6e3ab70b08df32c408",
+      "panel": "human17",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.9282270999974571
+    },
+    {
+      "id": "b34c4b64cc4f9086ee",
+      "panel": "human17",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.4270482999854721
+    },
+    {
+      "id": "5d2be6f0f6b89b2ffb",
+      "panel": "human17",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.3686916999868117
+    },
+    {
+      "id": "559435a5269b1e039b",
+      "panel": "human17",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.4239448999869637
+    },
+    {
+      "id": "f6566daab7ef0c2970",
+      "panel": "human17",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.37566249998053536
+    },
+    {
+      "id": "a2812a8d4d6b699745",
+      "panel": "human17",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.4142034000251442
+    },
+    {
+      "id": "a6baf01fe97576c7c8",
+      "panel": "human17",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.4375237999483943
+    },
+    {
+      "id": "3f544cfffc03e00193",
+      "panel": "human17",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.40207930002361536
+    },
+    {
+      "id": "cfbbe64c9e40b34156",
+      "panel": "human17",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.4215805000276305
+    },
+    {
+      "id": "7d622738115c626c53",
+      "panel": "human17",
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.4034947999753058
+    }
+  ],
+  "seconds": 92.65641350002261
+}

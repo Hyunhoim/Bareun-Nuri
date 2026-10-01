@@ -1,0 +1,442 @@
+[
+  {
+    "family": "connector",
+    "token": "USB3",
+    "context": "ad",
+    "text": "장치 연결 인터페이스 규격은 USB3입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "literal",
+    "selector": "p#d058bd3d40818",
+    "id": "d058bd3d40818",
+    "pair": "connector|literal"
+  },
+  {
+    "family": "display",
+    "token": "GTX1080",
+    "context": "ad",
+    "text": "그래픽 장치의 모델 번호는 GTX1080입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "literal",
+    "selector": "p#d0cec69834f6c",
+    "id": "d0cec69834f6c",
+    "pair": "display|literal"
+  },
+  {
+    "family": "planet",
+    "token": "PL4NET",
+    "context": "ad",
+    "text": "별 주위를 도는 행성을 PL4NET라고 적었습니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "substitution",
+    "selector": "p#d111697ef005d",
+    "id": "d111697ef005d",
+    "pair": "planet|positive"
+  },
+  {
+    "family": "solo",
+    "token": "S0LO",
+    "context": "ad",
+    "text": "게시물에 표시된 이름은 S0LO입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "uncertain",
+    "selector": "p#d1ebd10361926",
+    "id": "d1ebd10361926",
+    "pair": "solo|ambiguous"
+  },
+  {
+    "family": "pine",
+    "token": "P1NE",
+    "context": "prevention",
+    "text": "게시물에 표시된 이름은 P1NE입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "uncertain",
+    "selector": "p#d2a943f93a71f",
+    "id": "d2a943f93a71f",
+    "pair": "pine|ambiguous"
+  },
+  {
+    "family": "market",
+    "token": "M4RKET",
+    "context": "ad",
+    "text": "상인이 모여 물건을 파는 시장을 M4RKET라고 표현했습니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "substitution",
+    "selector": "p#d303cccde6a4b",
+    "id": "d303cccde6a4b",
+    "pair": "market|positive"
+  },
+  {
+    "family": "rise",
+    "token": "R1SE",
+    "context": "prevention",
+    "text": "게시물에 표시된 이름은 R1SE입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "uncertain",
+    "selector": "p#d342a9cb56ba8",
+    "id": "d342a9cb56ba8",
+    "pair": "rise|ambiguous"
+  },
+  {
+    "family": "planet",
+    "token": "PL4NET",
+    "context": "prevention",
+    "text": "별 주위를 도는 행성을 PL4NET라고 적었습니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "substitution",
+    "selector": "p#d34a333989875",
+    "id": "d34a333989875",
+    "pair": "planet|positive"
+  },
+  {
+    "family": "solo",
+    "token": "S0LO",
+    "context": "prevention",
+    "text": "게시물에 표시된 이름은 S0LO입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "uncertain",
+    "selector": "p#d3dc15fec38f7",
+    "id": "d3dc15fec38f7",
+    "pair": "solo|ambiguous"
+  },
+  {
+    "family": "desert",
+    "token": "D3SERT",
+    "context": "prevention",
+    "text": "비가 적고 모래가 넓게 펼쳐진 사막을 D3SERT라고 적었습니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "substitution",
+    "selector": "p#d442a0c0731e4",
+    "id": "d442a0c0731e4",
+    "pair": "desert|positive"
+  },
+  {
+    "family": "fiscal",
+    "token": "2027R",
+    "context": "prevention",
+    "text": "회계년도별 기록 묶음의 분류 코드는 2027R입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "literal",
+    "selector": "p#d448a6ff79fa6",
+    "id": "d448a6ff79fa6",
+    "pair": "fiscal|literal"
+  },
+  {
+    "family": "coffee",
+    "token": "C0FFEE",
+    "context": "ad",
+    "text": "볶은 원두로 내린 음료를 C0FFEE라고 적었습니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "substitution",
+    "selector": "p#d458dc568a002",
+    "id": "d458dc568a002",
+    "pair": "coffee|positive"
+  },
+  {
+    "family": "planet",
+    "token": "PL4NET",
+    "context": "ad",
+    "text": "업무 시스템에서 부여한 고유 관리번호는 PL4NET입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "literal",
+    "selector": "p#d62c5ff4ae85f",
+    "id": "d62c5ff4ae85f",
+    "pair": "planet|literal"
+  },
+  {
+    "family": "fiscal",
+    "token": "2027R",
+    "context": "ad",
+    "text": "회계년도별 기록 묶음의 분류 코드는 2027R입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "literal",
+    "selector": "p#d634eeaf063d0",
+    "id": "d634eeaf063d0",
+    "pair": "fiscal|literal"
+  },
+  {
+    "family": "form",
+    "token": "F0RM",
+    "context": "ad",
+    "text": "게시물에 표시된 이름은 F0RM입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "uncertain",
+    "selector": "p#d6518261560f5",
+    "id": "d6518261560f5",
+    "pair": "form|ambiguous"
+  },
+  {
+    "family": "tree",
+    "token": "7REE",
+    "context": "prevention",
+    "text": "줄기와 가지가 있는 나무를 7REE라고 적었습니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "substitution",
+    "selector": "p#d706b4bdb22b2",
+    "id": "d706b4bdb22b2",
+    "pair": "tree|positive"
+  },
+  {
+    "family": "desert",
+    "token": "D3SERT",
+    "context": "ad",
+    "text": "비가 적고 모래가 넓게 펼쳐진 사막을 D3SERT라고 적었습니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "substitution",
+    "selector": "p#d7148163a0037",
+    "id": "d7148163a0037",
+    "pair": "desert|positive"
+  },
+  {
+    "family": "window",
+    "token": "W1NDOW",
+    "context": "prevention",
+    "text": "장치의 고정된 제품 식별번호는 W1NDOW이며 영문과 숫자를 그대로 등록합니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "literal",
+    "selector": "p#d71a09f4308d7",
+    "id": "d71a09f4308d7",
+    "pair": "window|literal"
+  },
+  {
+    "family": "fresh",
+    "token": "FR3SH",
+    "context": "ad",
+    "text": "갓 수확해 신선한 상태를 나타내는 말로 FR3SH를 썼습니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "substitution",
+    "selector": "p#d751ef75dd9bb",
+    "id": "d751ef75dd9bb",
+    "pair": "fresh|positive"
+  },
+  {
+    "family": "form",
+    "token": "F0RM",
+    "context": "prevention",
+    "text": "게시물에 표시된 이름은 F0RM입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "uncertain",
+    "selector": "p#d76223b4189a6",
+    "id": "d76223b4189a6",
+    "pair": "form|ambiguous"
+  },
+  {
+    "family": "certificate",
+    "token": "X509",
+    "context": "prevention",
+    "text": "디지털 인증서 규격은 X509입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "literal",
+    "selector": "p#d7dde6c993d6d",
+    "id": "d7dde6c993d6d",
+    "pair": "certificate|literal"
+  },
+  {
+    "family": "market",
+    "token": "M4RKET",
+    "context": "prevention",
+    "text": "상인이 모여 물건을 파는 시장을 M4RKET라고 표현했습니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "substitution",
+    "selector": "p#d7fc4c00a5479",
+    "id": "d7fc4c00a5479",
+    "pair": "market|positive"
+  },
+  {
+    "family": "carbon",
+    "token": "CO2",
+    "context": "prevention",
+    "text": "이산화탄소의 화학식은 CO2입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "literal",
+    "selector": "p#d828b1a7515b4",
+    "id": "d828b1a7515b4",
+    "pair": "carbon|literal"
+  },
+  {
+    "family": "tree",
+    "token": "7REE",
+    "context": "ad",
+    "text": "줄기와 가지가 있는 나무를 7REE라고 적었습니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "substitution",
+    "selector": "p#d848766ef0ed5",
+    "id": "d848766ef0ed5",
+    "pair": "tree|positive"
+  },
+  {
+    "family": "fresh",
+    "token": "FR3SH",
+    "context": "prevention",
+    "text": "갓 수확해 신선한 상태를 나타내는 말로 FR3SH를 썼습니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "substitution",
+    "selector": "p#d8b2b55afad84",
+    "id": "d8b2b55afad84",
+    "pair": "fresh|positive"
+  },
+  {
+    "family": "planet",
+    "token": "PL4NET",
+    "context": "prevention",
+    "text": "업무 시스템에서 부여한 고유 관리번호는 PL4NET입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "literal",
+    "selector": "p#d913f493be564",
+    "id": "d913f493be564",
+    "pair": "planet|literal"
+  },
+  {
+    "family": "consumer",
+    "token": "B2C",
+    "context": "prevention",
+    "text": "기업과 소비자 사이의 거래 방식을 B2C라고 적었습니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "literal",
+    "selector": "p#d969589f658f0",
+    "id": "d969589f658f0",
+    "pair": "consumer|literal"
+  },
+  {
+    "family": "carbon",
+    "token": "CO2",
+    "context": "ad",
+    "text": "이산화탄소의 화학식은 CO2입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "literal",
+    "selector": "p#d9ab753106349",
+    "id": "d9ab753106349",
+    "pair": "carbon|literal"
+  },
+  {
+    "family": "consumer",
+    "token": "B2C",
+    "context": "ad",
+    "text": "기업과 소비자 사이의 거래 방식을 B2C라고 적었습니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "literal",
+    "selector": "p#db66aa7dc2a3c",
+    "id": "db66aa7dc2a3c",
+    "pair": "consumer|literal"
+  },
+  {
+    "family": "certificate",
+    "token": "X509",
+    "context": "ad",
+    "text": "디지털 인증서 규격은 X509입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "literal",
+    "selector": "p#db736ef72c248",
+    "id": "db736ef72c248",
+    "pair": "certificate|literal"
+  },
+  {
+    "family": "window",
+    "token": "W1NDOW",
+    "context": "prevention",
+    "text": "벽에 달아 빛과 공기가 통하게 하는 창문을 W1NDOW라고 표현했습니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "substitution",
+    "selector": "p#dbbbef9948b9e",
+    "id": "dbbbef9948b9e",
+    "pair": "window|positive"
+  },
+  {
+    "family": "rise",
+    "token": "R1SE",
+    "context": "ad",
+    "text": "게시물에 표시된 이름은 R1SE입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "uncertain",
+    "selector": "p#dc3e73f69901f",
+    "id": "dc3e73f69901f",
+    "pair": "rise|ambiguous"
+  },
+  {
+    "family": "network",
+    "token": "IPv6",
+    "context": "prevention",
+    "text": "인터넷 프로토콜 버전은 IPv6입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "literal",
+    "selector": "p#dcd4bfc6d6cc3",
+    "id": "dcd4bfc6d6cc3",
+    "pair": "network|literal"
+  },
+  {
+    "family": "connector",
+    "token": "USB3",
+    "context": "prevention",
+    "text": "장치 연결 인터페이스 규격은 USB3입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "literal",
+    "selector": "p#dce5ceeb8c1e4",
+    "id": "dce5ceeb8c1e4",
+    "pair": "connector|literal"
+  },
+  {
+    "family": "books",
+    "token": "B00K5",
+    "context": "prevention",
+    "text": "여러 권의 책을 묶어 소개하는 목록에 B00K5라고 적었습니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "substitution",
+    "selector": "p#dd7c6edaa5656",
+    "id": "dd7c6edaa5656",
+    "pair": "books|positive"
+  },
+  {
+    "family": "coffee",
+    "token": "C0FFEE",
+    "context": "prevention",
+    "text": "볶은 원두로 내린 음료를 C0FFEE라고 적었습니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "substitution",
+    "selector": "p#ddc1d54882e54",
+    "id": "ddc1d54882e54",
+    "pair": "coffee|positive"
+  },
+  {
+    "family": "books",
+    "token": "B00K5",
+    "context": "ad",
+    "text": "여러 권의 책을 묶어 소개하는 목록에 B00K5라고 적었습니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "substitution",
+    "selector": "p#ddf109591f77e",
+    "id": "ddf109591f77e",
+    "pair": "books|positive"
+  },
+  {
+    "family": "window",
+    "token": "W1NDOW",
+    "context": "ad",
+    "text": "장치의 고정된 제품 식별번호는 W1NDOW이며 영문과 숫자를 그대로 등록합니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "literal",
+    "selector": "p#de1c43535e72c",
+    "id": "de1c43535e72c",
+    "pair": "window|literal"
+  },
+  {
+    "family": "window",
+    "token": "W1NDOW",
+    "context": "ad",
+    "text": "벽에 달아 빛과 공기가 통하게 하는 창문을 W1NDOW라고 표현했습니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "substitution",
+    "selector": "p#de35210f94a4d",
+    "id": "de35210f94a4d",
+    "pair": "window|positive"
+  },
+  {
+    "family": "paper",
+    "token": "A4",
+    "context": "prevention",
+    "text": "문서 출력 용지 규격은 A4입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "literal",
+    "selector": "p#de4e67b9555f0",
+    "id": "de4e67b9555f0",
+    "pair": "paper|literal"
+  },
+  {
+    "family": "network",
+    "token": "IPv6",
+    "context": "ad",
+    "text": "인터넷 프로토콜 버전은 IPv6입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "literal",
+    "selector": "p#deb0c046ab540",
+    "id": "deb0c046ab540",
+    "pair": "network|literal"
+  },
+  {
+    "family": "paper",
+    "token": "A4",
+    "context": "ad",
+    "text": "문서 출력 용지 규격은 A4입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "literal",
+    "selector": "p#deed3c3e8ee31",
+    "id": "deed3c3e8ee31",
+    "pair": "paper|literal"
+  },
+  {
+    "family": "display",
+    "token": "GTX1080",
+    "context": "prevention",
+    "text": "그래픽 장치의 모델 번호는 GTX1080입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "literal",
+    "selector": "p#dfa0381144db8",
+    "id": "dfa0381144db8",
+    "pair": "display|literal"
+  },
+  {
+    "family": "pine",
+    "token": "P1NE",
+    "context": "ad",
+    "text": "게시물에 표시된 이름은 P1NE입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "uncertain",
+    "selector": "p#dfbec6f3c9d8d",
+    "id": "dfbec6f3c9d8d",
+    "pair": "pine|ambiguous"
+  }
+]

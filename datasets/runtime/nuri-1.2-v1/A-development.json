@@ -1,0 +1,965 @@
+{
+  "new40": {
+    "metrics": {
+      "confusion": [
+        [
+          9,
+          0,
+          1,
+          0
+        ],
+        [
+          5,
+          1,
+          3,
+          0
+        ],
+        [
+          7,
+          0,
+          2,
+          0
+        ],
+        [
+          5,
+          0,
+          6,
+          1
+        ]
+      ],
+      "macro4_f1": 0.2610805860805861,
+      "class_f1": [
+        0.5,
+        0.2,
+        0.19047619047619047,
+        0.15384615384615385
+      ],
+      "tp": 9,
+      "fp": 12,
+      "fn": 1,
+      "precision": 0.42857142857142855,
+      "recall": 0.9,
+      "ad_f1": 0.5806451612903226,
+      "quotation_fp": 5,
+      "uncertain_as_ad": 5,
+      "uncertain_correct": 1
+    },
+    "seconds": 0.3457674999954179,
+    "predictions": [
+      {
+        "id": "a-ft-development-001",
+        "prediction": 0
+      },
+      {
+        "id": "a-ft-development-002",
+        "prediction": 0
+      },
+      {
+        "id": "a-ft-development-003",
+        "prediction": 0
+      },
+      {
+        "id": "a-ft-development-004",
+        "prediction": 2
+      },
+      {
+        "id": "a-ft-development-005",
+        "prediction": 0
+      },
+      {
+        "id": "a-ft-development-006",
+        "prediction": 0
+      },
+      {
+        "id": "a-ft-development-007",
+        "prediction": 0
+      },
+      {
+        "id": "a-ft-development-008",
+        "prediction": 0
+      },
+      {
+        "id": "a-ft-development-009",
+        "prediction": 0
+      },
+      {
+        "id": "a-ft-development-010",
+        "prediction": 0
+      },
+      {
+        "id": "a-ft-development-011",
+        "prediction": 0
+      },
+      {
+        "id": "a-ft-development-012",
+        "prediction": 2
+      },
+      {
+        "id": "a-ft-development-013",
+        "prediction": 0
+      },
+      {
+        "id": "a-ft-development-014",
+        "prediction": 2
+      },
+      {
+        "id": "a-ft-development-015",
+        "prediction": 2
+      },
+      {
+        "id": "a-ft-development-016",
+        "prediction": 2
+      },
+      {
+        "id": "a-ft-development-017",
+        "prediction": 0
+      },
+      {
+        "id": "a-ft-development-018",
+        "prediction": 2
+      },
+      {
+        "id": "a-ft-development-019",
+        "prediction": 0
+      },
+      {
+        "id": "a-ft-development-020",
+        "prediction": 2
+      },
+      {
+        "id": "a-ft-development-021",
+        "prediction": 0
+      },
+      {
+        "id": "a-ft-development-022",
+        "prediction": 0
+      },
+      {
+        "id": "a-ft-development-023",
+        "prediction": 0
+      },
+      {
+        "id": "a-ft-development-024",
+        "prediction": 0
+      },
+      {
+        "id": "a-ft-development-025",
+        "prediction": 0
+      },
+      {
+        "id": "a-ft-development-026",
+        "prediction": 0
+      },
+      {
+        "id": "a-ft-development-027",
+        "prediction": 0
+      },
+      {
+        "id": "a-ft-development-028",
+        "prediction": 0
+      },
+      {
+        "id": "a-ft-development-029",
+        "prediction": 0
+      },
+      {
+        "id": "a-ft-development-030",
+        "prediction": 1
+      },
+      {
+        "id": "a-ft-development-031",
+        "prediction": 0
+      },
+      {
+        "id": "a-ft-development-032",
+        "prediction": 0
+      },
+      {
+        "id": "a-ft-development-033",
+        "prediction": 2
+      },
+      {
+        "id": "a-ft-development-034",
+        "prediction": 0
+      },
+      {
+        "id": "a-ft-development-035",
+        "prediction": 2
+      },
+      {
+        "id": "a-ft-development-036",
+        "prediction": 2
+      },
+      {
+        "id": "a-ft-development-037",
+        "prediction": 0
+      },
+      {
+        "id": "a-ft-development-038",
+        "prediction": 2
+      },
+      {
+        "id": "a-ft-development-039",
+        "prediction": 2
+      },
+      {
+        "id": "a-ft-development-040",
+        "prediction": 3
+      }
+    ]
+  },
+  "broad120": {
+    "metrics": {
+      "confusion": [
+        [
+          34,
+          0,
+          8,
+          0
+        ],
+        [
+          0,
+          8,
+          13,
+          0
+        ],
+        [
+          28,
+          0,
+          8,
+          0
+        ],
+        [
+          14,
+          1,
+          6,
+          0
+        ]
+      ],
+      "macro4_f1": 0.3337391581125169,
+      "class_f1": [
+        0.576271186440678,
+        0.5333333333333333,
+        0.22535211267605634,
+        0.0
+      ],
+      "tp": 34,
+      "fp": 28,
+      "fn": 8,
+      "precision": 0.5483870967741935,
+      "recall": 0.8095238095238095,
+      "ad_f1": 0.6538461538461539,
+      "quotation_fp": 0,
+      "uncertain_as_ad": 14,
+      "uncertain_correct": 0
+    },
+    "seconds": 0.23474240000359714,
+    "predictions": [
+      {
+        "id": "neced753936c32c",
+        "prediction": 0
+      },
+      {
+        "id": "n667a6b4141cfe5",
+        "prediction": 0
+      },
+      {
+        "id": "nbc1121a8c9295e",
+        "prediction": 0
+      },
+      {
+        "id": "ndcd3428db48085",
+        "prediction": 0
+      },
+      {
+        "id": "n6c01f952f2719f",
+        "prediction": 0
+      },
+      {
+        "id": "n377989783d85ba",
+        "prediction": 0
+      },
+      {
+        "id": "nac8f24c40cb28f",
+        "prediction": 0
+      },
+      {
+        "id": "nfd2d1ce3929afa",
+        "prediction": 0
+      },
+      {
+        "id": "n980cff66d0bb60",
+        "prediction": 2
+      },
+      {
+        "id": "na87322a635650b",
+        "prediction": 0
+      },
+      {
+        "id": "n377b731d5bd53e",
+        "prediction": 0
+      },
+      {
+        "id": "nf87ee2f50720cd",
+        "prediction": 0
+      },
+      {
+        "id": "n8a5c8149a33a8d",
+        "prediction": 0
+      },
+      {
+        "id": "n9b295542f1e4c9",
+        "prediction": 0
+      },
+      {
+        "id": "nb288bd444bb610",
+        "prediction": 2
+      },
+      {
+        "id": "nac65f850092b90",
+        "prediction": 0
+      },
+      {
+        "id": "n64796b6c01a79d",
+        "prediction": 0
+      },
+      {
+        "id": "n0582467d3dde36",
+        "prediction": 0
+      },
+      {
+        "id": "n311bde7bd8b972",
+        "prediction": 0
+      },
+      {
+        "id": "na1d3f8d08b42ec",
+        "prediction": 2
+      },
+      {
+        "id": "n13475b85afd8c6",
+        "prediction": 0
+      },
+      {
+        "id": "ne2937db121dfcd",
+        "prediction": 1
+      },
+      {
+        "id": "n6ab5788fd0291a",
+        "prediction": 1
+      },
+      {
+        "id": "na6b75bdbbb3638",
+        "prediction": 2
+      },
+      {
+        "id": "n407a8e6b6e677b",
+        "prediction": 0
+      },
+      {
+        "id": "n3c2f174ef19026",
+        "prediction": 0
+      },
+      {
+        "id": "n5a6f6a6ea94062",
+        "prediction": 2
+      },
+      {
+        "id": "na001fac493c5ae",
+        "prediction": 0
+      },
+      {
+        "id": "n347be94eab0ea2",
+        "prediction": 2
+      },
+      {
+        "id": "n1bf7f6b3d9ea41",
+        "prediction": 2
+      },
+      {
+        "id": "nc838430fabd70f",
+        "prediction": 0
+      },
+      {
+        "id": "nf7525c3b75af9c",
+        "prediction": 2
+      },
+      {
+        "id": "n488f8e3b19a416",
+        "prediction": 2
+      },
+      {
+        "id": "nf117c1ded050bf",
+        "prediction": 0
+      },
+      {
+        "id": "n5b264676ef255a",
+        "prediction": 2
+      },
+      {
+        "id": "n1d6e271ec3b82d",
+        "prediction": 2
+      },
+      {
+        "id": "n481ce8906ca07c",
+        "prediction": 2
+      },
+      {
+        "id": "n10f4522c16efde",
+        "prediction": 2
+      },
+      {
+        "id": "n70847a6176e370",
+        "prediction": 2
+      },
+      {
+        "id": "ne9c4c2960827b8",
+        "prediction": 2
+      },
+      {
+        "id": "n0ce3a137587058",
+        "prediction": 0
+      },
+      {
+        "id": "nac4145ade39cef",
+        "prediction": 0
+      },
+      {
+        "id": "ne0df75a5f5ab55",
+        "prediction": 0
+      },
+      {
+        "id": "n7547e70a07427c",
+        "prediction": 0
+      },
+      {
+        "id": "n8777701f14ec9b",
+        "prediction": 0
+      },
+      {
+        "id": "n22c3d0afd80893",
+        "prediction": 0
+      },
+      {
+        "id": "n43e6473e038116",
+        "prediction": 0
+      },
+      {
+        "id": "n8e5148f4f90fee",
+        "prediction": 0
+      },
+      {
+        "id": "ne3c03adc3f4bfe",
+        "prediction": 2
+      },
+      {
+        "id": "nd9bbe29074ddb7",
+        "prediction": 0
+      },
+      {
+        "id": "nf9795a1b69121c",
+        "prediction": 0
+      },
+      {
+        "id": "ndbed100712fe5a",
+        "prediction": 0
+      },
+      {
+        "id": "n7339eb212948e7",
+        "prediction": 0
+      },
+      {
+        "id": "nd2bc84b9940774",
+        "prediction": 0
+      },
+      {
+        "id": "nfba70f832bdddc",
+        "prediction": 2
+      },
+      {
+        "id": "n0b86d8cf10bf28",
+        "prediction": 0
+      },
+      {
+        "id": "n68c83c50931834",
+        "prediction": 0
+      },
+      {
+        "id": "nfcca939ab9bed6",
+        "prediction": 0
+      },
+      {
+        "id": "n390bede3144940",
+        "prediction": 0
+      },
+      {
+        "id": "n6be6224e513595",
+        "prediction": 1
+      },
+      {
+        "id": "nd28041d3f99a3b",
+        "prediction": 0
+      },
+      {
+        "id": "n1f12259f4e7728",
+        "prediction": 1
+      },
+      {
+        "id": "na4626a3247f75c",
+        "prediction": 1
+      },
+      {
+        "id": "n772dc451ca4089",
+        "prediction": 1
+      },
+      {
+        "id": "n6630484e03ef91",
+        "prediction": 0
+      },
+      {
+        "id": "nb5017443adec1e",
+        "prediction": 0
+      },
+      {
+        "id": "nab79d81aa067d4",
+        "prediction": 0
+      },
+      {
+        "id": "n3713604977f9eb",
+        "prediction": 0
+      },
+      {
+        "id": "n830db57095a1a7",
+        "prediction": 2
+      },
+      {
+        "id": "nac67b9e25597fa",
+        "prediction": 1
+      },
+      {
+        "id": "nd90cbcf725fea7",
+        "prediction": 0
+      },
+      {
+        "id": "nc782b7bf557eb2",
+        "prediction": 2
+      },
+      {
+        "id": "n5781d5e4a9e871",
+        "prediction": 2
+      },
+      {
+        "id": "n8a7b5ea74911ae",
+        "prediction": 0
+      },
+      {
+        "id": "n9fdb26fd0a62a8",
+        "prediction": 0
+      },
+      {
+        "id": "n7105d7c2dda5e8",
+        "prediction": 2
+      },
+      {
+        "id": "n1d654354b122a2",
+        "prediction": 0
+      },
+      {
+        "id": "nc618e71ec4ac9d",
+        "prediction": 2
+      },
+      {
+        "id": "nf90da4947df1c6",
+        "prediction": 2
+      },
+      {
+        "id": "n17c10ea5487aeb",
+        "prediction": 0
+      },
+      {
+        "id": "n6a00cb14713648",
+        "prediction": 0
+      },
+      {
+        "id": "n7522a736a02225",
+        "prediction": 0
+      },
+      {
+        "id": "n70725e3c173419",
+        "prediction": 0
+      },
+      {
+        "id": "n6743646fb78392",
+        "prediction": 0
+      },
+      {
+        "id": "n8b898656659006",
+        "prediction": 0
+      },
+      {
+        "id": "nc0d9902c8a681e",
+        "prediction": 0
+      },
+      {
+        "id": "n232426155e8e0a",
+        "prediction": 0
+      },
+      {
+        "id": "n84f0847248c61f",
+        "prediction": 0
+      },
+      {
+        "id": "n9436c18342c0ba",
+        "prediction": 2
+      },
+      {
+        "id": "n34342daa7c67da",
+        "prediction": 0
+      },
+      {
+        "id": "n91c25e07d21b48",
+        "prediction": 0
+      },
+      {
+        "id": "nb3bb17430ab804",
+        "prediction": 0
+      },
+      {
+        "id": "n5b0d64bbdb496b",
+        "prediction": 0
+      },
+      {
+        "id": "n5bcb773b27dbb4",
+        "prediction": 0
+      },
+      {
+        "id": "n7b4319319b7f21",
+        "prediction": 2
+      },
+      {
+        "id": "ne20b1fbd1d4fe2",
+        "prediction": 0
+      },
+      {
+        "id": "n8e1bde8d4cc9ab",
+        "prediction": 0
+      },
+      {
+        "id": "naeea819d281b11",
+        "prediction": 0
+      },
+      {
+        "id": "nc7756ac48a850a",
+        "prediction": 0
+      },
+      {
+        "id": "na262c7df241c72",
+        "prediction": 2
+      },
+      {
+        "id": "nc87a38d7cef9c9",
+        "prediction": 0
+      },
+      {
+        "id": "n433b3b48018588",
+        "prediction": 1
+      },
+      {
+        "id": "n036b9bb7a9b674",
+        "prediction": 1
+      },
+      {
+        "id": "n7c82ddd51d22bd",
+        "prediction": 0
+      },
+      {
+        "id": "n2073f589b6fe29",
+        "prediction": 0
+      },
+      {
+        "id": "n4c38aaa0cfc8ce",
+        "prediction": 0
+      },
+      {
+        "id": "nceb8832c5deeb0",
+        "prediction": 0
+      },
+      {
+        "id": "n62fc1d520c2610",
+        "prediction": 0
+      },
+      {
+        "id": "n88f43a1be77a20",
+        "prediction": 2
+      },
+      {
+        "id": "n138afbe07f1f91",
+        "prediction": 2
+      },
+      {
+        "id": "n0972350de3102a",
+        "prediction": 0
+      },
+      {
+        "id": "ncdd4191ae97e3a",
+        "prediction": 2
+      },
+      {
+        "id": "n3fd9bef2c4a427",
+        "prediction": 2
+      },
+      {
+        "id": "n7646e1695e554c",
+        "prediction": 0
+      },
+      {
+        "id": "nfaaf31462bb760",
+        "prediction": 2
+      },
+      {
+        "id": "nc145af7271d602",
+        "prediction": 2
+      },
+      {
+        "id": "na26a19882b8a73",
+        "prediction": 0
+      },
+      {
+        "id": "nfb5ff39b02703a",
+        "prediction": 2
+      },
+      {
+        "id": "n116062f9f129f1",
+        "prediction": 2
+      },
+      {
+        "id": "na6155e28ee3c99",
+        "prediction": 2
+      }
+    ]
+  },
+  "ownership44": {
+    "metrics": {
+      "confusion": [
+        [
+          6,
+          0,
+          6,
+          0
+        ],
+        [
+          2,
+          0,
+          6,
+          0
+        ],
+        [
+          5,
+          1,
+          14,
+          0
+        ],
+        [
+          1,
+          0,
+          3,
+          0
+        ]
+      ],
+      "macro4_f1": 0.2582417582417582,
+      "class_f1": [
+        0.46153846153846156,
+        0.0,
+        0.5714285714285714,
+        0.0
+      ],
+      "tp": 6,
+      "fp": 7,
+      "fn": 6,
+      "precision": 0.46153846153846156,
+      "recall": 0.5,
+      "ad_f1": 0.48,
+      "quotation_fp": 2,
+      "uncertain_as_ad": 1,
+      "uncertain_correct": 0
+    },
+    "seconds": 0.0912882000557147,
+    "predictions": [
+      {
+        "id": "n1b640345682b6d",
+        "prediction": 2
+      },
+      {
+        "id": "neb02a700865d79",
+        "prediction": 2
+      },
+      {
+        "id": "n3c64812c6c8e45",
+        "prediction": 2
+      },
+      {
+        "id": "nbcf4cc919d1a97",
+        "prediction": 2
+      },
+      {
+        "id": "n5e964c0db3ff52",
+        "prediction": 2
+      },
+      {
+        "id": "ndfed606da99189",
+        "prediction": 2
+      },
+      {
+        "id": "ne73afa6cbfa21f",
+        "prediction": 2
+      },
+      {
+        "id": "n28f3874d9a4d24",
+        "prediction": 2
+      },
+      {
+        "id": "nc62118c8fca7cb",
+        "prediction": 2
+      },
+      {
+        "id": "n874f3d27236015",
+        "prediction": 2
+      },
+      {
+        "id": "n4e33e67122438e",
+        "prediction": 2
+      },
+      {
+        "id": "nb4ebb4e31d7297",
+        "prediction": 2
+      },
+      {
+        "id": "n9fd451777fc06f",
+        "prediction": 2
+      },
+      {
+        "id": "n5b418aa679e73b",
+        "prediction": 2
+      },
+      {
+        "id": "n2904b03794fe76",
+        "prediction": 2
+      },
+      {
+        "id": "ned274fb06418ac",
+        "prediction": 2
+      },
+      {
+        "id": "n1d628be54aba41",
+        "prediction": 2
+      },
+      {
+        "id": "nb285856a23503e",
+        "prediction": 2
+      },
+      {
+        "id": "n22cfe4af150847",
+        "prediction": 2
+      },
+      {
+        "id": "n6282848f720599",
+        "prediction": 2
+      },
+      {
+        "id": "n36797eca24efb7",
+        "prediction": 2
+      },
+      {
+        "id": "ndd79588be7f402",
+        "prediction": 2
+      },
+      {
+        "id": "n04d69030369e85",
+        "prediction": 2
+      },
+      {
+        "id": "n510868b23c8b85",
+        "prediction": 2
+      },
+      {
+        "id": "n5385a0a3221a57",
+        "prediction": 2
+      },
+      {
+        "id": "nae3fef3fa372d4",
+        "prediction": 2
+      },
+      {
+        "id": "n06b70806ec7b2e",
+        "prediction": 2
+      },
+      {
+        "id": "nc3751ef80bb6fa",
+        "prediction": 0
+      },
+      {
+        "id": "nf8cd92f5a0bd68",
+        "prediction": 0
+      },
+      {
+        "id": "n98ff8431f7d1b3",
+        "prediction": 0
+      },
+      {
+        "id": "n168c0514150d9f",
+        "prediction": 0
+      },
+      {
+        "id": "n2ef7b9327fcb11",
+        "prediction": 0
+      },
+      {
+        "id": "ne29800f5b15297",
+        "prediction": 0
+      },
+      {
+        "id": "n89c4b59e559a1c",
+        "prediction": 2
+      },
+      {
+        "id": "n3c64690f3f4956",
+        "prediction": 2
+      },
+      {
+        "id": "nec1fe12fe6579e",
+        "prediction": 0
+      },
+      {
+        "id": "n96d976a33b6b5a",
+        "prediction": 0
+      },
+      {
+        "id": "n75f0218a344f3f",
+        "prediction": 0
+      },
+      {
+        "id": "n918ba994e07c10",
+        "prediction": 0
+      },
+      {
+        "id": "n5e5e6c4f44d30f",
+        "prediction": 0
+      },
+      {
+        "id": "na9dbb4d3cdb2ba",
+        "prediction": 0
+      },
+      {
+        "id": "na29ec9cbaf2bf8",
+        "prediction": 0
+      },
+      {
+        "id": "n2e6fac2362b3fb",
+        "prediction": 0
+      },
+      {
+        "id": "n634c1940f34e8b",
+        "prediction": 1
+      }
+    ]
+  }
+}

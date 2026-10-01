@@ -1,0 +1,866 @@
+[
+  {
+    "id": "9fc0f2bcf1cb9c0a",
+    "label": 0,
+    "is_ad": true,
+    "group_id": "balance",
+    "variant": 0,
+    "reading": "balance",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "11fcb8d79b8973c8",
+    "label": 0,
+    "is_ad": false,
+    "group_id": "balance",
+    "variant": 1,
+    "reading": "balance",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "c62cdb07e95f3a87",
+    "label": 0,
+    "is_ad": true,
+    "group_id": "balance",
+    "variant": 2,
+    "reading": "balance24",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "bc7cd9e142c8c44d",
+    "label": 0,
+    "is_ad": false,
+    "group_id": "balance",
+    "variant": 3,
+    "reading": "balance",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "992808587af23960",
+    "label": 1,
+    "is_ad": true,
+    "group_id": "balance",
+    "variant": 4,
+    "reading": "balance",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "f1d50c9e9763f344",
+    "label": 1,
+    "is_ad": false,
+    "group_id": "balance",
+    "variant": 5,
+    "reading": "balance",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "e9dbda642f436179",
+    "label": 2,
+    "is_ad": false,
+    "group_id": "balance",
+    "variant": 6,
+    "reading": "balance",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "f521ca086cf1576b",
+    "label": 2,
+    "is_ad": false,
+    "group_id": "balance",
+    "variant": 7,
+    "reading": "balance",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "08f3d624393ff6b5",
+    "label": 0,
+    "is_ad": true,
+    "group_id": "customer",
+    "variant": 0,
+    "reading": "customer",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "3a0f8e219b875810",
+    "label": 0,
+    "is_ad": false,
+    "group_id": "customer",
+    "variant": 1,
+    "reading": "customer",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "94e3bb755c58b564",
+    "label": 0,
+    "is_ad": true,
+    "group_id": "customer",
+    "variant": 2,
+    "reading": "customer24",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "2f1f6569c6d41fce",
+    "label": 0,
+    "is_ad": false,
+    "group_id": "customer",
+    "variant": 3,
+    "reading": "customer",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "85d2ac43ac4c9001",
+    "label": 1,
+    "is_ad": true,
+    "group_id": "customer",
+    "variant": 4,
+    "reading": "customer",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "1e9f50122e34e419",
+    "label": 1,
+    "is_ad": false,
+    "group_id": "customer",
+    "variant": 5,
+    "reading": "customer",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "6618d8d3f600b973",
+    "label": 2,
+    "is_ad": false,
+    "group_id": "customer",
+    "variant": 6,
+    "reading": "customer",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "baefd41abbf19567",
+    "label": 2,
+    "is_ad": false,
+    "group_id": "customer",
+    "variant": 7,
+    "reading": "customer",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "63981cc969431aa2",
+    "label": 0,
+    "is_ad": true,
+    "group_id": "register",
+    "variant": 0,
+    "reading": "register",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "1ec6c9e3a0f71a61",
+    "label": 0,
+    "is_ad": false,
+    "group_id": "register",
+    "variant": 1,
+    "reading": "register",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "f66034c2408cd4bc",
+    "label": 0,
+    "is_ad": true,
+    "group_id": "register",
+    "variant": 2,
+    "reading": "register24",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "f0fa26b04c4163d3",
+    "label": 0,
+    "is_ad": false,
+    "group_id": "register",
+    "variant": 3,
+    "reading": "register",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "478186ce1fe71b0d",
+    "label": 1,
+    "is_ad": true,
+    "group_id": "register",
+    "variant": 4,
+    "reading": "register",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "4382ad15f359bc16",
+    "label": 1,
+    "is_ad": false,
+    "group_id": "register",
+    "variant": 5,
+    "reading": "register",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "5d934ac0d66faf85",
+    "label": 2,
+    "is_ad": false,
+    "group_id": "register",
+    "variant": 6,
+    "reading": "register",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "509bad8248dfb7f5",
+    "label": 2,
+    "is_ad": false,
+    "group_id": "register",
+    "variant": 7,
+    "reading": "register",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "664ff517cc141139",
+    "label": 0,
+    "is_ad": true,
+    "group_id": "promotion",
+    "variant": 0,
+    "reading": "promotion",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "76e6036b03d718a9",
+    "label": 0,
+    "is_ad": false,
+    "group_id": "promotion",
+    "variant": 1,
+    "reading": "promotion",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "b7a64ce2018cee8a",
+    "label": 0,
+    "is_ad": true,
+    "group_id": "promotion",
+    "variant": 2,
+    "reading": "promotion24",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "6bc2497a8ad399cb",
+    "label": 0,
+    "is_ad": false,
+    "group_id": "promotion",
+    "variant": 3,
+    "reading": "promotion",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "2401be3e2e7afb16",
+    "label": 1,
+    "is_ad": true,
+    "group_id": "promotion",
+    "variant": 4,
+    "reading": "promotion",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "e9713f3ba078eb23",
+    "label": 1,
+    "is_ad": false,
+    "group_id": "promotion",
+    "variant": 5,
+    "reading": "promotion",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "fab3a199ac047006",
+    "label": 2,
+    "is_ad": false,
+    "group_id": "promotion",
+    "variant": 6,
+    "reading": "promotion",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "caaec8352982d28e",
+    "label": 2,
+    "is_ad": false,
+    "group_id": "promotion",
+    "variant": 7,
+    "reading": "promotion",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "6036c251e6c65a7a",
+    "label": 0,
+    "is_ad": true,
+    "group_id": "invite",
+    "variant": 0,
+    "reading": "invite",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "15a574b161139900",
+    "label": 0,
+    "is_ad": false,
+    "group_id": "invite",
+    "variant": 1,
+    "reading": "invite",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "3e7d27ce9000367c",
+    "label": 0,
+    "is_ad": true,
+    "group_id": "invite",
+    "variant": 2,
+    "reading": "invite24",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "f5079b55d4e38923",
+    "label": 0,
+    "is_ad": false,
+    "group_id": "invite",
+    "variant": 3,
+    "reading": "invite",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "0ff2a1d7990629dd",
+    "label": 1,
+    "is_ad": true,
+    "group_id": "invite",
+    "variant": 4,
+    "reading": "invite",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "0666e20a01701a11",
+    "label": 1,
+    "is_ad": false,
+    "group_id": "invite",
+    "variant": 5,
+    "reading": "invite",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "0f4a3e1178e79b33",
+    "label": 2,
+    "is_ad": false,
+    "group_id": "invite",
+    "variant": 6,
+    "reading": "invite",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "cfa1fbc085cd998c",
+    "label": 2,
+    "is_ad": false,
+    "group_id": "invite",
+    "variant": 7,
+    "reading": "invite",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "c53c919dd5e57d0a",
+    "label": 0,
+    "is_ad": true,
+    "group_id": "premium",
+    "variant": 0,
+    "reading": "premium",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "b9cf0946c2122cee",
+    "label": 0,
+    "is_ad": false,
+    "group_id": "premium",
+    "variant": 1,
+    "reading": "premium",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "51bb16fcd40c0889",
+    "label": 0,
+    "is_ad": true,
+    "group_id": "premium",
+    "variant": 2,
+    "reading": "premium24",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "33f944410d7d4e9e",
+    "label": 0,
+    "is_ad": false,
+    "group_id": "premium",
+    "variant": 3,
+    "reading": "premium",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "d82f9ee377b0219d",
+    "label": 1,
+    "is_ad": true,
+    "group_id": "premium",
+    "variant": 4,
+    "reading": "premium",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "5dde4059cefcd0a4",
+    "label": 1,
+    "is_ad": false,
+    "group_id": "premium",
+    "variant": 5,
+    "reading": "premium",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "454b607d74a66427",
+    "label": 2,
+    "is_ad": false,
+    "group_id": "premium",
+    "variant": 6,
+    "reading": "premium",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "1e35dfeb715b88c2",
+    "label": 2,
+    "is_ad": false,
+    "group_id": "premium",
+    "variant": 7,
+    "reading": "premium",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "085ffacc89f1ed86",
+    "label": 0,
+    "is_ad": true,
+    "group_id": "option",
+    "variant": 0,
+    "reading": "option",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "690bab41d4cccf7b",
+    "label": 0,
+    "is_ad": false,
+    "group_id": "option",
+    "variant": 1,
+    "reading": "option",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "96c8f8df3888500b",
+    "label": 0,
+    "is_ad": true,
+    "group_id": "option",
+    "variant": 2,
+    "reading": "option24",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "80c514f532c5f4f2",
+    "label": 0,
+    "is_ad": false,
+    "group_id": "option",
+    "variant": 3,
+    "reading": "option",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "5c052cdfccaa7866",
+    "label": 1,
+    "is_ad": true,
+    "group_id": "option",
+    "variant": 4,
+    "reading": "option",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "6f52fa990784989c",
+    "label": 1,
+    "is_ad": false,
+    "group_id": "option",
+    "variant": 5,
+    "reading": "option",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "a50424c9d323a0b8",
+    "label": 2,
+    "is_ad": false,
+    "group_id": "option",
+    "variant": 6,
+    "reading": "option",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "f471d6851302b891",
+    "label": 2,
+    "is_ad": false,
+    "group_id": "option",
+    "variant": 7,
+    "reading": "option",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "95a5413596d96acc",
+    "label": 0,
+    "is_ad": true,
+    "group_id": "session",
+    "variant": 0,
+    "reading": "session",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "74cf818b29b0bc45",
+    "label": 0,
+    "is_ad": false,
+    "group_id": "session",
+    "variant": 1,
+    "reading": "session",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "9ec48e8dcba8a9a0",
+    "label": 0,
+    "is_ad": true,
+    "group_id": "session",
+    "variant": 2,
+    "reading": "session24",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "ef8a9c617d32546f",
+    "label": 0,
+    "is_ad": false,
+    "group_id": "session",
+    "variant": 3,
+    "reading": "session",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "ea7e4bae3dcf0868",
+    "label": 1,
+    "is_ad": true,
+    "group_id": "session",
+    "variant": 4,
+    "reading": "session",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "f7995331c815d567",
+    "label": 1,
+    "is_ad": false,
+    "group_id": "session",
+    "variant": 5,
+    "reading": "session",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "2ce9f31b4f272914",
+    "label": 2,
+    "is_ad": false,
+    "group_id": "session",
+    "variant": 6,
+    "reading": "session",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "513e80f46562d52d",
+    "label": 2,
+    "is_ad": false,
+    "group_id": "session",
+    "variant": 7,
+    "reading": "session",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "949bf2814bd7b309",
+    "label": 0,
+    "is_ad": true,
+    "group_id": "instant",
+    "variant": 0,
+    "reading": "instant",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "06711dab58680959",
+    "label": 0,
+    "is_ad": false,
+    "group_id": "instant",
+    "variant": 1,
+    "reading": "instant",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "e392e0487ff02e67",
+    "label": 0,
+    "is_ad": true,
+    "group_id": "instant",
+    "variant": 2,
+    "reading": "instant24",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "0b43bcf57f7195b7",
+    "label": 0,
+    "is_ad": false,
+    "group_id": "instant",
+    "variant": 3,
+    "reading": "instant",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "cefc2c31d26296f5",
+    "label": 1,
+    "is_ad": true,
+    "group_id": "instant",
+    "variant": 4,
+    "reading": "instant",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "8ff6fb2e04e0c6f8",
+    "label": 1,
+    "is_ad": false,
+    "group_id": "instant",
+    "variant": 5,
+    "reading": "instant",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "b1fcd9c6b5cbbf78",
+    "label": 2,
+    "is_ad": false,
+    "group_id": "instant",
+    "variant": 6,
+    "reading": "instant",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "915aaf8e9b543e63",
+    "label": 2,
+    "is_ad": false,
+    "group_id": "instant",
+    "variant": 7,
+    "reading": "instant",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "4db1130cc261727e",
+    "label": 0,
+    "is_ad": true,
+    "group_id": "winner",
+    "variant": 0,
+    "reading": "winner",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "691edafcdaee5506",
+    "label": 0,
+    "is_ad": false,
+    "group_id": "winner",
+    "variant": 1,
+    "reading": "winner",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "2bd8a9fd1ab6411f",
+    "label": 0,
+    "is_ad": true,
+    "group_id": "winner",
+    "variant": 2,
+    "reading": "winner24",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "e824c917accc147b",
+    "label": 0,
+    "is_ad": false,
+    "group_id": "winner",
+    "variant": 3,
+    "reading": "winner",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "210808811e024e52",
+    "label": 1,
+    "is_ad": true,
+    "group_id": "winner",
+    "variant": 4,
+    "reading": "winner",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "6a0519da30cc476b",
+    "label": 1,
+    "is_ad": false,
+    "group_id": "winner",
+    "variant": 5,
+    "reading": "winner",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "79ecd095b22e3575",
+    "label": 2,
+    "is_ad": false,
+    "group_id": "winner",
+    "variant": 6,
+    "reading": "winner",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "ae6e0156975ba633",
+    "label": 2,
+    "is_ad": false,
+    "group_id": "winner",
+    "variant": 7,
+    "reading": "winner",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "47498284bf209e70",
+    "label": 0,
+    "is_ad": true,
+    "group_id": "transfer",
+    "variant": 0,
+    "reading": "transfer",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "4608365cd0efe26d",
+    "label": 0,
+    "is_ad": false,
+    "group_id": "transfer",
+    "variant": 1,
+    "reading": "transfer",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "c346a068ab6579ac",
+    "label": 0,
+    "is_ad": true,
+    "group_id": "transfer",
+    "variant": 2,
+    "reading": "transfer24",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "a7ef2b0174d9808c",
+    "label": 0,
+    "is_ad": false,
+    "group_id": "transfer",
+    "variant": 3,
+    "reading": "transfer",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "49f70bab922a517a",
+    "label": 1,
+    "is_ad": true,
+    "group_id": "transfer",
+    "variant": 4,
+    "reading": "transfer",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "a3cbb26716393f5d",
+    "label": 1,
+    "is_ad": false,
+    "group_id": "transfer",
+    "variant": 5,
+    "reading": "transfer",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "984ec7f17e02b1a6",
+    "label": 2,
+    "is_ad": false,
+    "group_id": "transfer",
+    "variant": 6,
+    "reading": "transfer",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "8ad72e5123adf5ad",
+    "label": 2,
+    "is_ad": false,
+    "group_id": "transfer",
+    "variant": 7,
+    "reading": "transfer",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "add2d8ba2a168aad",
+    "label": 0,
+    "is_ad": true,
+    "group_id": "certificate",
+    "variant": 0,
+    "reading": "certificate",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "bc9edd36d2596809",
+    "label": 0,
+    "is_ad": false,
+    "group_id": "certificate",
+    "variant": 1,
+    "reading": "certificate",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "4dfc24c29c9a2171",
+    "label": 0,
+    "is_ad": true,
+    "group_id": "certificate",
+    "variant": 2,
+    "reading": "certificate24",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "2e85874ff7352ec5",
+    "label": 0,
+    "is_ad": false,
+    "group_id": "certificate",
+    "variant": 3,
+    "reading": "certificate",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "dbe5e0ef3e896712",
+    "label": 1,
+    "is_ad": true,
+    "group_id": "certificate",
+    "variant": 4,
+    "reading": "certificate",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "ce4bb44a59d856f8",
+    "label": 1,
+    "is_ad": false,
+    "group_id": "certificate",
+    "variant": 5,
+    "reading": "certificate",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "993cc39c38088633",
+    "label": 2,
+    "is_ad": false,
+    "group_id": "certificate",
+    "variant": 6,
+    "reading": "certificate",
+    "label_source": "synthetic_author"
+  },
+  {
+    "id": "c848839803e48861",
+    "label": 2,
+    "is_ad": false,
+    "group_id": "certificate",
+    "variant": 7,
+    "reading": "certificate",
+    "label_source": "synthetic_author"
+  }
+]

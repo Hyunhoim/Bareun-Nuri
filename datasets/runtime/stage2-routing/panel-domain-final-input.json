@@ -1,0 +1,3671 @@
+{
+  "entry_url": "http://127.0.0.1:8780/advanced/",
+  "scope": "/advanced/",
+  "pages": [
+    {
+      "url": "http://127.0.0.1:8780/advanced/",
+      "title": "소통 첫 화면 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1101
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/list?board=free&page=1",
+      "title": "시민 게시판 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1097
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/list?board=free&page=6",
+      "title": "시민 게시판 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1066
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/list?board=free&page=4",
+      "title": "시민 게시판 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1098
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/list?board=free&page=7",
+      "title": "시민 게시판 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1077
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2401",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1077
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2408",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1072
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2415",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1065
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2422",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1098
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2429",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1073
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2436",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1076
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2443",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1065
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2450",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1064
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2457",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1066
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/list?board=free&page=2",
+      "title": "시민 게시판 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1071
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/list?board=free&page=3",
+      "title": "시민 게시판 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1067
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/list?board=free&page=5",
+      "title": "시민 게시판 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1098
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/list?board=free&page=8",
+      "title": "시민 게시판 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1070
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/list?board=free&page=9",
+      "title": "시민 게시판 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1078
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/list?board=free&page=10",
+      "title": "시민 게시판 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1079
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2716",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1072
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2723",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1069
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2730",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1068
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2737",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1064
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2744",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1069
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2751",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1106
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2758",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1076
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2765",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1065
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2772",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1076
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2590",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1069
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2597",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1067
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2604",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1079
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2611",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1069
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2618",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1076
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2625",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1061
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2632",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1070
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2639",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1068
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2646",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1071
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2779",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1061
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2786",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1080
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2793",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1096
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2800",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1077
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2807",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1078
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2814",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1073
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2821",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1079
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2828",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1073
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2835",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1065
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2464",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1062
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2471",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1067
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2478",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1067
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2485",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1086
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2492",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1073
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2499",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1070
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2506",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1069
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2513",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1064
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2520",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1076
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2527",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1081
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2534",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1069
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2541",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1081
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2548",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1070
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2555",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1070
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2562",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1069
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2569",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1077
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2576",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1072
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2583",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1075
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2653",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1072
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2660",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1095
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2667",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1074
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2674",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1062
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2681",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1077
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2688",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1064
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2695",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1067
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2702",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1069
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2709",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1102
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2842",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1074
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2849",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1092
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2856",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1075
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2863",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1071
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2870",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1077
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2877",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1070
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2884",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1063
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2891",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1072
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2898",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1060
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2905",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1079
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2912",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1091
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2919",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1068
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2926",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1073
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2933",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1063
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2940",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1080
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2947",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1080
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2954",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1096
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2961",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1075
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2968",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1100
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2975",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1080
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2982",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1065
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2989",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1099
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2996",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1069
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=3003",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1062
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=3010",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1070
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=3017",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1072
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=3024",
+      "title": "게시글 상세 | 새빛시 시민소통",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1089
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "node_id": "n_4d7a02fcdf4957cb",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2422",
+      "location": "p#v575633044ea9",
+      "frame_urls": [],
+      "page_title": "게시글 상세 | 새빛시 시민소통",
+      "selector": "p#v575633044ea9",
+      "raw_text": "ＣＡＳＩＮＯ · 국어 교실에서는 바다라는 단어를 자음과 모음으로 나누어 읽습니다.",
+      "own_style": {
+        "tag": "p",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(35, 54, 76)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 15,
+        "position": "static",
+        "rect": {
+          "x": 384,
+          "y": 708.25,
+          "width": 918,
+          "height": 24.75,
+          "right": 1302,
+          "bottom": 733
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "relative",
+          "rect": {
+            "x": 384,
+            "y": 708.25,
+            "width": 918,
+            "height": 24.75,
+            "right": 1302,
+            "bottom": 733
+          }
+        },
+        {
+          "tag": "section",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 627.5,
+            "width": 974,
+            "height": 150,
+            "right": 1330,
+            "bottom": 777.5
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 375.125,
+            "width": 974,
+            "height": 402.375,
+            "right": 1330,
+            "bottom": 777.5
+          }
+        },
+        {
+          "tag": "main",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 232.890625,
+            "width": 974,
+            "height": 776.640625,
+            "right": 1330,
+            "bottom": 1009.53125
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "grid",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 110,
+            "y": 232.890625,
+            "width": 1220,
+            "height": 776.640625,
+            "right": 1330,
+            "bottom": 1009.53125
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1191.46875,
+            "right": 1440,
+            "bottom": 1191.46875
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1191.46875,
+            "right": 1440,
+            "bottom": 1191.46875
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "ＣＡＳＩＮＯ · 국어 교실에서는 바다라는 단어를 자음과 모음으로 나누어 읽습니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "div",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "p",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "CASINO · 국어 교실에서는 바다라는 단어를 자음과 모음으로 나누어 읽습니다.",
+      "signals": [
+        "HOMOGLYPH"
+      ]
+    },
+    {
+      "node_id": "n_57ae58001777d65e",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2730",
+      "location": "blockquote#v1cd5967c1cfe",
+      "frame_urls": [],
+      "page_title": "게시글 상세 | 새빛시 시민소통",
+      "selector": "blockquote#v1cd5967c1cfe",
+      "raw_text": "ㅎㅘㅁㅕㄴ ㅇㅣㄺㄱㅣ ㅅㅏㅇㅛㅇㅈㅏㄴㅡㄴ ㄷㅐㅅㄱㅡㄹ ㅁㅗㄱㄹㅗㄱㄱㅘ ㅁㅣㄴㅇㅝㄴ ㄷㅏㅂㅂㅕㄴㅇㅡㄹㅗ ㅇㅣㄷㅗㅇㅎㅏㄹ ㅅㅜ ㅇㅣㅆㅅㅡㅂㄴㅣㄷㅏ.",
+      "own_style": {
+        "tag": "blockquote",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(35, 54, 76)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 15,
+        "position": "static",
+        "rect": {
+          "x": 424,
+          "y": 576.0625,
+          "width": 838,
+          "height": 49.5,
+          "right": 1262,
+          "bottom": 625.5625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "relative",
+          "rect": {
+            "x": 384,
+            "y": 576.0625,
+            "width": 918,
+            "height": 49.5,
+            "right": 1302,
+            "bottom": 625.5625
+          }
+        },
+        {
+          "tag": "section",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 535.0625,
+            "width": 974,
+            "height": 211,
+            "right": 1330,
+            "bottom": 746.0625
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 375.125,
+            "width": 974,
+            "height": 370.9375,
+            "right": 1330,
+            "bottom": 746.0625
+          }
+        },
+        {
+          "tag": "main",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 232.890625,
+            "width": 974,
+            "height": 745.203125,
+            "right": 1330,
+            "bottom": 978.09375
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "grid",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 110,
+            "y": 232.890625,
+            "width": 1220,
+            "height": 745.203125,
+            "right": 1330,
+            "bottom": 978.09375
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1160.03125,
+            "right": 1440,
+            "bottom": 1160.03125
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1160.03125,
+            "right": 1440,
+            "bottom": 1160.03125
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "ㅎㅘㅁㅕㄴ ㅇㅣㄺㄱㅣ ㅅㅏㅇㅛㅇㅈㅏㄴㅡㄴ ㄷㅐㅅㄱㅡㄹ ㅁㅗㄱㄹㅗㄱㄱㅘ ㅁㅣㄴㅇㅝㄴ ㄷㅏㅂㅂㅕㄴㅇㅡㄹㅗ ㅇㅣㄷㅗㅇㅎㅏㄹ ㅅㅜ ㅇㅣㅆㅅㅡㅂㄴㅣㄷㅏ.",
+      "context_evidence": {
+        "scope": {
+          "tag": "div",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "blockquote",
+        "target_quoted": true,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "blockquote",
+            "quoted": true
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "화면 읽기 사용자는 댓글 목록과 민원 답변으로 이동할 수 있습니다.",
+      "signals": [
+        "JAMO"
+      ]
+    },
+    {
+      "node_id": "n_5cae870d9a982aec",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2751",
+      "location": "p#vc0e5819fac22",
+      "frame_urls": [],
+      "page_title": "게시글 상세 | 새빛시 시민소통",
+      "selector": "p#vc0e5819fac22",
+      "raw_text": "ＣＡＳＩＮＯ · 국어 교실에서는 바다라는 단어를 자음과 모음으로 나누어 읽습니다.",
+      "own_style": {
+        "tag": "p",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(35, 54, 76)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 14,
+        "position": "static",
+        "rect": {
+          "x": 402,
+          "y": 967.59375,
+          "width": 882,
+          "height": 23.09375,
+          "right": 1284,
+          "bottom": 990.6875
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgb(240, 244, 247)",
+          "font_size": 15,
+          "position": "relative",
+          "rect": {
+            "x": 384,
+            "y": 953.59375,
+            "width": 918,
+            "height": 51.09375,
+            "right": 1302,
+            "bottom": 1004.6875
+          }
+        },
+        {
+          "tag": "section",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgb(250, 251, 252)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 897.09375,
+            "width": 974,
+            "height": 140.59375,
+            "right": 1330,
+            "bottom": 1037.6875
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 375.125,
+            "width": 974,
+            "height": 662.5625,
+            "right": 1330,
+            "bottom": 1037.6875
+          }
+        },
+        {
+          "tag": "main",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 232.890625,
+            "width": 974,
+            "height": 896.234375,
+            "right": 1330,
+            "bottom": 1129.125
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "grid",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 110,
+            "y": 232.890625,
+            "width": 1220,
+            "height": 896.234375,
+            "right": 1330,
+            "bottom": 1129.125
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1311.0625,
+            "right": 1440,
+            "bottom": 1311.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1311.0625,
+            "right": 1440,
+            "bottom": 1311.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "ＣＡＳＩＮＯ · 국어 교실에서는 바다라는 단어를 자음과 모음으로 나누어 읽습니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "section",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "h3",
+            "quoted": false,
+            "text": "답글"
+          },
+          {
+            "relation": "target",
+            "tag": "p",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "CASINO · 국어 교실에서는 바다라는 단어를 자음과 모음으로 나누어 읽습니다.",
+      "signals": [
+        "HOMOGLYPH"
+      ]
+    },
+    {
+      "node_id": "n_e40e5835aaa7b32e",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2590",
+      "location": "li#v6b148eedf2d3",
+      "frame_urls": [],
+      "page_title": "게시글 상세 | 새빛시 시민소통",
+      "selector": "li#v6b148eedf2d3",
+      "raw_text": "복지관 어르신 스마트폰 교실 수강생을 모집합니다.",
+      "own_style": {
+        "tag": "li",
+        "opacity": 1,
+        "display": "list-item",
+        "visibility": "visible",
+        "color": "rgb(35, 54, 76)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 14,
+        "position": "static",
+        "rect": {
+          "x": 422,
+          "y": 719.5625,
+          "width": 862,
+          "height": 23.09375,
+          "right": 1284,
+          "bottom": 742.65625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "ul",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 402,
+            "y": 719.5625,
+            "width": 882,
+            "height": 23.09375,
+            "right": 1284,
+            "bottom": 742.65625
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgb(240, 244, 247)",
+          "font_size": 15,
+          "position": "relative",
+          "rect": {
+            "x": 384,
+            "y": 690.5625,
+            "width": 918,
+            "height": 81.09375,
+            "right": 1302,
+            "bottom": 771.65625
+          }
+        },
+        {
+          "tag": "section",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgb(250, 251, 252)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 634.0625,
+            "width": 974,
+            "height": 170.59375,
+            "right": 1330,
+            "bottom": 804.65625
+          }
+        },
+        {
+          "tag": "main",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 232.890625,
+            "width": 974,
+            "height": 663.203125,
+            "right": 1330,
+            "bottom": 896.09375
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "grid",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 110,
+            "y": 232.890625,
+            "width": 1220,
+            "height": 663.203125,
+            "right": 1330,
+            "bottom": 896.09375
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1078.03125,
+            "right": 1440,
+            "bottom": 1078.03125
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1078.03125,
+            "right": 1440,
+            "bottom": 1078.03125
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "복지관 어르신 스마트폰 교실 수강생을 모집합니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "section",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "li",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "h3",
+            "quoted": false,
+            "text": "댓글"
+          },
+          {
+            "relation": "target",
+            "tag": "li",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "복지관 어르신 스마트폰 교실 수강생을 모집합니다.",
+      "signals": []
+    },
+    {
+      "node_id": "n_5ee4ddc0320ab6fb",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2597",
+      "location": "p#v34deeb13da47",
+      "frame_urls": [],
+      "page_title": "게시글 상세 | 새빛시 시민소통",
+      "selector": "p#v34deeb13da47",
+      "raw_text": "정상 행사 회원 모집과 정규 수강료 결제 안내입니다.",
+      "own_style": {
+        "tag": "p",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "font_size": 15,
+        "position": "static",
+        "rect": {
+          "x": 384,
+          "y": 600.0625,
+          "width": 918,
+          "height": 24.75,
+          "right": 1302,
+          "bottom": 624.8125
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "relative",
+          "rect": {
+            "x": 384,
+            "y": 600.0625,
+            "width": 918,
+            "height": 24.75,
+            "right": 1302,
+            "bottom": 624.8125
+          }
+        },
+        {
+          "tag": "section",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 559.0625,
+            "width": 974,
+            "height": 150,
+            "right": 1330,
+            "bottom": 709.0625
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 375.125,
+            "width": 974,
+            "height": 396.9375,
+            "right": 1330,
+            "bottom": 772.0625
+          }
+        },
+        {
+          "tag": "main",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 232.890625,
+            "width": 974,
+            "height": 1045.609375,
+            "right": 1330,
+            "bottom": 1278.5
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "grid",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 110,
+            "y": 232.890625,
+            "width": 1220,
+            "height": 1045.609375,
+            "right": 1330,
+            "bottom": 1278.5
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1460.4375,
+            "right": 1440,
+            "bottom": 1460.4375
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1460.4375,
+            "right": 1440,
+            "bottom": 1460.4375
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "정상 행사 회원 모집과 정규 수강료 결제 안내입니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "section",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "p",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "정상 행사 회원 모집과 정규 수강료 결제 안내입니다.",
+      "signals": [
+        "TRANSPARENT"
+      ]
+    },
+    {
+      "node_id": "n_0c9c212b21c81096",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2632",
+      "location": "html > body > div:nth-of-type(2) > main > article > div > span",
+      "frame_urls": [],
+      "page_title": "게시글 상세 | 새빛시 시민소통",
+      "selector": "html > body > div:nth-of-type(2) > main > article > div > span",
+      "raw_text": "시민 의견",
+      "own_style": {
+        "tag": "span",
+        "opacity": 1,
+        "display": "inline-block",
+        "visibility": "visible",
+        "color": "rgb(56, 110, 145)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 11,
+        "position": "static",
+        "rect": {
+          "x": 384,
+          "y": 403.125,
+          "width": 63.875,
+          "height": 24.140625,
+          "right": 447.875,
+          "bottom": 427.265625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgb(247, 243, 238)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 377.125,
+            "width": 974,
+            "height": 286.375,
+            "right": 1330,
+            "bottom": 663.5
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 375.125,
+            "width": 974,
+            "height": 710.953125,
+            "right": 1330,
+            "bottom": 1086.078125
+          }
+        },
+        {
+          "tag": "main",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 232.890625,
+            "width": 974,
+            "height": 1108.3125,
+            "right": 1330,
+            "bottom": 1341.203125
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "grid",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 110,
+            "y": 232.890625,
+            "width": 1220,
+            "height": 1108.3125,
+            "right": 1330,
+            "bottom": 1341.203125
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1523.140625,
+            "right": 1440,
+            "bottom": 1523.140625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1523.140625,
+            "right": 1440,
+            "bottom": 1523.140625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": "ＣＡＳＩＮＯ · 사설 카지노 신규 회원을 모집합니다. 첫 입금에 추가 금액을 드리고 현금 환전을 지원합니다."
+      },
+      "context": "시민 의견ＣＡＳＩＮＯ · 사설 카지노 신규 회원을 모집합니다. 첫 입금에 추가 금액을 드리고 현금 환전을 지원합니다.작성자아래 문구는 신고되어 삭제된 광고의 인용입니다. 이용을 권하는 글이 아니며 가입하거나 입금하지 마세요.ＣＡＳＩＮＯ · 비공개 사설 카드게임 이용자를 모집합니다. 참가금을 보내고 현금 배당에 도전하세요.등록일 2026.09.22접수 2632",
+      "context_evidence": {
+        "scope": {
+          "tag": "div",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "span",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "span",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "tag": "h2",
+            "quoted": false,
+            "text": "ＣＡＳＩＮＯ · 사설 카지노 신규 회원을 모집합니다. 첫 입금에 추가 금액을 드리고 현금 환전을 지원합니다."
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "시민 의견",
+      "signals": []
+    },
+    {
+      "node_id": "n_3f9b7fcc8b72b133",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2793",
+      "location": "html > body > div:nth-of-type(2) > main > div:nth-of-type(2) > section:nth-of-type(2) > h3",
+      "frame_urls": [],
+      "page_title": "게시글 상세 | 새빛시 시민소통",
+      "selector": "html > body > div:nth-of-type(2) > main > div:nth-of-type(2) > section:nth-of-type(2) > h3",
+      "raw_text": "관련 링크",
+      "own_style": {
+        "tag": "h3",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(110, 128, 144)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 12,
+        "position": "static",
+        "rect": {
+          "x": 384,
+          "y": 727.859375,
+          "width": 918,
+          "height": 18,
+          "right": 1302,
+          "bottom": 745.859375
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "section",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 706.859375,
+            "width": 974,
+            "height": 99.75,
+            "right": 1330,
+            "bottom": 806.609375
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 375.125,
+            "width": 974,
+            "height": 635.171875,
+            "right": 1330,
+            "bottom": 1010.296875
+          }
+        },
+        {
+          "tag": "main",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 232.890625,
+            "width": 974,
+            "height": 868.84375,
+            "right": 1330,
+            "bottom": 1101.734375
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "grid",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 110,
+            "y": 232.890625,
+            "width": 1220,
+            "height": 868.84375,
+            "right": 1330,
+            "bottom": 1101.734375
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1283.671875,
+            "right": 1440,
+            "bottom": 1283.671875
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1283.671875,
+            "right": 1440,
+            "bottom": 1283.671875
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": "ㅂㅣㄱㅗㅇㄱㅐ 바카라 테이블이 열렸습니다. 가입비를 입금하면 즉시 게임에 참여할 수 있습니다."
+      },
+      "context": "관련 링크ㅂㅣㄱㅗㅇㄱㅐ 바카라 테이블이 열렸습니다. 가입비를 입금하면 즉시 게임에 참여할 수 있습니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "section",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "h3",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "h3",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "tag": "a",
+            "quoted": false,
+            "text": "ㅂㅣㄱㅗㅇㄱㅐ 바카라 테이블이 열렸습니다. 가입비를 입금하면 즉시 게임에 참여할 수 있습니다."
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "관련 링크",
+      "signals": []
+    },
+    {
+      "node_id": "n_4917e570f61a840e",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2821",
+      "location": "p#vb26ea39b0428",
+      "frame_urls": [],
+      "page_title": "게시글 상세 | 새빛시 시민소통",
+      "selector": "p#vb26ea39b0428",
+      "raw_text": "도시숲 가꾸기 자원봉사에 함께할 주민을 모집합니다.",
+      "own_style": {
+        "tag": "p",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(35, 54, 76)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 14,
+        "position": "static",
+        "rect": {
+          "x": 402,
+          "y": 1332.375,
+          "width": 882,
+          "height": 23.09375,
+          "right": 1284,
+          "bottom": 1355.46875
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgb(240, 244, 247)",
+          "font_size": 15,
+          "position": "relative",
+          "rect": {
+            "x": 384,
+            "y": 1318.375,
+            "width": 918,
+            "height": 51.09375,
+            "right": 1302,
+            "bottom": 1369.46875
+          }
+        },
+        {
+          "tag": "section",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgb(250, 251, 252)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 1261.875,
+            "width": 974,
+            "height": 140.59375,
+            "right": 1330,
+            "bottom": 1402.46875
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 375.125,
+            "width": 974,
+            "height": 1027.34375,
+            "right": 1330,
+            "bottom": 1402.46875
+          }
+        },
+        {
+          "tag": "main",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 232.890625,
+            "width": 974,
+            "height": 1261.015625,
+            "right": 1330,
+            "bottom": 1493.90625
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "grid",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 110,
+            "y": 232.890625,
+            "width": 1220,
+            "height": 1261.015625,
+            "right": 1330,
+            "bottom": 1493.90625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1675.84375,
+            "right": 1440,
+            "bottom": 1675.84375
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1675.84375,
+            "right": 1440,
+            "bottom": 1675.84375
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "도시숲 가꾸기 자원봉사에 함께할 주민을 모집합니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "section",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "h3",
+            "quoted": false,
+            "text": "답글"
+          },
+          {
+            "relation": "target",
+            "tag": "p",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "도시숲 가꾸기 자원봉사에 함께할 주민을 모집합니다.",
+      "signals": []
+    },
+    {
+      "node_id": "n_527c1a4fa62747af",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2548",
+      "location": "div#vc6f582f2faca",
+      "frame_urls": [],
+      "page_title": "게시글 상세 | 새빛시 시민소통",
+      "selector": "div#vc6f582f2faca",
+      "raw_text": "도시숲 가꾸기 자원봉사에 함께할 주민을 모집합니다. 자세한 운영 시간은 공지사항을 확인하세요.",
+      "own_style": {
+        "tag": "div",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(35, 54, 76)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 15,
+        "position": "static",
+        "rect": {
+          "x": 384,
+          "y": 573.0625,
+          "width": 918,
+          "height": 24.75,
+          "right": 1302,
+          "bottom": 597.8125
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "relative",
+          "rect": {
+            "x": 384,
+            "y": 573.0625,
+            "width": 918,
+            "height": 24.75,
+            "right": 1302,
+            "bottom": 597.8125
+          }
+        },
+        {
+          "tag": "section",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 535.0625,
+            "width": 974,
+            "height": 196.9375,
+            "right": 1330,
+            "bottom": 732
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 375.125,
+            "width": 974,
+            "height": 772.59375,
+            "right": 1330,
+            "bottom": 1147.71875
+          }
+        },
+        {
+          "tag": "main",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 232.890625,
+            "width": 974,
+            "height": 1006.265625,
+            "right": 1330,
+            "bottom": 1239.15625
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "grid",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 110,
+            "y": 232.890625,
+            "width": 1220,
+            "height": 1006.265625,
+            "right": 1330,
+            "bottom": 1239.15625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1421.09375,
+            "right": 1440,
+            "bottom": 1421.09375
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1421.09375,
+            "right": 1440,
+            "bottom": 1421.09375
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "도시숲 가꾸기 자원봉사에 함께할 주민을 모집합니다. 자세한 운영 시간은 공지사항을 확인하세요.",
+      "context_evidence": {
+        "scope": {
+          "tag": "div",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "div",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "div",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "도시숲 가꾸기 자원봉사에 함께할 주민을 모집합니다. 자세한 운영 시간은 공지사항을 확인하세요.",
+      "signals": []
+    },
+    {
+      "node_id": "n_daa5d2f92bc83d69",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2548",
+      "location": "div#v7bb54382b2ae",
+      "frame_urls": [],
+      "page_title": "게시글 상세 | 새빛시 시민소통",
+      "selector": "div#v7bb54382b2ae",
+      "raw_text": "ㅈㅏㅅㅔㅎㅏㄴ 내용은 사설 슬롯 회원방에서 안내합니다. 가입하고 게임 금액을 충전해 주세요.",
+      "own_style": {
+        "tag": "div",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(35, 54, 76)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 14,
+        "position": "static",
+        "rect": {
+          "x": 402,
+          "y": 865.59375,
+          "width": 882,
+          "height": 23.09375,
+          "right": 1284,
+          "bottom": 888.6875
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgb(240, 244, 247)",
+          "font_size": 15,
+          "position": "relative",
+          "rect": {
+            "x": 384,
+            "y": 851.59375,
+            "width": 918,
+            "height": 51.09375,
+            "right": 1302,
+            "bottom": 902.6875
+          }
+        },
+        {
+          "tag": "section",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgb(250, 251, 252)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 732,
+            "width": 974,
+            "height": 203.6875,
+            "right": 1330,
+            "bottom": 935.6875
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 375.125,
+            "width": 974,
+            "height": 772.59375,
+            "right": 1330,
+            "bottom": 1147.71875
+          }
+        },
+        {
+          "tag": "main",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 232.890625,
+            "width": 974,
+            "height": 1006.265625,
+            "right": 1330,
+            "bottom": 1239.15625
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "grid",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 110,
+            "y": 232.890625,
+            "width": 1220,
+            "height": 1006.265625,
+            "right": 1330,
+            "bottom": 1239.15625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1421.09375,
+            "right": 1440,
+            "bottom": 1421.09375
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1421.09375,
+            "right": 1440,
+            "bottom": 1421.09375
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "ㅈㅏㅅㅔㅎㅏㄴ 내용은 사설 슬롯 회원방에서 안내합니다. 가입하고 게임 금액을 충전해 주세요.",
+      "context_evidence": {
+        "scope": {
+          "tag": "div",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "div",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "div",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "자세한 내용은 사설 슬롯 회원방에서 안내합니다. 가입하고 게임 금액을 충전해 주세요.",
+      "signals": [
+        "JAMO"
+      ]
+    },
+    {
+      "node_id": "n_47c35cf660a24a4d",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2660",
+      "location": "li#vfbcf7249497f",
+      "frame_urls": [],
+      "page_title": "게시글 상세 | 새빛시 시민소통",
+      "selector": "li#vfbcf7249497f",
+      "raw_text": "ＣＡＳＩＮＯ · 국어 교실에서는 바다라는 단어를 자음과 모음으로 나누어 읽습니다.",
+      "own_style": {
+        "tag": "li",
+        "opacity": 1,
+        "display": "list-item",
+        "visibility": "visible",
+        "color": "rgb(35, 54, 76)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 14,
+        "position": "static",
+        "rect": {
+          "x": 422,
+          "y": 851.5625,
+          "width": 862,
+          "height": 23.09375,
+          "right": 1284,
+          "bottom": 874.65625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "ul",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 402,
+            "y": 851.5625,
+            "width": 882,
+            "height": 23.09375,
+            "right": 1284,
+            "bottom": 874.65625
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgb(240, 244, 247)",
+          "font_size": 15,
+          "position": "relative",
+          "rect": {
+            "x": 384,
+            "y": 822.5625,
+            "width": 918,
+            "height": 81.09375,
+            "right": 1302,
+            "bottom": 903.65625
+          }
+        },
+        {
+          "tag": "section",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgb(250, 251, 252)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 766.0625,
+            "width": 974,
+            "height": 225.59375,
+            "right": 1330,
+            "bottom": 991.65625
+          }
+        },
+        {
+          "tag": "main",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 232.890625,
+            "width": 974,
+            "height": 1062.234375,
+            "right": 1330,
+            "bottom": 1295.125
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "grid",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 110,
+            "y": 232.890625,
+            "width": 1220,
+            "height": 1062.234375,
+            "right": 1330,
+            "bottom": 1295.125
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1477.0625,
+            "right": 1440,
+            "bottom": 1477.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1477.0625,
+            "right": 1440,
+            "bottom": 1477.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "ＣＡＳＩＮＯ · 국어 교실에서는 바다라는 단어를 자음과 모음으로 나누어 읽습니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "div",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "li",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "li",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "CASINO · 국어 교실에서는 바다라는 단어를 자음과 모음으로 나누어 읽습니다.",
+      "signals": [
+        "HOMOGLYPH"
+      ]
+    },
+    {
+      "node_id": "n_17ad278423dbc5f3",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2695",
+      "location": "iframe[src=\"http://127.0.0.1:8780/advanced/widget/comments?thread=7d70814f517a\"] >>> iframe[src=\"http://127.0.0.1:8780/advanced/widget/replies?thread=7d70814f517a\"] >>> p#v7d70814f517a",
+      "frame_urls": [
+        "http://127.0.0.1:8780/advanced/widget/comments?thread=7d70814f517a",
+        "http://127.0.0.1:8780/advanced/widget/replies?thread=7d70814f517a"
+      ],
+      "page_title": "게시글 상세 | 새빛시 시민소통",
+      "selector": "p#v7d70814f517a",
+      "raw_text": "정상 행사 회원 모집과 정규 수강료 결제 안내입니다.",
+      "own_style": {
+        "tag": "p",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgba(0, 0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 15,
+        "position": "static",
+        "rect": {
+          "x": 12,
+          "y": 27,
+          "width": 830,
+          "height": 24.75,
+          "right": 842,
+          "bottom": 51.75
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgba(0, 0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "relative",
+          "rect": {
+            "x": 12,
+            "y": 27,
+            "width": 830,
+            "height": 24.75,
+            "right": 842,
+            "bottom": 51.75
+          }
+        },
+        {
+          "tag": "main",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 12,
+            "y": 27,
+            "width": 830,
+            "height": 24.75,
+            "right": 842,
+            "bottom": 51.75
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgb(248, 250, 251)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 854,
+            "height": 78.75,
+            "right": 854,
+            "bottom": 78.75
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 854,
+            "height": 78.75,
+            "right": 854,
+            "bottom": 78.75
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "정상 행사 회원 모집과 정규 수강료 결제 안내입니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "main",
+          "role": null,
+          "document_scope": true
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "p",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "정상 행사 회원 모집과 정규 수강료 결제 안내입니다.",
+      "signals": [
+        "TRANSPARENT"
+      ]
+    },
+    {
+      "node_id": "n_733c946d517e03f0",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2905",
+      "location": "h3#v52f1ed834c22",
+      "frame_urls": [],
+      "page_title": "게시글 상세 | 새빛시 시민소통",
+      "selector": "h3#v52f1ed834c22",
+      "raw_text": "마을 독서회 신규 회원을 모집합니다. 가입비 없이 누구나 참여할 수 있습니다. 자세한 운영 시간은 공지사항을 확인하세요.",
+      "own_style": {
+        "tag": "h3",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(35, 54, 76)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 22,
+        "position": "static",
+        "rect": {
+          "x": 384,
+          "y": 439.265625,
+          "width": 918,
+          "height": 66,
+          "right": 1302,
+          "bottom": 505.265625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "relative",
+          "rect": {
+            "x": 384,
+            "y": 439.265625,
+            "width": 918,
+            "height": 66,
+            "right": 1302,
+            "bottom": 505.265625
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgb(245, 248, 250)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 377.125,
+            "width": 974,
+            "height": 190.9375,
+            "right": 1330,
+            "bottom": 568.0625
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 375.125,
+            "width": 974,
+            "height": 554.96875,
+            "right": 1330,
+            "bottom": 930.09375
+          }
+        },
+        {
+          "tag": "main",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 232.890625,
+            "width": 974,
+            "height": 788.640625,
+            "right": 1330,
+            "bottom": 1021.53125
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "grid",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 110,
+            "y": 232.890625,
+            "width": 1220,
+            "height": 788.640625,
+            "right": 1330,
+            "bottom": 1021.53125
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1203.46875,
+            "right": 1440,
+            "bottom": 1203.46875
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1203.46875,
+            "right": 1440,
+            "bottom": 1203.46875
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "마을 독서회 신규 회원을 모집합니다. 가입비 없이 누구나 참여할 수 있습니다. 자세한 운영 시간은 공지사항을 확인하세요.",
+      "context_evidence": {
+        "scope": {
+          "tag": "div",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "h3",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "span",
+            "quoted": false,
+            "text": "시민 의견"
+          },
+          {
+            "relation": "target",
+            "tag": "h3",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "마을 독서회 신규 회원을 모집합니다. 가입비 없이 누구나 참여할 수 있습니다. 자세한 운영 시간은 공지사항을 확인하세요.",
+      "signals": []
+    },
+    {
+      "node_id": "n_d64ed54f585cb544",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2919",
+      "location": "div#v9d8b6a3d49a3",
+      "frame_urls": [],
+      "page_title": "게시글 상세 | 새빛시 시민소통",
+      "selector": "div#v9d8b6a3d49a3",
+      "raw_text": "밤길 조명 개선이 필요한 위치를 알려 주세요.",
+      "own_style": {
+        "tag": "div",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(35, 54, 76)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 15,
+        "position": "static",
+        "rect": {
+          "x": 385,
+          "y": 611.65625,
+          "width": 916,
+          "height": 24.75,
+          "right": 1301,
+          "bottom": 636.40625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "relative",
+          "rect": {
+            "x": 385,
+            "y": 611.65625,
+            "width": 916,
+            "height": 24.75,
+            "right": 1301,
+            "bottom": 636.40625
+          }
+        },
+        {
+          "tag": "section",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 357,
+            "y": 573.65625,
+            "width": 972,
+            "height": 150,
+            "right": 1329,
+            "bottom": 723.65625
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 375.125,
+            "width": 974,
+            "height": 922.15625,
+            "right": 1330,
+            "bottom": 1297.28125
+          }
+        },
+        {
+          "tag": "main",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 232.890625,
+            "width": 974,
+            "height": 1155.828125,
+            "right": 1330,
+            "bottom": 1388.71875
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "grid",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 110,
+            "y": 232.890625,
+            "width": 1220,
+            "height": 1155.828125,
+            "right": 1330,
+            "bottom": 1388.71875
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1570.65625,
+            "right": 1440,
+            "bottom": 1570.65625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1570.65625,
+            "right": 1440,
+            "bottom": 1570.65625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "밤길 조명 개선이 필요한 위치를 알려 주세요.",
+      "context_evidence": {
+        "scope": {
+          "tag": "section",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "div",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "div",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "밤길 조명 개선이 필요한 위치를 알려 주세요.",
+      "signals": []
+    },
+    {
+      "node_id": "n_2da9676c1e917baa",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2933",
+      "location": "div#v87427925dab3",
+      "frame_urls": [],
+      "page_title": "게시글 상세 | 새빛시 시민소통",
+      "selector": "div#v87427925dab3",
+      "raw_text": "정상 행사 회원 모집과 정규 수강료 결제 안내입니다.",
+      "own_style": {
+        "tag": "div",
+        "opacity": 0,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(35, 54, 76)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 15,
+        "position": "static",
+        "rect": {
+          "x": 384,
+          "y": 630.296875,
+          "width": 918,
+          "height": 24.75,
+          "right": 1302,
+          "bottom": 655.046875
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "relative",
+          "rect": {
+            "x": 384,
+            "y": 630.296875,
+            "width": 918,
+            "height": 24.75,
+            "right": 1302,
+            "bottom": 655.046875
+          }
+        },
+        {
+          "tag": "section",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 592.296875,
+            "width": 974,
+            "height": 150,
+            "right": 1330,
+            "bottom": 742.296875
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 375.125,
+            "width": 974,
+            "height": 507.765625,
+            "right": 1330,
+            "bottom": 882.890625
+          }
+        },
+        {
+          "tag": "main",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 232.890625,
+            "width": 974,
+            "height": 741.4375,
+            "right": 1330,
+            "bottom": 974.328125
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "grid",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 110,
+            "y": 232.890625,
+            "width": 1220,
+            "height": 741.4375,
+            "right": 1330,
+            "bottom": 974.328125
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1156.265625,
+            "right": 1440,
+            "bottom": 1156.265625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1156.265625,
+            "right": 1440,
+            "bottom": 1156.265625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "정상 행사 회원 모집과 정규 수강료 결제 안내입니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "section",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "div",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "div",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "정상 행사 회원 모집과 정규 수강료 결제 안내입니다.",
+      "signals": [
+        "TRANSPARENT"
+      ]
+    },
+    {
+      "node_id": "n_0d23edb756be3481",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2947",
+      "location": "p#vdff932d2c520",
+      "frame_urls": [],
+      "page_title": "게시글 상세 | 새빛시 시민소통",
+      "selector": "p#vdff932d2c520",
+      "raw_text": "전통시장 장보기 행사에 참여하고 이용 후기를 남겨 주세요.",
+      "own_style": {
+        "tag": "p",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(35, 54, 76)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 15,
+        "position": "static",
+        "rect": {
+          "x": 384,
+          "y": 994.5,
+          "width": 918,
+          "height": 24.75,
+          "right": 1302,
+          "bottom": 1019.25
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "relative",
+          "rect": {
+            "x": 384,
+            "y": 994.5,
+            "width": 918,
+            "height": 24.75,
+            "right": 1302,
+            "bottom": 1019.25
+          }
+        },
+        {
+          "tag": "section",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 940.5,
+            "width": 974,
+            "height": 105.75,
+            "right": 1330,
+            "bottom": 1046.25
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 375.125,
+            "width": 974,
+            "height": 671.125,
+            "right": 1330,
+            "bottom": 1046.25
+          }
+        },
+        {
+          "tag": "main",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 356,
+            "y": 232.890625,
+            "width": 974,
+            "height": 1108.484375,
+            "right": 1330,
+            "bottom": 1341.375
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "grid",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 110,
+            "y": 232.890625,
+            "width": 1220,
+            "height": 1108.484375,
+            "right": 1330,
+            "bottom": 1341.375
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1523.3125,
+            "right": 1440,
+            "bottom": 1523.3125
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(35, 54, 76)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1523.3125,
+            "right": 1440,
+            "bottom": 1523.3125
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "전통시장 장보기 행사에 참여하고 이용 후기를 남겨 주세요.",
+      "context_evidence": {
+        "scope": {
+          "tag": "section",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "h3",
+            "quoted": false,
+            "text": "서명"
+          },
+          {
+            "relation": "target",
+            "tag": "p",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "전통시장 장보기 행사에 참여하고 이용 후기를 남겨 주세요.",
+      "signals": []
+    }
+  ],
+  "blocked_requests": [],
+  "snapshot_sha256": "30768cacf0de58f95eb5c57c5407b2757cf7d3674e23e59bda7790305794316d",
+  "collected_at": "2026-09-21T20:10:03.144Z",
+  "collection_elapsed_sec": 135.7140772
+}

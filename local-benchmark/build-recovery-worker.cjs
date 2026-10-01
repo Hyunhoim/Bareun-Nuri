@@ -1,0 +1,12 @@
+const fs=require('node:fs'),assert=require('node:assert/strict'),{method}=require('./phase2-prompt-methods.cjs');
+const root='.runtime/phase2-recovery-stage',mode=process.argv[2];assert(['A','S','R'].includes(mode));
+let s=fs.readFileSync('agent/src/worker.cjs','utf8');
+s=s.replace("require('./core/antispoof.cjs')","require('../../agent/src/core/antispoof.cjs')");
+s=s.replace("'bounded-scan-store.cjs','frontier.cjs'","'bounded-scan-store.cjs','quarantine-recovery.cjs','frontier.cjs'");
+s=s.replace("quarantined:s.pages.reduce", "recovered:s.recovery?.recovered||0,quarantined:s.pages.reduce");
+s=s.replace("    if(previous?.state.inflight", "    if(previous&&!require('./core/quarantine-recovery.cjs').resumable(previous.state))throw Error('Unconfirmed recovery request: automatic retry refused');\n    if(previous?.state.inflight");
+fs.writeFileSync(root+'/worker.cjs',s);
+const file=root+'/core/judgment.cjs',source=fs.readFileSync('agent/src/core/judgment.cjs','utf8'),start=source.indexOf('const SYSTEM='),end=source.indexOf('\nconst JUDGE=',start);assert(start>=0&&end>start);
+fs.writeFileSync(file,source.slice(0,start)+'const SYSTEM='+JSON.stringify(method(mode).SYSTEM)+';'+source.slice(end));
+fs.writeFileSync(root+'/selection.json',JSON.stringify({mode,at:new Date().toISOString(),production_changed:false},null,2));
+console.log(JSON.stringify({worker:root+'/worker.cjs',mode}));

@@ -1,0 +1,36 @@
+{
+  "id": "4eaa18d7c3728619",
+  "source": {
+    "id": "4eaa18d7c3728619",
+    "url": "https://hrd.jeonbuk.go.kr/board/view.training?boardId=BBS_0000016&menuCd=DOM_000000103001000000&startPage=4&dataSid=13296",
+    "source_scope": "government_board",
+    "captured_at": "2026-09-28T23:08:46.854841+00:00",
+    "rights_status": "unverified_third_party_content",
+    "human_reviewed": false,
+    "raw_file": "raw/4eaa18d7c3728619.html",
+    "byte_file": "raw/4eaa18d7c3728619.bin",
+    "response_sha256": "04c35943aa0a19830501b52ea2ded35f664b3a867ca97fe63c08b50bcf9eaaf3",
+    "decoded_sha256": "04c35943aa0a19830501b52ea2ded35f664b3a867ca97fe63c08b50bcf9eaaf3",
+    "encoding": "utf-8",
+    "status": "captured",
+    "page_title": "홈 > 소통마당 > 자유게시판 |상세보기"
+  },
+  "title": "건강이",
+  "raw_text": "최고입니\n다이렉트자동차보험비교",
+  "body_xpath": "/html/body/div/div[3]/div/div[2]/div[2]/div[3]/div",
+  "title_xpath": "/html/body/div/div[3]/div/div[2]/div[2]/div[3]/dl[1]",
+  "source_kind": "real_web_post",
+  "extraction": "static_HTML_lxml_itertext",
+  "comments_status": "not_extracted_or_labeled",
+  "technique_observed": null,
+  "body_sha256": "b8e7bc24e203b172bfad38bd653eda7c09b688bedfa9b93185b006dfcd99c2c3",
+  "label": null,
+  "human_reviewed": false,
+  "outgoing_links": [
+    {
+      "text": "다이렉트자동차보험비교",
+      "href": "https://sakarin.modoo.at/"
+    }
+  ],
+  "notes": "No CSS technique claim from static text; listed neighbours are excluded from owned context."
+}

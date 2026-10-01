@@ -1,0 +1,258 @@
+{
+  "job_id": "158d8441-a0f0-40a8-ba75-ec3918e85f06",
+  "dataset_sha256": "0aced96f99d46c2a69742d9e35efbb184a921639b49b2aed720e25a51549946a",
+  "status": "completed_with_warnings",
+  "metrics": {
+    "tp": 108,
+    "fp": 61,
+    "fn": 52,
+    "precision": 0.6390532544378699,
+    "recall": 0.675,
+    "f1": 0.6565349544072948,
+    "negative_flagged": 37,
+    "negative_total": 180,
+    "evidence_mismatches": 0,
+    "invalid": 0,
+    "duplicates": 0,
+    "complete_positive_elements": 84,
+    "positive_elements": 120
+  },
+  "per_technique": {
+    "HOMOGLYPH": {
+      "tp": 30,
+      "fp": 22,
+      "fn": 10,
+      "precision": 0.5769230769230769,
+      "recall": 0.75
+    },
+    "JAMO": {
+      "tp": 27,
+      "fp": 10,
+      "fn": 13,
+      "precision": 0.7297297297297297,
+      "recall": 0.675
+    },
+    "TRANSPARENT": {
+      "tp": 22,
+      "fp": 29,
+      "fn": 18,
+      "precision": 0.43137254901960786,
+      "recall": 0.55
+    },
+    "OFFSCREEN": {
+      "tp": 29,
+      "fp": 0,
+      "fn": 11,
+      "precision": 1,
+      "recall": 0.725
+    }
+  },
+  "per_surface": {
+    "title": {
+      "tp": 22,
+      "fn": 0,
+      "fp_on_labeled_elements": 5,
+      "recall": 1,
+      "known_negative_elements": 24
+    },
+    "body": {
+      "tp": 24,
+      "fn": 18,
+      "fp_on_labeled_elements": 10,
+      "recall": 0.5714285714285714,
+      "known_negative_elements": 48
+    },
+    "comment": {
+      "tp": 14,
+      "fn": 18,
+      "fp_on_labeled_elements": 5,
+      "recall": 0.4375,
+      "known_negative_elements": 36
+    },
+    "reply": {
+      "tp": 16,
+      "fn": 6,
+      "fp_on_labeled_elements": 5,
+      "recall": 0.7272727272727273,
+      "known_negative_elements": 24
+    },
+    "author": {
+      "tp": 8,
+      "fn": 2,
+      "fp_on_labeled_elements": 3,
+      "recall": 0.8,
+      "known_negative_elements": 12
+    },
+    "signature": {
+      "tp": 10,
+      "fn": 0,
+      "fp_on_labeled_elements": 1,
+      "recall": 1,
+      "known_negative_elements": 12
+    },
+    "link": {
+      "tp": 8,
+      "fn": 4,
+      "fp_on_labeled_elements": 5,
+      "recall": 0.6666666666666666,
+      "known_negative_elements": 12
+    },
+    "attachment": {
+      "tp": 6,
+      "fn": 4,
+      "fp_on_labeled_elements": 3,
+      "recall": 0.6,
+      "known_negative_elements": 12
+    }
+  },
+  "per_template": {
+    "community": {
+      "tp": 24,
+      "fn": 10,
+      "fp_on_labeled_elements": 9,
+      "recall": 0.7058823529411765,
+      "known_negative_elements": 30
+    },
+    "notice": {
+      "tp": 24,
+      "fn": 9,
+      "fp_on_labeled_elements": 9,
+      "recall": 0.7272727272727273,
+      "known_negative_elements": 35
+    },
+    "service": {
+      "tp": 26,
+      "fn": 7,
+      "fp_on_labeled_elements": 6,
+      "recall": 0.7878787878787878,
+      "known_negative_elements": 36
+    },
+    "board": {
+      "tp": 22,
+      "fn": 4,
+      "fp_on_labeled_elements": 12,
+      "recall": 0.8461538461538461,
+      "known_negative_elements": 40
+    },
+    "petition": {
+      "tp": 12,
+      "fn": 22,
+      "fp_on_labeled_elements": 1,
+      "recall": 0.35294117647058826,
+      "known_negative_elements": 39
+    }
+  },
+  "collection": {
+    "pages": 101,
+    "candidates": 1891,
+    "elapsed_sec": 64.7205723,
+    "candidateGroups": {
+      "other_content": 1416,
+      "exact_labeled_element": 230,
+      "label_ancestor_or_fragment": 245
+    },
+    "causes": {
+      "exact": 230,
+      "fragmented_descendants": 9,
+      "late_dynamic_content": 6,
+      "unsupported_element": 24,
+      "outside_selected_root": 31
+    },
+    "positiveCauses": {
+      "exact": 86,
+      "fragmented_descendants": 9,
+      "unsupported_element": 11,
+      "outside_selected_root": 12,
+      "late_dynamic_content": 2
+    },
+    "other_unique_texts": 333,
+    "other_without_signals": 1415,
+    "exact_observation_signal_mismatches": 0,
+    "reachable_positive_techniques": 110,
+    "recall_ceiling": 0.6875
+  },
+  "errors": {
+    "missed_techniques_by_cause": {
+      "collection_outside_selected_root": 15,
+      "collection_late_dynamic_content": 3,
+      "collection_unsupported_element": 14,
+      "judgment_missing_technique": 2,
+      "collection_fragmented_descendants": 18
+    },
+    "missed_unique_elements": 36,
+    "false_positives": 61,
+    "fp_by_category": {
+      "normal_element_flagged": 37,
+      "other_content_flagged": 10,
+      "ad_fragment_or_ancestor_location": 14
+    }
+  },
+  "timing": {
+    "elapsed_sec": 2003.207,
+    "collection_sec": 64.7205723,
+    "llm_service_sec": 1908.1740000000002,
+    "queue_sec": 0.09289279999968136,
+    "service_p50": 16.098,
+    "service_p95": 18.121,
+    "service_max": 19.14
+  },
+  "llm": {
+    "model": "HCX-007",
+    "calls": 120,
+    "successful_calls": 119,
+    "failed_calls": 1,
+    "prompt_tokens": 691992,
+    "completion_tokens": 107523,
+    "total_tokens": null,
+    "events": {
+      "llm_request": 120,
+      "llm_response": 119
+    },
+    "diagnostics": 305,
+    "request_settings": {
+      "temperature": 0,
+      "thinking": {
+        "effort": "none"
+      },
+      "seed": 42,
+      "maxCompletionTokens": 3072
+    },
+    "blank_reasons": 279,
+    "blank_positive_reasons": 0,
+    "review_by_candidate_group": {
+      "other_content": 238,
+      "exact_labeled_element": 16,
+      "label_ancestor_or_fragment": 47
+    },
+    "usage_missing_calls": 1,
+    "other_only_calls": 37
+  },
+  "conditional_ad_intent": {
+    "note": "Only exact collected labeled elements, ignores technique correctness. Not end-to-end score.",
+    "positive_elements": 86,
+    "negative_elements": 144,
+    "tp": 86,
+    "fp": 38,
+    "fn": 0,
+    "precision": 0.6935483870967742,
+    "recall": 1
+  },
+  "ad_element_metrics": {
+    "tp": 85,
+    "fp": 54,
+    "fn": 35,
+    "precision": 0.6115107913669064,
+    "recall": 0.7083333333333334,
+    "f1": 0.6563706563706564,
+    "note": "Strict DOM element match, any technique counts as ad detection; secondary to the technique-level score."
+  },
+  "execution": {
+    "mode": "extended_diagnostic",
+    "baseline_status": "failed",
+    "baseline_error": "Run time limit exceeded",
+    "baseline_elapsed_sec": 1800.0149155000001,
+    "initial_processed": 1712,
+    "continued_at": "2026-09-21T18:35:12.869Z",
+    "note": "Identical source, evidence, model, settings, order and batch size. Only uncompleted batches continued outside the production time cap; this is not a successful 30-minute production run."
+  }
+}

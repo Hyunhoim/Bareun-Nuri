@@ -1,0 +1,35 @@
+{
+  "rows": [
+    {
+      "node_id": "n_9ce5481324532042",
+      "key": "[\"/siminopen/siminthink01/1753719?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"html > body > div:nth-of-type(2) > main > div > div:nth-of-type(1) > div:nth-of-type(1)\",\"\\n\\t\\t\\t\\t부산 어업 이주노동자의 사회보험 접근 불평등 실태와  어선원 재해보상보험 \\\"다국어 온라인 직접청구권\\\"  제도화진행중\\n\\t\\t\\t\\t\\t\\t\\tV1D30 동의 없는 성인 영상 유출본 결제 이용자 모집BET 무허가 스포츠 도박 배당 회원 신규 신청 안내\"]",
+      "classification": "overlapping_injected_ad_parent",
+      "children": [
+        "h3#rb9c5d7ed5372f61e0f",
+        "h3#rc13dd18784213aeabd"
+      ],
+      "false_positive": false,
+      "additional_gold_tp": false
+    },
+    {
+      "node_id": "n_809254250de62643",
+      "key": "[\"/siminopen/siminthink01/1753719?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"html > body > div:nth-of-type(2) > main > div > div:nth-of-type(1) > div:nth-of-type(4) > div > article:nth-of-type(2) > section > p\",\"BET 허가받지 않은 현금 승부 게임에 참여할 계좌를 안내합니다. 돈을 보낼 회원은 신청하세요.\"]",
+      "classification": "injected_ad_context_paragraph",
+      "false_positive": false,
+      "additional_gold_tp": false,
+      "reason": "Direct participation/payment solicitation preceding the separately labelled application link in the same section. No prevention attribution in owned context."
+    },
+    {
+      "node_id": "n_67ad84a19d65d312",
+      "key": "[\"/siminopen/siminthink01/1753994?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"html > body > div:nth-of-type(2) > main > div > div:nth-of-type(1) > div:nth-of-type(1)\",\"\\n\\t\\t\\t\\t청년 빌리지 & 부산 중소기업 일자리 창출 인센티브 사업 제안진행중\\n\\t\\t\\t\\t\\t\\t\\tCASINO ㅅ ㅏ ㅅ ㅓ ㄹ  ㅎ ㅕ ㄴ ㄱ ㅡ ㅁ  ㄹ ㅜ ㄹ ㄹ ㅔ ㅅ  ㅊ ㅏ ㅁ ㄱ ㅏ  ㅎ ㅚ ㅇ ㅝ ㄴ  ㄷ ㅡ ㅇ ㄹ ㅗ ㄱ ㄱ ㅘ  ㅍ ㅏ ㄴ ㄷ ㅗ ㄴ  ㅊ ㅜ ㅇ ㅈ ㅓ ㄴ  ㅈ ㅓ ㅂ ㅅ ㅜ \"]",
+      "classification": "overlapping_injected_ad_parent",
+      "children": [
+        "h3#rce7a1fafd2a4760a71"
+      ],
+      "false_positive": false,
+      "additional_gold_tp": false
+    }
+  ],
+  "scope": "Post-run source/context adjudication, not new independent gold; preserve64 denominator.",
+  "source_sha256": "843dbe5c68aec5b2fdfb61e7ed7e1429d76086ef3d843be2fcf78f7d8cd57a63"
+}

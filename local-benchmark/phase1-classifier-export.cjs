@@ -1,0 +1,12 @@
+const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict'),crypto=require('node:crypto');
+const {materialize}=require('../agent/src/core/bounded-scan-store.cjs'),{digest}=require('../agent/src/core/scan.cjs'),{contract}=require('../agent/src/core/judgment.cjs'),{context}=require('./klue-context.cjs');
+const source='.runtime/phase1-full-1790774023853',out='.runtime/phase1-classifiers-v1',read=f=>JSON.parse(fs.readFileSync(f)),sha=f=>crypto.createHash('sha256').update(fs.readFileSync(f)).digest('hex');
+fs.mkdirSync(out);const cp=read(source+'/scan/checkpoint.json');assert.equal(digest(cp.state),cp.sha256);assert(!cp.state.inflight);const data=materialize(source+'/scan',cp.state);
+assert.equal(data.work.length,data.candidates.length,'Split candidates require combined evaluation');
+const rows=data.work.map(c=>{const e=contract().initialEvidence(c);return {id:c.node_id,input:{target:e.normalized_text.normalize('NFC'),context:context(c,e).normalize('NFC')},collection_truncated:!!c.context_evidence?.truncated};});
+assert.equal(new Set(rows.map(r=>r.id)).size,rows.length);assert(rows.every(r=>!r.input.context.includes('[object Object]')));
+fs.writeFileSync(out+'/inputs.json',JSON.stringify(rows,null,2));
+const models={Nuri10:'.runtime/klue-cycle3-v1/frozen8/model',D:'.runtime/klue-audit-learning-v1/run-cpu/model',Kc_full:'.runtime/kcelectra-freeze-v1/full/model'};
+const hashes=Object.fromEntries(Object.values(models).flatMap(d=>fs.readdirSync(d).map(f=>path.join(d,f))).filter(f=>fs.statSync(f).isFile()).map(f=>[f,sha(f)]));
+for(const f of [source+'/scan/checkpoint.json',source+'/gold-frozen.jsonl',source+'/quarantine-tail/attempts.json',source+'/quarantine-tail/evaluation.json','local-benchmark/klue-context.cjs','local-benchmark/klue-pilot.py',__filename,'local-benchmark/phase1-classifiers.py',out+'/inputs.json'])hashes[f]=sha(f);
+fs.writeFileSync(out+'/manifest.json',JSON.stringify({source,models,hashes,rows:rows.length,created_at:new Date().toISOString(),new_training:0,new_api_calls:0},null,2));console.log(JSON.stringify({out,rows:rows.length,models}));

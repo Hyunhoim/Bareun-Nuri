@@ -1,0 +1,39 @@
+{
+  "status": "provisional_requires_review",
+  "automatic_training_ready": false,
+  "input_fields": [
+    "input.target",
+    "input.context"
+  ],
+  "target_field": "label",
+  "labels": {
+    "0": "non_target_in_context",
+    "1": "requested_category_promotion_candidate"
+  },
+  "never_input": [
+    "id",
+    "source_url",
+    "source_id",
+    "category",
+    "reason",
+    "label",
+    "family_id",
+    "group_id",
+    "raw_title",
+    "parent_id",
+    "augmentation",
+    "annotation_status"
+  ],
+  "split_policy": "all observed material is train/development candidate; no independent final holdout",
+  "sampling_policy": "group by family_id before sampling; do not treat augmented rows as independent sources",
+  "unresolved_policy": "exclude label=null; do not convert to normal",
+  "long_input_policy": "do not silently truncate; audit the chosen tokenizer and retained decision context before training",
+  "current_runtime_scope": "production HCX prompt currently names gambling and illegal adult services; this corpus includes user-requested broader research categories without changing production",
+  "review_gates": [
+    "new real labels are assistant provisional",
+    "adult-content target definition needs explicit taxonomy review",
+    "source redistribution rights unverified",
+    "real positive sex-trade and illegal-medicine sources missing",
+    "live-site input parity not established"
+  ]
+}

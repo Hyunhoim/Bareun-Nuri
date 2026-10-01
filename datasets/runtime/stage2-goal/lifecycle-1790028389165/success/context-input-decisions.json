@@ -1,0 +1,15 @@
+[
+  {
+    "target_act": "이용제안",
+    "node_id": "fragment_0_1",
+    "author_purpose": "solicitation",
+    "is_violation": true,
+    "context_source": "target",
+    "evidence_quote": "참여 신청하기",
+    "techniques": [],
+    "observed_techniques": [],
+    "reason": "대상의 발화 행위: 이용제안; 서비스 문맥: 불법대상",
+    "needs_review": false,
+    "service_relation": "불법대상"
+  }
+]

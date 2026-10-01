@@ -1,0 +1,502 @@
+[
+  {
+    "label": 0,
+    "category": "gambling",
+    "title": "주말 경기 같이 보실 분",
+    "target": "그냥 관람 모임 아니고 사설 현금 배팅방입니다. 가입 BONUS 챙겨 드리니 하실 분만 답 주세요.",
+    "own": "",
+    "other": "중계 장소는 어디인가요?",
+    "replace": [
+      [
+        "BONUS",
+        "80NUS"
+      ]
+    ],
+    "mapping": "8→B;0→O",
+    "status": "substitution",
+    "reason": "작성자가 현금 도박 참여를 직접 모집한다."
+  },
+  {
+    "label": 0,
+    "category": "gambling",
+    "title": "마감 전에 남깁니다",
+    "target": "입금해서 하는 사설 카드판, CARD 쪽으로 자리 남았습니다. 오늘 참가하실 분 받습니다.",
+    "own": "구경만 하는 모임은 아닙니다.",
+    "other": "공지에 있는 보드게임 교실과 같은 건가요?",
+    "replace": [
+      [
+        "CARD",
+        "C4RD"
+      ]
+    ],
+    "mapping": "4→A",
+    "status": "substitution",
+    "reason": "공식 교실과 별개로 돈을 거는 사설 판을 권유한다."
+  },
+  {
+    "label": 0,
+    "category": "adult",
+    "title": "자료 묶음 안내",
+    "target": "당사자 동의 없이 유출된 성인 사생활 PHOTO 묶음 판매합니다. 구매 희망하시면 댓글 주세요.",
+    "own": "지난 글은 내려서 다시 적습니다.",
+    "other": "이런 건 올리시면 안 되죠.",
+    "replace": [
+      [
+        "PHOTO",
+        "ph0t0"
+      ]
+    ],
+    "mapping": "0→o; case",
+    "status": "substitution",
+    "reason": "다른 사람의 제지와 무관하게 작성자는 불법 촬영물 판매를 권유한다."
+  },
+  {
+    "label": 0,
+    "category": "drugs",
+    "title": "남는 것 정리",
+    "target": "처방받은 수면제 남아서 개인 판매합니다. 필요한 분, 이쪽에 남겨 주세요.",
+    "own": "병원 처방 없이 사려는 분도 받습니다.",
+    "other": "나눔도 안 되는 걸로 아는데요.",
+    "replace": [
+      [
+        "이쪽",
+        "0ㅣ쪽"
+      ]
+    ],
+    "mapping": "0→ㅇ + syllable split",
+    "status": "substitution",
+    "reason": "자신의 처방약을 타인에게 판매하겠다는 글이다."
+  },
+  {
+    "label": 0,
+    "category": "sextrade",
+    "title": "예약 문의 답변",
+    "target": "성인끼리 돈 받고 성관계하는 예약입니다. TIME 정해서 오실 분만 문의 남겨 주세요.",
+    "own": "일반 마사지 예약을 묻는 분들이 있어 설명합니다.",
+    "other": "그럼 마사지 수업이 아닌가요?",
+    "replace": [
+      [
+        "TIME",
+        "7IM3"
+      ]
+    ],
+    "mapping": "7→T;3→E",
+    "status": "substitution",
+    "reason": "정상 서비스와 구별하여 유상 성관계 예약을 받는다."
+  },
+  {
+    "label": 0,
+    "category": "illegal",
+    "title": "서류 관련",
+    "target": "회사에 낼 경력증명서 위조본 만들어 드립니다. SAMPLE 필요하면 답글 주세요.",
+    "own": "취업 상담은 아니고 서류 제작 받는 글입니다.",
+    "other": "정식 발급은 회사에 요청하세요.",
+    "replace": [
+      [
+        "SAMPLE",
+        "54MPlE"
+      ]
+    ],
+    "mapping": "5→S;4→A;l→L",
+    "status": "substitution",
+    "reason": "위조 서류 제공을 직접 제안한다."
+  },
+  {
+    "label": 0,
+    "category": "illegal",
+    "title": "계정 묶음",
+    "target": "남의 로그인 계정 묶음 팝니다. LOGIN 목록 구매할 사람 받습니다.",
+    "own": "",
+    "other": "제 계정도 있을까 걱정되네요.",
+    "replace": [
+      [
+        "LOGIN",
+        "L09IN"
+      ]
+    ],
+    "mapping": "0→O;9→G",
+    "status": "substitution",
+    "reason": "탈취 계정의 거래를 모집한다."
+  },
+  {
+    "label": 0,
+    "category": "gambling",
+    "title": "종료 후에도 가능",
+    "target": "사설 현금 슬롯방 추가 인원 받습니다. SLOT 이용할 분은 글 남겨 주세요.",
+    "own": "축제 체험 부스와는 관계없어요.",
+    "other": "행사 참가 신청인 줄 알았네요.",
+    "replace": [
+      [
+        "SLOT",
+        "5l07"
+      ]
+    ],
+    "mapping": "5→S;l→L;0→O;7→T",
+    "status": "substitution",
+    "reason": "합법 행사와 무관한 사설 도박 참여를 모집한다."
+  },
+  {
+    "label": 1,
+    "category": "gambling",
+    "title": "아이 휴대폰에서 본 글",
+    "target": "가입 BONUS 챙겨 드리니 사설 현금 배팅방 들어오세요.",
+    "own": "학교 가정통신문에 실을 수신 문자 예시입니다. 학생들이 이런 권유를 받았을 때 신고하는 방법도 함께 안내하려 합니다.",
+    "other": "저희 집에도 비슷한 문자가 왔어요.",
+    "replace": [
+      [
+        "BONUS",
+        "B0NUS"
+      ]
+    ],
+    "mapping": "0→O",
+    "status": "substitution",
+    "reason": "예방 안내를 위한 수신 광고 인용이며 모집 주체가 아니다."
+  },
+  {
+    "label": 1,
+    "category": "illegal",
+    "title": "상담회 배포 자료",
+    "target": "경력증명서 위조 SAMPLE 보내 드려요.",
+    "own": "위와 같은 제안을 받은 취업 준비생에게 주의를 알리는 자료입니다. 정식 발급 서류인지 확인하고 이런 거래는 거절하라는 내용을 덧붙였습니다.",
+    "other": "문구를 더 크게 넣으면 좋겠네요.",
+    "replace": [
+      [
+        "SAMPLE",
+        "S4MP1E"
+      ]
+    ],
+    "mapping": "4→A;1→L",
+    "status": "substitution",
+    "reason": "위조 거래를 거절하라는 교육 자료의 인용이다."
+  },
+  {
+    "label": 1,
+    "category": "adult",
+    "title": "교육 자료 표현 확인",
+    "target": "유출된 사생활 VIDEO 구매 문의 받습니다.",
+    "own": "강의에서 보여 줄 광고 예문입니다. 당사자의 동의 없이 찍힌 영상 거래에 응하지 않도록 설명하는 슬라이드에 넣었습니다.",
+    "other": "학생들에게 주소는 보여 주지 말아 주세요.",
+    "replace": [
+      [
+        "VIDEO",
+        "V1D30"
+      ]
+    ],
+    "mapping": "1→I;3→E;0→O",
+    "status": "substitution",
+    "reason": "불법 영상 구매를 예방하는 강의 속 예문이다."
+  },
+  {
+    "label": 2,
+    "category": "general",
+    "title": "복사실 이용 질문",
+    "target": "A4 용지에 출력하려는데 프린터가 자꾸 A3로 잡힙니다. 설정 어디서 바꾸나요?",
+    "own": "민원 신청서를 뽑는 중입니다.",
+    "other": "저도 어제 같은 문제가 있었어요.",
+    "replace": [],
+    "mapping": "4 literal; not A",
+    "status": "not_substitution",
+    "reason": "A4와 A3은 용지 규격이다."
+  },
+  {
+    "label": 2,
+    "category": "general",
+    "title": "장비 점검 요청",
+    "target": "O2 측정기 옆에 B0라고 뜹니다. 고장 코드인지 설명서를 찾고 있어요.",
+    "own": "생활체육실에 비치된 장비입니다.",
+    "other": "새 배터리로 바꿔 보셨나요?",
+    "replace": [],
+    "mapping": "O/0 literal identifiers",
+    "status": "not_substitution",
+    "reason": "측정기 표시와 관리 코드를 묻는 정상 질문이다."
+  },
+  {
+    "label": 2,
+    "category": "gambling",
+    "title": "환불 문의",
+    "target": "B0nus 준다기에 사설 배팅방에 돈을 보냈는데 출금이 안 됩니다. 어디에 피해 상담을 요청하나요?",
+    "own": "더 입금하라는 답만 와서 이제 그만하려고 합니다.",
+    "other": "추가로 보내지는 마세요.",
+    "replace": [],
+    "mapping": "0→o",
+    "status": "substitution",
+    "reason": "도박 참여 모집이 아닌 피해 상담 요청이다."
+  },
+  {
+    "label": 2,
+    "category": "general",
+    "title": "방 번호가 안 보입니다",
+    "target": "교육실 B08 앞에서 기다리고 있어요. 오늘 수업이 여기 맞나요?",
+    "own": "문에는 불이 꺼져 있네요.",
+    "other": "저는 B09로 안내받았어요.",
+    "replace": [],
+    "mapping": "8/0 literal room number",
+    "status": "not_substitution",
+    "reason": "교육실 호수를 확인하는 글이다."
+  },
+  {
+    "label": 2,
+    "category": "general",
+    "title": "교재 오탈자",
+    "target": "자음 ㅇ을 숫자 0으로 적은 곳이 있어요. 아이가 o와도 헷갈려 해서 수정 부탁드립니다.",
+    "own": "한글 교실 첫 장에서 봤습니다.",
+    "other": "대문자 O도 같이 설명해 주시면 좋겠습니다.",
+    "replace": [],
+    "mapping": "0/o/ㅇ metalinguistic",
+    "status": "not_substitution",
+    "reason": "문자 자체에 대한 교육적 설명이지 위장 광고가 아니다."
+  },
+  {
+    "label": 2,
+    "category": "general",
+    "title": "자원봉사 신청",
+    "target": "SAVE 모임에서 하천 정리 봉사자를 받습니다. 장갑은 준비해 드려요.",
+    "own": "토요일 두 시간 정도 쓰레기를 줍는 활동입니다. 참가비는 없습니다.",
+    "other": "학생도 신청할 수 있나요?",
+    "replace": [
+      [
+        "SAVE",
+        "S4V3"
+      ]
+    ],
+    "mapping": "4→A;3→E",
+    "status": "substitution",
+    "reason": "변형 표기를 썼지만 내용은 정상 봉사 활동 모집이다."
+  },
+  {
+    "label": 3,
+    "category": "unknown",
+    "title": "오전에 적었던 것",
+    "target": "C4RD 쪽으로 두 분 더 가능해요. 장소는 지난번과 같고, 시간만 저녁으로 바뀌었습니다. 참여하실 분은 댓글 남겨 주세요.",
+    "own": "앞 글이 없어져서 다시 씁니다. 어제 이야기한 조건은 그대로입니다.",
+    "other": "무슨 모임 말씀이세요?",
+    "replace": [],
+    "mapping": "4→A possible",
+    "status": "ambiguous",
+    "reason": "카드 활동의 성격과 현금 도박 여부를 알 수 없다."
+  },
+  {
+    "label": 3,
+    "category": "unknown",
+    "title": "자료 문의",
+    "target": "V1P 자료 아직 받을 수 있나요? 목록을 못 봐서 어떤 내용이 들어 있는지는 모르겠고, 비용이 있는지도 확인하고 싶습니다.",
+    "own": "안내에는 목록이 있다고만 돼 있고 내용은 안 보입니다.",
+    "other": "담당자 답 기다려 봐요.",
+    "replace": [],
+    "mapping": "1→I possible",
+    "status": "ambiguous",
+    "reason": "자료 종류와 거래 성격이 드러나지 않는다."
+  },
+  {
+    "label": 3,
+    "category": "unknown",
+    "title": "추가 신청",
+    "target": "oㅣ쪽으로 신청하면 됩니다. 지난번에 물어보신 분들은 이번에도 가능해요. 자세한 사항은 다시 안내하겠습니다.",
+    "own": "대상은 앞에서 말한 분들이고, 자세한 건 삭제된 안내에 적혀 있었어요.",
+    "other": "안내가 없어져서 뭔지 모르겠네요.",
+    "replace": [],
+    "mapping": "o→ㅇ + syllable split",
+    "status": "substitution",
+    "reason": "신청 대상이 없어서 불법 권유인지 판단할 수 없다."
+  },
+  {
+    "label": 0,
+    "category": "drugs",
+    "title": "필요한 분",
+    "target": "대마 판매합니다. 살 분은 댓글 남겨 주세요.",
+    "own": "",
+    "other": "삭제해 주세요.",
+    "technique": "JAMO",
+    "reason": "마약 판매 권유가 대상 문장에 명시되어 있다."
+  },
+  {
+    "label": 0,
+    "category": "sextrade",
+    "title": "빈 시간 있습니다",
+    "target": "돈 받고 성관계하는 예약 받아요. 성인만 연락 주세요.",
+    "own": "동네 마사지 강좌 글 밑에 적었다가 새 글로 옮깁니다.",
+    "other": "여기는 강좌 문의 게시판입니다.",
+    "technique": "JAMO",
+    "reason": "댓글 위치와 관계없이 유상 성관계 모집이다."
+  },
+  {
+    "label": 0,
+    "category": "adult",
+    "title": "삭제 요청",
+    "target": "동의 없이 촬영된 성인 영상 모음 판매합니다. 구매하실 분 답 주세요.",
+    "own": "제목은 신경 쓰지 마세요. 자료 구매 받는 글입니다.",
+    "other": "당사자가 삭제하라잖아요.",
+    "technique": "TRANSPARENT",
+    "reason": "피해 신고처럼 보이는 제목과 달리 본문은 판매 권유다."
+  },
+  {
+    "label": 0,
+    "category": "illegal",
+    "title": "서류 상담 후기",
+    "target": "발급이 막혀도 학위증 위조 제작해 드립니다. 필요한 분 받습니다.",
+    "own": "민원 안내 읽어 봤는데 오래 걸리더군요. 그래서 제 쪽으로 받습니다.",
+    "other": "학교에서 직접 발급받으세요.",
+    "technique": "OFFSCREEN",
+    "reason": "후기와 섞였지만 본인이 위조 제작을 제공한다."
+  },
+  {
+    "label": 0,
+    "category": "gambling",
+    "title": "이거 신고하라는데",
+    "target": "저는 그 사설 현금 도박방 운영자입니다. 참가할 사람은 답 남기세요.",
+    "own": "위에서는 신고하라고 하던데 저는 계속 받습니다.",
+    "other": "학생 대상 예방 안내에 적힌 곳입니다. 이용하면 안 됩니다.",
+    "technique": "JAMO",
+    "reason": "다른 작성자의 예방 설명이 현재 모집 행위를 정상으로 바꾸지 않는다."
+  },
+  {
+    "label": 0,
+    "category": "drugs",
+    "title": "답변 드립니다",
+    "target": "필로폰 판매하는 것 맞아요. 구매할 분만 글 남겨 주세요.",
+    "own": "이전 문의에 대한 답입니다.",
+    "other": "그런 걸 판다는 게 사실인가요?",
+    "technique": "TRANSPARENT",
+    "reason": "질문에 대한 판매자의 직접 거래 권유다."
+  },
+  {
+    "label": 0,
+    "category": "sextrade",
+    "title": "문의",
+    "target": "돈 받고 성관계하는 예약, 제가 연결해 드릴게요.",
+    "own": "예약 원하는 사람을 찾는 중입니다.",
+    "other": "일반 데이트 모임은 없나요?",
+    "technique": "OFFSCREEN",
+    "reason": "질문형 제목과 달리 성매매 알선 제안이다."
+  },
+  {
+    "label": 0,
+    "category": "illegal",
+    "title": "계정 복구 안내",
+    "target": "복구 안 되면 제가 훔친 계정 사세요. 로그인 정보 판매합니다.",
+    "own": "고객센터 답을 기다리기 싫은 분들 받습니다.",
+    "other": "저는 제 계정을 되찾으려는 건데요.",
+    "technique": "JAMO",
+    "reason": "피해 문의에 붙은 별도 작성자의 탈취 계정 판매 제안이다."
+  },
+  {
+    "label": 1,
+    "category": "drugs",
+    "title": "주민 교육 안내",
+    "target": "처방약을 개인끼리 팔겠다는 댓글에는 응하지 말아 주세요. 이번 교육에서 신고 절차를 설명합니다.",
+    "own": "",
+    "other": "남는 수면제 판매합니다. 살 분 받습니다.",
+    "technique": "TRANSPARENT",
+    "reason": "주변 실제 광고와 구별되는 교육 안내다."
+  },
+  {
+    "label": 1,
+    "category": "sextrade",
+    "title": "상담소 소식",
+    "target": "돈 받고 성관계할 사람을 연결한다는 글을 봤다면 거래에 응하지 마세요.",
+    "own": "주민 상담소에서 배포한 예방 안내를 옮깁니다.",
+    "other": "예약 제가 대신 받아 드립니다.",
+    "technique": "OFFSCREEN",
+    "reason": "타인 댓글의 실제 권유를 대상 예방문에 귀속하지 않는다."
+  },
+  {
+    "label": 1,
+    "category": "illegal",
+    "title": "소식지 원고",
+    "target": "취재 당시에는 위조 졸업장을 판매한다는 게시물이 남아 있었다. 기자는 구매를 권유하는 화면을 확인했다.",
+    "own": "지역 소식지 기사 중 한 문단입니다. 관련 기관에 삭제 요청한 경위를 이어서 싣습니다.",
+    "other": "보도 이후에는 내려갔나요?",
+    "technique": "JAMO",
+    "reason": "거래를 취재한 보도 서술이지 독자 대상 판매 제안이 아니다."
+  },
+  {
+    "label": 2,
+    "category": "drugs",
+    "title": "계속 연락이 옵니다",
+    "target": "마약을 사라고 자꾸 쪽지가 옵니다. 차단해도 다른 계정으로 보내는데 도움 받을 곳 있나요?",
+    "own": "집 근처 게시판에서 제 닉네임을 봤다는 말을 해서 무섭습니다.",
+    "other": "답장하지 마세요.",
+    "technique": "JAMO",
+    "reason": "마약 권유를 받은 피해 문의다."
+  },
+  {
+    "label": 2,
+    "category": "adult",
+    "title": "영상 삭제 방법",
+    "target": "제 동의 없이 찍힌 성인 영상이 돌아다닌다고 합니다. 삭제 지원 신청은 어디서 하나요?",
+    "own": "영상 주소를 공개 댓글에 적어도 되는지도 모르겠어요.",
+    "other": "구매할 분은 제 글 보세요.",
+    "technique": "TRANSPARENT",
+    "reason": "옆의 광고와 별개인 당사자의 삭제 지원 문의다."
+  },
+  {
+    "label": 2,
+    "category": "general",
+    "title": "새 반 모집",
+    "target": "성인 초급 수영반 접수합니다. 월 강습료와 준비물은 안내문에 있어요.",
+    "own": "야간반도 열었습니다. 처음 배우는 분 신청 가능합니다.",
+    "other": "퇴근하고 갈 수 있어 좋네요.",
+    "technique": "OFFSCREEN",
+    "reason": "유료이지만 합법적인 생활체육 강좌다."
+  },
+  {
+    "label": 2,
+    "category": "general",
+    "title": "동호회 정기 모임",
+    "target": "카드 게임 같이 할 분 구합니다. 돈을 걸지는 않고 규칙 배우면서 하는 모임이에요.",
+    "own": "문화센터 강의실을 빌렸습니다.",
+    "other": "사설 배팅방은 따로 모집 중입니다.",
+    "technique": "JAMO",
+    "reason": "다른 댓글의 도박 모집과 구별되는 정상 게임 모임이다."
+  },
+  {
+    "label": 2,
+    "category": "sextrade",
+    "title": "장소 문의",
+    "target": "돈 받고 성관계 예약한다는 글이 우리 가게 주소를 쓰고 있어요. 어떻게 내려야 하나요?",
+    "own": "저희는 일반 피부관리실이고 그 글을 쓴 적 없습니다.",
+    "other": "지도에 잘못 올라온 건가요?",
+    "technique": "OFFSCREEN",
+    "reason": "자기 업소 명의를 도용한 성매매 광고에 대한 피해 문의다."
+  },
+  {
+    "label": 2,
+    "category": "general",
+    "title": "서류 신청",
+    "target": "졸업증명서 정식 발급 신청을 하려는데 본인 인증에서 멈춥니다. 확인 부탁드립니다.",
+    "own": "",
+    "other": "위조본은 제가 만들어 드릴 수 있어요.",
+    "technique": "TRANSPARENT",
+    "reason": "별도 작성자의 불법 제안과 무관한 정상 민원이다."
+  },
+  {
+    "label": 3,
+    "category": "unknown",
+    "title": "가능 여부",
+    "target": "그 자료 구할 수 있습니다. 필요하시면 답 주세요.",
+    "own": "지난주에 문의하셨던 건데 원글이 안 보여서 여기에 적어요.",
+    "other": "자료가 뭔가요?",
+    "technique": "JAMO",
+    "reason": "거래 대상이 빠져 합법성과 불법성을 구별할 수 없다."
+  },
+  {
+    "label": 3,
+    "category": "unknown",
+    "title": "신청 링크",
+    "target": "여기로 신청해 주세요.",
+    "own": "정원이 다 차면 글 내리겠습니다. 안내 파일은 현재 열리지 않습니다.",
+    "other": "운동 수업인가요? 다른 모임인가요?",
+    "technique": "TRANSPARENT",
+    "reason": "모집 형식은 확인되지만 서비스 내용이 없다."
+  },
+  {
+    "label": 3,
+    "category": "unknown",
+    "title": "남는 것 있습니다",
+    "target": "두 개 남았어요. 필요한 분 받습니다.",
+    "own": "사진이 업로드되지 않네요. 이전에 보신 물건입니다.",
+    "other": "물건 이름도 적어 주세요.",
+    "technique": "OFFSCREEN",
+    "reason": "물건 정보가 없어 금지 품목인지 판정할 수 없다."
+  }
+]

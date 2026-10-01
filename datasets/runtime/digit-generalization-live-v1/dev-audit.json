@@ -1,0 +1,1945 @@
+{
+  "conditions": [
+    {
+      "condition": "00-dev-D",
+      "split": "dev",
+      "mode": "D",
+      "reverse": false,
+      "status": "completed",
+      "error": null,
+      "wall_sec": 69.581236,
+      "calls": 14,
+      "tokens": 17803,
+      "service_sec": 69.563,
+      "queue_sec": 0.0009506999999939579,
+      "score": {
+        "n": 56,
+        "confusion": {
+          "substitution": {
+            "substitution": 24,
+            "literal": 0,
+            "uncertain": 0
+          },
+          "literal": {
+            "substitution": 5,
+            "literal": 15,
+            "uncertain": 0
+          },
+          "uncertain": {
+            "substitution": 6,
+            "literal": 0,
+            "uncertain": 6
+          }
+        },
+        "tp": 24,
+        "fp": 5,
+        "fn": 0,
+        "technique_f1": 0.9056603773584906,
+        "three_class_accuracy": 0.8035714285714286,
+        "macro_f1": 0.7791229486144741,
+        "exact_restoration": 24,
+        "restoration_recall": 1,
+        "restoration_accuracy_when_predicted_sub": 1,
+        "literal_correct": 15,
+        "literal_uncertain": 0,
+        "ambiguous_correct": 6,
+        "ambiguous_overconfirmed": 6,
+        "ambiguous_predicted_sub": 6,
+        "certified": 50,
+        "coverage": 0.8928571428571429,
+        "certified_wrong": 11,
+        "certified_error": 0.22,
+        "pair_count": 12,
+        "pair_inconsistent": 0,
+        "pair_both_correct": 12,
+        "guard_rejected": 0,
+        "invalid_quote": 13
+      },
+      "raw_score": {
+        "n": 56,
+        "confusion": {
+          "substitution": {
+            "substitution": 24,
+            "literal": 0,
+            "uncertain": 0
+          },
+          "literal": {
+            "substitution": 5,
+            "literal": 15,
+            "uncertain": 0
+          },
+          "uncertain": {
+            "substitution": 6,
+            "literal": 0,
+            "uncertain": 6
+          }
+        },
+        "tp": 24,
+        "fp": 5,
+        "fn": 0,
+        "technique_f1": 0.9056603773584906,
+        "three_class_accuracy": 0.8035714285714286,
+        "macro_f1": 0.7791229486144741,
+        "exact_restoration": 24,
+        "restoration_recall": 1,
+        "restoration_accuracy_when_predicted_sub": 1,
+        "literal_correct": 15,
+        "literal_uncertain": 0,
+        "ambiguous_correct": 6,
+        "ambiguous_overconfirmed": 6,
+        "ambiguous_predicted_sub": 6,
+        "certified": 50,
+        "coverage": 0.8928571428571429,
+        "certified_wrong": 11,
+        "certified_error": 0.22,
+        "pair_count": 12,
+        "pair_inconsistent": 0,
+        "pair_both_correct": 12,
+        "guard_rejected": 0,
+        "invalid_quote": 13
+      },
+      "by_role": {
+        "offer": {
+          "n": 12,
+          "confusion": {
+            "substitution": {
+              "substitution": 12,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "literal": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "uncertain": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            }
+          },
+          "tp": 12,
+          "fp": 0,
+          "fn": 0,
+          "technique_f1": 1,
+          "three_class_accuracy": 1,
+          "macro_f1": 0.3333333333333333,
+          "exact_restoration": 12,
+          "restoration_recall": 1,
+          "restoration_accuracy_when_predicted_sub": 1,
+          "literal_correct": 0,
+          "literal_uncertain": 0,
+          "ambiguous_correct": 0,
+          "ambiguous_overconfirmed": 0,
+          "ambiguous_predicted_sub": 0,
+          "certified": 12,
+          "coverage": 1,
+          "certified_wrong": 0,
+          "certified_error": 0,
+          "pair_count": 12,
+          "pair_inconsistent": 0,
+          "pair_both_correct": 0,
+          "guard_rejected": 0,
+          "invalid_quote": 10
+        },
+        "prevention": {
+          "n": 12,
+          "confusion": {
+            "substitution": {
+              "substitution": 12,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "literal": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "uncertain": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            }
+          },
+          "tp": 12,
+          "fp": 0,
+          "fn": 0,
+          "technique_f1": 1,
+          "three_class_accuracy": 1,
+          "macro_f1": 0.3333333333333333,
+          "exact_restoration": 12,
+          "restoration_recall": 1,
+          "restoration_accuracy_when_predicted_sub": 1,
+          "literal_correct": 0,
+          "literal_uncertain": 0,
+          "ambiguous_correct": 0,
+          "ambiguous_overconfirmed": 0,
+          "ambiguous_predicted_sub": 0,
+          "certified": 12,
+          "coverage": 1,
+          "certified_wrong": 0,
+          "certified_error": 0,
+          "pair_count": 0,
+          "pair_inconsistent": 0,
+          "pair_both_correct": 0,
+          "guard_rejected": 0,
+          "invalid_quote": 2
+        },
+        "identifier": {
+          "n": 12,
+          "confusion": {
+            "substitution": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "literal": {
+              "substitution": 0,
+              "literal": 12,
+              "uncertain": 0
+            },
+            "uncertain": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            }
+          },
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "technique_f1": null,
+          "three_class_accuracy": 1,
+          "macro_f1": 0.3333333333333333,
+          "exact_restoration": 0,
+          "restoration_recall": null,
+          "restoration_accuracy_when_predicted_sub": null,
+          "literal_correct": 12,
+          "literal_uncertain": 0,
+          "ambiguous_correct": 0,
+          "ambiguous_overconfirmed": 0,
+          "ambiguous_predicted_sub": 0,
+          "certified": 12,
+          "coverage": 1,
+          "certified_wrong": 0,
+          "certified_error": 0,
+          "pair_count": 0,
+          "pair_inconsistent": 0,
+          "pair_both_correct": 0,
+          "guard_rejected": 0,
+          "invalid_quote": 1
+        },
+        "ambiguous": {
+          "n": 12,
+          "confusion": {
+            "substitution": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "literal": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "uncertain": {
+              "substitution": 6,
+              "literal": 0,
+              "uncertain": 6
+            }
+          },
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "technique_f1": null,
+          "three_class_accuracy": 0.5,
+          "macro_f1": 0.2222222222222222,
+          "exact_restoration": 0,
+          "restoration_recall": null,
+          "restoration_accuracy_when_predicted_sub": null,
+          "literal_correct": 0,
+          "literal_uncertain": 0,
+          "ambiguous_correct": 6,
+          "ambiguous_overconfirmed": 6,
+          "ambiguous_predicted_sub": 6,
+          "certified": 6,
+          "coverage": 0.5,
+          "certified_wrong": 6,
+          "certified_error": 1,
+          "pair_count": 0,
+          "pair_inconsistent": 0,
+          "pair_both_correct": 0,
+          "guard_rejected": 0,
+          "invalid_quote": 0
+        },
+        "standard": {
+          "n": 8,
+          "confusion": {
+            "substitution": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "literal": {
+              "substitution": 5,
+              "literal": 3,
+              "uncertain": 0
+            },
+            "uncertain": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            }
+          },
+          "tp": 0,
+          "fp": 5,
+          "fn": 0,
+          "technique_f1": 0,
+          "three_class_accuracy": 0.375,
+          "macro_f1": 0.1818181818181818,
+          "exact_restoration": 0,
+          "restoration_recall": null,
+          "restoration_accuracy_when_predicted_sub": null,
+          "literal_correct": 3,
+          "literal_uncertain": 0,
+          "ambiguous_correct": 0,
+          "ambiguous_overconfirmed": 0,
+          "ambiguous_predicted_sub": 0,
+          "certified": 8,
+          "coverage": 1,
+          "certified_wrong": 5,
+          "certified_error": 0.625,
+          "pair_count": 0,
+          "pair_inconsistent": 0,
+          "pair_both_correct": 0,
+          "guard_rejected": 0,
+          "invalid_quote": 0
+        }
+      },
+      "max_output": 260
+    },
+    {
+      "condition": "01-dev-H",
+      "split": "dev",
+      "mode": "H",
+      "reverse": false,
+      "status": "completed",
+      "error": null,
+      "wall_sec": 69.696084,
+      "calls": 14,
+      "tokens": 18782,
+      "service_sec": 69.678,
+      "queue_sec": 0.0010097000000823754,
+      "score": {
+        "n": 56,
+        "confusion": {
+          "substitution": {
+            "substitution": 22,
+            "literal": 2,
+            "uncertain": 0
+          },
+          "literal": {
+            "substitution": 1,
+            "literal": 19,
+            "uncertain": 0
+          },
+          "uncertain": {
+            "substitution": 5,
+            "literal": 0,
+            "uncertain": 7
+          }
+        },
+        "tp": 22,
+        "fp": 1,
+        "fn": 2,
+        "technique_f1": 0.9361702127659575,
+        "three_class_accuracy": 0.8571428571428571,
+        "macro_f1": 0.8366084065698957,
+        "exact_restoration": 22,
+        "restoration_recall": 0.9166666666666666,
+        "restoration_accuracy_when_predicted_sub": 1,
+        "literal_correct": 19,
+        "literal_uncertain": 0,
+        "ambiguous_correct": 7,
+        "ambiguous_overconfirmed": 5,
+        "ambiguous_predicted_sub": 5,
+        "certified": 49,
+        "coverage": 0.875,
+        "certified_wrong": 8,
+        "certified_error": 0.16326530612244897,
+        "pair_count": 12,
+        "pair_inconsistent": 0,
+        "pair_both_correct": 11,
+        "guard_rejected": 0,
+        "invalid_quote": 14
+      },
+      "raw_score": {
+        "n": 56,
+        "confusion": {
+          "substitution": {
+            "substitution": 22,
+            "literal": 2,
+            "uncertain": 0
+          },
+          "literal": {
+            "substitution": 1,
+            "literal": 19,
+            "uncertain": 0
+          },
+          "uncertain": {
+            "substitution": 5,
+            "literal": 0,
+            "uncertain": 7
+          }
+        },
+        "tp": 22,
+        "fp": 1,
+        "fn": 2,
+        "technique_f1": 0.9361702127659575,
+        "three_class_accuracy": 0.8571428571428571,
+        "macro_f1": 0.8366084065698957,
+        "exact_restoration": 22,
+        "restoration_recall": 0.9166666666666666,
+        "restoration_accuracy_when_predicted_sub": 1,
+        "literal_correct": 19,
+        "literal_uncertain": 0,
+        "ambiguous_correct": 7,
+        "ambiguous_overconfirmed": 5,
+        "ambiguous_predicted_sub": 5,
+        "certified": 49,
+        "coverage": 0.875,
+        "certified_wrong": 8,
+        "certified_error": 0.16326530612244897,
+        "pair_count": 12,
+        "pair_inconsistent": 0,
+        "pair_both_correct": 11,
+        "guard_rejected": 0,
+        "invalid_quote": 14
+      },
+      "by_role": {
+        "offer": {
+          "n": 12,
+          "confusion": {
+            "substitution": {
+              "substitution": 11,
+              "literal": 1,
+              "uncertain": 0
+            },
+            "literal": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "uncertain": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            }
+          },
+          "tp": 11,
+          "fp": 0,
+          "fn": 1,
+          "technique_f1": 0.9565217391304348,
+          "three_class_accuracy": 0.9166666666666666,
+          "macro_f1": 0.31884057971014496,
+          "exact_restoration": 11,
+          "restoration_recall": 0.9166666666666666,
+          "restoration_accuracy_when_predicted_sub": 1,
+          "literal_correct": 0,
+          "literal_uncertain": 0,
+          "ambiguous_correct": 0,
+          "ambiguous_overconfirmed": 0,
+          "ambiguous_predicted_sub": 0,
+          "certified": 12,
+          "coverage": 1,
+          "certified_wrong": 1,
+          "certified_error": 0.08333333333333333,
+          "pair_count": 12,
+          "pair_inconsistent": 0,
+          "pair_both_correct": 0,
+          "guard_rejected": 0,
+          "invalid_quote": 10
+        },
+        "prevention": {
+          "n": 12,
+          "confusion": {
+            "substitution": {
+              "substitution": 11,
+              "literal": 1,
+              "uncertain": 0
+            },
+            "literal": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "uncertain": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            }
+          },
+          "tp": 11,
+          "fp": 0,
+          "fn": 1,
+          "technique_f1": 0.9565217391304348,
+          "three_class_accuracy": 0.9166666666666666,
+          "macro_f1": 0.31884057971014496,
+          "exact_restoration": 11,
+          "restoration_recall": 0.9166666666666666,
+          "restoration_accuracy_when_predicted_sub": 1,
+          "literal_correct": 0,
+          "literal_uncertain": 0,
+          "ambiguous_correct": 0,
+          "ambiguous_overconfirmed": 0,
+          "ambiguous_predicted_sub": 0,
+          "certified": 12,
+          "coverage": 1,
+          "certified_wrong": 1,
+          "certified_error": 0.08333333333333333,
+          "pair_count": 0,
+          "pair_inconsistent": 0,
+          "pair_both_correct": 0,
+          "guard_rejected": 0,
+          "invalid_quote": 2
+        },
+        "identifier": {
+          "n": 12,
+          "confusion": {
+            "substitution": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "literal": {
+              "substitution": 0,
+              "literal": 12,
+              "uncertain": 0
+            },
+            "uncertain": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            }
+          },
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "technique_f1": null,
+          "three_class_accuracy": 1,
+          "macro_f1": 0.3333333333333333,
+          "exact_restoration": 0,
+          "restoration_recall": null,
+          "restoration_accuracy_when_predicted_sub": null,
+          "literal_correct": 12,
+          "literal_uncertain": 0,
+          "ambiguous_correct": 0,
+          "ambiguous_overconfirmed": 0,
+          "ambiguous_predicted_sub": 0,
+          "certified": 12,
+          "coverage": 1,
+          "certified_wrong": 0,
+          "certified_error": 0,
+          "pair_count": 0,
+          "pair_inconsistent": 0,
+          "pair_both_correct": 0,
+          "guard_rejected": 0,
+          "invalid_quote": 1
+        },
+        "ambiguous": {
+          "n": 12,
+          "confusion": {
+            "substitution": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "literal": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "uncertain": {
+              "substitution": 5,
+              "literal": 0,
+              "uncertain": 7
+            }
+          },
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "technique_f1": null,
+          "three_class_accuracy": 0.5833333333333334,
+          "macro_f1": 0.24561403508771928,
+          "exact_restoration": 0,
+          "restoration_recall": null,
+          "restoration_accuracy_when_predicted_sub": null,
+          "literal_correct": 0,
+          "literal_uncertain": 0,
+          "ambiguous_correct": 7,
+          "ambiguous_overconfirmed": 5,
+          "ambiguous_predicted_sub": 5,
+          "certified": 5,
+          "coverage": 0.4166666666666667,
+          "certified_wrong": 5,
+          "certified_error": 1,
+          "pair_count": 0,
+          "pair_inconsistent": 0,
+          "pair_both_correct": 0,
+          "guard_rejected": 0,
+          "invalid_quote": 1
+        },
+        "standard": {
+          "n": 8,
+          "confusion": {
+            "substitution": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "literal": {
+              "substitution": 1,
+              "literal": 7,
+              "uncertain": 0
+            },
+            "uncertain": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            }
+          },
+          "tp": 0,
+          "fp": 1,
+          "fn": 0,
+          "technique_f1": 0,
+          "three_class_accuracy": 0.875,
+          "macro_f1": 0.3111111111111111,
+          "exact_restoration": 0,
+          "restoration_recall": null,
+          "restoration_accuracy_when_predicted_sub": null,
+          "literal_correct": 7,
+          "literal_uncertain": 0,
+          "ambiguous_correct": 0,
+          "ambiguous_overconfirmed": 0,
+          "ambiguous_predicted_sub": 0,
+          "certified": 8,
+          "coverage": 1,
+          "certified_wrong": 1,
+          "certified_error": 0.125,
+          "pair_count": 0,
+          "pair_inconsistent": 0,
+          "pair_both_correct": 0,
+          "guard_rejected": 0,
+          "invalid_quote": 0
+        }
+      },
+      "max_output": 273
+    },
+    {
+      "condition": "02-dev-E",
+      "split": "dev",
+      "mode": "E",
+      "reverse": false,
+      "status": "completed",
+      "error": null,
+      "wall_sec": 56.06762089999998,
+      "calls": 14,
+      "tokens": 18979,
+      "service_sec": 56.047000000000004,
+      "queue_sec": 0.0010387999999220483,
+      "score": {
+        "n": 56,
+        "confusion": {
+          "substitution": {
+            "substitution": 9,
+            "literal": 1,
+            "uncertain": 14
+          },
+          "literal": {
+            "substitution": 1,
+            "literal": 12,
+            "uncertain": 7
+          },
+          "uncertain": {
+            "substitution": 4,
+            "literal": 0,
+            "uncertain": 8
+          }
+        },
+        "tp": 9,
+        "fp": 1,
+        "fn": 15,
+        "technique_f1": 0.5294117647058824,
+        "three_class_accuracy": 0.5178571428571429,
+        "macro_f1": 0.5304002800793558,
+        "exact_restoration": 9,
+        "restoration_recall": 0.375,
+        "restoration_accuracy_when_predicted_sub": 1,
+        "literal_correct": 12,
+        "literal_uncertain": 7,
+        "ambiguous_correct": 8,
+        "ambiguous_overconfirmed": 4,
+        "ambiguous_predicted_sub": 4,
+        "certified": 27,
+        "coverage": 0.48214285714285715,
+        "certified_wrong": 6,
+        "certified_error": 0.2222222222222222,
+        "pair_count": 12,
+        "pair_inconsistent": 10,
+        "pair_both_correct": 0,
+        "guard_rejected": 22,
+        "invalid_quote": 20
+      },
+      "raw_score": {
+        "n": 56,
+        "confusion": {
+          "substitution": {
+            "substitution": 22,
+            "literal": 2,
+            "uncertain": 0
+          },
+          "literal": {
+            "substitution": 5,
+            "literal": 15,
+            "uncertain": 0
+          },
+          "uncertain": {
+            "substitution": 5,
+            "literal": 0,
+            "uncertain": 7
+          }
+        },
+        "tp": 22,
+        "fp": 5,
+        "fn": 2,
+        "technique_f1": 0.8627450980392157,
+        "three_class_accuracy": 0.7857142857142857,
+        "macro_f1": 0.7777890672627515,
+        "exact_restoration": 22,
+        "restoration_recall": 0.9166666666666666,
+        "restoration_accuracy_when_predicted_sub": 1,
+        "literal_correct": 15,
+        "literal_uncertain": 0,
+        "ambiguous_correct": 7,
+        "ambiguous_overconfirmed": 5,
+        "ambiguous_predicted_sub": 5,
+        "certified": 49,
+        "coverage": 0.875,
+        "certified_wrong": 12,
+        "certified_error": 0.24489795918367346,
+        "pair_count": 12,
+        "pair_inconsistent": 0,
+        "pair_both_correct": 11,
+        "guard_rejected": 0,
+        "invalid_quote": 20
+      },
+      "by_role": {
+        "offer": {
+          "n": 12,
+          "confusion": {
+            "substitution": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 12
+            },
+            "literal": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "uncertain": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            }
+          },
+          "tp": 0,
+          "fp": 0,
+          "fn": 12,
+          "technique_f1": 0,
+          "three_class_accuracy": 0,
+          "macro_f1": 0,
+          "exact_restoration": 0,
+          "restoration_recall": 0,
+          "restoration_accuracy_when_predicted_sub": null,
+          "literal_correct": 0,
+          "literal_uncertain": 0,
+          "ambiguous_correct": 0,
+          "ambiguous_overconfirmed": 0,
+          "ambiguous_predicted_sub": 0,
+          "certified": 0,
+          "coverage": 0,
+          "certified_wrong": 0,
+          "certified_error": null,
+          "pair_count": 12,
+          "pair_inconsistent": 0,
+          "pair_both_correct": 0,
+          "guard_rejected": 12,
+          "invalid_quote": 12
+        },
+        "prevention": {
+          "n": 12,
+          "confusion": {
+            "substitution": {
+              "substitution": 9,
+              "literal": 1,
+              "uncertain": 2
+            },
+            "literal": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "uncertain": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            }
+          },
+          "tp": 9,
+          "fp": 0,
+          "fn": 3,
+          "technique_f1": 0.8571428571428571,
+          "three_class_accuracy": 0.75,
+          "macro_f1": 0.2857142857142857,
+          "exact_restoration": 9,
+          "restoration_recall": 0.75,
+          "restoration_accuracy_when_predicted_sub": 1,
+          "literal_correct": 0,
+          "literal_uncertain": 0,
+          "ambiguous_correct": 0,
+          "ambiguous_overconfirmed": 0,
+          "ambiguous_predicted_sub": 0,
+          "certified": 10,
+          "coverage": 0.8333333333333334,
+          "certified_wrong": 1,
+          "certified_error": 0.1,
+          "pair_count": 0,
+          "pair_inconsistent": 0,
+          "pair_both_correct": 0,
+          "guard_rejected": 2,
+          "invalid_quote": 2
+        },
+        "identifier": {
+          "n": 12,
+          "confusion": {
+            "substitution": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "literal": {
+              "substitution": 0,
+              "literal": 11,
+              "uncertain": 1
+            },
+            "uncertain": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            }
+          },
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "technique_f1": null,
+          "three_class_accuracy": 0.9166666666666666,
+          "macro_f1": 0.31884057971014496,
+          "exact_restoration": 0,
+          "restoration_recall": null,
+          "restoration_accuracy_when_predicted_sub": null,
+          "literal_correct": 11,
+          "literal_uncertain": 1,
+          "ambiguous_correct": 0,
+          "ambiguous_overconfirmed": 0,
+          "ambiguous_predicted_sub": 0,
+          "certified": 11,
+          "coverage": 0.9166666666666666,
+          "certified_wrong": 0,
+          "certified_error": 0,
+          "pair_count": 0,
+          "pair_inconsistent": 0,
+          "pair_both_correct": 0,
+          "guard_rejected": 1,
+          "invalid_quote": 1
+        },
+        "ambiguous": {
+          "n": 12,
+          "confusion": {
+            "substitution": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "literal": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "uncertain": {
+              "substitution": 4,
+              "literal": 0,
+              "uncertain": 8
+            }
+          },
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "technique_f1": null,
+          "three_class_accuracy": 0.6666666666666666,
+          "macro_f1": 0.26666666666666666,
+          "exact_restoration": 0,
+          "restoration_recall": null,
+          "restoration_accuracy_when_predicted_sub": null,
+          "literal_correct": 0,
+          "literal_uncertain": 0,
+          "ambiguous_correct": 8,
+          "ambiguous_overconfirmed": 4,
+          "ambiguous_predicted_sub": 4,
+          "certified": 4,
+          "coverage": 0.3333333333333333,
+          "certified_wrong": 4,
+          "certified_error": 1,
+          "pair_count": 0,
+          "pair_inconsistent": 0,
+          "pair_both_correct": 0,
+          "guard_rejected": 1,
+          "invalid_quote": 1
+        },
+        "standard": {
+          "n": 8,
+          "confusion": {
+            "substitution": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "literal": {
+              "substitution": 1,
+              "literal": 1,
+              "uncertain": 6
+            },
+            "uncertain": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            }
+          },
+          "tp": 0,
+          "fp": 1,
+          "fn": 0,
+          "technique_f1": 0,
+          "three_class_accuracy": 0.125,
+          "macro_f1": 0.07407407407407407,
+          "exact_restoration": 0,
+          "restoration_recall": null,
+          "restoration_accuracy_when_predicted_sub": null,
+          "literal_correct": 1,
+          "literal_uncertain": 6,
+          "ambiguous_correct": 0,
+          "ambiguous_overconfirmed": 0,
+          "ambiguous_predicted_sub": 0,
+          "certified": 2,
+          "coverage": 0.25,
+          "certified_wrong": 1,
+          "certified_error": 0.5,
+          "pair_count": 0,
+          "pair_inconsistent": 0,
+          "pair_both_correct": 0,
+          "guard_rejected": 6,
+          "invalid_quote": 4
+        }
+      },
+      "max_output": 237
+    },
+    {
+      "condition": "03-dev-E",
+      "split": "dev",
+      "mode": "E",
+      "reverse": true,
+      "status": "completed",
+      "error": null,
+      "wall_sec": 56.302035700000005,
+      "calls": 14,
+      "tokens": 18954,
+      "service_sec": 56.281,
+      "queue_sec": 0.0008632999999099412,
+      "score": {
+        "n": 56,
+        "confusion": {
+          "substitution": {
+            "substitution": 16,
+            "literal": 8,
+            "uncertain": 0
+          },
+          "literal": {
+            "substitution": 2,
+            "literal": 12,
+            "uncertain": 6
+          },
+          "uncertain": {
+            "substitution": 7,
+            "literal": 0,
+            "uncertain": 5
+          }
+        },
+        "tp": 16,
+        "fp": 2,
+        "fn": 8,
+        "technique_f1": 0.7619047619047619,
+        "three_class_accuracy": 0.5892857142857143,
+        "macro_f1": 0.562614611061816,
+        "exact_restoration": 16,
+        "restoration_recall": 0.6666666666666666,
+        "restoration_accuracy_when_predicted_sub": 1,
+        "literal_correct": 12,
+        "literal_uncertain": 6,
+        "ambiguous_correct": 5,
+        "ambiguous_overconfirmed": 7,
+        "ambiguous_predicted_sub": 7,
+        "certified": 45,
+        "coverage": 0.8035714285714286,
+        "certified_wrong": 17,
+        "certified_error": 0.37777777777777777,
+        "pair_count": 12,
+        "pair_inconsistent": 0,
+        "pair_both_correct": 8,
+        "guard_rejected": 7,
+        "invalid_quote": 0
+      },
+      "raw_score": {
+        "n": 56,
+        "confusion": {
+          "substitution": {
+            "substitution": 16,
+            "literal": 8,
+            "uncertain": 0
+          },
+          "literal": {
+            "substitution": 2,
+            "literal": 18,
+            "uncertain": 0
+          },
+          "uncertain": {
+            "substitution": 7,
+            "literal": 1,
+            "uncertain": 4
+          }
+        },
+        "tp": 16,
+        "fp": 2,
+        "fn": 8,
+        "technique_f1": 0.7619047619047619,
+        "three_class_accuracy": 0.6785714285714286,
+        "macro_f1": 0.6396728904327689,
+        "exact_restoration": 16,
+        "restoration_recall": 0.6666666666666666,
+        "restoration_accuracy_when_predicted_sub": 1,
+        "literal_correct": 18,
+        "literal_uncertain": 0,
+        "ambiguous_correct": 4,
+        "ambiguous_overconfirmed": 8,
+        "ambiguous_predicted_sub": 7,
+        "certified": 52,
+        "coverage": 0.9285714285714286,
+        "certified_wrong": 18,
+        "certified_error": 0.34615384615384615,
+        "pair_count": 12,
+        "pair_inconsistent": 0,
+        "pair_both_correct": 8,
+        "guard_rejected": 0,
+        "invalid_quote": 0
+      },
+      "by_role": {
+        "offer": {
+          "n": 12,
+          "confusion": {
+            "substitution": {
+              "substitution": 8,
+              "literal": 4,
+              "uncertain": 0
+            },
+            "literal": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "uncertain": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            }
+          },
+          "tp": 8,
+          "fp": 0,
+          "fn": 4,
+          "technique_f1": 0.8,
+          "three_class_accuracy": 0.6666666666666666,
+          "macro_f1": 0.26666666666666666,
+          "exact_restoration": 8,
+          "restoration_recall": 0.6666666666666666,
+          "restoration_accuracy_when_predicted_sub": 1,
+          "literal_correct": 0,
+          "literal_uncertain": 0,
+          "ambiguous_correct": 0,
+          "ambiguous_overconfirmed": 0,
+          "ambiguous_predicted_sub": 0,
+          "certified": 12,
+          "coverage": 1,
+          "certified_wrong": 4,
+          "certified_error": 0.3333333333333333,
+          "pair_count": 12,
+          "pair_inconsistent": 0,
+          "pair_both_correct": 0,
+          "guard_rejected": 0,
+          "invalid_quote": 0
+        },
+        "prevention": {
+          "n": 12,
+          "confusion": {
+            "substitution": {
+              "substitution": 8,
+              "literal": 4,
+              "uncertain": 0
+            },
+            "literal": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "uncertain": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            }
+          },
+          "tp": 8,
+          "fp": 0,
+          "fn": 4,
+          "technique_f1": 0.8,
+          "three_class_accuracy": 0.6666666666666666,
+          "macro_f1": 0.26666666666666666,
+          "exact_restoration": 8,
+          "restoration_recall": 0.6666666666666666,
+          "restoration_accuracy_when_predicted_sub": 1,
+          "literal_correct": 0,
+          "literal_uncertain": 0,
+          "ambiguous_correct": 0,
+          "ambiguous_overconfirmed": 0,
+          "ambiguous_predicted_sub": 0,
+          "certified": 12,
+          "coverage": 1,
+          "certified_wrong": 4,
+          "certified_error": 0.3333333333333333,
+          "pair_count": 0,
+          "pair_inconsistent": 0,
+          "pair_both_correct": 0,
+          "guard_rejected": 0,
+          "invalid_quote": 0
+        },
+        "identifier": {
+          "n": 12,
+          "confusion": {
+            "substitution": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "literal": {
+              "substitution": 0,
+              "literal": 12,
+              "uncertain": 0
+            },
+            "uncertain": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            }
+          },
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "technique_f1": null,
+          "three_class_accuracy": 1,
+          "macro_f1": 0.3333333333333333,
+          "exact_restoration": 0,
+          "restoration_recall": null,
+          "restoration_accuracy_when_predicted_sub": null,
+          "literal_correct": 12,
+          "literal_uncertain": 0,
+          "ambiguous_correct": 0,
+          "ambiguous_overconfirmed": 0,
+          "ambiguous_predicted_sub": 0,
+          "certified": 12,
+          "coverage": 1,
+          "certified_wrong": 0,
+          "certified_error": 0,
+          "pair_count": 0,
+          "pair_inconsistent": 0,
+          "pair_both_correct": 0,
+          "guard_rejected": 0,
+          "invalid_quote": 0
+        },
+        "ambiguous": {
+          "n": 12,
+          "confusion": {
+            "substitution": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "literal": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "uncertain": {
+              "substitution": 7,
+              "literal": 0,
+              "uncertain": 5
+            }
+          },
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "technique_f1": null,
+          "three_class_accuracy": 0.4166666666666667,
+          "macro_f1": 0.19607843137254902,
+          "exact_restoration": 0,
+          "restoration_recall": null,
+          "restoration_accuracy_when_predicted_sub": null,
+          "literal_correct": 0,
+          "literal_uncertain": 0,
+          "ambiguous_correct": 5,
+          "ambiguous_overconfirmed": 7,
+          "ambiguous_predicted_sub": 7,
+          "certified": 7,
+          "coverage": 0.5833333333333334,
+          "certified_wrong": 7,
+          "certified_error": 1,
+          "pair_count": 0,
+          "pair_inconsistent": 0,
+          "pair_both_correct": 0,
+          "guard_rejected": 1,
+          "invalid_quote": 0
+        },
+        "standard": {
+          "n": 8,
+          "confusion": {
+            "substitution": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "literal": {
+              "substitution": 2,
+              "literal": 0,
+              "uncertain": 6
+            },
+            "uncertain": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            }
+          },
+          "tp": 0,
+          "fp": 2,
+          "fn": 0,
+          "technique_f1": 0,
+          "three_class_accuracy": 0,
+          "macro_f1": 0,
+          "exact_restoration": 0,
+          "restoration_recall": null,
+          "restoration_accuracy_when_predicted_sub": null,
+          "literal_correct": 0,
+          "literal_uncertain": 6,
+          "ambiguous_correct": 0,
+          "ambiguous_overconfirmed": 0,
+          "ambiguous_predicted_sub": 0,
+          "certified": 2,
+          "coverage": 0.25,
+          "certified_wrong": 2,
+          "certified_error": 1,
+          "pair_count": 0,
+          "pair_inconsistent": 0,
+          "pair_both_correct": 0,
+          "guard_rejected": 6,
+          "invalid_quote": 0
+        }
+      },
+      "max_output": 273
+    },
+    {
+      "condition": "04-dev-H",
+      "split": "dev",
+      "mode": "H",
+      "reverse": true,
+      "status": "completed",
+      "error": null,
+      "wall_sec": 57.44308659999992,
+      "calls": 14,
+      "tokens": 18877,
+      "service_sec": 57.424,
+      "queue_sec": 0.0010366000001085923,
+      "score": {
+        "n": 56,
+        "confusion": {
+          "substitution": {
+            "substitution": 16,
+            "literal": 8,
+            "uncertain": 0
+          },
+          "literal": {
+            "substitution": 0,
+            "literal": 20,
+            "uncertain": 0
+          },
+          "uncertain": {
+            "substitution": 7,
+            "literal": 0,
+            "uncertain": 5
+          }
+        },
+        "tp": 16,
+        "fp": 0,
+        "fn": 8,
+        "technique_f1": 0.8,
+        "three_class_accuracy": 0.7321428571428571,
+        "macro_f1": 0.7008065637602559,
+        "exact_restoration": 16,
+        "restoration_recall": 0.6666666666666666,
+        "restoration_accuracy_when_predicted_sub": 1,
+        "literal_correct": 20,
+        "literal_uncertain": 0,
+        "ambiguous_correct": 5,
+        "ambiguous_overconfirmed": 7,
+        "ambiguous_predicted_sub": 7,
+        "certified": 51,
+        "coverage": 0.9107142857142857,
+        "certified_wrong": 15,
+        "certified_error": 0.29411764705882354,
+        "pair_count": 12,
+        "pair_inconsistent": 0,
+        "pair_both_correct": 8,
+        "guard_rejected": 0,
+        "invalid_quote": 2
+      },
+      "raw_score": {
+        "n": 56,
+        "confusion": {
+          "substitution": {
+            "substitution": 16,
+            "literal": 8,
+            "uncertain": 0
+          },
+          "literal": {
+            "substitution": 0,
+            "literal": 20,
+            "uncertain": 0
+          },
+          "uncertain": {
+            "substitution": 7,
+            "literal": 0,
+            "uncertain": 5
+          }
+        },
+        "tp": 16,
+        "fp": 0,
+        "fn": 8,
+        "technique_f1": 0.8,
+        "three_class_accuracy": 0.7321428571428571,
+        "macro_f1": 0.7008065637602559,
+        "exact_restoration": 16,
+        "restoration_recall": 0.6666666666666666,
+        "restoration_accuracy_when_predicted_sub": 1,
+        "literal_correct": 20,
+        "literal_uncertain": 0,
+        "ambiguous_correct": 5,
+        "ambiguous_overconfirmed": 7,
+        "ambiguous_predicted_sub": 7,
+        "certified": 51,
+        "coverage": 0.9107142857142857,
+        "certified_wrong": 15,
+        "certified_error": 0.29411764705882354,
+        "pair_count": 12,
+        "pair_inconsistent": 0,
+        "pair_both_correct": 8,
+        "guard_rejected": 0,
+        "invalid_quote": 2
+      },
+      "by_role": {
+        "offer": {
+          "n": 12,
+          "confusion": {
+            "substitution": {
+              "substitution": 8,
+              "literal": 4,
+              "uncertain": 0
+            },
+            "literal": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "uncertain": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            }
+          },
+          "tp": 8,
+          "fp": 0,
+          "fn": 4,
+          "technique_f1": 0.8,
+          "three_class_accuracy": 0.6666666666666666,
+          "macro_f1": 0.26666666666666666,
+          "exact_restoration": 8,
+          "restoration_recall": 0.6666666666666666,
+          "restoration_accuracy_when_predicted_sub": 1,
+          "literal_correct": 0,
+          "literal_uncertain": 0,
+          "ambiguous_correct": 0,
+          "ambiguous_overconfirmed": 0,
+          "ambiguous_predicted_sub": 0,
+          "certified": 12,
+          "coverage": 1,
+          "certified_wrong": 4,
+          "certified_error": 0.3333333333333333,
+          "pair_count": 12,
+          "pair_inconsistent": 0,
+          "pair_both_correct": 0,
+          "guard_rejected": 0,
+          "invalid_quote": 1
+        },
+        "prevention": {
+          "n": 12,
+          "confusion": {
+            "substitution": {
+              "substitution": 8,
+              "literal": 4,
+              "uncertain": 0
+            },
+            "literal": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "uncertain": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            }
+          },
+          "tp": 8,
+          "fp": 0,
+          "fn": 4,
+          "technique_f1": 0.8,
+          "three_class_accuracy": 0.6666666666666666,
+          "macro_f1": 0.26666666666666666,
+          "exact_restoration": 8,
+          "restoration_recall": 0.6666666666666666,
+          "restoration_accuracy_when_predicted_sub": 1,
+          "literal_correct": 0,
+          "literal_uncertain": 0,
+          "ambiguous_correct": 0,
+          "ambiguous_overconfirmed": 0,
+          "ambiguous_predicted_sub": 0,
+          "certified": 12,
+          "coverage": 1,
+          "certified_wrong": 4,
+          "certified_error": 0.3333333333333333,
+          "pair_count": 0,
+          "pair_inconsistent": 0,
+          "pair_both_correct": 0,
+          "guard_rejected": 0,
+          "invalid_quote": 0
+        },
+        "identifier": {
+          "n": 12,
+          "confusion": {
+            "substitution": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "literal": {
+              "substitution": 0,
+              "literal": 12,
+              "uncertain": 0
+            },
+            "uncertain": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            }
+          },
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "technique_f1": null,
+          "three_class_accuracy": 1,
+          "macro_f1": 0.3333333333333333,
+          "exact_restoration": 0,
+          "restoration_recall": null,
+          "restoration_accuracy_when_predicted_sub": null,
+          "literal_correct": 12,
+          "literal_uncertain": 0,
+          "ambiguous_correct": 0,
+          "ambiguous_overconfirmed": 0,
+          "ambiguous_predicted_sub": 0,
+          "certified": 12,
+          "coverage": 1,
+          "certified_wrong": 0,
+          "certified_error": 0,
+          "pair_count": 0,
+          "pair_inconsistent": 0,
+          "pair_both_correct": 0,
+          "guard_rejected": 0,
+          "invalid_quote": 0
+        },
+        "ambiguous": {
+          "n": 12,
+          "confusion": {
+            "substitution": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "literal": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "uncertain": {
+              "substitution": 7,
+              "literal": 0,
+              "uncertain": 5
+            }
+          },
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "technique_f1": null,
+          "three_class_accuracy": 0.4166666666666667,
+          "macro_f1": 0.19607843137254902,
+          "exact_restoration": 0,
+          "restoration_recall": null,
+          "restoration_accuracy_when_predicted_sub": null,
+          "literal_correct": 0,
+          "literal_uncertain": 0,
+          "ambiguous_correct": 5,
+          "ambiguous_overconfirmed": 7,
+          "ambiguous_predicted_sub": 7,
+          "certified": 7,
+          "coverage": 0.5833333333333334,
+          "certified_wrong": 7,
+          "certified_error": 1,
+          "pair_count": 0,
+          "pair_inconsistent": 0,
+          "pair_both_correct": 0,
+          "guard_rejected": 0,
+          "invalid_quote": 1
+        },
+        "standard": {
+          "n": 8,
+          "confusion": {
+            "substitution": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "literal": {
+              "substitution": 0,
+              "literal": 8,
+              "uncertain": 0
+            },
+            "uncertain": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            }
+          },
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "technique_f1": null,
+          "three_class_accuracy": 1,
+          "macro_f1": 0.3333333333333333,
+          "exact_restoration": 0,
+          "restoration_recall": null,
+          "restoration_accuracy_when_predicted_sub": null,
+          "literal_correct": 8,
+          "literal_uncertain": 0,
+          "ambiguous_correct": 0,
+          "ambiguous_overconfirmed": 0,
+          "ambiguous_predicted_sub": 0,
+          "certified": 8,
+          "coverage": 1,
+          "certified_wrong": 0,
+          "certified_error": 0,
+          "pair_count": 0,
+          "pair_inconsistent": 0,
+          "pair_both_correct": 0,
+          "guard_rejected": 0,
+          "invalid_quote": 0
+        }
+      },
+      "max_output": 273
+    },
+    {
+      "condition": "05-dev-D",
+      "split": "dev",
+      "mode": "D",
+      "reverse": true,
+      "status": "completed",
+      "error": null,
+      "wall_sec": 56.53051439999999,
+      "calls": 14,
+      "tokens": 17845,
+      "service_sec": 56.514,
+      "queue_sec": 0.001019900000304915,
+      "score": {
+        "n": 56,
+        "confusion": {
+          "substitution": {
+            "substitution": 20,
+            "literal": 4,
+            "uncertain": 0
+          },
+          "literal": {
+            "substitution": 1,
+            "literal": 19,
+            "uncertain": 0
+          },
+          "uncertain": {
+            "substitution": 9,
+            "literal": 0,
+            "uncertain": 3
+          }
+        },
+        "tp": 20,
+        "fp": 1,
+        "fn": 4,
+        "technique_f1": 0.8888888888888888,
+        "three_class_accuracy": 0.75,
+        "macro_f1": 0.6748205569910996,
+        "exact_restoration": 20,
+        "restoration_recall": 0.8333333333333334,
+        "restoration_accuracy_when_predicted_sub": 1,
+        "literal_correct": 19,
+        "literal_uncertain": 0,
+        "ambiguous_correct": 3,
+        "ambiguous_overconfirmed": 9,
+        "ambiguous_predicted_sub": 9,
+        "certified": 53,
+        "coverage": 0.9464285714285714,
+        "certified_wrong": 14,
+        "certified_error": 0.2641509433962264,
+        "pair_count": 12,
+        "pair_inconsistent": 0,
+        "pair_both_correct": 10,
+        "guard_rejected": 0,
+        "invalid_quote": 0
+      },
+      "raw_score": {
+        "n": 56,
+        "confusion": {
+          "substitution": {
+            "substitution": 20,
+            "literal": 4,
+            "uncertain": 0
+          },
+          "literal": {
+            "substitution": 1,
+            "literal": 19,
+            "uncertain": 0
+          },
+          "uncertain": {
+            "substitution": 9,
+            "literal": 0,
+            "uncertain": 3
+          }
+        },
+        "tp": 20,
+        "fp": 1,
+        "fn": 4,
+        "technique_f1": 0.8888888888888888,
+        "three_class_accuracy": 0.75,
+        "macro_f1": 0.6748205569910996,
+        "exact_restoration": 20,
+        "restoration_recall": 0.8333333333333334,
+        "restoration_accuracy_when_predicted_sub": 1,
+        "literal_correct": 19,
+        "literal_uncertain": 0,
+        "ambiguous_correct": 3,
+        "ambiguous_overconfirmed": 9,
+        "ambiguous_predicted_sub": 9,
+        "certified": 53,
+        "coverage": 0.9464285714285714,
+        "certified_wrong": 14,
+        "certified_error": 0.2641509433962264,
+        "pair_count": 12,
+        "pair_inconsistent": 0,
+        "pair_both_correct": 10,
+        "guard_rejected": 0,
+        "invalid_quote": 0
+      },
+      "by_role": {
+        "offer": {
+          "n": 12,
+          "confusion": {
+            "substitution": {
+              "substitution": 10,
+              "literal": 2,
+              "uncertain": 0
+            },
+            "literal": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "uncertain": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            }
+          },
+          "tp": 10,
+          "fp": 0,
+          "fn": 2,
+          "technique_f1": 0.9090909090909091,
+          "three_class_accuracy": 0.8333333333333334,
+          "macro_f1": 0.30303030303030304,
+          "exact_restoration": 10,
+          "restoration_recall": 0.8333333333333334,
+          "restoration_accuracy_when_predicted_sub": 1,
+          "literal_correct": 0,
+          "literal_uncertain": 0,
+          "ambiguous_correct": 0,
+          "ambiguous_overconfirmed": 0,
+          "ambiguous_predicted_sub": 0,
+          "certified": 12,
+          "coverage": 1,
+          "certified_wrong": 2,
+          "certified_error": 0.16666666666666666,
+          "pair_count": 12,
+          "pair_inconsistent": 0,
+          "pair_both_correct": 0,
+          "guard_rejected": 0,
+          "invalid_quote": 0
+        },
+        "prevention": {
+          "n": 12,
+          "confusion": {
+            "substitution": {
+              "substitution": 10,
+              "literal": 2,
+              "uncertain": 0
+            },
+            "literal": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "uncertain": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            }
+          },
+          "tp": 10,
+          "fp": 0,
+          "fn": 2,
+          "technique_f1": 0.9090909090909091,
+          "three_class_accuracy": 0.8333333333333334,
+          "macro_f1": 0.30303030303030304,
+          "exact_restoration": 10,
+          "restoration_recall": 0.8333333333333334,
+          "restoration_accuracy_when_predicted_sub": 1,
+          "literal_correct": 0,
+          "literal_uncertain": 0,
+          "ambiguous_correct": 0,
+          "ambiguous_overconfirmed": 0,
+          "ambiguous_predicted_sub": 0,
+          "certified": 12,
+          "coverage": 1,
+          "certified_wrong": 2,
+          "certified_error": 0.16666666666666666,
+          "pair_count": 0,
+          "pair_inconsistent": 0,
+          "pair_both_correct": 0,
+          "guard_rejected": 0,
+          "invalid_quote": 0
+        },
+        "identifier": {
+          "n": 12,
+          "confusion": {
+            "substitution": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "literal": {
+              "substitution": 0,
+              "literal": 12,
+              "uncertain": 0
+            },
+            "uncertain": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            }
+          },
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "technique_f1": null,
+          "three_class_accuracy": 1,
+          "macro_f1": 0.3333333333333333,
+          "exact_restoration": 0,
+          "restoration_recall": null,
+          "restoration_accuracy_when_predicted_sub": null,
+          "literal_correct": 12,
+          "literal_uncertain": 0,
+          "ambiguous_correct": 0,
+          "ambiguous_overconfirmed": 0,
+          "ambiguous_predicted_sub": 0,
+          "certified": 12,
+          "coverage": 1,
+          "certified_wrong": 0,
+          "certified_error": 0,
+          "pair_count": 0,
+          "pair_inconsistent": 0,
+          "pair_both_correct": 0,
+          "guard_rejected": 0,
+          "invalid_quote": 0
+        },
+        "ambiguous": {
+          "n": 12,
+          "confusion": {
+            "substitution": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "literal": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "uncertain": {
+              "substitution": 9,
+              "literal": 0,
+              "uncertain": 3
+            }
+          },
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "technique_f1": null,
+          "three_class_accuracy": 0.25,
+          "macro_f1": 0.13333333333333333,
+          "exact_restoration": 0,
+          "restoration_recall": null,
+          "restoration_accuracy_when_predicted_sub": null,
+          "literal_correct": 0,
+          "literal_uncertain": 0,
+          "ambiguous_correct": 3,
+          "ambiguous_overconfirmed": 9,
+          "ambiguous_predicted_sub": 9,
+          "certified": 9,
+          "coverage": 0.75,
+          "certified_wrong": 9,
+          "certified_error": 1,
+          "pair_count": 0,
+          "pair_inconsistent": 0,
+          "pair_both_correct": 0,
+          "guard_rejected": 0,
+          "invalid_quote": 0
+        },
+        "standard": {
+          "n": 8,
+          "confusion": {
+            "substitution": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            },
+            "literal": {
+              "substitution": 1,
+              "literal": 7,
+              "uncertain": 0
+            },
+            "uncertain": {
+              "substitution": 0,
+              "literal": 0,
+              "uncertain": 0
+            }
+          },
+          "tp": 0,
+          "fp": 1,
+          "fn": 0,
+          "technique_f1": 0,
+          "three_class_accuracy": 0.875,
+          "macro_f1": 0.3111111111111111,
+          "exact_restoration": 0,
+          "restoration_recall": null,
+          "restoration_accuracy_when_predicted_sub": null,
+          "literal_correct": 7,
+          "literal_uncertain": 0,
+          "ambiguous_correct": 0,
+          "ambiguous_overconfirmed": 0,
+          "ambiguous_predicted_sub": 0,
+          "certified": 8,
+          "coverage": 1,
+          "certified_wrong": 1,
+          "certified_error": 0.125,
+          "pair_count": 0,
+          "pair_inconsistent": 0,
+          "pair_both_correct": 0,
+          "guard_rejected": 0,
+          "invalid_quote": 0
+        }
+      },
+      "max_output": 273
+    }
+  ],
+  "summaries": {
+    "dev-D": {
+      "mean_f1": 0.8972746331236897,
+      "mean_macro_f1": 0.7269717528027868,
+      "mean_accuracy": 0.7767857142857143,
+      "mean_fp": 3,
+      "mean_ambiguous_overconfirmed": 7.5,
+      "mean_seconds": 63.055875199999996,
+      "mean_tokens": 17824,
+      "classification_changes": 13,
+      "restoration_changes": 13
+    },
+    "dev-H": {
+      "mean_f1": 0.8680851063829788,
+      "mean_macro_f1": 0.7687074851650757,
+      "mean_accuracy": 0.7946428571428571,
+      "mean_fp": 0.5,
+      "mean_ambiguous_overconfirmed": 6,
+      "mean_seconds": 63.56958529999996,
+      "mean_tokens": 18829.5,
+      "classification_changes": 9,
+      "restoration_changes": 9
+    },
+    "dev-E": {
+      "mean_f1": 0.645658263305322,
+      "mean_macro_f1": 0.5465074455705858,
+      "mean_accuracy": 0.5535714285714286,
+      "mean_fp": 1.5,
+      "mean_ambiguous_overconfirmed": 5.5,
+      "mean_seconds": 56.18482829999999,
+      "mean_tokens": 18966.5,
+      "classification_changes": 23,
+      "restoration_changes": 17
+    }
+  },
+  "recommendation": {},
+  "calls": 84,
+  "tokens": 111240,
+  "known_limits": "Synthetic24 lexical families, paired roles, explicit contexts; original/reverse is not identical-body repeat"
+}

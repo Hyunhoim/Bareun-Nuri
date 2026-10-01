@@ -1,0 +1,46 @@
+{
+  "purpose": "Label contract audit only, not independent final evaluation or training",
+  "labels": {
+    "1": "문자 치환 확인",
+    "2": "치환 아닌 원래 식별표기 확인",
+    "3": "근거 부족"
+  },
+  "items": [
+    {
+      "review_number": 1,
+      "source_id": "e64adfab2ac9f232beb8",
+      "target": "행사 이름은 [표기]4lpine[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "context": "모집자가 적은 홍보 문장.",
+      "review_label": 3,
+      "review_reason": "A는 광고 문맥이지만 4pline이 Apline을 치환한것인지는 근거부족 : 3",
+      "reviewer": "user"
+    },
+    {
+      "review_number": 2,
+      "source_id": "72b7fe7b2257237c2791",
+      "target": "칠판의 [표기]4lpine[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "context": "학생의 문자 표현 실습 기록.",
+      "review_label": 1,
+      "review_reason": "B는 문맥상 치환이 맞음 : 1",
+      "reviewer": "user"
+    },
+    {
+      "review_number": 3,
+      "source_id": "7988f39969166f342e99",
+      "target": "담당자에게 [표기]4lpine[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "context": "조회에 필요한 원래 식별번호를 옮긴 글.",
+      "review_label": 2,
+      "review_reason": "C는 문맥상 2",
+      "reviewer": "user"
+    },
+    {
+      "review_number": 4,
+      "source_id": "059284207e87d07ea7e4",
+      "target": "남은 자료로는 [표기]4lpine[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "context": "그 앞뒤 내용은 확보하지 못했습니다.",
+      "review_label": 3,
+      "review_reason": "D는 근거부족",
+      "reviewer": "user"
+    }
+  ]
+}

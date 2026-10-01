@@ -1,0 +1,1448 @@
+{
+  "dataset": "semantic-review-queue-v1",
+  "input_sha256": "bfdce88df2147150ca9d8699cd4fb36bc1e1fadfc6aa9f8933846ebd6caa444b",
+  "reviewer": "assistant",
+  "annotation_status": "assistant_annotated_at_user_request",
+  "user_attestation": {
+    "read_all_items_reported": true,
+    "individual_labels_supplied": false,
+    "individual_rationales_supplied": false
+  },
+  "independent_human_gold": false,
+  "model_predictions_consulted_this_pass": false,
+  "prior_context_exposure": true,
+  "legal_adjudication": false,
+  "label_schema": {
+    "1": "불법 서비스 이용·판매 유도 의심 광고의 의미 라벨",
+    "0": "대상에 불법 서비스 권유 없음; 일반 홍보·피해·예방·교육 포함",
+    "uncertain": "입력만으로 불법 대상·귀속을 확정하기 어려움"
+  },
+  "answers": [
+    {
+      "number": 1,
+      "id": "6272d03a324a11b099c34dc9",
+      "purpose": "observed",
+      "label": "1",
+      "category": "GAMBLING_PROMOTION",
+      "reason": "슬롯 서비스의 검증·인기·당첨 가능성을 장점으로 내세우고 이용 주소를 반복 제공한다. 설명문 형식이지만 서비스 이용을 유도하는 대상이다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 9,
+            "end": 27
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 2,
+      "id": "88b6675099a3f45421ecf9a8",
+      "purpose": "observed",
+      "label": "0",
+      "category": "CRIME_REPORT",
+      "reason": "필로폰 판매책 검거를 알리는 보도 문장이다. 판매 주체를 수사 대상으로 서술하며 독자에게 구매를 권하지 않는다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 63,
+            "end": 73
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 3,
+      "id": "7c7b54bae4dde493fcf1bb51",
+      "purpose": "observed",
+      "label": "0",
+      "category": "PREVENTION",
+      "reason": "관계자의 마약 밀반입 차단 방침을 인용한다. 주변 문맥도 검거·수사이며 약물 거래 권유가 아니다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 26,
+            "end": 35
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 4,
+      "id": "0c29aa9a76ffd60e676fda96",
+      "purpose": "observed",
+      "label": "uncertain",
+      "category": "LINK_DESTINATION_UNKNOWN",
+      "reason": "별명에 관한 영문 문장과 블로그 URL뿐이다. 무관한 링크 스팸은 의심되지만 저장 입력에 도박 등 불법 서비스의 대상·권유 근거가 없다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 105,
+            "end": 125
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 5,
+      "id": "c71e67b7d7f643bf3ff7c9ad",
+      "purpose": "observed",
+      "label": "0",
+      "category": "CRIME_REPORT",
+      "reason": "마약 공급책의 검거와 구속 송치를 설명하는 보도다. 마약류 언급은 수사 경위에 속한다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 77,
+            "end": 88
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 6,
+      "id": "027145610423fa6308b143b7",
+      "purpose": "observed",
+      "label": "uncertain",
+      "category": "TRUNCATED_SERVICE_NAME",
+      "reason": "영어 회화 연습 문구 뒤에 온라인포라는 불완전한 링크명이 붙었다. 주소 경로만 보고 포커·도박 서비스로 복원하지 않는다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 165,
+            "end": 169
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 7,
+      "id": "02d02ff8721e20372bc6831a",
+      "purpose": "observed",
+      "label": "0",
+      "category": "INVESTIGATION_POLICY",
+      "reason": "약물 공급·판매·구매 관련자를 추적하겠다는 수사 방침이다. 거래를 권유하거나 판매자 연락을 제공하지 않는다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 65,
+            "end": 77
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 8,
+      "id": "30011e9f117f781b0cc2bd2b",
+      "purpose": "observed",
+      "label": "0",
+      "category": "AGRICULTURAL_ADVICE",
+      "reason": "난황유 제조 과정의 혼합 실패와 개선 경험을 공유한다. 상품 판매나 불법 거래로 연결하는 권유는 없다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 157,
+            "end": 166
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 9,
+      "id": "60c30f636b6a42e249c7f37b",
+      "purpose": "observed",
+      "label": "uncertain",
+      "category": "LINK_DESTINATION_UNKNOWN",
+      "reason": "첫 만남의 외모에 대한 영문 비유와 gamer 링크가 있을 뿐이다. 스팸 가능성과 별개로 불법 서비스 목적을 확인할 정보가 부족하다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 130,
+            "end": 135
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 10,
+      "id": "e3ce8204e53cdcd1ba833c24",
+      "purpose": "observed",
+      "label": "1",
+      "category": "GAMBLING_LINK_PROMOTION",
+      "reason": "카지노·바카라·온라인 도박 사이트 주소를 추천·안전성 표현과 함께 반복 노출한다. 보도나 피해 신고 문맥 없이 접속을 유도하는 링크 광고다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 244,
+            "end": 253
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 11,
+      "id": "be380b13df54fd80aee6a637",
+      "purpose": "observed",
+      "label": "uncertain",
+      "category": "AUTHOR_NAME_NOT_TARGET",
+      "reason": "본문은 마케팅·블로그 관련 영문과 불명확한 URL이다. 앞 문맥의 카지노 표기를 대상 문구의 불법 권유로 곧바로 옮길 수 없어 보류한다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 113,
+            "end": 132
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 12,
+      "id": "2c15fe84deca852dca296c00",
+      "purpose": "observed",
+      "label": "1",
+      "category": "BENIGN_PREFIX_GAMBLING",
+      "reason": "청소년 상담 봉사에 관한 정상 서두 뒤에 사설 토토 사이트 추천 링크를 붙였다. 서두가 정상이어도 대상 안의 실제 베팅 서비스 홍보는 남는다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 224,
+            "end": 228
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 13,
+      "id": "42cecd369a6d382c210a1609",
+      "purpose": "observed",
+      "label": "0",
+      "category": "EDUCATION_EVENT",
+      "reason": "성상담 실무자의 교육·예방 워크숍 모집이다. 성매매·성관계 등의 어휘와 참가비·입금계좌는 교육 프로그램의 내용과 접수 절차에 속한다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 44,
+            "end": 68
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 14,
+      "id": "ee42330008226a5219f3d865",
+      "purpose": "observed",
+      "label": "0",
+      "category": "AGRICULTURAL_OPINION",
+      "reason": "안전한 먹거리와 친환경 농업을 위한 노력을 독려한다. 불법 서비스나 거래를 권유하지 않는다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 33,
+            "end": 43
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 15,
+      "id": "c74f358093e210966cddfd7f",
+      "purpose": "observed",
+      "label": "uncertain",
+      "category": "AUTHOR_NAME_NOT_TARGET",
+      "reason": "영어 수업 다운로드를 권하는 영문과 목적이 불분명한 링크다. 앞 문맥에 카지노 이름이 있어 의심되지만 대상·링크의 불법 목적을 독립적으로 확정하기 어렵다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 0,
+            "end": 29
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 16,
+      "id": "9310e2114318a39beed3dd73",
+      "purpose": "observed",
+      "label": "0",
+      "category": "AGRICULTURAL_ADVICE",
+      "reason": "한지창호지와 접착력을 이용한 해충 유입 방지 방법을 설명한다. 구매처 홍보나 불법 거래 유도가 없다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 18,
+            "end": 34
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 17,
+      "id": "2ac677b7ac6e8151c25e2909",
+      "purpose": "observed",
+      "label": "1",
+      "category": "BENIGN_PREFIX_GAMBLING",
+      "reason": "그림·블로그에 관한 영문 뒤에 스포츠토토사이트라는 목적이 명시된 링크를 배치했다. 무관한 서두와 별개로 베팅 사이트 접속을 홍보한다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 562,
+            "end": 570
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 18,
+      "id": "1c2c52f8b50869bde6784133",
+      "purpose": "observed",
+      "label": "1",
+      "category": "GAMBLING_PLATFORM_PROMOTION",
+      "reason": "특정 온라인 홀덤 서비스를 업계 상위·검증된 안전 사이트라고 반복 소개하고 접속 주소를 제공한다. 게임 일반 설명이나 교육이 아닌 플랫폼 이용 홍보다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 39,
+            "end": 54
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": true,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 19,
+      "id": "c8b57f08a85898738d5647c0",
+      "purpose": "observed",
+      "label": "0",
+      "category": "CRIME_REPORT",
+      "reason": "피의자들의 필로폰·야바 판매·투약 혐의를 설명하는 검거 보도다. 독자에게 이용을 권하는 발화가 아니다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 65,
+            "end": 83
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 20,
+      "id": "cc06d2f1716f141052a7d5c1",
+      "purpose": "observed",
+      "label": "1",
+      "category": "GAMBLING_LINK_PROMOTION",
+      "reason": "여러 카지노와 바카라 이름을 실제 접속 링크의 표제로 나열한다. 예방·인용 설명 없이 도박 서비스로 트래픽을 유도하는 대상이다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 281,
+            "end": 287
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 21,
+      "id": "1c9d23a0d8c6dcd3721ab8ed",
+      "purpose": "observed",
+      "label": "0",
+      "category": "AGRICULTURAL_ENCOURAGEMENT",
+      "reason": "친환경 먹거리 생산을 응원하는 댓글이다. 홍보 대상이나 불법 이용 권유가 없다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 35,
+            "end": 52
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 22,
+      "id": "6e6edbc61fa29e52382e5173",
+      "purpose": "observed",
+      "label": "1",
+      "category": "BENIGN_SUFFIX_GAMBLING",
+      "reason": "토토 사이트·안전놀이터 링크를 반복 배치한 뒤 노랫말을 붙였다. 뒤의 일반 문구가 앞의 도박 사이트 홍보를 없애지 않는다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 21,
+            "end": 30
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 23,
+      "id": "669f90921f908887156a8a78",
+      "purpose": "observed",
+      "label": "1",
+      "category": "GAMBLING_PLATFORM_PROMOTION",
+      "reason": "머니 이동·베팅 무제재·쿠폰을 장점으로 내세우고 특정 카지노 이용을 직접 권한다. 목적이 명확한 도박 서비스 광고다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 86,
+            "end": 102
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 24,
+      "id": "30a9e6f2f65447e0624ec747",
+      "purpose": "observed",
+      "label": "uncertain",
+      "category": "LINK_DESTINATION_UNKNOWN",
+      "reason": "짧은 영문과 URL만 있어 어떤 상품·행위를 권하는지 불명확하다. 작성자 표기의 일부 단어만으로 도박 광고를 확정하지 않는다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 0,
+            "end": 27
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 25,
+      "id": "4f0e961237df0d52e6636cbb",
+      "purpose": "observed",
+      "label": "0",
+      "category": "AGRICULTURAL_ENCOURAGEMENT",
+      "reason": "해충 퇴치와 친환경 농사의 노고를 격려하는 댓글이다. 사업 번창이라는 인사만으로 광고가 되지 않는다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 32,
+            "end": 47
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 26,
+      "id": "5b7604a5c42ee4390d38cc61",
+      "purpose": "observed",
+      "label": "0",
+      "category": "AGRICULTURAL_EXPERIENCE",
+      "reason": "농가 문제 해결 결과를 공유하겠다는 경험담이다. 불법 상품이나 사이트 이용 권유는 없다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 45,
+            "end": 50
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 27,
+      "id": "61e2961ad9461c75e15c6ae9",
+      "purpose": "observed",
+      "label": "1",
+      "category": "GAMBLING_LINK_PROMOTION",
+      "reason": "토토 사이트와 안전놀이터 표기를 접속 주소와 반복 결합한다. 단순 도메인 언급이 아니라 베팅 서비스 홍보용 목록이다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 48,
+            "end": 53
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 28,
+      "id": "fbad654862d73a872c410a30",
+      "purpose": "observed",
+      "label": "1",
+      "category": "OBFUSCATED_GAMBLING_PROMOTION",
+      "reason": "소프트하이픈으로 쪼개진 카지노·바카라·슬롯사이트 명칭과 동일 주소를 반복한다. 커뮤니티·검증 표현을 섞었지만 대상은 도박 관련 접속 유도 목록이다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 214,
+            "end": 223
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": true,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 29,
+      "id": "c629b8017b39b8ca7056f209",
+      "purpose": "observed",
+      "label": "0",
+      "category": "INVESTIGATION_POLICY",
+      "reason": "마약수사 전담요원과 탐지 장비 확충을 설명한다. 마약 관련 용어는 단속 역량 강화의 대상이다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 57,
+            "end": 70
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 30,
+      "id": "c073ae1f7b278797d1e0175a",
+      "purpose": "observed",
+      "label": "1",
+      "category": "GAMBLING_LINK_PROMOTION",
+      "reason": "카지노·바카라·슬롯 추천 문구와 목적 URL을 대량 반복한다. 중계 URL 형식과 긴 목록은 근거의 표기 방식이며 실제 대상은 도박 사이트 접속 홍보다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 329,
+            "end": 342
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 31,
+      "id": "de06422f7368cb10f5fe475d",
+      "purpose": "observed",
+      "label": "uncertain",
+      "category": "LINK_DESTINATION_UNKNOWN",
+      "reason": "블로그 댓글의 프로필 이미지에 관한 영문 뒤에 블로그 주소가 붙었다. 홍보성 스팸은 의심되나 불법 상품·서비스 근거는 입력에 없다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 83,
+            "end": 96
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 32,
+      "id": "eec648f30e81254080e9aaa2",
+      "purpose": "training_candidate",
+      "label": "0",
+      "category": "PREVENTION",
+      "reason": "온라인 의약품 구매 성공이라는 문구를 부작용 경고의 반어적 예시로 사용한다. 전체 대상은 구매 억제 홍보물이며 판매 광고가 아니다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 61,
+            "end": 75
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 33,
+      "id": "793bc7fcd2ac98631d20e796",
+      "purpose": "training_candidate",
+      "label": "0",
+      "category": "POLICY_EDUCATION",
+      "reason": "의약품 안전관리 정책설명회와 질의응답 자료 제공 안내다. 의약품 거래나 구매를 유도하지 않는다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 63,
+            "end": 79
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 34,
+      "id": "3496fb9570a14566caf3db30",
+      "purpose": "training_candidate",
+      "label": "0",
+      "category": "PREVENTION_POLICY",
+      "reason": "성매매성 불법 구인광고의 점검·삭제와 구직자 보호를 설명한다. 관련 기사를 인용한 부분도 정책 대응의 근거다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 215,
+            "end": 232
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 35,
+      "id": "625d37d5751d0f9753a98036",
+      "purpose": "training_candidate",
+      "label": "0",
+      "category": "PUBLIC_SUPPORT",
+      "reason": "음식점 상호의 마약류 표현을 바꾸는 간판·메뉴판 지원 사업이다. 금액과 신청 절차는 공공 지원이며 약물 판매가 아니다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 96,
+            "end": 108
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 36,
+      "id": "addc663d719a5b37696e5f85",
+      "purpose": "training_candidate",
+      "label": "0",
+      "category": "BOOK_INFORMATION",
+      "reason": "마약 확산·정책·중독 대응을 다루는 도서 소개다. 약물 이름과 생산·판매 과정은 분석 대상이며 실제 약물 구매를 권하지 않는다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 22,
+            "end": 28
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 37,
+      "id": "c91785b06eb8a93f01dd6375",
+      "purpose": "training_candidate",
+      "label": "1",
+      "category": "PREVENTION_DISGUISED_GAMBLING",
+      "reason": "먹튀 위험을 경고한 뒤 자기 추천망의 베팅·환전·가입 코드와 접속을 적극 권한다. 예방 서술이 자기 도박 서비스의 이용 권유를 정당화하는 구조다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 1154,
+            "end": 1174
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 38,
+      "id": "215f8a14a1ad4e5842ff15ed",
+      "purpose": "training_candidate",
+      "label": "uncertain",
+      "category": "ADULT_PROMOTION_LEGALITY_UNRESOLVED",
+      "reason": "성인 영상 서비스 홍보 의도는 분명하고 인증 생략·우회 주소도 내세운다. 다만 저장 문구만으로 제공 영상의 위법 범위까지 확인하지 못해 불법광고 이진 정답은 보류한다. 합법 주장 역시 사실로 인정하지 않는다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 233,
+            "end": 249
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": true,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 39,
+      "id": "f556c156538678eac93f4f7c",
+      "purpose": "training_candidate",
+      "label": "1",
+      "category": "DRUG_SALES",
+      "reason": "약물 품목·판매 가능 지역·판매자 연결 수단을 제시하며 즉시 연결을 권한다. 보도나 피해 경험이 아닌 직접 판매 유도다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 314,
+            "end": 331
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 40,
+      "id": "278a75c083da588e84e99509",
+      "purpose": "training_candidate",
+      "label": "1",
+      "category": "CARD_CASHING_PROMOTION",
+      "reason": "카드깡을 자기 업체의 서비스로 명시하고 한도 현금화 조건과 상담 연락을 홍보한다. 합법·인증 업체라는 자기주장 때문에 일반 정보로 바꾸지 않는다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 67,
+            "end": 83
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 41,
+      "id": "0a120544633db1afb66c67b3",
+      "purpose": "training_candidate",
+      "label": "1",
+      "category": "GAMBLING_PLATFORM_PROMOTION",
+      "reason": "자기 서비스의 보증금·안전성·입출금을 내세워 실제 베팅 경험을 권한다. 예방 또는 피해 신고가 아니다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 134,
+            "end": 151
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 42,
+      "id": "28b531856a1496cb406b7a30",
+      "purpose": "training_candidate",
+      "label": "1",
+      "category": "GAMBLING_PLATFORM_PROMOTION",
+      "reason": "카지노·슬롯 등의 베팅 방식에 제재가 없다는 점을 자기 서비스의 장점으로 홍보한다. 이용 조건을 강조하는 광고 발화다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 5,
+            "end": 19
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 43,
+      "id": "fc6036203aa0877c47711bdf",
+      "purpose": "training_candidate",
+      "label": "1",
+      "category": "GAMBLING_REFERRAL",
+      "reason": "특정 토토 서비스 가입코드와 지인 초대·충전에 따른 보상을 안내한다. 실제 가입과 이용 확대를 직접 유도한다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 42,
+            "end": 54
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 44,
+      "id": "de30a96eca90438be8c803af",
+      "purpose": "training_candidate",
+      "label": "1",
+      "category": "CARD_CASHING_PROMOTION",
+      "reason": "카드깡 서비스와 카드 한도의 현금 이용을 직접 권하고 빠른 처리·낮은 수수료를 내세운다. 일반 카드 결제 안내와 구분된다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 1,
+            "end": 12
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 45,
+      "id": "d3a8663da3bde94aaf964678",
+      "purpose": "training_candidate",
+      "label": "uncertain",
+      "category": "ACCOUNT_DATA_PURPOSE_UNCLEAR",
+      "reason": "사이트 측 입금 계좌 정보의 매입과 보안을 설명한다. 본인 계좌 양도인지 제보 정보 거래인지 등 대상·행위 범위가 불명확해 위법 거래로 단정하지 않는다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 43,
+            "end": 58
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": true,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 46,
+      "id": "bb20743745b8f8c55186d70c",
+      "purpose": "training_candidate",
+      "label": "uncertain",
+      "category": "MISSING_PRODUCT_CONTEXT",
+      "reason": "자기 업체의 안전성을 홍보하지만 어떤 상품·서비스를 거래하는지 대상과 수집 문맥에 없다. 다른 요소의 정보를 보충해 불법으로 정하지 않는다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 59,
+            "end": 72
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 47,
+      "id": "149e717540063d2c1fc26971",
+      "purpose": "training_candidate",
+      "label": "uncertain",
+      "category": "MISSING_PRODUCT_CONTEXT",
+      "reason": "출석 포인트와 개근 보너스라는 홍보는 확인된다. 이 입력만으로 보상 대상이 도박 서비스인지 일반 회원 서비스인지 특정할 수 없다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 0,
+            "end": 15
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 48,
+      "id": "8a6ad9b736eea40e253ef5f7",
+      "purpose": "training_candidate",
+      "label": "0",
+      "category": "BOARD_POLICY",
+      "reason": "광고·음란물·범죄 관련 게시물 등의 삭제 기준을 열거한 운영 안내다. 금지하는 내용을 실제 권유로 오인하지 않는다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 7,
+            "end": 24
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 49,
+      "id": "514a9d412a1de7dc4a385238",
+      "purpose": "training_candidate",
+      "label": "0",
+      "category": "PAYMENT_HELP",
+      "reason": "쇼핑몰 결제 완료 전 창을 닫지 말라는 일반 사용 안내다. 결제 언급만 있고 불법 상품의 구매 유도는 없다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 68,
+            "end": 80
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 50,
+      "id": "59317d1b348fc6a35c4c3c74",
+      "purpose": "training_candidate",
+      "label": "0",
+      "category": "OPERATOR_INFORMATION",
+      "reason": "일반 유아용품 쇼핑몰의 사업자·연락처 고지다. 별도 게시물에 있는 광고를 사이트 운영 정보에 전가하지 않는다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 45,
+            "end": 53
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 51,
+      "id": "9634c8194d989cc565ba07c9",
+      "purpose": "training_candidate",
+      "label": "0",
+      "category": "VICTIM_QUESTION",
+      "reason": "성매매 유도 사기 피해와 수사종결 이유를 문의한다. 메신저 응답 가능성은 피해 진술의 일부이며 독자에게 거래를 권하는 말이 아니다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 171,
+            "end": 186
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 52,
+      "id": "ba9d5eab0634fbec6dfb44a1",
+      "purpose": "training_candidate",
+      "label": "0",
+      "category": "VICTIM_REPORT",
+      "reason": "금전 지불·강요·업소 위치·URL을 언급하지만 전체 발화는 피해 호소와 신고다. 인용된 성적 제안이나 가해 주장 자체를 게시자의 광고로 보지 않는다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 618,
+            "end": 627
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 53,
+      "id": "da343c057902f7d1173d3d75",
+      "purpose": "training_candidate",
+      "label": "0",
+      "category": "PREVENTION_EVENT",
+      "reason": "성착취 문제를 논의하는 북콘서트 참여를 모집한다. 신청 링크와 연락처는 예방·교육 행사 참여를 위한 것이며 성매매 서비스 권유가 아니다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 54,
+            "end": 62
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 54,
+      "id": "592c14a72a569cc65bef6c5b",
+      "purpose": "training_candidate",
+      "label": "0",
+      "category": "POLICY_OPINION",
+      "reason": "성매매 합법화에 관한 정책 의견이다. 특정 업소나 성매매 거래를 연결하지 않는다. 글의 통계·법률 주장이 사실인지와 광고 여부는 별개다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 3,
+            "end": 15
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 55,
+      "id": "c774542dcc722907f0eca61a",
+      "purpose": "training_candidate",
+      "label": "1",
+      "category": "GAMBLING_REFERRAL",
+      "reason": "사설 토토 사이트 추천과 특정 업체·추천코드를 제목에 명시한다. 정보 탐색 일반론이 아닌 가입 유도형 홍보다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 29,
+            "end": 38
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 56,
+      "id": "c3ddaf54ceb9953bf6fa7528",
+      "purpose": "training_candidate",
+      "label": "1",
+      "category": "GAMBLING_REFERRAL",
+      "reason": "가입 시 추천코드를 입력해야 충전 혜택을 받는다고 안내한다. 수집 문맥의 도박 서비스와 직접 이어지는 이용 유도다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 6,
+            "end": 15
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 57,
+      "id": "37869d613da0098487244e37",
+      "purpose": "training_candidate",
+      "label": "1",
+      "category": "GAMBLING_BONUS",
+      "reason": "신규·반복 충전 보상과 롤링 조건을 자기 사이트의 이점으로 설명한다. 베팅 자금 투입을 유도하는 서비스 광고다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 59,
+            "end": 69
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 58,
+      "id": "182e364e82163d8c994a6f67",
+      "purpose": "training_candidate",
+      "label": "1",
+      "category": "GAMBLING_BONUS",
+      "reason": "첫 충전·매 충전 보상을 제시하고, 문맥의 제목이 특정 토토 사이트 추천코드와 연결한다. 문화 해설이라는 외피와 별개인 보상 홍보다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 2,
+            "end": 10
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 59,
+      "id": "a5241e7f3aa1bde60494b761",
+      "purpose": "training_candidate",
+      "label": "0",
+      "category": "SEPARATE_NEIGHBOR_POST",
+      "reason": "대상은 별도 협회 협력 소식의 제목이다. 앞의 도박 제목과 페이지 제목은 주변 다른 내용이며 해당 대상이 베팅을 권하지 않는다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 28,
+            "end": 35
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 60,
+      "id": "4a1ac3975aa378db8b1273ae",
+      "purpose": "training_candidate",
+      "label": "0",
+      "category": "SITE_FOOTER",
+      "reason": "협회 소개·개인정보·이메일 수집 거부 등의 공통 푸터다. 광고가 있는 페이지라도 운영 안내 자체를 광고로 판정하지 않는다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 5,
+            "end": 13
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": false,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 61,
+      "id": "138a7d80c6027e9c066723e4",
+      "purpose": "training_candidate",
+      "label": "1",
+      "category": "PROMOTIONAL_DISCLAIMER",
+      "reason": "본 리포트라는 자기지시로 같은 가입·보너스 홍보를 비권유 정보라고 포장한다. 문맥의 추천코드와 실제 권유가 분명해 광고를 정당화하는 면책 성분으로 판정한다. 면책 문구만의 문자적 부정으로 정상화하지 않는다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 2,
+            "end": 7
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": true,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    },
+    {
+      "number": 62,
+      "id": "b89fd34ff3506ada9530b480",
+      "purpose": "training_candidate",
+      "label": "1",
+      "category": "INFORMATION_DISGUISED_PROMOTION",
+      "reason": "이 글이라는 자기지시가 특정 베팅 서비스·추천코드를 내건 제목과 연결된다. 별개 게시물이 아닌 동일 광고의 정보형 서두로 해석한다. 문화 해설 문장만 따로 떼면 정상일 수 있어 문맥 의존 경계 사례로 표시한다.",
+      "evidence": {
+        "target_spans": [
+          {
+            "start": 61,
+            "end": 76
+          }
+        ],
+        "uses_context": true
+      },
+      "reviewed": true,
+      "reviewed_by": "assistant",
+      "human_label_reviewed": false,
+      "boundary_case": true,
+      "applies_to": "full_stored_target_and_context",
+      "eligible_for_automatic_training": false
+    }
+  ]
+}

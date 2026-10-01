@@ -1,0 +1,183 @@
+{
+  "version": "nuri-1.2-human-review-v1",
+  "reviewer": "user",
+  "review_channel": "chat_text",
+  "user_response_verbatim": "1번~3번 : 2\n4~13 : 2\n14~17 : 2\n\n전부 정상인데",
+  "source_items_sha256": "35b6d67d47e418b4e56d26cbe1f9fee2512c81090734db118602e5f5824a8686",
+  "review_scope": "17 collected elements from 3 pages, not 17 independent pages",
+  "binary_review_complete": true,
+  "four_class_training_ready": false,
+  "limitation": "All user decisions are preserved as 2. Items 4-13 need taxonomy reconciliation between prevention/education (1) and general information (2); do not silently relabel or train as settled four-class gold. No positive advertising samples. Chat presentation reformatted whitespace and shared context references.",
+  "answers": [
+    {
+      "number": 1,
+      "id": "67e50351a36b5e0995",
+      "input_sha256": "4f85c4507342985d3302c238e0c8592c4c1ea13ff0dcd463ead913b2ed87be21",
+      "decision": 2,
+      "reviewed": true,
+      "is_illegal_ad": false,
+      "four_class_status": "user_confirmed",
+      "reason": null
+    },
+    {
+      "number": 2,
+      "id": "0c1c7f692e555cbb50",
+      "input_sha256": "7869c63351cd354988d7c6cd9305594073a624e83b55b984640d42a04d2e5702",
+      "decision": 2,
+      "reviewed": true,
+      "is_illegal_ad": false,
+      "four_class_status": "user_confirmed",
+      "reason": null
+    },
+    {
+      "number": 3,
+      "id": "2270837de13ea21224",
+      "input_sha256": "31814803176b681a0128f1aef0b7980fd89725925ed263fb509211b29f2507d4",
+      "decision": 2,
+      "reviewed": true,
+      "is_illegal_ad": false,
+      "four_class_status": "user_confirmed",
+      "reason": null
+    },
+    {
+      "number": 4,
+      "id": "1bbda3db7423152229",
+      "input_sha256": "d491d133d0c95d0f719beabcbab1b2752ea640859f92010a7b089cd5b00e1ac9",
+      "decision": 2,
+      "reviewed": true,
+      "is_illegal_ad": false,
+      "four_class_status": "needs_taxonomy_reconciliation",
+      "reason": null
+    },
+    {
+      "number": 5,
+      "id": "f9bb9781e7a3dcfac0",
+      "input_sha256": "10f9982131afc20a3d88ab599ee9aa243d7cd414c3312ad196e738b7af73c360",
+      "decision": 2,
+      "reviewed": true,
+      "is_illegal_ad": false,
+      "four_class_status": "needs_taxonomy_reconciliation",
+      "reason": null
+    },
+    {
+      "number": 6,
+      "id": "364cd8ce84d53606cb",
+      "input_sha256": "8b18c75cce7700ef5b71a1df5ba16a45d4762a0edf120eee49078334e837e2b9",
+      "decision": 2,
+      "reviewed": true,
+      "is_illegal_ad": false,
+      "four_class_status": "needs_taxonomy_reconciliation",
+      "reason": null
+    },
+    {
+      "number": 7,
+      "id": "bc1abf2fb585fe56a0",
+      "input_sha256": "570666910a56a0491d1be7cb0a18e1d6592f43ea703e070e9d0b21eda5838b5a",
+      "decision": 2,
+      "reviewed": true,
+      "is_illegal_ad": false,
+      "four_class_status": "needs_taxonomy_reconciliation",
+      "reason": null
+    },
+    {
+      "number": 8,
+      "id": "6e3ab70b08df32c408",
+      "input_sha256": "208927c2a5adfbf2ff6f0e575b9ab3121ab629dc7e0a55a52e16b1fbec552436",
+      "decision": 2,
+      "reviewed": true,
+      "is_illegal_ad": false,
+      "four_class_status": "needs_taxonomy_reconciliation",
+      "reason": null
+    },
+    {
+      "number": 9,
+      "id": "b34c4b64cc4f9086ee",
+      "input_sha256": "8d48c51c8f7ae8480a1abf889cf9c6bf7393cf3d710b9c79ca22ebc7b012cf9d",
+      "decision": 2,
+      "reviewed": true,
+      "is_illegal_ad": false,
+      "four_class_status": "needs_taxonomy_reconciliation",
+      "reason": null
+    },
+    {
+      "number": 10,
+      "id": "5d2be6f0f6b89b2ffb",
+      "input_sha256": "31291b548a5b21e7392b6ad7a2a27d29b68d5d8a794c29057feb593ad8a4da65",
+      "decision": 2,
+      "reviewed": true,
+      "is_illegal_ad": false,
+      "four_class_status": "needs_taxonomy_reconciliation",
+      "reason": null
+    },
+    {
+      "number": 11,
+      "id": "559435a5269b1e039b",
+      "input_sha256": "b99d28eadb536a84fda8673a07a827d60bf219bffda021aa9c9f544d891cf57d",
+      "decision": 2,
+      "reviewed": true,
+      "is_illegal_ad": false,
+      "four_class_status": "needs_taxonomy_reconciliation",
+      "reason": null
+    },
+    {
+      "number": 12,
+      "id": "f6566daab7ef0c2970",
+      "input_sha256": "17529c3fdc2a2be7692106a5f88e8d5ef190f9a5a9b5f1ac613cb917a84aaf26",
+      "decision": 2,
+      "reviewed": true,
+      "is_illegal_ad": false,
+      "four_class_status": "needs_taxonomy_reconciliation",
+      "reason": null
+    },
+    {
+      "number": 13,
+      "id": "a2812a8d4d6b699745",
+      "input_sha256": "f24af0828c0a4df5282b37f0dc4f91b2fb4345889236a3b89be7728311ec15fc",
+      "decision": 2,
+      "reviewed": true,
+      "is_illegal_ad": false,
+      "four_class_status": "needs_taxonomy_reconciliation",
+      "reason": null
+    },
+    {
+      "number": 14,
+      "id": "a6baf01fe97576c7c8",
+      "input_sha256": "a3cfa135bc702c534ae61ee705b16d4e3dfd079a38034907cf170d09f5efc5a9",
+      "decision": 2,
+      "reviewed": true,
+      "is_illegal_ad": false,
+      "four_class_status": "user_confirmed",
+      "reason": null
+    },
+    {
+      "number": 15,
+      "id": "3f544cfffc03e00193",
+      "input_sha256": "2df0ee40e97054e58b19a6b933543feb64738170261fc34d082b6ba3644eda6f",
+      "decision": 2,
+      "reviewed": true,
+      "is_illegal_ad": false,
+      "four_class_status": "user_confirmed",
+      "reason": null
+    },
+    {
+      "number": 16,
+      "id": "cfbbe64c9e40b34156",
+      "input_sha256": "371f6ae97b2a80843baccb65596b9f6afb6a1baa6a831b1e30c442dec7eaecd5",
+      "decision": 2,
+      "reviewed": true,
+      "is_illegal_ad": false,
+      "four_class_status": "user_confirmed",
+      "reason": null
+    },
+    {
+      "number": 17,
+      "id": "7d622738115c626c53",
+      "input_sha256": "c7513d7fe3c0154dcb20cf2778383ae8aea04f06cf931d0307fc7602d99c6a38",
+      "decision": 2,
+      "reviewed": true,
+      "is_illegal_ad": false,
+      "four_class_status": "user_confirmed",
+      "reason": null
+    }
+  ]
+}

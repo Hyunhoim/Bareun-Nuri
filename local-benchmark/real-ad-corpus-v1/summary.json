@@ -1,0 +1,60 @@
+{
+  "real_extracted_pages": 94,
+  "real_seed_rows": 60,
+  "real_seed_unique_pages": 46,
+  "new_provisional_real_rows": 43,
+  "previous_user_reviewed_elements": 17,
+  "train_candidate_rows": 766,
+  "base_rows_before_dedup": 164,
+  "retained_base_rows": 162,
+  "review_queue_rows": 99,
+  "unresolved_rows": 56,
+  "labels": {
+    "1": 353,
+    "0": 413
+  },
+  "real_categories": {
+    "GAMBLING": 10,
+    "ADULT_CONTENT": 4,
+    "NCII_PROMOTION": 2,
+    "GENERAL": 32,
+    "DRUG": 2,
+    "CARD_CASHING": 6,
+    "ACCOUNT_TRADE": 1,
+    "SEX_TRADE": 2,
+    "FINANCIAL": 1
+  },
+  "real_positive_categories": {
+    "GAMBLING": 7,
+    "ADULT_CONTENT": 4,
+    "NCII_PROMOTION": 2,
+    "DRUG": 2,
+    "CARD_CASHING": 6,
+    "ACCOUNT_TRADE": 1
+  },
+  "real_positive_families": {
+    "ACCOUNT_TRADE": 1,
+    "ADULT_CONTENT": 1,
+    "CARD_CASHING": 2,
+    "DRUG": 1,
+    "FINANCIAL": 0,
+    "GAMBLING": 2,
+    "GENERAL": 0,
+    "NCII_PROMOTION": 1,
+    "SEX_TRADE": 0
+  },
+  "origin_counts": {
+    "real_web_excerpt": 43,
+    "synthetic_surface_augmentation": 604,
+    "previous_user_reviewed_runtime_element": 17,
+    "synthetic_semantic": 48,
+    "synthetic_role_contrast": 30,
+    "synthetic_independent_comment": 24
+  },
+  "source_groups": 12,
+  "dom_fixtures": 64,
+  "holdout_rows": 0,
+  "paid_api_calls": 0,
+  "model_trained": false,
+  "status": "provisional_training_candidates_not_all_categories_sufficient"
+}

@@ -1,0 +1,7 @@
+# KLUE data refinement diagnostic
+
+Old final128 is explicitly demoted to observed regression at user request. Never train or select checkpoints on it. Old137 remains regression. New data still synthetic/AI-reviewed, not human-reviewed real advertisements. Existing replica source is real DOM with injected synthetic text; distinguish this provenance.
+
+Keep previous encoder input and model base/optimizer/seed/batch512/8 fixed. Enrich training contrastive contexts and use at most8epochs, validation macro4 F1/tie loss, patience2. Load original KLUE base, not old fitted model. Binary-normal legacy labels remain partial labels (quotation OR ordinary) rather than inventing four-class gold. All normalized target matches with old128/137 are excluded from new training and validation; split variant groups together. Old train/validation retain their split, remove duplicate inputs. New held-out validation templates/offer phrases are separate from training. Freeze data/code/models before regression scoring. No iterative tuning after seeing regression results.
+
+One run,30minute train cap, GPUlocal, CPU8threads evaluation, no paidAPI. Compare old128 to saved old predictions and old137 to saved predictions. Report both improvements and losses, confusion/uncertainty and CPU times. This is a combined data+training-budget intervention, not an ablation separating effects. No production adoption or fresh-holdout/generalization claim; future adoption requires new final dataset and25minute site run.

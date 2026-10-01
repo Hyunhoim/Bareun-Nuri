@@ -1,0 +1,20 @@
+{
+  "input_sha256": "8f97e9597c7e50693df5587c09c5919f16387ea97260a2081e1fd5de48b846f6",
+  "train_sha256": "46e86fc999dd351e33b7fd9fd4917218bdf4e8136b8379c096d41bd09125e685",
+  "total_rows": 2003,
+  "selected": 31,
+  "predictions_used": false,
+  "labels_completed": 0,
+  "source_hosts": [
+    "www.kcg.go.kr",
+    "www.nongsaro.go.kr",
+    "www.yangju.go.kr"
+  ],
+  "training_host_overlap": [],
+  "normalized_training_overlap_all": 0,
+  "normalized_training_overlap_selected": 0,
+  "selection": "six earlier comments, distinct later comments, educational workshop body, press-release paragraphs; no prediction access",
+  "independent_human_labels": false,
+  "independent_campaigns_verified": false,
+  "source_prevalence_representative": false
+}

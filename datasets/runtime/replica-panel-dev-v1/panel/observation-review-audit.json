@@ -1,0 +1,13 @@
+{
+  "positions_with_technique_review": 52,
+  "reason_occurrences": {
+    "visibility-or-clipping-needs-review": 243,
+    "ambiguous-script-or-digit-substitution": 5
+  },
+  "positions_by_reason": {
+    "visibility-or-clipping-needs-review": 52,
+    "ambiguous-script-or-digit-substitution": 5
+  },
+  "meaning_unchanged": true,
+  "note": "One position may have several span-level reasons; do not call 243 distinct failures."
+}

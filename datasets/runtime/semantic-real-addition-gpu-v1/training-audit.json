@@ -1,0 +1,67 @@
+{
+  "passed": true,
+  "models": {
+    "control/klue": {
+      "epoch": 2,
+      "f1": 0.8717948717948718,
+      "tp": 17,
+      "fp": 2,
+      "train_seconds": 55.65805099999989,
+      "cpu_gpu_hard_equal": true,
+      "model_sha256": "c5986cbd1966a6b0f7eaff78be17d35ae46963d5d46c5699a1d6d6a5820997c6",
+      "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU"
+    },
+    "control/kc": {
+      "epoch": 3,
+      "f1": 0.9,
+      "tp": 18,
+      "fp": 2,
+      "train_seconds": 55.11424880000004,
+      "cpu_gpu_hard_equal": true,
+      "model_sha256": "d782f7995893d0f7df0744101b06ec4948c28ec3bd5eded051bf8d3df3a5a545",
+      "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU"
+    },
+    "control/ko": {
+      "epoch": 3,
+      "f1": 0.8648648648648649,
+      "tp": 16,
+      "fp": 1,
+      "train_seconds": 58.94318299999986,
+      "cpu_gpu_hard_equal": true,
+      "model_sha256": "dc79ab1a9dd94fb18dc573d954b0e397951c9300138364a4753902d8723662b1",
+      "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU"
+    },
+    "addition/klue": {
+      "epoch": 3,
+      "f1": 0.8888888888888888,
+      "tp": 16,
+      "fp": 0,
+      "train_seconds": 57.50924310000005,
+      "cpu_gpu_hard_equal": true,
+      "model_sha256": "da20bc13d512dcbe3653326c3d0c3aea0aa0eb0865359e755e5fff85979f48b1",
+      "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU"
+    },
+    "addition/kc": {
+      "epoch": 2,
+      "f1": 0.9047619047619048,
+      "tp": 19,
+      "fp": 3,
+      "train_seconds": 51.946816000000126,
+      "cpu_gpu_hard_equal": true,
+      "model_sha256": "9ef91baa0f1d9dd4e36b9c21e2027f783ae7574e970ece48c150914829948f00",
+      "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU"
+    },
+    "addition/ko": {
+      "epoch": 2,
+      "f1": 0.7567567567567568,
+      "tp": 14,
+      "fp": 3,
+      "train_seconds": 57.41886879999993,
+      "cpu_gpu_hard_equal": true,
+      "model_sha256": "e8b314ab7ca4af08921cc81e47ed9b05b803e0c80019269a0e2ec943792d5f89",
+      "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU"
+    }
+  },
+  "total_training_seconds": 336.5904106999999,
+  "development_records_verified": 24
+}

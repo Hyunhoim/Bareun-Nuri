@@ -1,0 +1,179 @@
+[
+  {
+    "epoch": 1,
+    "loss": 0.3461309442365611,
+    "development": {
+      "JAMO": {
+        "confusion": [
+          [
+            336,
+            0,
+            0
+          ],
+          [
+            15,
+            261,
+            0
+          ],
+          [
+            8,
+            0,
+            4
+          ]
+        ],
+        "macro_f1": 0.812991171308763,
+        "strict_f1": 0.9669064748201439,
+        "normal_false": 15,
+        "uncertain_false": 8
+      },
+      "HOMOGLYPH": {
+        "confusion": [
+          [
+            177,
+            63,
+            0
+          ],
+          [
+            0,
+            372,
+            0
+          ],
+          [
+            12,
+            0,
+            0
+          ]
+        ],
+        "macro_f1": 0.5823693035588947,
+        "strict_f1": 0.8251748251748252,
+        "normal_false": 0,
+        "uncertain_false": 12
+      },
+      "positive_macro_f1": 0.8960406499974846,
+      "min_f1": 0.8251748251748252,
+      "normal_false": 15,
+      "uncertain_false": 20,
+      "exact_state_accuracy": 0.8637820512820513,
+      "rows": 624
+    },
+    "seconds": 25.226085799999964
+  },
+  {
+    "epoch": 2,
+    "loss": 0.02331102748953358,
+    "development": {
+      "JAMO": {
+        "confusion": [
+          [
+            326,
+            0,
+            10
+          ],
+          [
+            24,
+            252,
+            0
+          ],
+          [
+            0,
+            0,
+            12
+          ]
+        ],
+        "macro_f1": 0.8702883750902958,
+        "strict_f1": 0.9504373177842566,
+        "normal_false": 24,
+        "uncertain_false": 0
+      },
+      "HOMOGLYPH": {
+        "confusion": [
+          [
+            192,
+            48,
+            0
+          ],
+          [
+            0,
+            372,
+            0
+          ],
+          [
+            12,
+            0,
+            0
+          ]
+        ],
+        "macro_f1": 0.6014196014196015,
+        "strict_f1": 0.8648648648648649,
+        "normal_false": 0,
+        "uncertain_false": 12
+      },
+      "positive_macro_f1": 0.9076510913245608,
+      "min_f1": 0.8648648648648649,
+      "normal_false": 24,
+      "uncertain_false": 12,
+      "exact_state_accuracy": 0.8653846153846154,
+      "rows": 624
+    },
+    "seconds": 49.84785290000036
+  },
+  {
+    "epoch": 3,
+    "loss": 0.007979330218707522,
+    "development": {
+      "JAMO": {
+        "confusion": [
+          [
+            332,
+            0,
+            4
+          ],
+          [
+            25,
+            251,
+            0
+          ],
+          [
+            0,
+            0,
+            12
+          ]
+        ],
+        "macro_f1": 0.9226191617083458,
+        "strict_f1": 0.9581529581529582,
+        "normal_false": 25,
+        "uncertain_false": 0
+      },
+      "HOMOGLYPH": {
+        "confusion": [
+          [
+            192,
+            48,
+            0
+          ],
+          [
+            0,
+            372,
+            0
+          ],
+          [
+            12,
+            0,
+            0
+          ]
+        ],
+        "macro_f1": 0.6014196014196015,
+        "strict_f1": 0.8648648648648649,
+        "normal_false": 0,
+        "uncertain_false": 12
+      },
+      "positive_macro_f1": 0.9115089115089116,
+      "min_f1": 0.8648648648648649,
+      "normal_false": 25,
+      "uncertain_false": 12,
+      "exact_state_accuracy": 0.8637820512820513,
+      "rows": 624
+    },
+    "seconds": 74.65216270000019
+  }
+]

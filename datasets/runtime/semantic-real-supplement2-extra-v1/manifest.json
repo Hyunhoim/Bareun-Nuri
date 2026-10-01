@@ -1,0 +1,30 @@
+{
+  "sources": [
+    [
+      "government",
+      "https://www.gokseong.go.kr/kr/board/view.do%3Bjsessionid%3D1C8181CF1CD75C80972FC2886B0C7690?bbsId=BBS_000000000000430&menuNo=106001001000&nttId=62904&pageIndex=1&searchCategory1=&searchCategory2=&searchCategory3="
+    ],
+    [
+      "association",
+      "https://www.aaa.or.kr/127/?bmode=view&idx=170369166"
+    ],
+    [
+      "association",
+      "https://www.aaa.or.kr/127/?bmode=view&idx=170369212&q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&t=board"
+    ],
+    [
+      "commercial",
+      "https://www.yeosuocean.imweb.me/?bmode=view&idx=172017557&q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MjA7fQ%3D%3D&t=board"
+    ]
+  ],
+  "purpose": "training_candidates_not_final_holdout",
+  "hashes": {
+    "C:\\Users\\alvin\\Documents\\개인 프로젝트\\불법 광고 탐지 도구 경진대회\\.runtime\\semantic-real-supplement2-extra-capture.cjs": "baa4ef0bd7aac69d821c2771973468c4039de1b04033b931411ea79375110c5e",
+    "docs/semantic-real-supplement2-plan.md": "ff31d5bed91c15af05defe654c2ad8b008f770193469f5df4061c34a065c5636",
+    "agent/src/core/collect.cjs": "05df35ca15cdbb7129fe93c360a46d69f66efed5119b7aa200f4bd48ffc5138d",
+    "agent/src/core/judgment.cjs": "edd2b95b3eacee2c1560bdc7b87a66a63272fdcad0d65dc4c84787c22544af6f",
+    "local-benchmark/klue-scoped-context.cjs": "c4a1aad48fdc5dab2e5d5ad7dc60f63aa35570816048c7e1e5c14917a81088bc"
+  },
+  "api_calls": 0,
+  "model_predictions_used": false
+}

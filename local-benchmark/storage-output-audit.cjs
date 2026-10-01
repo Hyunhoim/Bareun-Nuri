@@ -1,0 +1,6 @@
+const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict');
+const root=path.resolve(process.argv[2]),dirs=process.argv.slice(3).length?process.argv.slice(3).map(p=>path.resolve(p)):fs.readdirSync(root).filter(n=>/^(baseline|wave)-\d$/.test(n)).map(n=>path.join(root,n));
+const clean=x=>{if(x&&typeof x==='object'){for(const k of ['elapsed_sec','started_at','finished_at'])delete x[k];for(const v of Object.values(x))clean(v);}return x;};
+const first=dirs[0],ref=JSON.parse(fs.readFileSync(path.join(first,'checkpoint.json'))).state;
+const results=[];for(const dir of dirs){const state=JSON.parse(fs.readFileSync(path.join(dir,'checkpoint.json'))).state;assert.deepEqual(state.batch_history,ref.batch_history);for(const file of ['result.json','diagnostics.json','technique-diagnostics.json','unjudged.json'])assert.deepEqual(clean(JSON.parse(fs.readFileSync(path.join(dir,file)))),clean(JSON.parse(fs.readFileSync(path.join(first,file)))));results.push({dir,stats:JSON.parse(fs.readFileSync(path.join(dir,'storage-metrics.json'))),calls:state.calls,turn:state.turn,status:state.status,reason:state.reason});}
+fs.writeFileSync(path.join(root,'output-audit.json'),JSON.stringify({api:0,equal_outputs_and_batches:true,runs:results},null,2));console.log(JSON.stringify({equal:true,dirs:dirs.length}));

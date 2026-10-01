@@ -1,0 +1,37 @@
+{
+  "passed": true,
+  "old_rows": 766,
+  "new_semantic_pairs": 24,
+  "new_semantic_rows": 48,
+  "addendum_rows": 190,
+  "combined_rows": 956,
+  "new_review_only": 8,
+  "categories": {
+    "GAMBLING": 12,
+    "DRUG": 8,
+    "SEX_TRADE": 8,
+    "ADULT_CONTENT": 2,
+    "NCII_PROMOTION": 4,
+    "ILLEGAL_MEDICINE": 4,
+    "CARD_CASHING": 4,
+    "ACCOUNT_TRADE": 2,
+    "ILLEGAL_LOAN": 2,
+    "COPYRIGHT_PROMOTION": 2
+  },
+  "exact_same_target_opposite_context_pairs": 6,
+  "addon_label_counts": {
+    "1": 94,
+    "0": 96
+  },
+  "old_file_sha256": "794207af890c17614579f4c1ad0e3a9885cca777d87b35aa32f7c0ff4dcd30cc",
+  "real_source_count_increased": false,
+  "independent_holdout_rows": 0,
+  "model_training_performed": false,
+  "accuracy_improvement_verified": false,
+  "limitations": [
+    "one synthetic author",
+    "provisional labels",
+    "not live collected inputs",
+    "same source gaps as v1"
+  ]
+}

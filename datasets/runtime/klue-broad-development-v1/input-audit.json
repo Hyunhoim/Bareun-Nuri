@@ -1,0 +1,11 @@
+{
+  "hashes_verified": true,
+  "unique_inputs": 120,
+  "max_tokens": 105,
+  "min_tokens": 17,
+  "truncated": 0,
+  "nearest_overlap_metric": "NFKC no-whitespace character-trigram Jaccard; not a semantic leakage proof",
+  "maximum_training_similarity": 0.25,
+  "near_training_at_0_45": 0,
+  "model_calls": 0
+}

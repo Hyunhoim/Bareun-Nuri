@@ -1,0 +1,170 @@
+[
+  {
+    "number": 1,
+    "role": "judge",
+    "provider": "hcx",
+    "started_at": "2026-09-25T13:44:30.935Z",
+    "usage": {
+      "prompt_tokens": 1692,
+      "completion_tokens": 109,
+      "total_tokens": 1801
+    },
+    "reserved_tokens": 0,
+    "queue_wait_sec": 0.0000039000000001578886,
+    "sent_at_ms": 1790343870935,
+    "http_status": 200,
+    "rate_limit": {
+      "x-ratelimit-limit-requests": "60",
+      "x-ratelimit-limit-tokens": "60000",
+      "x-ratelimit-remaining-requests": "57",
+      "x-ratelimit-remaining-tokens": "53052",
+      "x-ratelimit-reset-requests": "58s",
+      "x-ratelimit-reset-tokens": "58s"
+    },
+    "model_returned": "HCX-007",
+    "status": "ok",
+    "elapsed_sec": 2.1435587000000003,
+    "finished_at_ms": 1790343873078,
+    "service_sec": 2.143
+  },
+  {
+    "number": 2,
+    "role": "judge",
+    "provider": "hcx",
+    "started_at": "2026-09-25T13:45:34.725Z",
+    "usage": {
+      "prompt_tokens": 1835,
+      "completion_tokens": 109,
+      "total_tokens": 1944
+    },
+    "reserved_tokens": 0,
+    "queue_wait_sec": 0.000005499999999301508,
+    "sent_at_ms": 1790343934725,
+    "http_status": 200,
+    "rate_limit": {
+      "x-ratelimit-limit-requests": "60",
+      "x-ratelimit-limit-tokens": "60000",
+      "x-ratelimit-remaining-requests": "54",
+      "x-ratelimit-remaining-tokens": "47150",
+      "x-ratelimit-reset-requests": "55s",
+      "x-ratelimit-reset-tokens": "55s"
+    },
+    "model_returned": "HCX-007",
+    "status": "ok",
+    "elapsed_sec": 2.063804700000008,
+    "finished_at_ms": 1790343936789,
+    "service_sec": 2.064
+  },
+  {
+    "number": 3,
+    "role": "judge",
+    "provider": "hcx",
+    "started_at": "2026-09-25T13:46:39.811Z",
+    "usage": {
+      "prompt_tokens": 1202,
+      "completion_tokens": 112,
+      "total_tokens": 1314
+    },
+    "reserved_tokens": 0,
+    "queue_wait_sec": 0.000004499999980907887,
+    "sent_at_ms": 1790343999811,
+    "http_status": 200,
+    "rate_limit": {
+      "x-ratelimit-limit-requests": "60",
+      "x-ratelimit-limit-tokens": "60000",
+      "x-ratelimit-remaining-requests": "51",
+      "x-ratelimit-remaining-tokens": "43172",
+      "x-ratelimit-reset-requests": "51s",
+      "x-ratelimit-reset-tokens": "51s"
+    },
+    "model_returned": "HCX-007",
+    "status": "ok",
+    "elapsed_sec": 2.0383732999999773,
+    "finished_at_ms": 1790344001850,
+    "service_sec": 2.039
+  },
+  {
+    "number": 4,
+    "role": "judge",
+    "provider": "hcx",
+    "started_at": "2026-09-25T13:47:43.065Z",
+    "usage": {
+      "prompt_tokens": 1644,
+      "completion_tokens": 111,
+      "total_tokens": 1755
+    },
+    "reserved_tokens": 0,
+    "queue_wait_sec": 0.000005800000013550744,
+    "sent_at_ms": 1790344063065,
+    "http_status": 200,
+    "rate_limit": {
+      "x-ratelimit-limit-requests": "60",
+      "x-ratelimit-limit-tokens": "60000",
+      "x-ratelimit-remaining-requests": "51",
+      "x-ratelimit-remaining-tokens": "39645",
+      "x-ratelimit-reset-requests": "49s",
+      "x-ratelimit-reset-tokens": "49s"
+    },
+    "model_returned": "HCX-007",
+    "status": "ok",
+    "elapsed_sec": 2.065033599999995,
+    "finished_at_ms": 1790344065130,
+    "service_sec": 2.065
+  },
+  {
+    "number": 5,
+    "role": "judge",
+    "provider": "hcx",
+    "started_at": "2026-09-25T13:48:46.669Z",
+    "usage": {
+      "prompt_tokens": 1378,
+      "completion_tokens": 100,
+      "total_tokens": 1478
+    },
+    "reserved_tokens": 0,
+    "queue_wait_sec": 0.0000048999999999068676,
+    "sent_at_ms": 1790344126669,
+    "http_status": 200,
+    "rate_limit": {
+      "x-ratelimit-limit-requests": "60",
+      "x-ratelimit-limit-tokens": "60000",
+      "x-ratelimit-remaining-requests": "48",
+      "x-ratelimit-remaining-tokens": "36814",
+      "x-ratelimit-reset-requests": "47s",
+      "x-ratelimit-reset-tokens": "47s"
+    },
+    "model_returned": "HCX-007",
+    "status": "ok",
+    "elapsed_sec": 1.9228723999999928,
+    "finished_at_ms": 1790344128592,
+    "service_sec": 1.923
+  },
+  {
+    "number": 6,
+    "role": "judge",
+    "provider": "hcx",
+    "started_at": "2026-09-25T13:49:52.040Z",
+    "usage": {
+      "prompt_tokens": 1124,
+      "completion_tokens": 101,
+      "total_tokens": 1225
+    },
+    "reserved_tokens": 0,
+    "queue_wait_sec": 0.000004599999985657632,
+    "sent_at_ms": 1790344192040,
+    "http_status": 200,
+    "rate_limit": {
+      "x-ratelimit-limit-requests": "60",
+      "x-ratelimit-limit-tokens": "60000",
+      "x-ratelimit-remaining-requests": "46",
+      "x-ratelimit-remaining-tokens": "30345",
+      "x-ratelimit-reset-requests": "43s",
+      "x-ratelimit-reset-tokens": "43s"
+    },
+    "model_returned": "HCX-007",
+    "status": "ok",
+    "elapsed_sec": 1.9512344000000157,
+    "finished_at_ms": 1790344193992,
+    "service_sec": 1.952
+  }
+]

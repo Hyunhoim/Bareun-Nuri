@@ -1,0 +1,24 @@
+{
+  "kind": "static_data_audit_not_model_evaluation",
+  "original_gold_rows_preserved": 2000,
+  "original_input_rows_preserved": 2000,
+  "original_operating_source_hashes_preserved": 18,
+  "added_rows": 240,
+  "added_pairs": 24,
+  "added_ads": 120,
+  "added_normal": 120,
+  "added_primary_ad_counts": {
+    "PLAIN": 24,
+    "HOMOGLYPH": 24,
+    "JAMO": 24,
+    "TRANSPARENT": 24,
+    "OFFSCREEN": 24
+  },
+  "local_link_references_resolved": 1269,
+  "added_inline_and_ancestor_styles_match_gold": true,
+  "quarantined_sources_used_as_gold": false,
+  "browser_render_validation": false,
+  "model_calls": 0,
+  "training_runs": 0,
+  "evaluation_runs": 0
+}

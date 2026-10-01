@@ -1,0 +1,882 @@
+[
+  {
+    "node_id": "n_6ab567a61233ce78",
+    "scenario": "health-prevention",
+    "variant": 0,
+    "layout": "quotation",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [],
+    "techniques": []
+  },
+  {
+    "node_id": "n_95700c32c14ba5cb",
+    "scenario": "attribution",
+    "variant": 1,
+    "layout": "separate-panel",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [
+      "HOMOGLYPH"
+    ]
+  },
+  {
+    "node_id": "n_1f618d85b9a70960",
+    "scenario": "direct",
+    "variant": 2,
+    "layout": "body",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [
+      "JAMO"
+    ]
+  },
+  {
+    "node_id": "n_3ee0f60edb9c2c7f",
+    "scenario": "author",
+    "variant": 3,
+    "layout": "author",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [
+      "TRANSPARENT"
+    ]
+  },
+  {
+    "node_id": "n_408482e0ee69932f",
+    "scenario": "direct",
+    "variant": 4,
+    "layout": "body",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [
+      "OFFSCREEN"
+    ]
+  },
+  {
+    "node_id": "n_b6be4ad6560df1c9",
+    "scenario": "context-link",
+    "variant": 0,
+    "layout": "link",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [],
+    "techniques": []
+  },
+  {
+    "node_id": "n_068c2ee2d22cf9d4",
+    "scenario": "context-link",
+    "variant": 1,
+    "layout": "link",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [
+      "HOMOGLYPH"
+    ]
+  },
+  {
+    "node_id": "n_c563344c4540cd06",
+    "scenario": "report",
+    "variant": 2,
+    "layout": "plain-quotation",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_8ef9fbcd5031aae3",
+    "scenario": "normal-author",
+    "variant": 3,
+    "layout": "author",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_63115779fb3a4116",
+    "scenario": "indirect",
+    "variant": 4,
+    "layout": "body",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [
+      "OFFSCREEN"
+    ]
+  },
+  {
+    "node_id": "n_be32ece9bfa35792",
+    "scenario": "direct",
+    "variant": 0,
+    "layout": "body",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [],
+    "techniques": []
+  },
+  {
+    "node_id": "n_9816847840cd3a02",
+    "scenario": "context-link",
+    "variant": 1,
+    "layout": "link",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [
+      "HOMOGLYPH"
+    ]
+  },
+  {
+    "node_id": "n_b6bb8f8f41bba7d6",
+    "scenario": "research",
+    "variant": 2,
+    "layout": "quotation",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_7d80c6dac1b8361b",
+    "scenario": "audit",
+    "variant": 3,
+    "layout": "plain-quotation",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_859f9aef3c25404c",
+    "scenario": "education",
+    "variant": 4,
+    "layout": "body",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_60a1efbce4f5ef8a",
+    "scenario": "notification",
+    "variant": 0,
+    "layout": "body",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [],
+    "techniques": []
+  },
+  {
+    "node_id": "n_dbae3dc140fcc048",
+    "scenario": "public",
+    "variant": 1,
+    "layout": "body",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_02c2511a772ce944",
+    "scenario": "direct",
+    "variant": 2,
+    "layout": "body",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [
+      "JAMO"
+    ]
+  },
+  {
+    "node_id": "n_e2f0485a58f25b5c",
+    "scenario": "public-link",
+    "variant": 3,
+    "layout": "link",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_3b06e07c7a1c5836",
+    "scenario": "insufficient",
+    "variant": 4,
+    "layout": "comment",
+    "is_ad": null,
+    "expected_review": true,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_5721bb1e08186770",
+    "scenario": "exhibition",
+    "variant": 0,
+    "layout": "plain-quotation",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [],
+    "techniques": []
+  },
+  {
+    "node_id": "n_890c058c1211e2aa",
+    "scenario": "attribution",
+    "variant": 1,
+    "layout": "separate-panel",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [
+      "HOMOGLYPH"
+    ]
+  },
+  {
+    "node_id": "n_eb1183fcd5290705",
+    "scenario": "attribution",
+    "variant": 2,
+    "layout": "separate-comment",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [
+      "JAMO"
+    ]
+  },
+  {
+    "node_id": "n_cd5bd299c2d9226f",
+    "scenario": "insufficient",
+    "variant": 3,
+    "layout": "link",
+    "is_ad": null,
+    "expected_review": true,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_cc8198b6bfaa8f26",
+    "scenario": "insufficient",
+    "variant": 4,
+    "layout": "body",
+    "is_ad": null,
+    "expected_review": true,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_297861518e8a6c58",
+    "scenario": "quotation-with-promotion",
+    "variant": 0,
+    "layout": "body",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [],
+    "techniques": []
+  },
+  {
+    "node_id": "n_1efc9a50ee83885b",
+    "scenario": "public",
+    "variant": 1,
+    "layout": "body",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_eaa402f238d509a3",
+    "scenario": "text-education",
+    "variant": 2,
+    "layout": "body",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_dc5262dbb410e48d",
+    "scenario": "prevention",
+    "variant": 3,
+    "layout": "quotation",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_592e295468fa9982",
+    "scenario": "insufficient",
+    "variant": 4,
+    "layout": "body",
+    "is_ad": null,
+    "expected_review": true,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_62c85409f129c281",
+    "scenario": "warning-with-promotion",
+    "variant": 0,
+    "layout": "body",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [],
+    "techniques": []
+  },
+  {
+    "node_id": "n_2e1e244f3579b394",
+    "scenario": "refutation",
+    "variant": 1,
+    "layout": "quotation",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_dc39f41ddfa52e55",
+    "scenario": "insufficient",
+    "variant": 2,
+    "layout": "author",
+    "is_ad": null,
+    "expected_review": true,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_7883957b6da3fb2f",
+    "scenario": "warning-with-promotion",
+    "variant": 3,
+    "layout": "body",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [
+      "TRANSPARENT"
+    ]
+  },
+  {
+    "node_id": "n_39713fc539cb515b",
+    "scenario": "neighbor-normal",
+    "variant": 4,
+    "layout": "separate-comment",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_472aa952bf77de25",
+    "scenario": "direct",
+    "variant": 0,
+    "layout": "body",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [],
+    "techniques": []
+  },
+  {
+    "node_id": "n_0d0a42a1a91ba905",
+    "scenario": "insufficient",
+    "variant": 1,
+    "layout": "title",
+    "is_ad": null,
+    "expected_review": true,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_3f26a811008e2f4a",
+    "scenario": "context-link",
+    "variant": 2,
+    "layout": "link",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [
+      "JAMO"
+    ]
+  },
+  {
+    "node_id": "n_fa9b0140a9eb7ffe",
+    "scenario": "question-answer",
+    "variant": 3,
+    "layout": "plain-quotation",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_1f1ac3d6e4074d96",
+    "scenario": "neighbor-report",
+    "variant": 4,
+    "layout": "separate-comment",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_8730fd2b9e155a8a",
+    "scenario": "public-link",
+    "variant": 0,
+    "layout": "link",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [],
+    "techniques": []
+  },
+  {
+    "node_id": "n_898beb658e47d4c5",
+    "scenario": "official-advice",
+    "variant": 1,
+    "layout": "body",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_bffc047726243c5e",
+    "scenario": "exam-training",
+    "variant": 2,
+    "layout": "quotation",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_d056d65d3d58b7e5",
+    "scenario": "neighbor-normal",
+    "variant": 3,
+    "layout": "separate-panel",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_8c2150b6cbce3fc5",
+    "scenario": "counseling",
+    "variant": 4,
+    "layout": "quotation",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_a73eff521e685ecf",
+    "scenario": "title",
+    "variant": 0,
+    "layout": "title",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [],
+    "techniques": []
+  },
+  {
+    "node_id": "n_61f323bf082fd5ef",
+    "scenario": "text-education",
+    "variant": 1,
+    "layout": "body",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_3f66ecbd956bf987",
+    "scenario": "insufficient",
+    "variant": 2,
+    "layout": "body",
+    "is_ad": null,
+    "expected_review": true,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_47f0c9305f7eebee",
+    "scenario": "direct",
+    "variant": 3,
+    "layout": "body",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [
+      "TRANSPARENT"
+    ]
+  },
+  {
+    "node_id": "n_49535e8609cea01a",
+    "scenario": "title",
+    "variant": 4,
+    "layout": "title",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [
+      "OFFSCREEN"
+    ]
+  },
+  {
+    "node_id": "n_c2324ecaddb347ff",
+    "scenario": "enforcement",
+    "variant": 0,
+    "layout": "plain-quotation",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [],
+    "techniques": []
+  },
+  {
+    "node_id": "n_10575508b2de99e6",
+    "scenario": "context-link",
+    "variant": 1,
+    "layout": "link",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [
+      "HOMOGLYPH"
+    ]
+  },
+  {
+    "node_id": "n_b8f028b87fd5f002",
+    "scenario": "direct",
+    "variant": 2,
+    "layout": "body",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [
+      "JAMO"
+    ]
+  },
+  {
+    "node_id": "n_57fef0b447205b4e",
+    "scenario": "archive-title",
+    "variant": 3,
+    "layout": "title",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_7ae1d876731ecae6",
+    "scenario": "warning-with-promotion",
+    "variant": 4,
+    "layout": "body",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [
+      "OFFSCREEN"
+    ]
+  },
+  {
+    "node_id": "n_9ac1a7421a8bee38",
+    "scenario": "indirect",
+    "variant": 0,
+    "layout": "body",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [],
+    "techniques": []
+  },
+  {
+    "node_id": "n_0edaac2fc1824c56",
+    "scenario": "document-training",
+    "variant": 1,
+    "layout": "plain-quotation",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_977c4ab62a1e059e",
+    "scenario": "official",
+    "variant": 2,
+    "layout": "body",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_1eb0a49492b9f5e4",
+    "scenario": "insufficient",
+    "variant": 3,
+    "layout": "link",
+    "is_ad": null,
+    "expected_review": true,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_1782372748e205ec",
+    "scenario": "discussion",
+    "variant": 4,
+    "layout": "plain-quotation",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_478851f6f4fec3b6",
+    "scenario": "context-link",
+    "variant": 0,
+    "layout": "link",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [],
+    "techniques": []
+  },
+  {
+    "node_id": "n_4fb5a98cd22a4727",
+    "scenario": "attribution",
+    "variant": 1,
+    "layout": "separate-comment",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [
+      "HOMOGLYPH"
+    ]
+  },
+  {
+    "node_id": "n_e96932935e372374",
+    "scenario": "accessibility",
+    "variant": 2,
+    "layout": "body",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_55e2d9ed94eab8aa",
+    "scenario": "quotation-with-promotion",
+    "variant": 3,
+    "layout": "body",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [
+      "TRANSPARENT"
+    ]
+  },
+  {
+    "node_id": "n_b04e8c02e1a2d7ab",
+    "scenario": "direct",
+    "variant": 4,
+    "layout": "body",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [
+      "OFFSCREEN"
+    ]
+  },
+  {
+    "node_id": "n_5e7117d7459d8a35",
+    "scenario": "news",
+    "variant": 0,
+    "layout": "quotation",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [],
+    "techniques": []
+  },
+  {
+    "node_id": "n_a0d66e80ef83f5bc",
+    "scenario": "context-link",
+    "variant": 1,
+    "layout": "link",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [
+      "HOMOGLYPH"
+    ]
+  },
+  {
+    "node_id": "n_70e2cc3890ff3a10",
+    "scenario": "report",
+    "variant": 2,
+    "layout": "comment",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_f2780753262819b2",
+    "scenario": "context-link",
+    "variant": 3,
+    "layout": "link",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [
+      "TRANSPARENT"
+    ]
+  },
+  {
+    "node_id": "n_2e230555cbefa2c7",
+    "scenario": "warning-with-promotion",
+    "variant": 4,
+    "layout": "body",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [
+      "OFFSCREEN"
+    ]
+  },
+  {
+    "node_id": "n_3922a61d577ce24f",
+    "scenario": "author",
+    "variant": 0,
+    "layout": "author",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [],
+    "techniques": []
+  },
+  {
+    "node_id": "n_f8558bcf6fcaa976",
+    "scenario": "accessibility",
+    "variant": 1,
+    "layout": "body",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": []
+  }
+]

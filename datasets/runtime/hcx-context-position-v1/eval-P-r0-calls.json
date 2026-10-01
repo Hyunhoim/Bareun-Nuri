@@ -1,0 +1,30 @@
+[
+  {
+    "number": 1,
+    "role": "judge",
+    "provider": "hcx",
+    "started_at": "2026-09-27T18:32:43.691Z",
+    "usage": {
+      "prompt_tokens": 2908,
+      "completion_tokens": 288,
+      "total_tokens": 3196
+    },
+    "reserved_tokens": 0,
+    "queue_wait_sec": 0.000009700000000520958,
+    "sent_at_ms": 1790533963691,
+    "http_status": 200,
+    "rate_limit": {
+      "x-ratelimit-limit-requests": "60",
+      "x-ratelimit-limit-tokens": "60000",
+      "x-ratelimit-remaining-requests": "56",
+      "x-ratelimit-remaining-tokens": "46627",
+      "x-ratelimit-reset-requests": "55s",
+      "x-ratelimit-reset-tokens": "54s"
+    },
+    "model_returned": "HCX-007",
+    "status": "ok",
+    "elapsed_sec": 5.4932821,
+    "finished_at_ms": 1790533969184,
+    "service_sec": 5.493
+  }
+]

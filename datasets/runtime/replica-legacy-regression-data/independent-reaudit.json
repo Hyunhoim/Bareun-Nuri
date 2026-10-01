@@ -1,0 +1,18 @@
+{
+  "api_calls": 0,
+  "browser_calls": 0,
+  "holdout_read": false,
+  "hashes_verified": 53,
+  "positions": 615,
+  "known": 604,
+  "ids_in_order": true,
+  "common_runner_score": {
+    "tp": 38,
+    "fp": 14,
+    "fn": 5,
+    "f1": 0.8,
+    "observer_tech_total": 80
+  },
+  "manifest_sha256": "eac610d954aa19656c4c81dfb36f89f542c49a5b2074301153611e5b44b77da9",
+  "note": "Existing diagnostic regression, not new holdout; 535 extra rows have no technique gold."
+}

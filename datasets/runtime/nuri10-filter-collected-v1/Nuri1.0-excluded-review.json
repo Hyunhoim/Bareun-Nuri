@@ -1,0 +1,134 @@
+[
+  {
+    "id": "c12b6f704b2a8e0f1160a115",
+    "panel": "replica",
+    "url": "http://127.0.0.1:19160/member/login?referUrl=https://www.busan.go.kr/siminopen/index",
+    "selector": "html > body > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > h6:nth-of-type(1)",
+    "node_id": "n_a3fb47beff99f808",
+    "area": "heading",
+    "raw": "제5조(이용계약의 성립)",
+    "input": {
+      "target": "제5조(이용계약의 성립)",
+      "context": "로그인 : 부산광역시\n뒤 문맥: 이용계약은 이용자의 이용 신청과 이에 대한 부산시의 승낙으로 성립됩니다.\n뒤 문맥: 제6조(이용신청)\n뒤 문맥: 이용신청은 서비스 화면에서 이용자가 부산시에서 요구하는 신청서 양식에 개인의 신상정보를 기록하여 신청할 수 있습니다."
+    },
+    "label": null,
+    "techniques": [],
+    "label_source": "unknown",
+    "scores": [
+      0.00023188613704405725,
+      0.0003754712815862149,
+      0.9990416169166565,
+      0.00035096873762086034
+    ]
+  },
+  {
+    "id": "7c93cc2ca0a35ff55e349ae1",
+    "panel": "replica",
+    "url": "http://127.0.0.1:19160/siminopen/siminthink01/1754929?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+    "selector": "p#r5b7dc046d6906eb552",
+    "node_id": "n_6ae79cada39733a6",
+    "area": "article",
+    "raw": "ACCESS 화면 낭독기에서 공연 날짜를 알리는 접근성 보조 설명입니다.",
+    "input": {
+      "target": "ACCESS 화면 낭독기에서 공연 날짜를 알리는 접근성 보조 설명입니다.",
+      "context": "시민생각 - 부산 전통시장 개선 정책 제안"
+    },
+    "label": 2,
+    "techniques": [],
+    "label_source": "controlled64",
+    "scores": [
+      0.0002710566041059792,
+      0.00033863630960695446,
+      0.9990025162696838,
+      0.00038781733019277453
+    ]
+  },
+  {
+    "id": "c14393a657f3ac021f4b2243",
+    "panel": "replica",
+    "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753828?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+    "selector": "html > body > div:nth-of-type(2) > div:nth-of-type(1) > div > div > ul > li:nth-of-type(1) > a",
+    "node_id": "n_d9aff386a8657f1d",
+    "area": "other",
+    "raw": "프린트",
+    "input": {
+      "target": "프린트",
+      "context": "시민생각 - 부산 연안 폐어구 지역순환관리체계 구축을 제안합니다.\n뒤 문맥: 북마크\n뒤 문맥: 현재 본문 위치 :\n뒤 문맥: 홈"
+    },
+    "label": null,
+    "techniques": [],
+    "label_source": "unknown",
+    "scores": [
+      0.00036121640005148947,
+      0.00030622302438132465,
+      0.9990002512931824,
+      0.0003323537821415812
+    ]
+  },
+  {
+    "id": "e6a866cbf48a04401f6a4233",
+    "panel": "replica",
+    "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753828?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+    "selector": "html > body > div:nth-of-type(2) > main > div > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2)",
+    "node_id": "n_6293cc6b77c0664e",
+    "area": "other",
+    "raw": "\n\t\t\t\t\t\t2026-09-16 ~\n\t\t\t\t\t\t\t2026-10-16",
+    "input": {
+      "target": "\n\t\t\t\t\t\t2026-09-16 ~\n\t\t\t\t\t\t\t2026-10-16",
+      "context": "시민생각 - 부산 연안 폐어구 지역순환관리체계 구축을 제안합니다.\n앞 문맥: 참여기간"
+    },
+    "label": null,
+    "techniques": [],
+    "label_source": "unknown",
+    "scores": [
+      0.00035601312993094325,
+      0.0003122645430266857,
+      0.999016523361206,
+      0.00031522641074843705
+    ]
+  },
+  {
+    "id": "da5c08c8173fb59da2d1945f",
+    "panel": "replica",
+    "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753828?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+    "selector": "html > body > div:nth-of-type(2) > main > div > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > span",
+    "node_id": "n_11e66a4668c8c53b",
+    "area": "other",
+    "raw": "작성자",
+    "input": {
+      "target": "작성자",
+      "context": "시민생각 - 부산 연안 폐어구 지역순환관리체계 구축을 제안합니다.\n뒤 문맥: \n\t\t\t\t\t\t\t김**"
+    },
+    "label": null,
+    "techniques": [],
+    "label_source": "unknown",
+    "scores": [
+      0.000255994702456519,
+      0.00034015075652860105,
+      0.9990167617797852,
+      0.0003870174114126712
+    ]
+  },
+  {
+    "id": "c60aecacd8effb5fabaad457",
+    "panel": "replica",
+    "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753828?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+    "selector": "html > body > div:nth-of-type(2) > main > div > div:nth-of-type(1) > div:nth-of-type(5) > p > span:nth-of-type(2)",
+    "node_id": "n_94b8d4c547eb734b",
+    "area": "other",
+    "raw": "\n\t\t\t\t\t\t\t2026-09-16 ~\n\t\t\t\t\t\t\t\t2026-10-16",
+    "input": {
+      "target": "\n\t\t\t\t\t\t\t2026-09-16 ~\n\t\t\t\t\t\t\t\t2026-10-16",
+      "context": "시민생각 - 부산 연안 폐어구 지역순환관리체계 구축을 제안합니다.\n앞 문맥: 참여기간"
+    },
+    "label": null,
+    "techniques": [],
+    "label_source": "unknown",
+    "scores": [
+      0.0003560129553079605,
+      0.0003122645430266857,
+      0.999016523361206,
+      0.00031522641074843705
+    ]
+  }
+]

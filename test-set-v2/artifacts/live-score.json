@@ -1,0 +1,1705 @@
+{
+  "dataset_version": "2.0.0-dev",
+  "dataset_sha256": "0aced96f99d46c2a69742d9e35efbb184a921639b49b2aed720e25a51549946a",
+  "split": "advanced",
+  "submitted": 169,
+  "tp": 108,
+  "fp": 61,
+  "fn": 52,
+  "invalid": 0,
+  "duplicates": 0,
+  "precision": 0.6390532544378699,
+  "recall": 0.675,
+  "f1": 0.6565349544072948,
+  "precision_including_invalid": 0.6390532544378699,
+  "complete_positive_elements": 84,
+  "positive_elements": 120,
+  "known_negative_elements_flagged": 37,
+  "known_negative_elements": 180,
+  "known_negative_false_positive_rate": 0.20555555555555555,
+  "evidence_mismatches": 0,
+  "elapsed_sec_reported": 2003.207,
+  "time_limit_exceeded": true,
+  "timing_note": "Self-reported only. Measure actual end-to-end time in the agent runner. No official point formula is available.",
+  "per_technique": {
+    "HOMOGLYPH": {
+      "tp": 30,
+      "fp": 22,
+      "fn": 10,
+      "precision": 0.5769230769230769,
+      "recall": 0.75
+    },
+    "JAMO": {
+      "tp": 27,
+      "fp": 10,
+      "fn": 13,
+      "precision": 0.7297297297297297,
+      "recall": 0.675
+    },
+    "TRANSPARENT": {
+      "tp": 22,
+      "fp": 29,
+      "fn": 18,
+      "precision": 0.43137254901960786,
+      "recall": 0.55
+    },
+    "OFFSCREEN": {
+      "tp": 29,
+      "fp": 0,
+      "fn": 11,
+      "precision": 1,
+      "recall": 0.725
+    }
+  },
+  "missing": [
+    {
+      "case_id": "advanced-009",
+      "page": "/advanced/board/view?board=free&id=2765",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "case_id": "advanced-011",
+      "page": "/advanced/board/view?board=free&id=2947",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "case_id": "advanced-012",
+      "page": "/advanced/board/view?board=free&id=2660",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "case_id": "advanced-015",
+      "page": "/advanced/board/view?board=free&id=2534",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "case_id": "advanced-019",
+      "page": "/advanced/board/view?board=free&id=3003",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "case_id": "advanced-038",
+      "page": "/advanced/board/view?board=free&id=2877",
+      "technique": "JAMO"
+    },
+    {
+      "case_id": "advanced-039",
+      "page": "/advanced/board/view?board=free&id=2877",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "case_id": "advanced-044",
+      "page": "/advanced/board/view?board=free&id=2408",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "case_id": "advanced-051",
+      "page": "/advanced/board/view?board=free&id=2870",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "case_id": "advanced-052",
+      "page": "/advanced/board/view?board=free&id=2730",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "case_id": "advanced-055",
+      "page": "/advanced/board/view?board=free&id=2870",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "case_id": "advanced-057",
+      "page": "/advanced/board/view?board=free&id=2877",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "case_id": "advanced-067",
+      "page": "/advanced/board/view?board=free&id=2520",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "case_id": "advanced-070",
+      "page": "/advanced/board/view?board=free&id=3010",
+      "technique": "JAMO"
+    },
+    {
+      "case_id": "advanced-071",
+      "page": "/advanced/board/view?board=free&id=2443",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "case_id": "advanced-073",
+      "page": "/advanced/board/view?board=free&id=2422",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "case_id": "advanced-076",
+      "page": "/advanced/board/view?board=free&id=2590",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "case_id": "advanced-079",
+      "page": "/advanced/board/view?board=free&id=2940",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "case_id": "advanced-080",
+      "page": "/advanced/board/view?board=free&id=2835",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "case_id": "advanced-083",
+      "page": "/advanced/board/view?board=free&id=2793",
+      "technique": "JAMO"
+    },
+    {
+      "case_id": "advanced-083",
+      "page": "/advanced/board/view?board=free&id=2793",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "case_id": "advanced-085",
+      "page": "/advanced/board/view?board=free&id=2919",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "case_id": "advanced-085",
+      "page": "/advanced/board/view?board=free&id=2919",
+      "technique": "JAMO"
+    },
+    {
+      "case_id": "advanced-087",
+      "page": "/advanced/board/view?board=free&id=3003",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "case_id": "advanced-087",
+      "page": "/advanced/board/view?board=free&id=3003",
+      "technique": "JAMO"
+    },
+    {
+      "case_id": "advanced-088",
+      "page": "/advanced/board/view?board=free&id=2597",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "case_id": "advanced-088",
+      "page": "/advanced/board/view?board=free&id=2597",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "case_id": "advanced-089",
+      "page": "/advanced/board/view?board=free&id=2737",
+      "technique": "JAMO"
+    },
+    {
+      "case_id": "advanced-089",
+      "page": "/advanced/board/view?board=free&id=2737",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "case_id": "advanced-091",
+      "page": "/advanced/board/view?board=free&id=2695",
+      "technique": "JAMO"
+    },
+    {
+      "case_id": "advanced-091",
+      "page": "/advanced/board/view?board=free&id=2695",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "case_id": "advanced-093",
+      "page": "/advanced/board/view?board=free&id=3017",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "case_id": "advanced-094",
+      "page": "/advanced/board/view?board=free&id=2870",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "case_id": "advanced-094",
+      "page": "/advanced/board/view?board=free&id=2870",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "case_id": "advanced-095",
+      "page": "/advanced/board/view?board=free&id=2408",
+      "technique": "JAMO"
+    },
+    {
+      "case_id": "advanced-095",
+      "page": "/advanced/board/view?board=free&id=2408",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "case_id": "advanced-096",
+      "page": "/advanced/board/view?board=free&id=2835",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "case_id": "advanced-096",
+      "page": "/advanced/board/view?board=free&id=2835",
+      "technique": "JAMO"
+    },
+    {
+      "case_id": "advanced-099",
+      "page": "/advanced/board/view?board=free&id=2975",
+      "technique": "JAMO"
+    },
+    {
+      "case_id": "advanced-099",
+      "page": "/advanced/board/view?board=free&id=2975",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "case_id": "advanced-105",
+      "page": "/advanced/board/view?board=free&id=2744",
+      "technique": "JAMO"
+    },
+    {
+      "case_id": "advanced-105",
+      "page": "/advanced/board/view?board=free&id=2744",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "case_id": "advanced-107",
+      "page": "/advanced/board/view?board=free&id=2674",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "case_id": "advanced-107",
+      "page": "/advanced/board/view?board=free&id=2674",
+      "technique": "JAMO"
+    },
+    {
+      "case_id": "advanced-111",
+      "page": "/advanced/board/view?board=free&id=2415",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "case_id": "advanced-111",
+      "page": "/advanced/board/view?board=free&id=2415",
+      "technique": "OFFSCREEN"
+    },
+    {
+      "case_id": "advanced-113",
+      "page": "/advanced/board/view?board=free&id=2821",
+      "technique": "JAMO"
+    },
+    {
+      "case_id": "advanced-113",
+      "page": "/advanced/board/view?board=free&id=2821",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "case_id": "advanced-115",
+      "page": "/advanced/board/view?board=free&id=2611",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "case_id": "advanced-115",
+      "page": "/advanced/board/view?board=free&id=2611",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "case_id": "advanced-120",
+      "page": "/advanced/board/view?board=free&id=2485",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "case_id": "advanced-120",
+      "page": "/advanced/board/view?board=free&id=2485",
+      "technique": "TRANSPARENT"
+    }
+  ],
+  "details": [
+    {
+      "index": 0,
+      "id": "f_0001",
+      "status": "fp",
+      "case_id": "advanced-127",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "index": 1,
+      "id": "f_0002",
+      "status": "tp",
+      "case_id": "advanced-110",
+      "technique": "HOMOGLYPH",
+      "evidence_exact": true
+    },
+    {
+      "index": 2,
+      "id": "f_0003",
+      "status": "tp",
+      "case_id": "advanced-110",
+      "technique": "TRANSPARENT",
+      "evidence_exact": true
+    },
+    {
+      "index": 3,
+      "id": "f_0004",
+      "status": "fp",
+      "case_id": "advanced-177",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "index": 4,
+      "id": "f_0005",
+      "status": "fp",
+      "case_id": null,
+      "technique": "TRANSPARENT"
+    },
+    {
+      "index": 5,
+      "id": "f_0006",
+      "status": "fp",
+      "case_id": "advanced-191",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "index": 6,
+      "id": "f_0007",
+      "status": "tp",
+      "case_id": "advanced-041",
+      "technique": "HOMOGLYPH",
+      "evidence_exact": true
+    },
+    {
+      "index": 7,
+      "id": "f_0008",
+      "status": "tp",
+      "case_id": "advanced-082",
+      "technique": "TRANSPARENT",
+      "evidence_exact": true
+    },
+    {
+      "index": 8,
+      "id": "f_0009",
+      "status": "tp",
+      "case_id": "advanced-082",
+      "technique": "OFFSCREEN",
+      "evidence_exact": true
+    },
+    {
+      "index": 9,
+      "id": "f_0010",
+      "status": "tp",
+      "case_id": "advanced-117",
+      "technique": "TRANSPARENT",
+      "evidence_exact": true
+    },
+    {
+      "index": 10,
+      "id": "f_0011",
+      "status": "tp",
+      "case_id": "advanced-117",
+      "technique": "OFFSCREEN",
+      "evidence_exact": true
+    },
+    {
+      "index": 11,
+      "id": "f_0012",
+      "status": "tp",
+      "case_id": "advanced-063",
+      "technique": "TRANSPARENT",
+      "evidence_exact": true
+    },
+    {
+      "index": 12,
+      "id": "f_0013",
+      "status": "tp",
+      "case_id": "advanced-022",
+      "technique": "JAMO",
+      "evidence_exact": true
+    },
+    {
+      "index": 13,
+      "id": "f_0014",
+      "status": "tp",
+      "case_id": "advanced-112",
+      "technique": "HOMOGLYPH",
+      "evidence_exact": true
+    },
+    {
+      "index": 14,
+      "id": "f_0015",
+      "status": "tp",
+      "case_id": "advanced-112",
+      "technique": "TRANSPARENT",
+      "evidence_exact": true
+    },
+    {
+      "index": 15,
+      "id": "f_0016",
+      "status": "fp",
+      "case_id": "advanced-175",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "index": 16,
+      "id": "f_0017",
+      "status": "tp",
+      "case_id": "advanced-081",
+      "technique": "HOMOGLYPH",
+      "evidence_exact": true
+    },
+    {
+      "index": 17,
+      "id": "f_0018",
+      "status": "tp",
+      "case_id": "advanced-081",
+      "technique": "OFFSCREEN",
+      "evidence_exact": true
+    },
+    {
+      "index": 18,
+      "id": "f_0019",
+      "status": "tp",
+      "case_id": "advanced-109",
+      "technique": "TRANSPARENT",
+      "evidence_exact": true
+    },
+    {
+      "index": 19,
+      "id": "f_0020",
+      "status": "tp",
+      "case_id": "advanced-109",
+      "technique": "OFFSCREEN",
+      "evidence_exact": true
+    },
+    {
+      "index": 20,
+      "id": "f_0021",
+      "status": "tp",
+      "case_id": "advanced-046",
+      "technique": "JAMO",
+      "evidence_exact": true
+    },
+    {
+      "index": 21,
+      "id": "f_0022",
+      "status": "fp",
+      "case_id": "advanced-149",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "index": 22,
+      "id": "f_0023",
+      "status": "fp",
+      "case_id": "advanced-145",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "index": 23,
+      "id": "f_0024",
+      "status": "tp",
+      "case_id": "advanced-033",
+      "technique": "HOMOGLYPH",
+      "evidence_exact": true
+    },
+    {
+      "index": 24,
+      "id": "f_0025",
+      "status": "tp",
+      "case_id": "advanced-032",
+      "technique": "OFFSCREEN",
+      "evidence_exact": true
+    },
+    {
+      "index": 25,
+      "id": "f_0026",
+      "status": "tp",
+      "case_id": "advanced-031",
+      "technique": "TRANSPARENT",
+      "evidence_exact": true
+    },
+    {
+      "index": 26,
+      "id": "f_0027",
+      "status": "tp",
+      "case_id": "advanced-035",
+      "technique": "TRANSPARENT",
+      "evidence_exact": true
+    },
+    {
+      "index": 27,
+      "id": "f_0028",
+      "status": "tp",
+      "case_id": "advanced-047",
+      "technique": "TRANSPARENT",
+      "evidence_exact": true
+    },
+    {
+      "index": 28,
+      "id": "f_0029",
+      "status": "tp",
+      "case_id": "advanced-061",
+      "technique": "HOMOGLYPH",
+      "evidence_exact": true
+    },
+    {
+      "index": 29,
+      "id": "f_0030",
+      "status": "fp",
+      "case_id": "advanced-189",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "index": 30,
+      "id": "f_0031",
+      "status": "tp",
+      "case_id": "advanced-002",
+      "technique": "JAMO",
+      "evidence_exact": true
+    },
+    {
+      "index": 31,
+      "id": "f_0032",
+      "status": "tp",
+      "case_id": "advanced-084",
+      "technique": "HOMOGLYPH",
+      "evidence_exact": true
+    },
+    {
+      "index": 32,
+      "id": "f_0033",
+      "status": "tp",
+      "case_id": "advanced-084",
+      "technique": "TRANSPARENT",
+      "evidence_exact": true
+    },
+    {
+      "index": 33,
+      "id": "f_0034",
+      "status": "fp",
+      "case_id": "advanced-171",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "index": 34,
+      "id": "f_0035",
+      "status": "tp",
+      "case_id": "advanced-018",
+      "technique": "JAMO",
+      "evidence_exact": true
+    },
+    {
+      "index": 35,
+      "id": "f_0036",
+      "status": "tp",
+      "case_id": "advanced-017",
+      "technique": "HOMOGLYPH",
+      "evidence_exact": true
+    },
+    {
+      "index": 36,
+      "id": "f_0037",
+      "status": "tp",
+      "case_id": "advanced-114",
+      "technique": "JAMO",
+      "evidence_exact": true
+    },
+    {
+      "index": 37,
+      "id": "f_0038",
+      "status": "tp",
+      "case_id": "advanced-114",
+      "technique": "OFFSCREEN",
+      "evidence_exact": true
+    },
+    {
+      "index": 38,
+      "id": "f_0039",
+      "status": "tp",
+      "case_id": "advanced-078",
+      "technique": "JAMO",
+      "evidence_exact": true
+    },
+    {
+      "index": 39,
+      "id": "f_0040",
+      "status": "tp",
+      "case_id": "advanced-001",
+      "technique": "HOMOGLYPH",
+      "evidence_exact": true
+    },
+    {
+      "index": 40,
+      "id": "f_0041",
+      "status": "tp",
+      "case_id": "advanced-116",
+      "technique": "HOMOGLYPH",
+      "evidence_exact": true
+    },
+    {
+      "index": 41,
+      "id": "f_0042",
+      "status": "tp",
+      "case_id": "advanced-116",
+      "technique": "JAMO",
+      "evidence_exact": true
+    },
+    {
+      "index": 42,
+      "id": "f_0043",
+      "status": "tp",
+      "case_id": "advanced-006",
+      "technique": "JAMO",
+      "evidence_exact": true
+    },
+    {
+      "index": 43,
+      "id": "f_0044",
+      "status": "fp",
+      "case_id": null,
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "index": 44,
+      "id": "f_0045",
+      "status": "fp",
+      "case_id": "advanced-137",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "index": 45,
+      "id": "f_0046",
+      "status": "fp",
+      "case_id": "advanced-169",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "index": 46,
+      "id": "f_0047",
+      "status": "tp",
+      "case_id": "advanced-086",
+      "technique": "TRANSPARENT",
+      "evidence_exact": true
+    },
+    {
+      "index": 47,
+      "id": "f_0048",
+      "status": "tp",
+      "case_id": "advanced-086",
+      "technique": "OFFSCREEN",
+      "evidence_exact": true
+    },
+    {
+      "index": 48,
+      "id": "f_0049",
+      "status": "tp",
+      "case_id": "advanced-004",
+      "technique": "OFFSCREEN",
+      "evidence_exact": true
+    },
+    {
+      "index": 49,
+      "id": "f_0050",
+      "status": "fp",
+      "case_id": "advanced-129",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "index": 50,
+      "id": "f_0051",
+      "status": "tp",
+      "case_id": "advanced-056",
+      "technique": "OFFSCREEN",
+      "evidence_exact": true
+    },
+    {
+      "index": 51,
+      "id": "f_0052",
+      "status": "fp",
+      "case_id": "advanced-197",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "index": 52,
+      "id": "f_0053",
+      "status": "tp",
+      "case_id": "advanced-075",
+      "technique": "TRANSPARENT",
+      "evidence_exact": true
+    },
+    {
+      "index": 53,
+      "id": "f_0054",
+      "status": "tp",
+      "case_id": "advanced-049",
+      "technique": "HOMOGLYPH",
+      "evidence_exact": true
+    },
+    {
+      "index": 54,
+      "id": "f_0055",
+      "status": "fp",
+      "case_id": "advanced-155",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "index": 55,
+      "id": "f_0056",
+      "status": "fp",
+      "case_id": "advanced-139",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "index": 56,
+      "id": "f_0057",
+      "status": "tp",
+      "case_id": "advanced-053",
+      "technique": "HOMOGLYPH",
+      "evidence_exact": true
+    },
+    {
+      "index": 57,
+      "id": "f_0058",
+      "status": "tp",
+      "case_id": "advanced-045",
+      "technique": "HOMOGLYPH",
+      "evidence_exact": true
+    },
+    {
+      "index": 58,
+      "id": "f_0059",
+      "status": "fp",
+      "case_id": null,
+      "technique": "JAMO"
+    },
+    {
+      "index": 59,
+      "id": "f_0060",
+      "status": "fp",
+      "case_id": null,
+      "technique": "TRANSPARENT"
+    },
+    {
+      "index": 60,
+      "id": "f_0061",
+      "status": "fp",
+      "case_id": null,
+      "technique": "JAMO"
+    },
+    {
+      "index": 61,
+      "id": "f_0062",
+      "status": "fp",
+      "case_id": null,
+      "technique": "TRANSPARENT"
+    },
+    {
+      "index": 62,
+      "id": "f_0063",
+      "status": "fp",
+      "case_id": null,
+      "technique": "JAMO"
+    },
+    {
+      "index": 63,
+      "id": "f_0064",
+      "status": "fp",
+      "case_id": null,
+      "technique": "TRANSPARENT"
+    },
+    {
+      "index": 64,
+      "id": "f_0065",
+      "status": "fp",
+      "case_id": null,
+      "technique": "JAMO"
+    },
+    {
+      "index": 65,
+      "id": "f_0066",
+      "status": "fp",
+      "case_id": null,
+      "technique": "TRANSPARENT"
+    },
+    {
+      "index": 66,
+      "id": "f_0067",
+      "status": "fp",
+      "case_id": null,
+      "technique": "JAMO"
+    },
+    {
+      "index": 67,
+      "id": "f_0068",
+      "status": "fp",
+      "case_id": null,
+      "technique": "TRANSPARENT"
+    },
+    {
+      "index": 68,
+      "id": "f_0069",
+      "status": "fp",
+      "case_id": null,
+      "technique": "TRANSPARENT"
+    },
+    {
+      "index": 69,
+      "id": "f_0070",
+      "status": "fp",
+      "case_id": null,
+      "technique": "TRANSPARENT"
+    },
+    {
+      "index": 70,
+      "id": "f_0071",
+      "status": "fp",
+      "case_id": null,
+      "technique": "TRANSPARENT"
+    },
+    {
+      "index": 71,
+      "id": "f_0072",
+      "status": "fp",
+      "case_id": null,
+      "technique": "TRANSPARENT"
+    },
+    {
+      "index": 72,
+      "id": "f_0073",
+      "status": "tp",
+      "case_id": "advanced-069",
+      "technique": "HOMOGLYPH",
+      "evidence_exact": true
+    },
+    {
+      "index": 73,
+      "id": "f_0074",
+      "status": "tp",
+      "case_id": "advanced-013",
+      "technique": "HOMOGLYPH",
+      "evidence_exact": true
+    },
+    {
+      "index": 74,
+      "id": "f_0075",
+      "status": "fp",
+      "case_id": null,
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "index": 75,
+      "id": "f_0076",
+      "status": "fp",
+      "case_id": null,
+      "technique": "JAMO"
+    },
+    {
+      "index": 76,
+      "id": "f_0077",
+      "status": "tp",
+      "case_id": "advanced-100",
+      "technique": "HOMOGLYPH",
+      "evidence_exact": true
+    },
+    {
+      "index": 77,
+      "id": "f_0078",
+      "status": "tp",
+      "case_id": "advanced-100",
+      "technique": "JAMO",
+      "evidence_exact": true
+    },
+    {
+      "index": 78,
+      "id": "f_0079",
+      "status": "tp",
+      "case_id": "advanced-054",
+      "technique": "JAMO",
+      "evidence_exact": true
+    },
+    {
+      "index": 79,
+      "id": "f_0080",
+      "status": "tp",
+      "case_id": "advanced-104",
+      "technique": "HOMOGLYPH",
+      "evidence_exact": true
+    },
+    {
+      "index": 80,
+      "id": "f_0081",
+      "status": "tp",
+      "case_id": "advanced-104",
+      "technique": "OFFSCREEN",
+      "evidence_exact": true
+    },
+    {
+      "index": 81,
+      "id": "f_0082",
+      "status": "fp",
+      "case_id": "advanced-163",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "index": 82,
+      "id": "f_0083",
+      "status": "tp",
+      "case_id": "advanced-026",
+      "technique": "JAMO",
+      "evidence_exact": true
+    },
+    {
+      "index": 83,
+      "id": "f_0084",
+      "status": "fp",
+      "case_id": "advanced-131",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "index": 84,
+      "id": "f_0085",
+      "status": "fp",
+      "case_id": "advanced-147",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "index": 85,
+      "id": "f_0086",
+      "status": "tp",
+      "case_id": "advanced-005",
+      "technique": "HOMOGLYPH",
+      "evidence_exact": true
+    },
+    {
+      "index": 86,
+      "id": "f_0087",
+      "status": "tp",
+      "case_id": "advanced-010",
+      "technique": "JAMO",
+      "evidence_exact": true
+    },
+    {
+      "index": 87,
+      "id": "f_0088",
+      "status": "fp",
+      "case_id": "advanced-183",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "index": 88,
+      "id": "f_0089",
+      "status": "tp",
+      "case_id": "advanced-007",
+      "technique": "TRANSPARENT",
+      "evidence_exact": true
+    },
+    {
+      "index": 89,
+      "id": "f_0090",
+      "status": "tp",
+      "case_id": "advanced-060",
+      "technique": "OFFSCREEN",
+      "evidence_exact": true
+    },
+    {
+      "index": 90,
+      "id": "f_0091",
+      "status": "fp",
+      "case_id": "advanced-187",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "index": 91,
+      "id": "f_0092",
+      "status": "fp",
+      "case_id": "advanced-195",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "index": 92,
+      "id": "f_0093",
+      "status": "tp",
+      "case_id": "advanced-102",
+      "technique": "HOMOGLYPH",
+      "evidence_exact": true
+    },
+    {
+      "index": 93,
+      "id": "f_0094",
+      "status": "tp",
+      "case_id": "advanced-102",
+      "technique": "TRANSPARENT",
+      "evidence_exact": true
+    },
+    {
+      "index": 94,
+      "id": "f_0095",
+      "status": "tp",
+      "case_id": "advanced-008",
+      "technique": "OFFSCREEN",
+      "evidence_exact": true
+    },
+    {
+      "index": 95,
+      "id": "f_0096",
+      "status": "tp",
+      "case_id": "advanced-043",
+      "technique": "TRANSPARENT",
+      "evidence_exact": true
+    },
+    {
+      "index": 96,
+      "id": "f_0097",
+      "status": "tp",
+      "case_id": "advanced-028",
+      "technique": "OFFSCREEN",
+      "evidence_exact": true
+    },
+    {
+      "index": 97,
+      "id": "f_0098",
+      "status": "fp",
+      "case_id": "advanced-185",
+      "technique": "JAMO"
+    },
+    {
+      "index": 98,
+      "id": "f_0099",
+      "status": "tp",
+      "case_id": "advanced-050",
+      "technique": "JAMO",
+      "evidence_exact": true
+    },
+    {
+      "index": 99,
+      "id": "f_0100",
+      "status": "tp",
+      "case_id": "advanced-077",
+      "technique": "HOMOGLYPH",
+      "evidence_exact": true
+    },
+    {
+      "index": 100,
+      "id": "f_0101",
+      "status": "tp",
+      "case_id": "advanced-058",
+      "technique": "JAMO",
+      "evidence_exact": true
+    },
+    {
+      "index": 101,
+      "id": "f_0102",
+      "status": "fp",
+      "case_id": "advanced-193",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "index": 102,
+      "id": "f_0103",
+      "status": "tp",
+      "case_id": "advanced-066",
+      "technique": "JAMO",
+      "evidence_exact": true
+    },
+    {
+      "index": 103,
+      "id": "f_0104",
+      "status": "fp",
+      "case_id": "advanced-143",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "index": 104,
+      "id": "f_0105",
+      "status": "fp",
+      "case_id": "advanced-133",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "index": 105,
+      "id": "f_0106",
+      "status": "fp",
+      "case_id": null,
+      "technique": "JAMO"
+    },
+    {
+      "index": 106,
+      "id": "f_0107",
+      "status": "fp",
+      "case_id": null,
+      "technique": "TRANSPARENT"
+    },
+    {
+      "index": 107,
+      "id": "f_0108",
+      "status": "tp",
+      "case_id": "advanced-106",
+      "technique": "JAMO",
+      "evidence_exact": true
+    },
+    {
+      "index": 108,
+      "id": "f_0109",
+      "status": "tp",
+      "case_id": "advanced-106",
+      "technique": "TRANSPARENT",
+      "evidence_exact": true
+    },
+    {
+      "index": 109,
+      "id": "f_0110",
+      "status": "tp",
+      "case_id": "advanced-040",
+      "technique": "OFFSCREEN",
+      "evidence_exact": true
+    },
+    {
+      "index": 110,
+      "id": "f_0111",
+      "status": "tp",
+      "case_id": "advanced-074",
+      "technique": "JAMO",
+      "evidence_exact": true
+    },
+    {
+      "index": 111,
+      "id": "f_0112",
+      "status": "tp",
+      "case_id": "advanced-030",
+      "technique": "JAMO",
+      "evidence_exact": true
+    },
+    {
+      "index": 112,
+      "id": "f_0113",
+      "status": "fp",
+      "case_id": "advanced-153",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "index": 113,
+      "id": "f_0114",
+      "status": "tp",
+      "case_id": "advanced-020",
+      "technique": "OFFSCREEN",
+      "evidence_exact": true
+    },
+    {
+      "index": 114,
+      "id": "f_0115",
+      "status": "fp",
+      "case_id": "advanced-134",
+      "technique": "JAMO"
+    },
+    {
+      "index": 115,
+      "id": "f_0116",
+      "status": "fp",
+      "case_id": "advanced-161",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "index": 116,
+      "id": "f_0117",
+      "status": "fp",
+      "case_id": null,
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "index": 117,
+      "id": "f_0118",
+      "status": "fp",
+      "case_id": null,
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "index": 118,
+      "id": "f_0119",
+      "status": "tp",
+      "case_id": "advanced-090",
+      "technique": "JAMO",
+      "evidence_exact": true
+    },
+    {
+      "index": 119,
+      "id": "f_0120",
+      "status": "tp",
+      "case_id": "advanced-090",
+      "technique": "OFFSCREEN",
+      "evidence_exact": true
+    },
+    {
+      "index": 120,
+      "id": "f_0121",
+      "status": "tp",
+      "case_id": "advanced-092",
+      "technique": "HOMOGLYPH",
+      "evidence_exact": true
+    },
+    {
+      "index": 121,
+      "id": "f_0122",
+      "status": "tp",
+      "case_id": "advanced-092",
+      "technique": "TRANSPARENT",
+      "evidence_exact": true
+    },
+    {
+      "index": 122,
+      "id": "f_0123",
+      "status": "tp",
+      "case_id": "advanced-059",
+      "technique": "TRANSPARENT",
+      "evidence_exact": true
+    },
+    {
+      "index": 123,
+      "id": "f_0124",
+      "status": "tp",
+      "case_id": "advanced-029",
+      "technique": "HOMOGLYPH",
+      "evidence_exact": true
+    },
+    {
+      "index": 124,
+      "id": "f_0125",
+      "status": "tp",
+      "case_id": "advanced-023",
+      "technique": "TRANSPARENT",
+      "evidence_exact": true
+    },
+    {
+      "index": 125,
+      "id": "f_0126",
+      "status": "tp",
+      "case_id": "advanced-098",
+      "technique": "HOMOGLYPH",
+      "evidence_exact": true
+    },
+    {
+      "index": 126,
+      "id": "f_0127",
+      "status": "tp",
+      "case_id": "advanced-098",
+      "technique": "JAMO",
+      "evidence_exact": true
+    },
+    {
+      "index": 127,
+      "id": "f_0128",
+      "status": "tp",
+      "case_id": "advanced-097",
+      "technique": "JAMO",
+      "evidence_exact": true
+    },
+    {
+      "index": 128,
+      "id": "f_0129",
+      "status": "tp",
+      "case_id": "advanced-097",
+      "technique": "OFFSCREEN",
+      "evidence_exact": true
+    },
+    {
+      "index": 129,
+      "id": "f_0130",
+      "status": "fp",
+      "case_id": "advanced-186",
+      "technique": "JAMO"
+    },
+    {
+      "index": 130,
+      "id": "f_0131",
+      "status": "tp",
+      "case_id": "advanced-042",
+      "technique": "JAMO",
+      "evidence_exact": true
+    },
+    {
+      "index": 131,
+      "id": "f_0132",
+      "status": "tp",
+      "case_id": "advanced-037",
+      "technique": "HOMOGLYPH",
+      "evidence_exact": true
+    },
+    {
+      "index": 132,
+      "id": "f_0133",
+      "status": "tp",
+      "case_id": "advanced-003",
+      "technique": "TRANSPARENT",
+      "evidence_exact": true
+    },
+    {
+      "index": 133,
+      "id": "f_0134",
+      "status": "tp",
+      "case_id": "advanced-064",
+      "technique": "OFFSCREEN",
+      "evidence_exact": true
+    },
+    {
+      "index": 134,
+      "id": "f_0135",
+      "status": "fp",
+      "case_id": "advanced-121",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "index": 135,
+      "id": "f_0136",
+      "status": "tp",
+      "case_id": "advanced-016",
+      "technique": "OFFSCREEN",
+      "evidence_exact": true
+    },
+    {
+      "index": 136,
+      "id": "f_0137",
+      "status": "fp",
+      "case_id": "advanced-179",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "index": 137,
+      "id": "f_0138",
+      "status": "fp",
+      "case_id": "advanced-199",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "index": 138,
+      "id": "f_0139",
+      "status": "fp",
+      "case_id": "advanced-123",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "index": 139,
+      "id": "f_0140",
+      "status": "tp",
+      "case_id": "advanced-118",
+      "technique": "TRANSPARENT",
+      "evidence_exact": true
+    },
+    {
+      "index": 140,
+      "id": "f_0141",
+      "status": "tp",
+      "case_id": "advanced-118",
+      "technique": "OFFSCREEN",
+      "evidence_exact": true
+    },
+    {
+      "index": 141,
+      "id": "f_0142",
+      "status": "tp",
+      "case_id": "advanced-062",
+      "technique": "JAMO",
+      "evidence_exact": true
+    },
+    {
+      "index": 142,
+      "id": "f_0143",
+      "status": "fp",
+      "case_id": "advanced-167",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "index": 143,
+      "id": "f_0144",
+      "status": "tp",
+      "case_id": "advanced-048",
+      "technique": "OFFSCREEN",
+      "evidence_exact": true
+    },
+    {
+      "index": 144,
+      "id": "f_0145",
+      "status": "tp",
+      "case_id": "advanced-024",
+      "technique": "OFFSCREEN",
+      "evidence_exact": true
+    },
+    {
+      "index": 145,
+      "id": "f_0146",
+      "status": "fp",
+      "case_id": "advanced-181",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "index": 146,
+      "id": "f_0147",
+      "status": "tp",
+      "case_id": "advanced-101",
+      "technique": "JAMO",
+      "evidence_exact": true
+    },
+    {
+      "index": 147,
+      "id": "f_0148",
+      "status": "tp",
+      "case_id": "advanced-101",
+      "technique": "OFFSCREEN",
+      "evidence_exact": true
+    },
+    {
+      "index": 148,
+      "id": "f_0149",
+      "status": "tp",
+      "case_id": "advanced-027",
+      "technique": "TRANSPARENT",
+      "evidence_exact": true
+    },
+    {
+      "index": 149,
+      "id": "f_0150",
+      "status": "tp",
+      "case_id": "advanced-025",
+      "technique": "HOMOGLYPH",
+      "evidence_exact": true
+    },
+    {
+      "index": 150,
+      "id": "f_0151",
+      "status": "tp",
+      "case_id": "advanced-103",
+      "technique": "HOMOGLYPH",
+      "evidence_exact": true
+    },
+    {
+      "index": 151,
+      "id": "f_0152",
+      "status": "tp",
+      "case_id": "advanced-103",
+      "technique": "OFFSCREEN",
+      "evidence_exact": true
+    },
+    {
+      "index": 152,
+      "id": "f_0153",
+      "status": "tp",
+      "case_id": "advanced-065",
+      "technique": "HOMOGLYPH",
+      "evidence_exact": true
+    },
+    {
+      "index": 153,
+      "id": "f_0154",
+      "status": "fp",
+      "case_id": "advanced-173",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "index": 154,
+      "id": "f_0155",
+      "status": "fp",
+      "case_id": "advanced-159",
+      "technique": "TRANSPARENT"
+    },
+    {
+      "index": 155,
+      "id": "f_0156",
+      "status": "tp",
+      "case_id": "advanced-014",
+      "technique": "JAMO",
+      "evidence_exact": true
+    },
+    {
+      "index": 156,
+      "id": "f_0157",
+      "status": "tp",
+      "case_id": "advanced-119",
+      "technique": "JAMO",
+      "evidence_exact": true
+    },
+    {
+      "index": 157,
+      "id": "f_0158",
+      "status": "tp",
+      "case_id": "advanced-119",
+      "technique": "OFFSCREEN",
+      "evidence_exact": true
+    },
+    {
+      "index": 158,
+      "id": "f_0159",
+      "status": "tp",
+      "case_id": "advanced-021",
+      "technique": "HOMOGLYPH",
+      "evidence_exact": true
+    },
+    {
+      "index": 159,
+      "id": "f_0160",
+      "status": "tp",
+      "case_id": "advanced-072",
+      "technique": "OFFSCREEN",
+      "evidence_exact": true
+    },
+    {
+      "index": 160,
+      "id": "f_0161",
+      "status": "tp",
+      "case_id": "advanced-068",
+      "technique": "OFFSCREEN",
+      "evidence_exact": true
+    },
+    {
+      "index": 161,
+      "id": "f_0162",
+      "status": "tp",
+      "case_id": "advanced-034",
+      "technique": "JAMO",
+      "evidence_exact": true
+    },
+    {
+      "index": 162,
+      "id": "f_0163",
+      "status": "fp",
+      "case_id": "advanced-157",
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "index": 163,
+      "id": "f_0164",
+      "status": "tp",
+      "case_id": "advanced-036",
+      "technique": "OFFSCREEN",
+      "evidence_exact": true
+    },
+    {
+      "index": 164,
+      "id": "f_0165",
+      "status": "fp",
+      "case_id": null,
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "index": 165,
+      "id": "f_0166",
+      "status": "fp",
+      "case_id": null,
+      "technique": "HOMOGLYPH"
+    },
+    {
+      "index": 166,
+      "id": "f_0167",
+      "status": "tp",
+      "case_id": "advanced-108",
+      "technique": "HOMOGLYPH",
+      "evidence_exact": true
+    },
+    {
+      "index": 167,
+      "id": "f_0168",
+      "status": "tp",
+      "case_id": "advanced-108",
+      "technique": "OFFSCREEN",
+      "evidence_exact": true
+    },
+    {
+      "index": 168,
+      "id": "f_0169",
+      "status": "tp",
+      "case_id": "advanced-093",
+      "technique": "HOMOGLYPH",
+      "evidence_exact": true
+    }
+  ],
+  "per_surface": {
+    "title": {
+      "tp": 22,
+      "fn": 0,
+      "fp_on_labeled_elements": 5,
+      "recall": 1,
+      "known_negative_elements": 24
+    },
+    "body": {
+      "tp": 24,
+      "fn": 18,
+      "fp_on_labeled_elements": 10,
+      "recall": 0.5714285714285714,
+      "known_negative_elements": 48
+    },
+    "comment": {
+      "tp": 14,
+      "fn": 18,
+      "fp_on_labeled_elements": 5,
+      "recall": 0.4375,
+      "known_negative_elements": 36
+    },
+    "reply": {
+      "tp": 16,
+      "fn": 6,
+      "fp_on_labeled_elements": 5,
+      "recall": 0.7272727272727273,
+      "known_negative_elements": 24
+    },
+    "author": {
+      "tp": 8,
+      "fn": 2,
+      "fp_on_labeled_elements": 3,
+      "recall": 0.8,
+      "known_negative_elements": 12
+    },
+    "signature": {
+      "tp": 10,
+      "fn": 0,
+      "fp_on_labeled_elements": 1,
+      "recall": 1,
+      "known_negative_elements": 12
+    },
+    "link": {
+      "tp": 8,
+      "fn": 4,
+      "fp_on_labeled_elements": 5,
+      "recall": 0.6666666666666666,
+      "known_negative_elements": 12
+    },
+    "attachment": {
+      "tp": 6,
+      "fn": 4,
+      "fp_on_labeled_elements": 3,
+      "recall": 0.6,
+      "known_negative_elements": 12
+    }
+  },
+  "per_template": {
+    "community": {
+      "tp": 24,
+      "fn": 10,
+      "fp_on_labeled_elements": 9,
+      "recall": 0.7058823529411765,
+      "known_negative_elements": 30
+    },
+    "notice": {
+      "tp": 24,
+      "fn": 9,
+      "fp_on_labeled_elements": 9,
+      "recall": 0.7272727272727273,
+      "known_negative_elements": 35
+    },
+    "service": {
+      "tp": 26,
+      "fn": 7,
+      "fp_on_labeled_elements": 6,
+      "recall": 0.7878787878787878,
+      "known_negative_elements": 36
+    },
+    "board": {
+      "tp": 22,
+      "fn": 4,
+      "fp_on_labeled_elements": 12,
+      "recall": 0.8461538461538461,
+      "known_negative_elements": 40
+    },
+    "petition": {
+      "tp": 12,
+      "fn": 22,
+      "fp_on_labeled_elements": 1,
+      "recall": 0.35294117647058826,
+      "known_negative_elements": 39
+    }
+  },
+  "note": "Diagnostic synthetic development set. Not an unseen holdout. Surface/template FP counts exclude predictions unmatched to a labeled element; global FP includes them."
+}

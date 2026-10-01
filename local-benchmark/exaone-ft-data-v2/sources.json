@@ -1,0 +1,36 @@
+{
+  "checked_at": "2026-09-29",
+  "sources": [
+    {
+      "id": "busan-question",
+      "url": "https://www.busan.go.kr/minwon/citizenboard01/437675",
+      "type": "citizen_question",
+      "observed_style": "짧은 인사 뒤 지역 현안의 여러 질문을 한 문단에 나열하는 형식",
+      "use": "register only; no copied names or sentences"
+    },
+    {
+      "id": "busan-program",
+      "url": "https://www.busan.go.kr/minwon/citizenboard01/1751581",
+      "type": "organization_recruitment_on_citizen_board",
+      "observed_style": "친근한 인사와 관심 요청, 모집 대상·일정·신청 방법을 함께 쓰는 안내형",
+      "use": "legitimate recruitment register; not ordinary anonymous speech"
+    },
+    {
+      "id": "jeonnam-board",
+      "url": "https://minwon.jeonnam.go.kr/board/MINWON_BOARD_0002/boardView.do?bdId=BD_00000000000019351&boardId=MINWON_BOARD_0002&menuCd=M004001",
+      "type": "civic_board_cooperation_request",
+      "observed_style": "짧게 줄을 나누고 구체적인 위치·상황 설명과 개선 요청을 이어가는 형식",
+      "use": "paragraph pacing and request style only"
+    },
+    {
+      "id": "busan-reply",
+      "url": "https://119.busan.go.kr/firesafe/community04/1712240",
+      "type": "official_answer",
+      "observed_style": "문의에 대한 답변, 조건 설명, 추가 문의 안내와 인사로 마무리하는 정중한 답변형",
+      "use": "official-answer reference; not anonymous user or illegal-ad provenance"
+    }
+  ],
+  "copied_source_posts": false,
+  "verified_real_illegal_ad_sources": 0,
+  "warning": "Sources support register and board structure only; all advertisement content is newly authored fiction."
+}

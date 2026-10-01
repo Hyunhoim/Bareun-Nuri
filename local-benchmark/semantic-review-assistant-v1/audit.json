@@ -1,0 +1,30 @@
+{
+  "passed": true,
+  "rows": 62,
+  "labels": {
+    "1": 24,
+    "0": 27,
+    "uncertain": 11
+  },
+  "by_purpose": {
+    "observed": {
+      "1": 11,
+      "0": 13,
+      "uncertain": 7
+    },
+    "training_candidate": {
+      "0": 14,
+      "1": 13,
+      "uncertain": 4
+    }
+  },
+  "source_sha256": "bfdce88df2147150ca9d8699cd4fb36bc1e1fadfc6aa9f8933846ebd6caa444b",
+  "answers_sha256": "3e6645c1454ed75be024e750afc2bf7092eddb24dc6b158c5382b9bed6099309",
+  "html_sha256": "a9d3297fa03def2e09cadfbcbcf0260db9a3706c2c6415a56d00f02df80bfe97",
+  "script_sha256": "9737c124651784bd9317d0cf6fe54f9d9db23a78e637958e1387e29607dfa29e",
+  "unique_ids": 62,
+  "nonempty_reasons": 62,
+  "evidence_spans_found": 62,
+  "human_gold_created": false,
+  "automatic_training": false
+}

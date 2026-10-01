@@ -1,0 +1,401 @@
+{
+  "recorded_requests": 63,
+  "all_recorded_batches_unchanged": true,
+  "max_recorded_estimate": 51348,
+  "resource_check": {
+    "source_length": 27816,
+    "parts": 5,
+    "before": 84657,
+    "batches": [
+      {
+        "count": 2,
+        "estimate": 37139
+      },
+      {
+        "count": 3,
+        "estimate": 51619
+      }
+    ]
+  },
+  "external_calls": 0,
+  "records": [
+    {
+      "run": "dev-fifo",
+      "call": 1,
+      "count": 16,
+      "estimate": 10174
+    },
+    {
+      "run": "dev-fifo",
+      "call": 2,
+      "count": 16,
+      "estimate": 10080
+    },
+    {
+      "run": "dev-fifo",
+      "call": 3,
+      "count": 16,
+      "estimate": 10081
+    },
+    {
+      "run": "dev-fifo",
+      "call": 4,
+      "count": 16,
+      "estimate": 10060
+    },
+    {
+      "run": "dev-fifo",
+      "call": 5,
+      "count": 16,
+      "estimate": 50854
+    },
+    {
+      "run": "dev-fifo",
+      "call": 6,
+      "count": 16,
+      "estimate": 12577
+    },
+    {
+      "run": "dev-fifo",
+      "call": 7,
+      "count": 16,
+      "estimate": 11365
+    },
+    {
+      "run": "dev-fifo",
+      "call": 8,
+      "count": 16,
+      "estimate": 12536
+    },
+    {
+      "run": "dev-fifo",
+      "call": 9,
+      "count": 16,
+      "estimate": 11993
+    },
+    {
+      "run": "dev-fifo",
+      "call": 10,
+      "count": 16,
+      "estimate": 12131
+    },
+    {
+      "run": "dev-priority",
+      "call": 1,
+      "count": 16,
+      "estimate": 10174
+    },
+    {
+      "run": "dev-priority",
+      "call": 2,
+      "count": 16,
+      "estimate": 49700
+    },
+    {
+      "run": "dev-priority",
+      "call": 3,
+      "count": 16,
+      "estimate": 10812
+    },
+    {
+      "run": "dev-priority",
+      "call": 4,
+      "count": 16,
+      "estimate": 11881
+    },
+    {
+      "run": "dev-priority",
+      "call": 5,
+      "count": 16,
+      "estimate": 11105
+    },
+    {
+      "run": "dev-priority",
+      "call": 6,
+      "count": 16,
+      "estimate": 10809
+    },
+    {
+      "run": "dev-priority",
+      "call": 7,
+      "count": 16,
+      "estimate": 11805
+    },
+    {
+      "run": "dev-priority",
+      "call": 8,
+      "count": 16,
+      "estimate": 10050
+    },
+    {
+      "run": "dev-priority",
+      "call": 9,
+      "count": 16,
+      "estimate": 11827
+    },
+    {
+      "run": "dev-priority",
+      "call": 10,
+      "count": 16,
+      "estimate": 11331
+    },
+    {
+      "run": "dev-priority",
+      "call": 11,
+      "count": 16,
+      "estimate": 12442
+    },
+    {
+      "run": "dev-filter",
+      "call": 1,
+      "count": 16,
+      "estimate": 10174
+    },
+    {
+      "run": "dev-filter",
+      "call": 2,
+      "count": 16,
+      "estimate": 49700
+    },
+    {
+      "run": "dev-filter",
+      "call": 3,
+      "count": 16,
+      "estimate": 10812
+    },
+    {
+      "run": "dev-filter",
+      "call": 4,
+      "count": 16,
+      "estimate": 11881
+    },
+    {
+      "run": "dev-filter",
+      "call": 5,
+      "count": 16,
+      "estimate": 11105
+    },
+    {
+      "run": "dev-filter",
+      "call": 6,
+      "count": 16,
+      "estimate": 10809
+    },
+    {
+      "run": "dev-filter",
+      "call": 7,
+      "count": 16,
+      "estimate": 11864
+    },
+    {
+      "run": "dev-filter",
+      "call": 8,
+      "count": 16,
+      "estimate": 10050
+    },
+    {
+      "run": "dev-filter",
+      "call": 9,
+      "count": 16,
+      "estimate": 11882
+    },
+    {
+      "run": "dev-filter",
+      "call": 10,
+      "count": 16,
+      "estimate": 11403
+    },
+    {
+      "run": "confirmation-fifo",
+      "call": 1,
+      "count": 16,
+      "estimate": 10124
+    },
+    {
+      "run": "confirmation-fifo",
+      "call": 2,
+      "count": 16,
+      "estimate": 10096
+    },
+    {
+      "run": "confirmation-fifo",
+      "call": 3,
+      "count": 16,
+      "estimate": 10106
+    },
+    {
+      "run": "confirmation-fifo",
+      "call": 4,
+      "count": 16,
+      "estimate": 10118
+    },
+    {
+      "run": "confirmation-fifo",
+      "call": 5,
+      "count": 16,
+      "estimate": 10065
+    },
+    {
+      "run": "confirmation-fifo",
+      "call": 6,
+      "count": 16,
+      "estimate": 11112
+    },
+    {
+      "run": "confirmation-fifo",
+      "call": 7,
+      "count": 16,
+      "estimate": 11659
+    },
+    {
+      "run": "confirmation-fifo",
+      "call": 8,
+      "count": 16,
+      "estimate": 12379
+    },
+    {
+      "run": "confirmation-fifo",
+      "call": 9,
+      "count": 16,
+      "estimate": 51348
+    },
+    {
+      "run": "confirmation-fifo",
+      "call": 10,
+      "count": 16,
+      "estimate": 12174
+    },
+    {
+      "run": "confirmation-priority",
+      "call": 1,
+      "count": 16,
+      "estimate": 10124
+    },
+    {
+      "run": "confirmation-priority",
+      "call": 2,
+      "count": 16,
+      "estimate": 10099
+    },
+    {
+      "run": "confirmation-priority",
+      "call": 3,
+      "count": 16,
+      "estimate": 11370
+    },
+    {
+      "run": "confirmation-priority",
+      "call": 4,
+      "count": 16,
+      "estimate": 11493
+    },
+    {
+      "run": "confirmation-priority",
+      "call": 5,
+      "count": 16,
+      "estimate": 10400
+    },
+    {
+      "run": "confirmation-priority",
+      "call": 6,
+      "count": 16,
+      "estimate": 10988
+    },
+    {
+      "run": "confirmation-priority",
+      "call": 7,
+      "count": 16,
+      "estimate": 10126
+    },
+    {
+      "run": "confirmation-priority",
+      "call": 8,
+      "count": 16,
+      "estimate": 11043
+    },
+    {
+      "run": "confirmation-priority",
+      "call": 9,
+      "count": 16,
+      "estimate": 11601
+    },
+    {
+      "run": "confirmation-priority",
+      "call": 10,
+      "count": 16,
+      "estimate": 10806
+    },
+    {
+      "run": "confirmation-priority",
+      "call": 11,
+      "count": 16,
+      "estimate": 12033
+    },
+    {
+      "run": "confirmation-filter",
+      "call": 1,
+      "count": 16,
+      "estimate": 10124
+    },
+    {
+      "run": "confirmation-filter",
+      "call": 2,
+      "count": 16,
+      "estimate": 10099
+    },
+    {
+      "run": "confirmation-filter",
+      "call": 3,
+      "count": 16,
+      "estimate": 11370
+    },
+    {
+      "run": "confirmation-filter",
+      "call": 4,
+      "count": 16,
+      "estimate": 11493
+    },
+    {
+      "run": "confirmation-filter",
+      "call": 5,
+      "count": 16,
+      "estimate": 10400
+    },
+    {
+      "run": "confirmation-filter",
+      "call": 6,
+      "count": 16,
+      "estimate": 10988
+    },
+    {
+      "run": "confirmation-filter",
+      "call": 7,
+      "count": 16,
+      "estimate": 10126
+    },
+    {
+      "run": "confirmation-filter",
+      "call": 8,
+      "count": 16,
+      "estimate": 11043
+    },
+    {
+      "run": "confirmation-filter",
+      "call": 9,
+      "count": 16,
+      "estimate": 11601
+    },
+    {
+      "run": "confirmation-filter",
+      "call": 10,
+      "count": 16,
+      "estimate": 10806
+    },
+    {
+      "run": "confirmation-filter",
+      "call": 11,
+      "count": 16,
+      "estimate": 12033
+    }
+  ]
+}

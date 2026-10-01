@@ -1,0 +1,338 @@
+[
+  {
+    "node_id": "n_6d3cf9cdbc7854c4",
+    "family": "bright",
+    "role": "pure",
+    "classification": "substitution",
+    "reading": "BRIGHT"
+  },
+  {
+    "node_id": "n_ae59ca9b5bb3ddc4",
+    "family": "bright",
+    "role": "mixed",
+    "classification": "substitution",
+    "reading": "2BRIGHT"
+  },
+  {
+    "node_id": "n_7220693e0a36f762",
+    "family": "bright",
+    "role": "identifier",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_34e47d1e8f7fb085",
+    "family": "bright",
+    "role": "ambiguous",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_9cb269126cbf1058",
+    "family": "smile",
+    "role": "pure",
+    "classification": "substitution",
+    "reading": "SMILE"
+  },
+  {
+    "node_id": "n_55b5a121822259b0",
+    "family": "smile",
+    "role": "mixed",
+    "classification": "substitution",
+    "reading": "SMILE8"
+  },
+  {
+    "node_id": "n_3906fe9584f55a8d",
+    "family": "smile",
+    "role": "identifier",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_00abcd61a538651c",
+    "family": "smile",
+    "role": "ambiguous",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_649a5258e69888f2",
+    "family": "music",
+    "role": "pure",
+    "classification": "substitution",
+    "reading": "MUSIC"
+  },
+  {
+    "node_id": "n_7bda9f157033e566",
+    "family": "music",
+    "role": "mixed",
+    "classification": "substitution",
+    "reading": "4MUSIC"
+  },
+  {
+    "node_id": "n_2515281711949e57",
+    "family": "music",
+    "role": "identifier",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_84030b212e575c8c",
+    "family": "music",
+    "role": "ambiguous",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_4cddb553d0a9716a",
+    "family": "learn",
+    "role": "pure",
+    "classification": "substitution",
+    "reading": "LEARN"
+  },
+  {
+    "node_id": "n_a2a91514986ac78c",
+    "family": "learn",
+    "role": "mixed",
+    "classification": "substitution",
+    "reading": "LEARN6"
+  },
+  {
+    "node_id": "n_87a4183d3e90fbe3",
+    "family": "learn",
+    "role": "identifier",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_cde5d3b22c17af69",
+    "family": "learn",
+    "role": "ambiguous",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_9e5a1c80cfda5edc",
+    "family": "clean",
+    "role": "pure",
+    "classification": "substitution",
+    "reading": "CLEAN"
+  },
+  {
+    "node_id": "n_56a7df71c13428c6",
+    "family": "clean",
+    "role": "mixed",
+    "classification": "substitution",
+    "reading": "8CLEAN"
+  },
+  {
+    "node_id": "n_15ff1545e38064d1",
+    "family": "clean",
+    "role": "identifier",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_90761e85ceb5ba6d",
+    "family": "clean",
+    "role": "ambiguous",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_b1b8e8ee9096f800",
+    "family": "happy",
+    "role": "pure",
+    "classification": "substitution",
+    "reading": "HAPPY"
+  },
+  {
+    "node_id": "n_3a22dc894195d7f9",
+    "family": "happy",
+    "role": "mixed",
+    "classification": "substitution",
+    "reading": "HAPPY3"
+  },
+  {
+    "node_id": "n_5e4a66afb955e2d6",
+    "family": "happy",
+    "role": "identifier",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_804ee9b06e43d5b9",
+    "family": "happy",
+    "role": "ambiguous",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_762d4e548d038ab2",
+    "family": "team",
+    "role": "pure",
+    "classification": "substitution",
+    "reading": "TEAM"
+  },
+  {
+    "node_id": "n_1c856afae0276158",
+    "family": "team",
+    "role": "mixed",
+    "classification": "substitution",
+    "reading": "5TEAM"
+  },
+  {
+    "node_id": "n_2f80054c3d5f0f20",
+    "family": "team",
+    "role": "identifier",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_35bd26fa0515ea62",
+    "family": "team",
+    "role": "ambiguous",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_1400aa1f5d0438ce",
+    "family": "dream",
+    "role": "pure",
+    "classification": "substitution",
+    "reading": "DREAM"
+  },
+  {
+    "node_id": "n_09b7deed9068a18a",
+    "family": "dream",
+    "role": "mixed",
+    "classification": "substitution",
+    "reading": "DREAM2"
+  },
+  {
+    "node_id": "n_21e92d1ba380f005",
+    "family": "dream",
+    "role": "identifier",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_b9d62d9e132ce9da",
+    "family": "dream",
+    "role": "ambiguous",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_45815dea2a523198",
+    "family": "power",
+    "role": "pure",
+    "classification": "substitution",
+    "reading": "POWER"
+  },
+  {
+    "node_id": "n_639781ffebacf814",
+    "family": "power",
+    "role": "mixed",
+    "classification": "substitution",
+    "reading": "6POWER"
+  },
+  {
+    "node_id": "n_357f9bd840ced228",
+    "family": "power",
+    "role": "identifier",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_84fd4a139b7eda2c",
+    "family": "power",
+    "role": "ambiguous",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_927b2c52813048e1",
+    "family": "earth",
+    "role": "pure",
+    "classification": "substitution",
+    "reading": "EARTH"
+  },
+  {
+    "node_id": "n_43ace7cff7b1f855",
+    "family": "earth",
+    "role": "mixed",
+    "classification": "substitution",
+    "reading": "EARTH9"
+  },
+  {
+    "node_id": "n_02dc80cf886380d7",
+    "family": "earth",
+    "role": "identifier",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_298b733e0a57e8a6",
+    "family": "earth",
+    "role": "ambiguous",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_5bb06e88e6ba3667",
+    "family": "light",
+    "role": "pure",
+    "classification": "substitution",
+    "reading": "LIGHT"
+  },
+  {
+    "node_id": "n_72285b166ae83614",
+    "family": "light",
+    "role": "mixed",
+    "classification": "substitution",
+    "reading": "7LIGHT"
+  },
+  {
+    "node_id": "n_b7acd4e06446082c",
+    "family": "light",
+    "role": "identifier",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_c357bf483fb18efc",
+    "family": "light",
+    "role": "ambiguous",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_62f1eacf105887ed",
+    "family": "speed",
+    "role": "pure",
+    "classification": "substitution",
+    "reading": "SPEED"
+  },
+  {
+    "node_id": "n_3b51f56aa4546be2",
+    "family": "speed",
+    "role": "mixed",
+    "classification": "substitution",
+    "reading": "SPEED4"
+  },
+  {
+    "node_id": "n_bfacc5b1037c1bff",
+    "family": "speed",
+    "role": "identifier",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_b206662dd73c055d",
+    "family": "speed",
+    "role": "ambiguous",
+    "classification": "uncertain",
+    "reading": null
+  }
+]

@@ -1,0 +1,4502 @@
+[
+  {
+    "group_id": "8769f04747a4ace3",
+    "source_label": true,
+    "source_text": "CASINO 멤버방 코드 보내드려요. 입금 후 딜러 게임 하고 수익은 바로 정산해요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "194219d9a7cbf27c",
+    "source_label": false,
+    "source_text": "ASK 답변에서 말한 신청서를 어느 메뉴에서 받을 수 있나요?",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "bd282981a5094337",
+    "source_label": false,
+    "source_text": "LINK 새 창에서 열립니다",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "8a9911ff12630d07",
+    "source_label": true,
+    "source_text": "SLOT 새 도메인 안내입니다. 회원 잔액 그대로고 입금 이벤트 다시 시작해요.",
+    "status": "needs_service_context_review",
+    "reason": "The membership/deposit/return offer is visible, but identifying it as cash gambling relies on the private scenario family or English token. Obtain independent review; do not infer missing service facts.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "60ab2492ee5a7a12",
+    "source_label": false,
+    "source_text": "DONE 현장 정비된 것을 확인했습니다. 빠르게 처리해 주셔서 감사합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "9190d66adccc4561",
+    "source_label": true,
+    "source_text": "ARCHIVE 링크 내려간 성인 몰카 원본 보유 중입니다. 돈 보내시면 새 주소 드려요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "6a01c8024a76b617",
+    "source_label": false,
+    "source_text": "SAVE 접수 완료 화면을 저장해 두면 진행 상황을 확인할 때 편리합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "96466a8508e78e28",
+    "source_label": true,
+    "source_text": "CASINO 휴대폰으로 접속돼요. 칩을 돈으로 바꾸는 방 찾으면 아래로 오세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "fe7081f48439b488",
+    "source_label": true,
+    "source_text": "SLOT 퇴근하고 돌렸는데 출금됐네요. 같이 충전할 분 제 추천창 쓰시면 더 줘요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "b7e522f955e6c9c7",
+    "source_label": true,
+    "source_text": "CASINO 오픈채팅으로 오시면 충전창 드립니다. 원격 테이블에서 현금 배팅해요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "a2ae2cdf8a229219",
+    "source_label": true,
+    "source_text": "날씨가 풀렸네요. SLOT 첫 입금 행사 중이라 현금 게임 하실 분 소개해요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "bee2a5abe0258ceb",
+    "source_label": true,
+    "source_text": "BACCARAT 같이 타던 분들 새 방입니다. 이전 아이디랑 입금액 알려주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "bce07d41a7566575",
+    "source_label": true,
+    "source_text": "CLUB 비동의 성인 촬영본 자료실 회원 문의 받습니다. 회비 낼 분은 연결창 열어주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "7037633ffa8f0f84",
+    "source_label": true,
+    "source_text": "BACCARAT 캐시 테이블 오픈. 판돈 넣고 바로 시작해요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "ac40625baa3fd6c9",
+    "source_label": true,
+    "source_text": "SLOT 당첨금 최소 출금액 변경됐어요. 현금 충전하고 이용할 계정 새로 드립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "f3a882f92de705f9",
+    "source_label": false,
+    "source_text": "ROOM 101 공동작업실 전등 교체를 요청합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "e5b2931e582427d8",
+    "source_label": true,
+    "source_text": "BET 같이 들어갈 사람? 사설 축구방 충전하면 첫판 더 준대요. 가입창 남겨요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "e4561de1891953f1",
+    "source_label": true,
+    "source_text": "ARCHIVE 옛 주소 막혔어요. 비동의 성인 영상 유료 구매는 새 자료실로 오세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "df2956504770fd34",
+    "source_label": true,
+    "source_text": "MATCH 지역 소개방 운영자 구합니다. 회원들이 건 판돈 기준으로 수수료 드려요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "ac5b4a03b806b485",
+    "source_label": false,
+    "source_text": "NEXT 다음 게시물로 이동",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "bc1a9094408d56c5",
+    "source_label": false,
+    "source_text": "CLUB 현금이나 경품을 걸지 않는 보드게임 모임입니다. 카드 게임 규칙을 함께 배웁니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "894f70b85b913301",
+    "source_label": false,
+    "source_text": "HELP 가족의 도박 문제로 정신건강 상담을 신청합니다. 야간 시간도 가능한가요?",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "cafc30f24f09532b",
+    "source_label": false,
+    "source_text": "INDEX 피해지원 안내를 찾으려고 유출 영상이라는 단어로 검색했는데 판매 글만 나옵니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "b1161caacc66e6da",
+    "source_label": true,
+    "source_text": "ARCHIVE 예전에 내린 성인 피해 촬영본 구해뒀어요. 구매 의사 있으면 연락 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "0a05c2a40a8400ec",
+    "source_label": true,
+    "source_text": "POWER 회차 시작 전입니다. 숫자 고르고 현금 걸 분은 충전부터 해주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "afa669eb82be465d",
+    "source_label": true,
+    "source_text": "FILE 성인 사생활 유출 묶음 재판매합니다. 다운로드 권한 구매하실 분 연락해요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "9265edd4478d4f23",
+    "source_label": true,
+    "source_text": "CASINO 지인 추천 충전 보너스 있어요. 실제 돈으로 테이블 할 분만 가입하세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "77ef9815aa12cab3",
+    "source_label": true,
+    "source_text": "VIP 현금 테이블 옮기실 분, CASINO 이전 등급 그대로 맞춰드려요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "4497d5273b812bdd",
+    "source_label": true,
+    "source_text": "SPIN 밤샘 이벤트 중입니다. 현금 충전액에 맞춰 돌릴 횟수 더 드려요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "5359a66466bfc445",
+    "source_label": false,
+    "source_text": "TYPE 문자 입력 연습 중인데 공공 컴퓨터 키보드의 모음 키가 잘 안 눌립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "14fb301a2b422aff",
+    "source_label": true,
+    "source_text": "출금 막혔던 곳 그만 쓰세요. BET 환승 회원은 충전 혜택 따로 잡아드립니다.",
+    "status": "needs_service_context_review",
+    "reason": "The membership/deposit/return offer is visible, but identifying it as cash gambling relies on the private scenario family or English token. Obtain independent review; do not infer missing service facts.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "0531e38ede57995e",
+    "source_label": false,
+    "source_text": "START 무료 디지털 배움교실이 시작됩니다. 스마트폰 사용이 어려운 주민도 환영합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "912581a3d78d01bc",
+    "source_label": false,
+    "source_text": "CHECK 안내된 날짜가 공고문과 달라서 확인이 필요합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "98e6e532d5a13344",
+    "source_label": true,
+    "source_text": "CLIP 삭제된 비동의 성인 촬영본 다시 올렸어요. 금액 보내면 전체 묶음 드립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "a79eedad6d8135cf",
+    "source_label": false,
+    "source_text": "CLIP 강좌 영상의 자막 파일도 함께 제공해 주세요. 청각장애인 수강생이 이용하기 어렵습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "310ec3e2df697360",
+    "source_label": true,
+    "source_text": "SPIN 당첨 잔액 뺐어요. 새로 돈 넣는 분은 제 초대창으로 오시면 됩니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "55630164c33fc88a",
+    "source_label": false,
+    "source_text": "PICK 야구 드래프트 제도에 관한 강연 자료를 찾습니다. 청소년 진로교육에 사용할 예정입니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "fc32308866149fbd",
+    "source_label": false,
+    "source_text": "CHECK 제출 파일이 읽히는지 미리보기에서 확인한 뒤 접수해 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "3cd1be05aefc1aa0",
+    "source_label": false,
+    "source_text": "ARCHIVE 오래된 관광 안내 지도를 전시실에서 열람하고 싶습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "3be5f1e297a4a992",
+    "source_label": true,
+    "source_text": "VAULT 몰카 성인 영상 유료 자료실입니다. 계정 구매하시면 원본 내려받습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "13ff86066f772200",
+    "source_label": false,
+    "source_text": "TICKET 시립 공연장 유료 공연 예매를 취소하려 합니다. 환불 규정을 찾지 못했습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "2e62420ed7d9c462",
+    "source_label": false,
+    "source_text": "INFO 현재 선택한 검색 조건",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "49ecddae07025714",
+    "source_label": false,
+    "source_text": "CASINO라는 단어가 들어간 영화 촬영지를 관광 지도에서 찾고 있습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "84ed9c52a596a9c8",
+    "source_label": false,
+    "source_text": "VIEW 검색 결과에 광고 같은 글이 먼저 나옵니다. 공식 답변을 위에 보여주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "170017d7303c2552",
+    "source_label": true,
+    "source_text": "BET 충전 확인 후 배당 선택 가능합니다. 사설 경기 적중금 출금 회원 가입받아요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "979d88b64af95107",
+    "source_label": false,
+    "source_text": "CLUB 시립 미술관 동호회 해설 프로그램은 일반 주민도 참가 가능한가요?",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "6e21d065350e3be3",
+    "source_label": false,
+    "source_text": "SLOT 당첨금 출금이란 문자가 온 이후 로그인 시도가 늘었습니다. 수신 화면을 첨부하려 합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "9a95e9ba30b528d7",
+    "source_label": false,
+    "source_text": "CLINIC 이동 진료 차량이 마을회관까지 들어올 수 있는지 문의합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "c4939414af04d0f2",
+    "source_label": true,
+    "source_text": "오늘 BACCARAT 첫 입장 추가칩 붙습니다. 입금 확인되면 딜러방 연결해요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "222e4b6319ec27dd",
+    "source_label": false,
+    "source_text": "PARK 공원 벤치 주변 쓰레기 수거를 부탁드립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "52af9beffa566eaa",
+    "source_label": false,
+    "source_text": "CONSENT 사진 공개에 동의하지 않았는데 행사 후기에서 얼굴이 보입니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "7f8558faf23331b1",
+    "source_label": true,
+    "source_text": "LADDER 사다리 승부방 입장 받습니다. 맞힌 금액은 계좌로 정산해요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "40492b54f794a68f",
+    "source_label": false,
+    "source_text": "HTML 댓글과 본문의 영역을 구분하는 웹 접근성 교육 자료를 신청합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "88d50495dea8f4b5",
+    "source_label": true,
+    "source_text": "POWER 충전액은 회차 판돈으로 씁니다. 맞힌 번호 배당금은 돈으로 찾아가세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "8790065444a1c0bd",
+    "source_label": false,
+    "source_text": "MEDIC 처방받은 약 이름이 안내문과 다릅니다. 병원에 문의할 담당 창구가 필요합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "0fc8d05b63be75fc",
+    "source_label": false,
+    "source_text": "NOTE 사진에 보이는 곳은 다른 동입니다. 실제 위치를 지도에 다시 표시했습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "1620687b61a590a5",
+    "source_label": false,
+    "source_text": "DATA 내려받은 통계 파일에 주민 전화번호가 들어 있습니다. 공개 범위를 확인해 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "b35c11dc5e646cfb",
+    "source_label": true,
+    "source_text": "JACKPOT 회원방 다시 열었어요. 돈 넣고 돌릴 분은 초대 요청 남기세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "a51818d4e430f42c",
+    "source_label": true,
+    "source_text": "CASINO 주말 복귀 혜택 열었습니다. 판돈 넣고 참여하실 분만 연락 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "b2d130e645c0c270",
+    "source_label": false,
+    "source_text": "WEB 외부 링크를 무조건 신뢰하지 않도록 디지털 시민교육을 확대해 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "bd04a8235de23255",
+    "source_label": false,
+    "source_text": "CHECK 건강검진 결과 재발급 신청에 필요한 서류를 알려주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "812429715c17b9da",
+    "source_label": true,
+    "source_text": "VAULT 동의 없이 퍼진 성인 촬영 파일 원본팩입니다. 대금 확인되면 전달합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "7f2aca6e3521e951",
+    "source_label": true,
+    "source_text": "POKER 온라인 캐시방 단골 모집해요. 칩 구매 금액에 맞춰 등급 드립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "9b0b4597831ad416",
+    "source_label": true,
+    "source_text": "연장전까지 기다릴 필요 없는 LIVE 승부방, 현금 충전하고 다음 회차부터 타세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "2bff46a85d565fcc",
+    "source_label": false,
+    "source_text": "BOOK 도박 중독 경험을 다룬 수기를 읽고 독서모임에서 토론하려 합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "d6c9e8dedb9c09a9",
+    "source_label": false,
+    "source_text": "GUIDE 화면에 안 보이는 문구도 검색 결과에는 나올 수 있다는 설명을 교육 자료에 넣었습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "570097f84d74f656",
+    "source_label": true,
+    "source_text": "BET 추천 링크 남깁니다. 여기서 현금 충전하시면 사설 경기 배당 더 챙겨드려요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "d8f6213a3de7b8b4",
+    "source_label": false,
+    "source_text": "POWER 버튼이 눌린 채 돌아오지 않습니다. 공원 음수대 전원 장치를 점검해 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "b7c6208a1da4ba1c",
+    "source_label": false,
+    "source_text": "SPIN 원심분리기 사용 시간이 예약표와 다릅니다. 공동장비 담당자 확인 부탁드립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "e9a69e589ad527ae",
+    "source_label": false,
+    "source_text": "TEXT 전각 영문으로 등록한 가게 이름이 검색되지 않습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "ba623dafd6f4c2fb",
+    "source_label": false,
+    "source_text": "SLOT 시간대별 구장 예약 화면에서 취소 자리가 다시 열리는 시각을 알고 싶습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "ae7a46926bae3086",
+    "source_label": false,
+    "source_text": "CASINO 주소를 누른 뒤 알림이 계속 뜹니다. 휴대폰에서 연결을 끊는 방법을 알려주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "90bab9fde6dacf0b",
+    "source_label": false,
+    "source_text": "UPLOAD 큰 사진을 올리면 완료 표시 없이 창이 닫힙니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "cc7ed18b452e95e5",
+    "source_label": true,
+    "source_text": "SPORTS 기존 링크 지워주세요. 이번 주소에서 가입하고 적중금 출금합니다.",
+    "status": "needs_service_context_review",
+    "reason": "The membership/deposit/return offer is visible, but identifying it as cash gambling relies on the private scenario family or English token. Obtain independent review; do not infer missing service facts.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "ef7a7a70fa8da589",
+    "source_label": true,
+    "source_text": "REELS 막힌 창 말고 이쪽입니다. 현금 칩 넣고 게임 이어가시면 돼요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "ec71d84cf77e33e5",
+    "source_label": false,
+    "source_text": "LINK 공고문 원문과 요약 안내의 내용이 다르면 담당 부서에 확인해 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "60787be0b85308dd",
+    "source_label": false,
+    "source_text": "INFO 예약 취소 후 다시 신청하면 대기 순서가 뒤로 이동할 수 있습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "420b259bd708a348",
+    "source_label": false,
+    "source_text": "AGREE 공개 게시물에 포함되는 정보의 범위를 확인했습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "41445c766779a906",
+    "source_label": true,
+    "source_text": "ARCHIVE 촬영자 몰래 유출된 성인 영상 묶음 올라왔어요. 결제하시면 원본 폴더 열어드려요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "6908679cad758658",
+    "source_label": false,
+    "source_text": "VAULT라는 주소를 삭제 요청서에 적었는데 접수가 반려됐습니다. 피해 지원 담당자와 연결 부탁드립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "8cc28875cf740f1f",
+    "source_label": true,
+    "source_text": "HOLDEM 친구 데려오면 충전칩 더 줍니다. 게임 끝난 칩은 돈으로 바꿔드려요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "29f1eda757c59ef4",
+    "source_label": true,
+    "source_text": "BACCARAT 충전 행사 오늘 끝나요. 새 회원은 입금 전 소개 코드부터 받으세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "e18af330b4729a49",
+    "source_label": false,
+    "source_text": "TREE 가로수가 신호등을 가립니다. 가지 정비가 필요합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "aef03d00c9d255a4",
+    "source_label": true,
+    "source_text": "신청 기간 확인했습니다. SPIN 슬롯방 첫충 원하시면 가입 주소 보내드려요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "15bf49eb8785479c",
+    "source_label": true,
+    "source_text": "동네 형이 알려준 PICK 사설방입니다. 현금 배팅할 분 같이 들어와요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "f6aa5cdb8f7658a0",
+    "source_label": true,
+    "source_text": "FILE 유출 성인 사생활 자료 판매합니다. 공개 안 된 원본 원하는 분 연락 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "5e81fb2317a08bf6",
+    "source_label": true,
+    "source_text": "POKER 링게임 같이 할 분, 현금 칩 구매는 연결창에서 바로 됩니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "1a140e70f621554c",
+    "source_label": true,
+    "source_text": "BACCARAT 현금 칩 구매·온라인 테이블·회원 승인, 새 가입창 남깁니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "a7d39c5200af7c73",
+    "source_label": true,
+    "source_text": "CLIP 성인 사생활 유출 파일 새로 들어왔습니다. 유료방 가입하면 계속 받아보세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "e9740713860b4340",
+    "source_label": false,
+    "source_text": "MATCH 교류 도시 친선 경기 관람 좌석을 신청합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "fccb161284e7c2e0",
+    "source_label": false,
+    "source_text": "HELP 화면낭독기 이용 안내",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "2d776343bdf3ef87",
+    "source_label": false,
+    "source_text": "CLUB 청년 영상제작 모임을 소개합니다. 촬영 전에 참여자 동의를 받고 완성작을 상영할 예정입니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "563e33d6a0881f83",
+    "source_label": false,
+    "source_text": "FOOD 알레르기 표시가 없는 급식 메뉴에 관해 문의합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "6b4eedffef4c79a8",
+    "source_label": false,
+    "source_text": "CLASS 몰래 촬영된 성인 영상의 유통 피해를 다룬 교육에 상담사를 초청하고 싶습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "749a6502f5f4575f",
+    "source_label": false,
+    "source_text": "BONUS 에너지 절약 보상금 지급일 문의입니다. 공고에는 다음 달이라고만 나와 있습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "303a2c19164c98d9",
+    "source_label": false,
+    "source_text": "INPUT 영문 입력 상태에서 제목이 전각 문자로 저장됩니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "cec4bbd26a4849f0",
+    "source_label": true,
+    "source_text": "ARCHIVE 유출 성인 영상 정기 구독 열었습니다. 당사자 동의 없는 원본도 업데이트합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "dae110e963183c19",
+    "source_label": true,
+    "source_text": "LIVE 중계랑 배팅창 같이 보여서 편합니다. 충전하고 실제 돈으로 참여할 분 쪽지요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "09fe2d8871478e7a",
+    "source_label": false,
+    "source_text": "HELP 로그인 오류를 해결하려면 화면에 나온 접수번호를 담당 창구에 알려주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "f9d440293744b369",
+    "source_label": true,
+    "source_text": "BLACKJACK 방장입니다. 충전하신 분부터 자리 잡아드리고 출금도 처리합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "f291b40a92a81ff4",
+    "source_label": true,
+    "source_text": "CASINO 출석하면 배팅칩 더 받습니다. 현금으로 찾을 분은 출금 조건 확인하세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "6c1d3e755631175d",
+    "source_label": false,
+    "source_text": "청소년 행사 후기에서 HOLDEM 칩 환전이라는 글을 봤습니다. 이런 글도 행사 의견으로 집계되나요?",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "54b9532d6f0c89b7",
+    "source_label": false,
+    "source_text": "IDEA 청소년이 돈을 걸지 않고 보드게임을 즐길 수 있는 공간을 만들어 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "72840d066be3038a",
+    "source_label": true,
+    "source_text": "FILE 비동의 성인 영상 교환방 유료 입장권 팝니다. 입금 후 초대 보냅니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "8b6525c87f7a10ab",
+    "source_label": true,
+    "source_text": "SPORTS 사설 승부방 대리점 문의 받습니다. 현금 배팅 손님 소개해 주실 분만요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "917d596bdd6bb4c3",
+    "source_label": false,
+    "source_text": "VERSION 1.0 지도 파일에서는 골목 이름이 누락돼 있습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "499d2cd40553f6af",
+    "source_label": true,
+    "source_text": "POWER 회차방 새 입구입니다. 충전 후 판돈 거는 화면 바로 연결돼요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "bbedbfe0859c6c2f",
+    "source_label": false,
+    "source_text": "CASINO라는 파일명이 민원 첨부목록에 남는데 제가 올린 적이 없습니다. 삭제 방법을 알려주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "b35403fb30234182",
+    "source_label": false,
+    "source_text": "CALL 전화 연결이 어려우면 민원 게시판에 문의 내용을 남겨 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "1116a7bd6efc9065",
+    "source_label": false,
+    "source_text": "EMPTY 조건에 맞는 게시물이 없습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "2d4c949fb5b65998",
+    "source_label": true,
+    "source_text": "SIDE 경기 보는 시간을 정산으로 바꿔요. 사설 배팅 입금창 안내드립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "b2ab3ec720f0338c",
+    "source_label": true,
+    "source_text": "DICE 소액 회차방 새 주소입니다. 돈 충전하고 다음 판부터 같이 하세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "720f2bc87a92f3ea",
+    "source_label": false,
+    "source_text": "SLOT 예약칸이 회색으로 보여 체육관 신청을 못했습니다. 빈 시간인데 마감으로 뜨는 이유를 알려주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "546202990d757f35",
+    "source_label": true,
+    "source_text": "축제 일정 공유해요. ROULETTE 현금 배팅도 같이 하실 분 초대창 남깁니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "81247c87ce795e6a",
+    "source_label": false,
+    "source_text": "HELP 피해 상담 동행 봉사자를 모집합니다. 신청 후 기관 교육을 먼저 받습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "1adceb7616128439",
+    "source_label": false,
+    "source_text": "NAME 여권 이름의 악센트 표시를 생략해도 접수가 되는지 문의합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "d4f7288502a386e8",
+    "source_label": false,
+    "source_text": "PAGE 다음 페이지를 눌렀는데 처음 목록으로 돌아갑니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "1beb7ea276143b1a",
+    "source_label": false,
+    "source_text": "BET라고 적힌 창에서 돈을 넣으라길래 눌렀다가 계정이 생겼습니다. 탈퇴가 안 되는데 어디에 문의하나요?",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "ed88af736c37a92b",
+    "source_label": false,
+    "source_text": "FONT 글자 모양이 비슷한 다른 문자 때문에 검색이 실패하는 원리를 배우고 있습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "057044ccd8d2f1aa",
+    "source_label": true,
+    "source_text": "SLOT 고액 충전 회원은 출금 담당 붙여드립니다. 새 계정 발급 받아가세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "6453ea85fa1db11c",
+    "source_label": false,
+    "source_text": "POWER 회차게임 때문에 대출까지 받았습니다. 주민 상담 창구에서 중독 상담도 연계해 주나요?",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "d7f183fab5c3988b",
+    "source_label": false,
+    "source_text": "OPEN 청년 정책 간담회 신청창이 열렸습니다. 참석 가능한 시간을 선택해 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "5a13bd96bf596973",
+    "source_label": false,
+    "source_text": "RACE 자동차 경주장 견학 신청 문의입니다. 관람 구역 안전 교육도 포함되나요?",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "db8c4e02d20de2c8",
+    "source_label": true,
+    "source_text": "MATCH 타사 총판 이력 있으시면 조건 맞춥니다. 회원 이전과 현금 배팅 상담 받아요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "a4308074f99e7435",
+    "source_label": true,
+    "source_text": "ROULETTE 전용 현금 테이블 예약합니다. 입금 확인 후 자리 안내해요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "8ab1c6198c842c2d",
+    "source_label": true,
+    "source_text": "CASH 추가 수입방 열었습니다. 실제 하는 건 온라인 바카라 현금 테이블이에요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "2b70225738b25608",
+    "source_label": true,
+    "source_text": "LIVE 현금 테이블 재접속 주소 받아가세요. 기존 고객도 새 입금 안내 보세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "2d368e00a8dd528d",
+    "source_label": true,
+    "source_text": "WORK 스마트폰으로만 합니다. 저희 사설 카지노 입금 계정 만들어드려요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "db12282215138cbe",
+    "source_label": true,
+    "source_text": "CLIP 동의 없는 성인 유출자료 개별 판매해요. 원하시는 묶음 결제 문의 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "2088cfb4edb5ba33",
+    "source_label": true,
+    "source_text": "CASINO 오늘 한도 풀렸어요. 입금한 만큼 칩 받고 정산은 계좌로 하시면 됩니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "f54201deeaff5d06",
+    "source_label": false,
+    "source_text": "QUOTE 광고에 쓰이는 첫충이라는 말의 뜻을 청소년 보호 담당자에게 문의합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "147cf7bba0f297ad",
+    "source_label": true,
+    "source_text": "SPORTS 사설 배팅장 초대 코드 있어요. 예치금 넣고 같이 경기 타실 분 받습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "8fb587be686badba",
+    "source_label": true,
+    "source_text": "CLUB 비동의 성인 촬영물 공유방 유료 회원 받습니다. 회비 보내시면 초대해요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "55806f9dea1f877a",
+    "source_label": true,
+    "source_text": "SPORTS 밤에 넣고 새벽에 찾았어요. 회원 가입 링크 남기니 첫 충전 챙기세요.",
+    "status": "needs_service_context_review",
+    "reason": "The membership/deposit/return offer is visible, but identifying it as cash gambling relies on the private scenario family or English token. Obtain independent review; do not infer missing service facts.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "72a59be341aecc5f",
+    "source_label": true,
+    "source_text": "PICK 사설 야구방 지금 들어와요. 돈 넣고 배당 골라두면 끝나고 정산됨.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "f50a04f881e692bd",
+    "source_label": false,
+    "source_text": "제가 올린 사진에 CASINO 신규 접수라는 설명이 붙었습니다. 제 글이 수정된 것인지 궁금합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "1e597f49f4ddb60f",
+    "source_label": false,
+    "source_text": "학교 소식 아래 CASINO 입금창이라는 링크가 생겼습니다. 아이 계정으로도 그대로 보여요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "7ded4c5b71527fd1",
+    "source_label": true,
+    "source_text": "REELS 이용하던 분들 이번 방으로 옮겨요. 현금 칩 충전은 그대로 받습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "c4a7c34ade7d5b10",
+    "source_label": false,
+    "source_text": "RETRY 연결이 지연되어 다시 불러옵니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "7c2b593fb4efa7b9",
+    "source_label": true,
+    "source_text": "HOLDEM 캐시게임 고정 멤버 구합니다. 현금 칩으로 밤 테이블 같이 해요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "a5c163176f9d2d64",
+    "source_label": true,
+    "source_text": "VAULT 유출 성인 사생활 원본방 기존 회원 연장받아요. 회비 확인되면 기간 늘립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "148e660c589fd738",
+    "source_label": true,
+    "source_text": "BONUS 하루 짧게 할 수 있습니다. 현금 충전해서 슬롯 돌릴 새 회원 구해요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "523e575cf2ff7a50",
+    "source_label": false,
+    "source_text": "PICK 시민이 고르는 올해의 책 투표입니다. 후보 목록을 읽고 한 권을 선택해 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "aaa3059fdb861143",
+    "source_label": true,
+    "source_text": "WORK 투자 공부 어렵죠. 사설 스포츠 승부에 예치금 넣고 픽 같이 타실 분 받아요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "002a35547bc668b3",
+    "source_label": false,
+    "source_text": "CODE 숫자 0과 영문 O를 구분하는 정보보안 수업 예시가 필요합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "35f9ca20c0652707",
+    "source_label": false,
+    "source_text": "LIVE 지역 음악회 실시간 중계 다시보기를 요청합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "ecbfe64108b94bc7",
+    "source_label": false,
+    "source_text": "ERROR 입력한 인증번호가 일치하지 않습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "6798b486acc10bec",
+    "source_label": false,
+    "source_text": "USER 작성자 이름이 마스킹되지 않고 전체 표시됩니다. 비공개 처리 부탁드립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "ac778ba21d8292b2",
+    "source_label": true,
+    "source_text": "POKER 토너 우승칩 현금으로 찾아가세요. 참가비 충전은 아래 가입창입니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "a1f277a0ff3bfe5d",
+    "source_label": false,
+    "source_text": "PAY 공공 수영장 강습을 취소했는데 카드 승인 취소가 안 됐습니다. 처리 상황을 확인해 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "e4de044d98f9d196",
+    "source_label": true,
+    "source_text": "FILE 성인 몰래 촬영물 원본 폴더 이동했습니다. 구매 승인받고 내려받으세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "1486b7aa7607ee99",
+    "source_label": true,
+    "source_text": "BACCARAT 방이 바뀌었습니다. 아래 접속창에서 충전하고 계속 플레이하세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "39c0efeb2b619104",
+    "source_label": true,
+    "source_text": "SPIN 오늘 잭팟 인증 올립니다. 현금 넣고 같은 게임 하실 분 가입해요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "7f33e9a7e3ea8dce",
+    "source_label": true,
+    "source_text": "CASINO 잃은 금액 일부 다시 칩으로 넣어드립니다. 재충전 접수는 메시지 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "cc6ced019295102a",
+    "source_label": true,
+    "source_text": "경기 끝나고 찾는 분들 늦어요. MATCH 지금 계정 만들면 첫 충전 더 넣어줍니다.",
+    "status": "needs_service_context_review",
+    "reason": "The membership/deposit/return offer is visible, but identifying it as cash gambling relies on the private scenario family or English token. Obtain independent review; do not infer missing service facts.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "9912aad6e25cd08a",
+    "source_label": false,
+    "source_text": "SEARCH 검색어에 따옴표가 들어가면 빈 화면이 나옵니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "907c27f7540080e5",
+    "source_label": false,
+    "source_text": "공공 와이파이 안내를 누르면 SPIN 가입창으로 넘어갑니다. 연결 주소 점검을 부탁드립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "c0fc9816fbab7101",
+    "source_label": true,
+    "source_text": "PICK 실배터 모집, 사설 경기 배당 열림. 충전 문의 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "ee6bb7eb496a06b7",
+    "source_label": false,
+    "source_text": "EMAIL 답변 알림을 받을 전자우편 주소를 확인해 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "e4e2cbee90418b03",
+    "source_label": false,
+    "source_text": "DATE 접수일과 처리 완료일이 다른 경우 처리 내역을 확인해 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "0404faa2cc0e6c07",
+    "source_label": false,
+    "source_text": "KOREAN 한글 자음과 모음을 따로 적어 따라 쓰는 학습지를 요청합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "91ea927bd538f172",
+    "source_label": true,
+    "source_text": "BET 회원 유치하실 분, 충전 실적에 따라 정산합니다. 배팅장 총판 자리 남았어요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "60c9519cd4d779ca",
+    "source_label": true,
+    "source_text": "CASINO 칩 구매 단위 낮췄습니다. 실제 돈으로 딜러 게임 하실 분 입장하세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "5fdf5e6a7ae4c790",
+    "source_label": false,
+    "source_text": "LINK 옆 댓글에 달린 주소는 제 것이 아닙니다. 본문에 첨부한 지도만 확인해 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "b4cb40e59ed2fe9f",
+    "source_label": false,
+    "source_text": "SPELL 초성 퀴즈 수업 자료의 정답을 교사에게만 보여주는 기능이 필요합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "f0414c8e477fa54b",
+    "source_label": false,
+    "source_text": "NOTICE 기상 상황에 따라 야외 프로그램이 취소될 수 있습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "7d667e75d417df0f",
+    "source_label": true,
+    "source_text": "JOB 퇴근 후 부업 찾으세요? 저희 사설 배팅방에 충전하고 조합 따라오시면 됩니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "8b552a6edd35c9ff",
+    "source_label": true,
+    "source_text": "RACE 휴대폰 경마방입니다. 예치금 넣고 가상 말에 배팅하실 분 모집해요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "3b2a67d57b99746b",
+    "source_label": true,
+    "source_text": "SPIN 신규 충전 행사, 릴 당첨금 현금 지급. 가입받아요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "0862a66a872c5370",
+    "source_label": true,
+    "source_text": "REELS 소액 넣어도 출금 잘 됩니다. 추천 코드로 충전하면 추가칩 챙겨드려요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "d522373b071f7359",
+    "source_label": true,
+    "source_text": "PICK 어제 물어보신 사설 배팅 계정 열어뒀어요. 입금하시면 바로 시작됩니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "16cee4dc62342036",
+    "source_label": true,
+    "source_text": "SLOT 현금 출금 회원 모집 / 신작 릴 / 첫 입금 추가 / 가입창 열기.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "169d0e91496b995e",
+    "source_label": true,
+    "source_text": "네, CASINO 초대 가능해요. 실제 현금 테이블이라 먼저 충전 안내 드릴게요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "ca1d50857914b0cb",
+    "source_label": false,
+    "source_text": "RENT 공공 자전거 대여료가 중복 청구됐습니다. 이용 기록을 확인해 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "a556d5466c98b1ef",
+    "source_label": true,
+    "source_text": "오늘도 SPORTS 정산 끝났습니다. 사설 승부방 찾는 분은 연결창 눌러 가입하세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "cc589335069c1f13",
+    "source_label": false,
+    "source_text": "PHONE 연락 가능한 번호를 입력하면 처리 결과를 안내받을 수 있습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "4fdc6f1622848a8b",
+    "source_label": false,
+    "source_text": "CREDIT 도서관 복사카드 환불 신청합니다. 폐관으로 남은 금액을 쓸 수 없습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "4dcf62241f51f24f",
+    "source_label": false,
+    "source_text": "SLOT 잔액이 있다고 연락이 왔지만 사용한 적 없습니다. 제 개인정보가 어디서 나갔는지 걱정됩니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "f4b5272a5b1aad6f",
+    "source_label": true,
+    "source_text": "SLOT 당첨 잔액 즉시 출금. 첫 입금 회원 지금 받습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "58add386daa34962",
+    "source_label": false,
+    "source_text": "MENU 홈페이지 글씨 색이 배경색과 비슷해 읽기 어렵습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "ef0be2973550bb07",
+    "source_label": false,
+    "source_text": "BANK 지방세 환급 계좌를 잘못 입력했습니다. 본인 확인 후 정정하고 싶습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "c4c752528defcef6",
+    "source_label": false,
+    "source_text": "MAP 관광 지도 글씨가 작아서 확대하면 일부가 잘립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "eccc4d828ac6e0bd",
+    "source_label": true,
+    "source_text": "SLOT 제 코드 넣고 입금하세요. 당첨금 출금하는 슬롯 계정 바로 나옵니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "c588f5ab01b54c5c",
+    "source_label": true,
+    "source_text": "PICK 세 경기 묶어서 들어갔습니다. 저랑 현금 배팅할 사람 추천란 비우지 마세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "ff65aab7d6205f1e",
+    "source_label": true,
+    "source_text": "LIVE 바카라 현금 테이블 아직 열려요. 충전할 분 쪽지 남겨주셈.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "5196960f0e731edd",
+    "source_label": true,
+    "source_text": "POKER 다른 방 잔액 이전 상담합니다. 현금 배팅 이용자는 등급 맞춰드려요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "b7e0e95bf5663793",
+    "source_label": false,
+    "source_text": "ARCHIVE라는 자료방에 제 성인 시절 사생활 영상이 올라갔다고 합니다. 삭제 지원 창구를 찾고 있습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "767d032944e9ea38",
+    "source_label": true,
+    "source_text": "POKER 현금 테이블 열렸어요. 칩 충전하고 참가하면 남은 칩 환전해드립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "1c54d8d8b5d48763",
+    "source_label": true,
+    "source_text": "ARCHIVE 성인 몰래 촬영본 매주 추가됩니다. 구독 계정 결제창 연결해드려요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "9d59680a09a99c7c",
+    "source_label": true,
+    "source_text": "HOLDEM 칩 환전 시간 늘렸습니다. 온라인 현금방 신규 참가 접수해요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "07d948b6af1f2697",
+    "source_label": false,
+    "source_text": "DONE 첨부파일 전송이 완료되었습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "a8203be874957c67",
+    "source_label": true,
+    "source_text": "SPIN 프리스핀만으로 출금 안 됩니다. 현금 충전할 회원께 조건 맞춰드려요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "cfbaa04292d91cfd",
+    "source_label": true,
+    "source_text": "JOB 야간 참여자 받습니다. 회차게임 판돈 충전하고 적중하면 계좌로 찾아가세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "7ee23f284a7e1aa1",
+    "source_label": false,
+    "source_text": "ROAD 학교 앞 보도블록이 들떠 있습니다. 유모차가 걸려 넘어질 뻔했습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "42220f2c59f16fee",
+    "source_label": false,
+    "source_text": "문화센터 게시물에 BET 출금 보장이라는 작성자가 계속 나타납니다. 작성자 검색도 잘 안 됩니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "6c656f47e1d48813",
+    "source_label": true,
+    "source_text": "ROULETTE 소수방이라 가입 승인 필요합니다. 현금 칩 이용할 분 쪽지 남겨요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "4616b667801fe7b7",
+    "source_label": true,
+    "source_text": "ARCHIVE 찾으셨던 비동의 성인 영상 저한테 있어요. 금액 맞으면 원본 보내드릴게요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "f56a49ead0bc5d56",
+    "source_label": true,
+    "source_text": "심야 해외 경기 현금 배팅은 BET 여기서 받습니다. 결과 뜨면 출금부터 처리해요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "615abe42d54a03fe",
+    "source_label": true,
+    "source_text": "CASINO 접속 안 되던 분 여기로 오세요. 판돈 충전창 정상 열렸습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "5bb1cb12d92993fa",
+    "source_label": true,
+    "source_text": "HOLDEM 온라인 현금방 사람 부족해요. 칩 살 분 링크 타고 들어오세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "201febbf57622f42",
+    "source_label": true,
+    "source_text": "POWER 회차 배팅 입장, 현금 예치 회원 추가 모집합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "6782d4750a49edba",
+    "source_label": false,
+    "source_text": "BET라는 이름의 주민 보드게임 모임입니다. 참가비 없이 카드 확률을 배우며 현금이나 상품은 걸지 않습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "608486032302ca8c",
+    "source_label": false,
+    "source_text": "SAFE 자녀가 공공 컴퓨터로 도박 사이트에 들어가지 않도록 상담 안내를 설치해 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "84dd07f4e9bb76b6",
+    "source_label": true,
+    "source_text": "오늘 야구 두 경기만 묶어서 갑니다. BET 첫 입금은 더 얹어드리니 가입창 확인해요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "d47a07f1bf9e6ff5",
+    "source_label": false,
+    "source_text": "THANKS 담당자 설명 잘 읽었습니다. 말씀하신 서류를 준비해서 다시 방문하겠습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "612b6d3aa8e3474e",
+    "source_label": false,
+    "source_text": "FILE 판매 글에 제 연락처가 함께 적혀 있습니다. 사생활 영상과 개인정보를 동시에 내려야 합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "4c98d949e8aef490",
+    "source_label": true,
+    "source_text": "SLOT 여기서 어제 딴 돈 받았습니다. 현금 배팅 계정 필요하면 쪽지 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "557fc273339cae5c",
+    "source_label": true,
+    "source_text": "BET 소액 출금 먼저 해봤어요. 새로 입금하실 분께 추가 지급 챙겨드려요.",
+    "status": "needs_service_context_review",
+    "reason": "The membership/deposit/return offer is visible, but identifying it as cash gambling relies on the private scenario family or English token. Obtain independent review; do not infer missing service facts.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "4a3b9509606cdce1",
+    "source_label": false,
+    "source_text": "MODEL B0-24 장비를 체육센터에서 대여했는데 반납 위치가 잠겨 있습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "aed92c388fefe327",
+    "source_label": false,
+    "source_text": "MENU 본문으로 바로가기",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "e17af7a1fb701d6f",
+    "source_label": true,
+    "source_text": "PICK 사설 승부방 추천 가입, 현금 판돈 예치 가능, 출금 담당 연결.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "584b7b07431da3ef",
+    "source_label": true,
+    "source_text": "버스 시간이 바뀌어서 기다리기 길죠. 그동안 BET 사설 경기방 충전하고 배팅해보세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "5693e7430448d3c3",
+    "source_label": false,
+    "source_text": "FORM S1 서식과 S2 서식 중 어느 것을 제출해야 하나요?",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "7bdd41535d7e9056",
+    "source_label": true,
+    "source_text": "저도 반신반의했는데 MATCH 적중금 들어왔네요. 같은 조건 원하면 가입 코드 받아가세요.",
+    "status": "needs_service_context_review",
+    "reason": "The membership/deposit/return offer is visible, but identifying it as cash gambling relies on the private scenario family or English token. Obtain independent review; do not infer missing service facts.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "c24344e90114ef36",
+    "source_label": true,
+    "source_text": "CASINO 추천 가입하면 현금 전환 칩 지급합니다. 실제 입금 계정만 참여돼요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "cdaa0328abe60e31",
+    "source_label": true,
+    "source_text": "SLOT 오래된 계정도 이전해드립니다. 남은 돈 옮기고 계속 배팅하세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "57cc337dde39cbd9",
+    "source_label": false,
+    "source_text": "POINT 지역화폐 충전이 두 번 처리됐습니다. 중복 결제분 반환 절차를 문의합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "73312fbeac6006b0",
+    "source_label": false,
+    "source_text": "SURVEY 주민들이 가장 자주 받는 스팸 유형을 설문으로 조사하려 합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "8b42a7438c13f396",
+    "source_label": false,
+    "source_text": "PAY 사회적기업 제품 구매 영수증을 보조금 정산에 첨부할 수 있나요?",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "1a2a24333a11c00e",
+    "source_label": true,
+    "source_text": "SPORTS 사설 배팅 한도 올려드립니다. 큰 판돈 이용하는 분 소개받아요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "75f31f7c26335117",
+    "source_label": false,
+    "source_text": "ROULETTE 게임에서 돈을 잃은 뒤 채무 독촉을 받습니다. 법률상담 예약이 가능할까요?",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "924a82bc9295911c",
+    "source_label": false,
+    "source_text": "DRAIN 비가 오면 골목 배수구가 역류합니다. 사진을 첨부했습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "5c19f2c961bd403a",
+    "source_label": true,
+    "source_text": "POKER 현금 판돈 한도 높은 방입니다. 칩 구매하고 오늘 게임 들어오세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "2fed6432f62ec832",
+    "source_label": true,
+    "source_text": "CASINO 충전 보너스 소진 조건 안내합니다. 실제 현금 배팅 가입 문의 받습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "e90ea02ca9b32488",
+    "source_label": false,
+    "source_text": "BONUS 자원봉사 추가 시간이 아직 반영되지 않았습니다. 확인서를 제출하면 되는지 궁금합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "677f79c696cc92e4",
+    "source_label": false,
+    "source_text": "구청 행사 글에 PICK 사설 배당 가입이라는 제목이 붙었습니다. 제목이 바뀐 경위를 확인해 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "6085add4be7112b8",
+    "source_label": false,
+    "source_text": "TEXT 제목에는 민원 내용을 간단히 적어 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "7abe6727ffed8c99",
+    "source_label": false,
+    "source_text": "PICK 사설방에서 출금하려면 더 입금하라고 합니다. 이미 보낸 돈 관련 상담을 받고 싶습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "87013dabf6bd82d4",
+    "source_label": false,
+    "source_text": "CASH 버스 충전기에서 돈만 들어가고 카드 잔액은 그대로입니다. 영수증은 보관하고 있습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "41ac19799b04099a",
+    "source_label": true,
+    "source_text": "CLUB 당사자 삭제 요청된 성인 자료 다시 열었습니다. 회비 내고 입장할 분 받습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "b46ddb8432fb22ab",
+    "source_label": false,
+    "source_text": "PREV 이전 댓글 보기",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "166572460240caba",
+    "source_label": true,
+    "source_text": "BET 조합 따라온 분들은 오늘 수익 났죠? 다음 회차 입금은 제 소개창으로 받습니다.",
+    "status": "needs_service_context_review",
+    "reason": "The membership/deposit/return offer is visible, but identifying it as cash gambling relies on the private scenario family or English token. Obtain independent review; do not infer missing service facts.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "e408e08a593b9a60",
+    "source_label": true,
+    "source_text": "주말 축구 조합 올려뒀어요. 사설 BET 가입하고 예치금 넣으시면 참여됩니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "7414b008335579ff",
+    "source_label": false,
+    "source_text": "SAFE 공개 게시판에 주민등록번호를 적지 않도록 입력 단계에서 안내해 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "f85c5109e29e6e17",
+    "source_label": false,
+    "source_text": "TABLE 화면 확대 시 표의 마지막 열을 읽을 수 없습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "66dfe59b34dc455e",
+    "source_label": false,
+    "source_text": "FILE 기록물 목록에 파일 크기가 빠졌습니다. 모바일 이용자가 다운로드 용량을 알 수 있게 해주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "e48a00a85feb3ee9",
+    "source_label": false,
+    "source_text": "LIVE 카메라 화면에 주민 얼굴이 너무 크게 나옵니다. 촬영 방향 조정이 필요합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "f8ece4c3e23368a8",
+    "source_label": false,
+    "source_text": "FILE 업로드 한도를 넘었다고 합니다. 주민 제안 도면을 나눠 제출해도 되나요?",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "14f5cb601ef75762",
+    "source_label": false,
+    "source_text": "SIGN 문화회관 자원봉사 설명회 예약을 받습니다. 활동 시간과 역할을 안내합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "62124274719d6ab8",
+    "source_label": true,
+    "source_text": "축구 보다가 그냥 넘기지 마세요. MATCH 사설방에서 배당 고르고 당첨금 바로 찾습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "6a6e265c2443e37c",
+    "source_label": true,
+    "source_text": "SPIN 첫 충전 프리스핀 챙겨가세요. 가입 후 현금 전환 계정 열어드립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "a58b61872a7aba96",
+    "source_label": false,
+    "source_text": "AREA 발생 장소를 지도에서 선택하거나 도로명으로 입력해 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "6f8211a57d422019",
+    "source_label": false,
+    "source_text": "DESIGN 중요 안내가 화면 밖에 밀려서 휴대폰에서는 보이지 않습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "f5717bf7d7782ec4",
+    "source_label": true,
+    "source_text": "사설 배팅장 PICK 하부 파트너 접수합니다. 가입 링크랑 입금 관리창 제공해요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "18c2d3815ebe9f12",
+    "source_label": true,
+    "source_text": "ROULETTE 사설방 같이 돌려요. 입금하면 칩 넣어주고 딴 돈 바로 빼줘요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "f0c98d93a04835d9",
+    "source_label": true,
+    "source_text": "BET 찾으시는 조건 맞아요. 사설 경기방이고 돈 넣으면 배당대로 찾아가실 수 있어요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "37fd25894880326b",
+    "source_label": true,
+    "source_text": "HOLDEM 온라인 캐시방 인원 받습니다. 판돈 입금하고 자리 예약하세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "fae3a490f1323eb5",
+    "source_label": false,
+    "source_text": "민원 답변 대신 POWER 충전 문의라는 댓글이 달렸습니다. 담당 부서의 실제 답변을 기다립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "f3f875e698741cc0",
+    "source_label": true,
+    "source_text": "CASINO 기존 고액 회원 환승 받습니다. 현금 예치금 조건 맞춰 안내합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "acf641ec1b7af63a",
+    "source_label": true,
+    "source_text": "BET 사설방 운영팀입니다. 충전 회원 모집하실 분에게 전용 추천 주소 드립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "eb033b07c699d46b",
+    "source_label": false,
+    "source_text": "LIGHT 골목 보안등이 며칠째 꺼져 있습니다. 야간 귀가가 불편합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "08499a6b4ca24875",
+    "source_label": true,
+    "source_text": "HOLDEM 온라인 사설방 정산 담당입니다. 충전 회원 신규 접수해요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "380b6a5596f86650",
+    "source_label": false,
+    "source_text": "VAULT는 디지털 보관함 메뉴 이름입니다. 본인 인증 후 주민 제출 서류를 다시 내려받을 수 있습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "62b8b6ff8cebc721",
+    "source_label": true,
+    "source_text": "건의 내용에 공감합니다. POWER 숫자 회차에 현금 거실 분은 제 연결창으로 오세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "9a7c41f6f0fc387d",
+    "source_label": false,
+    "source_text": "MARKET 마을 장터 참여 상인을 모집합니다. 식품 판매자는 영업 신고 확인서를 준비해 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "cc280b29c56b88ce",
+    "source_label": true,
+    "source_text": "타사 배팅 내역 있으시면 MATCH 등급 올려드립니다. 입금창은 프로필에 있어요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "9f993d5e0a0feb45",
+    "source_label": false,
+    "source_text": "FILE 첨부한 사진은 본인이 촬영한 가로등 고장 위치입니다. 원본 해상도로 제출해도 되나요?",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "246424c1623e13a2",
+    "source_label": true,
+    "source_text": "SIDE 간단한 숫자 선택으로 시작해요. 돈 걸고 회차 맞히면 배당 현금 지급합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "669e6aaa73ccbc4b",
+    "source_label": true,
+    "source_text": "JACKPOT 현금 배팅 회원 환영. 가입하고 입금 혜택 챙겨요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "58b396f338f3fb97",
+    "source_label": true,
+    "source_text": "LIVE CASINO 새 테이블로 오세요. 현금 충전 손님 지금 바로 받습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "8c2fea6215e9f1f0",
+    "source_label": false,
+    "source_text": "POINT 도서관 출석 스탬프 행사 참여자 모집입니다. 돈으로 바꾸는 포인트는 아닙니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "d2c5347ddddb8cf7",
+    "source_label": true,
+    "source_text": "FILE 비동의 성인 사생활 유출본 판매창 다시 열었습니다. 구매 문의는 메시지요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "d9a49b5834ccd13e",
+    "source_label": false,
+    "source_text": "APPLY 동네 환경정화 활동에 참여할 분을 모집합니다. 준비물은 현장에서 제공합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "0e0b4447cd9d3277",
+    "source_label": true,
+    "source_text": "MATCH 어제 두 폴더 맞아서 바로 뺐습니다. 저처럼 현금으로 타실 분은 아래 가입하세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "b99c9a9f01f38e3e",
+    "source_label": false,
+    "source_text": "FILE 도면과 사진은 첨부할 수 있지만 개인정보가 보이면 가려 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "2916d8ffcaa44ce6",
+    "source_label": false,
+    "source_text": "MATH 카드 조합의 경우의 수를 계산하는 강연을 공공도서관에서 진행합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "fc27ab3c1dbdef8f",
+    "source_label": true,
+    "source_text": "CASINO 실시간 테이블 열렸습니다. 충전 후 바로 앉고 남은 칩은 현금으로 빼세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "59747e84e983eec0",
+    "source_label": false,
+    "source_text": "NAME 작성자 이름은 본인 확인에만 사용되며 게시판에는 일부만 표시됩니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "32b0d6920ecb2bd2",
+    "source_label": false,
+    "source_text": "BET 장비의 표면적 측정 결과를 공개자료로 받을 수 있나요? 실험실 견학 보고서에 쓰려고 합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "48f9a05b6c58ad6c",
+    "source_label": true,
+    "source_text": "FILE 성인 사생활 유출 묶음 찾는 댓글 봤습니다. 판매 중이니 구매창 들어오세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "4d5e2dc54e738d4b",
+    "source_label": true,
+    "source_text": "CLIP 삭제된 성인 몰카 파일 아직 판매 중입니다. 구독보다 개별 구매도 돼요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "0eb052233b4b8b3b",
+    "source_label": true,
+    "source_text": "주민 모임 잘 끝났어요. CASINO 현금 칩 충전 원하시는 분 따로 연락받습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "6fe1bf2d86fa8c1a",
+    "source_label": false,
+    "source_text": "TEXT 복사한 민원 내용의 자모가 분리되어 저장됩니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "855b85663c600fc9",
+    "source_label": true,
+    "source_text": "BLACKJACK 현금 테이블 자리 있어요. 가입 확인되면 칩 충전 안내드립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "14373c07a09e6e15",
+    "source_label": true,
+    "source_text": "사설 스포츠 BET 옮길 분 있나요? 쓰던 등급 맞춰주고 새 계정 접수 중입니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "8f924e9fba839e45",
+    "source_label": false,
+    "source_text": "POINT 도서관 독서 적립 혜택이 사라졌습니다. 지난달 대출 기록을 복구할 수 있을까요?",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "a0d49a144beaeab4",
+    "source_label": true,
+    "source_text": "SLOT 보너스 라운드 잘 나오네요. 실제 입금해서 하실 분 소개해드립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "c21f5295306a1d0a",
+    "source_label": false,
+    "source_text": "PASS 공공 캠핑장 이용권 결제에 실패했습니다. 예약을 유지할 방법이 있나요?",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "adcbee8763e7644e",
+    "source_label": true,
+    "source_text": "DICE 다음 주사위 회차 같이 갑니다. 입금하고 홀짝 배팅할 회원 받아요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "6b065b88c1da16ff",
+    "source_label": true,
+    "source_text": "BET 소개 코드 발급합니다. 신규 회원 첫 충전부터 총판 정산에 넣어요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "368518db5decfcf8",
+    "source_label": false,
+    "source_text": "ABC 어린이 알파벳 수업 교재를 점자로도 받을 수 있나요?",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "d0bc910a2cc1df81",
+    "source_label": true,
+    "source_text": "주차 안내 잘 봤습니다. CASINO 현금 테이블도 열었으니 가입하실 분 연락 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "88fc2cfe2bae4b21",
+    "source_label": true,
+    "source_text": "CASINO 밤새 운영합니다. 사설 테이블 이용하실 분 가입창으로 입금 문의 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "5812a7df9bd85e85",
+    "source_label": false,
+    "source_text": "CAFE 주민공동체 카페 이용 안내입니다. 수익금은 공간 운영비로 공개 정산합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "0055d091e05c9d99",
+    "source_label": false,
+    "source_text": "HEALTH 체력 측정 결과를 온라인으로 확인하려는데 본인 인증이 반복됩니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "db5666c7b5f75969",
+    "source_label": true,
+    "source_text": "POWER 오늘 신규 충전 추가금 있어요. 사설 회차게임 현금 배팅 가능합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "20c6ea7865918fb1",
+    "source_label": false,
+    "source_text": "CLUB 도서관 독서모임 회비는 없습니다. 책 대출만 직접 하시고 첫 모임 때 오시면 됩니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "234f422e1371e5e7",
+    "source_label": true,
+    "source_text": "CASINO 새 계정 첫충 챙겨드립니다. 칩 소진 조건 확인하고 현금 출금까지 받아가세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "70725a2d695ee415",
+    "source_label": false,
+    "source_text": "SPIN 실내 자전거 수업 추가 모집합니다. 주민센터 수강료와 준비물은 강좌 안내에 있습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "64e362ea673e7067",
+    "source_label": true,
+    "source_text": "HOLDEM 심야 캐시테이블 모집합니다. 입금 확인된 분부터 초대 보내요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "20581603cb9af8f0",
+    "source_label": false,
+    "source_text": "SPORTS 공원 농구 코트 예약 순서를 공개해 주세요. 같은 팀이 주말 시간을 모두 가져갑니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "dfd1be5649363487",
+    "source_label": true,
+    "source_text": "CLIP 동의 없이 퍼진 성인 영상 따로 갖고 있어요. 유료 전달받을 분 답글 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "559350814c14761f",
+    "source_label": false,
+    "source_text": "BET 가입창이 학교 안내 게시판에 왜 있나요? 학생들이 볼 수 있어서 담당자에게 알립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "d222e40719b56e2a",
+    "source_label": false,
+    "source_text": "CLUB 초대 메시지에 제가 동의하지 않은 성인 사진이 붙어 있습니다. 화면을 보관해도 되는지 문의합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "f9a18c1f58965fb6",
+    "source_label": false,
+    "source_text": "IME 자모가 분리되어 입력됩니다. 민원 제목을 수정해도 다시 같은 현상이 생깁니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "b4fb103a34b251df",
+    "source_label": false,
+    "source_text": "FONT 외국인 이름의 키릴 문자가 물음표로 저장됩니다. 입력을 지원해 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "1b1d29d11cd58920",
+    "source_label": false,
+    "source_text": "MATCH 우리 팀 경기 결과가 반대로 입력됐습니다. 심판 확인서를 첨부할 수 있을까요?",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "d73a0aeb1933a5d2",
+    "source_label": false,
+    "source_text": "GRAPH 도박 상담 건수의 연도별 변화를 그래프로 공개해 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "982057625da3f8a6",
+    "source_label": false,
+    "source_text": "SPIN 도자기 물레 체험이 주말에도 운영되는지 궁금합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "87e17c5f88e8756c",
+    "source_label": false,
+    "source_text": "REPLY 저도 같은 증상이 있습니다. 휴대폰보다 컴퓨터에서 더 자주 끊깁니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "e758f7c668ecba0c",
+    "source_label": false,
+    "source_text": "FILE 공유방에서 성인 피해 영상이 재게시됐습니다. 이전 삭제 요청 번호로 다시 접수할 수 있나요?",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "8ff10f909693c6de",
+    "source_label": true,
+    "source_text": "LIVE 출금 되냐고 하셨죠. 현금 딜러방이니까 충전 후 이긴 돈 정산해드립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "08f34b3114c71000",
+    "source_label": false,
+    "source_text": "READ 화면낭독기가 영문 약어를 한 글자씩 읽도록 바꿀 수 있나요?",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "284bde18d7648b59",
+    "source_label": true,
+    "source_text": "SPIN 슬롯 판돈 넣는 창 여기임. 가입하고 충전하면 당첨액 출금 가능해요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "a0b67d711bc0b3f2",
+    "source_label": false,
+    "source_text": "TAB 선택됨, 주민 제안 목록",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "65bb0b003c684db9",
+    "source_label": false,
+    "source_text": "OPEN 접수된 제안의 진행 상황을 로그인 없이도 볼 수 있도록 개선 바랍니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "57e187058f18fed9",
+    "source_label": false,
+    "source_text": "UNICODE 같은 한글인데 복사해서 붙이면 다른 글자로 취급됩니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "999dee946752aa41",
+    "source_label": true,
+    "source_text": "PICK 사설 배팅장 이전했습니다. 아래 주소에서 계정 만들고 충전하세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "92b088f33c886eea",
+    "source_label": true,
+    "source_text": "SLOT 출금 받았음. 현금 충전할 사람은 내 추천으로 가입하면 더 얹어줘요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "ebd8bb4b4c16e9f5",
+    "source_label": true,
+    "source_text": "HOLDEM 새 계정 첫 입금 챙겨드려요. 온라인 판돈방 찾으시면 메시지 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "eb7745b5272110d4",
+    "source_label": false,
+    "source_text": "HOLDEM 동아리 활동실 문의입니다. 실제 돈을 걸지 않는 카드 전략 토론 모임입니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "a4780d0831a7b91a",
+    "source_label": true,
+    "source_text": "REELS 추천 가입 전용창입니다. 슬롯 돌려 번 잔액은 계좌로 찾아가세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "8c23c17a02b81696",
+    "source_label": true,
+    "source_text": "LADDER 결과 대기 짧아요. 현금 판돈 걸고 맞히면 적중금 가져가세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "41d891121917112b",
+    "source_label": false,
+    "source_text": "PAY 체육센터 월 이용료가 자동으로 나갔습니다. 휴관일만큼 돌려받는 기준을 알려주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "5689a449e7ffe2e4",
+    "source_label": false,
+    "source_text": "MATCH 표시등이 계속 깜박입니다. 공공 와이파이 연결이 끊겨 접속 문의를 남깁니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "558aad18eb5bacf3",
+    "source_label": true,
+    "source_text": "BACCARAT VIP 입금 조건 별도로 잡습니다. 현금 게임 회원만 연락 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "abf2a244984caf17",
+    "source_label": false,
+    "source_text": "BUS 정류장 안내 음성이 너무 작아 노선을 구별하기 어렵습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "6d0bed53b4645612",
+    "source_label": false,
+    "source_text": "STYLE 화면 밖으로 이동한 텍스트를 개발자 도구에서 찾는 실습을 했습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "0098aee6b39daf78",
+    "source_label": false,
+    "source_text": "NEXT 더 많은 의견을 보려면 아래 버튼을 누르세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "0871ca8bc5ec2b77",
+    "source_label": false,
+    "source_text": "CLOSE 대화상자 닫기",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "d39761fc82e17664",
+    "source_label": true,
+    "source_text": "FILE 질문하신 비동의 성인 자료 묶음 남아있어요. 돈 보내고 받을 주소 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "5511a1a13e4f6a78",
+    "source_label": true,
+    "source_text": "BET 오래 쉬신 분도 다시 받습니다. 잔여 포인트 현금 전환은 접속 후 신청하세요.",
+    "status": "needs_service_context_review",
+    "reason": "The membership/deposit/return offer is visible, but identifying it as cash gambling relies on the private scenario family or English token. Obtain independent review; do not infer missing service facts.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "ebc55b2fdcc4972f",
+    "source_label": false,
+    "source_text": "SLOT 메모리 꽂는 자리가 고장 난 것 같습니다. 도서관 공용 컴퓨터 정비 부탁드립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "83642cb26d44ed98",
+    "source_label": true,
+    "source_text": "ROULETTE 지금 접속 가능합니다. 현금 넣고 돌린 뒤 적중액 바로 인출하세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "1664a76715c26426",
+    "source_label": false,
+    "source_text": "ALERT 제 계정으로 로그인했다는 알림이 왔는데 접속한 적 없습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "8ea60c32be9bb612",
+    "source_label": false,
+    "source_text": "BET 배팅이라는 단어가 야구 타격과 혼용됩니다. 청소년 체육교실 안내에서는 타격 연습으로 적어주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "9662e8b8e9bfafd6",
+    "source_label": false,
+    "source_text": "LOGIN 다른 사람의 접수 내역이 잠깐 보였습니다. 계정 연결 상태를 점검해 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "71bd18e2277b3510",
+    "source_label": true,
+    "source_text": "REELS 슬롯 충전 이벤트 끝나기 전에 와요. 실제 돈으로 할 회원 받음.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "1765d4dbd12c3a96",
+    "source_label": true,
+    "source_text": "REELS 폰에서도 돌아갑니다. 실제 돈으로 슬롯 하실 분 입금창 보내드려요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "d9b4daca82eaea3c",
+    "source_label": false,
+    "source_text": "PLAN 홈페이지 댓글마다 신고 버튼을 배치하면 도배 신고가 쉬울 것 같습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "7ccc91a36f1b2687",
+    "source_label": false,
+    "source_text": "PICK 시민이 추천하는 산책길 사진을 모으는 공모전 안내입니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "7e2176a0eba33354",
+    "source_label": false,
+    "source_text": "POINT 전망대 지도에 표시된 지점의 접근로가 폐쇄되어 있습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "a4608632b56a107f",
+    "source_label": false,
+    "source_text": "ARCHIVE 시립 기록관 사진 열람 서비스가 열렸습니다. 공개 동의를 받은 마을 행사 사진을 볼 수 있습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "1da1c37ab782740d",
+    "source_label": true,
+    "source_text": "CASINO 추천인 물으신 분 제 코드 쓰세요. 현금 충전 추가분 챙겨드립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "f1acba433a88a7e8",
+    "source_label": false,
+    "source_text": "OPEN 방문 상담은 평일에만 가능하며 점심시간에는 접수를 쉬고 있습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "7346ab2d2b91598f",
+    "source_label": true,
+    "source_text": "JACKPOT 정산 내역 확인시켜드려요. 현금 배팅할 신규 회원 받습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "854ea02a9af703d8",
+    "source_label": false,
+    "source_text": "ROULETTE 수학 체험 부스의 회전판이 잘 안 돌아갑니다. 당첨 경품 없는 확률 실습용입니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "04c15036bf03e15d",
+    "source_label": false,
+    "source_text": "BOARD 주민 제안에 달린 외부 링크의 목적지를 누르기 전에 확인할 수 있으면 좋겠습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "035569714590f46d",
+    "source_label": true,
+    "source_text": "ROULETTE 사설 테이블 초대. 현금 충전 코드 보내드립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "29beaab43772d1a1",
+    "source_label": true,
+    "source_text": "BET 사설 스포츠 가입·현금 충전·배당 정산, 오늘 접속 주소 안내합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "a05409c5f0df1409",
+    "source_label": false,
+    "source_text": "GAME 주사위 확률 실험에는 실제 돈을 쓰지 않습니다. 학교 체험 부스 신청서입니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "c22f218077c0f53f",
+    "source_label": true,
+    "source_text": "ROULETTE 재입장 고객 충전 보너스 있습니다. 딴 금액은 계좌 출금 신청하세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "894c7b8d9e3d4462",
+    "source_label": true,
+    "source_text": "추천으로 오신 분은 PICK 충전 확인 메시지만 주세요. 적중 배당은 그대로 드립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "ffdc776d08045967",
+    "source_label": true,
+    "source_text": "딜러 있는 BACCARAT 사설방입니다. 신규 충전하시는 분 추가 지급해요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "6251c636a87b1420",
+    "source_label": true,
+    "source_text": "PICK 입금자명 확인 꼭 해주세요. 사설 배팅장 첫 충전 승인 바로 해드립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "df24f1577c127542",
+    "source_label": false,
+    "source_text": "NEWS 기사에 나온 카지노 광고량 통계의 원자료를 찾고 있습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "171a09a14e3ad6b5",
+    "source_label": true,
+    "source_text": "RACE 가상 경주 판돈 충전창 열었습니다. 우승 번호 맞으면 바로 출금하세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "fed1f9be3eaf5ed9",
+    "source_label": true,
+    "source_text": "HOLDEM 온라인 캐시게임 칩 판매, 남은 칩 현금 정산, 참가자 받습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "d6bfa34917baac77",
+    "source_label": true,
+    "source_text": "오늘만 BLACKJACK 충전 수수료 빼드립니다. 현금 테이블 신규 가입 받습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "b8a362c3b1c1ddcc",
+    "source_label": true,
+    "source_text": "BET 주간 손실분 돌려받는 계정 접수해요. 기존 화면 보내주면 조건 안내합니다.",
+    "status": "needs_service_context_review",
+    "reason": "The membership/deposit/return offer is visible, but identifying it as cash gambling relies on the private scenario family or English token. Obtain independent review; do not infer missing service facts.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "8e1f7e956dfc96cb",
+    "source_label": false,
+    "source_text": "LIVE 체육대회 생중계 화면에 점수판이 안 보입니다. 자막으로라도 결과를 표시해 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "0152c297c95c9dee",
+    "source_label": true,
+    "source_text": "VIP CASINO 고액 현금 테이블 따로 있습니다. 판돈 충전할 분 전담 연결해요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "ab7e3c9fd2787663",
+    "source_label": false,
+    "source_text": "HOLDEM 현금방에 아들이 들어간 흔적을 봤습니다. 보호자가 상담받을 곳을 찾습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "4f973b36b3d7aca5",
+    "source_label": true,
+    "source_text": "POWER 네 다음 회차 가능해요. 돈 넣고 번호 배팅하실 분 초대할게요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "6f0617808607597f",
+    "source_label": false,
+    "source_text": "CODE 접수번호는 답변 조회에 필요하니 따로 보관해 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "7c9c4bfbc36fd53a",
+    "source_label": true,
+    "source_text": "VAULT 성인 피해영상 삭제본 유료방 재오픈했습니다. 구독 신청창 남깁니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "b8400516d941e8cf",
+    "source_label": false,
+    "source_text": "MEDIA 피해자 동의 없는 영상 유포가 남기는 피해를 다루는 시민 강좌입니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "d744af75764e281f",
+    "source_label": false,
+    "source_text": "CLASS 문화센터 유료 도예 강좌 재료비가 수강료에 포함되는지 문의합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "517b389c0259c61f",
+    "source_label": false,
+    "source_text": "MAIL 답변 알림이 이전 주소로 갑니다. 계정 정보를 바꿔도 반영되지 않습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "976415b2115bc4b2",
+    "source_label": true,
+    "source_text": "CASINO 입장 문의는 연결창으로 주세요. 판돈 충전과 당첨금 인출 모두 됩니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "fe186cedfd408a39",
+    "source_label": false,
+    "source_text": "CROSS 횡단보도 신호 시간이 짧아 어르신이 건너기 어렵습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "ee3cd6a640e22794",
+    "source_label": true,
+    "source_text": "CLUB 성인 유출영상 방 초대 가능해요. 유료 회원으로 접수하시면 바로 열립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "2d8c7249e620b8fd",
+    "source_label": true,
+    "source_text": "VAULT 몰카 성인 자료방 월회원 모집해요. 결제하고 초대 코드 받아가세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "fc6a83b0d24e9598",
+    "source_label": true,
+    "source_text": "오늘 배구 배당 열렸습니다. PICK 링크로 충전하면 적중액 계좌로 정산해요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "3c436a8f432d1dd2",
+    "source_label": false,
+    "source_text": "WAIT 지난주에도 문의했는데 아직 처리 중으로 나옵니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "a73a838e2596a34a",
+    "source_label": true,
+    "source_text": "CASINO 라이브 테이블, 현금 칩 충전 가능. 입장창은 여기.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "dd8f3b1d16a22e47",
+    "source_label": false,
+    "source_text": "LIVE 주민 음악회 온라인 관람 주소입니다. 회원 가입 없이 시청할 수 있습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "4b1482299a12fa91",
+    "source_label": true,
+    "source_text": "ROULETTE 소개받고 오신 분 환영해요. 판돈 넣고 돌릴 새 회원 접수합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "f3e708a46b2e639c",
+    "source_label": false,
+    "source_text": "CLIP 마이크 고정 부품을 대여하고 싶습니다. 문화회관 장비 예약 메뉴를 찾지 못했습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "abb84dae83747506",
+    "source_label": true,
+    "source_text": "PICK 소개창으로 들어오시면 됩니다. 사설 배팅 입금 회원 혜택 따로 드려요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "ce6bfd2d0f826049",
+    "source_label": true,
+    "source_text": "SLOT 출금 빠른 곳 찾으셨죠. 충전창 보내드리니 첫 입금 혜택 받으세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "697fe37f2578dab4",
+    "source_label": false,
+    "source_text": "GATE C03 출입문이 휠체어 통행 중 닫힙니다. 센서 점검을 부탁드립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "5baa55d242443f9c",
+    "source_label": true,
+    "source_text": "CLUB 동의 없이 퍼진 성인 파일 내려받을 유료 멤버 구합니다. 초대 문의 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "5e399f7609dba430",
+    "source_label": false,
+    "source_text": "ARCHIVE 유출본이라며 협박 문자가 왔습니다. 가족에게 알리기 전에 비공개 상담을 받고 싶습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "3f97ad17c1cede89",
+    "source_label": false,
+    "source_text": "CLIP 시민 강연 하이라이트를 편집했습니다. 출연자가 공개에 동의한 장면만 홈페이지에 올렸습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "ea72afc813952f51",
+    "source_label": false,
+    "source_text": "WAIT 예약 가능한 시간을 확인하고 있습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "de2cb18e56db16f5",
+    "source_label": true,
+    "source_text": "SLOT 어제 마이너스였는데 복구했어요. 같이 판돈 넣고 돌릴 사람만 연락해요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "797a42a1b682ce75",
+    "source_label": true,
+    "source_text": "비공개 BACCARAT 방 같이 하실 분. 초대받고 현금 충전하면 테이블 들어갑니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "ec05b1f84ebc2bb4",
+    "source_label": true,
+    "source_text": "도서관 자리 잡기 어렵네요. PICK 사설 스포츠는 여기 가입해서 판돈 넣으시면 됩니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "211fa3c4b304a68a",
+    "source_label": false,
+    "source_text": "CLUB 회비를 내야 제 영상 유포 여부를 보여준다고 합니다. 직접 결제하지 않고 확인받을 방법이 있을까요?",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "724cfa09cda5e236",
+    "source_label": true,
+    "source_text": "CASINO 개인 추천으로만 받습니다. 현금 배팅 시작할 분 초대 링크 요청하세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "1c744093089a5684",
+    "source_label": true,
+    "source_text": "BACCARAT 소액 테이블 새로 팠어요. 현금 넣고 같이 플레이할 사람 받습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "04a7a6a91e3909bc",
+    "source_label": true,
+    "source_text": "BET 당첨금 분할 정산도 돼요. 사설 경기방 예치 회원 새로 받습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "5ff19b5384a255e6",
+    "source_label": true,
+    "source_text": "SPIN 현금 슬롯 충전 이벤트, 계정 개설, 당첨 잔액 출금, 문의 받습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "30b5aeaea613339e",
+    "source_label": true,
+    "source_text": "CASINO 오늘 밤 현금 테이블 할 분 모여요. 입금창은 답장으로 보내드림.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "c59e918050f0cc00",
+    "source_label": false,
+    "source_text": "RAMP 경사로 입구를 차량이 막고 있습니다. 통행로 확보를 요청합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "10a972f714667c1d",
+    "source_label": true,
+    "source_text": "BET 첫충 추가 / 사설 스포츠 / 당첨금 계좌 정산 / 신규 접수.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "c0d4b9df9d67401b",
+    "source_label": false,
+    "source_text": "도서 검색 결과에 LIVE 현금 테이블이 뜹니다. 책을 찾으러 들어갔다가 엉뚱한 화면을 봤어요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "edc4e388a90ba94f",
+    "source_label": false,
+    "source_text": "WATER 공동 수도 계량기 점검 일정을 알려주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "9668037ff1c00b0b",
+    "source_label": false,
+    "source_text": "POINT 봉사 포인트가 현금처럼 표시돼 혼동됩니다. 금전 환전이 안 되는 항목임을 화면에 적어주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "9ea0699867a4b263",
+    "source_label": false,
+    "source_text": "WALK 주민 걷기 모임은 참가비 없이 운영됩니다. 걷기 기록은 외부에 공개하지 않습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "9e91bdc952f0c788",
+    "source_label": false,
+    "source_text": "LOT B08 주차 구획에 공사 자재가 쌓여 있습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "89ae4b68f1ba9b7c",
+    "source_label": true,
+    "source_text": "CLUB 삭제 요청된 성인 촬영본 보관방이에요. 이용권 구매하실 분 쪽지 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "b4449537e5570cb5",
+    "source_label": false,
+    "source_text": "SHARE 민원 답변 링크를 전달하면 개인정보까지 보이나요?",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "c18f2ac77c3eacdc",
+    "source_label": false,
+    "source_text": "CLIP이라는 계정이 제 성인 영상을 판매한다고 들었습니다. 신고 자료를 어떤 방식으로 제출하나요?",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "7c3b8f798f424463",
+    "source_label": true,
+    "source_text": "CREDIT 투자 대신 스포츠 배당으로 가실 분, 현금 예치하고 베팅방 들어오세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "34acec2201b883d9",
+    "source_label": true,
+    "source_text": "ROULETTE 소액도 받아요. 현금 걸고 돌리시려면 가입창부터 열어주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "da5076bb69891b63",
+    "source_label": false,
+    "source_text": "SAFE 성인 디지털 성범죄 피해자 지원 안내를 복지관에도 비치해 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "89d9a1a0f59419f2",
+    "source_label": true,
+    "source_text": "행사 사진 감사합니다. HOLDEM 온라인 캐시방 새 회원도 받고 있으니 칩 충전하러 오세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "8dff160d768d9c82",
+    "source_label": false,
+    "source_text": "BOOK 독립서점 도서 구매 할인권을 도서관에서 받을 수 있는지 궁금합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "e1c0f289d9cd7753",
+    "source_label": false,
+    "source_text": "FRAME 삽입된 예약창만 흰색으로 나옵니다. 다른 메뉴는 정상입니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "461ac0f8d803ade1",
+    "source_label": false,
+    "source_text": "CASH 무인 주차기에서 현금 거스름돈이 나오지 않았습니다. 현장 접수 번호를 알려주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "a854a432c80d82b2",
+    "source_label": true,
+    "source_text": "BET 주소 또 바뀌었어요. 기존 회원 충전과 현금 출금은 새 창에서 하시면 됩니다.",
+    "status": "needs_service_context_review",
+    "reason": "The membership/deposit/return offer is visible, but identifying it as cash gambling relies on the private scenario family or English token. Obtain independent review; do not infer missing service facts.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "2409c7894c91c31e",
+    "source_label": false,
+    "source_text": "BOOK 2026-014 대출 도서가 반납 처리되지 않았습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "dc1f91cca868a069",
+    "source_label": false,
+    "source_text": "GUIDE 외국인 주민은 본인 확인 서류 종류를 상담 창구에서 안내받을 수 있습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "d6d6b67a200a7f69",
+    "source_label": false,
+    "source_text": "RACE 시민 달리기 행사는 기록 측정만 합니다. 완주 후 기념품 수령 장소를 문의합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "955149cac08c0854",
+    "source_label": false,
+    "source_text": "POKER 확률 수업에서 카드를 사용하려 합니다. 돈이나 경품 없이 계산만 하는 활동 계획입니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "fc7b45cec8aae004",
+    "source_label": true,
+    "source_text": "집에서 룰렛 돌리실 분, CASINO 가입하고 예치금 넣으면 당첨금 출금됩니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "cf7685109cc2ddac",
+    "source_label": true,
+    "source_text": "HOLDEM 캐시방 아직 자리 있어요. 온라인 칩 충전하고 들어오실 분 답글 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "22ecd2d782735383",
+    "source_label": false,
+    "source_text": "END 문의가 해결되지 않았으면 기존 접수번호로 추가 의견을 남겨 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "07ce36c86bd897ec",
+    "source_label": false,
+    "source_text": "OPEN 첨부문서 미리보기 열기",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "aab7e3df33ebd91b",
+    "source_label": false,
+    "source_text": "AGREE 위 제안에 동의합니다. 아이들과 이동할 때 특히 불편했습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "d8732d40fe404880",
+    "source_label": false,
+    "source_text": "STYLE 고대비 모드에서 버튼 글자가 사라집니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "085ec68042b2afbe",
+    "source_label": true,
+    "source_text": "SLOT 잭팟 뜨면 바로 정산합니다. 현금 충전하고 오늘 신작 돌려보세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "1856dd1923bad12d",
+    "source_label": true,
+    "source_text": "PICK 배팅 회원 관리할 실장님 모십니다. 입금 고객 유치분은 당일 계산합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "c0375d5855ad17b1",
+    "source_label": true,
+    "source_text": "CLUB 비동의 성인 촬영본 자료방 옮겼어요. 유료 가입 초대 다시 받습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "341101a935ed829d",
+    "source_label": false,
+    "source_text": "ARCHIVE 오래된 마을지도 원본을 열람하고 싶습니다. 방문 예약은 어느 메뉴에서 하나요?",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "298e96d8763ff67e",
+    "source_label": false,
+    "source_text": "CACHE 브라우저 기록을 지워도 예전 공고가 보입니다. 서버 반영 여부를 확인해 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "502bb2156cd78b9f",
+    "source_label": true,
+    "source_text": "SPORTS 고객 몇 분만 데려오셔도 됩니다. 현금 배팅 이용액 따라 매주 떼어드립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "3d87bfebacf4211a",
+    "source_label": false,
+    "source_text": "DELETE 탈퇴한 뒤에도 작성한 민원에 실명이 남아 있습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "7c4241d0fefb2bdc",
+    "source_label": false,
+    "source_text": "CARE 보건소 금연 상담을 예약하려는데 확인 문자가 오지 않습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "9b29e40ad851b408",
+    "source_label": true,
+    "source_text": "LIVE 배팅장 홍보 채널 있으신 분 연락 주세요. 이용자 판돈에 연동해서 지급합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "def67cd529cce406",
+    "source_label": false,
+    "source_text": "CASINO는 이번 시민영화제 상영작 제목입니다. 관람 신청은 시립도서관 안내 창에서 받습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "4a9456eec6a3e36a",
+    "source_label": true,
+    "source_text": "POWER 초대 가입하면 회차 배팅금 더 얹어요. 현금 충전하실 분 요청 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "e9aa64017bf5e388",
+    "source_label": true,
+    "source_text": "LIVE VIP 칩 현금 정산창입니다. 새로 충전할 분 가입부터 해주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "b187029901843b3e",
+    "source_label": true,
+    "source_text": "ARCHIVE 피해자 요청으로 내려간 성인 영상 보관본 있어요. 유료 구매 링크 드립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "ee21b0b924470282",
+    "source_label": true,
+    "source_text": "ARCHIVE 성인 피해 영상 삭제본 따로 보유 중입니다. 결제한 분에게 전체 목록 줍니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "4321f44e2563f710",
+    "source_label": false,
+    "source_text": "DATA 학생들이 광고 문구와 일반 안내를 분류해 보는 수업을 준비합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "b4c5e30a4f625a30",
+    "source_label": true,
+    "source_text": "POINT 앱테크처럼 들어오시면 돼요. 사설 게임에 판돈 넣고 이긴 돈 출금합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "f5f175418dc34676",
+    "source_label": true,
+    "source_text": "BACCARAT 입금 대기 없이 시작합니다. 회원 창 열고 충전 금액 보내주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "97decb8e95243882",
+    "source_label": false,
+    "source_text": "LOAD 댓글을 불러오는 중입니다. 잠시 후 다시 확인해 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "9de3fb7ea1282e3c",
+    "source_label": true,
+    "source_text": "POWER 사설 회차 번호 배팅 가입, 입금 계좌 안내 및 적중금 지급.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "a90f87c0f5434c97",
+    "source_label": true,
+    "source_text": "SLOT 새 게임 들어왔습니다. 입금하고 돌리면 당첨 잔액 현금으로 뺄 수 있어요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "9064699e8bd7946e",
+    "source_label": false,
+    "source_text": "INFO 성인 피해 영상 삭제 지원 안내가 너무 깊은 메뉴에 있습니다. 첫 화면에서도 찾게 해주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "6a8e62c6923319bc",
+    "source_label": true,
+    "source_text": "저번 주 미적중분 일부 챙겨드립니다. MATCH 재입금 신청하면 오늘 배당부터 적용돼요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "1d24053da621e659",
+    "source_label": true,
+    "source_text": "PICK 이번 달부터 최소 충전 낮췄어요. 소액으로 조합 타고 당첨금 현금으로 받으세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "3450f5749cf540a5",
+    "source_label": true,
+    "source_text": "LIVE 현금 카지노 추천 계정 드립니다. 첫 입금 전에 연락창 열어주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "617850a319dcd386",
+    "source_label": false,
+    "source_text": "JOIN 주민 독서모임 신규 회원을 받습니다. 가입비는 없고 책은 도서관에서 빌리면 됩니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "477f09ebb60c702c",
+    "source_label": false,
+    "source_text": "REPORT 사설 배팅 광고가 지역 청소년에게 미치는 영향을 조사한 발표 자료입니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "663877c5ecb889db",
+    "source_label": true,
+    "source_text": "REELS 여기 새 주소예요. 계정 만들고 판돈 넣으시면 릴 바로 돌아갑니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "0a024986282dd3e8",
+    "source_label": true,
+    "source_text": "CLIP 몰래 촬영된 성인 자료 구매창 바뀌었습니다. 이전 회원도 새 창 쓰세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "eadc1818bd16d41d",
+    "source_label": false,
+    "source_text": "CLIP 파일이 삭제된 줄 알았는데 다른 게시판에서 다시 보입니다. 성인 피해 당사자로서 지원을 요청합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "72b1508d6ca4cf55",
+    "source_label": true,
+    "source_text": "HOLDEM 온라인 현금방 빈자리 있습니다. 칩 구매 연락 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "d419314fa1b68f45",
+    "source_label": true,
+    "source_text": "VAULT 삭제된 성인 유출본 찾는 분 여기입니다. 결제 후 원본 전달해요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "8f465a4827de20c4",
+    "source_label": true,
+    "source_text": "HOLDEM 사설 캐시방 이사했습니다. 칩 현금 정산은 계속 해드려요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "8967089ced949cea",
+    "source_label": true,
+    "source_text": "BET 여기 써보니 경기 끝나기 전에 출금 신청도 되네요. 추천 가입하면 충전액 더 줍니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "5776f4a03ede193f",
+    "source_label": false,
+    "source_text": "BUS 500번 버스 배차 간격이 시간표와 다릅니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "ec0fe041e625cdc9",
+    "source_label": true,
+    "source_text": "농구 언오버 같이 타실 분, BET 입금 확인되면 제 조합방 초대해드립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "2a0f492ee2fc2fc6",
+    "source_label": false,
+    "source_text": "SHOP 전통시장 가게의 온라인 주문 방법을 배워보는 무료 교육입니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "be0ba357574d5b45",
+    "source_label": true,
+    "source_text": "VAULT 당사자 허락 없는 성인 사생활 영상 갖고 있습니다. 구매자에게만 다운로드 창 보냅니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "75b1e8d0cdc74714",
+    "source_label": false,
+    "source_text": "RACE 동호인 경주 구간의 횡단보도 통제가 길었습니다. 다음 행사에는 안내 인력을 늘려주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "b3d3e65a4348d009",
+    "source_label": true,
+    "source_text": "HOLDEM 추천인칸에 코드 적어주세요. 온라인 현금방 칩 충전 추가로 붙습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "44192c19f2683ed0",
+    "source_label": false,
+    "source_text": "HOME 홈페이지 첫 화면",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "96b2b4c3062dc511",
+    "source_label": true,
+    "source_text": "공원 정비 기다리고 있습니다. BET 사설 배팅장 신규 회원은 입금 혜택 드립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "e4bb3f6fccfb8f2a",
+    "source_label": false,
+    "source_text": "POINT 좌표가 지도에서 다른 동으로 표시됩니다. 실제 민원 발생 위치로 수정해 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "fab93eb7ea7312b9",
+    "source_label": false,
+    "source_text": "LINK 첨부 링크가 내부망 주소라 집에서는 열 수 없습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "6b5a3257b6e04ab1",
+    "source_label": false,
+    "source_text": "CSS 투명도를 낮추면 자식 요소도 함께 흐려지는 이유를 알고 싶습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "685a28f51f0533b0",
+    "source_label": true,
+    "source_text": "CLIP 성인 몰카 자료 정기권 접수합니다. 결제하신 분은 전용 게시판 입장돼요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "6eb5f26e31c7d84e",
+    "source_label": false,
+    "source_text": "EDIT 이미 접수된 글을 수정하면 담당자에게 변경 내용이 전달됩니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "a3a833d3570b3b19",
+    "source_label": true,
+    "source_text": "사설 LOTTO 추첨방입니다. 현금 넣고 번호 선택하시면 당첨 배당 지급합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "9db261cfe4f2fae3",
+    "source_label": false,
+    "source_text": "NOISE 새벽 공사 소음으로 잠을 자지 못합니다. 작업 시간을 확인해 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "da252f7afdbbc012",
+    "source_label": true,
+    "source_text": "CASINO 라이브 바카라 신규 계정 발급, 칩 현금 환전 문의는 아래 창으로.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "77daae94c2395df7",
+    "source_label": true,
+    "source_text": "LOTTO 사설 번호방 가입창 남깁니다. 입금한 판돈에 배당 곱해서 드려요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "bf7809d454c64a7f",
+    "source_label": false,
+    "source_text": "LIVE 시의회 중계 음성이 안 나옵니다. 모바일에서도 같은 문제라 점검 요청드립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "176a69e29d4f02c5",
+    "source_label": false,
+    "source_text": "VISIT 공공 기록관 견학 신청은 방문 사흘 전까지 부탁드립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "3a0efca180be7543",
+    "source_label": false,
+    "source_text": "VAULT 결제 링크와 함께 동의하지 않은 성인 촬영물이 퍼집니다. 추가 유포를 막을 상담이 필요합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "5d90ba14870410fc",
+    "source_label": true,
+    "source_text": "SLOT 문의하신 분, 여기 가입하시면 됩니다. 당첨 잔액 현금으로 빼드려요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "e947f7c80abf7e52",
+    "source_label": false,
+    "source_text": "CASINO 가입 문자가 아버지 휴대폰에 계속 옵니다. 차단해도 다른 주소로 와서 도움을 요청합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "158ac80cccd5f0d4",
+    "source_label": true,
+    "source_text": "야구 라이브 배팅창 LIVE 다시 열렸네요. 추천인 넣고 충전하시면 추가금 붙어요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "5d28abc94e145565",
+    "source_label": true,
+    "source_text": "ROULETTE 입금 누락 없이 처리해요. 현금 테이블 이용자는 가입 후 금액 알려주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "961811a66817f89a",
+    "source_label": true,
+    "source_text": "VAULT 성인 몰카 원본 화질 문의하셨죠. 결제하면 보관한 파일 그대로 드립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "fc2825f110a81cb2",
+    "source_label": true,
+    "source_text": "SLOT 체험 잔액 드립니다. 추가 입금하고 조건 채우면 현금 출금돼요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "79c44ed6a4e38004",
+    "source_label": true,
+    "source_text": "REELS 신작 방 입장 받습니다. 현금으로 칩 사서 돌리고 적중액 찾아가요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "3f7a527c9922b1f8",
+    "source_label": true,
+    "source_text": "CASINO 우회 접속창 열었습니다. 현금 배팅 회원은 메시지로 새 주소 받아요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "b451d25076e27eee",
+    "source_label": false,
+    "source_text": "SUPPORT 중독 상담 예약을 가족이 대신 접수할 수 있나요?",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "9af790bb2a975875",
+    "source_label": false,
+    "source_text": "SLOT에 생활비를 넣고 연락이 끊긴 가족을 찾고 있습니다. 지역 상담센터 예약 방법이 궁금합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "35c9081ba4d3fb1b",
+    "source_label": true,
+    "source_text": "ROULETTE 실배팅 현금 테이블 입장, 계정 발급과 충전 접수 중입니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "cb854e475bfea824",
+    "source_label": false,
+    "source_text": "PAPER 숫자로 글자를 바꾸는 광고 표현을 언어학 보고서에 인용했습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "a8985da9f7d773b3",
+    "source_label": true,
+    "source_text": "SPORTS 주말 이용자 전용 충전창입니다. 찍은 경기 맞으면 바로 인출됩니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "38b64be03b1b1374",
+    "source_label": false,
+    "source_text": "FORM 필수 항목을 모두 작성해 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "2a08f38ea55456fb",
+    "source_label": false,
+    "source_text": "STORE 지역 수공예품 전시 판매장 운영 시간을 알려드립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "c6d1ededcca12fe2",
+    "source_label": false,
+    "source_text": "MATCH 생활축구 대진표가 올라왔습니다. 우리 동호회 경기 시간을 확인하고 싶습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "997caf1c13a91011",
+    "source_label": false,
+    "source_text": "SAVE 작성하던 내용이 임시 저장되었습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "2d6eb73cf80697c6",
+    "source_label": false,
+    "source_text": "FILE 첨부사진의 위치 정보가 그대로 남아 있습니다. 제거 후 게시할 수 있나요?",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "5333a8ded4abca02",
+    "source_label": true,
+    "source_text": "POWER 현금 회차방 할 분? 번호 배팅하려면 가입하고 예치부터 하세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "9847c800a436c75d",
+    "source_label": true,
+    "source_text": "JACKPOT 화면 그대로 보여드립니다. 충전하고 같이 릴 돌릴 분 연결창 열어주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "3e649487f6d3011a",
+    "source_label": true,
+    "source_text": "CLIP 몰래 찍힌 성인 영상 새 묶음 입고요. 구독료 내시면 자료방 들어옵니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "b0263b8363403dcd",
+    "source_label": false,
+    "source_text": "EDIT 제 댓글에 연락처를 잘못 적었습니다. 공개되지 않게 수정 부탁드립니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "363da85ffe6f6324",
+    "source_label": true,
+    "source_text": "SPORTS 사설 배당 게임 현금 정산 회원 모집, 추천 충전 신청하세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "c5b4794b596d9d1e",
+    "source_label": false,
+    "source_text": "BONUS 전통시장 적립금은 언제 들어오나요? 행사 기간 안에 결제했는데 누락됐습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "7c6333d29812f04b",
+    "source_label": true,
+    "source_text": "VAULT 네 그 성인 사생활 유출본 맞아요. 구매하실 분은 결제창 요청하세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "4b6fdf7cd992ee82",
+    "source_label": true,
+    "source_text": "BET 큰 금액 타실 분 한도 맞춰드립니다. 사설 배팅장 가입 상담 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "42b79d04f7df0b23",
+    "source_label": true,
+    "source_text": "BET 전에 쓰던 아이디 그대로 복귀 가능합니다. 잔액 옮기실 분 연락 주세요.",
+    "status": "needs_service_context_review",
+    "reason": "The membership/deposit/return offer is visible, but identifying it as cash gambling relies on the private scenario family or English token. Obtain independent review; do not infer missing service facts.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "9ed5820bafefccde",
+    "source_label": false,
+    "source_text": "CODE A4-07 강의실 안내판이 다른 층을 가리킵니다. 실제 위치로 고쳐 주세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "638a17ac0dd1b03f",
+    "source_label": false,
+    "source_text": "제안 게시판에 BET 첫충 추가라는 답글만 반복해서 달립니다. 원래 민원 내용을 읽기가 어렵습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "477bf6d3b736fb1f",
+    "source_label": false,
+    "source_text": "SLOT 협곡 지형 사진을 전시하는 자연과학 강좌에 참가하고 싶습니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "3e3ba6f94e4fb085",
+    "source_label": false,
+    "source_text": "VAULT 백업 서비스 이용자입니다. 제 민원 서류가 검색되지 않아 복구 요청합니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "f9e95be8d7fad9e6",
+    "source_label": true,
+    "source_text": "계좌 달라졌어요. BET 기존 회원은 새 입금 안내 확인하고 배팅 이어가세요.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "f0d9632fefea72b6",
+    "source_label": false,
+    "source_text": "TIME 로그인 유지 시간이 곧 만료됩니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  },
+  {
+    "group_id": "e8cc03709fa82289",
+    "source_label": false,
+    "source_text": "ORDER R01 접수번호로 문의했는데 다른 사람 답변이 표시됩니다.",
+    "status": "provisional_source_label_retained",
+    "reason": "Original annotation retained, not independently human-certified.",
+    "reviewer": "agent",
+    "human_verified": false
+  }
+]

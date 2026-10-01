@@ -1,0 +1,114 @@
+{
+  "synthetic": true,
+  "human_reviewed": false,
+  "scope": "given target spans, observation not advertising intent",
+  "state_labels": [
+    "present",
+    "absent",
+    "uncertain"
+  ],
+  "techniques": [
+    "JAMO",
+    "HOMOGLYPH"
+  ],
+  "files": {
+    "base-inputs.json": "14adc137f012fb576b36b64601d0475ba282cf2f542eddd31a0f6c1192d65cbe",
+    "base-gold.json": "1d54844c654c98851a469f1d3621c036d637b9b9a4606c155e681e31c03dc14c",
+    "extra-inputs.json": "2001482fc52c42f6a35d04234da1b382f52ddd7d1f072c755f4b6d81198b63d2",
+    "extra-gold.json": "6648fbd61e34c84c1df8af21082197118c74e8f8e0001a66c2ba5b39acff3612",
+    "dev-inputs.json": "e66a255b597759b6084bd8404cf090323c2315dede0f3802b531ed6185231ec0",
+    "dev-gold.json": "8d7d1fa66ad21ed5470cb854c0f3ff54d8cf0a09366f2a18b7c2e93690e318f1",
+    "final-inputs.json": "d0f28b0c849ae460007cfd435dca07915d3f51547b418963c4872dedf916290b",
+    "final-gold.json": "8159481e26eff71143e2806b1b78338a8b442e67a2dfe6c9bc938561fd278699"
+  },
+  "counts": {
+    "base": {
+      "rows": 864,
+      "lexical_groups": 24,
+      "kinds": {
+        "ambiguous_h": 24,
+        "ambiguous_j": 24,
+        "canonical_jamo": 96,
+        "combined": 96,
+        "compat_jamo": 96,
+        "cyrillic_homoglyph": 96,
+        "digit_homoglyph": 96,
+        "identifier": 48,
+        "partial_jamo": 96,
+        "plain_hangul": 96,
+        "plain_latin": 96
+      }
+    },
+    "extra": {
+      "rows": 831,
+      "lexical_groups": 16,
+      "kinds": {
+        "ambiguous_h": 16,
+        "ambiguous_j": 15,
+        "canonical_jamo": 64,
+        "combined": 64,
+        "compat_jamo": 64,
+        "cyrillic_homoglyph": 64,
+        "digit_homoglyph": 64,
+        "fullwidth": 64,
+        "hangul_cross_script": 64,
+        "identifier": 32,
+        "partial_jamo": 64,
+        "plain_hangul": 64,
+        "plain_latin": 64,
+        "spaced_jamo": 64,
+        "zerowidth_jamo": 64
+      }
+    },
+    "dev": {
+      "rows": 624,
+      "lexical_groups": 12,
+      "kinds": {
+        "ambiguous_h": 12,
+        "ambiguous_j": 12,
+        "canonical_jamo": 48,
+        "combined": 48,
+        "compat_jamo": 48,
+        "cyrillic_homoglyph": 48,
+        "digit_homoglyph": 48,
+        "fullwidth": 48,
+        "hangul_cross_script": 48,
+        "identifier": 24,
+        "partial_jamo": 48,
+        "plain_hangul": 48,
+        "plain_latin": 48,
+        "spaced_jamo": 48,
+        "zerowidth_jamo": 48
+      }
+    },
+    "final": {
+      "rows": 624,
+      "lexical_groups": 12,
+      "kinds": {
+        "ambiguous_h": 12,
+        "ambiguous_j": 12,
+        "canonical_jamo": 48,
+        "combined": 48,
+        "compat_jamo": 48,
+        "cyrillic_homoglyph": 48,
+        "digit_homoglyph": 48,
+        "fullwidth": 48,
+        "hangul_cross_script": 48,
+        "identifier": 24,
+        "partial_jamo": 48,
+        "plain_hangul": 48,
+        "plain_latin": 48,
+        "spaced_jamo": 48,
+        "zerowidth_jamo": 48
+      }
+    }
+  },
+  "limitations": [
+    "same author and transformation families",
+    "target spans supplied; not discovery",
+    "semantic contexts are controlled, not real posts"
+  ],
+  "split_group_overlap": 0,
+  "exact_target_overlap_with_old_inputs": 0,
+  "plan_sha256": "2121cb525b0751e6db264bc6a5d4bd64db6349f5cac06cbeffdb2056cfc950f9"
+}

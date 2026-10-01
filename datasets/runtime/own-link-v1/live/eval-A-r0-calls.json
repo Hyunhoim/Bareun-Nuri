@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "role": "judge",
+    "provider": "hcx",
+    "started_at": "2026-09-25T17:59:23.640Z",
+    "usage": {
+      "prompt_tokens": 1352,
+      "completion_tokens": 108,
+      "total_tokens": 1460
+    },
+    "reserved_tokens": 0,
+    "queue_wait_sec": 0.0000028999999999541613,
+    "sent_at_ms": 1790359163640,
+    "http_status": 200,
+    "rate_limit": {
+      "x-ratelimit-limit-requests": "60",
+      "x-ratelimit-limit-tokens": "60000",
+      "x-ratelimit-remaining-requests": "56",
+      "x-ratelimit-remaining-tokens": "54320",
+      "x-ratelimit-reset-requests": "58s",
+      "x-ratelimit-reset-tokens": "58s"
+    },
+    "model_returned": "HCX-007",
+    "status": "ok",
+    "elapsed_sec": 2.0201338,
+    "finished_at_ms": 1790359165660,
+    "service_sec": 2.02
+  },
+  {
+    "number": 2,
+    "role": "judge",
+    "provider": "hcx",
+    "started_at": "2026-09-25T17:59:35.766Z",
+    "usage": {
+      "prompt_tokens": 1387,
+      "completion_tokens": 113,
+      "total_tokens": 1500
+    },
+    "reserved_tokens": 0,
+    "queue_wait_sec": 0.0000034999999988940544,
+    "sent_at_ms": 1790359175766,
+    "http_status": 200,
+    "rate_limit": {
+      "x-ratelimit-limit-requests": "60",
+      "x-ratelimit-limit-tokens": "60000",
+      "x-ratelimit-remaining-requests": "45",
+      "x-ratelimit-remaining-tokens": "31450",
+      "x-ratelimit-reset-requests": "46s",
+      "x-ratelimit-reset-tokens": "46s"
+    },
+    "model_returned": "HCX-007",
+    "status": "ok",
+    "elapsed_sec": 2.0398523000000006,
+    "finished_at_ms": 1790359177806,
+    "service_sec": 2.04
+  },
+  {
+    "number": 3,
+    "role": "judge",
+    "provider": "hcx",
+    "started_at": "2026-09-25T18:00:24.794Z",
+    "usage": {
+      "prompt_tokens": 1361,
+      "completion_tokens": 114,
+      "total_tokens": 1475
+    },
+    "reserved_tokens": 0,
+    "queue_wait_sec": 0.000005700000001525041,
+    "sent_at_ms": 1790359224794,
+    "http_status": 200,
+    "rate_limit": {
+      "x-ratelimit-limit-requests": "60",
+      "x-ratelimit-limit-tokens": "60000",
+      "x-ratelimit-remaining-requests": "57",
+      "x-ratelimit-remaining-tokens": "54349",
+      "x-ratelimit-reset-requests": "58s",
+      "x-ratelimit-reset-tokens": "58s"
+    },
+    "model_returned": "HCX-007",
+    "status": "ok",
+    "elapsed_sec": 2.127379299999993,
+    "finished_at_ms": 1790359226922,
+    "service_sec": 2.128
+  },
+  {
+    "number": 4,
+    "role": "judge",
+    "provider": "hcx",
+    "started_at": "2026-09-25T18:00:37.805Z",
+    "usage": {
+      "prompt_tokens": 1344,
+      "completion_tokens": 106,
+      "total_tokens": 1450
+    },
+    "reserved_tokens": 0,
+    "queue_wait_sec": 0.000004500000010011718,
+    "sent_at_ms": 1790359237805,
+    "http_status": 200,
+    "rate_limit": {
+      "x-ratelimit-limit-requests": "60",
+      "x-ratelimit-limit-tokens": "60000",
+      "x-ratelimit-remaining-requests": "45",
+      "x-ratelimit-remaining-tokens": "30698",
+      "x-ratelimit-reset-requests": "45s",
+      "x-ratelimit-reset-tokens": "45s"
+    },
+    "model_returned": "HCX-007",
+    "status": "ok",
+    "elapsed_sec": 1.930781600000002,
+    "finished_at_ms": 1790359239736,
+    "service_sec": 1.931
+  },
+  {
+    "number": 5,
+    "role": "judge",
+    "provider": "hcx",
+    "started_at": "2026-09-25T18:01:26.220Z",
+    "usage": {
+      "prompt_tokens": 1343,
+      "completion_tokens": 108,
+      "total_tokens": 1451
+    },
+    "reserved_tokens": 0,
+    "queue_wait_sec": 0.0021996000000071947,
+    "sent_at_ms": 1790359286222,
+    "http_status": 200,
+    "rate_limit": {
+      "x-ratelimit-limit-requests": "60",
+      "x-ratelimit-limit-tokens": "60000",
+      "x-ratelimit-remaining-requests": "57",
+      "x-ratelimit-remaining-tokens": "54405",
+      "x-ratelimit-reset-requests": "58s",
+      "x-ratelimit-reset-tokens": "58s"
+    },
+    "model_returned": "HCX-007",
+    "status": "ok",
+    "elapsed_sec": 2.0522612999999983,
+    "finished_at_ms": 1790359288272,
+    "service_sec": 2.05
+  }
+]

@@ -1,0 +1,1462 @@
+[
+  {
+    "id": "node-001",
+    "scenario": "tech-education",
+    "variant": 0,
+    "layout": "plain",
+    "raw": "한글 자모를 나누어 적고 다시 조합하는 연습입니다. ㄱ, ㄴ, ㄷ과 모음의 결합을 살펴봅시다.",
+    "selector": "p#node-001",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [],
+    "techniques": [],
+    "author_index": 60,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-001"
+  },
+  {
+    "id": "node-002",
+    "scenario": "tech-education",
+    "variant": 1,
+    "layout": "plain",
+    "raw": "ＮＯＴＥ · 화면 낭독기 안내: 메뉴를 건너뛰고 본문으로 이동합니다.",
+    "selector": "div#node-002",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [],
+    "author_index": 62,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-002"
+  },
+  {
+    "id": "node-003",
+    "scenario": "court",
+    "variant": 2,
+    "layout": "quote",
+    "raw": "유출된 사생활 영상 구매자에게 비밀 주소를 발송합니다.",
+    "selector": "h3#node-003",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [],
+    "author_index": 42,
+    "context_before": "판결 사례 해설: 피고인이 게시한 판매 광고의 문구는 아래와 같았습니다.",
+    "context_after": "법원은 동의 없는 영상 유통 행위에 책임을 물었습니다.",
+    "url": "http://127.0.0.1:50002/view/node-003"
+  },
+  {
+    "id": "node-004",
+    "scenario": "linked",
+    "variant": 3,
+    "layout": "link",
+    "raw": "연락하기",
+    "selector": "a#node-004",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [
+      "TRANSPARENT"
+    ],
+    "author_index": 23,
+    "context_before": "불법 촬영 영상 접근권을 판매하는 안내입니다. 결제하실 분만 이 버튼으로 연락 주세요.",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-004"
+  },
+  {
+    "id": "node-005",
+    "scenario": "neighbor-normal",
+    "variant": 4,
+    "layout": "other-comment",
+    "raw": "내일 주민센터 휴관 여부를 문의합니다. 안내 부탁드립니다.",
+    "selector": "div#node-005",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [],
+    "author_index": 68,
+    "context_before": "사설 카지노 판돈 입금 회원을 모집합니다.",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-005"
+  },
+  {
+    "id": "node-006",
+    "scenario": "enforcement",
+    "variant": 0,
+    "layout": "plain-quote",
+    "raw": "허가 없는 현금 게임장, 충전하면 당일 환전해 드려요.",
+    "selector": "h3#node-006",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [],
+    "techniques": [],
+    "author_index": 37,
+    "context_before": "민관 합동 점검에서 수거한 전단의 내용입니다.",
+    "context_after": "이 업소는 영업 장소 확인 후 폐쇄 조치된 사례입니다.",
+    "url": "http://127.0.0.1:50002/view/node-006"
+  },
+  {
+    "id": "node-007",
+    "scenario": "prevention",
+    "variant": 1,
+    "layout": "quote",
+    "raw": "ＮＯＴＥ · 무허가 도박방 입장 보너스 지급, 판돈을 보내면 바로 참여할 수 있습니다.",
+    "selector": "p#node-007",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [],
+    "author_index": 32,
+    "context_before": "아래 문장은 청소년 안전 수업에서 분석하는 유인 문장입니다.",
+    "context_after": "이 말에 응답하거나 돈을 보내지 말고 보호자에게 알리도록 가르칩니다.",
+    "url": "http://127.0.0.1:50002/view/node-007"
+  },
+  {
+    "id": "node-008",
+    "scenario": "insufficient",
+    "variant": 2,
+    "layout": "plain",
+    "raw": "오늘 가능한 분만 연락 주세요.",
+    "selector": "div#node-008",
+    "is_ad": null,
+    "expected_review": true,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [],
+    "author_index": 73,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-008"
+  },
+  {
+    "id": "node-009",
+    "scenario": "insufficient",
+    "variant": 3,
+    "layout": "plain",
+    "raw": "지난번과 같은 조건으로 진행합니다.",
+    "selector": "h3#node-009",
+    "is_ad": null,
+    "expected_review": true,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [],
+    "author_index": 77,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-009"
+  },
+  {
+    "id": "node-010",
+    "scenario": "direct",
+    "variant": 4,
+    "layout": "plain",
+    "raw": "졸피뎀을 처방전 없이 판매합니다. 수량을 적어 비밀 메시지로 주문하면 택배로 보내드립니다.",
+    "selector": "p#node-010",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [
+      "OFFSCREEN"
+    ],
+    "author_index": 1,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-010"
+  },
+  {
+    "id": "node-011",
+    "scenario": "research",
+    "variant": 0,
+    "layout": "quote",
+    "raw": "합성 마약 소량 판매, 은밀한 배송을 원하면 문의하세요.",
+    "selector": "div#node-011",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [],
+    "techniques": [],
+    "author_index": 40,
+    "context_before": "사회조사 보고서는 불법 약물 광고가 은밀함을 강조하는 방식을 설명합니다. 분석 대상 예문:",
+    "context_after": "연구자는 이 표현의 설득 전략을 분류했으며 상품을 제공하지 않습니다.",
+    "url": "http://127.0.0.1:50002/view/node-011"
+  },
+  {
+    "id": "node-012",
+    "scenario": "public",
+    "variant": 1,
+    "layout": "plain",
+    "raw": "ＮＯＴＥ · 청소년 체육관 탁구 동호회 모집 공고입니다. 도박이나 금전 배팅 없이 운동하는 모임입니다.",
+    "selector": "h3#node-012",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [],
+    "author_index": 54,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-012"
+  },
+  {
+    "id": "node-013",
+    "scenario": "public-link",
+    "variant": 2,
+    "layout": "link",
+    "raw": "예약 신청",
+    "selector": "a#node-013",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [],
+    "author_index": 59,
+    "context_before": "시립 수영장 강습 접수로 이어지는 버튼입니다. 수강 신청을 원하는 시민은 이용하세요.",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-013"
+  },
+  {
+    "id": "node-014",
+    "scenario": "title",
+    "variant": 3,
+    "layout": "title",
+    "raw": "무면허 의약품 거래방 구매자 모집 — 처방전 없는 수면제 주문 접수",
+    "selector": "h2#node-014",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [
+      "TRANSPARENT"
+    ],
+    "author_index": 4,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-014"
+  },
+  {
+    "id": "node-015",
+    "scenario": "linked",
+    "variant": 4,
+    "layout": "link",
+    "raw": "등록 신청",
+    "selector": "a#node-015",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [
+      "OFFSCREEN"
+    ],
+    "author_index": 20,
+    "context_before": "금지 약물을 운동 보조제로 몰래 판매합니다. 주문자 등록은 이 연결에서 진행합니다.",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-015"
+  },
+  {
+    "id": "node-016",
+    "scenario": "direct",
+    "variant": 0,
+    "layout": "plain",
+    "raw": "허가 없는 온라인 바카라 회원 등록 중입니다. 처음 넣은 판돈의 두 배를 게임 잔액으로 지급하니 지금 신청하세요.",
+    "selector": "p#node-016",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [],
+    "techniques": [],
+    "author_index": 0,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-016"
+  },
+  {
+    "id": "node-017",
+    "scenario": "tech-education",
+    "variant": 1,
+    "layout": "plain",
+    "raw": "ＮＯＴＥ · 웹 접근성 수업에서 화면 밖 보조 설명과 잘못 숨긴 필수 정보를 구분해 봅니다.",
+    "selector": "div#node-017",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [],
+    "author_index": 64,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-017"
+  },
+  {
+    "id": "node-018",
+    "scenario": "research",
+    "variant": 2,
+    "layout": "plain",
+    "raw": "인터넷 광고 연구에서는 “처방전 불필요”라는 문장을 불법 의약품 판매의 위험 신호로 분류했습니다.",
+    "selector": "h3#node-018",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [],
+    "author_index": 51,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-018"
+  },
+  {
+    "id": "node-019",
+    "scenario": "reverse-quote-normal",
+    "variant": 3,
+    "layout": "quote",
+    "raw": "우리 사설 도박방은 안전하니 판돈을 넣고 시작하세요.",
+    "selector": "p#node-019",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [],
+    "author_index": 44,
+    "context_before": "누군가 이렇게 주장하더라도 사실로 믿어서는 안 됩니다.",
+    "context_after": "“안전하다”는 주장도 불법 도박 참여를 정당화하지 못하므로 거래를 거절하십시오.",
+    "url": "http://127.0.0.1:50002/view/node-019"
+  },
+  {
+    "id": "node-020",
+    "scenario": "public-title",
+    "variant": 4,
+    "layout": "title",
+    "raw": "공공 도서관 전자책 회원 가입과 이용 신청 안내",
+    "selector": "h2#node-020",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [],
+    "author_index": 56,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-020"
+  },
+  {
+    "id": "node-021",
+    "scenario": "linked",
+    "variant": 0,
+    "layout": "link",
+    "raw": "상담 창구 열기",
+    "selector": "a#node-021",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [],
+    "techniques": [],
+    "author_index": 16,
+    "context_before": "이곳은 처방전 없이 수면제를 파는 판매자의 주문 접수창입니다. 구매 수량을 상담하세요.",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-021"
+  },
+  {
+    "id": "node-022",
+    "scenario": "archive",
+    "variant": 1,
+    "layout": "quote",
+    "raw": "ＮＯＴＥ · 불법 영상 정기 구독 회원을 받습니다. 결제하면 매주 새 자료를 드려요.",
+    "selector": "p#node-022",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [],
+    "author_index": 46,
+    "context_before": "삭제 이력 열람 화면: 운영자가 삭제한 게시물의 문안입니다.",
+    "context_after": "현재 게시가 중지됐으며 재발 방지 감사 목적으로만 보관합니다.",
+    "url": "http://127.0.0.1:50002/view/node-022"
+  },
+  {
+    "id": "node-023",
+    "scenario": "tech-education",
+    "variant": 2,
+    "layout": "plain",
+    "raw": "지도 갱신 상태를 음성으로 알리기 위한 보조 텍스트입니다. 지도 데이터가 갱신되었습니다.",
+    "selector": "div#node-023",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [],
+    "author_index": 66,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-023"
+  },
+  {
+    "id": "node-024",
+    "scenario": "direct",
+    "variant": 3,
+    "layout": "plain",
+    "raw": "타인의 주민등록증 촬영본을 묶음 판매합니다. 본인 인증에 쓰실 분은 가격표를 확인하고 연락하세요.",
+    "selector": "h3#node-024",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [
+      "TRANSPARENT"
+    ],
+    "author_index": 2,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-024"
+  },
+  {
+    "id": "node-025",
+    "scenario": "public",
+    "variant": 4,
+    "layout": "plain",
+    "raw": "주민자치회 목공 교실 참가자를 받습니다. 재료비는 센터 창구에서 납부하고 안전교육을 이수해 주세요.",
+    "selector": "p#node-025",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [],
+    "author_index": 52,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-025"
+  },
+  {
+    "id": "node-026",
+    "scenario": "linked",
+    "variant": 0,
+    "layout": "link",
+    "raw": "비공개 문의",
+    "selector": "a#node-026",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [],
+    "techniques": [],
+    "author_index": 21,
+    "context_before": "사설 경륜 도박의 현금 배당에 참여할 회원을 모십니다. 입금 계좌를 아래에서 알려드립니다.",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-026"
+  },
+  {
+    "id": "node-027",
+    "scenario": "reverse-quote-normal",
+    "variant": 1,
+    "layout": "plain-quote",
+    "raw": "ＮＯＴＥ · 처방 없이 보내는 약은 병원보다 편합니다. 지금 주문하세요.",
+    "selector": "h3#node-027",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [],
+    "author_index": 45,
+    "context_before": "시민 상담에서 다음 주장의 문제점을 묻는 질문을 받았습니다.",
+    "context_after": "편리하다는 말은 안전성을 보증하지 않습니다. 판매자에게 주문하지 말라는 것이 상담 답변입니다.",
+    "url": "http://127.0.0.1:50002/view/node-027"
+  },
+  {
+    "id": "node-028",
+    "scenario": "neighbor-normal",
+    "variant": 2,
+    "layout": "author",
+    "raw": "시민 안전 캠페인 담당자",
+    "selector": "span#node-028",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [],
+    "author_index": 71,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-028"
+  },
+  {
+    "id": "node-029",
+    "scenario": "insufficient",
+    "variant": 3,
+    "layout": "plain",
+    "raw": "쪽지 주시면 안내합니다.",
+    "selector": "div#node-029",
+    "is_ad": null,
+    "expected_review": true,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [],
+    "author_index": 72,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-029"
+  },
+  {
+    "id": "node-030",
+    "scenario": "public",
+    "variant": 4,
+    "layout": "plain",
+    "raw": "보건소 금연 상담 신청 링크입니다. 예약 후 안내된 시간에 방문하면 무료 상담을 받을 수 있습니다.",
+    "selector": "h3#node-030",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [],
+    "author_index": 53,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-030"
+  },
+  {
+    "id": "node-031",
+    "scenario": "tech-education",
+    "variant": 0,
+    "layout": "plain",
+    "raw": "문자 인코딩 실습입니다. 같은 한글을 완성형과 결합형 코드로 저장해 길이를 비교합니다.",
+    "selector": "p#node-031",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [],
+    "techniques": [],
+    "author_index": 65,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-031"
+  },
+  {
+    "id": "node-032",
+    "scenario": "reverse-quote",
+    "variant": 1,
+    "layout": "plain",
+    "raw": "ＮＯＴＥ · “개인정보를 거래하면 안 된다”는 경고를 알고 있습니다. 그래도 영업에 필요한 주민 전화번호를 유료 제공하니 구매 연락을 주세요.",
+    "selector": "div#node-032",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "author_index": 30,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-032"
+  },
+  {
+    "id": "node-033",
+    "scenario": "warning-word",
+    "variant": 2,
+    "layout": "plain",
+    "raw": "마약 거래 신고가 늘어 주의가 필요합니다. 구매하실 분에게는 합성 마약을 별도 채팅으로 판매하니 문의 주세요.",
+    "selector": "h3#node-033",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [
+      "JAMO"
+    ],
+    "author_index": 9,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-033"
+  },
+  {
+    "id": "node-034",
+    "scenario": "direct",
+    "variant": 3,
+    "layout": "plain",
+    "raw": "은행 직원을 사칭하는 가짜 사이트 제작을 대행합니다. 피해자 로그인 정보를 받을 분의 의뢰를 받습니다.",
+    "selector": "p#node-034",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [
+      "TRANSPARENT"
+    ],
+    "author_index": 3,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-034"
+  },
+  {
+    "id": "node-035",
+    "scenario": "warning-word",
+    "variant": 4,
+    "layout": "plain",
+    "raw": "가짜 통장 위험을 설명한 기사와 별개로 대포통장을 돈 주고 빌립니다. 사용하지 않는 계좌를 넘기면 당일 지급해요.",
+    "selector": "div#node-035",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [
+      "OFFSCREEN"
+    ],
+    "author_index": 11,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-035"
+  },
+  {
+    "id": "node-036",
+    "scenario": "news",
+    "variant": 0,
+    "layout": "quote",
+    "raw": "인증용 위조 신분증을 만들어 드립니다. 사진과 제작비를 보내주세요.",
+    "selector": "h3#node-036",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [],
+    "techniques": [],
+    "author_index": 34,
+    "context_before": "시정 소식지는 위조 신분증 모집글을 삭제한 경위를 보도했습니다. 당시 게시된 표현은 다음과 같습니다.",
+    "context_after": "보도에 사용한 인용이며 실제 제작 접수 창구는 운영하지 않습니다.",
+    "url": "http://127.0.0.1:50002/view/node-036"
+  },
+  {
+    "id": "node-037",
+    "scenario": "linked",
+    "variant": 1,
+    "layout": "link",
+    "raw": "ＮＯＴＥ · 자료 받기",
+    "selector": "a#node-037",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "author_index": 19,
+    "context_before": "피해자 동의 없이 수집한 카드 정보 목록을 판매합니다. 구입할 분은 아래에서 결제하세요.",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-037"
+  },
+  {
+    "id": "node-038",
+    "scenario": "public",
+    "variant": 2,
+    "layout": "plain",
+    "raw": "시립박물관의 카드놀이 역사 전시가 열립니다. 입장권은 박물관 매표소에서 판매합니다.",
+    "selector": "div#node-038",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [],
+    "author_index": 55,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-038"
+  },
+  {
+    "id": "node-039",
+    "scenario": "public",
+    "variant": 3,
+    "layout": "plain",
+    "raw": "범죄 피해자를 위한 무료 법률 상담이 있습니다. 개인정보는 상담 예약에 필요한 범위만 받습니다.",
+    "selector": "h3#node-039",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [],
+    "author_index": 58,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-039"
+  },
+  {
+    "id": "node-040",
+    "scenario": "public",
+    "variant": 4,
+    "layout": "plain",
+    "raw": "지역 농가의 합법적인 장터 판매 부스를 모집합니다. 참가 신청서를 읍사무소에 제출해 주세요.",
+    "selector": "p#node-040",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [],
+    "author_index": 57,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-040"
+  },
+  {
+    "id": "node-041",
+    "scenario": "adjacent-notice",
+    "variant": 0,
+    "layout": "aside",
+    "raw": "불법 촬영물 압축 파일 판매합니다. 송금하면 비밀번호를 드리니 연락 바랍니다.",
+    "selector": "div#node-041",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [],
+    "techniques": [],
+    "author_index": 15,
+    "context_before": "디지털 성범죄 피해 지원 연락처를 안내합니다.",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-041"
+  },
+  {
+    "id": "node-042",
+    "scenario": "reverse-quote",
+    "variant": 1,
+    "layout": "plain",
+    "raw": "ＮＯＴＥ · 신문에는 “사설 도박에 돈을 보내지 마라”라고 쓰여 있네요. 저희 방은 괜찮으니 아래 계좌에 판돈을 입금하고 게임에 들어오세요.",
+    "selector": "h3#node-042",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "author_index": 28,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-042"
+  },
+  {
+    "id": "node-043",
+    "scenario": "subtle",
+    "variant": 2,
+    "layout": "plain",
+    "raw": "진료 예약이 번거로운 분께 소식 전합니다. 처방 없이 보내드릴 수면제가 조금 남았으니 필요한 수량만 귓속말 주세요.",
+    "selector": "p#node-043",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [
+      "JAMO"
+    ],
+    "author_index": 25,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-043"
+  },
+  {
+    "id": "node-044",
+    "scenario": "insufficient",
+    "variant": 3,
+    "layout": "plain",
+    "raw": "추가 물량 있습니다.",
+    "selector": "div#node-044",
+    "is_ad": null,
+    "expected_review": true,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [],
+    "author_index": 76,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-044"
+  },
+  {
+    "id": "node-045",
+    "scenario": "training",
+    "variant": 4,
+    "layout": "plain-quote",
+    "raw": "위조 주민증 주문 즉시 제작합니다. 본인 확인용으로 사용하세요.",
+    "selector": "h3#node-045",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [],
+    "author_index": 47,
+    "context_before": "신규 담당자 교육에서 삭제해야 할 광고를 판별하는 문제입니다.",
+    "context_after": "교육 정답은 삭제 및 신고이며 해당 서비스를 실제로 권하는 내용이 아닙니다.",
+    "url": "http://127.0.0.1:50002/view/node-045"
+  },
+  {
+    "id": "node-046",
+    "scenario": "neighbor-normal",
+    "variant": 0,
+    "layout": "aside",
+    "raw": "지역 축제 일정은 기존 공지대로 토요일에 진행됩니다.",
+    "selector": "p#node-046",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [],
+    "techniques": [],
+    "author_index": 70,
+    "context_before": "타인의 로그인 계정을 판매하니 수량별로 연락 주세요.",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-046"
+  },
+  {
+    "id": "node-047",
+    "scenario": "report",
+    "variant": 1,
+    "layout": "quote",
+    "raw": "ＮＯＴＥ · 동의 없이 모은 주민 전화번호를 묶음으로 팝니다. 필요한 분은 연락 주세요.",
+    "selector": "div#node-047",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [],
+    "author_index": 38,
+    "context_before": "저는 이 문구를 보고 개인정보 침해를 신고하려고 합니다. 원문을 아래에 남깁니다.",
+    "context_after": "이 거래에 응한 적은 없으며 게시물 삭제와 조사를 요청합니다.",
+    "url": "http://127.0.0.1:50002/view/node-047"
+  },
+  {
+    "id": "node-048",
+    "scenario": "news",
+    "variant": 2,
+    "layout": "plain",
+    "raw": "사설 도박 광고에 “첫 충전 혜택”이라는 말이 자주 등장했다는 조사 결과를 시청이 발표했습니다.",
+    "selector": "h3#node-048",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [],
+    "author_index": 49,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-048"
+  },
+  {
+    "id": "node-049",
+    "scenario": "comment",
+    "variant": 3,
+    "layout": "comment",
+    "raw": "이번 주 사설 야구 도박 배당이 좋습니다. 제 추천 코드로 충전하면 추가 판돈을 드려요.",
+    "selector": "p#node-049",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [
+      "TRANSPARENT"
+    ],
+    "author_index": 6,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-049"
+  },
+  {
+    "id": "node-050",
+    "scenario": "reverse-quote",
+    "variant": 4,
+    "layout": "plain",
+    "raw": "“불법 영상은 공유하지 않는다”는 캠페인 문구와 달리, 저는 몰래 촬영된 영상을 판매합니다. 구매 대금 송금 후 주소를 보내드려요.",
+    "selector": "div#node-050",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [
+      "OFFSCREEN"
+    ],
+    "author_index": 31,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-050"
+  },
+  {
+    "id": "node-051",
+    "scenario": "linked",
+    "variant": 0,
+    "layout": "link",
+    "raw": "참여하기",
+    "selector": "a#node-051",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [],
+    "techniques": [],
+    "author_index": 17,
+    "context_before": "정식 허가가 없는 현금 바둑이 도박장입니다. 판돈을 보내고 참여하려면 다음 버튼을 누르세요.",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-051"
+  },
+  {
+    "id": "node-052",
+    "scenario": "enforcement",
+    "variant": 1,
+    "layout": "quote",
+    "raw": "ＮＯＴＥ · 해킹 계정 일괄 판매합니다. 수량별 단가 문의 바랍니다.",
+    "selector": "p#node-052",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [],
+    "author_index": 36,
+    "context_before": "단속 결과 보고서에 증거물의 광고 문안을 기록했습니다.",
+    "context_after": "담당 부서는 관련 게시물을 차단하고 판매자를 조사하고 있습니다.",
+    "url": "http://127.0.0.1:50002/view/node-052"
+  },
+  {
+    "id": "node-053",
+    "scenario": "direct",
+    "variant": 2,
+    "layout": "plain",
+    "raw": "배우 몰래 촬영한 사생활 영상 원본을 유료로 넘깁니다. 결제 후 다운로드 암호를 보내드립니다.",
+    "selector": "div#node-053",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [
+      "JAMO"
+    ],
+    "author_index": 7,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-053"
+  },
+  {
+    "id": "node-054",
+    "scenario": "insufficient",
+    "variant": 3,
+    "layout": "link",
+    "raw": "개별 상담창",
+    "selector": "a#node-054",
+    "is_ad": null,
+    "expected_review": true,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [],
+    "author_index": 79,
+    "context_before": "서비스명과 조건이 표시되지 않은 연결입니다.",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-054"
+  },
+  {
+    "id": "node-055",
+    "scenario": "insufficient",
+    "variant": 4,
+    "layout": "link",
+    "raw": "여기로 이동",
+    "selector": "a#node-055",
+    "is_ad": null,
+    "expected_review": true,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [],
+    "author_index": 74,
+    "context_before": "관련 내용은 원문을 참고해 주세요.",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-055"
+  },
+  {
+    "id": "node-056",
+    "scenario": "neighbor-normal",
+    "variant": 0,
+    "layout": "other-comment",
+    "raw": "불법 의약품 판매 댓글을 신고했습니다. 담당자 확인 후 삭제해 주세요.",
+    "selector": "div#node-056",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [],
+    "techniques": [],
+    "author_index": 69,
+    "context_before": "처방 없이 전문약을 팔고 있으니 주문 메시지를 보내세요.",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-056"
+  },
+  {
+    "id": "node-057",
+    "scenario": "author",
+    "variant": 1,
+    "layout": "author",
+    "raw": "ＮＯＴＥ · 신분증 위조 제작 주문받음",
+    "selector": "span#node-057",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "author_index": 5,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-057"
+  },
+  {
+    "id": "node-058",
+    "scenario": "linked",
+    "variant": 2,
+    "layout": "link",
+    "raw": "내용 보기",
+    "selector": "a#node-058",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [
+      "JAMO"
+    ],
+    "author_index": 22,
+    "context_before": "악성 프로그램으로 탈취한 로그인 계정을 유료 분양합니다. 아래 상품 목록에서 고르세요.",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-058"
+  },
+  {
+    "id": "node-059",
+    "scenario": "insufficient",
+    "variant": 3,
+    "layout": "link",
+    "raw": "안내 자료",
+    "selector": "a#node-059",
+    "is_ad": null,
+    "expected_review": true,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [],
+    "author_index": 75,
+    "context_before": "이 자료의 내용은 현재 화면에서 확인할 수 없습니다.",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-059"
+  },
+  {
+    "id": "node-060",
+    "scenario": "tech-education",
+    "variant": 4,
+    "layout": "plain",
+    "raw": "투명도 0 상태의 도움말을 마우스를 올렸을 때 보여 주는 CSS 수업용 예제입니다.",
+    "selector": "h3#node-060",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [],
+    "author_index": 63,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-060"
+  },
+  {
+    "id": "node-061",
+    "scenario": "tech-education",
+    "variant": 0,
+    "layout": "plain",
+    "raw": "전각 영문과 반각 영문은 표시 폭이 다릅니다. 문서 작성 수업에서 문자 모양을 비교합니다.",
+    "selector": "p#node-061",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [],
+    "techniques": [],
+    "author_index": 61,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-061"
+  },
+  {
+    "id": "node-062",
+    "scenario": "reverse-quote",
+    "variant": 1,
+    "layout": "plain",
+    "raw": "ＮＯＴＥ · “전문의약품은 처방에 따라 구입”이라는 문구는 형식적인 이야기입니다. 여기서는 처방전 없이 판매하니 바로 주문하세요.",
+    "selector": "div#node-062",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "author_index": 29,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-062"
+  },
+  {
+    "id": "node-063",
+    "scenario": "report",
+    "variant": 2,
+    "layout": "plain",
+    "raw": "게시판 작성자 이름에 신분증 위조 주문 문구가 보입니다. 이용 권유가 아닌 삭제 요청 민원입니다.",
+    "selector": "h3#node-063",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [],
+    "author_index": 50,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-063"
+  },
+  {
+    "id": "node-064",
+    "scenario": "other-comment",
+    "variant": 3,
+    "layout": "other-comment",
+    "raw": "처방 없이 살 수 있는 전문의약품 재고 있습니다. 개인 쪽지로 품목과 배송지를 보내주세요.",
+    "selector": "p#node-064",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [
+      "TRANSPARENT"
+    ],
+    "author_index": 12,
+    "context_before": "이 게시판의 불법 의약품 거래는 신고 대상입니다.",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-064"
+  },
+  {
+    "id": "node-065",
+    "scenario": "insufficient",
+    "variant": 4,
+    "layout": "title",
+    "raw": "확인 요청",
+    "selector": "h2#node-065",
+    "is_ad": null,
+    "expected_review": true,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [],
+    "author_index": 78,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-065"
+  },
+  {
+    "id": "node-066",
+    "scenario": "news",
+    "variant": 0,
+    "layout": "plain-quote",
+    "raw": "불법 촬영 영상 원본 판매 중, 입금하면 링크를 드립니다.",
+    "selector": "h3#node-066",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [],
+    "techniques": [],
+    "author_index": 35,
+    "context_before": "기자는 온라인 성범죄 광고의 실태를 설명하며 판매자가 쓴 문장을 옮겼습니다.",
+    "context_after": "해당 자료는 수사기관에 전달됐으며 독자에게 영상을 제공하지 않습니다.",
+    "url": "http://127.0.0.1:50002/view/node-066"
+  },
+  {
+    "id": "node-067",
+    "scenario": "warning-word",
+    "variant": 1,
+    "layout": "plain",
+    "raw": "ＮＯＴＥ · 개인정보 거래는 위험하다고들 하지만 신규 고객 전화번호 명단이 필요하면 제게 주문하세요. 동의 없는 수집 자료를 판매합니다.",
+    "selector": "p#node-067",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "author_index": 10,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-067"
+  },
+  {
+    "id": "node-068",
+    "scenario": "other-comment",
+    "variant": 2,
+    "layout": "other-comment",
+    "raw": "해킹으로 확보한 타인 계정을 판매합니다. 로그인 가능한 수량별 가격을 문의하세요.",
+    "selector": "div#node-068",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [
+      "JAMO"
+    ],
+    "author_index": 13,
+    "context_before": "아래와 같은 계정 거래는 피해를 낳으니 이용하지 마세요.",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-068"
+  },
+  {
+    "id": "node-069",
+    "scenario": "subtle",
+    "variant": 3,
+    "layout": "plain",
+    "raw": "늘 하던 현금 카드게임, 단속 없는 곳을 찾으셨죠. 저희 무허가 방의 오늘 입금 자리 두 개 비워 두었습니다. 메시지 주시면 접속권 드립니다.",
+    "selector": "h3#node-069",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [
+      "TRANSPARENT"
+    ],
+    "author_index": 24,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-069"
+  },
+  {
+    "id": "node-070",
+    "scenario": "court",
+    "variant": 4,
+    "layout": "plain-quote",
+    "raw": "도용한 신용카드 정보를 판매합니다. 구매할 분은 입금해 주세요.",
+    "selector": "p#node-070",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [],
+    "author_index": 43,
+    "context_before": "법률 교육 자료에서 피해 발생 경위를 정리한 부분입니다.",
+    "context_after": "이 내용은 범행 광고를 설명하는 인용이며 구입을 돕는 정보는 삭제했습니다.",
+    "url": "http://127.0.0.1:50002/view/node-070"
+  },
+  {
+    "id": "node-071",
+    "scenario": "prevention-title",
+    "variant": 0,
+    "layout": "title",
+    "raw": "“무등록 카지노 입금 회원 모집” 문구를 발견하면 신고하세요.",
+    "selector": "h2#node-071",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [],
+    "techniques": [],
+    "author_index": 48,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-071"
+  },
+  {
+    "id": "node-072",
+    "scenario": "research",
+    "variant": 1,
+    "layout": "plain-quote",
+    "raw": "ＮＯＴＥ · 무면허 의약품 판매점입니다. 처방전 없이 구입할 고객을 찾습니다.",
+    "selector": "h3#node-072",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [],
+    "author_index": 41,
+    "context_before": "디지털 문해력 연구에서 거래를 유도하는 문장의 특징을 다룹니다. 아래는 분석용으로 구성한 문장입니다.",
+    "context_after": "문장 분석 자료이므로 주문이나 배송은 이루어지지 않습니다.",
+    "url": "http://127.0.0.1:50002/view/node-072"
+  },
+  {
+    "id": "node-073",
+    "scenario": "subtle",
+    "variant": 2,
+    "layout": "plain",
+    "raw": "본인 확인 때문에 막히셨다면 다른 사람 명의 신분증을 맞춰 드릴 수 있어요. 제작비와 사진을 보내면 바로 작업합니다.",
+    "selector": "p#node-073",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [
+      "JAMO"
+    ],
+    "author_index": 26,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-073"
+  },
+  {
+    "id": "node-074",
+    "scenario": "adjacent-notice",
+    "variant": 3,
+    "layout": "aside",
+    "raw": "지금 무등록 카지노에 들어오면 첫 입금 보너스가 있습니다. 베팅하실 회원을 모집합니다.",
+    "selector": "div#node-074",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [
+      "TRANSPARENT"
+    ],
+    "author_index": 14,
+    "context_before": "사이트 운영자는 모든 불법 광고를 금지합니다.",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-074"
+  },
+  {
+    "id": "node-075",
+    "scenario": "tech-education",
+    "variant": 4,
+    "layout": "plain",
+    "raw": "특수문자로 적힌 동아리 이름을 일반 문자로 바꾸는 편집 연습을 합니다.",
+    "selector": "h3#node-075",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [],
+    "author_index": 67,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-075"
+  },
+  {
+    "id": "node-076",
+    "scenario": "warning-word",
+    "variant": 0,
+    "layout": "plain",
+    "raw": "불법 도박 피해를 조심하라는 공지는 읽었습니다. 그래도 저희 사설 포커방은 출금이 빠르니 가입해서 판돈을 충전해 보세요.",
+    "selector": "p#node-076",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [],
+    "techniques": [],
+    "author_index": 8,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-076"
+  },
+  {
+    "id": "node-077",
+    "scenario": "prevention",
+    "variant": 1,
+    "layout": "quote",
+    "raw": "ＮＯＴＥ · 처방전이 없어도 수면제 주문 가능합니다. 배송받을 주소를 보내세요.",
+    "selector": "div#node-077",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [],
+    "author_index": 33,
+    "context_before": "학교 보건 소식: 메시지로 받은 다음 판매 문구는 의약품 불법 유통 사례입니다.",
+    "context_after": "의약품은 임의로 주문하지 말고 의료진과 상의해야 합니다.",
+    "url": "http://127.0.0.1:50002/view/node-077"
+  },
+  {
+    "id": "node-078",
+    "scenario": "subtle",
+    "variant": 2,
+    "layout": "plain",
+    "raw": "이번 유출 영상은 공개되기 전에 보실 수 있습니다. 당사자 동의 없는 자료이며 후원금을 보내는 분께만 열어 드립니다.",
+    "selector": "h3#node-078",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [
+      "JAMO"
+    ],
+    "author_index": 27,
+    "context_before": "",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-078"
+  },
+  {
+    "id": "node-079",
+    "scenario": "report",
+    "variant": 3,
+    "layout": "plain-quote",
+    "raw": "타인 계좌를 빌리면 하루 사용료를 드립니다. 통장과 비밀번호를 보내 주세요.",
+    "selector": "p#node-079",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [],
+    "author_index": 39,
+    "context_before": "민원인으로서 의심스러운 계좌 모집 댓글을 제보합니다.",
+    "context_after": "피해를 막기 위해 담당자의 확인을 부탁드립니다.",
+    "url": "http://127.0.0.1:50002/view/node-079"
+  },
+  {
+    "id": "node-080",
+    "scenario": "linked",
+    "variant": 4,
+    "layout": "link",
+    "raw": "견적 요청",
+    "selector": "a#node-080",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [
+      "OFFSCREEN"
+    ],
+    "author_index": 18,
+    "context_before": "실제 인물의 신분증을 위조 제작합니다. 인증용 위조 신분증 의뢰는 아래에서 받습니다.",
+    "context_after": "",
+    "url": "http://127.0.0.1:50002/view/node-080"
+  }
+]

@@ -1,0 +1,7 @@
+# Page-internal batch-order diagnostic, fixed before results
+
+Baseline is operational C, FIFO collection and SRPT8/aging8 page admission/service. The single alternative partitions each page's unchanged request batches into three consecutive near-equal regions, then takes one batch from each region in front/middle/back order. No labels, text, tags or signals enter ordering. Original companions and within-request order remain unchanged. Request budgeting uses the existing fitBatch function.
+
+Use saved jamo-context-live-c-v1 pages, build all batches before consulting gold, and first reproduce every historical batch. Fix the historical page service slots for the comparison: this isolates within-page opportunities and does not claim changed wall time or actual whole-scheduler behavior. Score opportunity to judge every gold ad, prior TP opportunity losses, gains, and 100/300/467 service-slot prefixes. Do not assign old semantic verdicts to previously unrequested batches. No API calls.
+
+Check all batches/IDs exactly once, request companions unchanged, and serialize/resume at every cursor preserving suffix. Run synthetic length/placement sweeps to expose inevitable opportunity tradeoffs, not as model F1 or independent public-site validation. If benefit is absent or material prior-TP loss dominates, stop this candidate. Positive offline evidence only authorizes a separately planned real 25-minute comparison; it does not authorize promotion by itself.

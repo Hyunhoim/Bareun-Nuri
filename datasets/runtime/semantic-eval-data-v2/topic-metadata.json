@@ -1,0 +1,286 @@
+{
+  "purpose": "Evaluation-only service-topic metadata. Never pass to model input. Describes synthetic wording, not an independent legal finding.",
+  "created_at": "2026-09-24T19:05:47.128Z",
+  "source_hashes": {
+    "evidence": "9fadf4d08d89d3a01c0f53684323e8d0e8c534f10885863d5ddef286db06fbe6",
+    "labels": "8a832cb3f4fd6178fa29764fa32eab7e0c652e3b181f9ac95047758a63d1e4e0",
+    "generator": "3baba0dbe12bf5bf2e321618d61afe5acd0f4947b4497f9db41e7c1d59500c91"
+  },
+  "definition": {
+    "strict": "Explicit gambling, or explicit illegal adult/sexual service. There are no explicit adult/sexual cases in these newly authored positive sets.",
+    "broad": "Gambling plus explicitly illegal or nonconsensual videos; video adult/sexual nature remains unspecified.",
+    "other": "Other service categories explicitly described in the synthetic source. Outside the above common-topic definition does not mean legally benign.",
+    "metric_limit": "Only positive targets are classified. This supports subgroup recall; a scope-specific F1 requires an explicit, justified negative-set definition."
+  },
+  "counts": {
+    "positive_targets": 32,
+    "strict_common": 8,
+    "broad_common": 13,
+    "other_strict": 24,
+    "other_broad": 19,
+    "video_scope_ambiguous": 5
+  },
+  "items": [
+    {
+      "fixture_id": "node-004",
+      "node_id": "n_1b2cc09724435fda",
+      "topic": "nonconsensual_or_illegal_video",
+      "shared_scope_strict": false,
+      "shared_scope_broad": true,
+      "adult_or_sexual_content_explicit": false,
+      "scope_note": "The synthetic text explicitly refers to illegal or nonconsensual video, but does not explicitly establish adult or sexual content. Keep separate from strictly explicit adult-content cases."
+    },
+    {
+      "fixture_id": "node-010",
+      "node_id": "n_247e2de955eea41a",
+      "topic": "prescription_drug_sales",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "node-014",
+      "node_id": "n_542cca765e724b50",
+      "topic": "prescription_drug_sales",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "node-015",
+      "node_id": "n_d3e4ecc952474553",
+      "topic": "prohibited_drug_sales",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "node-016",
+      "node_id": "n_a530ae6ff53dc8ca",
+      "topic": "gambling",
+      "shared_scope_strict": true,
+      "shared_scope_broad": true,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "node-021",
+      "node_id": "n_ca567ebfcb0ba1f3",
+      "topic": "prescription_drug_sales",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "node-024",
+      "node_id": "n_11159895c905e77a",
+      "topic": "identity_data_sales",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "node-026",
+      "node_id": "n_7a46c69b456163cd",
+      "topic": "gambling",
+      "shared_scope_strict": true,
+      "shared_scope_broad": true,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "node-032",
+      "node_id": "n_31039443f0acc628",
+      "topic": "personal_data_sales",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "node-033",
+      "node_id": "n_32bdd52d6003ca72",
+      "topic": "prohibited_drug_sales",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "node-034",
+      "node_id": "n_b7cb0b29b5c5ca61",
+      "topic": "phishing_service",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "node-035",
+      "node_id": "n_a21afbf140da1e58",
+      "topic": "third_party_account_transfer",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "node-037",
+      "node_id": "n_198d6a2ce76d4948",
+      "topic": "payment_data_sales",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "node-041",
+      "node_id": "n_1134e39a8418dc79",
+      "topic": "nonconsensual_or_illegal_video",
+      "shared_scope_strict": false,
+      "shared_scope_broad": true,
+      "adult_or_sexual_content_explicit": false,
+      "scope_note": "The synthetic text explicitly refers to illegal or nonconsensual video, but does not explicitly establish adult or sexual content. Keep separate from strictly explicit adult-content cases."
+    },
+    {
+      "fixture_id": "node-042",
+      "node_id": "n_242802eb566e20a2",
+      "topic": "gambling",
+      "shared_scope_strict": true,
+      "shared_scope_broad": true,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "node-043",
+      "node_id": "n_29587438c6ca9c55",
+      "topic": "prescription_drug_sales",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "node-049",
+      "node_id": "n_a4d47a001a694a72",
+      "topic": "gambling",
+      "shared_scope_strict": true,
+      "shared_scope_broad": true,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "node-050",
+      "node_id": "n_18cb8e9b793e9fc1",
+      "topic": "nonconsensual_or_illegal_video",
+      "shared_scope_strict": false,
+      "shared_scope_broad": true,
+      "adult_or_sexual_content_explicit": false,
+      "scope_note": "The synthetic text explicitly refers to illegal or nonconsensual video, but does not explicitly establish adult or sexual content. Keep separate from strictly explicit adult-content cases."
+    },
+    {
+      "fixture_id": "node-051",
+      "node_id": "n_d116bf885e08a04c",
+      "topic": "gambling",
+      "shared_scope_strict": true,
+      "shared_scope_broad": true,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "node-053",
+      "node_id": "n_7a9586c614635a41",
+      "topic": "nonconsensual_or_illegal_video",
+      "shared_scope_strict": false,
+      "shared_scope_broad": true,
+      "adult_or_sexual_content_explicit": false,
+      "scope_note": "The synthetic text explicitly refers to illegal or nonconsensual video, but does not explicitly establish adult or sexual content. Keep separate from strictly explicit adult-content cases."
+    },
+    {
+      "fixture_id": "node-057",
+      "node_id": "n_b26a826e357d35d0",
+      "topic": "identity_document_forgery",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "node-058",
+      "node_id": "n_369e9bb74c4feaef",
+      "topic": "stolen_account_sales",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "node-062",
+      "node_id": "n_3e5e03c882015519",
+      "topic": "prescription_drug_sales",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "node-064",
+      "node_id": "n_726dc47382958882",
+      "topic": "prescription_drug_sales",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "node-067",
+      "node_id": "n_19ace2b497ef17fd",
+      "topic": "personal_data_sales",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "node-068",
+      "node_id": "n_2407afcb3f910962",
+      "topic": "stolen_account_sales",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "node-069",
+      "node_id": "n_a8d7ad918ebffe97",
+      "topic": "gambling",
+      "shared_scope_strict": true,
+      "shared_scope_broad": true,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "node-073",
+      "node_id": "n_521e578e47ce1e4d",
+      "topic": "identity_document_forgery",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "node-074",
+      "node_id": "n_54f72c8e5de045f9",
+      "topic": "gambling",
+      "shared_scope_strict": true,
+      "shared_scope_broad": true,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "node-076",
+      "node_id": "n_67e33c21ee33826c",
+      "topic": "gambling",
+      "shared_scope_strict": true,
+      "shared_scope_broad": true,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "node-078",
+      "node_id": "n_a8b3e21c430d21f4",
+      "topic": "nonconsensual_or_illegal_video",
+      "shared_scope_strict": false,
+      "shared_scope_broad": true,
+      "adult_or_sexual_content_explicit": false,
+      "scope_note": "The synthetic text explicitly refers to illegal or nonconsensual video, but does not explicitly establish adult or sexual content. Keep separate from strictly explicit adult-content cases."
+    },
+    {
+      "fixture_id": "node-080",
+      "node_id": "n_ea8cf23021921254",
+      "topic": "identity_document_forgery",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    }
+  ]
+}

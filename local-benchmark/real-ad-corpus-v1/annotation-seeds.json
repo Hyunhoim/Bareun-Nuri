@@ -1,0 +1,29 @@
+{
+  "schema": "assistant-provisional-excerpt-review-v1",
+  "note": "category and task_label concern the selected excerpt with its actual title. Not a legal determination or human gold. Missing IDs are REVIEW, not NORMAL.",
+  "groups": [
+    {"ids":"c276a879eb8a17c5 c3980d29f083c6f5 ad11c3d9bd5ab778 d73c684da131ca08 8eb69cbf73ac878f", "category":"GAMBLING", "label":1, "campaign":"ggongta", "intent":"promotion", "reason":"안전 검증·피해 예방 설명을 이용하지만 자신의 제휴 베팅 이용과 수익을 권유한다."},
+    {"ids":"4856aed8286e495f 4380ee374f710cb8", "category":"GAMBLING", "label":1, "campaign":"sixteen", "intent":"promotion", "reason":"가입·충전·입출금과 베팅 이용을 직접 모집한다."},
+    {"ids":"d5f4b956932f5dac 84fed417bda3893f", "category":"DRUG", "label":1, "campaign":"drug-dealer-one", "intent":"promotion", "reason":"판매 제목과 향정신성 물질 품목, 판매자 문의 유도가 함께 존재한다. 두 URL의 본문은 동일하다."},
+    {"ids":"ddb877efdb6b2b4d 41eaea6d351f5a20 c8dd8c73c2e28010 51f9e2b32de44d3f", "category":"ADULT_CONTENT", "label":1, "campaign":"fast-address", "intent":"promotion", "reason":"성인 영상 시청 사이트로 직접 접속·이용을 권유하는 광고. 사용자 요청의 성인물 광고 선별 양성 후보이며 해당 영상의 불법성을 개별 확인한 법률 정답은 아니다."},
+    {"ids":"1611ac49586932a8 6ea2773f87758901", "category":"NCII_PROMOTION", "label":1, "campaign":"fast-address", "intent":"promotion", "reason":"해킹·유출 또는 몰카·사생활 영상을 내세워 접속을 권유한다. 실제 영상 진위는 확인하지 않았다."},
+    {"ids":"95f06c05c9581d57 7bf60dca994e81ed 3c7497aaef8a125a f7a101fd2327eaae 01a1a8f8e4166970", "category":"CARD_CASHING", "label":1, "campaign":"kingkongpay", "intent":"promotion", "reason":"자체 카드깡·현금화 서비스를 소개하고 이용·상담으로 유도한다. 설명/주의 문구만 보고 정상으로 처리하지 않는다."},
+    {"ids":"a9e9fa59d4f00673", "category":"CARD_CASHING", "label":1, "campaign":"card-cashing-two", "intent":"promotion", "reason":"카드 한도 매입·24시 카드깡 서비스 이용을 권유한다."},
+    {"ids":"04d6b7a6b7dc7787", "category":"ACCOUNT_TRADE", "label":1, "campaign":"account-trade-one", "intent":"promotion", "reason":"제목에서 대포통장·협박 계좌를 표방하고 본문에서 직접 매입과 판매자 모집을 권유한다."},
+    {"ids":"158ac0289d9732c8", "category":"SEX_TRADE", "label":0, "campaign":"police-report", "intent":"reported_enforcement", "reason":"성매매 조직 검거 보도이며 광고 인용을 포함해도 게시 행위는 이용자 모집이 아니다."},
+    {"ids":"2f5fc9eca65e14ce", "category":"FINANCIAL", "label":0, "campaign":"fsc-prevention", "intent":"prevention", "reason":"불법 가상자산 사업자 피해 예방 공지이다."},
+    {"ids":"388e7ba31afcae0c", "category":"SEX_TRADE", "label":0, "campaign":"gg-support", "intent":"support", "reason":"여성폭력·성매매 피해 상담 지원을 안내한다. 출장 상담은 성매매 권유가 아니다."},
+    {"ids":"bd85f5532a64fcf3", "category":"GAMBLING", "label":0, "campaign":"jeju-education", "intent":"education", "reason":"카지노 종사자·도민 대상 직무 교육 안내이다. 회원가입과 무료라는 단어가 있어도 도박 참여 모집이 아니다."},
+    {"ids":"7429fcdbde6a4d74", "category":"GAMBLING", "label":0, "campaign":"school-prevention", "intent":"prevention", "reason":"청소년 도박 피해 예방 교육 안내이다."},
+    {"ids":"31451af422f25b5f", "category":"GAMBLING", "label":0, "campaign":"parking-complaint", "intent":"complaint", "reason":"카지노 방문 경험을 언급한 차량 견인 민원이며 베팅 모집이 아니다."},
+    {"ids":"7227cfdb512f26d4 b9a3270b0a8d4088 1bde76808c7f2a8e 76a3d24a6ec0c202 bfa79a0547421f36 29d3e77c1c01ec83", "category":"GENERAL", "label":0, "campaign":"hrd-administration", "intent":"administrative_inquiry_or_reply", "reason":"인사·통근·교육 수당 문의와 행정 답변. 수집한 본문에 광고 연결이 없다."},
+    {"ids":"e8ef15b43e944181 299805bb40efa274", "category":"GENERAL", "label":0, "campaign":"shopping-inquiry", "intent":"customer_inquiry", "reason":"회원 탈퇴·제품 불량 문의이며 다른 게시물의 광고와 귀속을 분리한다."},
+    {"ids":"5fffa731cb9948bd 31046401b63c5f68 4be7ca1731a17c8d f1ab8e6de1fc6a3f 2cb47c6567772f76 7aac54d867332427 84483db53659efce", "category":"GENERAL", "label":0, "campaign":"government-banner", "intent":"public_navigation", "reason":"공공 서비스·교육기관 배너명이다. 짧은 메뉴성 대조자료이며 독립 게시글로 부풀리지 않는다."}
+  ],
+  "review_groups": [
+    {"ids":"5a06365fe5a3053a 4d0463642212d7e3 18d28973b23fbc57 6f47ca0bc6ce396f e784e0ca43e8905a b50e9e5bfdf8b204 a83c51b034769dea", "category":"MASSAGE_UNRESOLVED", "reason":"정상 서두/여행·인재개발 내용에 마사지 링크가 삽입돼 있다. 홍보 근거는 있으나 성매매라는 본문 근거는 없어 불법 양성 확정 금지."},
+    {"ids":"dcb86af21d3e1c2d d622fd6497e85dd2 4eaa18d7c3728619 2291c0d327482256 8e2c9baa24b3e3d3 e02e69138fd6d012 477c2dd8244b4cd6 e80f80417abe1f89 c9e876cb90396b01 40e06f5a1e0859a1", "category":"COMMERCIAL_UNRESOLVED", "reason":"광고/검색순위 유도 또는 외부 링크가 있으나 이를 불법광고로 볼 근거는 부족하다. 자동 정상/불법 어느 쪽으로도 학습하지 않는다."},
+    {"ids":"e5f01a5e8ce8e86b 1561d8de296af4b7 d714c7ebf1435ce8", "category":"LOAN_UNRESOLVED", "reason":"대출 홍보이나 등록 여부·금리·거래 조건 등 위법 근거 미확인."},
+    {"ids":"92a5454642fad6e7", "category":"ACCOUNT_DATA_UNRESOLVED", "reason":"SNS 계정과 DB 거래 홍보. 반복 키워드가 길며 계정/개인정보 권리와 대상별 위법성은 별도 검수 필요."}
+  ]
+}

@@ -1,0 +1,982 @@
+[
+  {
+    "node_id": "n_cbecc43761e831ef",
+    "scenario": "tech-education",
+    "variant": 0,
+    "layout": "plain",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [],
+    "techniques": []
+  },
+  {
+    "node_id": "n_41b8195d09cc85db",
+    "scenario": "tech-education",
+    "variant": 1,
+    "layout": "plain",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_5b67e006a760dada",
+    "scenario": "court",
+    "variant": 2,
+    "layout": "quote",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_1b2cc09724435fda",
+    "scenario": "linked",
+    "variant": 3,
+    "layout": "link",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [
+      "TRANSPARENT"
+    ]
+  },
+  {
+    "node_id": "n_8e308b4b861fc27f",
+    "scenario": "neighbor-normal",
+    "variant": 4,
+    "layout": "other-comment",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_be99138dc869b6a8",
+    "scenario": "enforcement",
+    "variant": 0,
+    "layout": "plain-quote",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [],
+    "techniques": []
+  },
+  {
+    "node_id": "n_e8904820106e634c",
+    "scenario": "prevention",
+    "variant": 1,
+    "layout": "quote",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_c1c737466002f367",
+    "scenario": "insufficient",
+    "variant": 2,
+    "layout": "plain",
+    "is_ad": null,
+    "expected_review": true,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_d245151bbd00a5d9",
+    "scenario": "insufficient",
+    "variant": 3,
+    "layout": "plain",
+    "is_ad": null,
+    "expected_review": true,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_247e2de955eea41a",
+    "scenario": "direct",
+    "variant": 4,
+    "layout": "plain",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [
+      "OFFSCREEN"
+    ]
+  },
+  {
+    "node_id": "n_e0910ebcf967ac7d",
+    "scenario": "research",
+    "variant": 0,
+    "layout": "quote",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [],
+    "techniques": []
+  },
+  {
+    "node_id": "n_d3a9ae0db211d41c",
+    "scenario": "public",
+    "variant": 1,
+    "layout": "plain",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_a57a1b4a9f1ce200",
+    "scenario": "public-link",
+    "variant": 2,
+    "layout": "link",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_542cca765e724b50",
+    "scenario": "title",
+    "variant": 3,
+    "layout": "title",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [
+      "TRANSPARENT"
+    ]
+  },
+  {
+    "node_id": "n_d3e4ecc952474553",
+    "scenario": "linked",
+    "variant": 4,
+    "layout": "link",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [
+      "OFFSCREEN"
+    ]
+  },
+  {
+    "node_id": "n_a530ae6ff53dc8ca",
+    "scenario": "direct",
+    "variant": 0,
+    "layout": "plain",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [],
+    "techniques": []
+  },
+  {
+    "node_id": "n_54b236c88fbb42c2",
+    "scenario": "tech-education",
+    "variant": 1,
+    "layout": "plain",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_f2f8f9e344616ca6",
+    "scenario": "research",
+    "variant": 2,
+    "layout": "plain",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_d4384cc2b10d91bc",
+    "scenario": "reverse-quote-normal",
+    "variant": 3,
+    "layout": "quote",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_fd6d5bbdc70c9dd0",
+    "scenario": "public-title",
+    "variant": 4,
+    "layout": "title",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_ca567ebfcb0ba1f3",
+    "scenario": "linked",
+    "variant": 0,
+    "layout": "link",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [],
+    "techniques": []
+  },
+  {
+    "node_id": "n_2414e776bfdcca6c",
+    "scenario": "archive",
+    "variant": 1,
+    "layout": "quote",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_52e334413c3db1e7",
+    "scenario": "tech-education",
+    "variant": 2,
+    "layout": "plain",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_11159895c905e77a",
+    "scenario": "direct",
+    "variant": 3,
+    "layout": "plain",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [
+      "TRANSPARENT"
+    ]
+  },
+  {
+    "node_id": "n_3731501fa6e793de",
+    "scenario": "public",
+    "variant": 4,
+    "layout": "plain",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_7a46c69b456163cd",
+    "scenario": "linked",
+    "variant": 0,
+    "layout": "link",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [],
+    "techniques": []
+  },
+  {
+    "node_id": "n_1c3a5290212b232d",
+    "scenario": "reverse-quote-normal",
+    "variant": 1,
+    "layout": "plain-quote",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_2eea1592c7ac0adc",
+    "scenario": "neighbor-normal",
+    "variant": 2,
+    "layout": "author",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_aadcfb270286bcae",
+    "scenario": "insufficient",
+    "variant": 3,
+    "layout": "plain",
+    "is_ad": null,
+    "expected_review": true,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_73961bc7fd655b7e",
+    "scenario": "public",
+    "variant": 4,
+    "layout": "plain",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_89c201ee1963f784",
+    "scenario": "tech-education",
+    "variant": 0,
+    "layout": "plain",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [],
+    "techniques": []
+  },
+  {
+    "node_id": "n_31039443f0acc628",
+    "scenario": "reverse-quote",
+    "variant": 1,
+    "layout": "plain",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [
+      "HOMOGLYPH"
+    ]
+  },
+  {
+    "node_id": "n_32bdd52d6003ca72",
+    "scenario": "warning-word",
+    "variant": 2,
+    "layout": "plain",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [
+      "JAMO"
+    ]
+  },
+  {
+    "node_id": "n_b7cb0b29b5c5ca61",
+    "scenario": "direct",
+    "variant": 3,
+    "layout": "plain",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [
+      "TRANSPARENT"
+    ]
+  },
+  {
+    "node_id": "n_a21afbf140da1e58",
+    "scenario": "warning-word",
+    "variant": 4,
+    "layout": "plain",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [
+      "OFFSCREEN"
+    ]
+  },
+  {
+    "node_id": "n_78dbceb467223dcb",
+    "scenario": "news",
+    "variant": 0,
+    "layout": "quote",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [],
+    "techniques": []
+  },
+  {
+    "node_id": "n_198d6a2ce76d4948",
+    "scenario": "linked",
+    "variant": 1,
+    "layout": "link",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [
+      "HOMOGLYPH"
+    ]
+  },
+  {
+    "node_id": "n_8fa0587b61cadae1",
+    "scenario": "public",
+    "variant": 2,
+    "layout": "plain",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_205711d7c4b94cb3",
+    "scenario": "public",
+    "variant": 3,
+    "layout": "plain",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_ecc45b5de2e01292",
+    "scenario": "public",
+    "variant": 4,
+    "layout": "plain",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_1134e39a8418dc79",
+    "scenario": "adjacent-notice",
+    "variant": 0,
+    "layout": "aside",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [],
+    "techniques": []
+  },
+  {
+    "node_id": "n_242802eb566e20a2",
+    "scenario": "reverse-quote",
+    "variant": 1,
+    "layout": "plain",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [
+      "HOMOGLYPH"
+    ]
+  },
+  {
+    "node_id": "n_29587438c6ca9c55",
+    "scenario": "subtle",
+    "variant": 2,
+    "layout": "plain",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [
+      "JAMO"
+    ]
+  },
+  {
+    "node_id": "n_ef7df3659fed4bdf",
+    "scenario": "insufficient",
+    "variant": 3,
+    "layout": "plain",
+    "is_ad": null,
+    "expected_review": true,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_691e274e879ecbc6",
+    "scenario": "training",
+    "variant": 4,
+    "layout": "plain-quote",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_31fccf06d832b8ca",
+    "scenario": "neighbor-normal",
+    "variant": 0,
+    "layout": "aside",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [],
+    "techniques": []
+  },
+  {
+    "node_id": "n_e0c689c7069e2704",
+    "scenario": "report",
+    "variant": 1,
+    "layout": "quote",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_a491f88ddaf51ecf",
+    "scenario": "news",
+    "variant": 2,
+    "layout": "plain",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_a4d47a001a694a72",
+    "scenario": "comment",
+    "variant": 3,
+    "layout": "comment",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [
+      "TRANSPARENT"
+    ]
+  },
+  {
+    "node_id": "n_18cb8e9b793e9fc1",
+    "scenario": "reverse-quote",
+    "variant": 4,
+    "layout": "plain",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [
+      "OFFSCREEN"
+    ]
+  },
+  {
+    "node_id": "n_d116bf885e08a04c",
+    "scenario": "linked",
+    "variant": 0,
+    "layout": "link",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [],
+    "techniques": []
+  },
+  {
+    "node_id": "n_cf9c3662724204d3",
+    "scenario": "enforcement",
+    "variant": 1,
+    "layout": "quote",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_7a9586c614635a41",
+    "scenario": "direct",
+    "variant": 2,
+    "layout": "plain",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [
+      "JAMO"
+    ]
+  },
+  {
+    "node_id": "n_35fc9942d14307a3",
+    "scenario": "insufficient",
+    "variant": 3,
+    "layout": "link",
+    "is_ad": null,
+    "expected_review": true,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_eb970628eb2fbca8",
+    "scenario": "insufficient",
+    "variant": 4,
+    "layout": "link",
+    "is_ad": null,
+    "expected_review": true,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_154c639e5ea1f6af",
+    "scenario": "neighbor-normal",
+    "variant": 0,
+    "layout": "other-comment",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [],
+    "techniques": []
+  },
+  {
+    "node_id": "n_b26a826e357d35d0",
+    "scenario": "author",
+    "variant": 1,
+    "layout": "author",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [
+      "HOMOGLYPH"
+    ]
+  },
+  {
+    "node_id": "n_369e9bb74c4feaef",
+    "scenario": "linked",
+    "variant": 2,
+    "layout": "link",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [
+      "JAMO"
+    ]
+  },
+  {
+    "node_id": "n_d55ca7b86f1438b0",
+    "scenario": "insufficient",
+    "variant": 3,
+    "layout": "link",
+    "is_ad": null,
+    "expected_review": true,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_3f347a1864533e31",
+    "scenario": "tech-education",
+    "variant": 4,
+    "layout": "plain",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_2c8edc85dd624b88",
+    "scenario": "tech-education",
+    "variant": 0,
+    "layout": "plain",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [],
+    "techniques": []
+  },
+  {
+    "node_id": "n_3e5e03c882015519",
+    "scenario": "reverse-quote",
+    "variant": 1,
+    "layout": "plain",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [
+      "HOMOGLYPH"
+    ]
+  },
+  {
+    "node_id": "n_1fc688ad6d7b71c6",
+    "scenario": "report",
+    "variant": 2,
+    "layout": "plain",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_726dc47382958882",
+    "scenario": "other-comment",
+    "variant": 3,
+    "layout": "other-comment",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [
+      "TRANSPARENT"
+    ]
+  },
+  {
+    "node_id": "n_3cd20b1ab5915845",
+    "scenario": "insufficient",
+    "variant": 4,
+    "layout": "title",
+    "is_ad": null,
+    "expected_review": true,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_08f08214e5d6b4ca",
+    "scenario": "news",
+    "variant": 0,
+    "layout": "plain-quote",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [],
+    "techniques": []
+  },
+  {
+    "node_id": "n_19ace2b497ef17fd",
+    "scenario": "warning-word",
+    "variant": 1,
+    "layout": "plain",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [
+      "HOMOGLYPH"
+    ]
+  },
+  {
+    "node_id": "n_2407afcb3f910962",
+    "scenario": "other-comment",
+    "variant": 2,
+    "layout": "other-comment",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [
+      "JAMO"
+    ]
+  },
+  {
+    "node_id": "n_a8d7ad918ebffe97",
+    "scenario": "subtle",
+    "variant": 3,
+    "layout": "plain",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [
+      "TRANSPARENT"
+    ]
+  },
+  {
+    "node_id": "n_0c5df6016625acd0",
+    "scenario": "court",
+    "variant": 4,
+    "layout": "plain-quote",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_d862bd5051cfbd0c",
+    "scenario": "prevention-title",
+    "variant": 0,
+    "layout": "title",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [],
+    "techniques": []
+  },
+  {
+    "node_id": "n_38c59a5549f21483",
+    "scenario": "research",
+    "variant": 1,
+    "layout": "plain-quote",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_521e578e47ce1e4d",
+    "scenario": "subtle",
+    "variant": 2,
+    "layout": "plain",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [
+      "JAMO"
+    ]
+  },
+  {
+    "node_id": "n_54f72c8e5de045f9",
+    "scenario": "adjacent-notice",
+    "variant": 3,
+    "layout": "aside",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [
+      "TRANSPARENT"
+    ]
+  },
+  {
+    "node_id": "n_70e0af86fec49fbc",
+    "scenario": "tech-education",
+    "variant": 4,
+    "layout": "plain",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_67e33c21ee33826c",
+    "scenario": "warning-word",
+    "variant": 0,
+    "layout": "plain",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [],
+    "techniques": []
+  },
+  {
+    "node_id": "n_f407217c2355fd9e",
+    "scenario": "prevention",
+    "variant": 1,
+    "layout": "quote",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_a8b3e21c430d21f4",
+    "scenario": "subtle",
+    "variant": 2,
+    "layout": "plain",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [
+      "JAMO"
+    ]
+  },
+  {
+    "node_id": "n_66bc1cf34db761f6",
+    "scenario": "report",
+    "variant": 3,
+    "layout": "plain-quote",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_ea8cf23021921254",
+    "scenario": "linked",
+    "variant": 4,
+    "layout": "link",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [
+      "OFFSCREEN"
+    ]
+  }
+]

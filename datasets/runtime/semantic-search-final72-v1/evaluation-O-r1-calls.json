@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "role": "judge",
+    "provider": "hcx",
+    "started_at": "2026-09-24T19:01:38.525Z",
+    "usage": {
+      "prompt_tokens": 5818,
+      "completion_tokens": 961,
+      "total_tokens": 6779
+    },
+    "reserved_tokens": 0,
+    "queue_wait_sec": 0.000013800000000628642,
+    "sent_at_ms": 1790276498526,
+    "http_status": 200,
+    "rate_limit": {
+      "x-ratelimit-limit-requests": "60",
+      "x-ratelimit-limit-tokens": "60000",
+      "x-ratelimit-remaining-requests": "57",
+      "x-ratelimit-remaining-tokens": "37881",
+      "x-ratelimit-reset-requests": "58s",
+      "x-ratelimit-reset-tokens": "58s"
+    },
+    "model_returned": "HCX-007",
+    "status": "ok",
+    "elapsed_sec": 17.534490599999998,
+    "finished_at_ms": 1790276516060,
+    "service_sec": 17.534
+  },
+  {
+    "number": 2,
+    "role": "judge",
+    "provider": "hcx",
+    "started_at": "2026-09-24T19:02:37.466Z",
+    "usage": {
+      "prompt_tokens": 5832,
+      "completion_tokens": 923,
+      "total_tokens": 6755
+    },
+    "reserved_tokens": 0,
+    "queue_wait_sec": 0.00009619999999995343,
+    "sent_at_ms": 1790276557466,
+    "http_status": 200,
+    "rate_limit": {
+      "x-ratelimit-limit-requests": "60",
+      "x-ratelimit-limit-tokens": "60000",
+      "x-ratelimit-remaining-requests": "58",
+      "x-ratelimit-remaining-tokens": "46716",
+      "x-ratelimit-reset-requests": "60s",
+      "x-ratelimit-reset-tokens": "60s"
+    },
+    "model_returned": "HCX-007",
+    "status": "ok",
+    "elapsed_sec": 16.25750330000001,
+    "finished_at_ms": 1790276573724,
+    "service_sec": 16.258
+  },
+  {
+    "number": 3,
+    "role": "judge",
+    "provider": "hcx",
+    "started_at": "2026-09-24T19:02:57.170Z",
+    "usage": {
+      "prompt_tokens": 5761,
+      "completion_tokens": 1045,
+      "total_tokens": 6806
+    },
+    "reserved_tokens": 0,
+    "queue_wait_sec": 0.000020099999994272367,
+    "sent_at_ms": 1790276577170,
+    "http_status": 200,
+    "rate_limit": {
+      "x-ratelimit-limit-requests": "60",
+      "x-ratelimit-limit-tokens": "60000",
+      "x-ratelimit-remaining-requests": "55",
+      "x-ratelimit-remaining-tokens": "24770",
+      "x-ratelimit-reset-requests": "41s",
+      "x-ratelimit-reset-tokens": "40s"
+    },
+    "model_returned": "HCX-007",
+    "status": "ok",
+    "elapsed_sec": 18.035411399999997,
+    "finished_at_ms": 1790276595205,
+    "service_sec": 18.035
+  },
+  {
+    "number": 4,
+    "role": "judge",
+    "provider": "hcx",
+    "started_at": "2026-09-24T19:03:41.091Z",
+    "usage": {
+      "prompt_tokens": 5669,
+      "completion_tokens": 939,
+      "total_tokens": 6608
+    },
+    "reserved_tokens": 0,
+    "queue_wait_sec": 0.000005600000004051253,
+    "sent_at_ms": 1790276621091,
+    "http_status": 200,
+    "rate_limit": {
+      "x-ratelimit-limit-requests": "60",
+      "x-ratelimit-limit-tokens": "60000",
+      "x-ratelimit-remaining-requests": "57",
+      "x-ratelimit-remaining-tokens": "37938",
+      "x-ratelimit-reset-requests": "58s",
+      "x-ratelimit-reset-tokens": "58s"
+    },
+    "model_returned": "HCX-007",
+    "status": "ok",
+    "elapsed_sec": 16.19768400000001,
+    "finished_at_ms": 1790276637288,
+    "service_sec": 16.197
+  },
+  {
+    "number": 5,
+    "role": "judge",
+    "provider": "hcx",
+    "started_at": "2026-09-24T19:04:01.893Z",
+    "usage": {
+      "prompt_tokens": 3157,
+      "completion_tokens": 482,
+      "total_tokens": 3639
+    },
+    "reserved_tokens": 0,
+    "queue_wait_sec": 0.0000070999999879859386,
+    "sent_at_ms": 1790276641893,
+    "http_status": 200,
+    "rate_limit": {
+      "x-ratelimit-limit-requests": "60",
+      "x-ratelimit-limit-tokens": "60000",
+      "x-ratelimit-remaining-requests": "53",
+      "x-ratelimit-remaining-tokens": "16818",
+      "x-ratelimit-reset-requests": "37s",
+      "x-ratelimit-reset-tokens": "37s"
+    },
+    "model_returned": "HCX-007",
+    "status": "ok",
+    "elapsed_sec": 8.661472499999974,
+    "finished_at_ms": 1790276650554,
+    "service_sec": 8.661
+  }
+]

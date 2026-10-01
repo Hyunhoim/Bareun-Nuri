@@ -1,0 +1,32 @@
+[
+  {
+    "node_id": "n_fd353527dfb5d8b1",
+    "is_ad": false,
+    "scenario": "identifier-control"
+  },
+  {
+    "node_id": "n_714a6ca266c340a2",
+    "is_ad": false,
+    "scenario": "primary"
+  },
+  {
+    "node_id": "n_d2cdf93838c1f6cf",
+    "is_ad": false,
+    "scenario": "identifier-control"
+  },
+  {
+    "node_id": "n_a7996d4b07fc5404",
+    "is_ad": true,
+    "scenario": "judgment_false_negative"
+  },
+  {
+    "node_id": "n_e36a1af1e9936ed7",
+    "is_ad": true,
+    "scenario": "judgment_false_negative"
+  },
+  {
+    "node_id": "n_01630cfb0005f9ea",
+    "is_ad": true,
+    "scenario": "judgment_false_negative"
+  }
+]

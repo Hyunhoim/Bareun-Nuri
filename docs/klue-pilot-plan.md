@@ -1,0 +1,17 @@
+# KLUE RoBERTa CPU classifier pilot
+
+User authorized local fine-tuning and experimental comparison only. No production changes or cloud GPU training. Train on RTX4060 8GB if available; measure final inference on CPU. Base: klue/roberta-base revision 02f94ba5e3fcb7e2a58a390b8639b0fac974a8da. Four-class supervised classification: advertisement, prevention/report quotation, ordinary information, insufficient evidence. DOM observations remain separate; this cannot prove numeric-replacement technique accuracy.
+
+## Frozen split contract
+
+New synthetic train/validation/final sets with disjoint service names, phrase families and wrapper templates. All derived variants and contrastive pairs stay inside their source split. Group assignment precedes expansion; assert no identical complete input across splits. Dataset author also implements training: this is held-out synthetic data, not independent human annotation or a real-site distribution. Strong template cues and small lexical diversity remain overfitting risks. Existing repeatedly observed137 are regression only, not train/validation/final. Do not train on HCX predictions.
+
+Final labels are stored separately. Training command reads only train and validation. Choose one checkpoint on validation macro4 F1, tie lower validation loss. One training seed42, 4 epochs maximum, AdamW lr2e-5, weight_decay.01, batch8, maximum512 tokens; no hyperparameter sweep. Training time cap30minutes. Target and normalized reading precede context; record truncation, never claim discarded context was examined. No confidence threshold tuning; argmax four classes. Pretrained random classification head is not a meaningful zero-shot baseline.
+
+Pre-training dataset QA revision: v1 was created but never trained/evaluated. Shared literal introductory role cues were found across splits and separated in v2 before any model inference. v1 remains an unused draft. Active v2 counts: train384/48groups, validation128/16groups, final128/16groups. Abstract construction recipes still overlap; do not call this independently authored real-site generalization. Fixing a draft before training is distinguished from tuning against final predictions.
+
+Freeze chosen model hash, preprocessing code and final input hash before final prediction. Final command uses an exclusive-start marker and cannot be automatically rerun, even on failure. One final inference pass for KLUE and one for HCX on the same final candidates. Record raw predictions before opening final labels. No retraining after final scoring; future work needs a new final set. CPU performance repetitions use validation inputs only, not final. CPU8threads, batch1 and batch8. Float32 deployment baseline, no unvalidated quantization.
+
+HCX comparator: current operating contract, C reading, none/512/12batch, sequential, max16calls/max150000 estimated tokens/onehour cap; no unknown-request retry. Both see same source target/context, but classifier serialization and512 truncation differ, report this as system comparison rather than identical token input. No HCX training data generation calls.
+
+Report ad precision/recall/F1, macro4 F1, prevention FP, insufficient overconfidence, text truncation, CPU timing/RAM, training time, known137 regression. Expansion-worthy if final adF1 within3percentagepoints ofHCX and CPU throughput advantage, no major quote/uncertainty collapse; not adoption. Production adoption still needs actual25minute site comparison. If failed, stop without tailoring to final errors.

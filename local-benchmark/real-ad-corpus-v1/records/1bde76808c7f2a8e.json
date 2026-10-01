@@ -1,0 +1,31 @@
+{
+  "id": "1bde76808c7f2a8e",
+  "source": {
+    "id": "1bde76808c7f2a8e",
+    "url": "https://hrd.jeonbuk.go.kr/board/view.training?boardId=BBS_0000016&menuCd=DOM_000000103001000000&startPage=4&dataSid=13434",
+    "source_scope": "government_board",
+    "captured_at": "2026-09-28T23:08:45.106936+00:00",
+    "rights_status": "unverified_third_party_content",
+    "human_reviewed": false,
+    "raw_file": "raw/1bde76808c7f2a8e.html",
+    "byte_file": "raw/1bde76808c7f2a8e.bin",
+    "response_sha256": "517a4d171ff5971f9ed67812282e7bbe269696eff0217209cdada9ada6e09803",
+    "decoded_sha256": "517a4d171ff5971f9ed67812282e7bbe269696eff0217209cdada9ada6e09803",
+    "encoding": "utf-8",
+    "status": "captured",
+    "page_title": "홈 > 소통마당 > 자유게시판 |상세보기"
+  },
+  "title": "전주남원통근버스",
+  "raw_text": "제가 인터넷에 전주남원통근버스  공고문을 보았는데요 혹시 전주랑 남원이랑 인재개발원 통근버스 운행 하시나요?",
+  "body_xpath": "/html/body/div/div[3]/div/div[2]/div[2]/div[3]/div",
+  "title_xpath": "/html/body/div/div[3]/div/div[2]/div[2]/div[3]/dl[1]",
+  "source_kind": "real_web_post",
+  "extraction": "static_HTML_lxml_itertext",
+  "comments_status": "not_extracted_or_labeled",
+  "technique_observed": null,
+  "body_sha256": "d6e5aaafed14a400a01b5a824682947acdb71d31c31486f1e5472ba62c097b39",
+  "label": null,
+  "human_reviewed": false,
+  "outgoing_links": [],
+  "notes": "No CSS technique claim from static text; listed neighbours are excluded from owned context."
+}

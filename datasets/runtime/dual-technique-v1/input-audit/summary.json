@@ -1,0 +1,172 @@
+{
+  "full": {
+    "offer": {
+      "rows": 75,
+      "H_present": 73,
+      "H_absent": 2,
+      "H_uncertain": 0,
+      "same_as_full": 75,
+      "original_label_agreement_not_intervention_accuracy": 73
+    },
+    "education": {
+      "rows": 75,
+      "H_present": 23,
+      "H_absent": 3,
+      "H_uncertain": 49,
+      "same_as_full": 75,
+      "original_label_agreement_not_intervention_accuracy": 23
+    },
+    "identifier": {
+      "rows": 75,
+      "H_present": 0,
+      "H_absent": 56,
+      "H_uncertain": 19,
+      "same_as_full": 75,
+      "original_label_agreement_not_intervention_accuracy": 56
+    },
+    "insufficient": {
+      "rows": 75,
+      "H_present": 1,
+      "H_absent": 1,
+      "H_uncertain": 73,
+      "same_as_full": 75,
+      "original_label_agreement_not_intervention_accuracy": 73
+    }
+  },
+  "no_unicode": {
+    "offer": {
+      "rows": 75,
+      "H_present": 5,
+      "H_absent": 70,
+      "H_uncertain": 0,
+      "same_as_full": 7,
+      "original_label_agreement_not_intervention_accuracy": 5
+    },
+    "education": {
+      "rows": 75,
+      "H_present": 0,
+      "H_absent": 68,
+      "H_uncertain": 7,
+      "same_as_full": 4,
+      "original_label_agreement_not_intervention_accuracy": 0
+    },
+    "identifier": {
+      "rows": 75,
+      "H_present": 0,
+      "H_absent": 75,
+      "H_uncertain": 0,
+      "same_as_full": 56,
+      "original_label_agreement_not_intervention_accuracy": 75
+    },
+    "insufficient": {
+      "rows": 75,
+      "H_present": 0,
+      "H_absent": 27,
+      "H_uncertain": 48,
+      "same_as_full": 48,
+      "original_label_agreement_not_intervention_accuracy": 48
+    }
+  },
+  "no_side_context": {
+    "offer": {
+      "rows": 75,
+      "H_present": 72,
+      "H_absent": 3,
+      "H_uncertain": 0,
+      "same_as_full": 74,
+      "original_label_agreement_not_intervention_accuracy": 72
+    },
+    "education": {
+      "rows": 75,
+      "H_present": 1,
+      "H_absent": 3,
+      "H_uncertain": 71,
+      "same_as_full": 53,
+      "original_label_agreement_not_intervention_accuracy": 1
+    },
+    "identifier": {
+      "rows": 75,
+      "H_present": 0,
+      "H_absent": 39,
+      "H_uncertain": 36,
+      "same_as_full": 58,
+      "original_label_agreement_not_intervention_accuracy": 39
+    },
+    "insufficient": {
+      "rows": 75,
+      "H_present": 0,
+      "H_absent": 1,
+      "H_uncertain": 74,
+      "same_as_full": 74,
+      "original_label_agreement_not_intervention_accuracy": 74
+    }
+  },
+  "glyph_only": {
+    "offer": {
+      "rows": 75,
+      "H_present": 3,
+      "H_absent": 1,
+      "H_uncertain": 71,
+      "same_as_full": 4,
+      "original_label_agreement_not_intervention_accuracy": 3
+    },
+    "education": {
+      "rows": 75,
+      "H_present": 3,
+      "H_absent": 1,
+      "H_uncertain": 71,
+      "same_as_full": 53,
+      "original_label_agreement_not_intervention_accuracy": 3
+    },
+    "identifier": {
+      "rows": 75,
+      "H_present": 3,
+      "H_absent": 1,
+      "H_uncertain": 71,
+      "same_as_full": 19,
+      "original_label_agreement_not_intervention_accuracy": 1
+    },
+    "insufficient": {
+      "rows": 75,
+      "H_present": 3,
+      "H_absent": 1,
+      "H_uncertain": 71,
+      "same_as_full": 71,
+      "original_label_agreement_not_intervention_accuracy": 71
+    }
+  },
+  "no_glyph": {
+    "offer": {
+      "rows": 75,
+      "H_present": 0,
+      "H_absent": 75,
+      "H_uncertain": 0,
+      "same_as_full": 2,
+      "original_label_agreement_not_intervention_accuracy": 0
+    },
+    "education": {
+      "rows": 75,
+      "H_present": 0,
+      "H_absent": 75,
+      "H_uncertain": 0,
+      "same_as_full": 3,
+      "original_label_agreement_not_intervention_accuracy": 0
+    },
+    "identifier": {
+      "rows": 75,
+      "H_present": 0,
+      "H_absent": 75,
+      "H_uncertain": 0,
+      "same_as_full": 56,
+      "original_label_agreement_not_intervention_accuracy": 75
+    },
+    "insufficient": {
+      "rows": 75,
+      "H_present": 0,
+      "H_absent": 75,
+      "H_uncertain": 0,
+      "same_as_full": 1,
+      "original_label_agreement_not_intervention_accuracy": 0
+    }
+  }
+}

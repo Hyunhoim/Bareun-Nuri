@@ -1,0 +1,16 @@
+{
+  "synthetic": true,
+  "real_posts_quoted": false,
+  "human_reviewed": false,
+  "source_seed_sha256": "0dbd2b763f7edb7319703ba1784185097c6b0686c10b21eb781f65aab2aa4a22",
+  "collector_sha256": "05df35ca15cdbb7129fe93c360a46d69f66efed5119b7aa200f4bd48ffc5138d",
+  "model_input": [
+    "input.target",
+    "input.context"
+  ],
+  "labels": {
+    "0": "EXCLUDE",
+    "1": "HCX"
+  },
+  "independent_real_holdout": false
+}

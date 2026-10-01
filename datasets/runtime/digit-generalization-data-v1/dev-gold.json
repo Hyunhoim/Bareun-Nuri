@@ -1,0 +1,562 @@
+[
+  {
+    "node_id": "n_fa8de02fca994cbd",
+    "site": "harbor-civic",
+    "split": "dev",
+    "family": "voucher",
+    "role": "offer",
+    "template": "dev-offer-0",
+    "classification": "substitution",
+    "reading": "VOUCHER"
+  },
+  {
+    "node_id": "n_05aaaf17f645ad35",
+    "site": "harbor-civic",
+    "split": "dev",
+    "family": "voucher",
+    "role": "prevention",
+    "template": "dev-prevention-0",
+    "classification": "substitution",
+    "reading": "VOUCHER"
+  },
+  {
+    "node_id": "n_04776ac53ceaf503",
+    "site": "harbor-civic",
+    "split": "dev",
+    "family": "voucher",
+    "role": "identifier",
+    "template": "dev-identifier-0",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_a6edf9ee136056f4",
+    "site": "harbor-civic",
+    "split": "dev",
+    "family": "voucher",
+    "role": "ambiguous",
+    "template": "dev-ambiguous-0",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_c9852f0a96828de6",
+    "site": "grove-office",
+    "split": "dev",
+    "family": "cashback",
+    "role": "offer",
+    "template": "dev-offer-1",
+    "classification": "substitution",
+    "reading": "CASHBACK"
+  },
+  {
+    "node_id": "n_84faedb00c6e3a7d",
+    "site": "grove-office",
+    "split": "dev",
+    "family": "cashback",
+    "role": "prevention",
+    "template": "dev-prevention-1",
+    "classification": "substitution",
+    "reading": "CASHBACK"
+  },
+  {
+    "node_id": "n_24cdcf037eca8b67",
+    "site": "grove-office",
+    "split": "dev",
+    "family": "cashback",
+    "role": "identifier",
+    "template": "dev-identifier-1",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_9c1ace1e69d5886d",
+    "site": "grove-office",
+    "split": "dev",
+    "family": "cashback",
+    "role": "ambiguous",
+    "template": "dev-ambiguous-0",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_32e2ce5bb216baa3",
+    "site": "harbor-civic",
+    "split": "dev",
+    "family": "deposit",
+    "role": "offer",
+    "template": "dev-offer-2",
+    "classification": "substitution",
+    "reading": "DEPOSIT"
+  },
+  {
+    "node_id": "n_b646c9f936f3a70a",
+    "site": "harbor-civic",
+    "split": "dev",
+    "family": "deposit",
+    "role": "prevention",
+    "template": "dev-prevention-2",
+    "classification": "substitution",
+    "reading": "DEPOSIT"
+  },
+  {
+    "node_id": "n_0411defe2037d99d",
+    "site": "harbor-civic",
+    "split": "dev",
+    "family": "deposit",
+    "role": "identifier",
+    "template": "dev-identifier-2",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_b2401550485edebf",
+    "site": "harbor-civic",
+    "split": "dev",
+    "family": "deposit",
+    "role": "ambiguous",
+    "template": "dev-ambiguous-0",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_81c25e39a9ac715e",
+    "site": "grove-office",
+    "split": "dev",
+    "family": "reward",
+    "role": "offer",
+    "template": "dev-offer-0",
+    "classification": "substitution",
+    "reading": "REWARD"
+  },
+  {
+    "node_id": "n_a7b63580facb7923",
+    "site": "grove-office",
+    "split": "dev",
+    "family": "reward",
+    "role": "prevention",
+    "template": "dev-prevention-0",
+    "classification": "substitution",
+    "reading": "REWARD"
+  },
+  {
+    "node_id": "n_3d4754b4045882ff",
+    "site": "grove-office",
+    "split": "dev",
+    "family": "reward",
+    "role": "identifier",
+    "template": "dev-identifier-0",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_615213d38cd5fd30",
+    "site": "grove-office",
+    "split": "dev",
+    "family": "reward",
+    "role": "ambiguous",
+    "template": "dev-ambiguous-0",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_8954ec3d0db20e5f",
+    "site": "harbor-civic",
+    "split": "dev",
+    "family": "invite",
+    "role": "offer",
+    "template": "dev-offer-1",
+    "classification": "substitution",
+    "reading": "INVITE"
+  },
+  {
+    "node_id": "n_4da99cc5f77b4f0d",
+    "site": "harbor-civic",
+    "split": "dev",
+    "family": "invite",
+    "role": "prevention",
+    "template": "dev-prevention-1",
+    "classification": "substitution",
+    "reading": "INVITE"
+  },
+  {
+    "node_id": "n_994a3314e8a77406",
+    "site": "harbor-civic",
+    "split": "dev",
+    "family": "invite",
+    "role": "identifier",
+    "template": "dev-identifier-1",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_eb5233076844339d",
+    "site": "harbor-civic",
+    "split": "dev",
+    "family": "invite",
+    "role": "ambiguous",
+    "template": "dev-ambiguous-0",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_7a91e9099b4b3cd8",
+    "site": "grove-office",
+    "split": "dev",
+    "family": "credit",
+    "role": "offer",
+    "template": "dev-offer-2",
+    "classification": "substitution",
+    "reading": "CREDIT"
+  },
+  {
+    "node_id": "n_7f003ddf486f8253",
+    "site": "grove-office",
+    "split": "dev",
+    "family": "credit",
+    "role": "prevention",
+    "template": "dev-prevention-2",
+    "classification": "substitution",
+    "reading": "CREDIT"
+  },
+  {
+    "node_id": "n_b6dc25d53ec8bcd2",
+    "site": "grove-office",
+    "split": "dev",
+    "family": "credit",
+    "role": "identifier",
+    "template": "dev-identifier-2",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_b63b1a6fc4a5980e",
+    "site": "grove-office",
+    "split": "dev",
+    "family": "credit",
+    "role": "ambiguous",
+    "template": "dev-ambiguous-0",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_0e102a67f0107424",
+    "site": "harbor-civic",
+    "split": "dev",
+    "family": "wallet",
+    "role": "offer",
+    "template": "dev-offer-0",
+    "classification": "substitution",
+    "reading": "WALLET"
+  },
+  {
+    "node_id": "n_c7d3e687d52b1132",
+    "site": "harbor-civic",
+    "split": "dev",
+    "family": "wallet",
+    "role": "prevention",
+    "template": "dev-prevention-0",
+    "classification": "substitution",
+    "reading": "WALLET"
+  },
+  {
+    "node_id": "n_851751f260d7e679",
+    "site": "harbor-civic",
+    "split": "dev",
+    "family": "wallet",
+    "role": "identifier",
+    "template": "dev-identifier-0",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_a48a90a01ca015a1",
+    "site": "harbor-civic",
+    "split": "dev",
+    "family": "wallet",
+    "role": "ambiguous",
+    "template": "dev-ambiguous-0",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_acff60dfde737273",
+    "site": "grove-office",
+    "split": "dev",
+    "family": "premium",
+    "role": "offer",
+    "template": "dev-offer-1",
+    "classification": "substitution",
+    "reading": "PREMIUM"
+  },
+  {
+    "node_id": "n_ba232bd303d79183",
+    "site": "grove-office",
+    "split": "dev",
+    "family": "premium",
+    "role": "prevention",
+    "template": "dev-prevention-1",
+    "classification": "substitution",
+    "reading": "PREMIUM"
+  },
+  {
+    "node_id": "n_d2b9f4ad74d7051d",
+    "site": "grove-office",
+    "split": "dev",
+    "family": "premium",
+    "role": "identifier",
+    "template": "dev-identifier-1",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_4a63c04e167702c2",
+    "site": "grove-office",
+    "split": "dev",
+    "family": "premium",
+    "role": "ambiguous",
+    "template": "dev-ambiguous-0",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_be29ab29977d4632",
+    "site": "harbor-civic",
+    "split": "dev",
+    "family": "silver",
+    "role": "offer",
+    "template": "dev-offer-2",
+    "classification": "substitution",
+    "reading": "SILVER"
+  },
+  {
+    "node_id": "n_2947d27836ffbcb6",
+    "site": "harbor-civic",
+    "split": "dev",
+    "family": "silver",
+    "role": "prevention",
+    "template": "dev-prevention-2",
+    "classification": "substitution",
+    "reading": "SILVER"
+  },
+  {
+    "node_id": "n_e53543e328a5b36f",
+    "site": "harbor-civic",
+    "split": "dev",
+    "family": "silver",
+    "role": "identifier",
+    "template": "dev-identifier-2",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_374bcc033b2c6b5e",
+    "site": "harbor-civic",
+    "split": "dev",
+    "family": "silver",
+    "role": "ambiguous",
+    "template": "dev-ambiguous-0",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_6655fbab7f6ae58c",
+    "site": "grove-office",
+    "split": "dev",
+    "family": "golden",
+    "role": "offer",
+    "template": "dev-offer-0",
+    "classification": "substitution",
+    "reading": "GOLDEN"
+  },
+  {
+    "node_id": "n_f406eb31a0d41e60",
+    "site": "grove-office",
+    "split": "dev",
+    "family": "golden",
+    "role": "prevention",
+    "template": "dev-prevention-0",
+    "classification": "substitution",
+    "reading": "GOLDEN"
+  },
+  {
+    "node_id": "n_ee5f60390d397578",
+    "site": "grove-office",
+    "split": "dev",
+    "family": "golden",
+    "role": "identifier",
+    "template": "dev-identifier-0",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_3064a842dee50ec6",
+    "site": "grove-office",
+    "split": "dev",
+    "family": "golden",
+    "role": "ambiguous",
+    "template": "dev-ambiguous-0",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_c1ffd6ef298a661f",
+    "site": "harbor-civic",
+    "split": "dev",
+    "family": "token",
+    "role": "offer",
+    "template": "dev-offer-1",
+    "classification": "substitution",
+    "reading": "TOKEN"
+  },
+  {
+    "node_id": "n_20fc92134cb8fa0e",
+    "site": "harbor-civic",
+    "split": "dev",
+    "family": "token",
+    "role": "prevention",
+    "template": "dev-prevention-1",
+    "classification": "substitution",
+    "reading": "TOKEN"
+  },
+  {
+    "node_id": "n_dcba38c7fbc1af7b",
+    "site": "harbor-civic",
+    "split": "dev",
+    "family": "token",
+    "role": "identifier",
+    "template": "dev-identifier-1",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_a32ceadde625e17f",
+    "site": "harbor-civic",
+    "split": "dev",
+    "family": "token",
+    "role": "ambiguous",
+    "template": "dev-ambiguous-0",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_c4ce318e8bf6039a",
+    "site": "grove-office",
+    "split": "dev",
+    "family": "partner",
+    "role": "offer",
+    "template": "dev-offer-2",
+    "classification": "substitution",
+    "reading": "PARTNER"
+  },
+  {
+    "node_id": "n_efb5929128a7b001",
+    "site": "grove-office",
+    "split": "dev",
+    "family": "partner",
+    "role": "prevention",
+    "template": "dev-prevention-2",
+    "classification": "substitution",
+    "reading": "PARTNER"
+  },
+  {
+    "node_id": "n_c7482ffc5b095739",
+    "site": "grove-office",
+    "split": "dev",
+    "family": "partner",
+    "role": "identifier",
+    "template": "dev-identifier-2",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_7630e41b3cfac970",
+    "site": "grove-office",
+    "split": "dev",
+    "family": "partner",
+    "role": "ambiguous",
+    "template": "dev-ambiguous-0",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_41ce97b8cef9e3dd",
+    "site": "harbor-civic",
+    "split": "dev",
+    "family": "usb3",
+    "role": "standard",
+    "template": "dev-standard-0",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_8af5db8c42f994a3",
+    "site": "grove-office",
+    "split": "dev",
+    "family": "wifi6",
+    "role": "standard",
+    "template": "dev-standard-1",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_28706883a05a2e15",
+    "site": "harbor-civic",
+    "split": "dev",
+    "family": "ipv6",
+    "role": "standard",
+    "template": "dev-standard-2",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_9b0a5354f2e80110",
+    "site": "grove-office",
+    "split": "dev",
+    "family": "h264",
+    "role": "standard",
+    "template": "dev-standard-3",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_203f0e260057013f",
+    "site": "harbor-civic",
+    "split": "dev",
+    "family": "b2b",
+    "role": "standard",
+    "template": "dev-standard-4",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_cd95e0eb09b7f93a",
+    "site": "grove-office",
+    "split": "dev",
+    "family": "5g",
+    "role": "standard",
+    "template": "dev-standard-5",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_7a75f959afeb17d8",
+    "site": "harbor-civic",
+    "split": "dev",
+    "family": "a4",
+    "role": "standard",
+    "template": "dev-standard-6",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_317e6781ff153701",
+    "site": "grove-office",
+    "split": "dev",
+    "family": "r2d2",
+    "role": "standard",
+    "template": "dev-standard-7",
+    "classification": "literal",
+    "reading": null
+  }
+]

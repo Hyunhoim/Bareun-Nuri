@@ -1,0 +1,37 @@
+{
+  "version": "semantic-validation-v1",
+  "purpose": "development_pattern_validation",
+  "total_rows": 90,
+  "primary_rows": 50,
+  "primary_labels": {
+    "positive": 20,
+    "negative": 20,
+    "uncertain": 10
+  },
+  "surface_consistency_rows": 40,
+  "categories": 10,
+  "exact_normalized_train_overlaps": 0,
+  "near_overlap_flags": 0,
+  "max_nearest_jaccard5": 0.10975609756097561,
+  "max_nearest_sequence_ratio": 0.48936170212765956,
+  "train_file": "local-benchmark\\synthetic-extension-v2\\combined-train-candidates.jsonl",
+  "train_sha256": "46e86fc999dd351e33b7fd9fd4917218bdf4e8136b8379c096d41bd09125e685",
+  "model_runs_at_creation": 0,
+  "independent_real_holdout": false,
+  "author_independent": false,
+  "labels_human_reviewed": false,
+  "live_collection": false,
+  "same_training_semantic_categories_intentional": true,
+  "limitations": [
+    "shared synthetic author",
+    "shared task concepts",
+    "only two positive and two normal originals per category",
+    "not representative of real class prevalence"
+  ],
+  "files": {
+    "cases.json": "a7d8d56a3a20ac946b0fdec27453ba6656dd76c443f9efd8660608c4b9af03fc",
+    "inputs.jsonl": "41f4bf9e430203d15d80adee8e494c3c7f3cefabf9c2eb8151e2ccb19f19637b",
+    "labels.jsonl": "b0321d1adbddfcb579b12e53c604ea31fcafcb6f6b5b2148a129b5ae97323526",
+    "primary-inputs.jsonl": "41629bd16e3a52b3761748a779525bfd49f0af1cbbc59407715175242d17aa91"
+  }
+}

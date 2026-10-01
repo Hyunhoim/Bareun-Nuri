@@ -1,0 +1,722 @@
+[
+  {
+    "node_id": "n_a4484a4f5b134d5f",
+    "classification": "substitution",
+    "reading": "SECURE2",
+    "ad_gold": false,
+    "family": "secure",
+    "role": "direct",
+    "site": "summit-library",
+    "location": "title"
+  },
+  {
+    "node_id": "n_4df3881e769e2223",
+    "classification": "substitution",
+    "reading": "SECURE2",
+    "ad_gold": false,
+    "family": "secure",
+    "role": "quotation",
+    "site": "coast-records",
+    "location": "body"
+  },
+  {
+    "node_id": "n_1d1ee48fcc280219",
+    "classification": "literal",
+    "reading": null,
+    "ad_gold": true,
+    "family": "secure",
+    "role": "identifier",
+    "site": "plain-museum",
+    "location": "comment"
+  },
+  {
+    "node_id": "n_f1dd6a0b6b1c4cfc",
+    "classification": "uncertain",
+    "reading": null,
+    "ad_gold": null,
+    "family": "secure",
+    "role": "ambiguous",
+    "site": "cedar-council",
+    "location": "caption"
+  },
+  {
+    "node_id": "n_420ee1dfbe8fede8",
+    "classification": "substitution",
+    "reading": "OPEN24",
+    "ad_gold": false,
+    "family": "open",
+    "role": "direct",
+    "site": "coast-records",
+    "location": "body"
+  },
+  {
+    "node_id": "n_461d20d9a456eedb",
+    "classification": "substitution",
+    "reading": "OPEN24",
+    "ad_gold": false,
+    "family": "open",
+    "role": "quotation",
+    "site": "plain-museum",
+    "location": "comment"
+  },
+  {
+    "node_id": "n_909962ef7ed34353",
+    "classification": "literal",
+    "reading": null,
+    "ad_gold": false,
+    "family": "open",
+    "role": "identifier",
+    "site": "cedar-council",
+    "location": "caption"
+  },
+  {
+    "node_id": "n_279fd72336273a12",
+    "classification": "uncertain",
+    "reading": null,
+    "ad_gold": null,
+    "family": "open",
+    "role": "ambiguous",
+    "site": "summit-library",
+    "location": "title"
+  },
+  {
+    "node_id": "n_a851cc1436fcb297",
+    "classification": "substitution",
+    "reading": "MAGIC7",
+    "ad_gold": false,
+    "family": "magic",
+    "role": "direct",
+    "site": "plain-museum",
+    "location": "comment"
+  },
+  {
+    "node_id": "n_064e14d112c39d11",
+    "classification": "substitution",
+    "reading": "MAGIC7",
+    "ad_gold": false,
+    "family": "magic",
+    "role": "quotation",
+    "site": "cedar-council",
+    "location": "caption"
+  },
+  {
+    "node_id": "n_50db8c5ee74f0bc2",
+    "classification": "literal",
+    "reading": null,
+    "ad_gold": true,
+    "family": "magic",
+    "role": "identifier",
+    "site": "summit-library",
+    "location": "title"
+  },
+  {
+    "node_id": "n_e403cc09cedff03b",
+    "classification": "uncertain",
+    "reading": null,
+    "ad_gold": null,
+    "family": "magic",
+    "role": "ambiguous",
+    "site": "coast-records",
+    "location": "body"
+  },
+  {
+    "node_id": "n_167f851488a123fd",
+    "classification": "substitution",
+    "reading": "SOUND10",
+    "ad_gold": false,
+    "family": "sound",
+    "role": "direct",
+    "site": "cedar-council",
+    "location": "caption"
+  },
+  {
+    "node_id": "n_8400161dd2b2398e",
+    "classification": "substitution",
+    "reading": "SOUND10",
+    "ad_gold": false,
+    "family": "sound",
+    "role": "quotation",
+    "site": "summit-library",
+    "location": "title"
+  },
+  {
+    "node_id": "n_2a219a584ecc66ce",
+    "classification": "literal",
+    "reading": null,
+    "ad_gold": false,
+    "family": "sound",
+    "role": "identifier",
+    "site": "coast-records",
+    "location": "body"
+  },
+  {
+    "node_id": "n_5d2ee17d9be63315",
+    "classification": "uncertain",
+    "reading": null,
+    "ad_gold": null,
+    "family": "sound",
+    "role": "ambiguous",
+    "site": "plain-museum",
+    "location": "comment"
+  },
+  {
+    "node_id": "n_a309c4f51c865e0b",
+    "classification": "substitution",
+    "reading": "DELIVERY",
+    "ad_gold": true,
+    "family": "delivery",
+    "role": "direct",
+    "site": "summit-library",
+    "location": "title"
+  },
+  {
+    "node_id": "n_30f8a1da938d05db",
+    "classification": "substitution",
+    "reading": "DELIVERY",
+    "ad_gold": false,
+    "family": "delivery",
+    "role": "quotation",
+    "site": "coast-records",
+    "location": "body"
+  },
+  {
+    "node_id": "n_3ddf784ce5fd3ca8",
+    "classification": "literal",
+    "reading": null,
+    "ad_gold": true,
+    "family": "delivery",
+    "role": "identifier",
+    "site": "plain-museum",
+    "location": "comment"
+  },
+  {
+    "node_id": "n_ba939f672bec4d88",
+    "classification": "uncertain",
+    "reading": null,
+    "ad_gold": null,
+    "family": "delivery",
+    "role": "ambiguous",
+    "site": "cedar-council",
+    "location": "caption"
+  },
+  {
+    "node_id": "n_197e0d5119d9db9e",
+    "classification": "substitution",
+    "reading": "ORDER",
+    "ad_gold": true,
+    "family": "order",
+    "role": "direct",
+    "site": "coast-records",
+    "location": "body"
+  },
+  {
+    "node_id": "n_c9ebc2e4f0305dbf",
+    "classification": "substitution",
+    "reading": "ORDER",
+    "ad_gold": false,
+    "family": "order",
+    "role": "quotation",
+    "site": "plain-museum",
+    "location": "comment"
+  },
+  {
+    "node_id": "n_b0bf5c9d79d821f9",
+    "classification": "literal",
+    "reading": null,
+    "ad_gold": false,
+    "family": "order",
+    "role": "identifier",
+    "site": "cedar-council",
+    "location": "caption"
+  },
+  {
+    "node_id": "n_fe02e50391c491cf",
+    "classification": "uncertain",
+    "reading": null,
+    "ad_gold": null,
+    "family": "order",
+    "role": "ambiguous",
+    "site": "summit-library",
+    "location": "title"
+  },
+  {
+    "node_id": "n_0aface8fc1da55b7",
+    "classification": "substitution",
+    "reading": "SALE",
+    "ad_gold": false,
+    "family": "sale",
+    "role": "direct",
+    "site": "plain-museum",
+    "location": "comment"
+  },
+  {
+    "node_id": "n_47796ff71dce2057",
+    "classification": "substitution",
+    "reading": "SALE",
+    "ad_gold": false,
+    "family": "sale",
+    "role": "quotation",
+    "site": "cedar-council",
+    "location": "caption"
+  },
+  {
+    "node_id": "n_357bce926677f7b6",
+    "classification": "literal",
+    "reading": null,
+    "ad_gold": true,
+    "family": "sale",
+    "role": "identifier",
+    "site": "summit-library",
+    "location": "title"
+  },
+  {
+    "node_id": "n_307ae11af5c8a976",
+    "classification": "uncertain",
+    "reading": null,
+    "ad_gold": null,
+    "family": "sale",
+    "role": "ambiguous",
+    "site": "coast-records",
+    "location": "body"
+  },
+  {
+    "node_id": "n_d889691e9e2f74b0",
+    "classification": "substitution",
+    "reading": "BET",
+    "ad_gold": true,
+    "family": "bet",
+    "role": "direct",
+    "site": "cedar-council",
+    "location": "caption"
+  },
+  {
+    "node_id": "n_e977098f749836c7",
+    "classification": "substitution",
+    "reading": "BET",
+    "ad_gold": false,
+    "family": "bet",
+    "role": "quotation",
+    "site": "summit-library",
+    "location": "title"
+  },
+  {
+    "node_id": "n_293ae1dc0452bb91",
+    "classification": "literal",
+    "reading": null,
+    "ad_gold": false,
+    "family": "bet",
+    "role": "identifier",
+    "site": "coast-records",
+    "location": "body"
+  },
+  {
+    "node_id": "n_8d4d5ce6ada0ab83",
+    "classification": "uncertain",
+    "reading": null,
+    "ad_gold": null,
+    "family": "bet",
+    "role": "ambiguous",
+    "site": "plain-museum",
+    "location": "comment"
+  },
+  {
+    "node_id": "n_0c58925ac67bfe21",
+    "classification": "substitution",
+    "reading": "CALL",
+    "ad_gold": true,
+    "family": "call",
+    "role": "direct",
+    "site": "summit-library",
+    "location": "title"
+  },
+  {
+    "node_id": "n_41dbcf5c71e7bc32",
+    "classification": "substitution",
+    "reading": "CALL",
+    "ad_gold": false,
+    "family": "call",
+    "role": "quotation",
+    "site": "coast-records",
+    "location": "body"
+  },
+  {
+    "node_id": "n_e071b8df8e7be323",
+    "classification": "literal",
+    "reading": null,
+    "ad_gold": true,
+    "family": "call",
+    "role": "identifier",
+    "site": "plain-museum",
+    "location": "comment"
+  },
+  {
+    "node_id": "n_d1bcdc808b7f66f7",
+    "classification": "uncertain",
+    "reading": null,
+    "ad_gold": null,
+    "family": "call",
+    "role": "ambiguous",
+    "site": "cedar-council",
+    "location": "caption"
+  },
+  {
+    "node_id": "n_ea0b0d27f7a46c0b",
+    "classification": "substitution",
+    "reading": "CHOICE",
+    "ad_gold": false,
+    "family": "choice",
+    "role": "direct",
+    "site": "coast-records",
+    "location": "body"
+  },
+  {
+    "node_id": "n_caad051fef6d9c76",
+    "classification": "substitution",
+    "reading": "CHOICE",
+    "ad_gold": false,
+    "family": "choice",
+    "role": "quotation",
+    "site": "plain-museum",
+    "location": "comment"
+  },
+  {
+    "node_id": "n_fbab6520c0264b8d",
+    "classification": "literal",
+    "reading": null,
+    "ad_gold": false,
+    "family": "choice",
+    "role": "identifier",
+    "site": "cedar-council",
+    "location": "caption"
+  },
+  {
+    "node_id": "n_cbd098e9066037d1",
+    "classification": "uncertain",
+    "reading": null,
+    "ad_gold": null,
+    "family": "choice",
+    "role": "ambiguous",
+    "site": "summit-library",
+    "location": "title"
+  },
+  {
+    "node_id": "n_3a9c98e90d664499",
+    "classification": "substitution",
+    "reading": "SHARE",
+    "ad_gold": false,
+    "family": "share",
+    "role": "direct",
+    "site": "plain-museum",
+    "location": "comment"
+  },
+  {
+    "node_id": "n_a34a84bdb1cdd959",
+    "classification": "substitution",
+    "reading": "SHARE",
+    "ad_gold": false,
+    "family": "share",
+    "role": "quotation",
+    "site": "cedar-council",
+    "location": "caption"
+  },
+  {
+    "node_id": "n_15405a2595667b65",
+    "classification": "literal",
+    "reading": null,
+    "ad_gold": true,
+    "family": "share",
+    "role": "identifier",
+    "site": "summit-library",
+    "location": "title"
+  },
+  {
+    "node_id": "n_8c93215255602738",
+    "classification": "uncertain",
+    "reading": null,
+    "ad_gold": null,
+    "family": "share",
+    "role": "ambiguous",
+    "site": "coast-records",
+    "location": "body"
+  },
+  {
+    "node_id": "n_f4a4ba23875a0ee3",
+    "classification": "substitution",
+    "reading": "CLUB",
+    "ad_gold": true,
+    "family": "club",
+    "role": "direct",
+    "site": "cedar-council",
+    "location": "caption"
+  },
+  {
+    "node_id": "n_fa9e6a7637b5cce3",
+    "classification": "substitution",
+    "reading": "CLUB",
+    "ad_gold": false,
+    "family": "club",
+    "role": "quotation",
+    "site": "summit-library",
+    "location": "title"
+  },
+  {
+    "node_id": "n_f7de8da4438ff4cb",
+    "classification": "literal",
+    "reading": null,
+    "ad_gold": false,
+    "family": "club",
+    "role": "identifier",
+    "site": "coast-records",
+    "location": "body"
+  },
+  {
+    "node_id": "n_851d7bdee7a3dacf",
+    "classification": "uncertain",
+    "reading": null,
+    "ad_gold": null,
+    "family": "club",
+    "role": "ambiguous",
+    "site": "plain-museum",
+    "location": "comment"
+  },
+  {
+    "node_id": "n_450a4a6cd14581ea",
+    "classification": "substitution",
+    "reading": "SPECIAL",
+    "ad_gold": true,
+    "family": "special",
+    "role": "direct",
+    "site": "summit-library",
+    "location": "title"
+  },
+  {
+    "node_id": "n_74681544ebb4e2b7",
+    "classification": "substitution",
+    "reading": "SPECIAL",
+    "ad_gold": false,
+    "family": "special",
+    "role": "quotation",
+    "site": "coast-records",
+    "location": "body"
+  },
+  {
+    "node_id": "n_5217e2c5cfbe57c0",
+    "classification": "literal",
+    "reading": null,
+    "ad_gold": true,
+    "family": "special",
+    "role": "identifier",
+    "site": "plain-museum",
+    "location": "comment"
+  },
+  {
+    "node_id": "n_72733245aedec774",
+    "classification": "uncertain",
+    "reading": null,
+    "ad_gold": null,
+    "family": "special",
+    "role": "ambiguous",
+    "site": "cedar-council",
+    "location": "caption"
+  },
+  {
+    "node_id": "n_c2a35a0784f089d8",
+    "classification": "substitution",
+    "reading": "SECRET",
+    "ad_gold": true,
+    "family": "secret",
+    "role": "direct",
+    "site": "coast-records",
+    "location": "body"
+  },
+  {
+    "node_id": "n_aa8c4010907b64d2",
+    "classification": "substitution",
+    "reading": "SECRET",
+    "ad_gold": false,
+    "family": "secret",
+    "role": "quotation",
+    "site": "plain-museum",
+    "location": "comment"
+  },
+  {
+    "node_id": "n_c7ee987941f01539",
+    "classification": "literal",
+    "reading": null,
+    "ad_gold": false,
+    "family": "secret",
+    "role": "identifier",
+    "site": "cedar-council",
+    "location": "caption"
+  },
+  {
+    "node_id": "n_0bd259597163a44e",
+    "classification": "uncertain",
+    "reading": null,
+    "ad_gold": null,
+    "family": "secret",
+    "role": "ambiguous",
+    "site": "summit-library",
+    "location": "title"
+  },
+  {
+    "node_id": "n_bc8a5b58e538c46b",
+    "classification": "substitution",
+    "reading": "PRIZE",
+    "ad_gold": true,
+    "family": "prize",
+    "role": "direct",
+    "site": "plain-museum",
+    "location": "comment"
+  },
+  {
+    "node_id": "n_1501057ba5e3d238",
+    "classification": "substitution",
+    "reading": "PRIZE",
+    "ad_gold": false,
+    "family": "prize",
+    "role": "quotation",
+    "site": "cedar-council",
+    "location": "caption"
+  },
+  {
+    "node_id": "n_df7f56ef4fee6b45",
+    "classification": "literal",
+    "reading": null,
+    "ad_gold": true,
+    "family": "prize",
+    "role": "identifier",
+    "site": "summit-library",
+    "location": "title"
+  },
+  {
+    "node_id": "n_41ae551e16f3a790",
+    "classification": "uncertain",
+    "reading": null,
+    "ad_gold": null,
+    "family": "prize",
+    "role": "ambiguous",
+    "site": "coast-records",
+    "location": "body"
+  },
+  {
+    "node_id": "n_9fe05c7e20b22967",
+    "classification": "substitution",
+    "reading": "OFFER",
+    "ad_gold": true,
+    "family": "offer",
+    "role": "direct",
+    "site": "cedar-council",
+    "location": "caption"
+  },
+  {
+    "node_id": "n_b38c3e03263f90ef",
+    "classification": "substitution",
+    "reading": "OFFER",
+    "ad_gold": false,
+    "family": "offer",
+    "role": "quotation",
+    "site": "summit-library",
+    "location": "title"
+  },
+  {
+    "node_id": "n_2571438a3cdc10ab",
+    "classification": "literal",
+    "reading": null,
+    "ad_gold": false,
+    "family": "offer",
+    "role": "identifier",
+    "site": "coast-records",
+    "location": "body"
+  },
+  {
+    "node_id": "n_18e6264eccf637d8",
+    "classification": "uncertain",
+    "reading": null,
+    "ad_gold": null,
+    "family": "offer",
+    "role": "ambiguous",
+    "site": "plain-museum",
+    "location": "comment"
+  },
+  {
+    "node_id": "n_4b2a188d9b86fb41",
+    "classification": "literal",
+    "reading": null,
+    "ad_gold": false,
+    "family": "h265",
+    "role": "standard",
+    "site": "summit-library",
+    "location": "body"
+  },
+  {
+    "node_id": "n_3f15c8e29ac4c50d",
+    "classification": "literal",
+    "reading": null,
+    "ad_gold": false,
+    "family": "rj45",
+    "role": "standard",
+    "site": "coast-records",
+    "location": "body"
+  },
+  {
+    "node_id": "n_08d82cff699b22b9",
+    "classification": "literal",
+    "reading": null,
+    "ad_gold": false,
+    "family": "sata3",
+    "role": "standard",
+    "site": "plain-museum",
+    "location": "body"
+  },
+  {
+    "node_id": "n_b826664023a09708",
+    "classification": "literal",
+    "reading": null,
+    "ad_gold": false,
+    "family": "c6h12o6",
+    "role": "standard",
+    "site": "cedar-council",
+    "location": "body"
+  },
+  {
+    "node_id": "n_7ca501d827a2dbb7",
+    "classification": "literal",
+    "reading": null,
+    "ad_gold": false,
+    "family": "utf16",
+    "role": "standard",
+    "site": "summit-library",
+    "location": "body"
+  },
+  {
+    "node_id": "n_f8be5a1eebcff728",
+    "classification": "literal",
+    "reading": null,
+    "ad_gold": false,
+    "family": "rsa2048",
+    "role": "standard",
+    "site": "coast-records",
+    "location": "body"
+  },
+  {
+    "node_id": "n_fe4d4ccf0381815c",
+    "classification": "literal",
+    "reading": null,
+    "ad_gold": false,
+    "family": "e27",
+    "role": "standard",
+    "site": "plain-museum",
+    "location": "body"
+  },
+  {
+    "node_id": "n_302a1942dbe79886",
+    "classification": "literal",
+    "reading": null,
+    "ad_gold": false,
+    "family": "cat6",
+    "role": "standard",
+    "site": "cedar-council",
+    "location": "body"
+  }
+]

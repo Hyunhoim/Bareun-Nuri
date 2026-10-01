@@ -1,0 +1,40 @@
+{
+  "id": "8d273c59970cd4b4",
+  "source": {
+    "id": "8d273c59970cd4b4",
+    "url": "https://gen.go.kr/child/xboard/board.php?mode=view&number=128&tbnum=6&sCat=0&page=1&keyset=&searchword=",
+    "source_scope": "government_board",
+    "captured_at": "2026-09-28T23:02:12.164170+00:00",
+    "rights_status": "unverified_third_party_content",
+    "human_reviewed": false,
+    "raw_file": "raw/8d273c59970cd4b4.html",
+    "byte_file": "raw/8d273c59970cd4b4.bin",
+    "response_sha256": "5566253ca303450591eda204b789359a33cad51c323c3ff3bfe141d9e0a653f6",
+    "decoded_sha256": "5566253ca303450591eda204b789359a33cad51c323c3ff3bfe141d9e0a653f6",
+    "encoding": "utf-8",
+    "status": "captured",
+    "page_title": "이용안내 - 배너모음 (게시물 내용 보기)"
+  },
+  "title": "[통티비]#해외축구라이브 #EPL실시간 #KBO본방사수 #무료중계끝판왕",
+  "raw_text": "무료중계 통티비\n무료중계 통티비\n무료중계 통티비\n무료중계 통티비",
+  "body_xpath": "/html/body/div[1]/div[3]/div/div[3]/div[1]/table[1]/tbody/tr[3]/td",
+  "title_xpath": "/html/body/div[1]/div[3]/div/div[3]/div[1]/table[1]/tbody/tr[1]/td",
+  "source_kind": "real_web_post",
+  "extraction": "static_HTML_lxml_itertext",
+  "comments_status": "not_extracted_or_labeled",
+  "technique_observed": null,
+  "body_sha256": "7e36ae9839a7bbfb09caeb86cf1439484bde26be5009a61c0b2ba6195d45a481",
+  "label": null,
+  "human_reviewed": false,
+  "outgoing_links": [
+    {
+      "text": "",
+      "href": "#none;"
+    },
+    {
+      "text": "",
+      "href": "#none;"
+    }
+  ],
+  "notes": "No CSS technique claim from static text; listed neighbours are excluded from owned context."
+}

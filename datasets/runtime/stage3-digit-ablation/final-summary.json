@@ -1,0 +1,976 @@
+{
+  "results": {
+    "enum-control": [
+      {
+        "split": "dev",
+        "score": {
+          "labeled": 44,
+          "tp": 16,
+          "fp": 2,
+          "fn": 0,
+          "precision": 0.8888888888888888,
+          "recall": 1,
+          "f1": 0.9411764705882353,
+          "positiveCount": 16,
+          "literalCount": 20,
+          "literalResolved": 18,
+          "literalReviews": 0,
+          "ambiguousCount": 8,
+          "uncertainCorrect": 1,
+          "uncertainWrongPositive": 6,
+          "uncertainWrongLiteral": 1,
+          "reviewRate": 0.022727272727272728,
+          "pairs": 22,
+          "pairChanges": [
+            {
+              "pair": "vibe|ambiguous",
+              "items": [
+                {
+                  "context": "prevention",
+                  "predicted": "uncertain"
+                },
+                {
+                  "context": "ad",
+                  "predicted": "substitution"
+                }
+              ]
+            },
+            {
+              "pair": "robot|literal",
+              "items": [
+                {
+                  "context": "ad",
+                  "predicted": "literal"
+                },
+                {
+                  "context": "prevention",
+                  "predicted": "substitution"
+                }
+              ]
+            },
+            {
+              "pair": "mode|ambiguous",
+              "items": [
+                {
+                  "context": "prevention",
+                  "predicted": "substitution"
+                },
+                {
+                  "context": "ad",
+                  "predicted": "literal"
+                }
+              ]
+            },
+            {
+              "pair": "river|literal",
+              "items": [
+                {
+                  "context": "prevention",
+                  "predicted": "substitution"
+                },
+                {
+                  "context": "ad",
+                  "predicted": "literal"
+                }
+              ]
+            }
+          ],
+          "readingErrors": [
+            {
+              "token": "R1VER",
+              "reading": "RLVER",
+              "expected": "river"
+            }
+          ],
+          "passed": false,
+          "calls": 11,
+          "totalTokens": 14937,
+          "elapsedSec": 47.1567437,
+          "errors": [
+            {
+              "family": "robot",
+              "token": "R2D2",
+              "context": "prevention",
+              "text": "로봇 캐릭터의 공식 이름은 R2D2입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+              "classification": "literal",
+              "selector": "p#d33085bdecac6",
+              "id": "d33085bdecac6",
+              "pair": "robot|literal",
+              "node_id": "n_467b1c9487e53c05",
+              "query_id": "q_2fb53bb714b5d9d5",
+              "predicted": "substitution",
+              "reading": "R2DZ",
+              "reason": "R2D2는 '아르투르투 디투'라는 이름을 숫자와 알파벳으로 대체한 것으로 보임."
+            },
+            {
+              "family": "mode",
+              "token": "M0DE",
+              "context": "prevention",
+              "text": "게시물에 표시된 이름은 M0DE입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+              "classification": "uncertain",
+              "selector": "p#d7fd7b1ae32de",
+              "id": "d7fd7b1ae32de",
+              "pair": "mode|ambiguous",
+              "node_id": "n_e5f29e62f2b0ae9d",
+              "query_id": "q_b06dbcc64bfd3c18",
+              "predicted": "substitution",
+              "reading": "MODE",
+              "reason": "불법 광고 예방 교육 자료에서 'MODE'를 'M0DE'로 치환하여 사용하였음."
+            },
+            {
+              "family": "line",
+              "token": "L1NE",
+              "context": "ad",
+              "text": "게시물에 표시된 이름은 L1NE입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+              "classification": "uncertain",
+              "selector": "p#d8093dfa2e15f",
+              "id": "d8093dfa2e15f",
+              "pair": "line|ambiguous",
+              "node_id": "n_560e8e9d8f83aa31",
+              "query_id": "q_f9ef0e31f015bc8d",
+              "predicted": "substitution",
+              "reading": "LINE",
+              "reason": "불법 광고 예방 교육 자료에서 'LINE'을 'L1NE'로 치환하여 사용하였음."
+            },
+            {
+              "family": "vibe",
+              "token": "V1BE",
+              "context": "ad",
+              "text": "게시물에 표시된 이름은 V1BE입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+              "classification": "uncertain",
+              "selector": "p#dab48b843b900",
+              "id": "dab48b843b900",
+              "pair": "vibe|ambiguous",
+              "node_id": "n_d529a4ae6969f914",
+              "query_id": "q_e80e53566d2ee34e",
+              "predicted": "substitution",
+              "reading": "VIBE",
+              "reason": "사설 도박방 광고에서 'V1BE'는 'VIBE'의 변형으로 볼 수 있으므로 substitution으로 분류됩니다."
+            },
+            {
+              "family": "nova",
+              "token": "N0VA",
+              "context": "prevention",
+              "text": "게시물에 표시된 이름은 N0VA입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+              "classification": "uncertain",
+              "selector": "p#db34ae5a66487",
+              "id": "db34ae5a66487",
+              "pair": "nova|ambiguous",
+              "node_id": "n_2e6c32ab84b6a42c",
+              "query_id": "q_fd2ccecd02050e7a",
+              "predicted": "substitution",
+              "reading": "NOVA",
+              "reason": "[표기 대상]N0VA[/표기 대상]는 'NOVA'라는 단어를 숫자로 대체한 것으로 보입니다."
+            },
+            {
+              "family": "river",
+              "token": "R1VER",
+              "context": "prevention",
+              "text": "장치의 고정된 제품 식별번호는 R1VER이며 영문과 숫자를 그대로 등록합니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+              "classification": "literal",
+              "selector": "p#dc948bf9cef39",
+              "id": "dc948bf9cef39",
+              "pair": "river|literal",
+              "node_id": "n_5741836fb473072f",
+              "query_id": "q_51d1072c7d4cd803",
+              "predicted": "substitution",
+              "reading": "RIVER",
+              "reason": "[표기 대상]R1VER[/표기 대상]는 'RIVER'라는 단어를 숫자로 대체한 것으로 보입니다."
+            },
+            {
+              "family": "mode",
+              "token": "M0DE",
+              "context": "ad",
+              "text": "게시물에 표시된 이름은 M0DE입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+              "classification": "uncertain",
+              "selector": "p#dd8c4b51d2d74",
+              "id": "dd8c4b51d2d74",
+              "pair": "mode|ambiguous",
+              "node_id": "n_fffb69a9b83eb675",
+              "query_id": "q_b464f29256e07c3d",
+              "predicted": "literal",
+              "reading": null,
+              "reason": "[표기 대상]M0DE[/표기 대상]는 게시물에 표시된 이름이므로 실제 식별자의 일부로서 사용됩니다."
+            },
+            {
+              "family": "nova",
+              "token": "N0VA",
+              "context": "ad",
+              "text": "게시물에 표시된 이름은 N0VA입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+              "classification": "uncertain",
+              "selector": "p#de8318aece01c",
+              "id": "de8318aece01c",
+              "pair": "nova|ambiguous",
+              "node_id": "n_0ff9c29498f977df",
+              "query_id": "q_4f7bd3a6c920ffa9",
+              "predicted": "substitution",
+              "reading": "NOVA",
+              "reason": "게시물에서 'N0VA'라는 표기가 사용되었으며, 이는 'NOVA'를 의미함."
+            },
+            {
+              "family": "line",
+              "token": "L1NE",
+              "context": "prevention",
+              "text": "게시물에 표시된 이름은 L1NE입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+              "classification": "uncertain",
+              "selector": "p#dead3196e5a2a",
+              "id": "dead3196e5a2a",
+              "pair": "line|ambiguous",
+              "node_id": "n_39437dd8ec5a1513",
+              "query_id": "q_353761bce9c7f5d6",
+              "predicted": "substitution",
+              "reading": "LINE",
+              "reason": "L1NE는 LINE의 변형으로 보이며, 이는 일반적인 단어이므로 substitution임."
+            }
+          ]
+        },
+        "lostControlPositives": [],
+        "passed": false,
+        "knownTokens": 14937,
+        "budgetTokens": 14937,
+        "rateLimited": 0
+      },
+      {
+        "split": "evaluation",
+        "score": {
+          "labeled": 44,
+          "tp": 16,
+          "fp": 5,
+          "fn": 0,
+          "precision": 0.7619047619047619,
+          "recall": 1,
+          "f1": 0.8648648648648649,
+          "positiveCount": 16,
+          "literalCount": 20,
+          "literalResolved": 15,
+          "literalReviews": 0,
+          "ambiguousCount": 8,
+          "uncertainCorrect": 0,
+          "uncertainWrongPositive": 6,
+          "uncertainWrongLiteral": 2,
+          "reviewRate": 0,
+          "pairs": 22,
+          "pairChanges": [
+            {
+              "pair": "connector|literal",
+              "items": [
+                {
+                  "context": "ad",
+                  "predicted": "literal"
+                },
+                {
+                  "context": "prevention",
+                  "predicted": "substitution"
+                }
+              ]
+            },
+            {
+              "pair": "rise|ambiguous",
+              "items": [
+                {
+                  "context": "prevention",
+                  "predicted": "substitution"
+                },
+                {
+                  "context": "ad",
+                  "predicted": "literal"
+                }
+              ]
+            },
+            {
+              "pair": "planet|literal",
+              "items": [
+                {
+                  "context": "ad",
+                  "predicted": "substitution"
+                },
+                {
+                  "context": "prevention",
+                  "predicted": "literal"
+                }
+              ]
+            },
+            {
+              "pair": "form|ambiguous",
+              "items": [
+                {
+                  "context": "ad",
+                  "predicted": "substitution"
+                },
+                {
+                  "context": "prevention",
+                  "predicted": "literal"
+                }
+              ]
+            },
+            {
+              "pair": "network|literal",
+              "items": [
+                {
+                  "context": "prevention",
+                  "predicted": "substitution"
+                },
+                {
+                  "context": "ad",
+                  "predicted": "literal"
+                }
+              ]
+            }
+          ],
+          "readingErrors": [
+            {
+              "token": "B00K5",
+              "reading": "BO0K5",
+              "expected": "books"
+            }
+          ],
+          "passed": false,
+          "calls": 11,
+          "totalTokens": 14573,
+          "elapsedSec": 46.7229504,
+          "errors": [
+            {
+              "family": "solo",
+              "token": "S0LO",
+              "context": "ad",
+              "text": "게시물에 표시된 이름은 S0LO입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+              "classification": "uncertain",
+              "selector": "p#d1ebd10361926",
+              "id": "d1ebd10361926",
+              "pair": "solo|ambiguous",
+              "node_id": "n_67163de580cd28f4",
+              "query_id": "q_3f0321ea5bd293c7",
+              "predicted": "substitution",
+              "reading": "SOLO",
+              "reason": "S0LO는 SOLO의 변형으로 보이며, 이는 일반적인 단어 'solo'의 대체 표현으로 사용되었습니다."
+            },
+            {
+              "family": "pine",
+              "token": "P1NE",
+              "context": "prevention",
+              "text": "게시물에 표시된 이름은 P1NE입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+              "classification": "uncertain",
+              "selector": "p#d2a943f93a71f",
+              "id": "d2a943f93a71f",
+              "pair": "pine|ambiguous",
+              "node_id": "n_805ba1b80ae125d3",
+              "query_id": "q_c592b4dfa1f1003d",
+              "predicted": "substitution",
+              "reading": "PINE",
+              "reason": "P1NE는 PINE로 추정되며, 이는 일반적인 단어 'pine'의 변형으로 보입니다."
+            },
+            {
+              "family": "rise",
+              "token": "R1SE",
+              "context": "prevention",
+              "text": "게시물에 표시된 이름은 R1SE입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+              "classification": "uncertain",
+              "selector": "p#d342a9cb56ba8",
+              "id": "d342a9cb56ba8",
+              "pair": "rise|ambiguous",
+              "node_id": "n_fb77169d4d24043f",
+              "query_id": "q_3430ba13eb63aba2",
+              "predicted": "substitution",
+              "reading": "RISE",
+              "reason": "R1SE는 RISE로 추정되며, 이는 일반적인 단어 'rise'의 변형으로 보입니다."
+            },
+            {
+              "family": "solo",
+              "token": "S0LO",
+              "context": "prevention",
+              "text": "게시물에 표시된 이름은 S0LO입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+              "classification": "uncertain",
+              "selector": "p#d3dc15fec38f7",
+              "id": "d3dc15fec38f7",
+              "pair": "solo|ambiguous",
+              "node_id": "n_c4cec39fa8820ba4",
+              "query_id": "q_a1712f785ae6bfaf",
+              "predicted": "substitution",
+              "reading": "SOLO",
+              "reason": "[표기 대상]S0LO[/표기 대상]는 'SOLO'라는 일반적인 단어를 숫자로 대체한 것으로 보입니다."
+            },
+            {
+              "family": "planet",
+              "token": "PL4NET",
+              "context": "ad",
+              "text": "업무 시스템에서 부여한 고유 관리번호는 PL4NET입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+              "classification": "literal",
+              "selector": "p#d62c5ff4ae85f",
+              "id": "d62c5ff4ae85f",
+              "pair": "planet|literal",
+              "node_id": "n_b0b8e41c1e24a8a8",
+              "query_id": "q_8fd722a03ed9ad74",
+              "predicted": "substitution",
+              "reading": "PLANET",
+              "reason": "[표기 대상]PL4NET[/표기 대상]에서 '4'는 'A'를 대체하여 PLANET이라는 단어를 형성합니다."
+            },
+            {
+              "family": "form",
+              "token": "F0RM",
+              "context": "ad",
+              "text": "게시물에 표시된 이름은 F0RM입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+              "classification": "uncertain",
+              "selector": "p#d6518261560f5",
+              "id": "d6518261560f5",
+              "pair": "form|ambiguous",
+              "node_id": "n_bdb64c79bd0337f8",
+              "query_id": "q_73c77ece90dfa758",
+              "predicted": "substitution",
+              "reading": "FORM",
+              "reason": "[표기 대상]F0RM[/표기 대상]에서 '0'는 'O'를 대체하여 FORM이라는 단어를 형성합니다."
+            },
+            {
+              "family": "form",
+              "token": "F0RM",
+              "context": "prevention",
+              "text": "게시물에 표시된 이름은 F0RM입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+              "classification": "uncertain",
+              "selector": "p#d76223b4189a6",
+              "id": "d76223b4189a6",
+              "pair": "form|ambiguous",
+              "node_id": "n_9566c4f68b8f9f62",
+              "query_id": "q_c6e80097829c011d",
+              "predicted": "literal",
+              "reading": null,
+              "reason": "게시물 이름은 특정 형식을 나타내므로 literal"
+            },
+            {
+              "family": "consumer",
+              "token": "B2C",
+              "context": "prevention",
+              "text": "기업과 소비자 사이의 거래 방식을 B2C라고 적었습니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+              "classification": "literal",
+              "selector": "p#d969589f658f0",
+              "id": "d969589f658f0",
+              "pair": "consumer|literal",
+              "node_id": "n_6fee0fbe39cc4e74",
+              "query_id": "q_f1d93e5248395a53",
+              "predicted": "substitution",
+              "reading": "BZC",
+              "reason": "[표기 대상]B2C[/표기 대상]는 기업(Business)과 소비자(Consumer) 간의 거래를 나타내는 B2C라는 용어를 나타냅니다."
+            },
+            {
+              "family": "consumer",
+              "token": "B2C",
+              "context": "ad",
+              "text": "기업과 소비자 사이의 거래 방식을 B2C라고 적었습니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+              "classification": "literal",
+              "selector": "p#db66aa7dc2a3c",
+              "id": "db66aa7dc2a3c",
+              "pair": "consumer|literal",
+              "node_id": "n_8910fd5dd0462b4a",
+              "query_id": "q_6eb151f2b6fe9834",
+              "predicted": "substitution",
+              "reading": "BZC",
+              "reason": "B2C에서 '2'는 'to'를 의미하여 기업(Business)과 소비자(Consumer) 간의 거래를 나타냅니다."
+            },
+            {
+              "family": "rise",
+              "token": "R1SE",
+              "context": "ad",
+              "text": "게시물에 표시된 이름은 R1SE입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+              "classification": "uncertain",
+              "selector": "p#dc3e73f69901f",
+              "id": "dc3e73f69901f",
+              "pair": "rise|ambiguous",
+              "node_id": "n_dd0084a065c8ddd7",
+              "query_id": "q_03bcd11a4643d2dc",
+              "predicted": "literal",
+              "reading": null,
+              "reason": "R1SE는 특정 인물의 이름으로 보이며, 이는 고유 식별자이기 때문에 그대로 사용됩니다."
+            },
+            {
+              "family": "network",
+              "token": "IPv6",
+              "context": "prevention",
+              "text": "인터넷 프로토콜 버전은 IPv6입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+              "classification": "literal",
+              "selector": "p#dcd4bfc6d6cc3",
+              "id": "dcd4bfc6d6cc3",
+              "pair": "network|literal",
+              "node_id": "n_d6f14ace25bc1076",
+              "query_id": "q_17c97e45ae1dab05",
+              "predicted": "substitution",
+              "reading": "IPvG",
+              "reason": "IPv6에서 '6'이 'G'로 대체되어 사용됨"
+            },
+            {
+              "family": "connector",
+              "token": "USB3",
+              "context": "prevention",
+              "text": "장치 연결 인터페이스 규격은 USB3입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+              "classification": "literal",
+              "selector": "p#dce5ceeb8c1e4",
+              "id": "dce5ceeb8c1e4",
+              "pair": "connector|literal",
+              "node_id": "n_c7905b8c51aeee54",
+              "query_id": "q_32bd0c42d353cf6f",
+              "predicted": "substitution",
+              "reading": "USBE",
+              "reason": "USB3에서 '3'이 'E'로 대체되어 사용됨"
+            },
+            {
+              "family": "pine",
+              "token": "P1NE",
+              "context": "ad",
+              "text": "게시물에 표시된 이름은 P1NE입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+              "classification": "uncertain",
+              "selector": "p#dfbec6f3c9d8d",
+              "id": "dfbec6f3c9d8d",
+              "pair": "pine|ambiguous",
+              "node_id": "n_3224c62120c79501",
+              "query_id": "q_7b1fff08a4ef226e",
+              "predicted": "substitution",
+              "reading": "PINE",
+              "reason": "P1NE는 PINE라는 일반적인 단어와 유사하여 숫자가 글자를 대신한 것으로 보인다."
+            }
+          ]
+        },
+        "lostControlPositives": [],
+        "passed": false,
+        "knownTokens": 14573,
+        "budgetTokens": 14573,
+        "rateLimited": 0
+      }
+    ],
+    "enum-single": [
+      {
+        "split": "dev",
+        "score": {
+          "labeled": 44,
+          "tp": 16,
+          "fp": 7,
+          "fn": 0,
+          "precision": 0.6956521739130435,
+          "recall": 1,
+          "f1": 0.8205128205128205,
+          "positiveCount": 16,
+          "literalCount": 20,
+          "literalResolved": 13,
+          "literalReviews": 0,
+          "ambiguousCount": 8,
+          "uncertainCorrect": 0,
+          "uncertainWrongPositive": 8,
+          "uncertainWrongLiteral": 0,
+          "reviewRate": 0,
+          "pairs": 22,
+          "pairChanges": [
+            {
+              "pair": "business|literal",
+              "items": [
+                {
+                  "context": "ad",
+                  "predicted": "literal"
+                },
+                {
+                  "context": "prevention",
+                  "predicted": "substitution"
+                }
+              ]
+            },
+            {
+              "pair": "audio|literal",
+              "items": [
+                {
+                  "context": "prevention",
+                  "predicted": "substitution"
+                },
+                {
+                  "context": "ad",
+                  "predicted": "literal"
+                }
+              ]
+            },
+            {
+              "pair": "graphics|literal",
+              "items": [
+                {
+                  "context": "prevention",
+                  "predicted": "substitution"
+                },
+                {
+                  "context": "ad",
+                  "predicted": "literal"
+                }
+              ]
+            }
+          ],
+          "readingErrors": [
+            {
+              "token": "R1VER",
+              "reading": "RLVER",
+              "expected": "river"
+            },
+            {
+              "token": "R1VER",
+              "reading": "RLVER",
+              "expected": "river"
+            }
+          ],
+          "passed": false,
+          "calls": 45,
+          "totalTokens": null,
+          "elapsedSec": 165.6782341,
+          "errors": [
+            {
+              "family": "vibe",
+              "token": "V1BE",
+              "context": "prevention",
+              "text": "게시물에 표시된 이름은 V1BE입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+              "classification": "uncertain",
+              "selector": "p#d13dea249e39a",
+              "id": "d13dea249e39a",
+              "pair": "vibe|ambiguous",
+              "node_id": "n_18ebab7472d39512",
+              "query_id": "q_c77f22047697cab6",
+              "predicted": "substitution",
+              "reading": "VIBE",
+              "reason": "[표기 대상]V1BE[/표기 대상]는 'VIBE'라는 일반 단어를 나타내기 위해 숫자 '1'이 사용되었습니다."
+            },
+            {
+              "family": "audio",
+              "token": "MP3",
+              "context": "prevention",
+              "text": "음원 파일 형식은 MP3입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+              "classification": "literal",
+              "selector": "p#d66a354d9ca2d",
+              "id": "d66a354d9ca2d",
+              "pair": "audio|literal",
+              "node_id": "n_5ec0441f8a418c2d",
+              "query_id": "q_8968429d0941e161",
+              "predicted": "substitution",
+              "reading": "MPE",
+              "reason": "MPE는 MP3의 잘못된 표기로 보임"
+            },
+            {
+              "family": "period",
+              "token": "2026Q",
+              "context": "ad",
+              "text": "년도별 장부 분류 코드는 2026Q입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+              "classification": "literal",
+              "selector": "p#d74468c0b3175",
+              "id": "d74468c0b3175",
+              "pair": "period|literal",
+              "node_id": "n_81d44aacf9274635",
+              "query_id": "q_3a68bbb40aeadc3a",
+              "predicted": "substitution",
+              "reading": "ZOZGQ",
+              "reason": "[표기 대상] 부분은 일반적인 단어 '년도별 장부 분류 코드'를 대체하기 위해 사용된 것으로 보이며, 이는 substitution에 해당합니다."
+            },
+            {
+              "family": "mode",
+              "token": "M0DE",
+              "context": "prevention",
+              "text": "게시물에 표시된 이름은 M0DE입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+              "classification": "uncertain",
+              "selector": "p#d7fd7b1ae32de",
+              "id": "d7fd7b1ae32de",
+              "pair": "mode|ambiguous",
+              "node_id": "n_e5f29e62f2b0ae9d",
+              "query_id": "q_b06dbcc64bfd3c18",
+              "predicted": "substitution",
+              "reading": "MODE",
+              "reason": "[표기 대상]M0DE[/표기 대상]는 'MODE'라는 일반 단어를 숫자 '0'으로 대체하여 표현한 것으로 보입니다."
+            },
+            {
+              "family": "line",
+              "token": "L1NE",
+              "context": "ad",
+              "text": "게시물에 표시된 이름은 L1NE입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+              "classification": "uncertain",
+              "selector": "p#d8093dfa2e15f",
+              "id": "d8093dfa2e15f",
+              "pair": "line|ambiguous",
+              "node_id": "n_560e8e9d8f83aa31",
+              "query_id": "q_f9ef0e31f015bc8d",
+              "predicted": "substitution",
+              "reading": "LINE",
+              "reason": "[표기 대상]L1NE[/표기 대상]"
+            },
+            {
+              "family": "graphics",
+              "token": "RX7800",
+              "context": "prevention",
+              "text": "그래픽 장치의 모델 번호는 RX7800입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+              "classification": "literal",
+              "selector": "p#d8aaed9c0df55",
+              "id": "d8aaed9c0df55",
+              "pair": "graphics|literal",
+              "node_id": "n_f7fbb68c7c5405fd",
+              "query_id": "q_17f123f354c20cbf",
+              "predicted": "substitution",
+              "reading": "RX780O",
+              "reason": "불법 광고 예방 교육 자료에서 다루는 예시로, 그래픽 장치의 모델 번호로 사용되며 일반적인 단어 변형으로 볼 수 있다."
+            },
+            {
+              "family": "vibe",
+              "token": "V1BE",
+              "context": "ad",
+              "text": "게시물에 표시된 이름은 V1BE입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+              "classification": "uncertain",
+              "selector": "p#dab48b843b900",
+              "id": "dab48b843b900",
+              "pair": "vibe|ambiguous",
+              "node_id": "n_d529a4ae6969f914",
+              "query_id": "q_e80e53566d2ee34e",
+              "predicted": "substitution",
+              "reading": "VIBE",
+              "reason": "[표기 대상]V1BE[/표기 대상]에서 '1'은 'I'로 대체되어 'VIBE'라는 단어를 형성합니다."
+            },
+            {
+              "family": "nova",
+              "token": "N0VA",
+              "context": "prevention",
+              "text": "게시물에 표시된 이름은 N0VA입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+              "classification": "uncertain",
+              "selector": "p#db34ae5a66487",
+              "id": "db34ae5a66487",
+              "pair": "nova|ambiguous",
+              "node_id": "n_2e6c32ab84b6a42c",
+              "query_id": "q_fd2ccecd02050e7a",
+              "predicted": "substitution",
+              "reading": "NOVA",
+              "reason": "[표기 대상]N0VA[/표기 대상]에서 'N'은 'NOVA'라는 단어에서 유래되었음을 알 수 있습니다."
+            },
+            {
+              "family": "period",
+              "token": "2026Q",
+              "context": "prevention",
+              "text": "년도별 장부 분류 코드는 2026Q입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+              "classification": "literal",
+              "selector": "p#dc12561dd4f8f",
+              "id": "dc12561dd4f8f",
+              "pair": "period|literal",
+              "node_id": "n_349d3792c9641f3f",
+              "query_id": "q_dc8ac4d8e071c67e",
+              "predicted": "substitution",
+              "reading": "ZOZGQ",
+              "reason": "[표기 대상]2026Q[/표기 대상]는 불법 광고 예방 교육 자료에서 다루는 예시로, 일반적인 단어 'ZOZGQ'를 표현하기 위해 사용된 것으로 보입니다."
+            },
+            {
+              "family": "river",
+              "token": "R1VER",
+              "context": "prevention",
+              "text": "장치의 고정된 제품 식별번호는 R1VER이며 영문과 숫자를 그대로 등록합니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+              "classification": "literal",
+              "selector": "p#dc948bf9cef39",
+              "id": "dc948bf9cef39",
+              "pair": "river|literal",
+              "node_id": "n_5741836fb473072f",
+              "query_id": "q_51d1072c7d4cd803",
+              "predicted": "substitution",
+              "reading": "RIVER",
+              "reason": "[표기 대상]R1VER[/표기 대상]에서 '1'이 'I'로 대체되어 RIVER라는 일반적인 단어를 형성하고 있습니다."
+            },
+            {
+              "family": "mode",
+              "token": "M0DE",
+              "context": "ad",
+              "text": "게시물에 표시된 이름은 M0DE입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+              "classification": "uncertain",
+              "selector": "p#dd8c4b51d2d74",
+              "id": "dd8c4b51d2d74",
+              "pair": "mode|ambiguous",
+              "node_id": "n_fffb69a9b83eb675",
+              "query_id": "q_b464f29256e07c3d",
+              "predicted": "substitution",
+              "reading": "MODE",
+              "reason": "[표기 대상]M0DE[/표기 대상]에서 '0'은 'O'를 대체하여 'MODE'라는 단어를 형성하기 때문에 substitution으로 분류됩니다."
+            },
+            {
+              "family": "river",
+              "token": "R1VER",
+              "context": "ad",
+              "text": "장치의 고정된 제품 식별번호는 R1VER이며 영문과 숫자를 그대로 등록합니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+              "classification": "literal",
+              "selector": "p#de6cc665d03fc",
+              "id": "de6cc665d03fc",
+              "pair": "river|literal",
+              "node_id": "n_85899a9e14901a24",
+              "query_id": "q_93d3766bcd413393",
+              "predicted": "substitution",
+              "reading": "RIVER",
+              "reason": "[표기 대상]R1VER[/표기 대상]에서 '1'이 'I'로 대체되어 'RIVER'라는 의미로 사용됨."
+            },
+            {
+              "family": "nova",
+              "token": "N0VA",
+              "context": "ad",
+              "text": "게시물에 표시된 이름은 N0VA입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+              "classification": "uncertain",
+              "selector": "p#de8318aece01c",
+              "id": "de8318aece01c",
+              "pair": "nova|ambiguous",
+              "node_id": "n_0ff9c29498f977df",
+              "query_id": "q_4f7bd3a6c920ffa9",
+              "predicted": "substitution",
+              "reading": "NOVA",
+              "reason": "[표기 대상]N0VA[/표기 대상]에서 'N'은 'NOVA'라는 단어에서 유래되었음을 알 수 있습니다."
+            },
+            {
+              "family": "line",
+              "token": "L1NE",
+              "context": "prevention",
+              "text": "게시물에 표시된 이름은 L1NE입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+              "classification": "uncertain",
+              "selector": "p#dead3196e5a2a",
+              "id": "dead3196e5a2a",
+              "pair": "line|ambiguous",
+              "node_id": "n_39437dd8ec5a1513",
+              "query_id": "q_353761bce9c7f5d6",
+              "predicted": "substitution",
+              "reading": "LINE",
+              "reason": "[표기 대상]L1NE[/표기 대상]는 'LINE'이라는 일반 단어를 숫자로 대체한 것으로 보임."
+            },
+            {
+              "family": "business",
+              "token": "B2B",
+              "context": "prevention",
+              "text": "기업 간 거래 방식을 B2B라고 표기했습니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+              "classification": "literal",
+              "selector": "p#df20f429009e4",
+              "id": "df20f429009e4",
+              "pair": "business|literal",
+              "node_id": "n_ab66334f5bd3e128",
+              "query_id": "q_6d8e2b0255f3f9ff",
+              "predicted": "substitution",
+              "reading": "BZB",
+              "reason": "불법 광고 예방 교육 자료에서 'B2B'라는 용어는 기업 간 거래를 의미하는 일반적인 약어로 사용되며, 이는 숫자가 글자를 대신한 것으로 볼 수 있습니다."
+            }
+          ]
+        },
+        "lostControlPositives": [],
+        "passed": false,
+        "knownTokens": 27791,
+        "budgetTokens": 30933,
+        "rateLimited": 1
+      },
+      {
+        "split": "evaluation",
+        "status": "failed",
+        "error": "Invalid digit reading",
+        "processed": 20,
+        "passed": false
+      }
+    ]
+  },
+  "ledger": [
+    {
+      "directory": "control-dev",
+      "status": "failed",
+      "calls": 12,
+      "knownTokens": 15646,
+      "budgetTokens": 15646,
+      "missingUsage": [],
+      "seconds": 124.4984132
+    },
+    {
+      "directory": "control-evaluation",
+      "status": "failed",
+      "calls": 8,
+      "knownTokens": 10187,
+      "budgetTokens": 10187,
+      "missingUsage": [],
+      "seconds": 64.383606
+    },
+    {
+      "directory": "enum-control-dev",
+      "status": "completed",
+      "calls": 11,
+      "knownTokens": 14937,
+      "budgetTokens": 14937,
+      "missingUsage": [],
+      "seconds": 47.1567437
+    },
+    {
+      "directory": "enum-control-evaluation",
+      "status": "completed",
+      "calls": 11,
+      "knownTokens": 14573,
+      "budgetTokens": 14573,
+      "missingUsage": [],
+      "seconds": 46.7229504
+    },
+    {
+      "directory": "enum-single-dev",
+      "status": "failed",
+      "calls": 20,
+      "knownTokens": 11818,
+      "budgetTokens": 14960,
+      "missingUsage": [
+        {
+          "call": 19,
+          "http_status": 429,
+          "reserved_tokens": 3142
+        }
+      ],
+      "seconds": 93.7781982
+    },
+    {
+      "directory": "enum-single-dev-tail",
+      "status": "completed",
+      "calls": 25,
+      "knownTokens": 15973,
+      "budgetTokens": 15973,
+      "missingUsage": [],
+      "seconds": 71.9000359
+    },
+    {
+      "directory": "enum-single-evaluation",
+      "status": "failed",
+      "calls": 23,
+      "knownTokens": 14091,
+      "budgetTokens": 17231,
+      "missingUsage": [
+        {
+          "call": 17,
+          "http_status": 429,
+          "reserved_tokens": 3140
+        }
+      ],
+      "seconds": 99.32885810000002
+    },
+    {
+      "directory": "no-readings-dev",
+      "status": "failed",
+      "calls": 4,
+      "knownTokens": 5023,
+      "budgetTokens": 5023,
+      "missingUsage": [],
+      "seconds": 18.989738999999997
+    },
+    {
+      "directory": "no-readings-evaluation",
+      "status": "failed",
+      "calls": 4,
+      "knownTokens": 4706,
+      "budgetTokens": 4706,
+      "missingUsage": [],
+      "seconds": 15.5408966
+    },
+    {
+      "directory": "single-dev",
+      "status": "failed",
+      "calls": 26,
+      "knownTokens": 16402,
+      "budgetTokens": 16402,
+      "missingUsage": [],
+      "seconds": 80.26892720000001
+    },
+    {
+      "directory": "single-evaluation",
+      "status": "failed",
+      "calls": 28,
+      "knownTokens": 17490,
+      "budgetTokens": 17490,
+      "missingUsage": [],
+      "seconds": 81.9774405
+    }
+  ],
+  "totalCalls": 172,
+  "knownTokens": 140846,
+  "budgetTokens": 147128,
+  "unknownUsageCalls": 2,
+  "activeSeconds": 744.5458088,
+  "adopt": false
+}

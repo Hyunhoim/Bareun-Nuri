@@ -1,0 +1,1232 @@
+{
+  "decisions": [
+    {
+      "node_id": "n_48b766e36458860e",
+      "is_violation": true,
+      "techniques": [
+        "HOMOGLYPH"
+      ],
+      "observed_techniques": [
+        "HOMOGLYPH"
+      ],
+      "needs_review": false,
+      "reason": "불법 촬영물 공유방 유료 회원 모집"
+    },
+    {
+      "node_id": "n_034c4d8a815ca8ef",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [
+        "JAMO"
+      ],
+      "needs_review": false,
+      "reason": "예방 자료 인용"
+    },
+    {
+      "node_id": "n_3146e7a2707acfdd",
+      "is_violation": true,
+      "techniques": [
+        "TRANSPARENT"
+      ],
+      "observed_techniques": [
+        "TRANSPARENT"
+      ],
+      "needs_review": false,
+      "reason": "사설 경마 신규 회원 모집 및 입금 유도"
+    },
+    {
+      "node_id": "n_2c7fdfd9a8220c77",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [
+        "JAMO"
+      ],
+      "needs_review": false,
+      "reason": "예방 자료 인용"
+    },
+    {
+      "node_id": "n_0b18f7b6a172d660",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [
+        "OFFSCREEN"
+      ],
+      "needs_review": false,
+      "reason": "광고 신고 안내"
+    },
+    {
+      "node_id": "n_2a643b9ac517672b",
+      "is_violation": true,
+      "techniques": [
+        "OFFSCREEN"
+      ],
+      "observed_techniques": [
+        "OFFSCREEN"
+      ],
+      "needs_review": false,
+      "reason": "비공개 슬롯방 초대 및 현금 충전 유도"
+    },
+    {
+      "node_id": "n_22fec4e19b2e4c70",
+      "is_violation": true,
+      "techniques": [
+        "TRANSPARENT"
+      ],
+      "observed_techniques": [
+        "TRANSPARENT"
+      ],
+      "needs_review": false,
+      "reason": "비공개 슬롯방 초대 및 현금 충전 유도"
+    },
+    {
+      "node_id": "n_15c8bc2cb2fbcac9",
+      "is_violation": true,
+      "techniques": [
+        "TRANSPARENT"
+      ],
+      "observed_techniques": [
+        "TRANSPARENT"
+      ],
+      "needs_review": false,
+      "reason": "불법 성인물 공유방 입장권 판매"
+    },
+    {
+      "node_id": "n_22bf93b8db4f0e72",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [
+        "OFFSCREEN"
+      ],
+      "needs_review": false,
+      "reason": "예방 자료 인용"
+    },
+    {
+      "node_id": "n_414628463453151c",
+      "is_violation": true,
+      "techniques": [
+        "OFFSCREEN"
+      ],
+      "observed_techniques": [
+        "OFFSCREEN"
+      ],
+      "needs_review": false,
+      "reason": "사설 도박방 가입 및 충전 유도"
+    },
+    {
+      "node_id": "n_1d5043ebd7676428",
+      "is_violation": true,
+      "techniques": [
+        "JAMO"
+      ],
+      "observed_techniques": [
+        "JAMO"
+      ],
+      "needs_review": false,
+      "reason": "비공개 사설 카드게임 이용자 모집"
+    },
+    {
+      "node_id": "n_079d5d5c5820a0c7",
+      "is_violation": true,
+      "techniques": [
+        "JAMO"
+      ],
+      "observed_techniques": [
+        "JAMO"
+      ],
+      "needs_review": false,
+      "reason": "비공개 바카라 테이블 참여 유도"
+    },
+    {
+      "node_id": "n_1b407457fc76455b",
+      "is_violation": true,
+      "techniques": [
+        "HOMOGLYPH"
+      ],
+      "observed_techniques": [
+        "HOMOGLYPH"
+      ],
+      "needs_review": false,
+      "reason": "사설 슬롯 이용 후기 및 가입 유도"
+    },
+    {
+      "node_id": "n_0002225333626937",
+      "is_violation": true,
+      "techniques": [
+        "HOMOGLYPH"
+      ],
+      "observed_techniques": [
+        "HOMOGLYPH"
+      ],
+      "needs_review": false,
+      "reason": "불법 촬영 영상 비공개 목록 제공"
+    },
+    {
+      "node_id": "n_235aadd0bb8da3ea",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [
+        "OFFSCREEN"
+      ],
+      "needs_review": false,
+      "reason": "예방 자료 인용"
+    },
+    {
+      "node_id": "n_288ab6e55a12b3b6",
+      "is_violation": true,
+      "techniques": [
+        "OFFSCREEN"
+      ],
+      "observed_techniques": [
+        "OFFSCREEN"
+      ],
+      "needs_review": false,
+      "reason": "사설 슬롯 이용자 충전 창구 안내"
+    },
+    {
+      "node_id": "n_0ae6fab5ef490e5f",
+      "is_violation": true,
+      "techniques": [
+        "JAMO"
+      ],
+      "observed_techniques": [
+        "JAMO"
+      ],
+      "needs_review": false,
+      "reason": "온라인 사설 경마 이용 안내"
+    },
+    {
+      "node_id": "n_1feb602d19f9359b",
+      "is_violation": true,
+      "techniques": [
+        "TRANSPARENT"
+      ],
+      "observed_techniques": [
+        "TRANSPARENT"
+      ],
+      "needs_review": false,
+      "reason": "현금 환전이 되는 사설 슬롯 소개"
+    },
+    {
+      "node_id": "n_3aec6f8c0c532a8d",
+      "is_violation": true,
+      "techniques": [
+        "OFFSCREEN"
+      ],
+      "observed_techniques": [
+        "OFFSCREEN"
+      ],
+      "needs_review": false,
+      "reason": "사설 바카라 회원 전용 이벤트 안내"
+    },
+    {
+      "node_id": "n_304fdc5b0545c0e7",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [
+        "JAMO"
+      ],
+      "needs_review": false,
+      "reason": "예방 자료 인용"
+    },
+    {
+      "node_id": "n_3ac596c154c2df23",
+      "is_violation": true,
+      "techniques": [
+        "HOMOGLYPH"
+      ],
+      "observed_techniques": [
+        "HOMOGLYPH"
+      ],
+      "needs_review": false,
+      "reason": "사설 바카라 테이블 안내"
+    },
+    {
+      "node_id": "n_06210cb51d720614",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [
+        "TRANSPARENT"
+      ],
+      "needs_review": false,
+      "reason": "정상 행사 회원 모집 및 정규 수강료 결제 안내"
+    },
+    {
+      "node_id": "n_01d8619aefbc4a84",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [
+        "OFFSCREEN"
+      ],
+      "needs_review": false,
+      "reason": "예방 자료 인용"
+    },
+    {
+      "node_id": "n_27b3f309c2745e8a",
+      "is_violation": true,
+      "techniques": [
+        "HOMOGLYPH"
+      ],
+      "observed_techniques": [
+        "HOMOGLYPH"
+      ],
+      "needs_review": false,
+      "reason": "사설 슬롯 회원방 안내"
+    },
+    {
+      "node_id": "n_2fdb984e085f4bff",
+      "is_violation": true,
+      "techniques": [
+        "JAMO"
+      ],
+      "observed_techniques": [
+        "JAMO"
+      ],
+      "needs_review": false,
+      "reason": "불법 촬영물 자료실 이용 안내"
+    },
+    {
+      "node_id": "n_672df118995bb540",
+      "is_violation": true,
+      "techniques": [
+        "HOMOGLYPH"
+      ],
+      "observed_techniques": [
+        "HOMOGLYPH"
+      ],
+      "needs_review": false,
+      "reason": "사설 바카라방 회원 소개 혜택 안내"
+    },
+    {
+      "node_id": "n_3c759b11d5f52102",
+      "is_violation": true,
+      "techniques": [
+        "TRANSPARENT"
+      ],
+      "observed_techniques": [
+        "TRANSPARENT"
+      ],
+      "needs_review": false,
+      "reason": "사설 경마방 자리 안내"
+    },
+    {
+      "node_id": "n_1285ce4a76b170ae",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [
+        "OFFSCREEN"
+      ],
+      "needs_review": false,
+      "reason": "예방 자료 인용"
+    },
+    {
+      "node_id": "n_4c9fe62f228429d7",
+      "is_violation": true,
+      "techniques": [
+        "JAMO"
+      ],
+      "observed_techniques": [
+        "JAMO"
+      ],
+      "needs_review": false,
+      "reason": "불법 성인영상 공유관 이용 안내"
+    },
+    {
+      "node_id": "n_0cec24ca5b86a598",
+      "is_violation": true,
+      "techniques": [
+        "JAMO"
+      ],
+      "observed_techniques": [
+        "JAMO"
+      ],
+      "needs_review": false,
+      "reason": "사설 카지노 가입 문의 안내"
+    },
+    {
+      "node_id": "n_4ebe67a16bdb1c96",
+      "is_violation": true,
+      "techniques": [
+        "OFFSCREEN"
+      ],
+      "observed_techniques": [
+        "OFFSCREEN"
+      ],
+      "needs_review": false,
+      "reason": "사설 도박 사이트 가입 안내"
+    },
+    {
+      "node_id": "n_229624a6bedbe8e6",
+      "is_violation": true,
+      "techniques": [
+        "HOMOGLYPH"
+      ],
+      "observed_techniques": [
+        "HOMOGLYPH"
+      ],
+      "needs_review": false,
+      "reason": "사설 카지노 이용 안내"
+    },
+    {
+      "node_id": "n_295b466a36b34f7f",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [
+        "TRANSPARENT"
+      ],
+      "needs_review": false,
+      "reason": "정상적인 행사 회원 모집 및 수강료 결제 안내"
+    },
+    {
+      "node_id": "n_0d08f41546371529",
+      "is_violation": true,
+      "techniques": [
+        "TRANSPARENT"
+      ],
+      "observed_techniques": [
+        "TRANSPARENT"
+      ],
+      "needs_review": false,
+      "reason": "사설 바카라 회원 전용 이벤트로 신규 가입자와 입금을 유도"
+    },
+    {
+      "node_id": "n_23fa050b048ee8e2",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [
+        "HOMOGLYPH"
+      ],
+      "needs_review": false,
+      "reason": "국어 교실에서 자음과 모음을 나누는 예시로 사용됨"
+    },
+    {
+      "node_id": "n_1440c1cc451a7780",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [
+        "OFFSCREEN"
+      ],
+      "needs_review": false,
+      "reason": "예방 자료 인용으로 광고 아님"
+    },
+    {
+      "node_id": "n_17ad278423dbc5f3",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [
+        "TRANSPARENT"
+      ],
+      "needs_review": false,
+      "reason": "정상 행사 회원 모집과 정규 수강료 결제 안내"
+    },
+    {
+      "node_id": "n_1c696b6a2388b2f0",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [
+        "JAMO"
+      ],
+      "needs_review": false,
+      "reason": "예방 자료 인용으로 광고 아님"
+    },
+    {
+      "node_id": "n_0cb2a7984cd31ad6",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [
+        "JAMO"
+      ],
+      "needs_review": false,
+      "reason": "예방 자료 인용으로 광고 아님"
+    },
+    {
+      "node_id": "n_1368b9250665c71f",
+      "is_violation": true,
+      "techniques": [
+        "TRANSPARENT"
+      ],
+      "observed_techniques": [
+        "TRANSPARENT"
+      ],
+      "needs_review": false,
+      "reason": "사설 카지노 접속 안내로 가입과 현금 입금을 유도"
+    },
+    {
+      "node_id": "n_67272898df153768",
+      "is_violation": true,
+      "techniques": [
+        "HOMOGLYPH"
+      ],
+      "observed_techniques": [
+        "HOMOGLYPH"
+      ],
+      "needs_review": false,
+      "reason": "사설 스포츠 베팅방에 참여를 유도하며 충전금을 요구"
+    },
+    {
+      "node_id": "n_17f2f6d2ded2edc5",
+      "is_violation": true,
+      "techniques": [
+        "TRANSPARENT"
+      ],
+      "observed_techniques": [
+        "TRANSPARENT"
+      ],
+      "needs_review": false,
+      "reason": "사설 스포츠 도박방 참여를 유도하며 충전 후 베팅하도록 함"
+    },
+    {
+      "node_id": "n_26c075ade496e03d",
+      "is_violation": true,
+      "techniques": [
+        "OFFSCREEN"
+      ],
+      "observed_techniques": [
+        "OFFSCREEN"
+      ],
+      "needs_review": false,
+      "reason": "불법 성인물 공유방 입장권을 판매하며 입금을 유도"
+    },
+    {
+      "node_id": "n_13520e2ab3b6c2fe",
+      "is_violation": true,
+      "techniques": [
+        "HOMOGLYPH"
+      ],
+      "observed_techniques": [
+        "HOMOGLYPH"
+      ],
+      "needs_review": false,
+      "reason": "사설 카지노에서 현금 게임을 위한 가입과 충전을 유도"
+    },
+    {
+      "node_id": "n_2da9676c1e917baa",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [
+        "TRANSPARENT"
+      ],
+      "needs_review": false,
+      "reason": "정상 행사 회원 모집과 정규 수강료 결제 안내"
+    },
+    {
+      "node_id": "n_4f8d0ea578ccb7fa",
+      "is_violation": true,
+      "techniques": [
+        "HOMOGLYPH"
+      ],
+      "observed_techniques": [
+        "HOMOGLYPH"
+      ],
+      "needs_review": false,
+      "reason": "사설 슬롯 회원방에서의 가입과 게임 금액 충전을 유도"
+    },
+    {
+      "node_id": "n_4703cceaae32f2fd",
+      "is_violation": true,
+      "techniques": [
+        "HOMOGLYPH"
+      ],
+      "observed_techniques": [
+        "HOMOGLYPH"
+      ],
+      "needs_review": false,
+      "reason": "사설 슬롯 이용 후기 공유와 함께 가입을 권유"
+    },
+    {
+      "node_id": "n_026338322381c280",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [
+        "JAMO"
+      ],
+      "needs_review": false,
+      "reason": "예방 자료 인용으로 광고 아님"
+    },
+    {
+      "node_id": "n_5d84881aa9eaa7d5",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [],
+      "needs_review": true,
+      "reason": "문맥 정보 부족으로 판단 보류"
+    },
+    {
+      "node_id": "n_b5acfcdc8d3153c7",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [],
+      "needs_review": false,
+      "reason": "평생교육원 수강생 모집 광고"
+    },
+    {
+      "node_id": "n_69c0003721db7ed5",
+      "is_violation": true,
+      "techniques": [],
+      "observed_techniques": [],
+      "needs_review": false,
+      "reason": "미등록 도박방 참여 유도"
+    },
+    {
+      "node_id": "n_6e946a3beaa437a8",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [],
+      "needs_review": false,
+      "reason": "도로 파손 민원 접수 안내"
+    },
+    {
+      "node_id": "n_c3a249083230fa2c",
+      "is_violation": true,
+      "techniques": [],
+      "observed_techniques": [],
+      "needs_review": false,
+      "reason": "사적 성인 영상 판매 유도"
+    },
+    {
+      "node_id": "n_b6b0ec527885e639",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [],
+      "needs_review": false,
+      "reason": "박물관 사진집 판매 안내"
+    },
+    {
+      "node_id": "n_9d77d9bb77e4a283",
+      "is_violation": true,
+      "techniques": [],
+      "observed_techniques": [],
+      "needs_review": false,
+      "reason": "사설 온라인 카지노 회원 모집"
+    },
+    {
+      "node_id": "n_9da83997f08931c8",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [],
+      "needs_review": false,
+      "reason": "시립 도서관 회원 모집"
+    },
+    {
+      "node_id": "n_3716c7a043bc6acb",
+      "is_violation": true,
+      "techniques": [],
+      "observed_techniques": [],
+      "needs_review": false,
+      "reason": "비동의 유출 성적 영상 구매 예약"
+    },
+    {
+      "node_id": "n_c15b1412626bddbb",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [],
+      "needs_review": false,
+      "reason": "문화센터 수업 예약 안내"
+    },
+    {
+      "node_id": "n_7f74d0b32aaa9050",
+      "is_violation": true,
+      "techniques": [],
+      "observed_techniques": [],
+      "needs_review": false,
+      "reason": "사설 현금 도박방 영업 상태 알림"
+    },
+    {
+      "node_id": "n_3c5a74891703ef8b",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [],
+      "needs_review": false,
+      "reason": "구립 도서관 주말 운영 안내"
+    },
+    {
+      "node_id": "n_6d29645d37ff082f",
+      "is_violation": true,
+      "techniques": [],
+      "observed_techniques": [],
+      "needs_review": false,
+      "reason": "미등록 카지노 입금 및 참여 절차 안내"
+    },
+    {
+      "node_id": "n_679b0f7cfd914231",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [],
+      "needs_review": false,
+      "reason": "주민 총회 공개 자료실 안내"
+    },
+    {
+      "node_id": "n_f1816359c30f0797",
+      "is_violation": true,
+      "techniques": [],
+      "observed_techniques": [],
+      "needs_review": false,
+      "reason": "사설 현금 도박 대회 참가 모집"
+    },
+    {
+      "node_id": "n_fc9d279c2de590ac",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [],
+      "needs_review": false,
+      "reason": "구청 주최 무료 가족 걷기 대회 참가 모집"
+    },
+    {
+      "node_id": "n_99597eba9dcccccd",
+      "is_violation": true,
+      "techniques": [],
+      "observed_techniques": [],
+      "needs_review": false,
+      "reason": "사설 현금 카지노 가입 및 베팅 유도"
+    },
+    {
+      "node_id": "n_cdffeae82ec06dda",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [],
+      "needs_review": false,
+      "reason": "교육용 예시로 설명됨"
+    },
+    {
+      "node_id": "n_7fafe6baa41f285a",
+      "is_violation": true,
+      "techniques": [],
+      "observed_techniques": [],
+      "needs_review": false,
+      "reason": "사적 성인 영상 유료 판매"
+    },
+    {
+      "node_id": "n_232016ee7e69a5f3",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [],
+      "needs_review": false,
+      "reason": "교육용 예시로 설명됨"
+    },
+    {
+      "node_id": "n_990f393c3c37cea5",
+      "is_violation": true,
+      "techniques": [],
+      "observed_techniques": [],
+      "needs_review": false,
+      "reason": "미등록 온라인 도박 참여 유도"
+    },
+    {
+      "node_id": "n_1c768c86d9e945d7",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [],
+      "needs_review": false,
+      "reason": "교육용 예시로 설명됨"
+    },
+    {
+      "node_id": "n_07ea629cb04c5733",
+      "is_violation": true,
+      "techniques": [],
+      "observed_techniques": [],
+      "needs_review": false,
+      "reason": "불법 촬영 영상 교환방 회원 모집"
+    },
+    {
+      "node_id": "n_f818be8e1d02aff4",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [],
+      "needs_review": false,
+      "reason": "교육용 예시로 설명됨"
+    },
+    {
+      "node_id": "n_7cc8ddf0f044b23f",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [],
+      "needs_review": false,
+      "reason": "일반 정보 제공"
+    },
+    {
+      "node_id": "n_6cdabed9207b2de0",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [],
+      "needs_review": false,
+      "reason": "일반 정보 제공"
+    },
+    {
+      "node_id": "n_b09c3254ed870634",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [],
+      "needs_review": false,
+      "reason": "일반 정보 제공"
+    },
+    {
+      "node_id": "n_7741264f68fde872",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [],
+      "needs_review": false,
+      "reason": "일반 정보 제공"
+    }
+  ],
+  "technique_diagnostics": [
+    {
+      "node_id": "n_034c4d8a815ca8ef",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2436",
+      "location": "iframe[src=\"http://127.0.0.1:8780/advanced/widget/comments?thread=cd91fedd451b\"] >>> iframe[src=\"http://127.0.0.1:8780/advanced/widget/replies?thread=cd91fedd451b\"] >>> p#vcd91fedd451b",
+      "is_violation": false,
+      "intent_needs_review": false,
+      "technique_needs_review": true,
+      "reasons": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "p#vcd91fedd451b",
+          "start": 0,
+          "end": 91
+        }
+      ]
+    },
+    {
+      "node_id": "n_17ad278423dbc5f3",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2695",
+      "location": "iframe[src=\"http://127.0.0.1:8780/advanced/widget/comments?thread=7d70814f517a\"] >>> iframe[src=\"http://127.0.0.1:8780/advanced/widget/replies?thread=7d70814f517a\"] >>> p#v7d70814f517a",
+      "is_violation": false,
+      "intent_needs_review": false,
+      "technique_needs_review": true,
+      "reasons": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "p#v7d70814f517a",
+          "start": 0,
+          "end": 29
+        }
+      ]
+    },
+    {
+      "node_id": "n_1c696b6a2388b2f0",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2702",
+      "location": "iframe[src=\"http://127.0.0.1:8780/advanced/widget/comments?thread=9ccd40ba9d29\"] >>> p#v9ccd40ba9d29",
+      "is_violation": false,
+      "intent_needs_review": false,
+      "technique_needs_review": true,
+      "reasons": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "p#v9ccd40ba9d29",
+          "start": 0,
+          "end": 137
+        }
+      ]
+    },
+    {
+      "node_id": "n_26c075ade496e03d",
+      "url": "http://127.0.0.1:8780/advanced/board/view?board=free&id=2919",
+      "location": "iframe[src=\"http://127.0.0.1:8780/advanced/widget/comments?thread=cd69fc87e532\"] >>> p#vcd69fc87e532",
+      "is_violation": true,
+      "intent_needs_review": false,
+      "technique_needs_review": true,
+      "reasons": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "p#vcd69fc87e532",
+          "start": 0,
+          "end": 45
+        }
+      ]
+    },
+    {
+      "node_id": "n_5d84881aa9eaa7d5",
+      "url": "http://127.0.0.1:60823/preflight/0",
+      "location": "a#t0",
+      "is_violation": false,
+      "intent_needs_review": true,
+      "technique_needs_review": true,
+      "reasons": [
+        {
+          "technique": null,
+          "reason": "legacy-snapshot-missing-text-run-evidence"
+        }
+      ]
+    },
+    {
+      "node_id": "n_b5acfcdc8d3153c7",
+      "url": "http://127.0.0.1:60823/preflight/1",
+      "location": "a#t1",
+      "is_violation": false,
+      "intent_needs_review": false,
+      "technique_needs_review": true,
+      "reasons": [
+        {
+          "technique": null,
+          "reason": "legacy-snapshot-missing-text-run-evidence"
+        }
+      ]
+    },
+    {
+      "node_id": "n_69c0003721db7ed5",
+      "url": "http://127.0.0.1:60823/preflight/2",
+      "location": "button#t2",
+      "is_violation": true,
+      "intent_needs_review": false,
+      "technique_needs_review": true,
+      "reasons": [
+        {
+          "technique": null,
+          "reason": "legacy-snapshot-missing-text-run-evidence"
+        }
+      ]
+    },
+    {
+      "node_id": "n_6e946a3beaa437a8",
+      "url": "http://127.0.0.1:60823/preflight/3",
+      "location": "button#t3",
+      "is_violation": false,
+      "intent_needs_review": false,
+      "technique_needs_review": true,
+      "reasons": [
+        {
+          "technique": null,
+          "reason": "legacy-snapshot-missing-text-run-evidence"
+        }
+      ]
+    },
+    {
+      "node_id": "n_c3a249083230fa2c",
+      "url": "http://127.0.0.1:60823/preflight/4",
+      "location": "h3#t4",
+      "is_violation": true,
+      "intent_needs_review": false,
+      "technique_needs_review": true,
+      "reasons": [
+        {
+          "technique": null,
+          "reason": "legacy-snapshot-missing-text-run-evidence"
+        }
+      ]
+    },
+    {
+      "node_id": "n_b6b0ec527885e639",
+      "url": "http://127.0.0.1:60823/preflight/5",
+      "location": "h3#t5",
+      "is_violation": false,
+      "intent_needs_review": false,
+      "technique_needs_review": true,
+      "reasons": [
+        {
+          "technique": null,
+          "reason": "legacy-snapshot-missing-text-run-evidence"
+        }
+      ]
+    },
+    {
+      "node_id": "n_9d77d9bb77e4a283",
+      "url": "http://127.0.0.1:60823/preflight/6",
+      "location": "p#t6",
+      "is_violation": true,
+      "intent_needs_review": false,
+      "technique_needs_review": true,
+      "reasons": [
+        {
+          "technique": null,
+          "reason": "legacy-snapshot-missing-text-run-evidence"
+        }
+      ]
+    },
+    {
+      "node_id": "n_9da83997f08931c8",
+      "url": "http://127.0.0.1:60823/preflight/7",
+      "location": "p#t7",
+      "is_violation": false,
+      "intent_needs_review": false,
+      "technique_needs_review": true,
+      "reasons": [
+        {
+          "technique": null,
+          "reason": "legacy-snapshot-missing-text-run-evidence"
+        }
+      ]
+    },
+    {
+      "node_id": "n_3716c7a043bc6acb",
+      "url": "http://127.0.0.1:60823/preflight/8",
+      "location": "a#t8",
+      "is_violation": true,
+      "intent_needs_review": false,
+      "technique_needs_review": true,
+      "reasons": [
+        {
+          "technique": null,
+          "reason": "legacy-snapshot-missing-text-run-evidence"
+        }
+      ]
+    },
+    {
+      "node_id": "n_c15b1412626bddbb",
+      "url": "http://127.0.0.1:60823/preflight/9",
+      "location": "a#t9",
+      "is_violation": false,
+      "intent_needs_review": false,
+      "technique_needs_review": true,
+      "reasons": [
+        {
+          "technique": null,
+          "reason": "legacy-snapshot-missing-text-run-evidence"
+        }
+      ]
+    },
+    {
+      "node_id": "n_7f74d0b32aaa9050",
+      "url": "http://127.0.0.1:60823/preflight/10",
+      "location": "button#t10",
+      "is_violation": true,
+      "intent_needs_review": false,
+      "technique_needs_review": true,
+      "reasons": [
+        {
+          "technique": null,
+          "reason": "legacy-snapshot-missing-text-run-evidence"
+        }
+      ]
+    },
+    {
+      "node_id": "n_3c5a74891703ef8b",
+      "url": "http://127.0.0.1:60823/preflight/11",
+      "location": "button#t11",
+      "is_violation": false,
+      "intent_needs_review": false,
+      "technique_needs_review": true,
+      "reasons": [
+        {
+          "technique": null,
+          "reason": "legacy-snapshot-missing-text-run-evidence"
+        }
+      ]
+    },
+    {
+      "node_id": "n_6d29645d37ff082f",
+      "url": "http://127.0.0.1:60823/preflight/12",
+      "location": "h3#t12",
+      "is_violation": true,
+      "intent_needs_review": false,
+      "technique_needs_review": true,
+      "reasons": [
+        {
+          "technique": null,
+          "reason": "legacy-snapshot-missing-text-run-evidence"
+        }
+      ]
+    },
+    {
+      "node_id": "n_679b0f7cfd914231",
+      "url": "http://127.0.0.1:60823/preflight/13",
+      "location": "h3#t13",
+      "is_violation": false,
+      "intent_needs_review": false,
+      "technique_needs_review": true,
+      "reasons": [
+        {
+          "technique": null,
+          "reason": "legacy-snapshot-missing-text-run-evidence"
+        }
+      ]
+    },
+    {
+      "node_id": "n_f1816359c30f0797",
+      "url": "http://127.0.0.1:60823/preflight/14",
+      "location": "p#t14",
+      "is_violation": true,
+      "intent_needs_review": false,
+      "technique_needs_review": true,
+      "reasons": [
+        {
+          "technique": null,
+          "reason": "legacy-snapshot-missing-text-run-evidence"
+        }
+      ]
+    },
+    {
+      "node_id": "n_fc9d279c2de590ac",
+      "url": "http://127.0.0.1:60823/preflight/15",
+      "location": "p#t15",
+      "is_violation": false,
+      "intent_needs_review": false,
+      "technique_needs_review": true,
+      "reasons": [
+        {
+          "technique": null,
+          "reason": "legacy-snapshot-missing-text-run-evidence"
+        }
+      ]
+    },
+    {
+      "node_id": "n_99597eba9dcccccd",
+      "url": "http://127.0.0.1:60823/preflight/16",
+      "location": "a#t16",
+      "is_violation": true,
+      "intent_needs_review": false,
+      "technique_needs_review": true,
+      "reasons": [
+        {
+          "technique": null,
+          "reason": "legacy-snapshot-missing-text-run-evidence"
+        }
+      ]
+    },
+    {
+      "node_id": "n_cdffeae82ec06dda",
+      "url": "http://127.0.0.1:60823/preflight/17",
+      "location": "a#t17",
+      "is_violation": false,
+      "intent_needs_review": false,
+      "technique_needs_review": true,
+      "reasons": [
+        {
+          "technique": null,
+          "reason": "legacy-snapshot-missing-text-run-evidence"
+        }
+      ]
+    },
+    {
+      "node_id": "n_7fafe6baa41f285a",
+      "url": "http://127.0.0.1:60823/preflight/18",
+      "location": "button#t18",
+      "is_violation": true,
+      "intent_needs_review": false,
+      "technique_needs_review": true,
+      "reasons": [
+        {
+          "technique": null,
+          "reason": "legacy-snapshot-missing-text-run-evidence"
+        }
+      ]
+    },
+    {
+      "node_id": "n_232016ee7e69a5f3",
+      "url": "http://127.0.0.1:60823/preflight/19",
+      "location": "button#t19",
+      "is_violation": false,
+      "intent_needs_review": false,
+      "technique_needs_review": true,
+      "reasons": [
+        {
+          "technique": null,
+          "reason": "legacy-snapshot-missing-text-run-evidence"
+        }
+      ]
+    },
+    {
+      "node_id": "n_990f393c3c37cea5",
+      "url": "http://127.0.0.1:60823/preflight/20",
+      "location": "h3#t20",
+      "is_violation": true,
+      "intent_needs_review": false,
+      "technique_needs_review": true,
+      "reasons": [
+        {
+          "technique": null,
+          "reason": "legacy-snapshot-missing-text-run-evidence"
+        }
+      ]
+    },
+    {
+      "node_id": "n_1c768c86d9e945d7",
+      "url": "http://127.0.0.1:60823/preflight/21",
+      "location": "h3#t21",
+      "is_violation": false,
+      "intent_needs_review": false,
+      "technique_needs_review": true,
+      "reasons": [
+        {
+          "technique": null,
+          "reason": "legacy-snapshot-missing-text-run-evidence"
+        }
+      ]
+    },
+    {
+      "node_id": "n_07ea629cb04c5733",
+      "url": "http://127.0.0.1:60823/preflight/22",
+      "location": "p#t22",
+      "is_violation": true,
+      "intent_needs_review": false,
+      "technique_needs_review": true,
+      "reasons": [
+        {
+          "technique": null,
+          "reason": "legacy-snapshot-missing-text-run-evidence"
+        }
+      ]
+    },
+    {
+      "node_id": "n_f818be8e1d02aff4",
+      "url": "http://127.0.0.1:60823/preflight/23",
+      "location": "p#t23",
+      "is_violation": false,
+      "intent_needs_review": false,
+      "technique_needs_review": true,
+      "reasons": [
+        {
+          "technique": null,
+          "reason": "legacy-snapshot-missing-text-run-evidence"
+        }
+      ]
+    },
+    {
+      "node_id": "n_7cc8ddf0f044b23f",
+      "url": "http://127.0.0.1:60823/preflight/24",
+      "location": "a#t24",
+      "is_violation": false,
+      "intent_needs_review": false,
+      "technique_needs_review": true,
+      "reasons": [
+        {
+          "technique": null,
+          "reason": "legacy-snapshot-missing-text-run-evidence"
+        }
+      ]
+    },
+    {
+      "node_id": "n_6cdabed9207b2de0",
+      "url": "http://127.0.0.1:60823/preflight/25",
+      "location": "button#t25",
+      "is_violation": false,
+      "intent_needs_review": false,
+      "technique_needs_review": true,
+      "reasons": [
+        {
+          "technique": null,
+          "reason": "legacy-snapshot-missing-text-run-evidence"
+        }
+      ]
+    },
+    {
+      "node_id": "n_b09c3254ed870634",
+      "url": "http://127.0.0.1:60823/preflight/26",
+      "location": "h3#t26",
+      "is_violation": false,
+      "intent_needs_review": false,
+      "technique_needs_review": true,
+      "reasons": [
+        {
+          "technique": null,
+          "reason": "legacy-snapshot-missing-text-run-evidence"
+        }
+      ]
+    },
+    {
+      "node_id": "n_7741264f68fde872",
+      "url": "http://127.0.0.1:60823/preflight/27",
+      "location": "p#t27",
+      "is_violation": false,
+      "intent_needs_review": false,
+      "technique_needs_review": true,
+      "reasons": [
+        {
+          "technique": null,
+          "reason": "legacy-snapshot-missing-text-run-evidence"
+        }
+      ]
+    }
+  ]
+}

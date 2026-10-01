@@ -1,0 +1,23 @@
+{
+  "synthetic": true,
+  "final_is_observed": true,
+  "change": "training-role-contrast-only",
+  "splits": {
+    "train-inputs.json": {
+      "count": 640,
+      "sha256": "3c690c74cc602d501b29a34b7fe88256ba55c7f5ec3714cc86c22b8c921f1a7f"
+    },
+    "train-gold.json": {
+      "count": 640,
+      "sha256": "e23f5228786fc666c9bedfa342fdfe69ad0906347a30e67f70986756024ffd5b"
+    },
+    "dev-inputs.json": {
+      "count": 96,
+      "sha256": "fbfc8630136a1ae0d0123ea782646468d683a7376764db121ca39f8c1b940c2f"
+    },
+    "dev-gold.json": {
+      "count": 96,
+      "sha256": "1a9a803284703c598c37aa80d8349ae64eeddce5f17ae8ef31ff31689fcdfe08"
+    }
+  }
+}

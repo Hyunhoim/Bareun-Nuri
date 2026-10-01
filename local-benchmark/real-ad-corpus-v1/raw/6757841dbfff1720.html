@@ -1,0 +1,950 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<link rel="shortcut icon" href="../data_files/images/common/gwangju.ico">
+<title>이용안내 - 배너모음 (게시물 내용 보기)</title>
+<script type="text/javascript">
+//<![CDATA[
+	var dirPath = '..';
+	var currLeftMenu = '';
+//]]>
+</script>
+<script type="text/javascript" src="../lib/function.js"></script>
+<script type="text/javascript" src="../lib/prototype.js"></script>
+<script type="text/javascript" src="../data_files/skin/skin_etc_gen/js/common.js"></script>
+<script type="text/javascript" src="../lib/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="../lib/jquery/ui/jquery-ui.js"></script>
+<link rel="stylesheet" type="text/css" href="../lib/jquery/ui/jquery-ui.css" />
+<script type="text/javascript" src="../lib/jquery/jquery.cycle2.js"></script>
+<script type="text/javascript" src="../lib/jquery/jquery.cycle2.swipe.min.js"></script>
+<script type="text/javascript" src="../lib/jquery/jquery.cycle2.carousel.js"></script>
+<script type="text/javascript" src="../lib/jquery/morris/raphael-2.1.0.min.js"></script>
+<script type="text/javascript" src="../lib/jquery/morris/morris.js"></script>
+<script type="text/javascript" src="../lib/jquery/morris/prettify.js"></script>
+<script type="text/javascript" src="../data_files/skin/skin_etc_gen/js/skin.js"></script>
+
+
+<script type="text/javascript">
+	//<![CDATA[
+	function chk_fm_search() 
+	{
+		var fm = $('fm_tot_search');
+		if(fm.top_s_word.value == "")
+		{
+			alert("검색어를 입력하세요.");
+			fm.top_s_word.focus();
+			return false;
+		}
+
+		return true;
+	}
+	function windowWork()
+	{	
+		var win_open = new Array();
+
+		url = '../xwork/index.php';
+		win_open['winName'] = 'xwork';	 // 새창이름
+		win_open['option'] = 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=1024, height=750, left=10,top=10';	 // 새창옵션
+
+		window.open(url, win_open['winName'], win_open['option']); 
+	}
+	//]]>
+
+
+
+	j$(function(){
+		j$('select.header_top_search').selectmenu({ width : '100%'});
+	})
+	</script>
+<link rel="stylesheet" type="text/css" href="../data_files/skin/skin_etc_gen/css/sub.css?260629" media="screen" />
+<link rel="stylesheet" href="../data_files/skin/skin_etc_gen/css/morris/prettify.css">
+<link rel="stylesheet" href="../data_files/skin/skin_etc_gen/css/morris/morris.css">
+<link rel="stylesheet" type="text/css" href="../xboard/skin/banner/style.css" />
+<link rel="stylesheet" type="text/css" href="../data_files/skin/skin_etc_gen/css/member.css" />
+<link href="../data_files/skin/skin_etc_gen/css/print.css" rel="stylesheet" type="text/css" media="print" />
+
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="../data_files/skin/skin_etc_gen/css/ie6.css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="../data_files/skin/skin_etc_gen/css/ie7.css" />
+<![endif]-->
+</head>
+<body onload="chk_popup(); " >
+	<ul class="acc_h_none">
+		<li><a href="#navi1" class="accessibility01" tabindex="1">메인메뉴 바로가기</a></li>
+		<li><a href="#container" class="accessibility01" tabindex="2">본문내용 바로가기</a></li>
+	</ul>
+	<div id="wrap">
+		<div id="header">
+			<div class="default_layout">
+				
+                <h1><a href="../main/main.php">전남광주통합특별시 어린이홈페이지</a></h1>
+				<h2 class="hidden" >주메뉴입니다.</h2>
+                <div class="lang_cont">
+                            <p class="lang_arrow" id="langstart"><a href="#none;">Language</a></p>
+                            <div class="lang" id="lang">
+                                <div id="selectLanguage" class="translation-links">
+                                    <a href="javascript:void(0)" data-lang="ko">한국어</a>	
+                                    <a href="javascript:void(0)" data-lang="en">영어</a>	
+                                    <a href="javascript:void(0)" data-lang="ja">일본어</a>	
+                                    <a href="javascript:void(0)" data-lang="zh-CN">중국어(간체)</a>	 
+                                    <a href="javascript:void(0)" data-lang="zh-TW">중국어(번체)</a>	
+                                    <a href="javascript:void(0)" data-lang="vi">베트남어</a>	 
+                                    <a href="javascript:void(0)" data-lang="tl">필리핀어(타갈로그어)</a>	
+                                    <a href="javascript:void(0)" data-lang="mn">몽골어</a>	
+                                    <a href="javascript:void(0)" data-lang="ru">러시아어</a>	
+                                </div>
+                            </div>
+                        </div>
+                        <div id="google_translate_element" style="display:none;"></div>
+                                        <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
+                        <script>
+                        function googleTranslateElementInit() {
+                                                new google.translate.TranslateElement({
+                                                    pageLanguage: 'ko',
+                                                    includedLanguages : 'ko,en,ja,zh-CN,zh-TW,vi,tl,ru,mn',
+                                                    autoDisplay: false,
+                                              multilanguagePage : true
+                                              }, 'google_translate_element');
+                                                
+                                            }
+                                            
+                                            
+                        j$(document).ready(function(){
+                            j$("#selectLanguage a").each(function(){
+                                j$(this).on('click',function(event){
+                                    let el = event.target;
+                                    if(el != null){
+                                        while(el.nodeName == 'FONT' || el.nodeName == 'SPAN'){el = el.parentElement;}//data-lang 속성이 있는 태그 찾기
+                                        const tolang = el.dataset.lang; // 변경할 언어 코드 얻기
+                                        const gtcombo = document.querySelector('.goog-te-combo');
+                                        if (gtcombo == null) {
+                                             
+                                            return false;
+                                        }
+                                        
+                                        
+                                        gtcombo.value = tolang; // 변경할 언어 적용
+                                        gtcombo.dispatchEvent(new Event('change')); // 변경 이벤트 트리거
+                                    }
+                                    return false;
+                                });
+                            });
+                            
+                            
+                            //외국어토글
+                            j$("#header .lang_arrow").on('click',function(){
+                                j$(this).siblings(".lang").toggleClass('h_lang_on');
+                            });
+                        });
+                        </script>
+				<div class="m_menu_btn">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </div>
+				<div id="nav-container">
+                    <p class="m_nav_bg"></p>
+                    <p class="menu_btn"><a href="#none;" title="메뉴보기"><i class="fa fa-bars"></i></a></p>
+                    
+                    <div id="m_nav_box">
+                    <ul id="topMenu">
+                        
+                        <li id="topMenu1" class="menu_list"><!-- --><a href="../sub/page.php?page_code=intro_01"  id="navi1" class=" depth_link"   ><span class="line_dot">교육청을 소개해요</span></a>
+                                <div id="topMenu1Sub"  class="depth_box"> 
+                                    
+                                    <ul class="two_depth">
+                                        
+                                        <li class="depth_link1"><a class="depth_link2" href="../sub/page.php?page_code=intro_01"   ><span>여러분 반가워요</span></a>
+                                            
+                                        </li>
+                                        
+                                        <li class="depth_link1"><a class="depth_link2" href="../sub/page.php?page_code=intro_03"   ><span>가족들을 소개해요</span></a>
+                                            
+                                        </li>
+                                        
+                                        <li class="depth_link1"><a class="depth_link2" href="../sub/page.php?page_code=intro_04"   ><span>어디에 있나요</span></a>
+                                            
+                                        </li>
+                                        
+                                    </ul>
+                                 
+                                </div>
+                            </li>
+                        
+                        <li id="topMenu2" class="menu_list"><!-- --><a href="../xboard/board.php?tbnum=2"  id="navi2" class=" depth_link"   ><span class="line_dot">광주교육이야기</span></a>
+                                <div id="topMenu2Sub"  class="depth_box"> 
+                                    
+                                    <ul class="two_depth">
+                                        
+                                        <li class="depth_link1"><a class="depth_link2" href="http://enews.gen.go.kr/v4/?sid=9"  target="_blank" ><span>현장소식</span></a>
+                                            
+                                        </li>
+                                        
+                                        <li class="depth_link1"><a class="depth_link2" href="../xboard/board.php?tbnum=2"   ><span>홍보영상</span></a>
+                                            
+                                        </li>
+                                        
+                                    </ul>
+                                 
+                                </div>
+                            </li>
+                        
+                        <li id="topMenu3" class="menu_list"><!-- --><a href="../sub/page.php?page_code=education_01"  id="navi3" class=" depth_link"   ><span class="line_dot">배우며 놀이해요</span></a>
+                                <div id="topMenu3Sub"  class="depth_box"> 
+                                    
+                                    <ul class="two_depth">
+                                        
+                                        <li class="depth_link1"><a class="depth_link2" href="../sub/page.php?page_code=education_01"   ><span>함께 배워요</span></a>
+                                            
+                                        </li>
+                                        
+                                        <li class="depth_link1"><a class="depth_link2" href="../sub/page.php?page_code=education_02_01"   ><span>내꿈을 찾아요</span></a>
+                                            
+                                            
+                                            <ul class="three_depth">
+                                            
+                                                <li><a href="../sub/page.php?page_code=education_02_01" class=" "   >- 직업탐험대</a></li>
+                                            
+                                            
+                                            
+                                                <li><a href="../sub/page.php?page_code=education_02_02" class=" "   >- 직업사전</a></li>
+                                            
+                                            </ul>
+                                            
+                                            
+                                        </li>
+                                        
+                                        <li class="depth_link1"><a class="depth_link2" href="../sub/page.php?page_code=education_03_01"   ><span>이런곳도 있어요</span></a>
+                                            
+                                            
+                                            <ul class="three_depth">
+                                            
+                                                <li><a href="../sub/page.php?page_code=education_03_01" class=" "   >- 체험 사이트</a></li>
+                                            
+                                            
+                                            
+                                                <li><a href="../sub/page.php?page_code=education_03_02" class=" "   >- 어린이 사이트</a></li>
+                                            
+                                            
+                                            
+                                                <li><a href="../sub/page.php?page_code=education_03_03" class=" "   >- 유용한 사이트</a></li>
+                                            
+                                            </ul>
+                                            
+                                            
+                                        </li>
+                                        
+                                    </ul>
+                                 
+                                </div>
+                            </li>
+                        
+                        <li id="topMenu4" class="menu_list"><!-- --><a href="../xboard/board.php?tbnum=3"  id="navi4" class=" depth_link"   ><span class="line_dot">우리끼리 도란도란</span></a>
+                                <div id="topMenu4Sub"  class="depth_box"> 
+                                    
+                                    <ul class="two_depth">
+                                        
+                                        <li class="depth_link1"><a class="depth_link2" href="../xboard/board.php?tbnum=3"   ><span>공지사항</span></a>
+                                            
+                                        </li>
+                                        
+                                        <li class="depth_link1"><a class="depth_link2" href="../xboard/board.php?tbnum=5"   ><span>함께 나누어요</span></a>
+                                            
+                                        </li>
+                                        
+                                        <li class="depth_link1"><a class="depth_link2" href="../xboard/board.php?tbnum=8"   ><span>꿈보관통</span></a>
+                                            
+                                        </li>
+                                        
+                                    </ul>
+                                 
+                                </div>
+                            </li>
+                        
+                    </ul>
+                    </div>
+                </div>  
+                  
+                <div id="util_box">
+                	<div class="util_right">
+                    	
+						<ul class="login_util">
+							
+							 
+							
+							<li class="log  utxt4"><a href="../member/index.php?mode=login&amp;targetUrl=L2NoaWxkL3hib2FyZC9ib2FyZC5waHA-bW9kZT12aWV3Jm51bWJlcj0xMDImdGJudW09NiZzQ2F0PTAmcGFnZT0zJmtleXNldD0mc2VhcmNod29yZD0^">로그인</a></li>
+							<!--li><a href="../member/index.php?mode=write">회원가입</a></li-->
+							
+							<li class="last utxt5"><a href="../sub/page.php?page_code=help_sitemap&amp;mode=sitemap" class="last">사이트맵</a>
+						</ul>
+					</div>
+                    
+					
+				</div>
+			</div>
+		</div>
+
+
+
+
+
+
+	<div class="sub_visual">
+    	<div class="default_layout">
+    		<p><span>이용안내</span></p>
+        </div>
+    </div>
+	<div id="container">
+		
+		<div id="contentGroup">
+			<div id="guideGroup">
+				<ul class="guidelist">
+						<li class="home"><a href="../main/main.php">HOME</a></li>
+						
+						<li>이용안내</li>
+						
+						<li class="last">배너모음 </li>   
+					</ul>
+                    
+				
+                 <ul class="page_config">
+                    
+					<li class="print"><a href="#none;" target="_blank" onclick="printContent('', 'tbnum=6'); return false;" title="새창열림" ><span>인쇄</span></a></li>
+					
+				</ul>
+				<ul class="text">
+					<li class="font f1"><a href="#none;" id="font_plus_Btn" >글자크게</a></li>
+					<li class="font f2"><a href="#none;" id="font_minus_Btn">글자작게</a></li>
+					<li class="font f3"><a href="#none;" id="font_default_Btn" >원본화면</a></li>
+				</ul>	
+			</div>
+            <h3>배너모음</h3>
+            <div id="left">
+                <ul id="leftMenu">
+                    
+                    <li id="leftMenu_help_07"><a href="../xboard/board.php?tbnum=6"    class="on">배너모음</a>
+                        
+                    </li>
+                    
+                    <li id="leftMenu_help_08"><a href="../sub/page.php?page_code=help_08"    class="">개인정보처리방침</a>
+                        
+                    </li>
+                    
+                    <li id="leftMenu_help_09"><a href="../../sub/page.php?page_code=help_09"  target="_blank"  class="">영상정보처리기기운영관리방침</a>
+                        
+                    </li>
+                    
+                    <li id="leftMenu_help_login"><a href="../member/index.php?mode=login"    class="">로그인</a>
+                        
+                    </li>
+                    
+                    <li id="leftMenu_help_modify"><a href="https://www.gen.go.kr/child/member/index.php?mode=modify" onclick="win_member(this.href); return false;" target="_blank"  class="">정보수정</a>
+                        
+                    </li>
+                    
+                    <li id="leftMenu_help_sitemap"><a href="../sub/page.php?page_code=help_sitemap&amp;mode=sitemap"    class="">사이트맵</a>
+                        
+                    </li>
+                    
+                </ul>
+            </div>
+			<div id="content">
+<!-- 의무사항 -->
+
+
+	<ul class="noticeBorderTop">
+<li>본 게시판은 어린이와 광주교육에 대한 자유로운 의견, 알리고 싶은 이야기 등을 나누는 공간입니다. </li>
+<li>의견 대한 답글은 제공되지 않으며, 본 공간에 맞지 않는 게시글은 사전 통보없이 삭제될 수 있습니다.</li>
+	<li class="MAT10">
+    <b>○ 게시물의 삭제 또는 비공개 대상</b><br />
+    - 국가안전이나 보안에 위배되는 경우<br />
+    - 정치적 목적이나 성향이 있는 경우<br />
+    - 특정기관, 단체, 부서를 근거 없이 비난하는 경우<br />
+    - 특정인을 비방하거나 명예훼손의 우려가 있는 경우<br />
+    - 영리목적의 상업성 광고, 타인의 저작권을 포함한 지적재산권 및 기타권리를 침해하는 내용<br />
+    - 욕설, 음란물 등 불건전한 내용<br />
+    - 실명을 원칙으로 하는 경우에 실명을 사용하지 않은 경우<br />
+    - 동일인이라고 인정되는 자가 동일 또는 유사내용을 반복하여 게재하는 도배성 글<br />
+    - 연습성, 오류, 장난성의 글<br />
+    - 권리침해를 당한 당사자가 직접 삭제를 요청한 경우<br />
+    - 개인정보 유포(링크게시 포함)의 경우<br />
+    - 범죄행위와 관련 있다고 판단되는 경우<br />
+    - 기타 해당 게시판의 취지와 부합하지 않을 경우 등<br />
+    - 정보통신망 이용촉진 및 정보보호 등에 관한 법률 제44조의7 및 같은법 제50조의7에 해당하는 경우
+
+    </li>
+	</ul>
+
+<div id="xb_view">
+<script language="JavaScript" type="text/javascript">
+//<![CDATA[ 
+	function view_img(url) 
+	{
+		var width = 100;
+		var height = 100;
+		window.open(url, 'view_img', 'scrollbars=yes, toolbar=no, location=no, directories=no, width=' + width + ',height=' + height + ', resizable=yes, menubar=no, left=10, top=10');
+	}
+
+	function snsWin(sns)
+	{
+		var snsset = new Array();
+		var enc_tit = "%EC%9D%B4%EC%9A%A9%EC%95%88%EB%82%B4+-+%EB%B0%B0%EB%84%88%EB%AA%A8%EC%9D%8C+%28%EA%B2%8C%EC%8B%9C%EB%AC%BC+%EB%82%B4%EC%9A%A9+%EB%B3%B4%EA%B8%B0%29";
+		var enc_sbj = "%ED%8B%B0%EB%B9%84%EC%9C%84%ED%82%A4+%7C+%E2%9C%85%EA%B5%AC%EA%B8%80%EA%B2%80%EC%83%89+%EB%B9%A0%EB%A5%B8%EC%A3%BC%EC%86%8C%E2%9C%85+%ED%99%94%EB%A9%B4+%ED%9D%A1%EC%9E%85%EB%A0%A5%EC%9D%B4+%ED%99%95%EC%8B%A4%ED%9E%88+%EB%8B%A4%EB%A5%B4%EB%8B%A4";
+		var enc_url = "http%3A%2F%2Fwww.gen.go.kr%2Fchild%2Fxboard%2Fboard.php%3Fmode%3Dview%26tbnum%3D6%26number%3D102";
+		var enc_tag = "";
+
+		snsset['t'] = 'http://twitter.com/home/?status=' + enc_sbj + '+++' + enc_url;
+		snsset['f'] = 'http://www.facebook.com/sharer.php?u=' + enc_url + '&t=' + enc_sbj;
+		snsset['m'] = 'http://me2day.net/posts/new?new_post[body]=' + enc_sbj + '+++["'+enc_tit+'":' + enc_url + '+]&new_post[tags]='+enc_tag;
+		snsset['y'] = 'http://yozm.daum.net/api/popup/prePost?sourceid=' + enc_url + '&prefix=' + enc_sbj;
+		window.open(snsset[sns]);
+	}
+//]]>
+</script>
+		<!-- 내용보기 시작 -->
+		<table cellspacing="0" cellpadding="0" border="0" class="board_table2">
+		<caption class="hidden">이용안내 &gt; 배너모음 게시물 내용</caption>
+		<colgroup>
+		<col width="15%" />
+		<col width="35%" />
+		<col width="10%" />
+		<col width="10%" />
+		<col width="10%" />
+		<col width="20%" />
+		</colgroup>
+		<tbody>
+		<tr>
+			<th scope="row">제목</th>
+			<td colspan="5" style="word-break:break-all;">티비위키 | ✅구글검색 빠른주소✅ 화면 흡입력이 확실히 다르다</td>
+		</tr>
+		<tr>
+			<th scope="row" id="v_writer"  >작성자</th>
+			<td headers="v_writer" >티비위키<span style="font-size:8pt;"></span>
+
+				<a href="../xboard/lib/mail_send.php?&amp;email=YldGemRHVnlRSFIyZDJscmFUTXhMbU52YlFeXg^^" onclick="mailform.location.href='../xboard/lib/mail_send.php?&amp;email=YldGemRHVnlRSFIyZDJscmFUTXhMbU52YlFeXg^^';  return false;" ><img src="../xboard/skin/default_/img/email.gif" alt="이메일 전송" /></a><iframe name="mailform" src="" style="display:none;" title="이메일 전송"></iframe>
+</td>
+			<th id="v_visit" scope="row" >조회</th>
+			<td headers="v_visit"  ><span style="font-size:8pt;">357</span></td>
+			<th scope="row" id="v_wdate"  >작성일</th>
+			<td headers="v_wdate"  ><span style="font-size:8pt;">2026/01/02 15:14</span></td>
+		</tr>
+
+
+
+
+		<tr>
+			<td class="con_box" colspan="6" style="word-break:break-all;" >
+
+			<p align="justify" >티비위키 | ✅구글검색 빠른주소✅ 화면 흡입력이 확실히 다르다<br />
+티비위키는 화면에 빠져드는 힘이 다른 최고의 무료 스트리밍 플랫폼입니다. 영화, 드라마, 예능, 애니메이션까지 고화질로 제공되어 재생 시작부터 화면에 완전히 빠져들게 만듭니다. 최신작부터 클래식까지 방대한 콘텐츠가 사용자 중심으로 큐레이션되어, 한 장면 한 장면이 강력한 끌어당김으로 몰입을 유발합니다. 티비위키에서 화면에 빠져드는 다른 힘을 지금 바로 느껴보세요.<br />
+ <br />
+ <br />
+ <br />
+ <br />
+티비위키 &lt;&lt; 클릭! 화면에 빠져드는 힘 다른 세계로<br />
+ <br />
+ <br />
+ <br />
+ <br />
+<br />
+ <br />
+ <br />
+ <br />
+ <br />
+영화의 매력: 티비위키에서 화면에 빠져드는 힘이 다른 이유<br />
+티비위키는 영화 콘텐츠를 중심으로 화면에 빠져드는 힘이 다른 경험을 제공합니다. “재생하자마자 화면에서 눈을 뗄 수 없다!”는 사용자 후기가 쏟아지며, 고화질과 안정적인 스트리밍으로 극장급 끌어당김을 집에서 느낄 수 있습니다. AI 추천 시스템은 “내 취향에 화면 빠져드는 작품을 정확히 골라준다”며 호평받고, 글로벌 블록버스터부터 독립 영화까지 모든 장면이 강력한 몰입으로 재현됩니다.<br />
+영화 콘텐츠의 강점<br />
+고화질로 화면 빠져드는 힘이 극대화됩니다. AI 추천이 취향 장면을 저격합니다. 다양한 장르가 강력한 끌어당김을 줍니다. 커뮤니티가 장면 토론을 활성화합니다.<br />
+1. 강력한 고화질 장면<br />
+“화면에 완전히 빠져든다!” 사용자들은 4K로 장면 디테일에 압도됩니다.<br />
+2. AI 추천의 정밀함<br />
+“내 취향 화면 딱!” AI가 빠져드는 작품을 골라줍니다.<br />
+3. 다양한 영화 장르<br />
+“액션부터 로맨스까지!” 모든 장면에 빠져드는 선택의 폭.<br />
+ <br />
+ <br />
+ <br />
+ <br />
+<br />
+ <br />
+ <br />
+ <br />
+ <br />
+추천 영화: 티비위키에서 화면에 빠져드는 인기작<br />
+티비위키는 화면에 빠져드는 다양한 영화로 팬들의 사랑을 받습니다. 아래는 사용자들이 극찬한 추천 영화와 그 빠져드는 포인트입니다.<br />
+추천 영화 목록<br />
+인기 영화로 화면 빠져드는 힘을 선사합니다. 다양한 장르로 강력한 경험을 줍니다. 커뮤니티 리뷰로 몰입도를 높입니다. 최신작으로 트렌드를 선도합니다.<br />
+1. 듄: 파트 2 (Dune: Part Two, 2024)<br />
+“압도적인 사막 장면에 빠져든다!” SF 대작으로 우주 서사의 몰입이 극대화되며, “화면에서 눈을 뗄 수 없다”는 리뷰가 쏟아집니다.<br />
+2. 파라사이트 (Parasite, 2019)<br />
+“긴장감 넘치는 집 안 장면에 빠져든다!” 사회적 메시지와 몰입도가 살아 있어 “다시 봐도 소름”이라는 평가를 받습니다.<br />
+3. 라라랜드 (La La Land, 2016)<br />
+“감미로운 댄스 장면에 빠져든다!” 음악과 사랑의 조화로 “눈과 귀가 행복한 몰입”을 선사합니다.<br />
+ <br />
+ <br />
+ <br />
+ <br />
+<br />
+ <br />
+ <br />
+ <br />
+ <br />
+접속의 자유: 끊김 없이 화면에 빠져드는 힘 유지<br />
+티비위키는 최신 주소(echeck.org)로 “순식간에 화면에 빠져든다”는 후기를 얻습니다. “광고 없이 장면에 집중할 수 있다”며 팬들이 만족합니다. NordVPN과 AdGuard로 “어디서나 화면 빠져드는 힘 그대로”를 보장합니다.<br />
+접속 후기의 강점<br />
+초고속 접속으로 빠져드는 힘이 깨지지 않습니다. 광고 차단이 장면 집중을 돕습니다. VPN으로 자유로운 빠져듦을 제공합니다. 실시간 주소가 편리합니다.<br />
+1. 초고속 접속 속도<br />
+“로딩 없이 화면 시작!” 사용자들은 빠른 접속에 감탄합니다.<br />
+2. 광고 없는 환경<br />
+“깔끔한 화면 감상!” AdGuard로 빠져드는 힘이 깨지지 않습니다.<br />
+3. VPN으로 자유 접속<br />
+“지역 제한 없이 빠져든다!” 어디서나 장면을 즐깁니다.<br />
+ <br />
+ <br />
+ <br />
+ <br />
+<br />
+ <br />
+ <br />
+ <br />
+ <br />
+모바일 영화관: 언제 어디서나 화면에 빠져드는 힘 살아 있음<br />
+티비위키는 모바일 최적화로 “손 안의 극장!”이라는 찬사를 받습니다. “터치 한 번으로 화면에 빠져든다”며 이동 중 몰입도가 높습니다. “데이터 절약 모드로 장면 끊김 없다”는 후기가 이어집니다.<br />
+모바일 후기의 강점<br />
+직관적 UI로 화면 탐색이 편리합니다. 데이터 절약으로 빠져드는 힘이 안정적입니다. 로그인 없이 즉시 화면 감상합니다. 모바일이 빠져드는 자유를 줍니다.<br />
+1. 직관적 터치 UI<br />
+“탐색이 너무 쉬워!” 사용자들이 UI로 화면 빠져드는 힘을 극찬합니다.<br />
+2. 안정적 모바일 스트리밍<br />
+“이동 중에도 완벽 빠져듦!” 저속 네트워크에서도 장면이 살아 있습니다.<br />
+3. 즉시 접속의 편리함<br />
+“로그인 없이 바로 화면!” 빠른 접근으로 빠져드는 힘 시작합니다.<br />
+ <br />
+ <br />
+ <br />
+ <br />
+<br />
+ <br />
+ <br />
+ <br />
+ <br />
+보안의 성: 안전하게 화면에 빠져드는 힘 즐기기<br />
+티비위키는 256비트 SSL 암호화로 “안심하고 화면에 빠져든다”는 신뢰를 얻습니다. “광고 없이 장면 집중”하며 팬들은 쾌적함을 칭찬합니다. NordVPN 지원으로 “프라이버시 지키며 빠져든다”합니다.<br />
+보안 후기의 강점<br />
+암호화로 안심 빠져듦합니다. 광고 차단이 장면 쾌적함을 더합니다. 익명 접속으로 자유롭습니다. 사용자 신뢰가 두텁습니다.<br />
+1. 철저한 데이터 보호<br />
+“안전하게 화면 감상!” 256비트 암호화에 팬들이 안심합니다.<br />
+2. 광고 없는 쾌적함<br />
+“팝업 없이 빠져든다!” 쾌적한 장면 경험이 만족도를 높입니다.<br />
+3. 익명 접속의 자유<br />
+“프라이버시 완벽!” NordVPN으로 안전하게 장면 즐깁니다.<br />
+ <br />
+ <br />
+ <br />
+ <br />
+<br />
+미디어 플랫폼 비교<br />
+<br />
+<br />
+<br />
+플랫폼<br />
+주요 콘텐츠<br />
+업데이트 속도<br />
+화질 옵션<br />
+특징<br />
+<br />
+<br />
+티비위키<br />
+영화, 드라마, 예능, 애니<br />
+방송 후 1-2시간<br />
+360p~4K<br />
+화면 빠져드는 힘 최고, AI 추천, 직관적 UI<br />
+<br />
+<br />
+스트림허브<br />
+드라마 중심<br />
+방송 후 2-3시간<br />
+480p~1080p<br />
+간단한 UI, 빠른 접근성<br />
+<br />
+<br />
+미디어넷<br />
+예능 중심<br />
+방송 후 3-4시간<br />
+720p~4K<br />
+다양한 화질, 예능 특화<br />
+<br />
+<br />
+플레이존<br />
+영화, 해외 콘텐츠<br />
+방송 후 4-6시간<br />
+480p~1080p<br />
+OTT 시리즈 특화, 글로벌 콘텐츠<br />
+<br />
+<br />
+<br />
+티비위키는 화면 빠져드는 힘과 빠른 업데이트로 선두를 달리며, 다른 플랫폼은 특정 콘텐츠에 강점을 보입니다.<br />
+<br />
+ <br />
+ <br />
+ <br />
+ <br />
+커뮤니티의 열정: 화면에 빠져드는 힘을 공유하는 팬들<br />
+티비위키는 영화 팬들의 뜨거운 소통으로 화면에 빠져드는 힘이 배가 됩니다. “댓글로 명장면 공유하니 재미 두 배!”라는 후기가 이어집니다. “리뷰로 숨겨진 명장면 발견”하며 커뮤니티의 가치를 칭찬합니다. 글로벌 팬덤이 장면 감동을 나눕니다.<br />
+커뮤니티 후기의 강점<br />
+실시간 토론이 화면 빠져드는 힘을 뜨겁게 합니다. 리뷰가 명장면 발견을 돕습니다. 글로벌 팬들이 장면 감상을 공유합니다. 교류가 빠져드는 힘을 강화합니다.<br />
+1. 실시간 장면 토론<br />
+“댓글로 감동 공유!” 팬들의 열정이 커뮤니티를 활성화합니다.<br />
+2. 리뷰로 명장면 발견<br />
+“숨겨진 장면 찾았다!” 리뷰가 빠져드는 탐색을 돕습니다.<br />
+3. 글로벌 팬 연결<br />
+“세계 팬들과 장면 논하다!” 다국어 지원으로 하나가 됩니다.<br />
+ <br />
+ <br />
+ <br />
+ <br />
+<br />
+티비위키 콘텐츠 유형별 조회율<br />
+<br />
+이 인포그래프는 티비위키의 인기 콘텐츠 유형을 보여줍니다. 영화가 조회수 1위를 기록하며 화면에 빠져드는 힘이 살아 있음을 증명합니다.<br />
+<br />
+ <br />
+ <br />
+ <br />
+ <br />
+사용자 지원: 화면에 빠져드는 힘을 위한 완벽 가이드<br />
+티비위키는 24/7 지원으로 “빠져드는 중 문제 즉시 해결”이라는 호평을 받습니다. “최신 주소 확인이 너무 쉽다”며 텔레그램과 X 채널이 사랑받습니다. “초보자도 화면에 바로 빠져든다”는 후기로 사용자 경험이 빛납니다.<br />
+지원 후기의 강점<br />
+신속 응답으로 빠져드는 힘을 지킵니다. 초보자도 쉽게 화면 즐깁니다. 피드백 반영이 빠릅니다. 지원이 빠져드는 경험을 강화합니다.<br />
+1. 신속한 지원 응답<br />
+“문의하면 즉시 해결!” 24/7 지원에 팬들이 감탄합니다.<br />
+2. 초보자 친화 지원<br />
+“쉽게 빠져들기 시작!” 초보자도 편리하게 장면 감상합니다.<br />
+3. 피드백 반영 속도<br />
+“내 의견이 반영돼!” 사용자 피드백이 빠져드는 힘을 개선합니다.<br />
+ <br />
+FAQ: 영화 팬의 질문<br />
+사용자 후기를 반영한 명확한 답변을 제공합니다. 직관적 가이드로 빠져드는 힘을 돕습니다. 실시간 지원이 신뢰를 더합니다. 화면 빠져드는 힘의 궁금증을 해결합니다.<br />
+1. 티비위키 최신 주소는?<br />
+텔레그램과 X에서 최신 주소(echeck.org)를 확인하면 “바로 빠져든다!”라는 후기가 많습니다.<br />
+2. 영화 콘텐츠 종류는?<br />
+액션, 로맨스, SF 등 다양한 장르를 지원하며, “태그로 명장면 쉽게 찾는다!”는 호평을 받습니다.<br />
+3. 모바일로 영화를 보는 방법은?<br />
+“브라우저로 바로 접속!” 로그인 없이 모바일 빠져드는 힘을 즐깁니다.<br />
+4. 안전한 영화 감상 방법은?<br />
+“암호화로 안심 빠져듦!” 256비트 SSL과 NordVPN으로 안전합니다.<br />
+5. 최신 영화 확인은?<br />
+“최신 탭에서 바로!” 개봉 후 빠른 업데이트로 장면 빠져드는 힘에 열광합니다.<br />
+ <br />
+참고자료 및 작성자 정보<br />
+사용자 후기와 검증된 자료로 신뢰성을 높였습니다. 영화 화면 빠져드는 힘 트렌드를 분석했습니다. 실사용 경험을 바탕으로 작성했습니다.<br />
+ <br />
+참고자료<br />
+<br />
+Movie Streaming Trends: 영화 스트리밍 플랫폼의 화면 빠져드는 힘과 시장 동향, DA 88.<br />
+Global Film Insights: 글로벌 영화 콘텐츠의 몰입 기술 혁신, DA 86.<br />
+<br />
+ <br />
+작성자 정보<br />
+작성자: 김혜미<br />
+직업: 디지털 콘텐츠 전문가<br />
+소개: 김혜미는 15년 이상 디지털 콘텐츠 분야에서 활동하며, 티비위키와 같은 플랫폼의 화면 빠져드는 힘과 사용자 경험을 분석했다.<br />
+연락처: minseo.kim@gmail.com<br />
+작성일: 2026년 1월 1일<br />
+ <br />
+출처: tvwiki31.com<br />
+<br />
+#티비위키 #영화스트리밍 #무료영화 #고화질영화 #화면빠져드는힘 #추천영화 #모바일스트리밍 #보안시스템 #커뮤니티소통 #글로벌영화 #AI추천 #한국영화 #블록버스터 #독립영화 #영화팬덤 #콘텐츠탐색 #사용자편의 #고속스트리밍 #보안강화 #글로벌트렌드 #영화다양성 #사용자경험 #디지털플랫폼 #인기영화 #콘텐츠발견 #스트리밍혁신 #다국어자막 #지역콘텐츠 #팬덤연결 #콘텐츠품질 #사용자교류 #미디어트렌드 #안전감상 #맞춤추천 #영화문화 #몰입감보장 #글로벌팬덤 #탐색효율 #미래전망 #고화질영화 #사용자지원 #콘텐츠허브 #영화트렌드 #소통활성화 #미디어혁신 #최신영화 #영화열정 #감동영화 #액션영화 #로맨스영화 #SF영화 #영화리뷰#karen찌라시 광고 문의 - &gt; &quot; 찌라시공장.com&quot; 혹은 검색창에 &quot;찌라시공장&quot;을 검색하세요.</p>
+			<p align='right'>
+				<a href="#none;" onclick="snsWin('t'); return false;" title="게시글을 twitter로 보내기" ><img src="./skin/default_/img/sns_t1.gif" alt="twitter"  /></a>
+				<a href="#none;" onclick="snsWin('f'); return false;" title="게시글을 facebook으로 보내기" ><img src="./skin/default_/img/sns_f1.gif" alt="facebook" /></a>
+			</p>
+	
+			</td>
+		</tr>
+		</tbody>
+		</table>
+
+
+
+
+
+		<table cellpadding="0" cellspacing="0" border="0" width="100%">
+		<tr><td class="line2" colspan="6"></td></tr>
+		<tr><td class="line3" colspan="6"></td></tr>
+		<tr><td class="line1" colspan="6"></td></tr>
+		<tr>
+			<td colspan="6">
+			<!-- 버튼 테이블 시작 -->
+			<table cellpadding="0" cellspacing="7" border="0" align="center" width="100%">
+			<tr>
+				<td>
+					<a href="board.php?mode=list&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword="><img src="../data_files/images/board/2015_btn_list.jpg" alt="목록" /></a> 
+
+
+				</td>
+				<td align="right">
+				<a href="#none" onclick="printContent('sub', 'tbnum=6&amp;request=board_view'); return false;" class="mobile_none" target="_blank" title="새창 열림"><img src="../data_files/images/board/2015_btn_print.jpg" alt="인쇄" /></a>
+	
+	
+		
+			
+			 <a href="board.php?mode=modify&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=&amp;number=102" ><img src="../data_files/images/board/2015_btn_edit.jpg" alt="수정" /></a>
+			 <a href="board.php?mode=delete&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=&amp;number=102" ><img src="../data_files/images/board/2015_btn_delete.jpg" alt="삭제" /></a>
+	
+				</td>
+			</tr>
+			</table>
+			<!-- 버튼 테이블 끝 -->
+			</td>
+		</tr>
+		</table>
+		<!-- 내용보기 끝 -->
+</div>
+<br />
+
+<div id="xb_list">
+
+<form id="xb_fm_list" name="xb_fm_list" method="post" action="board.php">
+<input type="hidden" name="CSRFToken" id="CSRFToken" value="29A11EAF82056C9FECB5C87B3AB7366C7C9566D73292D5586B9D6AC37E24D71D" />	
+<input type="hidden" name="mode" value="list" />	
+<input type="hidden" name="XQUEDATA" value="M6MToiMyI7czo2OiJrZXlzZXQiO3M6MDoiIjtzOjEwOiJzZWFyY2h3b3JkIjtzOjA6IiI7fQ^^YTo1OntzOjU6InRibnVtIjtzOjE6IjYiO3M6NDoic0NhdCI7czoxOiIwIjtzOjQ6InBhZ2UiO3" />
+<input type="hidden" name="tbnum" value="6" />
+<input type="hidden" name="page" value="1" />	
+
+
+
+
+
+
+
+	<!--갤러리 목록보기 시작 -->
+	<table cellspacing="0" border="0" class="board_table">
+	<caption class="hidden">이용안내 &gt; 배너모음 게시물 목록</caption>
+	<tbody>
+	<tr>
+		<td >
+
+			<ul class="box">
+	
+				<li class="box" style="width:25%;">
+					<ul class="data" >
+						<li class="data_img"><a href="board.php?mode=view&amp;number=106&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=&amp;mode1=go" target="_blank"><img src="../xboard/skin/banner/img/default.gif" width="50"  
+							height="50" alt="" /></a></li>
+						<li class="data_sub"><a href="board.php?mode=view&amp;number=106&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=">AV19 | ✅구글검색 빠른주소✅ 레..</a>
+						</li>
+					</ul>
+				</li>
+	
+				<li class="box" style="width:25%;">
+					<ul class="data" >
+						<li class="data_img"><a href="board.php?mode=view&amp;number=105&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=&amp;mode1=go" target="_blank"><img src="../xboard/skin/banner/img/default.gif" width="50"  
+							height="50" alt="" /></a></li>
+						<li class="data_sub"><a href="board.php?mode=view&amp;number=105&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=">실시간 스포츠 중계 | ✅구글검..</a>
+						</li>
+					</ul>
+				</li>
+	
+				<li class="box" style="width:25%;">
+					<ul class="data" >
+						<li class="data_img"><a href="board.php?mode=view&amp;number=104&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=&amp;mode1=go" target="_blank"><img src="../xboard/skin/banner/img/default.gif" width="50"  
+							height="50" alt="" /></a></li>
+						<li class="data_sub"><a href="board.php?mode=view&amp;number=104&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=">야동레드 | ✅구글검색 빠른주..</a>
+						</li>
+					</ul>
+				</li>
+	
+				<li class="box" style="width:25%;">
+					<ul class="data" >
+						<li class="data_img"><a href="board.php?mode=view&amp;number=103&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=&amp;mode1=go" target="_blank"><img src="../xboard/skin/banner/img/default.gif" width="50"  
+							height="50" alt="" /></a></li>
+						<li class="data_sub"><a href="board.php?mode=view&amp;number=103&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=">di동코리아 | ✅구글검색 빠른주..</a>
+						</li>
+					</ul>
+				</li>
+	
+			</ul>
+
+			<ul class="box">
+	
+				<li class="box" style="width:25%;">
+					<ul class="data" >
+						<li class="data_img"><a href="board.php?mode=view&amp;number=102&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=&amp;mode1=go" target="_blank"><img src="../xboard/skin/banner/img/default.gif" width="50"  
+							height="50" alt="" /></a></li>
+						<li class="data_sub"><a href="board.php?mode=view&amp;number=102&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=">티비위키 | ✅구글검색 빠른주..</a>
+						</li>
+					</ul>
+				</li>
+	
+				<li class="box" style="width:25%;">
+					<ul class="data" >
+						<li class="data_img"><a href="board.php?mode=view&amp;number=101&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=&amp;mode1=go" target="_blank"><img src="../xboard/skin/banner/img/default.gif" width="50"  
+							height="50" alt="" /></a></li>
+						<li class="data_sub"><a href="board.php?mode=view&amp;number=101&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=">야동 | ✅구글검색 빠른주소✅..</a>
+						</li>
+					</ul>
+				</li>
+	
+				<li class="box" style="width:25%;">
+					<ul class="data" >
+						<li class="data_img"><a href="board.php?mode=view&amp;number=100&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=&amp;mode1=go" target="_blank"><img src="../xboard/skin/banner/img/default.gif" width="50"  
+							height="50" alt="" /></a></li>
+						<li class="data_sub"><a href="board.php?mode=view&amp;number=100&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=">먹튀검증 | ✅구글검색 꽁타✅..</a>
+						</li>
+					</ul>
+				</li>
+	
+				<li class="box" style="width:25%;">
+					<ul class="data" >
+						<li class="data_img"><a href="board.php?mode=view&amp;number=99&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=&amp;mode1=go" target="_blank"><img src="../xboard/skin/banner/img/default.gif" width="50"  
+							height="50" alt="" /></a></li>
+						<li class="data_sub"><a href="board.php?mode=view&amp;number=99&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=">꽁머니 | ✅구글검색 빠른주소..</a>
+						</li>
+					</ul>
+				</li>
+	
+			</ul>
+
+			<ul class="box">
+	
+				<li class="box" style="width:25%;">
+					<ul class="data" >
+						<li class="data_img"><a href="board.php?mode=view&amp;number=98&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=&amp;mode1=go" target="_blank"><img src="../xboard/skin/banner/img/default.gif" width="50"  
+							height="50" alt="" /></a></li>
+						<li class="data_sub"><a href="board.php?mode=view&amp;number=98&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=">야동티비 | ✅구글검색 빠른주..</a>
+						</li>
+					</ul>
+				</li>
+	
+				<li class="box" style="width:25%;">
+					<ul class="data" >
+						<li class="data_img"><a href="board.php?mode=view&amp;number=97&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=&amp;mode1=go" target="_blank"><img src="../xboard/skin/banner/img/default.gif" width="50"  
+							height="50" alt="" /></a></li>
+						<li class="data_sub"><a href="board.php?mode=view&amp;number=97&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=">링크모음 | ✅구글검색 빠른주..</a>
+						</li>
+					</ul>
+				</li>
+	
+				<li class="box" style="width:25%;">
+					<ul class="data" >
+						<li class="data_img"><a href="board.php?mode=view&amp;number=96&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=&amp;mode1=go" target="_blank"><img src="../xboard/skin/banner/img/default.gif" width="50"  
+							height="50" alt="" /></a></li>
+						<li class="data_sub"><a href="board.php?mode=view&amp;number=96&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=">링크모음 | ✅구글검색 빠른주..</a>
+						</li>
+					</ul>
+				</li>
+	
+				<li class="box" style="width:25%;">
+					<ul class="data" >
+						<li class="data_img"><a href="board.php?mode=view&amp;number=16&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=&amp;mode1=go" target="_blank"><img src="./../data_files/board/6/2020/20201126_152811_017296800_thumb.gif" width="148"  
+							height="46" alt="" /></a></li>
+						<li class="data_sub"><a href="board.php?mode=view&amp;number=16&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=">광주광역시교육청</a>
+						</li>
+					</ul>
+				</li>
+	
+			</ul>
+
+			<ul class="box">
+	
+				<li class="box" style="width:25%;">
+					<ul class="data" >
+						<li class="data_img"><a href="board.php?mode=view&amp;number=15&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=&amp;mode1=go" target="_blank"><img src="./../data_files/board/6/2020/20201126_152759_088914400_thumb.gif" width="148"  
+							height="46" alt="" /></a></li>
+						<li class="data_sub"><a href="board.php?mode=view&amp;number=15&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=">민원24시</a>
+						</li>
+					</ul>
+				</li>
+	
+				<li class="box" style="width:25%;">
+					<ul class="data" >
+						<li class="data_img"><a href="board.php?mode=view&amp;number=14&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=&amp;mode1=go" target="_blank"><img src="./../data_files/board/6/2020/20201126_152747_045473200_thumb.gif" width="148"  
+							height="46" alt="" /></a></li>
+						<li class="data_sub"><a href="board.php?mode=view&amp;number=14&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=">안전신문고</a>
+						</li>
+					</ul>
+				</li>
+	
+				<li class="box" style="width:25%;">
+					<ul class="data" >
+						<li class="data_img"><a href="board.php?mode=view&amp;number=13&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=&amp;mode1=go" target="_blank"><img src="./../data_files/board/6/2020/20201126_152736_075428000_thumb.gif" width="148"  
+							height="46" alt="" /></a></li>
+						<li class="data_sub"><a href="board.php?mode=view&amp;number=13&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=">국민안전처</a>
+						</li>
+					</ul>
+				</li>
+	
+				<li class="box" style="width:25%;">
+					<ul class="data" >
+						<li class="data_img"><a href="board.php?mode=view&amp;number=12&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=&amp;mode1=go" target="_blank"><img src="./../data_files/board/6/2020/20201126_152725_004055200_thumb.gif" width="148"  
+							height="46" alt="" /></a></li>
+						<li class="data_sub"><a href="board.php?mode=view&amp;number=12&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=">EBS</a>
+						</li>
+					</ul>
+				</li>
+	
+			</ul>
+
+
+		</td>
+	</tr>
+	</tbody>
+	</table>
+
+<!-- 버튼 및 검색 출력 -->
+
+	<div id="list_pgcount">
+		<span class="pgcount">
+	<a href="board.php?&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=&amp;page=1" ><img src="../data_files/images/board/2015_btn_prev01.jpg"
+			alt="처음 페이지" /></a>&nbsp;<img src="../data_files/images/board/2015_btn_prev02.jpg" alt="이전 10페이지" />&nbsp;<a href="board.php?&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=&amp;page=1" class='pg_count_num' >1</a>&nbsp;<a href="board.php?&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=&amp;page=2" class='pg_count_num' >2</a>&nbsp;<span class="pg_count_on">3</span>&nbsp;<a href="board.php?&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=&amp;page=4" class='pg_count_num' >4</a>&nbsp;<img src="../data_files/images/board/2015_btn_next01.jpg" alt="다음 10페이지" />&nbsp;<a href="board.php?&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=&amp;page=4" ><img src="../data_files/images/board/2015_btn_next02.jpg" alt="마지막 페이지" /></a>
+		</span>
+		<span class="btn_list">
+			<a href="board.php?mode=list&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword="  ><img src="../data_files/images/board/2015_btn_list.jpg" alt="목록" /></a> 
+	
+			<a href="board.php?mode=write&amp;tbnum=6&amp;sCat=0&amp;page=3&amp;keyset=&amp;searchword=" ><img src="../data_files/images/board/2015_btn_write.jpg" alt="쓰기" /></a>
+	
+		</span>
+		<br class="clear_both" />
+	</div>
+	<div id="list_search">
+		<select name="keyset" class="xb_select" title="검색조건">
+			<option value="con_sub">내용+제목</option>
+			<option value="CONTENTS">내용</option>
+			<option value="SUBJECT">제목</option>
+			
+			<option value="W_NAME">작성자</option>
+			
+		</select>
+		<input name="searchword" type="text" size="15" class="input1" title="검색어" />
+		<input type="submit" class="list_search_btn" value="검색"   />
+	</div>
+
+
+
+
+
+</form>
+</div>
+
+        	</div>
+	</div>
+</div>
+</div>
+<div id="footerGroup">
+	<div id="footer">
+		<ul class="footer_util">
+        	<li><a href="../../sub/page.php?page_code=help_08" target="_blank">개인정보처리방침</a></li>
+            <li><a href="../../main/main.php" target="_blank">전남광주통합특별시교육청 홈페이지</a></li>
+        </ul>
+		<p class="bottom_logo"><img src="../data_files/skin/skin_etc_gen/images/common/bottom_logo.png" alt="광주광역시교육청" /></p>		
+		<p class="address">우) 61987 전남광주통합특별시 서구 화운로 93 (화정2동 657-37)  <span class="copy"> Copyrightⓒ by www.gen.go.kr All rights Reserved</span>
+		</p>
+	</div>
+</div>
+</body>
+</html>

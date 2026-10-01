@@ -1,0 +1,82 @@
+{
+  "passed": true,
+  "total": 280,
+  "new_rows": 80,
+  "new_scenario_groups": 40,
+  "labels": {
+    "3": 42,
+    "0": 112,
+    "2": 84,
+    "1": 42
+  },
+  "new_modes": {
+    "PLAIN": 46,
+    "HOMOGLYPH": 14,
+    "OFFSCREEN": 6,
+    "TRANSPARENT": 6,
+    "JAMO": 8
+  },
+  "numeric_scenario_groups": 20,
+  "full_evidence_duplicates": 0,
+  "new_repeated_target_count": 16,
+  "cross_group_near_duplicates": 0,
+  "new_label_structure": {
+    "0": {
+      "count": 32,
+      "empty_own": 6,
+      "layouts": {
+        "1": 6,
+        "0": 8,
+        "2": 6,
+        "4": 6,
+        "3": 6
+      },
+      "mean_target_chars": 40.4
+    },
+    "1": {
+      "count": 12,
+      "empty_own": 2,
+      "layouts": {
+        "4": 2,
+        "3": 2,
+        "2": 2,
+        "0": 4,
+        "1": 2
+      },
+      "mean_target_chars": 38.3
+    },
+    "2": {
+      "count": 24,
+      "empty_own": 2,
+      "layouts": {
+        "0": 6,
+        "3": 4,
+        "2": 4,
+        "4": 4,
+        "1": 6
+      },
+      "mean_target_chars": 45.6
+    },
+    "3": {
+      "count": 12,
+      "empty_own": 0,
+      "layouts": {
+        "1": 2,
+        "2": 2,
+        "0": 4,
+        "4": 2,
+        "3": 2
+      },
+      "mean_target_chars": 43.5
+    }
+  },
+  "prior_v2_preserved": true,
+  "independent_evaluation": false,
+  "limitations": [
+    "Pairs are dependent; no row-random split or unweighted claim of 280 independent scenarios.",
+    "Legacy v2 template correlations remain; use group weighting and separately sourced validation.",
+    "All new uncertain examples have own context; uncertainty/length shortcuts still require model ablation.",
+    "Suggested labels and character interpretation need review; browser audit is not production collector validation.",
+    "No model training or generalization improvement has been measured."
+  ]
+}

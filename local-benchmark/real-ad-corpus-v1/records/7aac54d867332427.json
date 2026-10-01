@@ -1,0 +1,40 @@
+{
+  "id": "7aac54d867332427",
+  "source": {
+    "id": "7aac54d867332427",
+    "url": "https://gen.go.kr/child/xboard/board.php?mode=view&number=11&tbnum=6&sCat=0&page=4&keyset=&searchword=",
+    "source_scope": "government_board",
+    "captured_at": "2026-09-28T23:03:02.438081+00:00",
+    "rights_status": "unverified_third_party_content",
+    "human_reviewed": false,
+    "raw_file": "raw/7aac54d867332427.html",
+    "byte_file": "raw/7aac54d867332427.bin",
+    "response_sha256": "6c13713af806fc9437192a8ec0877035fdb921513f2a92bd45d52b677556594c",
+    "decoded_sha256": "6c13713af806fc9437192a8ec0877035fdb921513f2a92bd45d52b677556594c",
+    "encoding": "utf-8",
+    "status": "captured",
+    "page_title": "이용안내 - 배너모음 (게시물 내용 보기)"
+  },
+  "title": "학교급식정보센터",
+  "raw_text": "학교급식정보센터",
+  "body_xpath": "/html/body/div[1]/div[3]/div/div[3]/div[1]/table[1]/tbody/tr[5]/td",
+  "title_xpath": "/html/body/div[1]/div[3]/div/div[3]/div[1]/table[1]/tbody/tr[1]/td",
+  "source_kind": "real_web_post",
+  "extraction": "static_HTML_lxml_itertext",
+  "comments_status": "not_extracted_or_labeled",
+  "technique_observed": null,
+  "body_sha256": "c0ce9722a0f3cf10544f69fec2d29916f1c83c645a40e71062b01cdc131fd023",
+  "label": null,
+  "human_reviewed": false,
+  "outgoing_links": [
+    {
+      "text": "",
+      "href": "#none;"
+    },
+    {
+      "text": "",
+      "href": "#none;"
+    }
+  ],
+  "notes": "No CSS technique claim from static text; listed neighbours are excluded from owned context."
+}

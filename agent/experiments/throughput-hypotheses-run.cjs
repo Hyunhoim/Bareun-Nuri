@@ -1,0 +1,31 @@
+// Shared-account controlled comparison; experiment only, no production scheduling changes.
+const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict'),crypto=require('node:crypto');
+const {setTimeout:delay}=require('node:timers/promises');
+const {createSession,estimateRequestTokens}=require('../src/core/llm.cjs'),{contract}=require('../src/core/judgment.cjs');
+const wire=require('./throughput-wire.cjs'),{configuration}=require('./replica-intent-run.cjs'),{estimate}=require('./semantic-search-run.cjs');
+const sha=x=>crypto.createHash('sha256').update(x).digest('hex');
+async function main(){
+ const root='.runtime/throughput-hypotheses-v1';assert(!fs.existsSync(root),'Use fresh output');fs.mkdirSync(root);const save=(n,v)=>fs.writeFileSync(path.join(root,n+'.json'),JSON.stringify(v,null,2));
+ const gs=require('./scoped-input-run.cjs').groups();save('inputs',gs);const specs={A:{batch:4,parallel:1,tpm:52000},P:{batch:4,parallel:2,tpm:52000},Q:{batch:4,parallel:1,tpm:58000},W:{batch:4,parallel:1,tpm:52000},B:{batch:8,parallel:1,tpm:52000}};
+ const order=['A','P','Q','W','B','B','W','Q','P','A'],plans={};const {config:base}=configuration();
+ const config={...base,maxTokens:512,maxCalls:400,timeoutMs:180000,minIntervalMs:1000,tokensPerMinute:52000,retryRateLimit:false,retryTransientTransport:false};
+ let expected=0,reserved=0;for(const [mode,spec]of Object.entries(specs)){plans[mode]=[];for(const g of gs)for(let i=0;i<g.snapshot.candidates.length;i+=spec.batch){const candidates=g.snapshot.candidates.slice(i,i+spec.batch),input=mode==='W'?wire.encode(candidates).candidates:candidates,e=await estimate(input,config,contract());assert(e.tokens<=spec.tpm);plans[mode].push({group:g.name,candidates,expected_body:e.body});reserved+=e.tokens*2;expected+=2;}}
+ assert(expected<=400&&reserved<=1200000);const files=[__filename,require.resolve('./throughput-wire.cjs'),require.resolve('./scoped-input-run.cjs'),require.resolve('../src/core/llm.cjs'),require.resolve('../src/core/judgment.cjs'),require.resolve('../src/core/jamo-reading.cjs'),require.resolve('../src/core/json-envelope.cjs'),'docs/throughput-hypotheses-plan.md',root+'/inputs.json'];
+ const hashes=Object.fromEntries(files.map(f=>[f,sha(fs.readFileSync(f))]));fs.mkdirSync(root+'/source');for(const f of files)fs.copyFileSync(f,root+'/source/'+path.basename(f));
+ const safe={...config};delete safe.apiKey;save('manifest',{hashes,specs,order,settings:safe,expected_calls:expected,reserved_tokens:reserved,live:process.argv.includes('--live')});console.log(JSON.stringify({expected,reserved}));if(!process.argv.includes('--live'))return;
+ const ctl=new AbortController(),timer=setTimeout(()=>ctl.abort(Error('one_hour_protection')),3600000);let actual=0,sent=0,budget=0,error=null,limitsVerified=false;const results=[];
+ try{for(let index=0;index<order.length;index++){
+  const mode=order[index],spec=specs[mode],name=String(index).padStart(2,'0')+'-'+mode,dir=root+'/'+name;fs.mkdirSync(dir);
+  console.log(JSON.stringify({condition:name,phase:'quota_washout',seconds:61}));await delay(61000,undefined,{signal:ctl.signal});
+  for(const[f,h]of Object.entries(hashes))assert.equal(sha(fs.readFileSync(f)),h,'Frozen source changed');if(mode==='Q')assert(limitsVerified,'No current 60k/60RPM header confirmation');
+  const start=performance.now(),deadlineAt=Date.now()+600000,local=new AbortController(),timeout=setTimeout(()=>local.abort(Error('condition_deadline')),600000),signal=AbortSignal.any([ctl.signal,local.signal]);
+  let cursor=0,halt=null;const records=[],lifecycle=[];
+  const log=e=>{if(e.event==='llm_request'){if(halt)throw Error('condition_halted_before_send');assert.deepEqual(e.body,plans[mode][e.call_number-1].expected_body,'Unexpected request mutation');actual++;budget+=estimateRequestTokens(e.body);assert(actual<=400&&budget<=1200000,'Shared experiment protection');}fs.appendFileSync(dir+'/trace.jsonl',JSON.stringify({...e,at:new Date().toISOString()})+'\n');};
+  const session=(mode==='W'?wire.createSession:createSession)({...config,tokensPerMinute:spec.tpm},{contract:contract(),signal,deadlineAt,log,onRequestState:e=>{if(e.phase==='sent')sent++;lifecycle.push(e);fs.writeFileSync(dir+'/lifecycle.json',JSON.stringify(lifecycle));}});
+  async function worker(){while(cursor<plans[mode].length&&!halt){const ordinal=cursor++,p=plans[mode][ordinal];try{const ds=await session.decide(p.candidates),by=new Map(ds.map(d=>[d.node_id,d]));assert.equal(by.size,p.candidates.length);assert(p.candidates.every(c=>by.has(c.node_id)));records.push({ordinal,group:p.group,decisions:p.candidates.map(c=>by.get(c.node_id))});fs.writeFileSync(dir+'/decisions.json',JSON.stringify(records,null,2));console.log(JSON.stringify({condition:name,committed:records.length,total:plans[mode].length}));}catch(e){halt=String(e.message).replaceAll(config.apiKey,'[REDACTED]');}}}
+  try{await Promise.all(Array.from({length:spec.parallel},()=>worker()));}finally{clearTimeout(timeout);fs.writeFileSync(dir+'/calls.json',JSON.stringify(session.calls,null,2));}
+  if(mode==='A')limitsVerified=session.calls.filter(c=>c.http_status===200).length>0&&session.calls.every(c=>Number(c.rate_limit?.['x-ratelimit-limit-tokens'])>=60000&&Number(c.rate_limit?.['x-ratelimit-limit-requests'])>=60);
+  const result={condition:name,mode,status:halt?'failed':'completed',error:halt,wall_sec:(performance.now()-start)/1000,calls:session.calls.length,tokens:session.calls.reduce((n,c)=>n+(c.usage?.total_tokens||0),0),service_sec:session.calls.reduce((n,c)=>n+(c.service_sec||0),0),queue_sec:session.calls.reduce((n,c)=>n+(c.queue_wait_sec||0),0),limits_verified:limitsVerified};fs.writeFileSync(dir+'/completion.json',JSON.stringify(result,null,2));results.push(result);save('results',results);console.log(JSON.stringify(result));if(halt)throw Error(halt);
+ }}catch(e){error=String(e.message).replaceAll(config.apiKey,'[REDACTED]');}finally{clearTimeout(timer);save('completion',{status:error?'failed':'completed',error,sent_requests:sent,request_log_attempts:actual,reserved_tokens:budget,conditions:results.length,no_automatic_retry:true});}if(error)process.exitCode=1;
+}
+if(require.main===module)main().catch(e=>{console.error(e.message);process.exitCode=1;});

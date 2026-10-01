@@ -1,0 +1,222 @@
+[
+  {
+    "node_id": "n_fe8e1757e80d0ef2",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 일반정보 · 대상 원문: 자료 받기",
+    "publication_act": "일반정보",
+    "raw_ad_verdict": "benign",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_5843c890ef3226fa",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 이용권유 · 대상 원문: 이용 창구",
+    "publication_act": "이용권유",
+    "raw_ad_verdict": "violation",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_eb78aa70b8cc3b80",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 이용권유 · 대상 원문: 유료 회원 등록",
+    "publication_act": "이용권유",
+    "raw_ad_verdict": "violation",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_4f9fc226b928cd08",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 이용권유 · 대상 원문: 참가 신청",
+    "publication_act": "이용권유",
+    "raw_ad_verdict": "violation",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_1dffaa9019585cb9",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 일반정보 · 대상 원문: 구매 신청",
+    "publication_act": "일반정보",
+    "raw_ad_verdict": "benign",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_366a6844bf18bfb9",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 일반정보 · 대상 원문: 문의 남기기",
+    "publication_act": "일반정보",
+    "raw_ad_verdict": "benign",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_c34fa705c0a717d6",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 인용보도 · 대상 원문: 유료 회원 등록",
+    "publication_act": "인용보도",
+    "raw_ad_verdict": "benign",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_a08be8373ebd6859",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": true,
+    "reason": "모델이 선택한 게시행위: 판단불가 · 대상 원문: 가입 창구",
+    "publication_act": "판단불가",
+    "raw_ad_verdict": "uncertain",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_99eaa6c68865c423",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 일반정보 · 대상 원문: 안내 확인",
+    "publication_act": "일반정보",
+    "raw_ad_verdict": "benign",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_637ac12aca485591",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 일반정보 · 대상 원문: 이용 창구",
+    "publication_act": "일반정보",
+    "raw_ad_verdict": "benign",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_1f8bbd8f4a36240d",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 일반정보 · 대상 원문: 전용 안내",
+    "publication_act": "일반정보",
+    "raw_ad_verdict": "benign",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_ce14bddbc96ff2ca",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 인용보도 · 대상 원문: 계좌 안내",
+    "publication_act": "인용보도",
+    "raw_ad_verdict": "benign",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_cbfb9831e00fb1e3",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 이용권유 · 대상 원문: 구매 신청",
+    "publication_act": "이용권유",
+    "raw_ad_verdict": "violation",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_8f74a4887794abd8",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 인용보도 · 대상 원문: 자료 주문",
+    "publication_act": "인용보도",
+    "raw_ad_verdict": "benign",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_007c2581bd6b8b4e",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 이용권유 · 대상 원문: 문의 남기기",
+    "publication_act": "이용권유",
+    "raw_ad_verdict": "violation",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_0c050c2c45cca8b3",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 인용보도 · 대상 원문: 참가 신청",
+    "publication_act": "인용보도",
+    "raw_ad_verdict": "benign",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_3c3783ca479e29f7",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 이용권유 · 대상 원문: 자료 주문",
+    "publication_act": "이용권유",
+    "raw_ad_verdict": "violation",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_5c3dcbcbe74d5922",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": true,
+    "reason": "모델이 선택한 게시행위: 판단불가 · 대상 원문: 별도 상담",
+    "publication_act": "판단불가",
+    "raw_ad_verdict": "uncertain",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_2f517c9b32a6adad",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 이용권유 · 대상 원문: 안내 확인",
+    "publication_act": "이용권유",
+    "raw_ad_verdict": "violation",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_880bd907a3de0313",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 이용권유 · 대상 원문: 계좌 안내",
+    "publication_act": "이용권유",
+    "raw_ad_verdict": "violation",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  }
+]

@@ -1,0 +1,3676 @@
+{
+  "checks": [
+    {
+      "id": "r948a4672de9a95a9a7",
+      "panel": "identifier-control",
+      "technique": null,
+      "variant": 0,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [],
+      "actual": [],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "p#r948a4672de9a95a9a7",
+          "start": 0,
+          "end": 27
+        }
+      ]
+    },
+    {
+      "id": "r692d230282b521cbda",
+      "panel": "primary",
+      "technique": "OFFSCREEN",
+      "variant": 1,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "OFFSCREEN"
+      ],
+      "actual": [
+        "OFFSCREEN"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(1)",
+          "start": 0,
+          "end": 3
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(2)",
+          "start": 4,
+          "end": 6
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(3)",
+          "start": 7,
+          "end": 9
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(4)",
+          "start": 10,
+          "end": 12
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(5)",
+          "start": 13,
+          "end": 15
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(6)",
+          "start": 16,
+          "end": 18
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(7)",
+          "start": 19,
+          "end": 22
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(8)",
+          "start": 23,
+          "end": 28
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(9)",
+          "start": 29,
+          "end": 31
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(10)",
+          "start": 32,
+          "end": 35
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(11)",
+          "start": 36,
+          "end": 40
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(12)",
+          "start": 41,
+          "end": 43
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(13)",
+          "start": 44,
+          "end": 47
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(14)",
+          "start": 48,
+          "end": 50
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(15)",
+          "start": 51,
+          "end": 55
+        }
+      ]
+    },
+    {
+      "id": "r4fe75213ef9631475e",
+      "panel": "primary",
+      "technique": "OFFSCREEN",
+      "variant": 0,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "OFFSCREEN"
+      ],
+      "actual": [
+        "OFFSCREEN"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "a#r4fe75213ef9631475e",
+          "start": 0,
+          "end": 11
+        }
+      ]
+    },
+    {
+      "id": "rc4c67aceb82cf6ca3a",
+      "panel": "primary",
+      "technique": "JAMO",
+      "variant": 0,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "JAMO"
+      ],
+      "actual": [
+        "JAMO"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "strong#rc4c67aceb82cf6ca3a",
+          "start": 0,
+          "end": 43
+        }
+      ]
+    },
+    {
+      "id": "r60973d9ed833528f92",
+      "panel": "primary",
+      "technique": "TRANSPARENT",
+      "variant": 0,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "TRANSPARENT"
+      ],
+      "actual": [
+        "TRANSPARENT"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "strong#r60973d9ed833528f92",
+          "start": 0,
+          "end": 18
+        }
+      ]
+    },
+    {
+      "id": "ra3c7791940f925aa55",
+      "panel": "primary",
+      "technique": "JAMO",
+      "variant": 2,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "JAMO"
+      ],
+      "actual": [
+        "JAMO"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "a#ra3c7791940f925aa55",
+          "start": 0,
+          "end": 26
+        }
+      ]
+    },
+    {
+      "id": "r5bb2d729723562b964",
+      "panel": "primary",
+      "technique": "TRANSPARENT",
+      "variant": 1,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "TRANSPARENT"
+      ],
+      "actual": [
+        "TRANSPARENT"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(1)",
+          "start": 0,
+          "end": 6
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(2)",
+          "start": 7,
+          "end": 9
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(3)",
+          "start": 10,
+          "end": 15
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(4)",
+          "start": 16,
+          "end": 17
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(5)",
+          "start": 18,
+          "end": 21
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(6)",
+          "start": 22,
+          "end": 27
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(7)",
+          "start": 28,
+          "end": 30
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(8)",
+          "start": 31,
+          "end": 33
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(9)",
+          "start": 34,
+          "end": 37
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(10)",
+          "start": 38,
+          "end": 42
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(11)",
+          "start": 43,
+          "end": 45
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(12)",
+          "start": 46,
+          "end": 48
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(13)",
+          "start": 49,
+          "end": 55
+        }
+      ]
+    },
+    {
+      "id": "rb9c5d7ed5372f61e0f",
+      "panel": "primary",
+      "technique": "HOMOGLYPH",
+      "variant": 0,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "HOMOGLYPH"
+      ],
+      "actual": [
+        "HOMOGLYPH"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "h3#rb9c5d7ed5372f61e0f",
+          "start": 0,
+          "end": 31
+        }
+      ]
+    },
+    {
+      "id": "r0c738178efd1570116",
+      "panel": "primary",
+      "technique": "JAMO",
+      "variant": 0,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "JAMO"
+      ],
+      "actual": [
+        "JAMO"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "a#r0c738178efd1570116",
+          "start": 0,
+          "end": 19
+        }
+      ]
+    },
+    {
+      "id": "rc13dd18784213aeabd",
+      "panel": "primary",
+      "technique": "OFFSCREEN",
+      "variant": 0,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "OFFSCREEN"
+      ],
+      "actual": [
+        "OFFSCREEN"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "h3#rc13dd18784213aeabd",
+          "start": 0,
+          "end": 29
+        }
+      ]
+    },
+    {
+      "id": "r96a63c7a4208e05b09",
+      "panel": "primary",
+      "technique": "JAMO",
+      "variant": 1,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "JAMO"
+      ],
+      "actual": [
+        "JAMO"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(1)",
+          "start": 0,
+          "end": 5
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(2)",
+          "start": 6,
+          "end": 7
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(3)",
+          "start": 8,
+          "end": 9
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(4)",
+          "start": 10,
+          "end": 11
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(5)",
+          "start": 12,
+          "end": 13
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(6)",
+          "start": 14,
+          "end": 15
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(7)",
+          "start": 16,
+          "end": 17
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(9)",
+          "start": 19,
+          "end": 20
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(10)",
+          "start": 21,
+          "end": 22
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(11)",
+          "start": 23,
+          "end": 24
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(12)",
+          "start": 25,
+          "end": 26
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(13)",
+          "start": 27,
+          "end": 28
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(14)",
+          "start": 29,
+          "end": 30
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(16)",
+          "start": 32,
+          "end": 33
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(17)",
+          "start": 34,
+          "end": 35
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(18)",
+          "start": 36,
+          "end": 37
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(19)",
+          "start": 38,
+          "end": 39
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(21)",
+          "start": 41,
+          "end": 42
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(22)",
+          "start": 43,
+          "end": 44
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(23)",
+          "start": 45,
+          "end": 46
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(24)",
+          "start": 47,
+          "end": 48
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(25)",
+          "start": 49,
+          "end": 50
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(26)",
+          "start": 51,
+          "end": 52
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(27)",
+          "start": 53,
+          "end": 54
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(28)",
+          "start": 55,
+          "end": 56
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(30)",
+          "start": 58,
+          "end": 59
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(31)",
+          "start": 60,
+          "end": 61
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(32)",
+          "start": 62,
+          "end": 63
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(33)",
+          "start": 64,
+          "end": 65
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(34)",
+          "start": 66,
+          "end": 67
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(35)",
+          "start": 68,
+          "end": 69
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(36)",
+          "start": 70,
+          "end": 71
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(37)",
+          "start": 72,
+          "end": 73
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(38)",
+          "start": 74,
+          "end": 75
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(39)",
+          "start": 76,
+          "end": 77
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(41)",
+          "start": 79,
+          "end": 80
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(42)",
+          "start": 81,
+          "end": 82
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(43)",
+          "start": 83,
+          "end": 84
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(44)",
+          "start": 85,
+          "end": 86
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(45)",
+          "start": 87,
+          "end": 88
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(46)",
+          "start": 89,
+          "end": 90
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(47)",
+          "start": 91,
+          "end": 92
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(48)",
+          "start": 93,
+          "end": 94
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(50)",
+          "start": 96,
+          "end": 97
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(51)",
+          "start": 98,
+          "end": 99
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(52)",
+          "start": 100,
+          "end": 101
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(53)",
+          "start": 102,
+          "end": 103
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(54)",
+          "start": 104,
+          "end": 105
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(55)",
+          "start": 106,
+          "end": 107
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(57)",
+          "start": 109,
+          "end": 110
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(58)",
+          "start": 111,
+          "end": 112
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(59)",
+          "start": 113,
+          "end": 114
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(60)",
+          "start": 115,
+          "end": 116
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(61)",
+          "start": 117,
+          "end": 118
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(62)",
+          "start": 119,
+          "end": 120
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(63)",
+          "start": 121,
+          "end": 122
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(64)",
+          "start": 123,
+          "end": 124
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(65)",
+          "start": 125,
+          "end": 126
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(66)",
+          "start": 127,
+          "end": 128
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(67)",
+          "start": 129,
+          "end": 130
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(68)",
+          "start": 131,
+          "end": 132
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(69)",
+          "start": 133,
+          "end": 134
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(70)",
+          "start": 135,
+          "end": 136
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(71)",
+          "start": 137,
+          "end": 138
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(72)",
+          "start": 139,
+          "end": 140
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(73)",
+          "start": 141,
+          "end": 142
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(75)",
+          "start": 144,
+          "end": 145
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(76)",
+          "start": 146,
+          "end": 147
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(77)",
+          "start": 148,
+          "end": 149
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(78)",
+          "start": 150,
+          "end": 151
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(79)",
+          "start": 152,
+          "end": 153
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(80)",
+          "start": 154,
+          "end": 155
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(82)",
+          "start": 157,
+          "end": 158
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(83)",
+          "start": 159,
+          "end": 160
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(84)",
+          "start": 161,
+          "end": 162
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(85)",
+          "start": 163,
+          "end": 164
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(86)",
+          "start": 165,
+          "end": 166
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(87)",
+          "start": 167,
+          "end": 168
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(89)",
+          "start": 170,
+          "end": 171
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(90)",
+          "start": 172,
+          "end": 173
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(91)",
+          "start": 174,
+          "end": 175
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(92)",
+          "start": 176,
+          "end": 177
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(93)",
+          "start": 178,
+          "end": 179
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(94)",
+          "start": 180,
+          "end": 181
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(95)",
+          "start": 182,
+          "end": 183
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(97)",
+          "start": 185,
+          "end": 186
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(98)",
+          "start": 187,
+          "end": 188
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(99)",
+          "start": 189,
+          "end": 190
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(100)",
+          "start": 191,
+          "end": 192
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(101)",
+          "start": 193,
+          "end": 194
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(102)",
+          "start": 195,
+          "end": 196
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(103)",
+          "start": 197,
+          "end": 198
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(104)",
+          "start": 199,
+          "end": 200
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(105)",
+          "start": 201,
+          "end": 202
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(107)",
+          "start": 204,
+          "end": 205
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(108)",
+          "start": 206,
+          "end": 207
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(109)",
+          "start": 208,
+          "end": 209
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(110)",
+          "start": 210,
+          "end": 211
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(111)",
+          "start": 212,
+          "end": 213
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(112)",
+          "start": 214,
+          "end": 215
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(113)",
+          "start": 216,
+          "end": 217
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(114)",
+          "start": 218,
+          "end": 219
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(115)",
+          "start": 220,
+          "end": 221
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(116)",
+          "start": 222,
+          "end": 223
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(117)",
+          "start": 224,
+          "end": 225
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(2) > p:nth-child(1) > span:nth-child(118)",
+          "start": 226,
+          "end": 227
+        }
+      ]
+    },
+    {
+      "id": "r42f2c841a085af57eb",
+      "panel": "primary",
+      "technique": "HOMOGLYPH",
+      "variant": 1,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "HOMOGLYPH"
+      ],
+      "actual": [
+        "HOMOGLYPH"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(1)",
+          "start": 0,
+          "end": 5
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(2)",
+          "start": 6,
+          "end": 9
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(3)",
+          "start": 10,
+          "end": 12
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(4)",
+          "start": 13,
+          "end": 15
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(5)",
+          "start": 16,
+          "end": 19
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(6)",
+          "start": 20,
+          "end": 22
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(7)",
+          "start": 23,
+          "end": 26
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(8)",
+          "start": 27,
+          "end": 33
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(9)",
+          "start": 34,
+          "end": 36
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(10)",
+          "start": 37,
+          "end": 39
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(11)",
+          "start": 40,
+          "end": 43
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(12)",
+          "start": 44,
+          "end": 47
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(13)",
+          "start": 48,
+          "end": 50
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(14)",
+          "start": 51,
+          "end": 55
+        }
+      ]
+    },
+    {
+      "id": "ra752784116a7ba9804",
+      "panel": "primary",
+      "technique": "JAMO",
+      "variant": 0,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "JAMO"
+      ],
+      "actual": [
+        "JAMO"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "p#ra752784116a7ba9804",
+          "start": 0,
+          "end": 113
+        }
+      ]
+    },
+    {
+      "id": "r429dba475af322fb45",
+      "panel": "primary",
+      "technique": "JAMO",
+      "variant": 2,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "JAMO"
+      ],
+      "actual": [
+        "JAMO"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "p#r429dba475af322fb45",
+          "start": 0,
+          "end": 159
+        }
+      ]
+    },
+    {
+      "id": "r2aa695719f757d26da",
+      "panel": "primary",
+      "technique": "OFFSCREEN",
+      "variant": 1,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "OFFSCREEN"
+      ],
+      "actual": [
+        "OFFSCREEN"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(1)",
+          "start": 0,
+          "end": 5
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(2)",
+          "start": 6,
+          "end": 9
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(3)",
+          "start": 10,
+          "end": 12
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(4)",
+          "start": 13,
+          "end": 15
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(5)",
+          "start": 16,
+          "end": 19
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(6)",
+          "start": 20,
+          "end": 22
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(7)",
+          "start": 23,
+          "end": 26
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(8)",
+          "start": 27,
+          "end": 33
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(9)",
+          "start": 34,
+          "end": 36
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(10)",
+          "start": 37,
+          "end": 40
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(11)",
+          "start": 41,
+          "end": 44
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(12)",
+          "start": 45,
+          "end": 47
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(13)",
+          "start": 48,
+          "end": 51
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(14)",
+          "start": 52,
+          "end": 57
+        }
+      ]
+    },
+    {
+      "id": "ra7a595791a4f72e867",
+      "panel": "primary",
+      "technique": "TRANSPARENT",
+      "variant": 1,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "TRANSPARENT"
+      ],
+      "actual": [
+        "TRANSPARENT"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(7) > section:nth-child(1) > p:nth-child(2) > span:nth-child(1)",
+          "start": 0,
+          "end": 5
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(7) > section:nth-child(1) > p:nth-child(2) > span:nth-child(2)",
+          "start": 6,
+          "end": 8
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(7) > section:nth-child(1) > p:nth-child(2) > span:nth-child(3)",
+          "start": 9,
+          "end": 11
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(7) > section:nth-child(1) > p:nth-child(2) > span:nth-child(4)",
+          "start": 12,
+          "end": 14
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(7) > section:nth-child(1) > p:nth-child(2) > span:nth-child(5)",
+          "start": 15,
+          "end": 17
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(7) > section:nth-child(1) > p:nth-child(2) > span:nth-child(6)",
+          "start": 18,
+          "end": 21
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(7) > section:nth-child(1) > p:nth-child(2) > span:nth-child(7)",
+          "start": 22,
+          "end": 24
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(7) > section:nth-child(1) > p:nth-child(2) > span:nth-child(8)",
+          "start": 25,
+          "end": 28
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(7) > section:nth-child(1) > p:nth-child(2) > span:nth-child(9)",
+          "start": 29,
+          "end": 31
+        }
+      ]
+    },
+    {
+      "id": "rf67b2facbe578bfb08",
+      "panel": "primary",
+      "technique": "TRANSPARENT",
+      "variant": 0,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "TRANSPARENT"
+      ],
+      "actual": [
+        "TRANSPARENT"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "h3#rf67b2facbe578bfb08",
+          "start": 0,
+          "end": 34
+        }
+      ]
+    },
+    {
+      "id": "r96cb02ffb05be8be28",
+      "panel": "identifier-control",
+      "technique": null,
+      "variant": 0,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [],
+      "actual": [],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 5,
+          "end": 8,
+          "text": "B2C"
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "p#r96cb02ffb05be8be28",
+          "start": 0,
+          "end": 26
+        }
+      ]
+    },
+    {
+      "id": "r0e6153d9b5fee5ae52",
+      "panel": "primary",
+      "technique": "OFFSCREEN",
+      "variant": 0,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "OFFSCREEN"
+      ],
+      "actual": [
+        "OFFSCREEN"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "p#r0e6153d9b5fee5ae52",
+          "start": 0,
+          "end": 50
+        }
+      ]
+    },
+    {
+      "id": "rbe2ac8bf235cb79878",
+      "panel": "primary",
+      "technique": "HOMOGLYPH",
+      "variant": 1,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "HOMOGLYPH"
+      ],
+      "actual": [
+        "HOMOGLYPH"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(1)",
+          "start": 0,
+          "end": 3
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(2)",
+          "start": 4,
+          "end": 6
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(3)",
+          "start": 7,
+          "end": 10
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(4)",
+          "start": 11,
+          "end": 13
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(5)",
+          "start": 14,
+          "end": 16
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(6)",
+          "start": 17,
+          "end": 20
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(7)",
+          "start": 21,
+          "end": 28
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(8)",
+          "start": 29,
+          "end": 32
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(9)",
+          "start": 33,
+          "end": 36
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(10)",
+          "start": 37,
+          "end": 40
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(11)",
+          "start": 41,
+          "end": 45
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(12)",
+          "start": 46,
+          "end": 52
+        }
+      ]
+    },
+    {
+      "id": "r7307178d2ff4982626",
+      "panel": "primary",
+      "technique": "HOMOGLYPH",
+      "variant": 0,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "HOMOGLYPH"
+      ],
+      "actual": [
+        "HOMOGLYPH"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "a#r7307178d2ff4982626",
+          "start": 0,
+          "end": 10
+        }
+      ]
+    },
+    {
+      "id": "r43e1b78b6a5864425e",
+      "panel": "primary",
+      "technique": "HOMOGLYPH",
+      "variant": 2,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "HOMOGLYPH"
+      ],
+      "actual": [],
+      "technique_match": false,
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 0,
+          "end": 6,
+          "text": "N0T1C3"
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "p#r43e1b78b6a5864425e",
+          "start": 0,
+          "end": 45
+        }
+      ]
+    },
+    {
+      "id": "rc5ae684421c617948d",
+      "panel": "primary",
+      "technique": "HOMOGLYPH",
+      "variant": 0,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "HOMOGLYPH"
+      ],
+      "actual": [
+        "HOMOGLYPH"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "p#rc5ae684421c617948d",
+          "start": 0,
+          "end": 55
+        }
+      ]
+    },
+    {
+      "id": "r9a71ed4839d7502b6f",
+      "panel": "primary",
+      "technique": "OFFSCREEN",
+      "variant": 2,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "OFFSCREEN"
+      ],
+      "actual": [
+        "OFFSCREEN"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "a#r9a71ed4839d7502b6f",
+          "start": 0,
+          "end": 10
+        }
+      ]
+    },
+    {
+      "id": "rd8eeaa4da3a9cc50b6",
+      "panel": "primary",
+      "technique": "HOMOGLYPH",
+      "variant": 0,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "HOMOGLYPH"
+      ],
+      "actual": [
+        "HOMOGLYPH"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "strong#rd8eeaa4da3a9cc50b6",
+          "start": 0,
+          "end": 14
+        }
+      ]
+    },
+    {
+      "id": "ra03f5af987b4ad3849",
+      "panel": "primary",
+      "technique": "OFFSCREEN",
+      "variant": 2,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "OFFSCREEN"
+      ],
+      "actual": [
+        "OFFSCREEN"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "p#ra03f5af987b4ad3849",
+          "start": 0,
+          "end": 48
+        }
+      ]
+    },
+    {
+      "id": "r5b7dc046d6906eb552",
+      "panel": "primary",
+      "technique": "OFFSCREEN",
+      "variant": 2,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "OFFSCREEN"
+      ],
+      "actual": [
+        "OFFSCREEN"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "p#r5b7dc046d6906eb552",
+          "start": 0,
+          "end": 40
+        }
+      ]
+    },
+    {
+      "id": "r9810ebf841eccb0f4d",
+      "panel": "primary",
+      "technique": "TRANSPARENT",
+      "variant": 2,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "TRANSPARENT"
+      ],
+      "actual": [
+        "TRANSPARENT"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "p#r9810ebf841eccb0f4d",
+          "start": 0,
+          "end": 40
+        }
+      ]
+    },
+    {
+      "id": "r5a8b5da72d07fd1529",
+      "panel": "primary",
+      "technique": "TRANSPARENT",
+      "variant": 1,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "TRANSPARENT"
+      ],
+      "actual": [
+        "TRANSPARENT"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(2) > p:nth-child(1) > span:nth-child(1)",
+          "start": 0,
+          "end": 3
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(2) > p:nth-child(1) > span:nth-child(2)",
+          "start": 4,
+          "end": 6
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(2) > p:nth-child(1) > span:nth-child(3)",
+          "start": 7,
+          "end": 9
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(2) > p:nth-child(1) > span:nth-child(4)",
+          "start": 10,
+          "end": 12
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(2) > p:nth-child(1) > span:nth-child(5)",
+          "start": 13,
+          "end": 15
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(2) > p:nth-child(1) > span:nth-child(6)",
+          "start": 16,
+          "end": 21
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(2) > p:nth-child(1) > span:nth-child(7)",
+          "start": 22,
+          "end": 24
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(2) > p:nth-child(1) > span:nth-child(8)",
+          "start": 25,
+          "end": 29
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(2) > p:nth-child(1) > span:nth-child(9)",
+          "start": 30,
+          "end": 33
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(2) > p:nth-child(1) > span:nth-child(10)",
+          "start": 34,
+          "end": 36
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(2) > p:nth-child(1) > span:nth-child(11)",
+          "start": 37,
+          "end": 41
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(2) > p:nth-child(1) > span:nth-child(12)",
+          "start": 42,
+          "end": 46
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(2) > p:nth-child(1) > span:nth-child(13)",
+          "start": 47,
+          "end": 53
+        }
+      ]
+    },
+    {
+      "id": "r93c2b31046c4f7fef5",
+      "panel": "identifier-control",
+      "technique": null,
+      "variant": 0,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [],
+      "actual": [],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "p#r93c2b31046c4f7fef5",
+          "start": 0,
+          "end": 28
+        }
+      ]
+    },
+    {
+      "id": "rbd442144fe7e1a2f69",
+      "panel": "primary",
+      "technique": "OFFSCREEN",
+      "variant": 1,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "OFFSCREEN"
+      ],
+      "actual": [
+        "OFFSCREEN"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(1) > p:nth-child(2) > span:nth-child(1)",
+          "start": 0,
+          "end": 6
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(1) > p:nth-child(2) > span:nth-child(2)",
+          "start": 7,
+          "end": 9
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(1) > p:nth-child(2) > span:nth-child(3)",
+          "start": 10,
+          "end": 12
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(1) > p:nth-child(2) > span:nth-child(4)",
+          "start": 13,
+          "end": 15
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(1) > p:nth-child(2) > span:nth-child(5)",
+          "start": 16,
+          "end": 18
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(1) > p:nth-child(2) > span:nth-child(6)",
+          "start": 19,
+          "end": 21
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(1) > p:nth-child(2) > span:nth-child(7)",
+          "start": 22,
+          "end": 25
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(1) > p:nth-child(2) > span:nth-child(8)",
+          "start": 26,
+          "end": 28
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(1) > p:nth-child(2) > span:nth-child(9)",
+          "start": 29,
+          "end": 31
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(4) > section:nth-child(1) > p:nth-child(2) > span:nth-child(10)",
+          "start": 32,
+          "end": 34
+        }
+      ]
+    },
+    {
+      "id": "rdd1330ae998bf85b2c",
+      "panel": "primary",
+      "technique": "JAMO",
+      "variant": 2,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "JAMO"
+      ],
+      "actual": [
+        "JAMO"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "p#rdd1330ae998bf85b2c",
+          "start": 0,
+          "end": 154
+        }
+      ]
+    },
+    {
+      "id": "r990a4d4028852609c8",
+      "panel": "primary",
+      "technique": "HOMOGLYPH",
+      "variant": 2,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "HOMOGLYPH"
+      ],
+      "actual": [],
+      "technique_match": false,
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 0,
+          "end": 7,
+          "text": "C0NT4CT"
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "a#r990a4d4028852609c8",
+          "start": 0,
+          "end": 18
+        }
+      ]
+    },
+    {
+      "id": "rd72fb1d83864cd5659",
+      "panel": "primary",
+      "technique": "OFFSCREEN",
+      "variant": 0,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "OFFSCREEN"
+      ],
+      "actual": [
+        "OFFSCREEN"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "strong#rd72fb1d83864cd5659",
+          "start": 0,
+          "end": 17
+        }
+      ]
+    },
+    {
+      "id": "r65f52f5d2140dc3f2b",
+      "panel": "primary",
+      "technique": "OFFSCREEN",
+      "variant": 1,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "OFFSCREEN"
+      ],
+      "actual": [
+        "OFFSCREEN"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(3) > section:nth-child(2) > p:nth-child(1) > span:nth-child(1)",
+          "start": 0,
+          "end": 5
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(3) > section:nth-child(2) > p:nth-child(1) > span:nth-child(2)",
+          "start": 6,
+          "end": 8
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(3) > section:nth-child(2) > p:nth-child(1) > span:nth-child(3)",
+          "start": 9,
+          "end": 12
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(3) > section:nth-child(2) > p:nth-child(1) > span:nth-child(4)",
+          "start": 13,
+          "end": 19
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(3) > section:nth-child(2) > p:nth-child(1) > span:nth-child(5)",
+          "start": 20,
+          "end": 22
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(3) > section:nth-child(2) > p:nth-child(1) > span:nth-child(6)",
+          "start": 23,
+          "end": 25
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(3) > section:nth-child(2) > p:nth-child(1) > span:nth-child(7)",
+          "start": 26,
+          "end": 29
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(3) > section:nth-child(2) > p:nth-child(1) > span:nth-child(8)",
+          "start": 30,
+          "end": 32
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(3) > section:nth-child(2) > p:nth-child(1) > span:nth-child(9)",
+          "start": 33,
+          "end": 35
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(3) > section:nth-child(2) > p:nth-child(1) > span:nth-child(10)",
+          "start": 36,
+          "end": 40
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(3) > section:nth-child(2) > p:nth-child(1) > span:nth-child(11)",
+          "start": 41,
+          "end": 44
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(3) > section:nth-child(2) > p:nth-child(1) > span:nth-child(12)",
+          "start": 45,
+          "end": 50
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(3) > section:nth-child(2) > p:nth-child(1) > span:nth-child(13)",
+          "start": 51,
+          "end": 53
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(3) > section:nth-child(2) > p:nth-child(1) > span:nth-child(14)",
+          "start": 54,
+          "end": 59
+        }
+      ]
+    },
+    {
+      "id": "r816bffd98ac5ba1dc8",
+      "panel": "primary",
+      "technique": "HOMOGLYPH",
+      "variant": 1,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "HOMOGLYPH"
+      ],
+      "actual": [
+        "HOMOGLYPH"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > p:nth-child(2) > span:nth-child(1)",
+          "start": 0,
+          "end": 5
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > p:nth-child(2) > span:nth-child(2)",
+          "start": 6,
+          "end": 8
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > p:nth-child(2) > span:nth-child(3)",
+          "start": 9,
+          "end": 11
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > p:nth-child(2) > span:nth-child(4)",
+          "start": 12,
+          "end": 14
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > p:nth-child(2) > span:nth-child(5)",
+          "start": 15,
+          "end": 17
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > p:nth-child(2) > span:nth-child(6)",
+          "start": 18,
+          "end": 20
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > p:nth-child(2) > span:nth-child(7)",
+          "start": 21,
+          "end": 23
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > p:nth-child(2) > span:nth-child(8)",
+          "start": 24,
+          "end": 25
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > p:nth-child(2) > span:nth-child(9)",
+          "start": 26,
+          "end": 28
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > p:nth-child(2) > span:nth-child(10)",
+          "start": 29,
+          "end": 31
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > p:nth-child(2) > span:nth-child(11)",
+          "start": 32,
+          "end": 34
+        }
+      ]
+    },
+    {
+      "id": "rce7a1fafd2a4760a71",
+      "panel": "primary",
+      "technique": "JAMO",
+      "variant": 0,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "JAMO"
+      ],
+      "actual": [
+        "JAMO"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "h3#rce7a1fafd2a4760a71",
+          "start": 0,
+          "end": 67
+        }
+      ]
+    },
+    {
+      "id": "r9edc911a5bf87254ca",
+      "panel": "identifier-control",
+      "technique": null,
+      "variant": 0,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [],
+      "actual": [],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "p#r9edc911a5bf87254ca",
+          "start": 0,
+          "end": 20
+        }
+      ]
+    },
+    {
+      "id": "r9efdb5e0b20be1a757",
+      "panel": "primary",
+      "technique": "TRANSPARENT",
+      "variant": 0,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "TRANSPARENT"
+      ],
+      "actual": [
+        "TRANSPARENT"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "p#r9efdb5e0b20be1a757",
+          "start": 0,
+          "end": 52
+        }
+      ]
+    },
+    {
+      "id": "rd8d16deac4e53fece6",
+      "panel": "primary",
+      "technique": "HOMOGLYPH",
+      "variant": 2,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "HOMOGLYPH"
+      ],
+      "actual": [],
+      "technique_match": false,
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 0,
+          "end": 6,
+          "text": "D3T41L"
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "a#rd8d16deac4e53fece6",
+          "start": 0,
+          "end": 12
+        }
+      ]
+    },
+    {
+      "id": "rdc49ee82c623d63999",
+      "panel": "primary",
+      "technique": "TRANSPARENT",
+      "variant": 2,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "TRANSPARENT"
+      ],
+      "actual": [
+        "TRANSPARENT"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "a#rdc49ee82c623d63999",
+          "start": 0,
+          "end": 11
+        }
+      ]
+    },
+    {
+      "id": "r97ab759fe18af84bce",
+      "panel": "primary",
+      "technique": "HOMOGLYPH",
+      "variant": 2,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "HOMOGLYPH"
+      ],
+      "actual": [],
+      "technique_match": false,
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 0,
+          "end": 6,
+          "text": "PUBL1C"
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "h3#r97ab759fe18af84bce",
+          "start": 0,
+          "end": 48
+        }
+      ]
+    },
+    {
+      "id": "re476162406151fefb3",
+      "panel": "primary",
+      "technique": "HOMOGLYPH",
+      "variant": 1,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "HOMOGLYPH"
+      ],
+      "actual": [
+        "HOMOGLYPH"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(2) > p:nth-child(1) > span:nth-child(1)",
+          "start": 0,
+          "end": 6
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(2) > p:nth-child(1) > span:nth-child(2)",
+          "start": 7,
+          "end": 12
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(2) > p:nth-child(1) > span:nth-child(3)",
+          "start": 13,
+          "end": 15
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(2) > p:nth-child(1) > span:nth-child(4)",
+          "start": 16,
+          "end": 19
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(2) > p:nth-child(1) > span:nth-child(5)",
+          "start": 20,
+          "end": 22
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(2) > p:nth-child(1) > span:nth-child(6)",
+          "start": 23,
+          "end": 25
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(2) > p:nth-child(1) > span:nth-child(7)",
+          "start": 26,
+          "end": 28
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(2) > p:nth-child(1) > span:nth-child(8)",
+          "start": 29,
+          "end": 33
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(2) > p:nth-child(1) > span:nth-child(9)",
+          "start": 34,
+          "end": 37
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(2) > p:nth-child(1) > span:nth-child(10)",
+          "start": 38,
+          "end": 42
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(2) > p:nth-child(1) > span:nth-child(11)",
+          "start": 43,
+          "end": 46
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(2) > p:nth-child(1) > span:nth-child(12)",
+          "start": 47,
+          "end": 49
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(2) > p:nth-child(1) > span:nth-child(13)",
+          "start": 50,
+          "end": 53
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(2) > p:nth-child(1) > span:nth-child(14)",
+          "start": 54,
+          "end": 58
+        }
+      ]
+    },
+    {
+      "id": "r4ddd0b61ebd73441bc",
+      "panel": "primary",
+      "technique": "TRANSPARENT",
+      "variant": 0,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "TRANSPARENT"
+      ],
+      "actual": [
+        "TRANSPARENT"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "a#r4ddd0b61ebd73441bc",
+          "start": 0,
+          "end": 12
+        }
+      ]
+    },
+    {
+      "id": "r8c908b50fd10a21000",
+      "panel": "primary",
+      "technique": "OFFSCREEN",
+      "variant": 2,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "OFFSCREEN"
+      ],
+      "actual": [
+        "OFFSCREEN"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "p#r8c908b50fd10a21000",
+          "start": 0,
+          "end": 16
+        }
+      ]
+    },
+    {
+      "id": "rac78281f15ed39aaff",
+      "panel": "primary",
+      "technique": "TRANSPARENT",
+      "variant": 2,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "TRANSPARENT"
+      ],
+      "actual": [
+        "TRANSPARENT"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "a#rac78281f15ed39aaff",
+          "start": 0,
+          "end": 13
+        }
+      ]
+    },
+    {
+      "id": "re8c27b247b20eb880d",
+      "panel": "primary",
+      "technique": "JAMO",
+      "variant": 1,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "JAMO"
+      ],
+      "actual": [
+        "JAMO"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(1)",
+          "start": 0,
+          "end": 6
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(2)",
+          "start": 7,
+          "end": 12
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(3)",
+          "start": 13,
+          "end": 19
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(4)",
+          "start": 20,
+          "end": 26
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(5)",
+          "start": 27,
+          "end": 36
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(6)",
+          "start": 37,
+          "end": 43
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(7)",
+          "start": 44,
+          "end": 55
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(8)",
+          "start": 56,
+          "end": 61
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(9)",
+          "start": 62,
+          "end": 70
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(10)",
+          "start": 71,
+          "end": 78
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(11)",
+          "start": 79,
+          "end": 84
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(2) > p:nth-child(1) > span:nth-child(12)",
+          "start": 85,
+          "end": 97
+        }
+      ]
+    },
+    {
+      "id": "raf0325b12794cc6eb6",
+      "panel": "primary",
+      "technique": "TRANSPARENT",
+      "variant": 2,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "TRANSPARENT"
+      ],
+      "actual": [
+        "TRANSPARENT"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "h3#raf0325b12794cc6eb6",
+          "start": 0,
+          "end": 43
+        }
+      ]
+    },
+    {
+      "id": "r8040361beb8f44c398",
+      "panel": "primary",
+      "technique": "JAMO",
+      "variant": 1,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "JAMO"
+      ],
+      "actual": [
+        "JAMO"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(1)",
+          "start": 0,
+          "end": 5
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(2)",
+          "start": 6,
+          "end": 7
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(3)",
+          "start": 8,
+          "end": 9
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(4)",
+          "start": 10,
+          "end": 11
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(5)",
+          "start": 12,
+          "end": 13
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(6)",
+          "start": 14,
+          "end": 15
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(8)",
+          "start": 17,
+          "end": 18
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(9)",
+          "start": 19,
+          "end": 20
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(10)",
+          "start": 21,
+          "end": 22
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(11)",
+          "start": 23,
+          "end": 24
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(12)",
+          "start": 25,
+          "end": 26
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(13)",
+          "start": 27,
+          "end": 28
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(14)",
+          "start": 29,
+          "end": 30
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(15)",
+          "start": 31,
+          "end": 32
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(16)",
+          "start": 33,
+          "end": 34
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(18)",
+          "start": 36,
+          "end": 37
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(19)",
+          "start": 38,
+          "end": 39
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(20)",
+          "start": 40,
+          "end": 41
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(21)",
+          "start": 42,
+          "end": 43
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(22)",
+          "start": 44,
+          "end": 45
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(23)",
+          "start": 46,
+          "end": 47
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(25)",
+          "start": 49,
+          "end": 50
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(26)",
+          "start": 51,
+          "end": 52
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(27)",
+          "start": 53,
+          "end": 54
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(28)",
+          "start": 55,
+          "end": 56
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(29)",
+          "start": 57,
+          "end": 58
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(30)",
+          "start": 59,
+          "end": 60
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(32)",
+          "start": 62,
+          "end": 63
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(33)",
+          "start": 64,
+          "end": 65
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(34)",
+          "start": 66,
+          "end": 67
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(35)",
+          "start": 68,
+          "end": 69
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(37)",
+          "start": 71,
+          "end": 72
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(38)",
+          "start": 73,
+          "end": 74
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(39)",
+          "start": 75,
+          "end": 76
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(40)",
+          "start": 77,
+          "end": 78
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(41)",
+          "start": 79,
+          "end": 80
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(42)",
+          "start": 81,
+          "end": 82
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(43)",
+          "start": 83,
+          "end": 84
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(44)",
+          "start": 85,
+          "end": 86
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(45)",
+          "start": 87,
+          "end": 88
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(46)",
+          "start": 89,
+          "end": 90
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(47)",
+          "start": 91,
+          "end": 92
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(49)",
+          "start": 94,
+          "end": 95
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(50)",
+          "start": 96,
+          "end": 97
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(51)",
+          "start": 98,
+          "end": 99
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(52)",
+          "start": 100,
+          "end": 101
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(53)",
+          "start": 102,
+          "end": 103
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(54)",
+          "start": 104,
+          "end": 105
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(55)",
+          "start": 106,
+          "end": 107
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(56)",
+          "start": 108,
+          "end": 109
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(57)",
+          "start": 110,
+          "end": 111
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(58)",
+          "start": 112,
+          "end": 113
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(59)",
+          "start": 114,
+          "end": 115
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(60)",
+          "start": 116,
+          "end": 117
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(61)",
+          "start": 118,
+          "end": 119
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(62)",
+          "start": 120,
+          "end": 121
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(63)",
+          "start": 122,
+          "end": 123
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(64)",
+          "start": 124,
+          "end": 125
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(65)",
+          "start": 126,
+          "end": 127
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(66)",
+          "start": 128,
+          "end": 129
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(68)",
+          "start": 131,
+          "end": 132
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(69)",
+          "start": 133,
+          "end": 134
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(70)",
+          "start": 135,
+          "end": 136
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(71)",
+          "start": 137,
+          "end": 138
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(72)",
+          "start": 139,
+          "end": 140
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(74)",
+          "start": 142,
+          "end": 143
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(75)",
+          "start": 144,
+          "end": 145
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(77)",
+          "start": 147,
+          "end": 148
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(78)",
+          "start": 149,
+          "end": 150
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(79)",
+          "start": 151,
+          "end": 152
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(80)",
+          "start": 153,
+          "end": 154
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(81)",
+          "start": 155,
+          "end": 156
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(82)",
+          "start": 157,
+          "end": 158
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(83)",
+          "start": 159,
+          "end": 160
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(84)",
+          "start": 161,
+          "end": 162
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(85)",
+          "start": 163,
+          "end": 164
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(86)",
+          "start": 165,
+          "end": 166
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(87)",
+          "start": 167,
+          "end": 168
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(88)",
+          "start": 169,
+          "end": 170
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(89)",
+          "start": 171,
+          "end": 172
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(6) > section:nth-child(1) > blockquote:nth-child(2) > p:nth-child(1) > span:nth-child(90)",
+          "start": 173,
+          "end": 174
+        }
+      ]
+    },
+    {
+      "id": "r667bc9d2f127a52598",
+      "panel": "primary",
+      "technique": "JAMO",
+      "variant": 1,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "JAMO"
+      ],
+      "actual": [
+        "JAMO"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(1) > p:nth-child(2) > span:nth-child(1)",
+          "start": 0,
+          "end": 3
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(1) > p:nth-child(2) > span:nth-child(2)",
+          "start": 4,
+          "end": 10
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(1) > p:nth-child(2) > span:nth-child(3)",
+          "start": 11,
+          "end": 17
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(1) > p:nth-child(2) > span:nth-child(4)",
+          "start": 18,
+          "end": 23
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(1) > p:nth-child(2) > span:nth-child(5)",
+          "start": 24,
+          "end": 29
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(1) > p:nth-child(2) > span:nth-child(6)",
+          "start": 30,
+          "end": 35
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(1) > p:nth-child(2) > span:nth-child(7)",
+          "start": 36,
+          "end": 41
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(1) > p:nth-child(2) > span:nth-child(8)",
+          "start": 42,
+          "end": 48
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > article:nth-child(2) > section:nth-child(1) > p:nth-child(2) > span:nth-child(9)",
+          "start": 49,
+          "end": 54
+        }
+      ]
+    },
+    {
+      "id": "r0aff6814b403ab7de4",
+      "panel": "primary",
+      "technique": "TRANSPARENT",
+      "variant": 1,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "TRANSPARENT"
+      ],
+      "actual": [
+        "TRANSPARENT"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(7) > section:nth-child(2) > p:nth-child(1) > span:nth-child(1)",
+          "start": 0,
+          "end": 5
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(7) > section:nth-child(2) > p:nth-child(1) > span:nth-child(2)",
+          "start": 6,
+          "end": 8
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(7) > section:nth-child(2) > p:nth-child(1) > span:nth-child(3)",
+          "start": 9,
+          "end": 11
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(7) > section:nth-child(2) > p:nth-child(1) > span:nth-child(4)",
+          "start": 12,
+          "end": 15
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(7) > section:nth-child(2) > p:nth-child(1) > span:nth-child(5)",
+          "start": 16,
+          "end": 19
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(7) > section:nth-child(2) > p:nth-child(1) > span:nth-child(6)",
+          "start": 20,
+          "end": 22
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(7) > section:nth-child(2) > p:nth-child(1) > span:nth-child(7)",
+          "start": 23,
+          "end": 28
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(7) > section:nth-child(2) > p:nth-child(1) > span:nth-child(8)",
+          "start": 29,
+          "end": 32
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(7) > section:nth-child(2) > p:nth-child(1) > span:nth-child(9)",
+          "start": 33,
+          "end": 35
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(7) > section:nth-child(2) > p:nth-child(1) > span:nth-child(10)",
+          "start": 36,
+          "end": 38
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(7) > section:nth-child(2) > p:nth-child(1) > span:nth-child(11)",
+          "start": 39,
+          "end": 40
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(7) > section:nth-child(2) > p:nth-child(1) > span:nth-child(12)",
+          "start": 41,
+          "end": 44
+        },
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "html:nth-child(1) > body:nth-child(2) > div:nth-child(3) > main:nth-child(4) > div:nth-child(4) > article:nth-child(7) > section:nth-child(2) > p:nth-child(1) > span:nth-child(13)",
+          "start": 45,
+          "end": 50
+        }
+      ]
+    },
+    {
+      "id": "ra75410166b5cd8e1f6",
+      "panel": "primary",
+      "technique": "JAMO",
+      "variant": 2,
+      "raw_preserved": true,
+      "context_preserved": true,
+      "expected": [
+        "JAMO"
+      ],
+      "actual": [
+        "JAMO"
+      ],
+      "technique_match": true,
+      "unresolved": [
+        {
+          "technique": "OFFSCREEN",
+          "reason": "visibility-or-clipping-needs-review",
+          "owner": "p#ra75410166b5cd8e1f6",
+          "start": 0,
+          "end": 43
+        }
+      ]
+    }
+  ],
+  "targets": 52,
+  "technique_matches": 48,
+  "api_calls": 0,
+  "primary": 48,
+  "supplemental": 4
+}

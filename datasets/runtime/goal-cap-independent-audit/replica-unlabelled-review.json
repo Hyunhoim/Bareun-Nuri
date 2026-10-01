@@ -1,0 +1,41 @@
+{
+  "at": "2026-09-25T10:00:04.413Z",
+  "label_source": "Post-run factual review of source text and ownership; original labels unchanged",
+  "classification": "overlapping_ad_containing_parent",
+  "is_new_independent_ad_location": false,
+  "is_false_positive": false,
+  "uncertain": false,
+  "parent_node_id": "n_9ce5481324532042",
+  "parent_selector": "html > body > div:nth-of-type(2) > main > div > div:nth-of-type(1) > div:nth-of-type(1)",
+  "parent_context": {
+    "scope": {
+      "tag": "div",
+      "role": null,
+      "document_scope": false
+    },
+    "target_tag": "div",
+    "target_quoted": false,
+    "units": [
+      {
+        "relation": "target",
+        "tag": "div",
+        "quoted": false
+      },
+      {
+        "relation": "after",
+        "tag": "div",
+        "quoted": false,
+        "text": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t되돌아가기\n\t\t\t\t전체목록\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t"
+      }
+    ],
+    "truncated": false
+  },
+  "child_gold_selectors": [
+    "h3#rb9c5d7ed5372f61e0f",
+    "h3#rc13dd18784213aeabd"
+  ],
+  "reason": "The parent text contains two separately labelled inserted advertising titles, and both sealed host_selector values equal this parent selector. Target is not quoted and has no owned prevention explanation. The remaining original title is a public proposal. This is an overlapping extraction of known ads, not a third independent ad or a false positive.",
+  "counting": "Keep primary52/controlled64 denominators unchanged. Report 5 semantic-positive candidates covering4 labelled leaf ad positions plus1 overlapping parent; do not inflate TP to5 or report complete-site precision.",
+  "source_gold_sha256": "fd314fbff5d18b6b9200efbb5a6058d94f4bacc7e0f8c026f8b69f25b400deb2",
+  "parent_response_elapsed_sec": 1362.195
+}

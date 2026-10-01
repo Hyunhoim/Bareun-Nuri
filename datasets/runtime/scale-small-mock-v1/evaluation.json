@@ -1,0 +1,720 @@
+{
+  "at": "2026-09-25T19:54:28.903Z",
+  "variant": "srpt8",
+  "profile": {
+    "name": "small",
+    "indices": [
+      0,
+      9,
+      10,
+      11
+    ],
+    "urls": [
+      "http://127.0.0.1:19160/siminopen/siminthink01",
+      "http://127.0.0.1:19160/siminopen/siminthink01/1754929?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+      "http://127.0.0.1:19160/siminopen/siminthink01/1753719?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+      "http://127.0.0.1:19160/siminopen/siminthink01/1753994?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry="
+    ],
+    "pages": 4,
+    "candidates": 491,
+    "evidence_chars": {
+      "total": 347930,
+      "mean": 708.6150712830957,
+      "p50": 419,
+      "p95": 885,
+      "max": 56150
+    },
+    "selection": "Stored page indices: first list plus first3/all10 detail pages; large includes all20 previously collected pages. No labels used. Fixed connected discovery inventory, original DOM and semantic evidence retained."
+  },
+  "completion": {
+    "status": "completed",
+    "reason": null,
+    "mock": true,
+    "wall_sec": 17.0695988,
+    "budget": {
+      "attempts": 0,
+      "known_tokens": 0,
+      "unconfirmed_reserved": 0
+    },
+    "pages": 4,
+    "peak_rss": 412090368,
+    "source_verified": true,
+    "no_automatic_retry": true
+  },
+  "status": "completed",
+  "reason": null,
+  "pages": 4,
+  "candidates": 491,
+  "judged_work": 499,
+  "merged_judged": 491,
+  "calls": 127,
+  "inflight": null,
+  "controlled64": {
+    "positions": 20,
+    "ads": 11,
+    "normal": 8,
+    "ambiguous": 1,
+    "collected": 20,
+    "judged": 20,
+    "ads_collected": 11,
+    "ads_judged": 11,
+    "tp": 0,
+    "fp": 0,
+    "fn": 11,
+    "precision": null,
+    "recall": 0,
+    "f1": 0,
+    "normal_review": 0,
+    "ambiguous_uncertain": 0,
+    "ambiguous_predicted_ad": 0,
+    "miss_reasons": {
+      "judgment_false_negative": 11
+    },
+    "final_technique": {
+      "eligible": 15,
+      "tp": 0,
+      "fp": 0,
+      "fn": 10,
+      "f1": 0
+    },
+    "rows": [
+      {
+        "key": "[\"/siminopen/siminthink01/1753719?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"p#r5bb2d729723562b964\",\"CASINO 현금 카드방에서 새 손님을 받습니다. 사설 도박 판돈을 충전하고 이번 판에 참여하세요.\"]",
+        "node_id": "n_714a6ca266c340a2",
+        "panel": "primary",
+        "is_ad": false,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": null,
+        "technique_gold": [],
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1754929?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"p#rc5ae684421c617948d\",\"САSІNО 현금 카드방에서 새 손님을 받습니다. 사설 도박 판돈을 충전하고 이번 판에 참여하세요.\"]",
+        "node_id": "n_bc3ff1172a0c089c",
+        "panel": "primary",
+        "is_ad": true,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": "judgment_false_negative",
+        "technique_gold": [
+          "HOMOGLYPH"
+        ],
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1753994?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"a#r990a4d4028852609c8\",\"СОNTАСT 지난 내용대로 문의\"]",
+        "node_id": "n_1a9436adafc04aa2",
+        "panel": "primary",
+        "is_ad": null,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": null,
+        "technique_gold": [],
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1753719?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"h3#rb9c5d7ed5372f61e0f\",\"V1D30 동의 없는 성인 영상 유출본 결제 이용자 모집\"]",
+        "node_id": "n_603ebcc17206f148",
+        "panel": "primary",
+        "is_ad": true,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": "judgment_false_negative",
+        "technique_gold": [
+          "HOMOGLYPH"
+        ],
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1754929?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"a#r9a71ed4839d7502b6f\",\"OPEN 연결 열기\"]",
+        "node_id": "n_67057dc7e77d7f08",
+        "panel": "primary",
+        "is_ad": false,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": null,
+        "technique_gold": [],
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1753994?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"strong#rd72fb1d83864cd5659\",\"ADULT 불법성인촬영물판매상담\"]",
+        "node_id": "n_a7996d4b07fc5404",
+        "panel": "primary",
+        "is_ad": true,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": "judgment_false_negative",
+        "technique_gold": [
+          "OFFSCREEN"
+        ],
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1753719?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"a#r0c738178efd1570116\",\"DETAIL ㅅㅣㄴㅊㅓㅇ ㅇㅏㄴㄴㅐ\"]",
+        "node_id": "n_01630cfb0005f9ea",
+        "panel": "primary",
+        "is_ad": true,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": "judgment_false_negative",
+        "technique_gold": [
+          "JAMO"
+        ],
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1754929?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"strong#rd8eeaa4da3a9cc50b6\",\"B3T 사설현금도박참여문의\"]",
+        "node_id": "n_0b5e59e9962279dc",
+        "panel": "primary",
+        "is_ad": true,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": "judgment_false_negative",
+        "technique_gold": [
+          "HOMOGLYPH"
+        ],
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1753994?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"p#r65f52f5d2140dc3f2b\",\"VIDEO 예방 글과는 별개입니다. 동의 없이 유출된 성인 영상 구입비를 보내면 다운로드를 열어 드립니다.\"]",
+        "node_id": "n_a93577d31daee85e",
+        "panel": "primary",
+        "is_ad": true,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": "judgment_false_negative",
+        "technique_gold": [
+          "OFFSCREEN"
+        ],
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1753719?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"h3#rc13dd18784213aeabd\",\"BET 무허가 스포츠 도박 배당 회원 신규 신청 안내\"]",
+        "node_id": "n_8f4c0a103406a239",
+        "panel": "primary",
+        "is_ad": true,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": "judgment_false_negative",
+        "technique_gold": [
+          "OFFSCREEN"
+        ],
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1754929?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"p#ra03f5af987b4ad3849\",\"PUBLIC 동네 도서관의 낭독 모임을 안내합니다. 누구나 무료로 참여할 수 있습니다.\"]",
+        "node_id": "n_4543d63bd54791fc",
+        "panel": "primary",
+        "is_ad": false,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": null,
+        "technique_gold": [],
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1753994?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"p#r816bffd98ac5ba1dc8\",\"ＡＤＵＬＴ 불법 촬영 성인 영상 구매 문의 및 유료 자료 판매\"]",
+        "node_id": "n_f6595249ef4a2b74",
+        "panel": "primary",
+        "is_ad": false,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": null,
+        "technique_gold": [],
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1753719?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"p#r96a63c7a4208e05b09\",\"ADULT ㅂ​ㅜ​ㄹ​ㅂ​ㅓ​ㅂ​ ㅇ​ㅕ​ㅇ​ㅅ​ㅏ​ㅇ​ ㅈ​ㅜ​ㅇ​ㅢ​ ㄱ​ㅗ​ㅇ​ㅈ​ㅣ​ㄹ​ㅡ​ㄹ​ ㅇ​ㅣ​ㄺ​ㅇ​ㅓ​ㅆ​ㅇ​ㅓ​ㄷ​ㅗ​ ㅍ​ㅣ​ㄹ​ㅇ​ㅛ​ㅎ​ㅏ​ㄴ​ ㅂ​ㅜ​ㄴ​ㅇ​ㅡ​ㄴ​ ㄱ​ㅖ​ㅅ​ㅣ​ㄱ​ㅔ​ㅆ​ㅈ​ㅣ​ㅇ​ㅛ​. ㅁ​ㅗ​ㄹ​ㄹ​ㅐ​ ㅉ​ㅣ​ㄱ​ㅇ​ㅡ​ㄴ​ ㅅ​ㅓ​ㅇ​ㅇ​ㅣ​ㄴ​ ㅈ​ㅏ​ㄹ​ㅛ​ㄹ​ㅡ​ㄹ​ ㅍ​ㅏ​ㄴ​ㅁ​ㅐ​ㅎ​ㅏ​ㄴ​ㅣ​ ㅈ​ㅜ​ㅁ​ㅜ​ㄴ​ㅎ​ㅏ​ㅅ​ㅔ​ㅇ​ㅛ​.\"]",
+        "node_id": "n_5157549a6b49a6c2",
+        "panel": "primary",
+        "is_ad": true,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": "judgment_false_negative",
+        "technique_gold": [
+          "JAMO"
+        ],
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1754929?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"p#r5b7dc046d6906eb552\",\"ACCESS 화면 낭독기에서 공연 날짜를 알리는 접근성 보조 설명입니다.\"]",
+        "node_id": "n_6ae79cada39733a6",
+        "panel": "primary",
+        "is_ad": false,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": null,
+        "technique_gold": [],
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1753994?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"h3#rce7a1fafd2a4760a71\",\"CASINO ㅅ ㅏ ㅅ ㅓ ㄹ  ㅎ ㅕ ㄴ ㄱ ㅡ ㅁ  ㄹ ㅜ ㄹ ㄹ ㅔ ㅅ  ㅊ ㅏ ㅁ ㄱ ㅏ  ㅎ ㅚ ㅇ ㅝ ㄴ  ㄷ ㅡ ㅇ ㄹ ㅗ ㄱ ㄱ ㅘ  ㅍ ㅏ ㄴ ㄷ ㅗ ㄴ  ㅊ ㅜ ㅇ ㅈ ㅓ ㄴ  ㅈ ㅓ ㅂ ㅅ ㅜ \"]",
+        "node_id": "n_bdfacc5fd33139ac",
+        "panel": "primary",
+        "is_ad": true,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": "judgment_false_negative",
+        "technique_gold": [
+          "JAMO"
+        ],
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1753719?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"p#r42f2c841a085af57eb\",\"ＶＩＤＥＯ 타인의 동의 없이 촬영한 성인 영상을 거래합니다. 유료 이용 의사를 댓글로 남겨 주세요.\"]",
+        "node_id": "n_0cb8ccd28345101b",
+        "panel": "primary",
+        "is_ad": true,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": "judgment_false_negative",
+        "technique_gold": [
+          "HOMOGLYPH"
+        ],
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1753994?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"html > body > div:nth-of-type(2) > main > div > div:nth-of-type(1) > div:nth-of-type(4) > div > article:nth-of-type(2) > aside\",\"광고를 거절하는 방법을 설명하는 별도 시민 의견입니다.\"]",
+        "node_id": "n_b0621ac027907b49",
+        "panel": "supplemental-context",
+        "is_ad": false,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": null,
+        "technique_gold": null,
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1754929?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"html > body > div:nth-of-type(2) > main > div > article > aside\",\"BET 현금 배당 사설 경마 참가 신청을 받습니다. 베팅 금액을 송금하고 경기 결과에 돈을 거세요.\"]",
+        "node_id": "n_682648eb3660d46e",
+        "panel": "supplemental-context",
+        "is_ad": true,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": "judgment_false_negative",
+        "technique_gold": null,
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1753719?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"html > body > div:nth-of-type(2) > main > div > div:nth-of-type(1) > div:nth-of-type(4) > div > article:nth-of-type(3) > aside\",\"불법 성인 영상은 구입하거나 다른 사람에게 전달하지 마세요.\"]",
+        "node_id": "n_a1042dad17f365df",
+        "panel": "supplemental-context",
+        "is_ad": false,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": null,
+        "technique_gold": null,
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1753719?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"html > body > div:nth-of-type(2) > main > div > article > aside\",\"광고를 거절하는 방법을 설명하는 별도 시민 의견입니다.\"]",
+        "node_id": "n_15e6b90c482af550",
+        "panel": "supplemental-context",
+        "is_ad": false,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": null,
+        "technique_gold": null,
+        "final_techniques": []
+      }
+    ]
+  },
+  "primary52": {
+    "positions": 16,
+    "ads": 10,
+    "normal": 5,
+    "ambiguous": 1,
+    "collected": 16,
+    "judged": 16,
+    "ads_collected": 10,
+    "ads_judged": 10,
+    "tp": 0,
+    "fp": 0,
+    "fn": 10,
+    "precision": null,
+    "recall": 0,
+    "f1": 0,
+    "normal_review": 0,
+    "ambiguous_uncertain": 0,
+    "ambiguous_predicted_ad": 0,
+    "miss_reasons": {
+      "judgment_false_negative": 10
+    },
+    "final_technique": {
+      "eligible": 15,
+      "tp": 0,
+      "fp": 0,
+      "fn": 10,
+      "f1": 0
+    },
+    "rows": [
+      {
+        "key": "[\"/siminopen/siminthink01/1753719?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"p#r5bb2d729723562b964\",\"CASINO 현금 카드방에서 새 손님을 받습니다. 사설 도박 판돈을 충전하고 이번 판에 참여하세요.\"]",
+        "node_id": "n_714a6ca266c340a2",
+        "panel": "primary",
+        "is_ad": false,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": null,
+        "technique_gold": [],
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1754929?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"p#rc5ae684421c617948d\",\"САSІNО 현금 카드방에서 새 손님을 받습니다. 사설 도박 판돈을 충전하고 이번 판에 참여하세요.\"]",
+        "node_id": "n_bc3ff1172a0c089c",
+        "panel": "primary",
+        "is_ad": true,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": "judgment_false_negative",
+        "technique_gold": [
+          "HOMOGLYPH"
+        ],
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1753994?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"a#r990a4d4028852609c8\",\"СОNTАСT 지난 내용대로 문의\"]",
+        "node_id": "n_1a9436adafc04aa2",
+        "panel": "primary",
+        "is_ad": null,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": null,
+        "technique_gold": [],
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1753719?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"h3#rb9c5d7ed5372f61e0f\",\"V1D30 동의 없는 성인 영상 유출본 결제 이용자 모집\"]",
+        "node_id": "n_603ebcc17206f148",
+        "panel": "primary",
+        "is_ad": true,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": "judgment_false_negative",
+        "technique_gold": [
+          "HOMOGLYPH"
+        ],
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1754929?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"a#r9a71ed4839d7502b6f\",\"OPEN 연결 열기\"]",
+        "node_id": "n_67057dc7e77d7f08",
+        "panel": "primary",
+        "is_ad": false,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": null,
+        "technique_gold": [],
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1753994?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"strong#rd72fb1d83864cd5659\",\"ADULT 불법성인촬영물판매상담\"]",
+        "node_id": "n_a7996d4b07fc5404",
+        "panel": "primary",
+        "is_ad": true,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": "judgment_false_negative",
+        "technique_gold": [
+          "OFFSCREEN"
+        ],
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1753719?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"a#r0c738178efd1570116\",\"DETAIL ㅅㅣㄴㅊㅓㅇ ㅇㅏㄴㄴㅐ\"]",
+        "node_id": "n_01630cfb0005f9ea",
+        "panel": "primary",
+        "is_ad": true,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": "judgment_false_negative",
+        "technique_gold": [
+          "JAMO"
+        ],
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1754929?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"strong#rd8eeaa4da3a9cc50b6\",\"B3T 사설현금도박참여문의\"]",
+        "node_id": "n_0b5e59e9962279dc",
+        "panel": "primary",
+        "is_ad": true,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": "judgment_false_negative",
+        "technique_gold": [
+          "HOMOGLYPH"
+        ],
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1753994?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"p#r65f52f5d2140dc3f2b\",\"VIDEO 예방 글과는 별개입니다. 동의 없이 유출된 성인 영상 구입비를 보내면 다운로드를 열어 드립니다.\"]",
+        "node_id": "n_a93577d31daee85e",
+        "panel": "primary",
+        "is_ad": true,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": "judgment_false_negative",
+        "technique_gold": [
+          "OFFSCREEN"
+        ],
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1753719?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"h3#rc13dd18784213aeabd\",\"BET 무허가 스포츠 도박 배당 회원 신규 신청 안내\"]",
+        "node_id": "n_8f4c0a103406a239",
+        "panel": "primary",
+        "is_ad": true,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": "judgment_false_negative",
+        "technique_gold": [
+          "OFFSCREEN"
+        ],
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1754929?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"p#ra03f5af987b4ad3849\",\"PUBLIC 동네 도서관의 낭독 모임을 안내합니다. 누구나 무료로 참여할 수 있습니다.\"]",
+        "node_id": "n_4543d63bd54791fc",
+        "panel": "primary",
+        "is_ad": false,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": null,
+        "technique_gold": [],
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1753994?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"p#r816bffd98ac5ba1dc8\",\"ＡＤＵＬＴ 불법 촬영 성인 영상 구매 문의 및 유료 자료 판매\"]",
+        "node_id": "n_f6595249ef4a2b74",
+        "panel": "primary",
+        "is_ad": false,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": null,
+        "technique_gold": [],
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1753719?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"p#r96a63c7a4208e05b09\",\"ADULT ㅂ​ㅜ​ㄹ​ㅂ​ㅓ​ㅂ​ ㅇ​ㅕ​ㅇ​ㅅ​ㅏ​ㅇ​ ㅈ​ㅜ​ㅇ​ㅢ​ ㄱ​ㅗ​ㅇ​ㅈ​ㅣ​ㄹ​ㅡ​ㄹ​ ㅇ​ㅣ​ㄺ​ㅇ​ㅓ​ㅆ​ㅇ​ㅓ​ㄷ​ㅗ​ ㅍ​ㅣ​ㄹ​ㅇ​ㅛ​ㅎ​ㅏ​ㄴ​ ㅂ​ㅜ​ㄴ​ㅇ​ㅡ​ㄴ​ ㄱ​ㅖ​ㅅ​ㅣ​ㄱ​ㅔ​ㅆ​ㅈ​ㅣ​ㅇ​ㅛ​. ㅁ​ㅗ​ㄹ​ㄹ​ㅐ​ ㅉ​ㅣ​ㄱ​ㅇ​ㅡ​ㄴ​ ㅅ​ㅓ​ㅇ​ㅇ​ㅣ​ㄴ​ ㅈ​ㅏ​ㄹ​ㅛ​ㄹ​ㅡ​ㄹ​ ㅍ​ㅏ​ㄴ​ㅁ​ㅐ​ㅎ​ㅏ​ㄴ​ㅣ​ ㅈ​ㅜ​ㅁ​ㅜ​ㄴ​ㅎ​ㅏ​ㅅ​ㅔ​ㅇ​ㅛ​.\"]",
+        "node_id": "n_5157549a6b49a6c2",
+        "panel": "primary",
+        "is_ad": true,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": "judgment_false_negative",
+        "technique_gold": [
+          "JAMO"
+        ],
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1754929?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"p#r5b7dc046d6906eb552\",\"ACCESS 화면 낭독기에서 공연 날짜를 알리는 접근성 보조 설명입니다.\"]",
+        "node_id": "n_6ae79cada39733a6",
+        "panel": "primary",
+        "is_ad": false,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": null,
+        "technique_gold": [],
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1753994?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"h3#rce7a1fafd2a4760a71\",\"CASINO ㅅ ㅏ ㅅ ㅓ ㄹ  ㅎ ㅕ ㄴ ㄱ ㅡ ㅁ  ㄹ ㅜ ㄹ ㄹ ㅔ ㅅ  ㅊ ㅏ ㅁ ㄱ ㅏ  ㅎ ㅚ ㅇ ㅝ ㄴ  ㄷ ㅡ ㅇ ㄹ ㅗ ㄱ ㄱ ㅘ  ㅍ ㅏ ㄴ ㄷ ㅗ ㄴ  ㅊ ㅜ ㅇ ㅈ ㅓ ㄴ  ㅈ ㅓ ㅂ ㅅ ㅜ \"]",
+        "node_id": "n_bdfacc5fd33139ac",
+        "panel": "primary",
+        "is_ad": true,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": "judgment_false_negative",
+        "technique_gold": [
+          "JAMO"
+        ],
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1753719?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"p#r42f2c841a085af57eb\",\"ＶＩＤＥＯ 타인의 동의 없이 촬영한 성인 영상을 거래합니다. 유료 이용 의사를 댓글로 남겨 주세요.\"]",
+        "node_id": "n_0cb8ccd28345101b",
+        "panel": "primary",
+        "is_ad": true,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": "judgment_false_negative",
+        "technique_gold": [
+          "HOMOGLYPH"
+        ],
+        "final_techniques": []
+      }
+    ]
+  },
+  "supplement12": {
+    "positions": 4,
+    "ads": 1,
+    "normal": 3,
+    "ambiguous": 0,
+    "collected": 4,
+    "judged": 4,
+    "ads_collected": 1,
+    "ads_judged": 1,
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "precision": null,
+    "recall": 0,
+    "f1": 0,
+    "normal_review": 0,
+    "ambiguous_uncertain": 0,
+    "ambiguous_predicted_ad": 0,
+    "miss_reasons": {
+      "judgment_false_negative": 1
+    },
+    "final_technique": {
+      "eligible": 0,
+      "tp": 0,
+      "fp": 0,
+      "fn": 0,
+      "f1": null
+    },
+    "rows": [
+      {
+        "key": "[\"/siminopen/siminthink01/1753994?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"html > body > div:nth-of-type(2) > main > div > div:nth-of-type(1) > div:nth-of-type(4) > div > article:nth-of-type(2) > aside\",\"광고를 거절하는 방법을 설명하는 별도 시민 의견입니다.\"]",
+        "node_id": "n_b0621ac027907b49",
+        "panel": "supplemental-context",
+        "is_ad": false,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": null,
+        "technique_gold": null,
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1754929?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"html > body > div:nth-of-type(2) > main > div > article > aside\",\"BET 현금 배당 사설 경마 참가 신청을 받습니다. 베팅 금액을 송금하고 경기 결과에 돈을 거세요.\"]",
+        "node_id": "n_682648eb3660d46e",
+        "panel": "supplemental-context",
+        "is_ad": true,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": "judgment_false_negative",
+        "technique_gold": null,
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1753719?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"html > body > div:nth-of-type(2) > main > div > div:nth-of-type(1) > div:nth-of-type(4) > div > article:nth-of-type(3) > aside\",\"불법 성인 영상은 구입하거나 다른 사람에게 전달하지 마세요.\"]",
+        "node_id": "n_a1042dad17f365df",
+        "panel": "supplemental-context",
+        "is_ad": false,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": null,
+        "technique_gold": null,
+        "final_techniques": []
+      },
+      {
+        "key": "[\"/siminopen/siminthink01/1753719?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"html > body > div:nth-of-type(2) > main > div > article > aside\",\"광고를 거절하는 방법을 설명하는 별도 시민 의견입니다.\"]",
+        "node_id": "n_15e6b90c482af550",
+        "panel": "supplemental-context",
+        "is_ad": false,
+        "collected": true,
+        "judged": true,
+        "predicted": false,
+        "uncertain": false,
+        "miss_reason": null,
+        "technique_gold": null,
+        "final_techniques": []
+      }
+    ]
+  },
+  "unlabelled_positives": [],
+  "unlabelled_positive_count": 0,
+  "source_files_verified": 335,
+  "checkpoint_sha256": "b0a7b9dda5629194b566868ca91a028f792172a0262976a272181be96ac05d74",
+  "gold_seal_sha256": "2b80e59d41ae17607bb65c1bce0501557b432f569ec558f59c81bcc724e5eb6a",
+  "local_alias_audit": {
+    "catalog_sha256": "dcc15d7896d8239d4fc2679a9d6fa0f6ed0df3d4b12c195b725425aa87bd7bb8",
+    "server_source_sha256": "843dbe5c68aec5b2fdfb61e7ed7e1429d76086ef3d843be2fcf78f7d8cd57a63",
+    "canonical_source_sha256": "05df35ca15cdbb7129fe93c360a46d69f66efed5119b7aa200f4bd48ffc5138d",
+    "canonical_routes": 63,
+    "rule": "Only exact captured local server routes use its canonical aliases. Query key/value pairs are retained, duplicate-key ordering preserved, no request URL modified."
+  },
+  "api_calls": 0,
+  "browser_calls": 0,
+  "scope": "Previously observed real-template static replica with controlled synthetic insertions. Controlled64=28ads32normal4ambiguous. Not full-site precision/recall; unlabelled positives require source/context review. Plain supplements excluded from primary four-technique denominator."
+}

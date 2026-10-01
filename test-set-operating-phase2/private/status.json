@@ -1,0 +1,29 @@
+{
+  "name": "운영 테스트 Phase 2",
+  "version": "1.0",
+  "evaluation_runs": 1,
+  "training_runs": 0,
+  "usage": "consumed_evaluation_then_regression_do_not_train",
+  "independent_human_label_review": false,
+  "model_quality_not_measured": false,
+  "evaluation_status": "measured_with_judgment_gaps",
+  "run_directory": ".runtime\\phase2-full-1790804846274",
+  "started_at": "2026-09-30T21:47:26.370Z",
+  "operating_prompt": "K-definition-context-user-adopted",
+  "finished_at": "2026-09-30T22:12:36.151Z",
+  "completed_at": "2026-09-30T22:18:43.406Z",
+  "report": "docs/phase2-operating-report.md",
+  "exact_positions_collected": 1000,
+  "exact_positions_judged": 964,
+  "unjudged_positions": 36,
+  "production_verdict_status": "partial",
+  "regression_runs": [
+    {
+      "run_directory": ".runtime/phase2-improvement-live-1790809914204",
+      "report": "docs/phase2-improvement-report.md",
+      "purpose": "R prompt and bounded recovery regression; not new holdout",
+      "positions_judged": 1000,
+      "training_runs": 0
+    }
+  ]
+}

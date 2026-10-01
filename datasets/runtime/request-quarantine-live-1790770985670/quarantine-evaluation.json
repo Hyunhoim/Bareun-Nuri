@@ -1,0 +1,351 @@
+{
+  "scope": "Controlled fault actual 25min run vs same-response baseline replay, not an independent semantic comparison",
+  "baseline_status": "failed",
+  "baseline_calls": 20,
+  "baseline": {
+    "overall": {
+      "positions": 2240,
+      "ads": 1120,
+      "collected": 172,
+      "judged": 68,
+      "semantic": {
+        "tp": 38,
+        "fp": 15,
+        "fn": 1082,
+        "precision": 0.7169811320754716,
+        "recall": 0.033928571428571426,
+        "f1": 0.06479113384484228
+      },
+      "technique_pairs": {
+        "tp": 56,
+        "fp": 29,
+        "fn": 1360,
+        "precision": 0.6588235294117647,
+        "recall": 0.03954802259887006,
+        "f1": 0.07461692205196535
+      },
+      "per_technique": {
+        "HOMOGLYPH": {
+          "tp": 15,
+          "fp": 9,
+          "fn": 339,
+          "precision": 0.625,
+          "recall": 0.0423728813559322,
+          "f1": 0.07936507936507936
+        },
+        "JAMO": {
+          "tp": 11,
+          "fp": 9,
+          "fn": 343,
+          "precision": 0.55,
+          "recall": 0.031073446327683617,
+          "f1": 0.058823529411764705
+        },
+        "TRANSPARENT": {
+          "tp": 13,
+          "fp": 5,
+          "fn": 341,
+          "precision": 0.7222222222222222,
+          "recall": 0.03672316384180791,
+          "f1": 0.06989247311827956
+        },
+        "OFFSCREEN": {
+          "tp": 17,
+          "fp": 6,
+          "fn": 337,
+          "precision": 0.7391304347826086,
+          "recall": 0.0480225988700565,
+          "f1": 0.09018567639257294
+        }
+      },
+      "four_type_position": {
+        "tp": 38,
+        "fp": 15,
+        "fn": 1058,
+        "precision": 0.7169811320754716,
+        "recall": 0.03467153284671533,
+        "f1": 0.06614447345517842
+      },
+      "ad_miss_reasons": {
+        "collected_not_judged": 56,
+        "visited_not_collected": 2,
+        "not_visited": 1024
+      },
+      "review": 0
+    },
+    "judged": {
+      "positions": 68,
+      "ads": 38,
+      "collected": 68,
+      "judged": 68,
+      "semantic": {
+        "tp": 38,
+        "fp": 15,
+        "fn": 0,
+        "precision": 0.7169811320754716,
+        "recall": 1,
+        "f1": 0.8351648351648352
+      },
+      "technique_pairs": {
+        "tp": 56,
+        "fp": 29,
+        "fn": 1,
+        "precision": 0.6588235294117647,
+        "recall": 0.9824561403508771,
+        "f1": 0.7887323943661971
+      },
+      "per_technique": {
+        "HOMOGLYPH": {
+          "tp": 15,
+          "fp": 9,
+          "fn": 0,
+          "precision": 0.625,
+          "recall": 1,
+          "f1": 0.7692307692307693
+        },
+        "JAMO": {
+          "tp": 11,
+          "fp": 9,
+          "fn": 0,
+          "precision": 0.55,
+          "recall": 1,
+          "f1": 0.7096774193548387
+        },
+        "TRANSPARENT": {
+          "tp": 13,
+          "fp": 5,
+          "fn": 1,
+          "precision": 0.7222222222222222,
+          "recall": 0.9285714285714286,
+          "f1": 0.8125
+        },
+        "OFFSCREEN": {
+          "tp": 17,
+          "fp": 6,
+          "fn": 0,
+          "precision": 0.7391304347826086,
+          "recall": 1,
+          "f1": 0.85
+        }
+      },
+      "four_type_position": {
+        "tp": 38,
+        "fp": 15,
+        "fn": 0,
+        "precision": 0.7169811320754716,
+        "recall": 1,
+        "f1": 0.8351648351648352
+      },
+      "ad_miss_reasons": {},
+      "review": 0
+    },
+    "processed": 209
+  },
+  "first25_boundary": {
+    "type": "progress",
+    "status": "running",
+    "phase": "scanning",
+    "pages": 71,
+    "candidates": 3067,
+    "processed": 2840,
+    "calls": 280,
+    "totalTokens": null,
+    "startedAt": "2026-09-30T12:23:06.159Z",
+    "quarantined": 48,
+    "pendingPages": 70,
+    "excludedLinks": 0,
+    "collectionIssues": 4,
+    "elapsedSec": 1495.3790655
+  },
+  "ended_after25": true,
+  "end_semantic": {
+    "tp": 584,
+    "fp": 257,
+    "fn": 536,
+    "precision": 0.6944114149821641,
+    "recall": 0.5214285714285715,
+    "f1": 0.5956144824069353
+  },
+  "candidate_status": "partial",
+  "candidate_reason": "time_budget",
+  "candidate_calls": 281,
+  "candidate_elapsed": 1500.6858423,
+  "candidate": {
+    "overall": {
+      "positions": 2240,
+      "ads": 1120,
+      "collected": 1344,
+      "judged": 1232,
+      "semantic": {
+        "tp": 582,
+        "fp": 255,
+        "fn": 538,
+        "precision": 0.6953405017921147,
+        "recall": 0.5196428571428572,
+        "f1": 0.5947879407256004
+      },
+      "technique_pairs": {
+        "tp": 767,
+        "fp": 358,
+        "fn": 649,
+        "precision": 0.6817777777777778,
+        "recall": 0.5416666666666666,
+        "f1": 0.6036993309720582
+      },
+      "per_technique": {
+        "HOMOGLYPH": {
+          "tp": 199,
+          "fp": 123,
+          "fn": 155,
+          "precision": 0.6180124223602484,
+          "recall": 0.5621468926553672,
+          "f1": 0.5887573964497042
+        },
+        "JAMO": {
+          "tp": 180,
+          "fp": 84,
+          "fn": 174,
+          "precision": 0.6818181818181818,
+          "recall": 0.5084745762711864,
+          "f1": 0.5825242718446602
+        },
+        "TRANSPARENT": {
+          "tp": 193,
+          "fp": 70,
+          "fn": 161,
+          "precision": 0.7338403041825095,
+          "recall": 0.5451977401129944,
+          "f1": 0.6256077795786061
+        },
+        "OFFSCREEN": {
+          "tp": 195,
+          "fp": 81,
+          "fn": 159,
+          "precision": 0.7065217391304348,
+          "recall": 0.5508474576271186,
+          "f1": 0.6190476190476191
+        }
+      },
+      "four_type_position": {
+        "tp": 576,
+        "fp": 243,
+        "fn": 520,
+        "precision": 0.7032967032967034,
+        "recall": 0.5255474452554745,
+        "f1": 0.6015665796344648
+      },
+      "ad_miss_reasons": {
+        "visited_not_collected": 24,
+        "collected_not_judged": 59,
+        "intent_negative": 22,
+        "intent_uncertain": 2,
+        "not_visited": 431
+      },
+      "review": 4
+    },
+    "judged": {
+      "positions": 1232,
+      "ads": 606,
+      "collected": 1232,
+      "judged": 1232,
+      "semantic": {
+        "tp": 582,
+        "fp": 255,
+        "fn": 24,
+        "precision": 0.6953405017921147,
+        "recall": 0.9603960396039604,
+        "f1": 0.8066528066528067
+      },
+      "technique_pairs": {
+        "tp": 767,
+        "fp": 358,
+        "fn": 39,
+        "precision": 0.6817777777777778,
+        "recall": 0.9516129032258065,
+        "f1": 0.7944070429829104
+      },
+      "per_technique": {
+        "HOMOGLYPH": {
+          "tp": 199,
+          "fp": 123,
+          "fn": 8,
+          "precision": 0.6180124223602484,
+          "recall": 0.961352657004831,
+          "f1": 0.7523629489603024
+        },
+        "JAMO": {
+          "tp": 180,
+          "fp": 84,
+          "fn": 8,
+          "precision": 0.6818181818181818,
+          "recall": 0.9574468085106383,
+          "f1": 0.7964601769911505
+        },
+        "TRANSPARENT": {
+          "tp": 193,
+          "fp": 70,
+          "fn": 12,
+          "precision": 0.7338403041825095,
+          "recall": 0.9414634146341463,
+          "f1": 0.8247863247863247
+        },
+        "OFFSCREEN": {
+          "tp": 195,
+          "fp": 81,
+          "fn": 11,
+          "precision": 0.7065217391304348,
+          "recall": 0.9466019417475728,
+          "f1": 0.8091286307053942
+        }
+      },
+      "four_type_position": {
+        "tp": 576,
+        "fp": 243,
+        "fn": 30,
+        "precision": 0.7032967032967034,
+        "recall": 0.9504950495049505,
+        "f1": 0.8084210526315789
+      },
+      "ad_miss_reasons": {
+        "intent_negative": 22,
+        "intent_uncertain": 2
+      },
+      "review": 4
+    },
+    "processed": 2840
+  },
+  "common_preserved": true,
+  "quarantined": [
+    {
+      "page": "http://127.0.0.1:54159/site-1/page-003.html",
+      "offset": 24,
+      "size": 12,
+      "missing": 1,
+      "later_page_items_processed": true
+    },
+    {
+      "page": "http://127.0.0.1:54159/site-4/page-035.html",
+      "offset": 24,
+      "size": 12,
+      "missing": 1,
+      "later_page_items_processed": true
+    },
+    {
+      "page": "http://127.0.0.1:54159/site-5/page-041.html",
+      "offset": 24,
+      "size": 12,
+      "missing": 1,
+      "later_page_items_processed": true
+    },
+    {
+      "page": "http://127.0.0.1:54159/site-5/page-044.html",
+      "offset": 24,
+      "size": 12,
+      "missing": 1,
+      "later_page_items_processed": true
+    }
+  ],
+  "extra_tp": 544,
+  "extra_fp": 240,
+  "tokens": 825988
+}

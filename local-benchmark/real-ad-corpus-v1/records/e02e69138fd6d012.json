@@ -1,0 +1,36 @@
+{
+  "id": "e02e69138fd6d012",
+  "source": {
+    "id": "e02e69138fd6d012",
+    "url": "https://hrd.jeonbuk.go.kr/board/view.training?boardId=BBS_0000016&menuCd=DOM_000000103001000000&startPage=6&dataSid=13178",
+    "source_scope": "government_board",
+    "captured_at": "2026-09-28T23:08:47.873743+00:00",
+    "rights_status": "unverified_third_party_content",
+    "human_reviewed": false,
+    "raw_file": "raw/e02e69138fd6d012.html",
+    "byte_file": "raw/e02e69138fd6d012.bin",
+    "response_sha256": "113cfd42a2611f5f3406e9189bd6ca11e4f487fa8785603e29aad77c6b1bc5f3",
+    "decoded_sha256": "113cfd42a2611f5f3406e9189bd6ca11e4f487fa8785603e29aad77c6b1bc5f3",
+    "encoding": "utf-8",
+    "status": "captured",
+    "page_title": "홈 > 소통마당 > 자유게시판 |상세보기"
+  },
+  "title": "새해의 기도",
+  "raw_text": "새해의 기도 / 정연복\n꽃잎의 떨림 같은\n들숨과 날숨으로 이어지는\n제 목숨을 지켜주시어\n올해도 새해를 맞이합니다.\n동트는 하루하루를\n보석같이 소중히 아끼며\n올 한 해\n맑은 눈동자와 밝은 마음으로\n뜻 깊은\n시간 여행을 하게 하소서.\nKT인터넷",
+  "body_xpath": "/html/body/div/div[3]/div[1]/div[2]/div[2]/div[3]/div[1]",
+  "title_xpath": "/html/body/div/div[3]/div[1]/div[2]/div[2]/div[3]/dl[1]",
+  "source_kind": "real_web_post",
+  "extraction": "static_HTML_lxml_itertext",
+  "comments_status": "not_extracted_or_labeled",
+  "technique_observed": null,
+  "body_sha256": "56d7649c464091e2b44a243fe31322f9418792d1174f9a5f19b4ccdb745c8b8b",
+  "label": null,
+  "human_reviewed": false,
+  "outgoing_links": [
+    {
+      "text": "KT인터넷",
+      "href": "http://ktinterstore.co.kr"
+    }
+  ],
+  "notes": "No CSS technique claim from static text; listed neighbours are excluded from owned context."
+}

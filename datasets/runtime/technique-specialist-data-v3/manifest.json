@@ -1,0 +1,31 @@
+{
+  "splits": {
+    "train-inputs.json": {
+      "count": 320,
+      "sha256": "1c9e753572ffd983da6857b198bbbe3674b5ec6424f07df1cbb37dd800c58cd1"
+    },
+    "train-gold.json": {
+      "count": 320,
+      "sha256": "2bb5bdd8b9d6c786380c59021788c2539c544c9be79c17f274d1493e9bdca62e"
+    },
+    "dev-inputs.json": {
+      "count": 96,
+      "sha256": "fbfc8630136a1ae0d0123ea782646468d683a7376764db121ca39f8c1b940c2f"
+    },
+    "dev-gold.json": {
+      "count": 96,
+      "sha256": "1a9a803284703c598c37aa80d8349ae64eeddce5f17ae8ef31ff31689fcdfe08"
+    },
+    "final-inputs.json": {
+      "count": 96,
+      "sha256": "ee587eac6bd34fac589c20c6bdceb9caddc799a661d33584195ecc773fff400f"
+    },
+    "final-gold.json": {
+      "count": 96,
+      "sha256": "45ad576e702c7045ed7f34ed1485bfdc614e0bf43457f131749206c71c9dcc52"
+    }
+  },
+  "synthetic": true,
+  "human_reviewed": false,
+  "final_evaluations": 0
+}

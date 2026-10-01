@@ -1,0 +1,91 @@
+{
+  "prior_unique_inputs": 24739,
+  "prior_sources": [
+    ".runtime/klue-cycle3-v1/train.json",
+    ".runtime/klue-audit-learning-v1/train.json",
+    "local-benchmark/nuri-1.2/train.json",
+    "local-benchmark/exaone-ft-data-v3/dataset.json",
+    ".runtime/klue-input-audit-v2/corrected-inputs.json",
+    ".runtime/slm-three/inputs.json",
+    ".runtime/nuri10-filter-collected-v1/inputs.json"
+  ],
+  "splits": {
+    "train": {
+      "groups": 40,
+      "rendered_views": 336,
+      "unique_model_inputs": 96,
+      "labels": {
+        "0": 48,
+        "1": 48
+      },
+      "intent": {
+        "benign": 48,
+        "uncertain": 15,
+        "ad": 33
+      },
+      "modes": {
+        "plain": 80,
+        "JAMO": 80,
+        "TRANSPARENT": 80,
+        "OFFSCREEN": 80,
+        "HOMOGLYPH": 16
+      },
+      "max_tokens": 51
+    },
+    "validation": {
+      "groups": 10,
+      "rendered_views": 86,
+      "unique_model_inputs": 26,
+      "labels": {
+        "0": 13,
+        "1": 13
+      },
+      "intent": {
+        "benign": 13,
+        "ad": 8,
+        "uncertain": 5
+      },
+      "modes": {
+        "plain": 20,
+        "JAMO": 20,
+        "TRANSPARENT": 20,
+        "OFFSCREEN": 20,
+        "HOMOGLYPH": 6
+      },
+      "max_tokens": 50
+    },
+    "final": {
+      "groups": 10,
+      "rendered_views": 86,
+      "unique_model_inputs": 26,
+      "labels": {
+        "0": 13,
+        "1": 13
+      },
+      "intent": {
+        "benign": 13,
+        "ad": 8,
+        "uncertain": 5
+      },
+      "modes": {
+        "plain": 20,
+        "JAMO": 20,
+        "TRANSPARENT": 20,
+        "OFFSCREEN": 20,
+        "HOMOGLYPH": 6
+      },
+      "max_tokens": 46
+    }
+  },
+  "near_duplicates": [],
+  "exact_input_leakage": 0,
+  "group_overlap": 0,
+  "collection": {
+    "pages": 60,
+    "rows": 508,
+    "issues": []
+  },
+  "final_evaluated": false,
+  "human_reviewed": false,
+  "training_ready": false
+}

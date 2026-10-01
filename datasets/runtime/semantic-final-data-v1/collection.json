@@ -1,0 +1,450 @@
+{
+  "origin": "http://127.0.0.1:63246",
+  "targets": 72,
+  "ads": 32,
+  "normal": 32,
+  "ambiguous": 8,
+  "variants": [
+    15,
+    15,
+    14,
+    14,
+    14
+  ],
+  "created_at": "2026-09-24T18:53:50.402Z",
+  "audit": [
+    {
+      "id": "record-001",
+      "node_id": "n_6ab567a61233ce78",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-002",
+      "node_id": "n_95700c32c14ba5cb",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-003",
+      "node_id": "n_1f618d85b9a70960",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-004",
+      "node_id": "n_3ee0f60edb9c2c7f",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-005",
+      "node_id": "n_408482e0ee69932f",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-006",
+      "node_id": "n_b6be4ad6560df1c9",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-007",
+      "node_id": "n_068c2ee2d22cf9d4",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-008",
+      "node_id": "n_c563344c4540cd06",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-009",
+      "node_id": "n_8ef9fbcd5031aae3",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-010",
+      "node_id": "n_63115779fb3a4116",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-011",
+      "node_id": "n_be32ece9bfa35792",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-012",
+      "node_id": "n_9816847840cd3a02",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-013",
+      "node_id": "n_b6bb8f8f41bba7d6",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-014",
+      "node_id": "n_7d80c6dac1b8361b",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-015",
+      "node_id": "n_859f9aef3c25404c",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-016",
+      "node_id": "n_60a1efbce4f5ef8a",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-017",
+      "node_id": "n_dbae3dc140fcc048",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-018",
+      "node_id": "n_02c2511a772ce944",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-019",
+      "node_id": "n_e2f0485a58f25b5c",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-020",
+      "node_id": "n_3b06e07c7a1c5836",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-021",
+      "node_id": "n_5721bb1e08186770",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-022",
+      "node_id": "n_890c058c1211e2aa",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-023",
+      "node_id": "n_eb1183fcd5290705",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-024",
+      "node_id": "n_cd5bd299c2d9226f",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-025",
+      "node_id": "n_cc8198b6bfaa8f26",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-026",
+      "node_id": "n_297861518e8a6c58",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-027",
+      "node_id": "n_1efc9a50ee83885b",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-028",
+      "node_id": "n_eaa402f238d509a3",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-029",
+      "node_id": "n_dc5262dbb410e48d",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-030",
+      "node_id": "n_592e295468fa9982",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-031",
+      "node_id": "n_62c85409f129c281",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-032",
+      "node_id": "n_2e1e244f3579b394",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-033",
+      "node_id": "n_dc39f41ddfa52e55",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-034",
+      "node_id": "n_7883957b6da3fb2f",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-035",
+      "node_id": "n_39713fc539cb515b",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-036",
+      "node_id": "n_472aa952bf77de25",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-037",
+      "node_id": "n_0d0a42a1a91ba905",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-038",
+      "node_id": "n_3f26a811008e2f4a",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-039",
+      "node_id": "n_fa9b0140a9eb7ffe",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-040",
+      "node_id": "n_1f1ac3d6e4074d96",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-041",
+      "node_id": "n_8730fd2b9e155a8a",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-042",
+      "node_id": "n_898beb658e47d4c5",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-043",
+      "node_id": "n_bffc047726243c5e",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-044",
+      "node_id": "n_d056d65d3d58b7e5",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-045",
+      "node_id": "n_8c2150b6cbce3fc5",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-046",
+      "node_id": "n_a73eff521e685ecf",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-047",
+      "node_id": "n_61f323bf082fd5ef",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-048",
+      "node_id": "n_3f66ecbd956bf987",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-049",
+      "node_id": "n_47f0c9305f7eebee",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-050",
+      "node_id": "n_49535e8609cea01a",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-051",
+      "node_id": "n_c2324ecaddb347ff",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-052",
+      "node_id": "n_10575508b2de99e6",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-053",
+      "node_id": "n_b8f028b87fd5f002",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-054",
+      "node_id": "n_57fef0b447205b4e",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-055",
+      "node_id": "n_7ae1d876731ecae6",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-056",
+      "node_id": "n_9ac1a7421a8bee38",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-057",
+      "node_id": "n_0edaac2fc1824c56",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-058",
+      "node_id": "n_977c4ab62a1e059e",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-059",
+      "node_id": "n_1eb0a49492b9f5e4",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-060",
+      "node_id": "n_1782372748e205ec",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-061",
+      "node_id": "n_478851f6f4fec3b6",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-062",
+      "node_id": "n_4fb5a98cd22a4727",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-063",
+      "node_id": "n_e96932935e372374",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-064",
+      "node_id": "n_55e2d9ed94eab8aa",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-065",
+      "node_id": "n_b04e8c02e1a2d7ab",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-066",
+      "node_id": "n_5e7117d7459d8a35",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-067",
+      "node_id": "n_a0d66e80ef83f5bc",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-068",
+      "node_id": "n_70e2cc3890ff3a10",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-069",
+      "node_id": "n_f2780753262819b2",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-070",
+      "node_id": "n_2e230555cbefa2c7",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-071",
+      "node_id": "n_3922a61d577ce24f",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    },
+    {
+      "id": "record-072",
+      "node_id": "n_f8558bcf6fcaa976",
+      "required_context_preserved": true,
+      "technique_evidence_preserved": true
+    }
+  ],
+  "source": "Independent new synthetic text and HTML; actual browser evidence. Target-only labels. Ambiguous excluded from binary F1. Not real-site prevalence or whole-page ground truth."
+}

@@ -1,0 +1,46 @@
+{
+  "selected_epoch": 2,
+  "score": 0.950217550818156,
+  "pass": false,
+  "panels": {
+    "old": {
+      "baseline_f1": 0.9963072378138849,
+      "corrected_f1": 0.9924436972305873,
+      "lost_true_positive": 2,
+      "normal_false_before": 0,
+      "normal_false_after": 0,
+      "uncertain_false_before": 5,
+      "uncertain_false_after": 7,
+      "pass": false
+    },
+    "role": {
+      "baseline_f1": 0.9591836734693877,
+      "corrected_f1": 0.8582089552238806,
+      "lost_true_positive": 28,
+      "normal_false_before": 2,
+      "normal_false_after": 1,
+      "uncertain_false_before": 1,
+      "uncertain_false_after": 2,
+      "pass": false
+    },
+    "scope": {
+      "baseline_f1": 1.0,
+      "corrected_f1": 1.0,
+      "lost_true_positive": 0,
+      "normal_false_before": 0,
+      "normal_false_after": 0,
+      "uncertain_false_before": 0,
+      "uncertain_false_after": 0,
+      "pass": true
+    }
+  },
+  "training_data_verified": {
+    "branch_guard": true,
+    "actual_training_rows": 3035,
+    "supplemental_rows": 432,
+    "exact_ordered_data_match": true,
+    "sha256": "cea311d5612a36cbc914d17a1ecc5f08cb45456e5ed0ab9ddd708a0b7c7ce420",
+    "api": 0
+  },
+  "operating_unchanged": true
+}

@@ -1,0 +1,36 @@
+{
+  "id": "c9e876cb90396b01",
+  "source": {
+    "id": "c9e876cb90396b01",
+    "url": "https://hrd.jeonbuk.go.kr/board/view.training?boardId=BBS_0000016&menuCd=DOM_000000103001000000&startPage=6&dataSid=13118",
+    "source_scope": "government_board",
+    "captured_at": "2026-09-28T23:08:50.366472+00:00",
+    "rights_status": "unverified_third_party_content",
+    "human_reviewed": false,
+    "raw_file": "raw/c9e876cb90396b01.html",
+    "byte_file": "raw/c9e876cb90396b01.bin",
+    "response_sha256": "381dfe6a2eb346009d15bd7a3fa641f5101e5c97a8aba8acd6a901027a9ab7fc",
+    "decoded_sha256": "381dfe6a2eb346009d15bd7a3fa641f5101e5c97a8aba8acd6a901027a9ab7fc",
+    "encoding": "utf-8",
+    "status": "captured",
+    "page_title": "홈 > 소통마당 > 자유게시판 |상세보기"
+  },
+  "title": "인재개발지원사업이 많으면 좋겠습니다",
+  "raw_text": "안녕하십니까, 박형민입니다.\n전라북도의 성장을 위하여 인재개발지원사업이 많이 필요합니다.\n현재 전라북도의 경우 기업의 수가 서울 강남 한개에도 못 미치는 수준입니다.\n이를 해결하기 위해서는 다양한 전라북도만의\n정부지원사업\n이 필요합니다.\n전라북도 출신으로 서울에서 지내고 있는 저로서는 전라북도의 성장을 항상 기원하고 있습니다.\n짧은 글 읽어주시고 지원사업 많이 하여 전라북도가 성장하였으면 좋겠습니다.\n감사합니다.",
+  "body_xpath": "/html/body/div/div[3]/div/div[2]/div[2]/div[3]/div",
+  "title_xpath": "/html/body/div/div[3]/div/div[2]/div[2]/div[3]/dl[1]",
+  "source_kind": "real_web_post",
+  "extraction": "static_HTML_lxml_itertext",
+  "comments_status": "not_extracted_or_labeled",
+  "technique_observed": null,
+  "body_sha256": "b4f9cb694f87b11c7d5e046b90def5e5d1ad5000762e67254b79bcfa4acff87d",
+  "label": null,
+  "human_reviewed": false,
+  "outgoing_links": [
+    {
+      "text": "정부지원사업",
+      "href": "https://spt.kr"
+    }
+  ],
+  "notes": "No CSS technique claim from static text; listed neighbours are excluded from owned context."
+}

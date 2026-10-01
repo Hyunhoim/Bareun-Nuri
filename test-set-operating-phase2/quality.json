@@ -1,0 +1,118 @@
+{
+  "rows": 1000,
+  "scenario_groups": 100,
+  "distinct_authored_semantic_messages": 200,
+  "independent_scraped_messages": 0,
+  "distribution": {
+    "ads": {
+      "count": 500,
+      "techniques": {
+        "HOMOGLYPH": 200,
+        "OFFSCREEN": 200,
+        "TRANSPARENT": 200,
+        "JAMO": 200
+      },
+      "single": 200,
+      "combined": 300,
+      "domains": {
+        "drugs": 50,
+        "illegal_trade": 60,
+        "gambling": 300,
+        "sex_trade": 40,
+        "illegal_adult": 50
+      },
+      "combinations": {
+        "HOMOGLYPH+OFFSCREEN": 50,
+        "HOMOGLYPH+TRANSPARENT": 50,
+        "OFFSCREEN": 50,
+        "TRANSPARENT": 50,
+        "TRANSPARENT+OFFSCREEN": 50,
+        "JAMO+TRANSPARENT": 50,
+        "HOMOGLYPH+JAMO": 50,
+        "JAMO": 50,
+        "JAMO+OFFSCREEN": 50,
+        "HOMOGLYPH": 50
+      }
+    },
+    "normal": {
+      "count": 500,
+      "techniques": {
+        "HOMOGLYPH": 200,
+        "JAMO": 200,
+        "TRANSPARENT": 200,
+        "OFFSCREEN": 200
+      },
+      "single": 200,
+      "combined": 300,
+      "domains": {
+        "gambling": 300,
+        "illegal_trade": 60,
+        "drugs": 50,
+        "illegal_adult": 50,
+        "sex_trade": 40
+      },
+      "combinations": {
+        "HOMOGLYPH+JAMO": 50,
+        "JAMO+TRANSPARENT": 50,
+        "JAMO+OFFSCREEN": 50,
+        "JAMO": 50,
+        "OFFSCREEN": 50,
+        "TRANSPARENT+OFFSCREEN": 50,
+        "TRANSPARENT": 50,
+        "HOMOGLYPH": 50,
+        "HOMOGLYPH+OFFSCREEN": 50,
+        "HOMOGLYPH+TRANSPARENT": 50
+      }
+    }
+  },
+  "phase1_exact_target_overlap": 0,
+  "main_pages": 102,
+  "iframe_documents": 20,
+  "dynamic_rows": 40,
+  "paired_variants_not_independent": true,
+  "human_review_complete": false,
+  "same_author_generator_bias_possible": true,
+  "model_calls": 0,
+  "checks": "counts, IDs, source IDs, text edits, label-free public HTML, exact Phase1 overlap",
+  "authored_lengths": {
+    "ads": {
+      "min": 35,
+      "median": 55,
+      "max": 324
+    },
+    "normal": {
+      "min": 43,
+      "median": 70,
+      "max": 284
+    }
+  },
+  "context_separated_rows": 379,
+  "character_variants": {
+    "latin-greek-visual": 80,
+    "compat-spaces": 100,
+    "digit-4-3": 48,
+    "partial-syllables": 50,
+    "latin-cyrillic-visual": 136,
+    "compat": 100,
+    "nfd": 150,
+    "fullwidth": 80,
+    "digit-0-1": 56
+  },
+  "styles": {
+    "display-none": 100,
+    "white-on-white": 100,
+    "transparent-color": 100,
+    "negative-left": 100,
+    "opacity-zero": 100,
+    "font-zero": 100,
+    "matching-solid-color": 100,
+    "font-one": 100
+  },
+  "slots": {
+    "link": 200,
+    "title": 200,
+    "body": 200,
+    "comment": 200,
+    "reply": 200
+  }
+}

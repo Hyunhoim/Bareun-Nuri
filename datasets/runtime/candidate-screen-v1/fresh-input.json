@@ -1,0 +1,905 @@
+{
+  "name": "fresh",
+  "labels": [
+    {
+      "node_id": "n_3ce4d8ef7fefa6bb",
+      "is_ad": false,
+      "scenario": "complete"
+    },
+    {
+      "node_id": "n_d106b6880388f6cd",
+      "is_ad": true,
+      "scenario": "complete"
+    },
+    {
+      "node_id": "n_f80a5ec38aed027b",
+      "is_ad": true,
+      "scenario": "complete"
+    },
+    {
+      "node_id": "n_407ae573376a6262",
+      "is_ad": false,
+      "scenario": "complete"
+    },
+    {
+      "node_id": "n_57d00328d9c7a7f7",
+      "is_ad": false,
+      "scenario": "truncated"
+    },
+    {
+      "node_id": "n_e236065060a2872f",
+      "is_ad": true,
+      "scenario": "document"
+    },
+    {
+      "node_id": "n_0da3959fa4941e67",
+      "is_ad": false,
+      "scenario": "complete"
+    },
+    {
+      "node_id": "n_83b397c9d24025c5",
+      "is_ad": true,
+      "scenario": "complete"
+    },
+    {
+      "node_id": "n_831f9fce35ca503e",
+      "is_ad": true,
+      "scenario": "complete"
+    },
+    {
+      "node_id": "n_4e5be49efbd5a87e",
+      "is_ad": false,
+      "scenario": "complete"
+    },
+    {
+      "node_id": "n_fdc33dd8f3808776",
+      "is_ad": false,
+      "scenario": "truncated"
+    },
+    {
+      "node_id": "n_4f03a3e49bc8788c",
+      "is_ad": true,
+      "scenario": "document"
+    },
+    {
+      "node_id": "n_4b9eb969c1acb473",
+      "is_ad": false,
+      "scenario": "complete"
+    },
+    {
+      "node_id": "n_2913439196698312",
+      "is_ad": true,
+      "scenario": "complete"
+    },
+    {
+      "node_id": "n_21c712efd63c823c",
+      "is_ad": true,
+      "scenario": "complete"
+    },
+    {
+      "node_id": "n_2d7c1719fdced7d6",
+      "is_ad": false,
+      "scenario": "complete"
+    },
+    {
+      "node_id": "n_be81e9b246f4dfaf",
+      "is_ad": false,
+      "scenario": "truncated"
+    },
+    {
+      "node_id": "n_db6aa29c98cae2cc",
+      "is_ad": true,
+      "scenario": "document"
+    },
+    {
+      "node_id": "n_d3708ca7a64ce805",
+      "is_ad": false,
+      "scenario": "complete"
+    },
+    {
+      "node_id": "n_2f499d58ba8951c5",
+      "is_ad": true,
+      "scenario": "complete"
+    },
+    {
+      "node_id": "n_9900c1e5b9dc15fb",
+      "is_ad": true,
+      "scenario": "complete"
+    },
+    {
+      "node_id": "n_ebf6907d6833120e",
+      "is_ad": false,
+      "scenario": "complete"
+    },
+    {
+      "node_id": "n_50bd8d627a4b894a",
+      "is_ad": false,
+      "scenario": "truncated"
+    },
+    {
+      "node_id": "n_02d80a00fe906c06",
+      "is_ad": true,
+      "scenario": "document"
+    }
+  ],
+  "snapshot": {
+    "candidates": [
+      {
+        "node_id": "n_3ce4d8ef7fefa6bb",
+        "raw_text": "지하 현금 주사위판 참가금을 받습니다.",
+        "normalized_text": "지하 현금 주사위판 참가금을 받습니다.",
+        "page_title": "주민 소통",
+        "links": [],
+        "nearby": {
+          "before": "제가 운영하는 불법 도박방의 모집 공지입니다.",
+          "after": "참가비를 송금할 분은 연락하세요."
+        },
+        "signals": [],
+        "context_evidence": {
+          "scope": {
+            "tag": "article",
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "text": "불법 도박 유인문을 옮긴 상담 자료입니다."
+            },
+            {
+              "relation": "target"
+            },
+            {
+              "relation": "after",
+              "text": "이 요구를 거절하는 방법을 토론합니다."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_d106b6880388f6cd",
+        "raw_text": "지하 현금 주사위판 참가금을 받습니다.",
+        "normalized_text": "지하 현금 주사위판 참가금을 받습니다.",
+        "page_title": "주민 소통",
+        "links": [],
+        "nearby": {
+          "before": "불법 도박 유인문을 옮긴 상담 자료입니다.",
+          "after": "이 요구를 거절하는 방법을 토론합니다."
+        },
+        "signals": [],
+        "context_evidence": {
+          "scope": {
+            "tag": "article",
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "text": "제가 운영하는 불법 도박방의 모집 공지입니다."
+            },
+            {
+              "relation": "target"
+            },
+            {
+              "relation": "after",
+              "text": "참가비를 송금할 분은 연락하세요."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_f80a5ec38aed027b",
+        "raw_text": "접수 진행",
+        "normalized_text": "접수 진행",
+        "page_title": "주민 소통",
+        "links": [],
+        "nearby": {
+          "before": "불법 도박 유인문을 옮긴 상담 자료입니다."
+        },
+        "signals": [],
+        "context_evidence": {
+          "scope": {
+            "tag": "article",
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "text": "제가 운영하는 불법 도박방의 모집 공지입니다."
+            },
+            {
+              "relation": "target"
+            },
+            {
+              "relation": "after",
+              "text": "참가비를 송금할 분은 연락하세요."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_407ae573376a6262",
+        "raw_text": "안내 담당자",
+        "normalized_text": "안내 담당자",
+        "page_title": "주민 소통",
+        "links": [],
+        "nearby": {
+          "after": "지하 현금 주사위판 참가금을 받습니다."
+        },
+        "signals": [],
+        "context_evidence": {
+          "scope": {
+            "tag": "article",
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "text": "제가 운영하는 불법 도박방의 모집 공지입니다."
+            },
+            {
+              "relation": "target"
+            },
+            {
+              "relation": "after",
+              "text": "참가비를 송금할 분은 연락하세요."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_57d00328d9c7a7f7",
+        "raw_text": "내역 확인",
+        "normalized_text": "내역 확인",
+        "page_title": "주민 소통",
+        "links": [],
+        "nearby": {
+          "after": "제가 운영하는 불법 도박방의 모집 공지입니다."
+        },
+        "signals": [],
+        "context_evidence": {
+          "scope": {
+            "tag": "article",
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": true,
+          "units": [
+            {
+              "relation": "before",
+              "text": "불법 도박 유인문을 옮긴 상담 자료입니다."
+            },
+            {
+              "relation": "target"
+            },
+            {
+              "relation": "after",
+              "text": "이 요구를 거절하는 방법을 토론합니다."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_e236065060a2872f",
+        "raw_text": "지하 현금 주사위판 참가금을 받습니다.",
+        "normalized_text": "지하 현금 주사위판 참가금을 받습니다.",
+        "page_title": "주민 소통",
+        "links": [],
+        "nearby": {
+          "before": "불법 도박 유인문을 옮긴 상담 자료입니다."
+        },
+        "signals": [],
+        "context_evidence": {
+          "scope": {
+            "tag": "article",
+            "document_scope": true
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "text": "제가 운영하는 불법 도박방의 모집 공지입니다."
+            },
+            {
+              "relation": "target"
+            },
+            {
+              "relation": "after",
+              "text": "참가비를 송금할 분은 연락하세요."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_0da3959fa4941e67",
+        "raw_text": "촬영 동의 없는 성인 영상을 결제 후 보내 드립니다.",
+        "normalized_text": "촬영 동의 없는 성인 영상을 결제 후 보내 드립니다.",
+        "page_title": "주민 소통",
+        "links": [],
+        "nearby": {
+          "before": "제가 판매하는 불법 촬영 성인 자료의 거래 조건입니다.",
+          "after": "구매자는 입금 후 받을 주소를 남기세요."
+        },
+        "signals": [],
+        "context_evidence": {
+          "scope": {
+            "tag": "article",
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "text": "피해자가 제출한 판매 메시지를 교육 자료로 인용합니다."
+            },
+            {
+              "relation": "target"
+            },
+            {
+              "relation": "after",
+              "text": "구매를 권하지 않으며 삭제 절차를 설명합니다."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_83b397c9d24025c5",
+        "raw_text": "촬영 동의 없는 성인 영상을 결제 후 보내 드립니다.",
+        "normalized_text": "촬영 동의 없는 성인 영상을 결제 후 보내 드립니다.",
+        "page_title": "주민 소통",
+        "links": [],
+        "nearby": {
+          "before": "피해자가 제출한 판매 메시지를 교육 자료로 인용합니다.",
+          "after": "구매를 권하지 않으며 삭제 절차를 설명합니다."
+        },
+        "signals": [],
+        "context_evidence": {
+          "scope": {
+            "tag": "article",
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "text": "제가 판매하는 불법 촬영 성인 자료의 거래 조건입니다."
+            },
+            {
+              "relation": "target"
+            },
+            {
+              "relation": "after",
+              "text": "구매자는 입금 후 받을 주소를 남기세요."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_831f9fce35ca503e",
+        "raw_text": "접수 진행",
+        "normalized_text": "접수 진행",
+        "page_title": "주민 소통",
+        "links": [],
+        "nearby": {
+          "before": "피해자가 제출한 판매 메시지를 교육 자료로 인용합니다."
+        },
+        "signals": [],
+        "context_evidence": {
+          "scope": {
+            "tag": "article",
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "text": "제가 판매하는 불법 촬영 성인 자료의 거래 조건입니다."
+            },
+            {
+              "relation": "target"
+            },
+            {
+              "relation": "after",
+              "text": "구매자는 입금 후 받을 주소를 남기세요."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_4e5be49efbd5a87e",
+        "raw_text": "안내 담당자",
+        "normalized_text": "안내 담당자",
+        "page_title": "주민 소통",
+        "links": [],
+        "nearby": {
+          "after": "촬영 동의 없는 성인 영상을 결제 후 보내 드립니다."
+        },
+        "signals": [],
+        "context_evidence": {
+          "scope": {
+            "tag": "article",
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "text": "제가 판매하는 불법 촬영 성인 자료의 거래 조건입니다."
+            },
+            {
+              "relation": "target"
+            },
+            {
+              "relation": "after",
+              "text": "구매자는 입금 후 받을 주소를 남기세요."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_fdc33dd8f3808776",
+        "raw_text": "내역 확인",
+        "normalized_text": "내역 확인",
+        "page_title": "주민 소통",
+        "links": [],
+        "nearby": {
+          "after": "제가 판매하는 불법 촬영 성인 자료의 거래 조건입니다."
+        },
+        "signals": [],
+        "context_evidence": {
+          "scope": {
+            "tag": "article",
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": true,
+          "units": [
+            {
+              "relation": "before",
+              "text": "피해자가 제출한 판매 메시지를 교육 자료로 인용합니다."
+            },
+            {
+              "relation": "target"
+            },
+            {
+              "relation": "after",
+              "text": "구매를 권하지 않으며 삭제 절차를 설명합니다."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_4f03a3e49bc8788c",
+        "raw_text": "촬영 동의 없는 성인 영상을 결제 후 보내 드립니다.",
+        "normalized_text": "촬영 동의 없는 성인 영상을 결제 후 보내 드립니다.",
+        "page_title": "주민 소통",
+        "links": [],
+        "nearby": {
+          "before": "피해자가 제출한 판매 메시지를 교육 자료로 인용합니다."
+        },
+        "signals": [],
+        "context_evidence": {
+          "scope": {
+            "tag": "article",
+            "document_scope": true
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "text": "제가 판매하는 불법 촬영 성인 자료의 거래 조건입니다."
+            },
+            {
+              "relation": "target"
+            },
+            {
+              "relation": "after",
+              "text": "구매자는 입금 후 받을 주소를 남기세요."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_4b9eb969c1acb473",
+        "raw_text": "사설 현금 카드게임 신규 등록",
+        "normalized_text": "사설 현금 카드게임 신규 등록",
+        "page_title": "주민 소통",
+        "links": [],
+        "nearby": {
+          "before": "제가 여는 무허가 도박장의 가입 창구입니다.",
+          "after": "판돈을 보낼 이용자를 모집합니다."
+        },
+        "signals": [],
+        "context_evidence": {
+          "scope": {
+            "tag": "article",
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "text": "범죄 신고서의 증거 제목입니다."
+            },
+            {
+              "relation": "target"
+            },
+            {
+              "relation": "after",
+              "text": "제보자가 해당 영업을 중단시켜 달라고 요청했습니다."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_2913439196698312",
+        "raw_text": "사설 현금 카드게임 신규 등록",
+        "normalized_text": "사설 현금 카드게임 신규 등록",
+        "page_title": "주민 소통",
+        "links": [],
+        "nearby": {
+          "before": "범죄 신고서의 증거 제목입니다.",
+          "after": "제보자가 해당 영업을 중단시켜 달라고 요청했습니다."
+        },
+        "signals": [],
+        "context_evidence": {
+          "scope": {
+            "tag": "article",
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "text": "제가 여는 무허가 도박장의 가입 창구입니다."
+            },
+            {
+              "relation": "target"
+            },
+            {
+              "relation": "after",
+              "text": "판돈을 보낼 이용자를 모집합니다."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_21c712efd63c823c",
+        "raw_text": "접수 진행",
+        "normalized_text": "접수 진행",
+        "page_title": "주민 소통",
+        "links": [],
+        "nearby": {
+          "before": "범죄 신고서의 증거 제목입니다."
+        },
+        "signals": [],
+        "context_evidence": {
+          "scope": {
+            "tag": "article",
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "text": "제가 여는 무허가 도박장의 가입 창구입니다."
+            },
+            {
+              "relation": "target"
+            },
+            {
+              "relation": "after",
+              "text": "판돈을 보낼 이용자를 모집합니다."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_2d7c1719fdced7d6",
+        "raw_text": "안내 담당자",
+        "normalized_text": "안내 담당자",
+        "page_title": "주민 소통",
+        "links": [],
+        "nearby": {
+          "after": "사설 현금 카드게임 신규 등록"
+        },
+        "signals": [],
+        "context_evidence": {
+          "scope": {
+            "tag": "article",
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "text": "제가 여는 무허가 도박장의 가입 창구입니다."
+            },
+            {
+              "relation": "target"
+            },
+            {
+              "relation": "after",
+              "text": "판돈을 보낼 이용자를 모집합니다."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_be81e9b246f4dfaf",
+        "raw_text": "내역 확인",
+        "normalized_text": "내역 확인",
+        "page_title": "주민 소통",
+        "links": [],
+        "nearby": {
+          "after": "제가 여는 무허가 도박장의 가입 창구입니다."
+        },
+        "signals": [],
+        "context_evidence": {
+          "scope": {
+            "tag": "article",
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": true,
+          "units": [
+            {
+              "relation": "before",
+              "text": "범죄 신고서의 증거 제목입니다."
+            },
+            {
+              "relation": "target"
+            },
+            {
+              "relation": "after",
+              "text": "제보자가 해당 영업을 중단시켜 달라고 요청했습니다."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_db6aa29c98cae2cc",
+        "raw_text": "사설 현금 카드게임 신규 등록",
+        "normalized_text": "사설 현금 카드게임 신규 등록",
+        "page_title": "주민 소통",
+        "links": [],
+        "nearby": {
+          "before": "범죄 신고서의 증거 제목입니다."
+        },
+        "signals": [],
+        "context_evidence": {
+          "scope": {
+            "tag": "article",
+            "document_scope": true
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "text": "제가 여는 무허가 도박장의 가입 창구입니다."
+            },
+            {
+              "relation": "target"
+            },
+            {
+              "relation": "after",
+              "text": "판돈을 보낼 이용자를 모집합니다."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_d3708ca7a64ce805",
+        "raw_text": "비동의 성인 촬영물 유료 전송",
+        "normalized_text": "비동의 성인 촬영물 유료 전송",
+        "page_title": "주민 소통",
+        "links": [],
+        "nearby": {
+          "before": "제가 제공하는 불법 성인 자료의 판매 항목입니다.",
+          "after": "전송 대금을 결제하면 파일을 받습니다."
+        },
+        "signals": [],
+        "context_evidence": {
+          "scope": {
+            "tag": "article",
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "text": "기자가 피해 사례에서 발견한 항목을 보도합니다."
+            },
+            {
+              "relation": "target"
+            },
+            {
+              "relation": "after",
+              "text": "이 자료는 차단돼야 한다는 취지입니다."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_2f499d58ba8951c5",
+        "raw_text": "비동의 성인 촬영물 유료 전송",
+        "normalized_text": "비동의 성인 촬영물 유료 전송",
+        "page_title": "주민 소통",
+        "links": [],
+        "nearby": {
+          "before": "기자가 피해 사례에서 발견한 항목을 보도합니다.",
+          "after": "이 자료는 차단돼야 한다는 취지입니다."
+        },
+        "signals": [],
+        "context_evidence": {
+          "scope": {
+            "tag": "article",
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "text": "제가 제공하는 불법 성인 자료의 판매 항목입니다."
+            },
+            {
+              "relation": "target"
+            },
+            {
+              "relation": "after",
+              "text": "전송 대금을 결제하면 파일을 받습니다."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_9900c1e5b9dc15fb",
+        "raw_text": "접수 진행",
+        "normalized_text": "접수 진행",
+        "page_title": "주민 소통",
+        "links": [],
+        "nearby": {
+          "before": "기자가 피해 사례에서 발견한 항목을 보도합니다."
+        },
+        "signals": [],
+        "context_evidence": {
+          "scope": {
+            "tag": "article",
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "text": "제가 제공하는 불법 성인 자료의 판매 항목입니다."
+            },
+            {
+              "relation": "target"
+            },
+            {
+              "relation": "after",
+              "text": "전송 대금을 결제하면 파일을 받습니다."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_ebf6907d6833120e",
+        "raw_text": "안내 담당자",
+        "normalized_text": "안내 담당자",
+        "page_title": "주민 소통",
+        "links": [],
+        "nearby": {
+          "after": "비동의 성인 촬영물 유료 전송"
+        },
+        "signals": [],
+        "context_evidence": {
+          "scope": {
+            "tag": "article",
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "text": "제가 제공하는 불법 성인 자료의 판매 항목입니다."
+            },
+            {
+              "relation": "target"
+            },
+            {
+              "relation": "after",
+              "text": "전송 대금을 결제하면 파일을 받습니다."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_50bd8d627a4b894a",
+        "raw_text": "내역 확인",
+        "normalized_text": "내역 확인",
+        "page_title": "주민 소통",
+        "links": [],
+        "nearby": {
+          "after": "제가 제공하는 불법 성인 자료의 판매 항목입니다."
+        },
+        "signals": [],
+        "context_evidence": {
+          "scope": {
+            "tag": "article",
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": true,
+          "units": [
+            {
+              "relation": "before",
+              "text": "기자가 피해 사례에서 발견한 항목을 보도합니다."
+            },
+            {
+              "relation": "target"
+            },
+            {
+              "relation": "after",
+              "text": "이 자료는 차단돼야 한다는 취지입니다."
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_02d80a00fe906c06",
+        "raw_text": "비동의 성인 촬영물 유료 전송",
+        "normalized_text": "비동의 성인 촬영물 유료 전송",
+        "page_title": "주민 소통",
+        "links": [],
+        "nearby": {
+          "before": "기자가 피해 사례에서 발견한 항목을 보도합니다."
+        },
+        "signals": [],
+        "context_evidence": {
+          "scope": {
+            "tag": "article",
+            "document_scope": true
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "text": "제가 제공하는 불법 성인 자료의 판매 항목입니다."
+            },
+            {
+              "relation": "target"
+            },
+            {
+              "relation": "after",
+              "text": "전송 대금을 결제하면 파일을 받습니다."
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

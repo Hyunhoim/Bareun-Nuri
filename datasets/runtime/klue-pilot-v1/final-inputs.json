@@ -1,0 +1,4994 @@
+[
+  {
+    "id": "k_f638c4403bb82a47",
+    "group": "final-0-0",
+    "candidate": {
+      "node_id": "k_f638c4403bb82a47",
+      "raw_text": "연결 화면에서 의사를 남기시면 됩니다.",
+      "normalized_text": "연결 화면에서 의사를 남기시면 됩니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "아람터 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "연결 화면에서 의사를 남기시면 됩니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "연결 화면에서 의사를 남기시면 됩니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 아람터 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다."
+    }
+  },
+  {
+    "id": "k_9554b47e98a0a832",
+    "group": "final-0-0",
+    "candidate": {
+      "node_id": "k_9554b47e98a0a832",
+      "raw_text": "아람터 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "normalized_text": "아람터 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "민원 조사 보고서에 보관된 원문으로, 재발을 막으려 공개합니다. 참여하거나 구매하라는 뜻이 아닙니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "아람터 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+            "quoted": true
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "아람터 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 민원 조사 보고서에 보관된 원문으로, 재발을 막으려 공개합니다. 참여하거나 구매하라는 뜻이 아닙니다."
+    }
+  },
+  {
+    "id": "k_5ae3eb98ed827fac",
+    "group": "final-0-0",
+    "candidate": {
+      "node_id": "k_5ae3eb98ed827fac",
+      "raw_text": "아람터 시립 정원 해설 프로그램의 참여 접수를 진행합니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "normalized_text": "아람터 시립 정원 해설 프로그램의 참여 접수를 진행합니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "아람터 시립 정원 해설 프로그램의 참여 접수를 진행합니다. 연결 화면에서 의사를 남기시면 됩니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "아람터 시립 정원 해설 프로그램의 참여 접수를 진행합니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "context": "시민 소통 게시판"
+    }
+  },
+  {
+    "id": "k_d0627a72eadefd10",
+    "group": "final-0-0",
+    "candidate": {
+      "node_id": "k_d0627a72eadefd10",
+      "raw_text": "연결 화면에서 의사를 남기시면 됩니다.",
+      "normalized_text": "연결 화면에서 의사를 남기시면 됩니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "주어진 문장만으로는 신청의 목적과 실체를 확인할 수 없습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "연결 화면에서 의사를 남기시면 됩니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "연결 화면에서 의사를 남기시면 됩니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 주어진 문장만으로는 신청의 목적과 실체를 확인할 수 없습니다."
+    }
+  },
+  {
+    "id": "k_d3d85a1df32dfed1",
+    "group": "final-0-0",
+    "candidate": {
+      "node_id": "k_d3d85a1df32dfed1",
+      "raw_text": "연결​ 화면에서​ 의사를​ 남기시면​ 됩니다.",
+      "normalized_text": "연결​ 화면에서​ 의사를​ 남기시면​ 됩니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "아람터 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "연결​ 화면에서​ 의사를​ 남기시면​ 됩니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "연결​ 화면에서​ 의사를​ 남기시면​ 됩니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 아람터 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다."
+    }
+  },
+  {
+    "id": "k_e3267f9290da6238",
+    "group": "final-0-0",
+    "candidate": {
+      "node_id": "k_e3267f9290da6238",
+      "raw_text": "아람터​ 금전을​ 걸고​ 결과를​ 맞히는​ 불법​ 온라인​ 경마방을​ 운영​ 중입니다.​ 계정​ 발급과​ 송금을​ 마치면​ 이용할​ 수​ 있습니다.​ 연결​ 화면에서​ 의사를​ 남기시면​ 됩니다.",
+      "normalized_text": "아람터​ 금전을​ 걸고​ 결과를​ 맞히는​ 불법​ 온라인​ 경마방을​ 운영​ 중입니다.​ 계정​ 발급과​ 송금을​ 마치면​ 이용할​ 수​ 있습니다.​ 연결​ 화면에서​ 의사를​ 남기시면​ 됩니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "민원 조사 보고서에 보관된 원문으로, 재발을 막으려 공개합니다. 참여하거나 구매하라는 뜻이 아닙니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "아람터​ 금전을​ 걸고​ 결과를​ 맞히는​ 불법​ 온라인​ 경마방을​ 운영​ 중입니다.​ 계정​ 발급과​ 송금을​ 마치면​ 이용할​ 수​ 있습니다.​ 연결​ 화면에서​ 의사를​ 남기시면​ 됩니다.",
+            "quoted": true
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "아람터​ 금전을​ 걸고​ 결과를​ 맞히는​ 불법​ 온라인​ 경마방을​ 운영​ 중입니다.​ 계정​ 발급과​ 송금을​ 마치면​ 이용할​ 수​ 있습니다.​ 연결​ 화면에서​ 의사를​ 남기시면​ 됩니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 민원 조사 보고서에 보관된 원문으로, 재발을 막으려 공개합니다. 참여하거나 구매하라는 뜻이 아닙니다."
+    }
+  },
+  {
+    "id": "k_1aa40c0d0c710251",
+    "group": "final-0-0",
+    "candidate": {
+      "node_id": "k_1aa40c0d0c710251",
+      "raw_text": "아람터​ 시립​ 정원​ 해설​ 프로그램의​ 참여​ 접수를​ 진행합니다.​ 연결​ 화면에서​ 의사를​ 남기시면​ 됩니다.",
+      "normalized_text": "아람터​ 시립​ 정원​ 해설​ 프로그램의​ 참여​ 접수를​ 진행합니다.​ 연결​ 화면에서​ 의사를​ 남기시면​ 됩니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "아람터​ 시립​ 정원​ 해설​ 프로그램의​ 참여​ 접수를​ 진행합니다.​ 연결​ 화면에서​ 의사를​ 남기시면​ 됩니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "아람터​ 시립​ 정원​ 해설​ 프로그램의​ 참여​ 접수를​ 진행합니다.​ 연결​ 화면에서​ 의사를​ 남기시면​ 됩니다.",
+      "context": "시민 소통 게시판"
+    }
+  },
+  {
+    "id": "k_c70cf4028d5a7700",
+    "group": "final-0-0",
+    "candidate": {
+      "node_id": "k_c70cf4028d5a7700",
+      "raw_text": "연결​ 화면에서​ 의사를​ 남기시면​ 됩니다.",
+      "normalized_text": "연결​ 화면에서​ 의사를​ 남기시면​ 됩니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "주어진 문장만으로는 신청의 목적과 실체를 확인할 수 없습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "연결​ 화면에서​ 의사를​ 남기시면​ 됩니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "연결​ 화면에서​ 의사를​ 남기시면​ 됩니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 주어진 문장만으로는 신청의 목적과 실체를 확인할 수 없습니다."
+    }
+  },
+  {
+    "id": "k_5fbbc9d818ee59d0",
+    "group": "final-0-1",
+    "candidate": {
+      "node_id": "k_5fbbc9d818ee59d0",
+      "raw_text": "이용 접수는 첨부된 안내로 진행합니다.",
+      "normalized_text": "이용 접수는 첨부된 안내로 진행합니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "아람터 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "이용 접수는 첨부된 안내로 진행합니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "이용 접수는 첨부된 안내로 진행합니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 아람터 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요."
+    }
+  },
+  {
+    "id": "k_a7d1c73f56d830d2",
+    "group": "final-0-1",
+    "candidate": {
+      "node_id": "k_a7d1c73f56d830d2",
+      "raw_text": "아람터 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+      "normalized_text": "아람터 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "삭제 조치한 글을 시민 교육 자료에 옮겼습니다. 이 행위에 응하지 마십시오.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "아람터 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+            "quoted": true
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "아람터 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 삭제 조치한 글을 시민 교육 자료에 옮겼습니다. 이 행위에 응하지 마십시오."
+    }
+  },
+  {
+    "id": "k_0ac104326d8a293a",
+    "group": "final-0-1",
+    "candidate": {
+      "node_id": "k_0ac104326d8a293a",
+      "raw_text": "아람터 청소년 문화 공간 이용자를 대상으로 무료 교육을 엽니다. 이용 접수는 첨부된 안내로 진행합니다.",
+      "normalized_text": "아람터 청소년 문화 공간 이용자를 대상으로 무료 교육을 엽니다. 이용 접수는 첨부된 안내로 진행합니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "아람터 청소년 문화 공간 이용자를 대상으로 무료 교육을 엽니다. 이용 접수는 첨부된 안내로 진행합니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "아람터 청소년 문화 공간 이용자를 대상으로 무료 교육을 엽니다. 이용 접수는 첨부된 안내로 진행합니다.",
+      "context": "시민 소통 게시판"
+    }
+  },
+  {
+    "id": "k_ed30e359add0a5dd",
+    "group": "final-0-1",
+    "candidate": {
+      "node_id": "k_ed30e359add0a5dd",
+      "raw_text": "이용 접수는 첨부된 안내로 진행합니다.",
+      "normalized_text": "이용 접수는 첨부된 안내로 진행합니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "행동을 요청하지만 무엇을 이용하는지는 나와 있지 않습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "이용 접수는 첨부된 안내로 진행합니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "이용 접수는 첨부된 안내로 진행합니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 행동을 요청하지만 무엇을 이용하는지는 나와 있지 않습니다."
+    }
+  },
+  {
+    "id": "k_8110a45dac33013c",
+    "group": "final-0-1",
+    "candidate": {
+      "node_id": "k_8110a45dac33013c",
+      "raw_text": "이용​ 접수는​ 첨부된​ 안내로​ 진행합니다.",
+      "normalized_text": "이용​ 접수는​ 첨부된​ 안내로​ 진행합니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "아람터 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "이용​ 접수는​ 첨부된​ 안내로​ 진행합니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "이용​ 접수는​ 첨부된​ 안내로​ 진행합니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 아람터 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요."
+    }
+  },
+  {
+    "id": "k_1ac342e350c6a149",
+    "group": "final-0-1",
+    "candidate": {
+      "node_id": "k_1ac342e350c6a149",
+      "raw_text": "아람터​ 법적​ 허가가​ 없는​ 룰렛​ 도박​ 서비스입니다.​ 회원으로​ 들어와​ 돈을​ 걸어​ 보세요.​ 이용​ 접수는​ 첨부된​ 안내로​ 진행합니다.",
+      "normalized_text": "아람터​ 법적​ 허가가​ 없는​ 룰렛​ 도박​ 서비스입니다.​ 회원으로​ 들어와​ 돈을​ 걸어​ 보세요.​ 이용​ 접수는​ 첨부된​ 안내로​ 진행합니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "삭제 조치한 글을 시민 교육 자료에 옮겼습니다. 이 행위에 응하지 마십시오.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "아람터​ 법적​ 허가가​ 없는​ 룰렛​ 도박​ 서비스입니다.​ 회원으로​ 들어와​ 돈을​ 걸어​ 보세요.​ 이용​ 접수는​ 첨부된​ 안내로​ 진행합니다.",
+            "quoted": true
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "아람터​ 법적​ 허가가​ 없는​ 룰렛​ 도박​ 서비스입니다.​ 회원으로​ 들어와​ 돈을​ 걸어​ 보세요.​ 이용​ 접수는​ 첨부된​ 안내로​ 진행합니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 삭제 조치한 글을 시민 교육 자료에 옮겼습니다. 이 행위에 응하지 마십시오."
+    }
+  },
+  {
+    "id": "k_49ee56d88f5ec355",
+    "group": "final-0-1",
+    "candidate": {
+      "node_id": "k_49ee56d88f5ec355",
+      "raw_text": "아람터​ 청소년​ 문화​ 공간​ 이용자를​ 대상으로​ 무료​ 교육을​ 엽니다.​ 이용​ 접수는​ 첨부된​ 안내로​ 진행합니다.",
+      "normalized_text": "아람터​ 청소년​ 문화​ 공간​ 이용자를​ 대상으로​ 무료​ 교육을​ 엽니다.​ 이용​ 접수는​ 첨부된​ 안내로​ 진행합니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "아람터​ 청소년​ 문화​ 공간​ 이용자를​ 대상으로​ 무료​ 교육을​ 엽니다.​ 이용​ 접수는​ 첨부된​ 안내로​ 진행합니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "아람터​ 청소년​ 문화​ 공간​ 이용자를​ 대상으로​ 무료​ 교육을​ 엽니다.​ 이용​ 접수는​ 첨부된​ 안내로​ 진행합니다.",
+      "context": "시민 소통 게시판"
+    }
+  },
+  {
+    "id": "k_84b73ac35111ca6f",
+    "group": "final-0-1",
+    "candidate": {
+      "node_id": "k_84b73ac35111ca6f",
+      "raw_text": "이용​ 접수는​ 첨부된​ 안내로​ 진행합니다.",
+      "normalized_text": "이용​ 접수는​ 첨부된​ 안내로​ 진행합니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "행동을 요청하지만 무엇을 이용하는지는 나와 있지 않습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "이용​ 접수는​ 첨부된​ 안내로​ 진행합니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "이용​ 접수는​ 첨부된​ 안내로​ 진행합니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 행동을 요청하지만 무엇을 이용하는지는 나와 있지 않습니다."
+    }
+  },
+  {
+    "id": "k_10398f0824eacebe",
+    "group": "final-0-2",
+    "candidate": {
+      "node_id": "k_10398f0824eacebe",
+      "raw_text": "연락처로 참가 신청을 전달해 주세요.",
+      "normalized_text": "연락처로 참가 신청을 전달해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "아람터 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "연락처로 참가 신청을 전달해 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "연락처로 참가 신청을 전달해 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 아람터 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다."
+    }
+  },
+  {
+    "id": "k_73f510041d2e3a76",
+    "group": "final-0-2",
+    "candidate": {
+      "node_id": "k_73f510041d2e3a76",
+      "raw_text": "아람터 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+      "normalized_text": "아람터 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "부적절한 권유가 어떤 모습인지 설명하려 싣습니다. 서비스 연결을 제공하지 않습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "아람터 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+            "quoted": true
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "아람터 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 부적절한 권유가 어떤 모습인지 설명하려 싣습니다. 서비스 연결을 제공하지 않습니다."
+    }
+  },
+  {
+    "id": "k_752ec0d2dceca77f",
+    "group": "final-0-2",
+    "candidate": {
+      "node_id": "k_752ec0d2dceca77f",
+      "raw_text": "아람터 보건소 걷기 교실 등록 절차를 소개합니다. 연락처로 참가 신청을 전달해 주세요.",
+      "normalized_text": "아람터 보건소 걷기 교실 등록 절차를 소개합니다. 연락처로 참가 신청을 전달해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "아람터 보건소 걷기 교실 등록 절차를 소개합니다. 연락처로 참가 신청을 전달해 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "아람터 보건소 걷기 교실 등록 절차를 소개합니다. 연락처로 참가 신청을 전달해 주세요.",
+      "context": "시민 소통 게시판"
+    }
+  },
+  {
+    "id": "k_92d2da2ca5de8b80",
+    "group": "final-0-2",
+    "candidate": {
+      "node_id": "k_92d2da2ca5de8b80",
+      "raw_text": "연락처로 참가 신청을 전달해 주세요.",
+      "normalized_text": "연락처로 참가 신청을 전달해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "보이는 자료에 거래의 대상과 성격이 빠져 있습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "연락처로 참가 신청을 전달해 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "연락처로 참가 신청을 전달해 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 보이는 자료에 거래의 대상과 성격이 빠져 있습니다."
+    }
+  },
+  {
+    "id": "k_d21f2d6e3a9242b4",
+    "group": "final-0-2",
+    "candidate": {
+      "node_id": "k_d21f2d6e3a9242b4",
+      "raw_text": "연락처로​ 참가​ 신청을​ 전달해​ 주세요.",
+      "normalized_text": "연락처로​ 참가​ 신청을​ 전달해​ 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "아람터 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "연락처로​ 참가​ 신청을​ 전달해​ 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "연락처로​ 참가​ 신청을​ 전달해​ 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 아람터 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다."
+    }
+  },
+  {
+    "id": "k_f8011c713ac7b6f2",
+    "group": "final-0-2",
+    "candidate": {
+      "node_id": "k_f8011c713ac7b6f2",
+      "raw_text": "아람터​ 유통이​ 금지된​ 성인​ 촬영물을​ 유료로​ 공유합니다.​ 비용을​ 납부한​ 구매자에게​ 열람​ 권한을​ 드립니다.​ 연락처로​ 참가​ 신청을​ 전달해​ 주세요.",
+      "normalized_text": "아람터​ 유통이​ 금지된​ 성인​ 촬영물을​ 유료로​ 공유합니다.​ 비용을​ 납부한​ 구매자에게​ 열람​ 권한을​ 드립니다.​ 연락처로​ 참가​ 신청을​ 전달해​ 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "부적절한 권유가 어떤 모습인지 설명하려 싣습니다. 서비스 연결을 제공하지 않습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "아람터​ 유통이​ 금지된​ 성인​ 촬영물을​ 유료로​ 공유합니다.​ 비용을​ 납부한​ 구매자에게​ 열람​ 권한을​ 드립니다.​ 연락처로​ 참가​ 신청을​ 전달해​ 주세요.",
+            "quoted": true
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "아람터​ 유통이​ 금지된​ 성인​ 촬영물을​ 유료로​ 공유합니다.​ 비용을​ 납부한​ 구매자에게​ 열람​ 권한을​ 드립니다.​ 연락처로​ 참가​ 신청을​ 전달해​ 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 부적절한 권유가 어떤 모습인지 설명하려 싣습니다. 서비스 연결을 제공하지 않습니다."
+    }
+  },
+  {
+    "id": "k_536db4a6579390af",
+    "group": "final-0-2",
+    "candidate": {
+      "node_id": "k_536db4a6579390af",
+      "raw_text": "아람터​ 보건소​ 걷기​ 교실​ 등록​ 절차를​ 소개합니다.​ 연락처로​ 참가​ 신청을​ 전달해​ 주세요.",
+      "normalized_text": "아람터​ 보건소​ 걷기​ 교실​ 등록​ 절차를​ 소개합니다.​ 연락처로​ 참가​ 신청을​ 전달해​ 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "아람터​ 보건소​ 걷기​ 교실​ 등록​ 절차를​ 소개합니다.​ 연락처로​ 참가​ 신청을​ 전달해​ 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "아람터​ 보건소​ 걷기​ 교실​ 등록​ 절차를​ 소개합니다.​ 연락처로​ 참가​ 신청을​ 전달해​ 주세요.",
+      "context": "시민 소통 게시판"
+    }
+  },
+  {
+    "id": "k_0d5088d808f71434",
+    "group": "final-0-2",
+    "candidate": {
+      "node_id": "k_0d5088d808f71434",
+      "raw_text": "연락처로​ 참가​ 신청을​ 전달해​ 주세요.",
+      "normalized_text": "연락처로​ 참가​ 신청을​ 전달해​ 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "보이는 자료에 거래의 대상과 성격이 빠져 있습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "연락처로​ 참가​ 신청을​ 전달해​ 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "연락처로​ 참가​ 신청을​ 전달해​ 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 보이는 자료에 거래의 대상과 성격이 빠져 있습니다."
+    }
+  },
+  {
+    "id": "k_c338178aceeef90c",
+    "group": "final-0-3",
+    "candidate": {
+      "node_id": "k_c338178aceeef90c",
+      "raw_text": "거래 희망자는 해당 창구를 방문해 주세요.",
+      "normalized_text": "거래 희망자는 해당 창구를 방문해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "아람터 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "거래 희망자는 해당 창구를 방문해 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "거래 희망자는 해당 창구를 방문해 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 아람터 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오."
+    }
+  },
+  {
+    "id": "k_9001c6d090762da8",
+    "group": "final-0-3",
+    "candidate": {
+      "node_id": "k_9001c6d090762da8",
+      "raw_text": "아람터 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "normalized_text": "아람터 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "게시판 운영 교육을 위한 기록이며, 해당 거래를 중개하지 않습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "아람터 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+            "quoted": true
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "아람터 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 게시판 운영 교육을 위한 기록이며, 해당 거래를 중개하지 않습니다."
+    }
+  },
+  {
+    "id": "k_02282b7f84e917c8",
+    "group": "final-0-3",
+    "candidate": {
+      "node_id": "k_02282b7f84e917c8",
+      "raw_text": "아람터 지역 기록관 열람 방문을 예약할 수 있습니다. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "normalized_text": "아람터 지역 기록관 열람 방문을 예약할 수 있습니다. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "아람터 지역 기록관 열람 방문을 예약할 수 있습니다. 거래 희망자는 해당 창구를 방문해 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "아람터 지역 기록관 열람 방문을 예약할 수 있습니다. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "context": "시민 소통 게시판"
+    }
+  },
+  {
+    "id": "k_333ad6a4e4a1714a",
+    "group": "final-0-3",
+    "candidate": {
+      "node_id": "k_333ad6a4e4a1714a",
+      "raw_text": "거래 희망자는 해당 창구를 방문해 주세요.",
+      "normalized_text": "거래 희망자는 해당 창구를 방문해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "운영 주체나 활동을 식별할 문맥이 제공되지 않았습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "거래 희망자는 해당 창구를 방문해 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "거래 희망자는 해당 창구를 방문해 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 운영 주체나 활동을 식별할 문맥이 제공되지 않았습니다."
+    }
+  },
+  {
+    "id": "k_adbf96684dff1e14",
+    "group": "final-0-3",
+    "candidate": {
+      "node_id": "k_adbf96684dff1e14",
+      "raw_text": "거래​ 희망자는​ 해당​ 창구를​ 방문해​ 주세요.",
+      "normalized_text": "거래​ 희망자는​ 해당​ 창구를​ 방문해​ 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "아람터 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "거래​ 희망자는​ 해당​ 창구를​ 방문해​ 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "거래​ 희망자는​ 해당​ 창구를​ 방문해​ 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 아람터 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오."
+    }
+  },
+  {
+    "id": "k_995949ff1beaf19c",
+    "group": "final-0-3",
+    "candidate": {
+      "node_id": "k_995949ff1beaf19c",
+      "raw_text": "아람터​ 비인가​ 인터넷​ 화투​ 내기방의​ 고객을​ 모집​ 중입니다.​ 게임​ 머니를​ 현금으로​ 사서​ 승부에​ 참여하십시오.​ 거래​ 희망자는​ 해당​ 창구를​ 방문해​ 주세요.",
+      "normalized_text": "아람터​ 비인가​ 인터넷​ 화투​ 내기방의​ 고객을​ 모집​ 중입니다.​ 게임​ 머니를​ 현금으로​ 사서​ 승부에​ 참여하십시오.​ 거래​ 희망자는​ 해당​ 창구를​ 방문해​ 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "게시판 운영 교육을 위한 기록이며, 해당 거래를 중개하지 않습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "아람터​ 비인가​ 인터넷​ 화투​ 내기방의​ 고객을​ 모집​ 중입니다.​ 게임​ 머니를​ 현금으로​ 사서​ 승부에​ 참여하십시오.​ 거래​ 희망자는​ 해당​ 창구를​ 방문해​ 주세요.",
+            "quoted": true
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "아람터​ 비인가​ 인터넷​ 화투​ 내기방의​ 고객을​ 모집​ 중입니다.​ 게임​ 머니를​ 현금으로​ 사서​ 승부에​ 참여하십시오.​ 거래​ 희망자는​ 해당​ 창구를​ 방문해​ 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 게시판 운영 교육을 위한 기록이며, 해당 거래를 중개하지 않습니다."
+    }
+  },
+  {
+    "id": "k_bcef3f6dafcdfdd2",
+    "group": "final-0-3",
+    "candidate": {
+      "node_id": "k_bcef3f6dafcdfdd2",
+      "raw_text": "아람터​ 지역​ 기록관​ 열람​ 방문을​ 예약할​ 수​ 있습니다.​ 거래​ 희망자는​ 해당​ 창구를​ 방문해​ 주세요.",
+      "normalized_text": "아람터​ 지역​ 기록관​ 열람​ 방문을​ 예약할​ 수​ 있습니다.​ 거래​ 희망자는​ 해당​ 창구를​ 방문해​ 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "아람터​ 지역​ 기록관​ 열람​ 방문을​ 예약할​ 수​ 있습니다.​ 거래​ 희망자는​ 해당​ 창구를​ 방문해​ 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "아람터​ 지역​ 기록관​ 열람​ 방문을​ 예약할​ 수​ 있습니다.​ 거래​ 희망자는​ 해당​ 창구를​ 방문해​ 주세요.",
+      "context": "시민 소통 게시판"
+    }
+  },
+  {
+    "id": "k_68767b0442670315",
+    "group": "final-0-3",
+    "candidate": {
+      "node_id": "k_68767b0442670315",
+      "raw_text": "거래​ 희망자는​ 해당​ 창구를​ 방문해​ 주세요.",
+      "normalized_text": "거래​ 희망자는​ 해당​ 창구를​ 방문해​ 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "운영 주체나 활동을 식별할 문맥이 제공되지 않았습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "거래​ 희망자는​ 해당​ 창구를​ 방문해​ 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "거래​ 희망자는​ 해당​ 창구를​ 방문해​ 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 운영 주체나 활동을 식별할 문맥이 제공되지 않았습니다."
+    }
+  },
+  {
+    "id": "k_c0b37b71c6bf12a0",
+    "group": "final-1-0",
+    "candidate": {
+      "node_id": "k_c0b37b71c6bf12a0",
+      "raw_text": "고운결 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "normalized_text": "고운결 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "운영자가 직접 올린 가입 안내입니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "고운결 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "text": "연결 화면에서 의사를 남기시면 됩니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "고운결 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 운영자가 직접 올린 가입 안내입니다.\n뒤 문맥: 연결 화면에서 의사를 남기시면 됩니다."
+    }
+  },
+  {
+    "id": "k_1881be69cb4bfd2e",
+    "group": "final-1-0",
+    "candidate": {
+      "node_id": "k_1881be69cb4bfd2e",
+      "raw_text": "고운결 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "normalized_text": "고운결 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "고운결 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "text": "민원 조사 보고서에 보관된 원문으로, 재발을 막으려 공개합니다. 참여하거나 구매하라는 뜻이 아닙니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "고운결 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "context": "시민 소통 게시판\n뒤 문맥: 민원 조사 보고서에 보관된 원문으로, 재발을 막으려 공개합니다. 참여하거나 구매하라는 뜻이 아닙니다."
+    }
+  },
+  {
+    "id": "k_075cd6c7fccbb510",
+    "group": "final-1-0",
+    "candidate": {
+      "node_id": "k_075cd6c7fccbb510",
+      "raw_text": "목록 정렬 기준",
+      "normalized_text": "목록 정렬 기준",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "고운결 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "목록 정렬 기준",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "text": "위 표시는 문서의 부가 정보 항목입니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "목록 정렬 기준",
+      "context": "시민 소통 게시판\n앞 문맥: 고운결 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.\n뒤 문맥: 위 표시는 문서의 부가 정보 항목입니다."
+    }
+  },
+  {
+    "id": "k_abc69144a97580f0",
+    "group": "final-1-0",
+    "candidate": {
+      "node_id": "k_abc69144a97580f0",
+      "raw_text": "연결 화면에서 의사를 남기시면 됩니다.",
+      "normalized_text": "연결 화면에서 의사를 남기시면 됩니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "주어진 문장만으로는 신청의 목적과 실체를 확인할 수 없습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "연결 화면에서 의사를 남기시면 됩니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "연결 화면에서 의사를 남기시면 됩니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 주어진 문장만으로는 신청의 목적과 실체를 확인할 수 없습니다."
+    }
+  },
+  {
+    "id": "k_21ec9610764e9d7e",
+    "group": "final-1-0",
+    "candidate": {
+      "node_id": "k_21ec9610764e9d7e",
+      "raw_text": "고운결 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "normalized_text": "고운결 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "운영자가 직접 올린 가입 안내입니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "고운결 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "text": "연결 화면에서 의사를 남기시면 됩니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "고운결 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 운영자가 직접 올린 가입 안내입니다.\n뒤 문맥: 연결 화면에서 의사를 남기시면 됩니다."
+    }
+  },
+  {
+    "id": "k_d676d857ab659fee",
+    "group": "final-1-0",
+    "candidate": {
+      "node_id": "k_d676d857ab659fee",
+      "raw_text": "고운결 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "normalized_text": "고운결 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "고운결 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "text": "민원 조사 보고서에 보관된 원문으로, 재발을 막으려 공개합니다. 참여하거나 구매하라는 뜻이 아닙니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "고운결 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "context": "시민 소통 게시판\n뒤 문맥: 민원 조사 보고서에 보관된 원문으로, 재발을 막으려 공개합니다. 참여하거나 구매하라는 뜻이 아닙니다."
+    }
+  },
+  {
+    "id": "k_1b127e3c33b43311",
+    "group": "final-1-0",
+    "candidate": {
+      "node_id": "k_1b127e3c33b43311",
+      "raw_text": "목록 정렬 기준",
+      "normalized_text": "목록 정렬 기준",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "고운결 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "목록 정렬 기준",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "text": "위 표시는 문서의 부가 정보 항목입니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "목록 정렬 기준",
+      "context": "시민 소통 게시판\n앞 문맥: 고운결 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.\n뒤 문맥: 위 표시는 문서의 부가 정보 항목입니다."
+    }
+  },
+  {
+    "id": "k_2a9b37e57f70396c",
+    "group": "final-1-0",
+    "candidate": {
+      "node_id": "k_2a9b37e57f70396c",
+      "raw_text": "연결 화면에서 의사를 남기시면 됩니다.",
+      "normalized_text": "연결 화면에서 의사를 남기시면 됩니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "주어진 문장만으로는 신청의 목적과 실체를 확인할 수 없습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "연결 화면에서 의사를 남기시면 됩니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "연결 화면에서 의사를 남기시면 됩니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 주어진 문장만으로는 신청의 목적과 실체를 확인할 수 없습니다."
+    }
+  },
+  {
+    "id": "k_9b7563d81e7bffdb",
+    "group": "final-1-1",
+    "candidate": {
+      "node_id": "k_9b7563d81e7bffdb",
+      "raw_text": "고운결 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+      "normalized_text": "고운결 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "운영자가 직접 올린 가입 안내입니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "고운결 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "text": "이용 접수는 첨부된 안내로 진행합니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "고운결 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 운영자가 직접 올린 가입 안내입니다.\n뒤 문맥: 이용 접수는 첨부된 안내로 진행합니다."
+    }
+  },
+  {
+    "id": "k_60a3f73c813679e8",
+    "group": "final-1-1",
+    "candidate": {
+      "node_id": "k_60a3f73c813679e8",
+      "raw_text": "고운결 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+      "normalized_text": "고운결 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "고운결 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "text": "삭제 조치한 글을 시민 교육 자료에 옮겼습니다. 이 행위에 응하지 마십시오.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "고운결 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+      "context": "시민 소통 게시판\n뒤 문맥: 삭제 조치한 글을 시민 교육 자료에 옮겼습니다. 이 행위에 응하지 마십시오."
+    }
+  },
+  {
+    "id": "k_da2787568707cb12",
+    "group": "final-1-1",
+    "candidate": {
+      "node_id": "k_da2787568707cb12",
+      "raw_text": "본문 수정 일시",
+      "normalized_text": "본문 수정 일시",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "고운결 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "본문 수정 일시",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "text": "위 표시는 문서의 부가 정보 항목입니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "본문 수정 일시",
+      "context": "시민 소통 게시판\n앞 문맥: 고운결 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.\n뒤 문맥: 위 표시는 문서의 부가 정보 항목입니다."
+    }
+  },
+  {
+    "id": "k_480fda79adecabd2",
+    "group": "final-1-1",
+    "candidate": {
+      "node_id": "k_480fda79adecabd2",
+      "raw_text": "이용 접수는 첨부된 안내로 진행합니다.",
+      "normalized_text": "이용 접수는 첨부된 안내로 진행합니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "행동을 요청하지만 무엇을 이용하는지는 나와 있지 않습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "이용 접수는 첨부된 안내로 진행합니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "이용 접수는 첨부된 안내로 진행합니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 행동을 요청하지만 무엇을 이용하는지는 나와 있지 않습니다."
+    }
+  },
+  {
+    "id": "k_919257877046e627",
+    "group": "final-1-1",
+    "candidate": {
+      "node_id": "k_919257877046e627",
+      "raw_text": "고운결 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+      "normalized_text": "고운결 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "운영자가 직접 올린 가입 안내입니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "고운결 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "text": "이용 접수는 첨부된 안내로 진행합니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "고운결 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 운영자가 직접 올린 가입 안내입니다.\n뒤 문맥: 이용 접수는 첨부된 안내로 진행합니다."
+    }
+  },
+  {
+    "id": "k_9a5ed629e15a88cc",
+    "group": "final-1-1",
+    "candidate": {
+      "node_id": "k_9a5ed629e15a88cc",
+      "raw_text": "고운결 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+      "normalized_text": "고운결 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "고운결 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "text": "삭제 조치한 글을 시민 교육 자료에 옮겼습니다. 이 행위에 응하지 마십시오.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "고운결 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+      "context": "시민 소통 게시판\n뒤 문맥: 삭제 조치한 글을 시민 교육 자료에 옮겼습니다. 이 행위에 응하지 마십시오."
+    }
+  },
+  {
+    "id": "k_883d63a638681da0",
+    "group": "final-1-1",
+    "candidate": {
+      "node_id": "k_883d63a638681da0",
+      "raw_text": "본문 수정 일시",
+      "normalized_text": "본문 수정 일시",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "고운결 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "본문 수정 일시",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "text": "위 표시는 문서의 부가 정보 항목입니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "본문 수정 일시",
+      "context": "시민 소통 게시판\n앞 문맥: 고운결 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.\n뒤 문맥: 위 표시는 문서의 부가 정보 항목입니다."
+    }
+  },
+  {
+    "id": "k_7134b510285374b0",
+    "group": "final-1-1",
+    "candidate": {
+      "node_id": "k_7134b510285374b0",
+      "raw_text": "이용 접수는 첨부된 안내로 진행합니다.",
+      "normalized_text": "이용 접수는 첨부된 안내로 진행합니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "행동을 요청하지만 무엇을 이용하는지는 나와 있지 않습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "이용 접수는 첨부된 안내로 진행합니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "이용 접수는 첨부된 안내로 진행합니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 행동을 요청하지만 무엇을 이용하는지는 나와 있지 않습니다."
+    }
+  },
+  {
+    "id": "k_2a3290a51c2e5cc5",
+    "group": "final-1-2",
+    "candidate": {
+      "node_id": "k_2a3290a51c2e5cc5",
+      "raw_text": "고운결 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+      "normalized_text": "고운결 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "운영자가 직접 올린 가입 안내입니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "고운결 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "text": "연락처로 참가 신청을 전달해 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "고운결 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 운영자가 직접 올린 가입 안내입니다.\n뒤 문맥: 연락처로 참가 신청을 전달해 주세요."
+    }
+  },
+  {
+    "id": "k_86041b2976c80102",
+    "group": "final-1-2",
+    "candidate": {
+      "node_id": "k_86041b2976c80102",
+      "raw_text": "고운결 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+      "normalized_text": "고운결 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "고운결 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "text": "부적절한 권유가 어떤 모습인지 설명하려 싣습니다. 서비스 연결을 제공하지 않습니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "고운결 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+      "context": "시민 소통 게시판\n뒤 문맥: 부적절한 권유가 어떤 모습인지 설명하려 싣습니다. 서비스 연결을 제공하지 않습니다."
+    }
+  },
+  {
+    "id": "k_1b6fe88e7d3ad573",
+    "group": "final-1-2",
+    "candidate": {
+      "node_id": "k_1b6fe88e7d3ad573",
+      "raw_text": "답변 처리 담당자",
+      "normalized_text": "답변 처리 담당자",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "고운결 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "답변 처리 담당자",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "text": "위 표시는 문서의 부가 정보 항목입니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "답변 처리 담당자",
+      "context": "시민 소통 게시판\n앞 문맥: 고운결 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.\n뒤 문맥: 위 표시는 문서의 부가 정보 항목입니다."
+    }
+  },
+  {
+    "id": "k_1527ecc433da4dd8",
+    "group": "final-1-2",
+    "candidate": {
+      "node_id": "k_1527ecc433da4dd8",
+      "raw_text": "연락처로 참가 신청을 전달해 주세요.",
+      "normalized_text": "연락처로 참가 신청을 전달해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "보이는 자료에 거래의 대상과 성격이 빠져 있습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "연락처로 참가 신청을 전달해 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "연락처로 참가 신청을 전달해 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 보이는 자료에 거래의 대상과 성격이 빠져 있습니다."
+    }
+  },
+  {
+    "id": "k_5e506bd4a14ce849",
+    "group": "final-1-2",
+    "candidate": {
+      "node_id": "k_5e506bd4a14ce849",
+      "raw_text": "고운결 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+      "normalized_text": "고운결 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "운영자가 직접 올린 가입 안내입니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "고운결 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "text": "연락처로 참가 신청을 전달해 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "고운결 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 운영자가 직접 올린 가입 안내입니다.\n뒤 문맥: 연락처로 참가 신청을 전달해 주세요."
+    }
+  },
+  {
+    "id": "k_0046218a98e39eb8",
+    "group": "final-1-2",
+    "candidate": {
+      "node_id": "k_0046218a98e39eb8",
+      "raw_text": "고운결 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+      "normalized_text": "고운결 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "고운결 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "text": "부적절한 권유가 어떤 모습인지 설명하려 싣습니다. 서비스 연결을 제공하지 않습니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "고운결 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+      "context": "시민 소통 게시판\n뒤 문맥: 부적절한 권유가 어떤 모습인지 설명하려 싣습니다. 서비스 연결을 제공하지 않습니다."
+    }
+  },
+  {
+    "id": "k_77a1665fd665570b",
+    "group": "final-1-2",
+    "candidate": {
+      "node_id": "k_77a1665fd665570b",
+      "raw_text": "답변 처리 담당자",
+      "normalized_text": "답변 처리 담당자",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "고운결 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "답변 처리 담당자",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "text": "위 표시는 문서의 부가 정보 항목입니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "답변 처리 담당자",
+      "context": "시민 소통 게시판\n앞 문맥: 고운결 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.\n뒤 문맥: 위 표시는 문서의 부가 정보 항목입니다."
+    }
+  },
+  {
+    "id": "k_d72385543e54cd48",
+    "group": "final-1-2",
+    "candidate": {
+      "node_id": "k_d72385543e54cd48",
+      "raw_text": "연락처로 참가 신청을 전달해 주세요.",
+      "normalized_text": "연락처로 참가 신청을 전달해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "보이는 자료에 거래의 대상과 성격이 빠져 있습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "연락처로 참가 신청을 전달해 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "연락처로 참가 신청을 전달해 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 보이는 자료에 거래의 대상과 성격이 빠져 있습니다."
+    }
+  },
+  {
+    "id": "k_2bedd4e5a73d42f4",
+    "group": "final-1-3",
+    "candidate": {
+      "node_id": "k_2bedd4e5a73d42f4",
+      "raw_text": "고운결 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "normalized_text": "고운결 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "운영자가 직접 올린 가입 안내입니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "고운결 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "text": "거래 희망자는 해당 창구를 방문해 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "고운결 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 운영자가 직접 올린 가입 안내입니다.\n뒤 문맥: 거래 희망자는 해당 창구를 방문해 주세요."
+    }
+  },
+  {
+    "id": "k_f03ddd0988dc67a5",
+    "group": "final-1-3",
+    "candidate": {
+      "node_id": "k_f03ddd0988dc67a5",
+      "raw_text": "고운결 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "normalized_text": "고운결 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "고운결 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "text": "게시판 운영 교육을 위한 기록이며, 해당 거래를 중개하지 않습니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "고운결 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "context": "시민 소통 게시판\n뒤 문맥: 게시판 운영 교육을 위한 기록이며, 해당 거래를 중개하지 않습니다."
+    }
+  },
+  {
+    "id": "k_ab192d2f0c1f3ea8",
+    "group": "final-1-3",
+    "candidate": {
+      "node_id": "k_ab192d2f0c1f3ea8",
+      "raw_text": "이전 화면 이동",
+      "normalized_text": "이전 화면 이동",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "고운결 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "이전 화면 이동",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "text": "위 표시는 문서의 부가 정보 항목입니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "이전 화면 이동",
+      "context": "시민 소통 게시판\n앞 문맥: 고운결 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.\n뒤 문맥: 위 표시는 문서의 부가 정보 항목입니다."
+    }
+  },
+  {
+    "id": "k_8e620c0af469692c",
+    "group": "final-1-3",
+    "candidate": {
+      "node_id": "k_8e620c0af469692c",
+      "raw_text": "거래 희망자는 해당 창구를 방문해 주세요.",
+      "normalized_text": "거래 희망자는 해당 창구를 방문해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "운영 주체나 활동을 식별할 문맥이 제공되지 않았습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "거래 희망자는 해당 창구를 방문해 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "거래 희망자는 해당 창구를 방문해 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 운영 주체나 활동을 식별할 문맥이 제공되지 않았습니다."
+    }
+  },
+  {
+    "id": "k_3354fca1f2f343c1",
+    "group": "final-1-3",
+    "candidate": {
+      "node_id": "k_3354fca1f2f343c1",
+      "raw_text": "고운결 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "normalized_text": "고운결 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "운영자가 직접 올린 가입 안내입니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "고운결 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "text": "거래 희망자는 해당 창구를 방문해 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "고운결 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 운영자가 직접 올린 가입 안내입니다.\n뒤 문맥: 거래 희망자는 해당 창구를 방문해 주세요."
+    }
+  },
+  {
+    "id": "k_8fe0073c2a9c6e2e",
+    "group": "final-1-3",
+    "candidate": {
+      "node_id": "k_8fe0073c2a9c6e2e",
+      "raw_text": "고운결 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "normalized_text": "고운결 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "고운결 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "text": "게시판 운영 교육을 위한 기록이며, 해당 거래를 중개하지 않습니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "고운결 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "context": "시민 소통 게시판\n뒤 문맥: 게시판 운영 교육을 위한 기록이며, 해당 거래를 중개하지 않습니다."
+    }
+  },
+  {
+    "id": "k_7e84bd90590d777a",
+    "group": "final-1-3",
+    "candidate": {
+      "node_id": "k_7e84bd90590d777a",
+      "raw_text": "이전 화면 이동",
+      "normalized_text": "이전 화면 이동",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "고운결 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "이전 화면 이동",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "text": "위 표시는 문서의 부가 정보 항목입니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "이전 화면 이동",
+      "context": "시민 소통 게시판\n앞 문맥: 고운결 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.\n뒤 문맥: 위 표시는 문서의 부가 정보 항목입니다."
+    }
+  },
+  {
+    "id": "k_348b052979a73a32",
+    "group": "final-1-3",
+    "candidate": {
+      "node_id": "k_348b052979a73a32",
+      "raw_text": "거래 희망자는 해당 창구를 방문해 주세요.",
+      "normalized_text": "거래 희망자는 해당 창구를 방문해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "운영 주체나 활동을 식별할 문맥이 제공되지 않았습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "거래 희망자는 해당 창구를 방문해 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "거래 희망자는 해당 창구를 방문해 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 운영 주체나 활동을 식별할 문맥이 제공되지 않았습니다."
+    }
+  },
+  {
+    "id": "k_e7e5d3a484a4486c",
+    "group": "final-2-0",
+    "candidate": {
+      "node_id": "k_e7e5d3a484a4486c",
+      "raw_text": "다온재 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "normalized_text": "다온재 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "다온재 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "다온재 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "context": "시민 소통 게시판"
+    }
+  },
+  {
+    "id": "k_946ae6a8fb50682b",
+    "group": "final-2-0",
+    "candidate": {
+      "node_id": "k_946ae6a8fb50682b",
+      "raw_text": "다온재 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "normalized_text": "다온재 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "민원 조사 보고서에 보관된 원문으로, 재발을 막으려 공개합니다. 참여하거나 구매하라는 뜻이 아닙니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "다온재 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+            "quoted": true
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "다온재 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 민원 조사 보고서에 보관된 원문으로, 재발을 막으려 공개합니다. 참여하거나 구매하라는 뜻이 아닙니다."
+    }
+  },
+  {
+    "id": "k_ee1a39e160acaef3",
+    "group": "final-2-0",
+    "candidate": {
+      "node_id": "k_ee1a39e160acaef3",
+      "raw_text": "다온재 시립 정원 해설 프로그램의 참여 접수를 진행합니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "normalized_text": "다온재 시립 정원 해설 프로그램의 참여 접수를 진행합니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "다온재 시립 정원 해설 프로그램의 참여 접수를 진행합니다. 연결 화면에서 의사를 남기시면 됩니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "다온재 시립 정원 해설 프로그램의 참여 접수를 진행합니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "context": "시민 소통 게시판"
+    }
+  },
+  {
+    "id": "k_47b34fb89326792e",
+    "group": "final-2-0",
+    "candidate": {
+      "node_id": "k_47b34fb89326792e",
+      "raw_text": "연결 화면에서 의사를 남기시면 됩니다.",
+      "normalized_text": "연결 화면에서 의사를 남기시면 됩니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "주어진 문장만으로는 신청의 목적과 실체를 확인할 수 없습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "연결 화면에서 의사를 남기시면 됩니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "연결 화면에서 의사를 남기시면 됩니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 주어진 문장만으로는 신청의 목적과 실체를 확인할 수 없습니다."
+    }
+  },
+  {
+    "id": "k_16227e74de1ee4e4",
+    "group": "final-2-0",
+    "candidate": {
+      "node_id": "k_16227e74de1ee4e4",
+      "raw_text": "다온재​ 금전을​ 걸고​ 결과를​ 맞히는​ 불법​ 온라인​ 경마방을​ 운영​ 중입니다.​ 계정​ 발급과​ 송금을​ 마치면​ 이용할​ 수​ 있습니다.​ 연결​ 화면에서​ 의사를​ 남기시면​ 됩니다.",
+      "normalized_text": "다온재​ 금전을​ 걸고​ 결과를​ 맞히는​ 불법​ 온라인​ 경마방을​ 운영​ 중입니다.​ 계정​ 발급과​ 송금을​ 마치면​ 이용할​ 수​ 있습니다.​ 연결​ 화면에서​ 의사를​ 남기시면​ 됩니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "다온재​ 금전을​ 걸고​ 결과를​ 맞히는​ 불법​ 온라인​ 경마방을​ 운영​ 중입니다.​ 계정​ 발급과​ 송금을​ 마치면​ 이용할​ 수​ 있습니다.​ 연결​ 화면에서​ 의사를​ 남기시면​ 됩니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "다온재​ 금전을​ 걸고​ 결과를​ 맞히는​ 불법​ 온라인​ 경마방을​ 운영​ 중입니다.​ 계정​ 발급과​ 송금을​ 마치면​ 이용할​ 수​ 있습니다.​ 연결​ 화면에서​ 의사를​ 남기시면​ 됩니다.",
+      "context": "시민 소통 게시판"
+    }
+  },
+  {
+    "id": "k_63724a5d88d7af95",
+    "group": "final-2-0",
+    "candidate": {
+      "node_id": "k_63724a5d88d7af95",
+      "raw_text": "다온재​ 금전을​ 걸고​ 결과를​ 맞히는​ 불법​ 온라인​ 경마방을​ 운영​ 중입니다.​ 계정​ 발급과​ 송금을​ 마치면​ 이용할​ 수​ 있습니다.​ 연결​ 화면에서​ 의사를​ 남기시면​ 됩니다.",
+      "normalized_text": "다온재​ 금전을​ 걸고​ 결과를​ 맞히는​ 불법​ 온라인​ 경마방을​ 운영​ 중입니다.​ 계정​ 발급과​ 송금을​ 마치면​ 이용할​ 수​ 있습니다.​ 연결​ 화면에서​ 의사를​ 남기시면​ 됩니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "민원 조사 보고서에 보관된 원문으로, 재발을 막으려 공개합니다. 참여하거나 구매하라는 뜻이 아닙니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "다온재​ 금전을​ 걸고​ 결과를​ 맞히는​ 불법​ 온라인​ 경마방을​ 운영​ 중입니다.​ 계정​ 발급과​ 송금을​ 마치면​ 이용할​ 수​ 있습니다.​ 연결​ 화면에서​ 의사를​ 남기시면​ 됩니다.",
+            "quoted": true
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "다온재​ 금전을​ 걸고​ 결과를​ 맞히는​ 불법​ 온라인​ 경마방을​ 운영​ 중입니다.​ 계정​ 발급과​ 송금을​ 마치면​ 이용할​ 수​ 있습니다.​ 연결​ 화면에서​ 의사를​ 남기시면​ 됩니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 민원 조사 보고서에 보관된 원문으로, 재발을 막으려 공개합니다. 참여하거나 구매하라는 뜻이 아닙니다."
+    }
+  },
+  {
+    "id": "k_6c2bd2b47402a717",
+    "group": "final-2-0",
+    "candidate": {
+      "node_id": "k_6c2bd2b47402a717",
+      "raw_text": "다온재​ 시립​ 정원​ 해설​ 프로그램의​ 참여​ 접수를​ 진행합니다.​ 연결​ 화면에서​ 의사를​ 남기시면​ 됩니다.",
+      "normalized_text": "다온재​ 시립​ 정원​ 해설​ 프로그램의​ 참여​ 접수를​ 진행합니다.​ 연결​ 화면에서​ 의사를​ 남기시면​ 됩니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "다온재​ 시립​ 정원​ 해설​ 프로그램의​ 참여​ 접수를​ 진행합니다.​ 연결​ 화면에서​ 의사를​ 남기시면​ 됩니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "다온재​ 시립​ 정원​ 해설​ 프로그램의​ 참여​ 접수를​ 진행합니다.​ 연결​ 화면에서​ 의사를​ 남기시면​ 됩니다.",
+      "context": "시민 소통 게시판"
+    }
+  },
+  {
+    "id": "k_2af8204b2d87aafc",
+    "group": "final-2-0",
+    "candidate": {
+      "node_id": "k_2af8204b2d87aafc",
+      "raw_text": "연결​ 화면에서​ 의사를​ 남기시면​ 됩니다.",
+      "normalized_text": "연결​ 화면에서​ 의사를​ 남기시면​ 됩니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "주어진 문장만으로는 신청의 목적과 실체를 확인할 수 없습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "연결​ 화면에서​ 의사를​ 남기시면​ 됩니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "연결​ 화면에서​ 의사를​ 남기시면​ 됩니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 주어진 문장만으로는 신청의 목적과 실체를 확인할 수 없습니다."
+    }
+  },
+  {
+    "id": "k_e4d11c6c0c826b26",
+    "group": "final-2-1",
+    "candidate": {
+      "node_id": "k_e4d11c6c0c826b26",
+      "raw_text": "다온재 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+      "normalized_text": "다온재 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "다온재 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "다온재 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+      "context": "시민 소통 게시판"
+    }
+  },
+  {
+    "id": "k_31807e1f376f97ca",
+    "group": "final-2-1",
+    "candidate": {
+      "node_id": "k_31807e1f376f97ca",
+      "raw_text": "다온재 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+      "normalized_text": "다온재 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "삭제 조치한 글을 시민 교육 자료에 옮겼습니다. 이 행위에 응하지 마십시오.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "다온재 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+            "quoted": true
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "다온재 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 삭제 조치한 글을 시민 교육 자료에 옮겼습니다. 이 행위에 응하지 마십시오."
+    }
+  },
+  {
+    "id": "k_15a6fbf2b206e705",
+    "group": "final-2-1",
+    "candidate": {
+      "node_id": "k_15a6fbf2b206e705",
+      "raw_text": "다온재 청소년 문화 공간 이용자를 대상으로 무료 교육을 엽니다. 이용 접수는 첨부된 안내로 진행합니다.",
+      "normalized_text": "다온재 청소년 문화 공간 이용자를 대상으로 무료 교육을 엽니다. 이용 접수는 첨부된 안내로 진행합니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "다온재 청소년 문화 공간 이용자를 대상으로 무료 교육을 엽니다. 이용 접수는 첨부된 안내로 진행합니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "다온재 청소년 문화 공간 이용자를 대상으로 무료 교육을 엽니다. 이용 접수는 첨부된 안내로 진행합니다.",
+      "context": "시민 소통 게시판"
+    }
+  },
+  {
+    "id": "k_e87ed2c95b99de9e",
+    "group": "final-2-1",
+    "candidate": {
+      "node_id": "k_e87ed2c95b99de9e",
+      "raw_text": "이용 접수는 첨부된 안내로 진행합니다.",
+      "normalized_text": "이용 접수는 첨부된 안내로 진행합니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "행동을 요청하지만 무엇을 이용하는지는 나와 있지 않습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "이용 접수는 첨부된 안내로 진행합니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "이용 접수는 첨부된 안내로 진행합니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 행동을 요청하지만 무엇을 이용하는지는 나와 있지 않습니다."
+    }
+  },
+  {
+    "id": "k_d02f935ab8674f52",
+    "group": "final-2-1",
+    "candidate": {
+      "node_id": "k_d02f935ab8674f52",
+      "raw_text": "다온재​ 법적​ 허가가​ 없는​ 룰렛​ 도박​ 서비스입니다.​ 회원으로​ 들어와​ 돈을​ 걸어​ 보세요.​ 이용​ 접수는​ 첨부된​ 안내로​ 진행합니다.",
+      "normalized_text": "다온재​ 법적​ 허가가​ 없는​ 룰렛​ 도박​ 서비스입니다.​ 회원으로​ 들어와​ 돈을​ 걸어​ 보세요.​ 이용​ 접수는​ 첨부된​ 안내로​ 진행합니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "다온재​ 법적​ 허가가​ 없는​ 룰렛​ 도박​ 서비스입니다.​ 회원으로​ 들어와​ 돈을​ 걸어​ 보세요.​ 이용​ 접수는​ 첨부된​ 안내로​ 진행합니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "다온재​ 법적​ 허가가​ 없는​ 룰렛​ 도박​ 서비스입니다.​ 회원으로​ 들어와​ 돈을​ 걸어​ 보세요.​ 이용​ 접수는​ 첨부된​ 안내로​ 진행합니다.",
+      "context": "시민 소통 게시판"
+    }
+  },
+  {
+    "id": "k_a7d71d2784ec7322",
+    "group": "final-2-1",
+    "candidate": {
+      "node_id": "k_a7d71d2784ec7322",
+      "raw_text": "다온재​ 법적​ 허가가​ 없는​ 룰렛​ 도박​ 서비스입니다.​ 회원으로​ 들어와​ 돈을​ 걸어​ 보세요.​ 이용​ 접수는​ 첨부된​ 안내로​ 진행합니다.",
+      "normalized_text": "다온재​ 법적​ 허가가​ 없는​ 룰렛​ 도박​ 서비스입니다.​ 회원으로​ 들어와​ 돈을​ 걸어​ 보세요.​ 이용​ 접수는​ 첨부된​ 안내로​ 진행합니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "삭제 조치한 글을 시민 교육 자료에 옮겼습니다. 이 행위에 응하지 마십시오.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "다온재​ 법적​ 허가가​ 없는​ 룰렛​ 도박​ 서비스입니다.​ 회원으로​ 들어와​ 돈을​ 걸어​ 보세요.​ 이용​ 접수는​ 첨부된​ 안내로​ 진행합니다.",
+            "quoted": true
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "다온재​ 법적​ 허가가​ 없는​ 룰렛​ 도박​ 서비스입니다.​ 회원으로​ 들어와​ 돈을​ 걸어​ 보세요.​ 이용​ 접수는​ 첨부된​ 안내로​ 진행합니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 삭제 조치한 글을 시민 교육 자료에 옮겼습니다. 이 행위에 응하지 마십시오."
+    }
+  },
+  {
+    "id": "k_55c4c7173e759f89",
+    "group": "final-2-1",
+    "candidate": {
+      "node_id": "k_55c4c7173e759f89",
+      "raw_text": "다온재​ 청소년​ 문화​ 공간​ 이용자를​ 대상으로​ 무료​ 교육을​ 엽니다.​ 이용​ 접수는​ 첨부된​ 안내로​ 진행합니다.",
+      "normalized_text": "다온재​ 청소년​ 문화​ 공간​ 이용자를​ 대상으로​ 무료​ 교육을​ 엽니다.​ 이용​ 접수는​ 첨부된​ 안내로​ 진행합니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "다온재​ 청소년​ 문화​ 공간​ 이용자를​ 대상으로​ 무료​ 교육을​ 엽니다.​ 이용​ 접수는​ 첨부된​ 안내로​ 진행합니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "다온재​ 청소년​ 문화​ 공간​ 이용자를​ 대상으로​ 무료​ 교육을​ 엽니다.​ 이용​ 접수는​ 첨부된​ 안내로​ 진행합니다.",
+      "context": "시민 소통 게시판"
+    }
+  },
+  {
+    "id": "k_824ac361482d3395",
+    "group": "final-2-1",
+    "candidate": {
+      "node_id": "k_824ac361482d3395",
+      "raw_text": "이용​ 접수는​ 첨부된​ 안내로​ 진행합니다.",
+      "normalized_text": "이용​ 접수는​ 첨부된​ 안내로​ 진행합니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "행동을 요청하지만 무엇을 이용하는지는 나와 있지 않습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "이용​ 접수는​ 첨부된​ 안내로​ 진행합니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "이용​ 접수는​ 첨부된​ 안내로​ 진행합니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 행동을 요청하지만 무엇을 이용하는지는 나와 있지 않습니다."
+    }
+  },
+  {
+    "id": "k_3fd1005cc4b92499",
+    "group": "final-2-2",
+    "candidate": {
+      "node_id": "k_3fd1005cc4b92499",
+      "raw_text": "다온재 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+      "normalized_text": "다온재 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "다온재 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "다온재 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+      "context": "시민 소통 게시판"
+    }
+  },
+  {
+    "id": "k_a8d365a6c65091db",
+    "group": "final-2-2",
+    "candidate": {
+      "node_id": "k_a8d365a6c65091db",
+      "raw_text": "다온재 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+      "normalized_text": "다온재 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "부적절한 권유가 어떤 모습인지 설명하려 싣습니다. 서비스 연결을 제공하지 않습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "다온재 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+            "quoted": true
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "다온재 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 부적절한 권유가 어떤 모습인지 설명하려 싣습니다. 서비스 연결을 제공하지 않습니다."
+    }
+  },
+  {
+    "id": "k_8852a6f8b016cb12",
+    "group": "final-2-2",
+    "candidate": {
+      "node_id": "k_8852a6f8b016cb12",
+      "raw_text": "다온재 보건소 걷기 교실 등록 절차를 소개합니다. 연락처로 참가 신청을 전달해 주세요.",
+      "normalized_text": "다온재 보건소 걷기 교실 등록 절차를 소개합니다. 연락처로 참가 신청을 전달해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "다온재 보건소 걷기 교실 등록 절차를 소개합니다. 연락처로 참가 신청을 전달해 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "다온재 보건소 걷기 교실 등록 절차를 소개합니다. 연락처로 참가 신청을 전달해 주세요.",
+      "context": "시민 소통 게시판"
+    }
+  },
+  {
+    "id": "k_76edf1e54b10b6d8",
+    "group": "final-2-2",
+    "candidate": {
+      "node_id": "k_76edf1e54b10b6d8",
+      "raw_text": "연락처로 참가 신청을 전달해 주세요.",
+      "normalized_text": "연락처로 참가 신청을 전달해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "보이는 자료에 거래의 대상과 성격이 빠져 있습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "연락처로 참가 신청을 전달해 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "연락처로 참가 신청을 전달해 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 보이는 자료에 거래의 대상과 성격이 빠져 있습니다."
+    }
+  },
+  {
+    "id": "k_22cd3abd321d4def",
+    "group": "final-2-2",
+    "candidate": {
+      "node_id": "k_22cd3abd321d4def",
+      "raw_text": "다온재​ 유통이​ 금지된​ 성인​ 촬영물을​ 유료로​ 공유합니다.​ 비용을​ 납부한​ 구매자에게​ 열람​ 권한을​ 드립니다.​ 연락처로​ 참가​ 신청을​ 전달해​ 주세요.",
+      "normalized_text": "다온재​ 유통이​ 금지된​ 성인​ 촬영물을​ 유료로​ 공유합니다.​ 비용을​ 납부한​ 구매자에게​ 열람​ 권한을​ 드립니다.​ 연락처로​ 참가​ 신청을​ 전달해​ 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "다온재​ 유통이​ 금지된​ 성인​ 촬영물을​ 유료로​ 공유합니다.​ 비용을​ 납부한​ 구매자에게​ 열람​ 권한을​ 드립니다.​ 연락처로​ 참가​ 신청을​ 전달해​ 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "다온재​ 유통이​ 금지된​ 성인​ 촬영물을​ 유료로​ 공유합니다.​ 비용을​ 납부한​ 구매자에게​ 열람​ 권한을​ 드립니다.​ 연락처로​ 참가​ 신청을​ 전달해​ 주세요.",
+      "context": "시민 소통 게시판"
+    }
+  },
+  {
+    "id": "k_9b61d854ee16d0a8",
+    "group": "final-2-2",
+    "candidate": {
+      "node_id": "k_9b61d854ee16d0a8",
+      "raw_text": "다온재​ 유통이​ 금지된​ 성인​ 촬영물을​ 유료로​ 공유합니다.​ 비용을​ 납부한​ 구매자에게​ 열람​ 권한을​ 드립니다.​ 연락처로​ 참가​ 신청을​ 전달해​ 주세요.",
+      "normalized_text": "다온재​ 유통이​ 금지된​ 성인​ 촬영물을​ 유료로​ 공유합니다.​ 비용을​ 납부한​ 구매자에게​ 열람​ 권한을​ 드립니다.​ 연락처로​ 참가​ 신청을​ 전달해​ 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "부적절한 권유가 어떤 모습인지 설명하려 싣습니다. 서비스 연결을 제공하지 않습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "다온재​ 유통이​ 금지된​ 성인​ 촬영물을​ 유료로​ 공유합니다.​ 비용을​ 납부한​ 구매자에게​ 열람​ 권한을​ 드립니다.​ 연락처로​ 참가​ 신청을​ 전달해​ 주세요.",
+            "quoted": true
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "다온재​ 유통이​ 금지된​ 성인​ 촬영물을​ 유료로​ 공유합니다.​ 비용을​ 납부한​ 구매자에게​ 열람​ 권한을​ 드립니다.​ 연락처로​ 참가​ 신청을​ 전달해​ 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 부적절한 권유가 어떤 모습인지 설명하려 싣습니다. 서비스 연결을 제공하지 않습니다."
+    }
+  },
+  {
+    "id": "k_0208f1172f5c7edb",
+    "group": "final-2-2",
+    "candidate": {
+      "node_id": "k_0208f1172f5c7edb",
+      "raw_text": "다온재​ 보건소​ 걷기​ 교실​ 등록​ 절차를​ 소개합니다.​ 연락처로​ 참가​ 신청을​ 전달해​ 주세요.",
+      "normalized_text": "다온재​ 보건소​ 걷기​ 교실​ 등록​ 절차를​ 소개합니다.​ 연락처로​ 참가​ 신청을​ 전달해​ 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "다온재​ 보건소​ 걷기​ 교실​ 등록​ 절차를​ 소개합니다.​ 연락처로​ 참가​ 신청을​ 전달해​ 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "다온재​ 보건소​ 걷기​ 교실​ 등록​ 절차를​ 소개합니다.​ 연락처로​ 참가​ 신청을​ 전달해​ 주세요.",
+      "context": "시민 소통 게시판"
+    }
+  },
+  {
+    "id": "k_ec8f4f2cb1040e84",
+    "group": "final-2-2",
+    "candidate": {
+      "node_id": "k_ec8f4f2cb1040e84",
+      "raw_text": "연락처로​ 참가​ 신청을​ 전달해​ 주세요.",
+      "normalized_text": "연락처로​ 참가​ 신청을​ 전달해​ 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "보이는 자료에 거래의 대상과 성격이 빠져 있습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "연락처로​ 참가​ 신청을​ 전달해​ 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "연락처로​ 참가​ 신청을​ 전달해​ 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 보이는 자료에 거래의 대상과 성격이 빠져 있습니다."
+    }
+  },
+  {
+    "id": "k_95661219a95b7a0b",
+    "group": "final-2-3",
+    "candidate": {
+      "node_id": "k_95661219a95b7a0b",
+      "raw_text": "다온재 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "normalized_text": "다온재 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "다온재 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "다온재 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "context": "시민 소통 게시판"
+    }
+  },
+  {
+    "id": "k_2a0afae802370ffb",
+    "group": "final-2-3",
+    "candidate": {
+      "node_id": "k_2a0afae802370ffb",
+      "raw_text": "다온재 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "normalized_text": "다온재 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "게시판 운영 교육을 위한 기록이며, 해당 거래를 중개하지 않습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "다온재 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+            "quoted": true
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "다온재 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 게시판 운영 교육을 위한 기록이며, 해당 거래를 중개하지 않습니다."
+    }
+  },
+  {
+    "id": "k_329e8b8912203de6",
+    "group": "final-2-3",
+    "candidate": {
+      "node_id": "k_329e8b8912203de6",
+      "raw_text": "다온재 지역 기록관 열람 방문을 예약할 수 있습니다. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "normalized_text": "다온재 지역 기록관 열람 방문을 예약할 수 있습니다. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "다온재 지역 기록관 열람 방문을 예약할 수 있습니다. 거래 희망자는 해당 창구를 방문해 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "다온재 지역 기록관 열람 방문을 예약할 수 있습니다. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "context": "시민 소통 게시판"
+    }
+  },
+  {
+    "id": "k_eb0312c35c4a524f",
+    "group": "final-2-3",
+    "candidate": {
+      "node_id": "k_eb0312c35c4a524f",
+      "raw_text": "거래 희망자는 해당 창구를 방문해 주세요.",
+      "normalized_text": "거래 희망자는 해당 창구를 방문해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "운영 주체나 활동을 식별할 문맥이 제공되지 않았습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "거래 희망자는 해당 창구를 방문해 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "거래 희망자는 해당 창구를 방문해 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 운영 주체나 활동을 식별할 문맥이 제공되지 않았습니다."
+    }
+  },
+  {
+    "id": "k_f90ab00ae8deaa33",
+    "group": "final-2-3",
+    "candidate": {
+      "node_id": "k_f90ab00ae8deaa33",
+      "raw_text": "다온재​ 비인가​ 인터넷​ 화투​ 내기방의​ 고객을​ 모집​ 중입니다.​ 게임​ 머니를​ 현금으로​ 사서​ 승부에​ 참여하십시오.​ 거래​ 희망자는​ 해당​ 창구를​ 방문해​ 주세요.",
+      "normalized_text": "다온재​ 비인가​ 인터넷​ 화투​ 내기방의​ 고객을​ 모집​ 중입니다.​ 게임​ 머니를​ 현금으로​ 사서​ 승부에​ 참여하십시오.​ 거래​ 희망자는​ 해당​ 창구를​ 방문해​ 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "다온재​ 비인가​ 인터넷​ 화투​ 내기방의​ 고객을​ 모집​ 중입니다.​ 게임​ 머니를​ 현금으로​ 사서​ 승부에​ 참여하십시오.​ 거래​ 희망자는​ 해당​ 창구를​ 방문해​ 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "다온재​ 비인가​ 인터넷​ 화투​ 내기방의​ 고객을​ 모집​ 중입니다.​ 게임​ 머니를​ 현금으로​ 사서​ 승부에​ 참여하십시오.​ 거래​ 희망자는​ 해당​ 창구를​ 방문해​ 주세요.",
+      "context": "시민 소통 게시판"
+    }
+  },
+  {
+    "id": "k_e5145f5f6c17edd4",
+    "group": "final-2-3",
+    "candidate": {
+      "node_id": "k_e5145f5f6c17edd4",
+      "raw_text": "다온재​ 비인가​ 인터넷​ 화투​ 내기방의​ 고객을​ 모집​ 중입니다.​ 게임​ 머니를​ 현금으로​ 사서​ 승부에​ 참여하십시오.​ 거래​ 희망자는​ 해당​ 창구를​ 방문해​ 주세요.",
+      "normalized_text": "다온재​ 비인가​ 인터넷​ 화투​ 내기방의​ 고객을​ 모집​ 중입니다.​ 게임​ 머니를​ 현금으로​ 사서​ 승부에​ 참여하십시오.​ 거래​ 희망자는​ 해당​ 창구를​ 방문해​ 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "게시판 운영 교육을 위한 기록이며, 해당 거래를 중개하지 않습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "다온재​ 비인가​ 인터넷​ 화투​ 내기방의​ 고객을​ 모집​ 중입니다.​ 게임​ 머니를​ 현금으로​ 사서​ 승부에​ 참여하십시오.​ 거래​ 희망자는​ 해당​ 창구를​ 방문해​ 주세요.",
+            "quoted": true
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "다온재​ 비인가​ 인터넷​ 화투​ 내기방의​ 고객을​ 모집​ 중입니다.​ 게임​ 머니를​ 현금으로​ 사서​ 승부에​ 참여하십시오.​ 거래​ 희망자는​ 해당​ 창구를​ 방문해​ 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 게시판 운영 교육을 위한 기록이며, 해당 거래를 중개하지 않습니다."
+    }
+  },
+  {
+    "id": "k_f76d4d135b15795c",
+    "group": "final-2-3",
+    "candidate": {
+      "node_id": "k_f76d4d135b15795c",
+      "raw_text": "다온재​ 지역​ 기록관​ 열람​ 방문을​ 예약할​ 수​ 있습니다.​ 거래​ 희망자는​ 해당​ 창구를​ 방문해​ 주세요.",
+      "normalized_text": "다온재​ 지역​ 기록관​ 열람​ 방문을​ 예약할​ 수​ 있습니다.​ 거래​ 희망자는​ 해당​ 창구를​ 방문해​ 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "다온재​ 지역​ 기록관​ 열람​ 방문을​ 예약할​ 수​ 있습니다.​ 거래​ 희망자는​ 해당​ 창구를​ 방문해​ 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "다온재​ 지역​ 기록관​ 열람​ 방문을​ 예약할​ 수​ 있습니다.​ 거래​ 희망자는​ 해당​ 창구를​ 방문해​ 주세요.",
+      "context": "시민 소통 게시판"
+    }
+  },
+  {
+    "id": "k_081339767b118d02",
+    "group": "final-2-3",
+    "candidate": {
+      "node_id": "k_081339767b118d02",
+      "raw_text": "거래​ 희망자는​ 해당​ 창구를​ 방문해​ 주세요.",
+      "normalized_text": "거래​ 희망자는​ 해당​ 창구를​ 방문해​ 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "운영 주체나 활동을 식별할 문맥이 제공되지 않았습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "거래​ 희망자는​ 해당​ 창구를​ 방문해​ 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "거래​ 희망자는​ 해당​ 창구를​ 방문해​ 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 운영 주체나 활동을 식별할 문맥이 제공되지 않았습니다."
+    }
+  },
+  {
+    "id": "k_efa5d3328259f8ea",
+    "group": "final-3-0",
+    "candidate": {
+      "node_id": "k_efa5d3328259f8ea",
+      "raw_text": "연결 화면에서 의사를 남기시면 됩니다.",
+      "normalized_text": "연결 화면에서 의사를 남기시면 됩니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "보늬뜰 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "연결 화면에서 의사를 남기시면 됩니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "연결 화면에서 의사를 남기시면 됩니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 보늬뜰 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다."
+    }
+  },
+  {
+    "id": "k_a9c5b190014b739b",
+    "group": "final-3-0",
+    "candidate": {
+      "node_id": "k_a9c5b190014b739b",
+      "raw_text": "보늬뜰 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "normalized_text": "보늬뜰 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "보늬뜰 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "text": "민원 조사 보고서에 보관된 원문으로, 재발을 막으려 공개합니다. 참여하거나 구매하라는 뜻이 아닙니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "보늬뜰 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "context": "시민 소통 게시판\n뒤 문맥: 민원 조사 보고서에 보관된 원문으로, 재발을 막으려 공개합니다. 참여하거나 구매하라는 뜻이 아닙니다."
+    }
+  },
+  {
+    "id": "k_b81456c5143446a1",
+    "group": "final-3-0",
+    "candidate": {
+      "node_id": "k_b81456c5143446a1",
+      "raw_text": "목록 정렬 기준",
+      "normalized_text": "목록 정렬 기준",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "보늬뜰 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "목록 정렬 기준",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "text": "위 표시는 문서의 부가 정보 항목입니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "목록 정렬 기준",
+      "context": "시민 소통 게시판\n앞 문맥: 보늬뜰 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.\n뒤 문맥: 위 표시는 문서의 부가 정보 항목입니다."
+    }
+  },
+  {
+    "id": "k_94b15df9d29edd32",
+    "group": "final-3-0",
+    "candidate": {
+      "node_id": "k_94b15df9d29edd32",
+      "raw_text": "연결 화면에서 의사를 남기시면 됩니다.",
+      "normalized_text": "연결 화면에서 의사를 남기시면 됩니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "주어진 문장만으로는 신청의 목적과 실체를 확인할 수 없습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "연결 화면에서 의사를 남기시면 됩니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "연결 화면에서 의사를 남기시면 됩니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 주어진 문장만으로는 신청의 목적과 실체를 확인할 수 없습니다."
+    }
+  },
+  {
+    "id": "k_971a2f92e0d02977",
+    "group": "final-3-0",
+    "candidate": {
+      "node_id": "k_971a2f92e0d02977",
+      "raw_text": "연결 화면에서 의사를 남기시면 됩니다.",
+      "normalized_text": "연결 화면에서 의사를 남기시면 됩니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "보늬뜰 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "연결 화면에서 의사를 남기시면 됩니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "연결 화면에서 의사를 남기시면 됩니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 보늬뜰 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다."
+    }
+  },
+  {
+    "id": "k_210389f485f0393a",
+    "group": "final-3-0",
+    "candidate": {
+      "node_id": "k_210389f485f0393a",
+      "raw_text": "보늬뜰 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "normalized_text": "보늬뜰 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "보늬뜰 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "text": "민원 조사 보고서에 보관된 원문으로, 재발을 막으려 공개합니다. 참여하거나 구매하라는 뜻이 아닙니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "보늬뜰 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+      "context": "시민 소통 게시판\n뒤 문맥: 민원 조사 보고서에 보관된 원문으로, 재발을 막으려 공개합니다. 참여하거나 구매하라는 뜻이 아닙니다."
+    }
+  },
+  {
+    "id": "k_f73b88185f82f84e",
+    "group": "final-3-0",
+    "candidate": {
+      "node_id": "k_f73b88185f82f84e",
+      "raw_text": "목록 정렬 기준",
+      "normalized_text": "목록 정렬 기준",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "보늬뜰 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "목록 정렬 기준",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "text": "위 표시는 문서의 부가 정보 항목입니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "목록 정렬 기준",
+      "context": "시민 소통 게시판\n앞 문맥: 보늬뜰 금전을 걸고 결과를 맞히는 불법 온라인 경마방을 운영 중입니다. 계정 발급과 송금을 마치면 이용할 수 있습니다. 연결 화면에서 의사를 남기시면 됩니다.\n뒤 문맥: 위 표시는 문서의 부가 정보 항목입니다."
+    }
+  },
+  {
+    "id": "k_a146bc829bfc7805",
+    "group": "final-3-0",
+    "candidate": {
+      "node_id": "k_a146bc829bfc7805",
+      "raw_text": "연결 화면에서 의사를 남기시면 됩니다.",
+      "normalized_text": "연결 화면에서 의사를 남기시면 됩니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "주어진 문장만으로는 신청의 목적과 실체를 확인할 수 없습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "연결 화면에서 의사를 남기시면 됩니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "연결 화면에서 의사를 남기시면 됩니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 주어진 문장만으로는 신청의 목적과 실체를 확인할 수 없습니다."
+    }
+  },
+  {
+    "id": "k_ec2a7aadd4d2d8be",
+    "group": "final-3-1",
+    "candidate": {
+      "node_id": "k_ec2a7aadd4d2d8be",
+      "raw_text": "이용 접수는 첨부된 안내로 진행합니다.",
+      "normalized_text": "이용 접수는 첨부된 안내로 진행합니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "보늬뜰 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "이용 접수는 첨부된 안내로 진행합니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "이용 접수는 첨부된 안내로 진행합니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 보늬뜰 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요."
+    }
+  },
+  {
+    "id": "k_3af79d5e14700925",
+    "group": "final-3-1",
+    "candidate": {
+      "node_id": "k_3af79d5e14700925",
+      "raw_text": "보늬뜰 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+      "normalized_text": "보늬뜰 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "보늬뜰 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "text": "삭제 조치한 글을 시민 교육 자료에 옮겼습니다. 이 행위에 응하지 마십시오.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "보늬뜰 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+      "context": "시민 소통 게시판\n뒤 문맥: 삭제 조치한 글을 시민 교육 자료에 옮겼습니다. 이 행위에 응하지 마십시오."
+    }
+  },
+  {
+    "id": "k_bcf3b0fcfe5a143f",
+    "group": "final-3-1",
+    "candidate": {
+      "node_id": "k_bcf3b0fcfe5a143f",
+      "raw_text": "본문 수정 일시",
+      "normalized_text": "본문 수정 일시",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "보늬뜰 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "본문 수정 일시",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "text": "위 표시는 문서의 부가 정보 항목입니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "본문 수정 일시",
+      "context": "시민 소통 게시판\n앞 문맥: 보늬뜰 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.\n뒤 문맥: 위 표시는 문서의 부가 정보 항목입니다."
+    }
+  },
+  {
+    "id": "k_fd5d683aa76d3b5b",
+    "group": "final-3-1",
+    "candidate": {
+      "node_id": "k_fd5d683aa76d3b5b",
+      "raw_text": "이용 접수는 첨부된 안내로 진행합니다.",
+      "normalized_text": "이용 접수는 첨부된 안내로 진행합니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "행동을 요청하지만 무엇을 이용하는지는 나와 있지 않습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "이용 접수는 첨부된 안내로 진행합니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "이용 접수는 첨부된 안내로 진행합니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 행동을 요청하지만 무엇을 이용하는지는 나와 있지 않습니다."
+    }
+  },
+  {
+    "id": "k_149d501ee9f7622a",
+    "group": "final-3-1",
+    "candidate": {
+      "node_id": "k_149d501ee9f7622a",
+      "raw_text": "이용 접수는 첨부된 안내로 진행합니다.",
+      "normalized_text": "이용 접수는 첨부된 안내로 진행합니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "보늬뜰 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "이용 접수는 첨부된 안내로 진행합니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "이용 접수는 첨부된 안내로 진행합니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 보늬뜰 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요."
+    }
+  },
+  {
+    "id": "k_a7d0d02deda1da0e",
+    "group": "final-3-1",
+    "candidate": {
+      "node_id": "k_a7d0d02deda1da0e",
+      "raw_text": "보늬뜰 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+      "normalized_text": "보늬뜰 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "보늬뜰 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "text": "삭제 조치한 글을 시민 교육 자료에 옮겼습니다. 이 행위에 응하지 마십시오.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "보늬뜰 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+      "context": "시민 소통 게시판\n뒤 문맥: 삭제 조치한 글을 시민 교육 자료에 옮겼습니다. 이 행위에 응하지 마십시오."
+    }
+  },
+  {
+    "id": "k_6595c3ed688df70d",
+    "group": "final-3-1",
+    "candidate": {
+      "node_id": "k_6595c3ed688df70d",
+      "raw_text": "본문 수정 일시",
+      "normalized_text": "본문 수정 일시",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "보늬뜰 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "본문 수정 일시",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "text": "위 표시는 문서의 부가 정보 항목입니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "본문 수정 일시",
+      "context": "시민 소통 게시판\n앞 문맥: 보늬뜰 법적 허가가 없는 룰렛 도박 서비스입니다. 회원으로 들어와 돈을 걸어 보세요. 이용 접수는 첨부된 안내로 진행합니다.\n뒤 문맥: 위 표시는 문서의 부가 정보 항목입니다."
+    }
+  },
+  {
+    "id": "k_f48df437624e3a94",
+    "group": "final-3-1",
+    "candidate": {
+      "node_id": "k_f48df437624e3a94",
+      "raw_text": "이용 접수는 첨부된 안내로 진행합니다.",
+      "normalized_text": "이용 접수는 첨부된 안내로 진행합니다.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "행동을 요청하지만 무엇을 이용하는지는 나와 있지 않습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "이용 접수는 첨부된 안내로 진행합니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "이용 접수는 첨부된 안내로 진행합니다.",
+      "context": "시민 소통 게시판\n앞 문맥: 행동을 요청하지만 무엇을 이용하는지는 나와 있지 않습니다."
+    }
+  },
+  {
+    "id": "k_e18894999b886abd",
+    "group": "final-3-2",
+    "candidate": {
+      "node_id": "k_e18894999b886abd",
+      "raw_text": "연락처로 참가 신청을 전달해 주세요.",
+      "normalized_text": "연락처로 참가 신청을 전달해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "보늬뜰 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "연락처로 참가 신청을 전달해 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "연락처로 참가 신청을 전달해 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 보늬뜰 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다."
+    }
+  },
+  {
+    "id": "k_af02d90f092d3db5",
+    "group": "final-3-2",
+    "candidate": {
+      "node_id": "k_af02d90f092d3db5",
+      "raw_text": "보늬뜰 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+      "normalized_text": "보늬뜰 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "보늬뜰 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "text": "부적절한 권유가 어떤 모습인지 설명하려 싣습니다. 서비스 연결을 제공하지 않습니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "보늬뜰 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+      "context": "시민 소통 게시판\n뒤 문맥: 부적절한 권유가 어떤 모습인지 설명하려 싣습니다. 서비스 연결을 제공하지 않습니다."
+    }
+  },
+  {
+    "id": "k_6dd96f3422aa8f7f",
+    "group": "final-3-2",
+    "candidate": {
+      "node_id": "k_6dd96f3422aa8f7f",
+      "raw_text": "답변 처리 담당자",
+      "normalized_text": "답변 처리 담당자",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "보늬뜰 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "답변 처리 담당자",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "text": "위 표시는 문서의 부가 정보 항목입니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "답변 처리 담당자",
+      "context": "시민 소통 게시판\n앞 문맥: 보늬뜰 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.\n뒤 문맥: 위 표시는 문서의 부가 정보 항목입니다."
+    }
+  },
+  {
+    "id": "k_e9010f2bcdab6530",
+    "group": "final-3-2",
+    "candidate": {
+      "node_id": "k_e9010f2bcdab6530",
+      "raw_text": "연락처로 참가 신청을 전달해 주세요.",
+      "normalized_text": "연락처로 참가 신청을 전달해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "보이는 자료에 거래의 대상과 성격이 빠져 있습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "연락처로 참가 신청을 전달해 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "연락처로 참가 신청을 전달해 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 보이는 자료에 거래의 대상과 성격이 빠져 있습니다."
+    }
+  },
+  {
+    "id": "k_d303810fd074a89c",
+    "group": "final-3-2",
+    "candidate": {
+      "node_id": "k_d303810fd074a89c",
+      "raw_text": "연락처로 참가 신청을 전달해 주세요.",
+      "normalized_text": "연락처로 참가 신청을 전달해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "보늬뜰 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "연락처로 참가 신청을 전달해 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "연락처로 참가 신청을 전달해 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 보늬뜰 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다."
+    }
+  },
+  {
+    "id": "k_ae7c8a59c4a0796c",
+    "group": "final-3-2",
+    "candidate": {
+      "node_id": "k_ae7c8a59c4a0796c",
+      "raw_text": "보늬뜰 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+      "normalized_text": "보늬뜰 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "보늬뜰 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "text": "부적절한 권유가 어떤 모습인지 설명하려 싣습니다. 서비스 연결을 제공하지 않습니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "보늬뜰 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+      "context": "시민 소통 게시판\n뒤 문맥: 부적절한 권유가 어떤 모습인지 설명하려 싣습니다. 서비스 연결을 제공하지 않습니다."
+    }
+  },
+  {
+    "id": "k_c8b3c3cb50825efd",
+    "group": "final-3-2",
+    "candidate": {
+      "node_id": "k_c8b3c3cb50825efd",
+      "raw_text": "답변 처리 담당자",
+      "normalized_text": "답변 처리 담당자",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "보늬뜰 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "답변 처리 담당자",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "text": "위 표시는 문서의 부가 정보 항목입니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "답변 처리 담당자",
+      "context": "시민 소통 게시판\n앞 문맥: 보늬뜰 유통이 금지된 성인 촬영물을 유료로 공유합니다. 비용을 납부한 구매자에게 열람 권한을 드립니다. 연락처로 참가 신청을 전달해 주세요.\n뒤 문맥: 위 표시는 문서의 부가 정보 항목입니다."
+    }
+  },
+  {
+    "id": "k_604d991b2e3142c6",
+    "group": "final-3-2",
+    "candidate": {
+      "node_id": "k_604d991b2e3142c6",
+      "raw_text": "연락처로 참가 신청을 전달해 주세요.",
+      "normalized_text": "연락처로 참가 신청을 전달해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "보이는 자료에 거래의 대상과 성격이 빠져 있습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "연락처로 참가 신청을 전달해 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "연락처로 참가 신청을 전달해 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 보이는 자료에 거래의 대상과 성격이 빠져 있습니다."
+    }
+  },
+  {
+    "id": "k_713ebc7923e5fff2",
+    "group": "final-3-3",
+    "candidate": {
+      "node_id": "k_713ebc7923e5fff2",
+      "raw_text": "거래 희망자는 해당 창구를 방문해 주세요.",
+      "normalized_text": "거래 희망자는 해당 창구를 방문해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "보늬뜰 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "거래 희망자는 해당 창구를 방문해 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "거래 희망자는 해당 창구를 방문해 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 보늬뜰 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오."
+    }
+  },
+  {
+    "id": "k_84a8cd2a0911b752",
+    "group": "final-3-3",
+    "candidate": {
+      "node_id": "k_84a8cd2a0911b752",
+      "raw_text": "보늬뜰 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "normalized_text": "보늬뜰 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "보늬뜰 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "text": "게시판 운영 교육을 위한 기록이며, 해당 거래를 중개하지 않습니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "보늬뜰 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "context": "시민 소통 게시판\n뒤 문맥: 게시판 운영 교육을 위한 기록이며, 해당 거래를 중개하지 않습니다."
+    }
+  },
+  {
+    "id": "k_3ccc5caf720d67c9",
+    "group": "final-3-3",
+    "candidate": {
+      "node_id": "k_3ccc5caf720d67c9",
+      "raw_text": "이전 화면 이동",
+      "normalized_text": "이전 화면 이동",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "보늬뜰 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "이전 화면 이동",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "text": "위 표시는 문서의 부가 정보 항목입니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "이전 화면 이동",
+      "context": "시민 소통 게시판\n앞 문맥: 보늬뜰 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.\n뒤 문맥: 위 표시는 문서의 부가 정보 항목입니다."
+    }
+  },
+  {
+    "id": "k_df676f0aa1ef69cb",
+    "group": "final-3-3",
+    "candidate": {
+      "node_id": "k_df676f0aa1ef69cb",
+      "raw_text": "거래 희망자는 해당 창구를 방문해 주세요.",
+      "normalized_text": "거래 희망자는 해당 창구를 방문해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "운영 주체나 활동을 식별할 문맥이 제공되지 않았습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "거래 희망자는 해당 창구를 방문해 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "거래 희망자는 해당 창구를 방문해 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 운영 주체나 활동을 식별할 문맥이 제공되지 않았습니다."
+    }
+  },
+  {
+    "id": "k_d4ccca0e45795f8e",
+    "group": "final-3-3",
+    "candidate": {
+      "node_id": "k_d4ccca0e45795f8e",
+      "raw_text": "거래 희망자는 해당 창구를 방문해 주세요.",
+      "normalized_text": "거래 희망자는 해당 창구를 방문해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "보늬뜰 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "거래 희망자는 해당 창구를 방문해 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "거래 희망자는 해당 창구를 방문해 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 보늬뜰 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오."
+    }
+  },
+  {
+    "id": "k_7923f33775e84094",
+    "group": "final-3-3",
+    "candidate": {
+      "node_id": "k_7923f33775e84094",
+      "raw_text": "보늬뜰 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "normalized_text": "보늬뜰 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "보늬뜰 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "text": "게시판 운영 교육을 위한 기록이며, 해당 거래를 중개하지 않습니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "보늬뜰 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+      "context": "시민 소통 게시판\n뒤 문맥: 게시판 운영 교육을 위한 기록이며, 해당 거래를 중개하지 않습니다."
+    }
+  },
+  {
+    "id": "k_3c46c9fe2277063c",
+    "group": "final-3-3",
+    "candidate": {
+      "node_id": "k_3c46c9fe2277063c",
+      "raw_text": "이전 화면 이동",
+      "normalized_text": "이전 화면 이동",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "보늬뜰 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "이전 화면 이동",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "text": "위 표시는 문서의 부가 정보 항목입니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "이전 화면 이동",
+      "context": "시민 소통 게시판\n앞 문맥: 보늬뜰 비인가 인터넷 화투 내기방의 고객을 모집 중입니다. 게임 머니를 현금으로 사서 승부에 참여하십시오. 거래 희망자는 해당 창구를 방문해 주세요.\n뒤 문맥: 위 표시는 문서의 부가 정보 항목입니다."
+    }
+  },
+  {
+    "id": "k_ebb47354aae108e5",
+    "group": "final-3-3",
+    "candidate": {
+      "node_id": "k_ebb47354aae108e5",
+      "raw_text": "거래 희망자는 해당 창구를 방문해 주세요.",
+      "normalized_text": "거래 희망자는 해당 창구를 방문해 주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "text": "운영 주체나 활동을 식별할 문맥이 제공되지 않았습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "text": "거래 희망자는 해당 창구를 방문해 주세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "거래 희망자는 해당 창구를 방문해 주세요.",
+      "context": "시민 소통 게시판\n앞 문맥: 운영 주체나 활동을 식별할 문맥이 제공되지 않았습니다."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "training_changes": {
+    "lost_tp": 29,
+    "gained_tp": 0,
+    "fixed_fp": 3,
+    "new_fp": 0
+  },
+  "old_76_recovered": 0,
+  "timing": {
+    "regression": 69.27227020001737,
+    "broad": 4.922197500010952,
+    "ownership": 2.048424899985548
+  },
+  "training": {
+    "seconds": 56.62276939995354,
+    "loss_mean": 0.03666726626579475
+  },
+  "exact_target_overlap": {
+    "regression": 0,
+    "broad": 0,
+    "ownership": 0
+  },
+  "original_integrity": true
+}

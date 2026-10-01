@@ -1,0 +1,442 @@
+[
+  {
+    "family": "star",
+    "token": "5TAR",
+    "context": "ad",
+    "text": "밤하늘에 빛나는 별을 5TAR라고 표현했습니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "substitution",
+    "selector": "p#d017e90277f84",
+    "id": "d017e90277f84",
+    "pair": "star|positive"
+  },
+  {
+    "family": "water",
+    "token": "H2O",
+    "context": "ad",
+    "text": "물 분자의 화학식은 H2O입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "literal",
+    "selector": "p#d087e6e4a8b1e",
+    "id": "d087e6e4a8b1e",
+    "pair": "water|literal"
+  },
+  {
+    "family": "media",
+    "token": "M3DIA",
+    "context": "prevention",
+    "text": "뉴스를 전달하는 매체를 가리키는 말로 M3DIA를 사용했습니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "substitution",
+    "selector": "p#d0cad0c7e1635",
+    "id": "d0cad0c7e1635",
+    "pair": "media|positive"
+  },
+  {
+    "family": "vibe",
+    "token": "V1BE",
+    "context": "prevention",
+    "text": "게시물에 표시된 이름은 V1BE입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "uncertain",
+    "selector": "p#d13dea249e39a",
+    "id": "d13dea249e39a",
+    "pair": "vibe|ambiguous"
+  },
+  {
+    "family": "park",
+    "token": "P4RK",
+    "context": "prevention",
+    "text": "나무와 산책로가 있는 공원을 P4RK라고 적었습니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "substitution",
+    "selector": "p#d14e8244a7ec7",
+    "id": "d14e8244a7ec7",
+    "pair": "park|positive"
+  },
+  {
+    "family": "robot",
+    "token": "R2D2",
+    "context": "ad",
+    "text": "로봇 캐릭터의 공식 이름은 R2D2입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "literal",
+    "selector": "p#d1ee5c93e30ec",
+    "id": "d1ee5c93e30ec",
+    "pair": "robot|literal"
+  },
+  {
+    "family": "business",
+    "token": "B2B",
+    "context": "ad",
+    "text": "기업 간 거래 방식을 B2B라고 표기했습니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "literal",
+    "selector": "p#d21dcf6a7f923",
+    "id": "d21dcf6a7f923",
+    "pair": "business|literal"
+  },
+  {
+    "family": "field",
+    "token": "F1ELD",
+    "context": "ad",
+    "text": "넓게 펼쳐진 들판을 설명하면서 F1ELD라고 적었습니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "substitution",
+    "selector": "p#d29bd6c9ca3bc",
+    "id": "d29bd6c9ca3bc",
+    "pair": "field|positive"
+  },
+  {
+    "family": "robot",
+    "token": "R2D2",
+    "context": "prevention",
+    "text": "로봇 캐릭터의 공식 이름은 R2D2입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "literal",
+    "selector": "p#d33085bdecac6",
+    "id": "d33085bdecac6",
+    "pair": "robot|literal"
+  },
+  {
+    "family": "star",
+    "token": "5TAR",
+    "context": "prevention",
+    "text": "밤하늘에 빛나는 별을 5TAR라고 표현했습니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "substitution",
+    "selector": "p#d50007810c828",
+    "id": "d50007810c828",
+    "pair": "star|positive"
+  },
+  {
+    "family": "garden",
+    "token": "G4RDEN",
+    "context": "ad",
+    "text": "꽃과 나무를 가꾸는 정원을 G4RDEN로 표기했습니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "substitution",
+    "selector": "p#d5087755e26f4",
+    "id": "d5087755e26f4",
+    "pair": "garden|positive"
+  },
+  {
+    "family": "quality",
+    "token": "ISO9001",
+    "context": "ad",
+    "text": "품질경영 인증 규격은 ISO9001입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "literal",
+    "selector": "p#d56ee7b5344ca",
+    "id": "d56ee7b5344ca",
+    "pair": "quality|literal"
+  },
+  {
+    "family": "media",
+    "token": "M3DIA",
+    "context": "ad",
+    "text": "뉴스를 전달하는 매체를 가리키는 말로 M3DIA를 사용했습니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "substitution",
+    "selector": "p#d636124d7893f",
+    "id": "d636124d7893f",
+    "pair": "media|positive"
+  },
+  {
+    "family": "audio",
+    "token": "MP3",
+    "context": "prevention",
+    "text": "음원 파일 형식은 MP3입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "literal",
+    "selector": "p#d66a354d9ca2d",
+    "id": "d66a354d9ca2d",
+    "pair": "audio|literal"
+  },
+  {
+    "family": "period",
+    "token": "2026Q",
+    "context": "ad",
+    "text": "년도별 장부 분류 코드는 2026Q입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "literal",
+    "selector": "p#d74468c0b3175",
+    "id": "d74468c0b3175",
+    "pair": "period|literal"
+  },
+  {
+    "family": "river",
+    "token": "R1VER",
+    "context": "ad",
+    "text": "강물이 흐르는 하천을 R1VER라고 적었습니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "substitution",
+    "selector": "p#d764e5de305ce",
+    "id": "d764e5de305ce",
+    "pair": "river|positive"
+  },
+  {
+    "family": "gifts",
+    "token": "GIFT5",
+    "context": "prevention",
+    "text": "상자에 포장해 건네는 여러 선물을 GIFT5라고 적었습니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "substitution",
+    "selector": "p#d774f3e7de40d",
+    "id": "d774f3e7de40d",
+    "pair": "gifts|positive"
+  },
+  {
+    "family": "water",
+    "token": "H2O",
+    "context": "prevention",
+    "text": "물 분자의 화학식은 H2O입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "literal",
+    "selector": "p#d7ccbdfeaf8e8",
+    "id": "d7ccbdfeaf8e8",
+    "pair": "water|literal"
+  },
+  {
+    "family": "house",
+    "token": "H0USE",
+    "context": "prevention",
+    "text": "사람이 사는 집을 뜻하는 표기 H0USE가 주거 안내문에 쓰였습니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "substitution",
+    "selector": "p#d7d0319beb1bb",
+    "id": "d7d0319beb1bb",
+    "pair": "house|positive"
+  },
+  {
+    "family": "gifts",
+    "token": "GIFT5",
+    "context": "ad",
+    "text": "상자에 포장해 건네는 여러 선물을 GIFT5라고 적었습니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "substitution",
+    "selector": "p#d7e31feada6ac",
+    "id": "d7e31feada6ac",
+    "pair": "gifts|positive"
+  },
+  {
+    "family": "river",
+    "token": "R1VER",
+    "context": "prevention",
+    "text": "강물이 흐르는 하천을 R1VER라고 적었습니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "substitution",
+    "selector": "p#d7f3a04602ea9",
+    "id": "d7f3a04602ea9",
+    "pair": "river|positive"
+  },
+  {
+    "family": "mode",
+    "token": "M0DE",
+    "context": "prevention",
+    "text": "게시물에 표시된 이름은 M0DE입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "uncertain",
+    "selector": "p#d7fd7b1ae32de",
+    "id": "d7fd7b1ae32de",
+    "pair": "mode|ambiguous"
+  },
+  {
+    "family": "line",
+    "token": "L1NE",
+    "context": "ad",
+    "text": "게시물에 표시된 이름은 L1NE입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "uncertain",
+    "selector": "p#d8093dfa2e15f",
+    "id": "d8093dfa2e15f",
+    "pair": "line|ambiguous"
+  },
+  {
+    "family": "aircraft",
+    "token": "A320",
+    "context": "prevention",
+    "text": "항공기 기종은 A320입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "literal",
+    "selector": "p#d88f53f2f6537",
+    "id": "d88f53f2f6537",
+    "pair": "aircraft|literal"
+  },
+  {
+    "family": "graphics",
+    "token": "RX7800",
+    "context": "prevention",
+    "text": "그래픽 장치의 모델 번호는 RX7800입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "literal",
+    "selector": "p#d8aaed9c0df55",
+    "id": "d8aaed9c0df55",
+    "pair": "graphics|literal"
+  },
+  {
+    "family": "park",
+    "token": "P4RK",
+    "context": "ad",
+    "text": "나무와 산책로가 있는 공원을 P4RK라고 적었습니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "substitution",
+    "selector": "p#d98aab3253630",
+    "id": "d98aab3253630",
+    "pair": "park|positive"
+  },
+  {
+    "family": "field",
+    "token": "F1ELD",
+    "context": "prevention",
+    "text": "넓게 펼쳐진 들판을 설명하면서 F1ELD라고 적었습니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "substitution",
+    "selector": "p#da4695a1631ee",
+    "id": "da4695a1631ee",
+    "pair": "field|positive"
+  },
+  {
+    "family": "vibe",
+    "token": "V1BE",
+    "context": "ad",
+    "text": "게시물에 표시된 이름은 V1BE입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "uncertain",
+    "selector": "p#dab48b843b900",
+    "id": "dab48b843b900",
+    "pair": "vibe|ambiguous"
+  },
+  {
+    "family": "nova",
+    "token": "N0VA",
+    "context": "prevention",
+    "text": "게시물에 표시된 이름은 N0VA입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "uncertain",
+    "selector": "p#db34ae5a66487",
+    "id": "db34ae5a66487",
+    "pair": "nova|ambiguous"
+  },
+  {
+    "family": "quality",
+    "token": "ISO9001",
+    "context": "prevention",
+    "text": "품질경영 인증 규격은 ISO9001입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "literal",
+    "selector": "p#dbde408832523",
+    "id": "dbde408832523",
+    "pair": "quality|literal"
+  },
+  {
+    "family": "period",
+    "token": "2026Q",
+    "context": "prevention",
+    "text": "년도별 장부 분류 코드는 2026Q입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "literal",
+    "selector": "p#dc12561dd4f8f",
+    "id": "dc12561dd4f8f",
+    "pair": "period|literal"
+  },
+  {
+    "family": "river",
+    "token": "R1VER",
+    "context": "prevention",
+    "text": "장치의 고정된 제품 식별번호는 R1VER이며 영문과 숫자를 그대로 등록합니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "literal",
+    "selector": "p#dc948bf9cef39",
+    "id": "dc948bf9cef39",
+    "pair": "river|literal"
+  },
+  {
+    "family": "field",
+    "token": "F1ELD",
+    "context": "ad",
+    "text": "업무 시스템에서 부여한 고유 관리번호는 F1ELD입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "literal",
+    "selector": "p#dd43661f8b563",
+    "id": "dd43661f8b563",
+    "pair": "field|literal"
+  },
+  {
+    "family": "aircraft",
+    "token": "A320",
+    "context": "ad",
+    "text": "항공기 기종은 A320입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "literal",
+    "selector": "p#dd6fedfe5bdab",
+    "id": "dd6fedfe5bdab",
+    "pair": "aircraft|literal"
+  },
+  {
+    "family": "mode",
+    "token": "M0DE",
+    "context": "ad",
+    "text": "게시물에 표시된 이름은 M0DE입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "uncertain",
+    "selector": "p#dd8c4b51d2d74",
+    "id": "dd8c4b51d2d74",
+    "pair": "mode|ambiguous"
+  },
+  {
+    "family": "field",
+    "token": "F1ELD",
+    "context": "prevention",
+    "text": "업무 시스템에서 부여한 고유 관리번호는 F1ELD입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "literal",
+    "selector": "p#ddc2ce8a6847c",
+    "id": "ddc2ce8a6847c",
+    "pair": "field|literal"
+  },
+  {
+    "family": "garden",
+    "token": "G4RDEN",
+    "context": "prevention",
+    "text": "꽃과 나무를 가꾸는 정원을 G4RDEN로 표기했습니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "substitution",
+    "selector": "p#de1daf01a25e9",
+    "id": "de1daf01a25e9",
+    "pair": "garden|positive"
+  },
+  {
+    "family": "house",
+    "token": "H0USE",
+    "context": "ad",
+    "text": "사람이 사는 집을 뜻하는 표기 H0USE가 주거 안내문에 쓰였습니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "substitution",
+    "selector": "p#de26fc8e09abb",
+    "id": "de26fc8e09abb",
+    "pair": "house|positive"
+  },
+  {
+    "family": "river",
+    "token": "R1VER",
+    "context": "ad",
+    "text": "장치의 고정된 제품 식별번호는 R1VER이며 영문과 숫자를 그대로 등록합니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "literal",
+    "selector": "p#de6cc665d03fc",
+    "id": "de6cc665d03fc",
+    "pair": "river|literal"
+  },
+  {
+    "family": "nova",
+    "token": "N0VA",
+    "context": "ad",
+    "text": "게시물에 표시된 이름은 N0VA입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "uncertain",
+    "selector": "p#de8318aece01c",
+    "id": "de8318aece01c",
+    "pair": "nova|ambiguous"
+  },
+  {
+    "family": "audio",
+    "token": "MP3",
+    "context": "ad",
+    "text": "음원 파일 형식은 MP3입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "literal",
+    "selector": "p#de990af6be856",
+    "id": "de990af6be856",
+    "pair": "audio|literal"
+  },
+  {
+    "family": "line",
+    "token": "L1NE",
+    "context": "prevention",
+    "text": "게시물에 표시된 이름은 L1NE입니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "uncertain",
+    "selector": "p#dead3196e5a2a",
+    "id": "dead3196e5a2a",
+    "pair": "line|ambiguous"
+  },
+  {
+    "family": "business",
+    "token": "B2B",
+    "context": "prevention",
+    "text": "기업 간 거래 방식을 B2B라고 표기했습니다. 이 표기는 불법 광고 예방 교육 자료에서 다루는 예시입니다.",
+    "classification": "literal",
+    "selector": "p#df20f429009e4",
+    "id": "df20f429009e4",
+    "pair": "business|literal"
+  },
+  {
+    "family": "graphics",
+    "token": "RX7800",
+    "context": "ad",
+    "text": "그래픽 장치의 모델 번호는 RX7800입니다. 이 표기를 내건 사설 도박방에 가입하고 현금을 입금하세요.",
+    "classification": "literal",
+    "selector": "p#df26aea24797b",
+    "id": "df26aea24797b",
+    "pair": "graphics|literal"
+  }
+]

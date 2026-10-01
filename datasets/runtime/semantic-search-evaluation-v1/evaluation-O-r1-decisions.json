@@ -1,0 +1,874 @@
+[
+  {
+    "node_id": "n_31fccf06d832b8ca",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "정상적인 지역 축제 일정 공지",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_89c201ee1963f784",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "문자 인코딩 관련 정보 제공",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_7a46c69b456163cd",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "비공개 문의 링크",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_e0c689c7069e2704",
+    "is_violation": true,
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "observed_techniques": [
+      "HOMOGLYPH"
+    ],
+    "needs_review": false,
+    "reason": "동의 없이 수집된 주민 전화번호 판매 시도",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_d3a9ae0db211d41c",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "HOMOGLYPH"
+    ],
+    "needs_review": false,
+    "reason": "청소년 탁구 동호회 모집 공고",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_3731501fa6e793de",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "OFFSCREEN"
+    ],
+    "needs_review": false,
+    "reason": "주민자치회 목공 교실 참가자 모집",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_8fa0587b61cadae1",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "JAMO"
+    ],
+    "needs_review": false,
+    "reason": "시립박물관 카드놀이 역사 전시 안내",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_70e0af86fec49fbc",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "OFFSCREEN"
+    ],
+    "needs_review": false,
+    "reason": "특수문자 변환 연습 내용",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_aadcfb270286bcae",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "TRANSPARENT"
+    ],
+    "needs_review": false,
+    "reason": "안내 요청 메시지",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_ef7df3659fed4bdf",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "TRANSPARENT"
+    ],
+    "needs_review": false,
+    "reason": "추가 물량 안내",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_2414e776bfdcca6c",
+    "is_violation": true,
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "observed_techniques": [
+      "HOMOGLYPH"
+    ],
+    "needs_review": false,
+    "reason": "불법 영상 정기 구독 회원 모집",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_1134e39a8418dc79",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "불법 촬영물 압축 파일 판매 시도",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_2407afcb3f910962",
+    "is_violation": true,
+    "techniques": [
+      "JAMO"
+    ],
+    "observed_techniques": [
+      "JAMO"
+    ],
+    "needs_review": false,
+    "reason": "타인 계정 해킹 및 판매 시도",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_f407217c2355fd9e",
+    "is_violation": true,
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "observed_techniques": [
+      "HOMOGLYPH"
+    ],
+    "needs_review": false,
+    "reason": "처방전 없이 수면제 주문 유도",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_41b8195d09cc85db",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "HOMOGLYPH"
+    ],
+    "needs_review": false,
+    "reason": "화면 낭독기 사용 안내",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_52e334413c3db1e7",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "JAMO"
+    ],
+    "needs_review": false,
+    "reason": "지도 데이터 갱신 상태 알림",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_a21afbf140da1e58",
+    "is_violation": true,
+    "techniques": [
+      "OFFSCREEN"
+    ],
+    "observed_techniques": [
+      "OFFSCREEN"
+    ],
+    "needs_review": false,
+    "reason": "대포통장 거래 제안",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_5b67e006a760dada",
+    "is_violation": true,
+    "techniques": [
+      "JAMO"
+    ],
+    "observed_techniques": [
+      "JAMO"
+    ],
+    "needs_review": false,
+    "reason": "사생활 영상 유출 관련 내용",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_e8904820106e634c",
+    "is_violation": true,
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "observed_techniques": [
+      "HOMOGLYPH"
+    ],
+    "needs_review": false,
+    "reason": "무허가 도박방 관련 내용",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_c1c737466002f367",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "일반적인 문의 내용",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_726dc47382958882",
+    "is_violation": true,
+    "techniques": [
+      "TRANSPARENT"
+    ],
+    "observed_techniques": [
+      "TRANSPARENT"
+    ],
+    "needs_review": false,
+    "reason": "처방 없이 살 수 있는 전문의약품 판매 제안",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_73961bc7fd655b7e",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "OFFSCREEN"
+    ],
+    "needs_review": false,
+    "reason": "보건소 금연 상담 신청 안내",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_be99138dc869b6a8",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": true,
+    "reason": "허가 없는 현금 게임장 관련 내용 (추가 정보 필요)",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_b26a826e357d35d0",
+    "is_violation": true,
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "observed_techniques": [
+      "HOMOGLYPH"
+    ],
+    "needs_review": false,
+    "reason": "신분증 위조 제작 관련 내용",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_a530ae6ff53dc8ca",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": true,
+    "reason": "허가 없는 온라인 바카라 회원 등록 유도 (추가 정보 필요)",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_198d6a2ce76d4948",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "HOMOGLYPH"
+    ],
+    "needs_review": false,
+    "reason": "자료 받기 안내",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_a8d7ad918ebffe97",
+    "is_violation": true,
+    "techniques": [
+      "TRANSPARENT"
+    ],
+    "observed_techniques": [
+      "TRANSPARENT"
+    ],
+    "needs_review": false,
+    "reason": "무허가 도박방 입금 유도",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_7a9586c614635a41",
+    "is_violation": true,
+    "techniques": [
+      "JAMO"
+    ],
+    "observed_techniques": [
+      "JAMO"
+    ],
+    "needs_review": false,
+    "reason": "몰래 촬영한 사생활 영상 유료 제공",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_1c3a5290212b232d",
+    "is_violation": true,
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "observed_techniques": [
+      "HOMOGLYPH"
+    ],
+    "needs_review": false,
+    "reason": "처방 없이 약품 주문 유도",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_a4d47a001a694a72",
+    "is_violation": true,
+    "techniques": [
+      "TRANSPARENT"
+    ],
+    "observed_techniques": [
+      "TRANSPARENT"
+    ],
+    "needs_review": false,
+    "reason": "사설 야구 도박 관련 내용",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_cbecc43761e831ef",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "JAMO"
+    ],
+    "needs_review": false,
+    "reason": "한글 자모 연습 안내",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_eb970628eb2fbca8",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "OFFSCREEN"
+    ],
+    "needs_review": false,
+    "reason": "링크 안내",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_66bc1cf34db761f6",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "타인 계좌 대여 및 통장, 비밀번호 요구",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_1b2cc09724435fda",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "일반 링크 텍스트",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_d3e4ecc952474553",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "일반 링크 텍스트",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_3e5e03c882015519",
+    "is_violation": true,
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "observed_techniques": [
+      "HOMOGLYPH"
+    ],
+    "needs_review": false,
+    "reason": "처방전 없이 전문의약품 판매 유도",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_521e578e47ce1e4d",
+    "is_violation": true,
+    "techniques": [
+      "JAMO"
+    ],
+    "observed_techniques": [
+      "JAMO"
+    ],
+    "needs_review": false,
+    "reason": "다른 사람 명의 신분증 제작 제안",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_32bdd52d6003ca72",
+    "is_violation": true,
+    "techniques": [
+      "JAMO"
+    ],
+    "observed_techniques": [
+      "JAMO"
+    ],
+    "needs_review": false,
+    "reason": "합성 마약 판매 제안",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_a57a1b4a9f1ce200",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "일반 링크 텍스트",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_19ace2b497ef17fd",
+    "is_violation": true,
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "observed_techniques": [
+      "HOMOGLYPH"
+    ],
+    "needs_review": false,
+    "reason": "개인정보 동의 없는 수집 자료 판매",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_11159895c905e77a",
+    "is_violation": true,
+    "techniques": [
+      "TRANSPARENT"
+    ],
+    "observed_techniques": [
+      "TRANSPARENT"
+    ],
+    "needs_review": false,
+    "reason": "타인의 주민등록증 촬영본 판매",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_2c8edc85dd624b88",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "문서 작성 수업 관련 정보",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_d4384cc2b10d91bc",
+    "is_violation": true,
+    "techniques": [
+      "TRANSPARENT"
+    ],
+    "observed_techniques": [
+      "TRANSPARENT"
+    ],
+    "needs_review": false,
+    "reason": "사설 도박 참여 유도",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_205711d7c4b94cb3",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "범죄 피해자 무료 법률 상담 안내",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_691e274e879ecbc6",
+    "is_violation": true,
+    "techniques": [
+      "OFFSCREEN"
+    ],
+    "observed_techniques": [
+      "OFFSCREEN"
+    ],
+    "needs_review": false,
+    "reason": "위조 주민증 제작 제안",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_fd6d5bbdc70c9dd0",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "공공 도서관 전자책 회원 가입 안내",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_d862bd5051cfbd0c",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "신고 안내 문구",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_a8b3e21c430d21f4",
+    "is_violation": true,
+    "techniques": [
+      "JAMO"
+    ],
+    "observed_techniques": [
+      "JAMO"
+    ],
+    "needs_review": false,
+    "reason": "유출 영상 후원 요청",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_ecc45b5de2e01292",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "합법적인 장터 판매 부스 모집 공고",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_b7cb0b29b5c5ca61",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "가짜 사이트 제작 및 개인정보 탈취 시도",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_f2f8f9e344616ca6",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "불법 의약품 판매 경고 메시지",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_18cb8e9b793e9fc1",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "몰래 촬영된 영상 판매 시도",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_54b236c88fbb42c2",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "HOMOGLYPH"
+    ],
+    "needs_review": false,
+    "reason": "웹 접근성 관련 공지",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_ca567ebfcb0ba1f3",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "상담 창구 열기 링크",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_08f08214e5d6b4ca",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "불법 촬영 영상 원본 판매 시도",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_38c59a5549f21483",
+    "is_violation": true,
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "observed_techniques": [
+      "HOMOGLYPH"
+    ],
+    "needs_review": false,
+    "reason": "무면허 의약품 판매 시도",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_154c639e5ea1f6af",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "불법 의약품 판매 댓글 신고",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_cf9c3662724204d3",
+    "is_violation": true,
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "observed_techniques": [
+      "HOMOGLYPH"
+    ],
+    "needs_review": false,
+    "reason": "해킹 계정 판매 시도",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_67e33c21ee33826c",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "사설 도박 가입 유도",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_3cd20b1ab5915845",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "OFFSCREEN"
+    ],
+    "needs_review": false,
+    "reason": "확인 요청 페이지 제목",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_d55ca7b86f1438b0",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "TRANSPARENT"
+    ],
+    "needs_review": false,
+    "reason": "안내 자료 링크",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_d245151bbd00a5d9",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "TRANSPARENT"
+    ],
+    "needs_review": false,
+    "reason": "진행 상황 공지",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_d116bf885e08a04c",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "참여하기 링크",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_242802eb566e20a2",
+    "is_violation": true,
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "observed_techniques": [
+      "HOMOGLYPH"
+    ],
+    "needs_review": false,
+    "reason": "사설 도박 입금 유도",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_29587438c6ca9c55",
+    "is_violation": true,
+    "techniques": [
+      "JAMO"
+    ],
+    "observed_techniques": [
+      "JAMO"
+    ],
+    "needs_review": false,
+    "reason": "처방 없이 수면제를 판매하는 내용으로 불법 광고",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_1fc688ad6d7b71c6",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "신분증 위조 주문을 삭제 요청하는 민원으로 정상적인 내용",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_35fc9942d14307a3",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "정상적인 링크로 보임",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_a491f88ddaf51ecf",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "사설 도박 광고 관련 정보 전달로 정상적인 내용",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_8e308b4b861fc27f",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "주민센터 휴관 여부 문의로 정상적인 내용",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_3f347a1864533e31",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "CSS 수업용 예제로 정상적인 내용",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_2eea1592c7ac0adc",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "시민 안전 캠페인 담당자 소개로 정상적인 내용",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_31039443f0acc628",
+    "is_violation": true,
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "observed_techniques": [
+      "HOMOGLYPH"
+    ],
+    "needs_review": false,
+    "reason": "개인정보 거래 제안으로 불법 광고",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_54f72c8e5de045f9",
+    "is_violation": true,
+    "techniques": [
+      "TRANSPARENT"
+    ],
+    "observed_techniques": [
+      "TRANSPARENT"
+    ],
+    "needs_review": false,
+    "reason": "무등록 카지노 입금 보너스 광고로 불법 광고",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_369e9bb74c4feaef",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "정상적인 링크로 보임",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_e0910ebcf967ac7d",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "합성 마약 판매 제안으로 불법 광고",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_0c5df6016625acd0",
+    "is_violation": true,
+    "techniques": [
+      "OFFSCREEN"
+    ],
+    "observed_techniques": [
+      "OFFSCREEN"
+    ],
+    "needs_review": false,
+    "reason": "신용카드 정보 판매 제안으로 불법 광고",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_247e2de955eea41a",
+    "is_violation": true,
+    "techniques": [
+      "OFFSCREEN"
+    ],
+    "observed_techniques": [
+      "OFFSCREEN"
+    ],
+    "needs_review": false,
+    "reason": "처방전 없이 졸피뎀 판매 제안으로 불법 광고",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_78dbceb467223dcb",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "위조 신분증 제작 제안으로 불법 광고",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_542cca765e724b50",
+    "is_violation": true,
+    "techniques": [
+      "TRANSPARENT"
+    ],
+    "observed_techniques": [
+      "TRANSPARENT"
+    ],
+    "needs_review": false,
+    "reason": "처방전 없는 수면제 주문 접수로 불법 광고",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_ea8cf23021921254",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "정상적인 링크로 보임",
+    "raw_ad_verdict": "benign"
+  }
+]

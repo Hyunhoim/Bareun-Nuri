@@ -1,0 +1,295 @@
+{
+  "at": "2026-09-24T22:57:28.481Z",
+  "source_hashes_verified": 10,
+  "scope": "Existing104 selected stored positions; no crawl/time-to-reach benchmark or new holdout.",
+  "conditions": {
+    "baseline": {
+      "requests": 26,
+      "responses": 26,
+      "raw_tokens": 39733,
+      "completed_groups": {
+        "dev": {
+          "tp": 22,
+          "fp": 1,
+          "fn": 2,
+          "precision": 0.9565217391304348,
+          "recall": 0.9166666666666666,
+          "f1": 0.9361702127659575,
+          "normal_review": 1,
+          "unknown": {
+            "total": 4,
+            "explicit_uncertain": 0,
+            "predicted_ad": 0
+          },
+          "calls": 13,
+          "tokens": 20285,
+          "service_sec": 26.776,
+          "queue_wait_sec": 39.1359362,
+          "dispatch_to_last_response_sec": 66.024,
+          "batch_sizes": {
+            "4": 13
+          },
+          "source_decisions_sha256": "9127e7d96e133f88c07d823fe6b4604cb1678ae1565f3efe9bd12bd03dba796d"
+        },
+        "holdout": {
+          "tp": 22,
+          "fp": 1,
+          "fn": 2,
+          "precision": 0.9565217391304348,
+          "recall": 0.9166666666666666,
+          "f1": 0.9361702127659575,
+          "normal_review": 0,
+          "unknown": {
+            "total": 4,
+            "explicit_uncertain": 0,
+            "predicted_ad": 0
+          },
+          "calls": 13,
+          "tokens": 19448,
+          "service_sec": 27.512,
+          "queue_wait_sec": 38.124234200000004,
+          "dispatch_to_last_response_sec": 65.758,
+          "batch_sizes": {
+            "4": 13
+          },
+          "source_decisions_sha256": "3ebb815056acfc92139fdcedbb237fdeec8f69011a3e843a1f3c45d3ee432dda"
+        }
+      },
+      "runner_summary": {
+        "wall_sec": 131.82089140000002,
+        "peak_concurrency": 1,
+        "cache": {
+          "hits": 0,
+          "misses": 0,
+          "bypasses": 26,
+          "stored": 0,
+          "evicted": 0,
+          "rejected_results": 0,
+          "entries": 0
+        },
+        "calls": 26,
+        "tokens": 39733
+      },
+      "http_interval_peak": 1
+    },
+    "tokens": {
+      "requests": 26,
+      "responses": 26,
+      "raw_tokens": 38700,
+      "completed_groups": {
+        "dev": {
+          "tp": 21,
+          "fp": 0,
+          "fn": 3,
+          "precision": 1,
+          "recall": 0.875,
+          "f1": 0.9333333333333333,
+          "normal_review": 1,
+          "unknown": {
+            "total": 4,
+            "explicit_uncertain": 0,
+            "predicted_ad": 0
+          },
+          "calls": 13,
+          "tokens": 19673,
+          "service_sec": 27.140000000000004,
+          "queue_wait_sec": 0.0005607000000018162,
+          "dispatch_to_last_response_sec": 27.262,
+          "batch_sizes": {
+            "4": 13
+          },
+          "source_decisions_sha256": "0c6e3765cf7b3c6a097895007a8cc143db765e7eff6b0a4c1f2c31d72641d2aa"
+        },
+        "holdout": {
+          "tp": 21,
+          "fp": 1,
+          "fn": 3,
+          "precision": 0.9545454545454546,
+          "recall": 0.875,
+          "f1": 0.9130434782608695,
+          "normal_review": 0,
+          "unknown": {
+            "total": 4,
+            "explicit_uncertain": 1,
+            "predicted_ad": 0
+          },
+          "calls": 13,
+          "tokens": 19027,
+          "service_sec": 26.678,
+          "queue_wait_sec": 0.0005861999999906402,
+          "dispatch_to_last_response_sec": 26.801,
+          "batch_sizes": {
+            "4": 13
+          },
+          "source_decisions_sha256": "4bd6093d0176d634604fe61df30a6e0bd3c2b00831ea2aa06a29138303f6e536"
+        }
+      },
+      "runner_summary": {
+        "wall_sec": 54.10534,
+        "peak_concurrency": 1,
+        "cache": {
+          "hits": 0,
+          "misses": 26,
+          "bypasses": 0,
+          "stored": 20,
+          "evicted": 0,
+          "rejected_results": 6,
+          "entries": 20
+        },
+        "calls": 26,
+        "tokens": 38700
+      },
+      "http_interval_peak": 1
+    },
+    "distributed": {
+      "requests": 33,
+      "responses": 33,
+      "raw_tokens": 42506,
+      "completed_groups": {
+        "dev": {
+          "tp": 21,
+          "fp": 1,
+          "fn": 3,
+          "precision": 0.9545454545454546,
+          "recall": 0.875,
+          "f1": 0.9130434782608695,
+          "normal_review": 1,
+          "unknown": {
+            "total": 4,
+            "explicit_uncertain": 0,
+            "predicted_ad": 0
+          },
+          "calls": 20,
+          "tokens": 23058,
+          "service_sec": 30.409000000000002,
+          "queue_wait_sec": 60.32868339999986,
+          "dispatch_to_last_response_sec": 73.847,
+          "batch_sizes": {
+            "1": 8,
+            "2": 2,
+            "4": 10
+          },
+          "source_decisions_sha256": "56e331e8daaadea012d32854e21ec04e6794ee4d9bc539a5fee5468e42eb96bd"
+        },
+        "holdout": {
+          "tp": 22,
+          "fp": 1,
+          "fn": 2,
+          "precision": 0.9565217391304348,
+          "recall": 0.9166666666666666,
+          "f1": 0.9361702127659575,
+          "normal_review": 0,
+          "unknown": {
+            "total": 4,
+            "explicit_uncertain": 0,
+            "predicted_ad": 0
+          },
+          "calls": 13,
+          "tokens": 19448,
+          "service_sec": 26.461999999999996,
+          "queue_wait_sec": 43.16861799999996,
+          "dispatch_to_last_response_sec": 69.79,
+          "batch_sizes": {
+            "4": 13
+          },
+          "source_decisions_sha256": "3ebb815056acfc92139fdcedbb237fdeec8f69011a3e843a1f3c45d3ee432dda"
+        }
+      },
+      "runner_summary": {
+        "wall_sec": 143.6761053,
+        "peak_concurrency": 2,
+        "cache": {
+          "hits": 0,
+          "misses": 0,
+          "bypasses": 33,
+          "stored": 0,
+          "evicted": 0,
+          "rejected_results": 0,
+          "entries": 0
+        },
+        "calls": 33,
+        "tokens": 42506
+      },
+      "http_interval_peak": 2
+    },
+    "combined": {
+      "requests": 33,
+      "responses": 33,
+      "raw_tokens": 41691,
+      "completed_groups": {
+        "dev": {
+          "tp": 18,
+          "fp": 0,
+          "fn": 6,
+          "precision": 1,
+          "recall": 0.75,
+          "f1": 0.8571428571428571,
+          "normal_review": 2,
+          "unknown": {
+            "total": 4,
+            "explicit_uncertain": 0,
+            "predicted_ad": 0
+          },
+          "calls": 20,
+          "tokens": 22664,
+          "service_sec": 30.245000000000005,
+          "queue_wait_sec": 16.129781100000137,
+          "dispatch_to_last_response_sec": 28.687,
+          "batch_sizes": {
+            "1": 8,
+            "2": 2,
+            "4": 10
+          },
+          "source_decisions_sha256": "f0d05920d681906d6a3a67442e0b6e3f5fa83344f36f38b82eb5c1ad704d30f4"
+        },
+        "holdout": {
+          "tp": 21,
+          "fp": 1,
+          "fn": 3,
+          "precision": 0.9545454545454546,
+          "recall": 0.875,
+          "f1": 0.9130434782608695,
+          "normal_review": 0,
+          "unknown": {
+            "total": 4,
+            "explicit_uncertain": 1,
+            "predicted_ad": 0
+          },
+          "calls": 13,
+          "tokens": 19027,
+          "service_sec": 26.502999999999997,
+          "queue_wait_sec": 12.055834000000146,
+          "dispatch_to_last_response_sec": 37.698,
+          "batch_sizes": {
+            "4": 13
+          },
+          "source_decisions_sha256": "4bd6093d0176d634604fe61df30a6e0bd3c2b00831ea2aa06a29138303f6e536"
+        }
+      },
+      "runner_summary": {
+        "wall_sec": 67.44699289999996,
+        "peak_concurrency": 2,
+        "cache": {
+          "hits": 0,
+          "misses": 23,
+          "bypasses": 10,
+          "stored": 18,
+          "evicted": 0,
+          "rejected_results": 5,
+          "entries": 18
+        },
+        "calls": 33,
+        "tokens": 41691
+      },
+      "http_interval_peak": 2
+    }
+  },
+  "api_calls": 0,
+  "browser_calls": 0,
+  "completion": {
+    "status": "completed",
+    "calls": 118,
+    "reserved": 477053,
+    "hashes_verified": true
+  }
+}

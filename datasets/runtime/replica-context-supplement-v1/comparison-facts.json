@@ -1,0 +1,144 @@
+{
+  "scope": "Post-hoc labelled controlled64 semantic positions; not whole-site truth. Primary4-technique metrics unchanged and not recomputed here.",
+  "split": "dev",
+  "gold_manifest_sha256": "2b80e59d41ae17607bb65c1bce0501557b432f569ec558f59c81bcc724e5eb6a",
+  "results": [
+    {
+      "run": "C:\\Users\\alvin\\Documents\\개인 프로젝트\\불법 광고 탐지 도구 경진대회\\.runtime\\replica-worker-board-v1",
+      "checkpoint_sha256": "2624f93c6665b78b52c8fc5e0062c6be71cee9f11921c3d051802428f6215fd2",
+      "status": "partial",
+      "reason": "time_budget",
+      "primary52": {
+        "positions": 52,
+        "ads": 24,
+        "normal": 24,
+        "ambiguous": 4,
+        "collected": 0,
+        "judged": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 24,
+        "precision": null,
+        "recall": 0,
+        "f1": 0,
+        "normal_review": 0,
+        "ambiguous_review": 0,
+        "miss_reasons": {
+          "discovered_pending": 24
+        }
+      },
+      "supplement12": {
+        "positions": 12,
+        "ads": 4,
+        "normal": 8,
+        "ambiguous": 0,
+        "collected": 0,
+        "judged": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 4,
+        "precision": null,
+        "recall": 0,
+        "f1": 0,
+        "normal_review": 0,
+        "ambiguous_review": 0,
+        "miss_reasons": {
+          "discovered_pending": 4
+        }
+      },
+      "controlled64": {
+        "positions": 64,
+        "ads": 28,
+        "normal": 32,
+        "ambiguous": 4,
+        "collected": 0,
+        "judged": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 28,
+        "precision": null,
+        "recall": 0,
+        "f1": 0,
+        "normal_review": 0,
+        "ambiguous_review": 0,
+        "miss_reasons": {
+          "discovered_pending": 28
+        }
+      },
+      "unlabelled_positive_count": 0,
+      "unlabelled_positives": []
+    },
+    {
+      "run": "C:\\Users\\alvin\\Documents\\개인 프로젝트\\불법 광고 탐지 도구 경진대회\\.runtime\\replica-worker-role16-board-v1",
+      "checkpoint_sha256": "320d33a81d58aea54aae62970323b664bb2c664548259a41137b085736337552",
+      "status": "partial",
+      "reason": "time_budget",
+      "primary52": {
+        "positions": 52,
+        "ads": 24,
+        "normal": 24,
+        "ambiguous": 4,
+        "collected": 0,
+        "judged": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 24,
+        "precision": null,
+        "recall": 0,
+        "f1": 0,
+        "normal_review": 0,
+        "ambiguous_review": 0,
+        "miss_reasons": {
+          "discovered_pending": 22,
+          "address_undiscovered": 2
+        }
+      },
+      "supplement12": {
+        "positions": 12,
+        "ads": 4,
+        "normal": 8,
+        "ambiguous": 0,
+        "collected": 0,
+        "judged": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 4,
+        "precision": null,
+        "recall": 0,
+        "f1": 0,
+        "normal_review": 0,
+        "ambiguous_review": 0,
+        "miss_reasons": {
+          "discovered_pending": 3,
+          "address_undiscovered": 1
+        }
+      },
+      "controlled64": {
+        "positions": 64,
+        "ads": 28,
+        "normal": 32,
+        "ambiguous": 4,
+        "collected": 0,
+        "judged": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 28,
+        "precision": null,
+        "recall": 0,
+        "f1": 0,
+        "normal_review": 0,
+        "ambiguous_review": 0,
+        "miss_reasons": {
+          "discovered_pending": 25,
+          "address_undiscovered": 3
+        }
+      },
+      "unlabelled_positive_count": 0,
+      "unlabelled_positives": []
+    }
+  ],
+  "unlabelled_positive_union": [],
+  "unlabelled_positive_union_size": 0,
+  "api_calls": 0,
+  "browser_calls": 0
+}

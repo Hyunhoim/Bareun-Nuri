@@ -1,0 +1,36 @@
+{
+  "id": "477c2dd8244b4cd6",
+  "source": {
+    "id": "477c2dd8244b4cd6",
+    "url": "https://hrd.jeonbuk.go.kr/board/view.training?boardId=BBS_0000016&menuCd=DOM_000000103001000000&startPage=6&dataSid=13177",
+    "source_scope": "government_board",
+    "captured_at": "2026-09-28T23:08:48.238650+00:00",
+    "rights_status": "unverified_third_party_content",
+    "human_reviewed": false,
+    "raw_file": "raw/477c2dd8244b4cd6.html",
+    "byte_file": "raw/477c2dd8244b4cd6.bin",
+    "response_sha256": "c8e32dfc29c432deba1dc34d27c24bb1c64f73f89102918eeff78e0f4be96024",
+    "decoded_sha256": "c8e32dfc29c432deba1dc34d27c24bb1c64f73f89102918eeff78e0f4be96024",
+    "encoding": "utf-8",
+    "status": "captured",
+    "page_title": "홈 > 소통마당 > 자유게시판 |상세보기"
+  },
+  "title": "내 마음 속 우편함",
+  "raw_text": "마음 속 우편함\n세상 모든 사람들은\n각자의 마음속에\n우편함을 하나씩 두고 있다.\n그 속에는 개개인의 이야기가 들어 있다.\n누군가는 우편함 속 이야기를\n전부 꺼내 보여 주기도 하고,\n누군가는 우편함밖으로 아무것도\n새어 나오지 못하게 꾹 닫아 놓는다.\n우편함을 열어 보여 줄지 말지는\n주인 마음인데, 우리는 왜 그토록\n그 속의 내용을 궁금해할까 ?\n지나친 관심은 오히려독이 되어\n그의 우편함이 영영 안 열릴지도 모를텐데.\n그래서 난\n시간이 필요하다고 생각해.\n우편함이 열릴 수 있도록\n기다려 주는 시간 말이야.\n우편함 속에 이야기들이\n차곡차곡 쌓일 때마다\n묵혀 왔던 이야기들이 하나씩 풀어 내야\n우편함 속 어딘가에\n'공감'이라는 공간이 생길 테니까.\n꽁꽁 묶어 넣어 두었던\n너의 이야기를 꺼내 봐.\n눈물로 번져 알아보기 힘든\n슬픈 기억도 괜찮아.\n상처로 찢겨 꺼낼 엄두도 못 냈던\n아픈 기억도 괜찮아.\n그저, 너와 내가\n가득 찬 우편함을 열어\n조금씩 흘려 내려보낼수 있게.\n그렇게 비워진 공간에\n행복한 기억들을 채울수 있게.\n혹시라도 남은 공간에\n나의 공감도 자리하게 해줘.\n또 다른 나쁜 기억이\n숨어 들어가지 않도록.\nKT인터넷가입",
+  "body_xpath": "/html/body/div/div[3]/div[1]/div[2]/div[2]/div[3]/div[1]",
+  "title_xpath": "/html/body/div/div[3]/div[1]/div[2]/div[2]/div[3]/dl[1]",
+  "source_kind": "real_web_post",
+  "extraction": "static_HTML_lxml_itertext",
+  "comments_status": "not_extracted_or_labeled",
+  "technique_observed": null,
+  "body_sha256": "84701c1fd3561022c8253571dc1286c1083433264ecffa679f411d8bb7fa164e",
+  "label": null,
+  "human_reviewed": false,
+  "outgoing_links": [
+    {
+      "text": "KT인터넷가입",
+      "href": "http://ktinterstore.co.kr"
+    }
+  ],
+  "notes": "No CSS technique claim from static text; listed neighbours are excluded from owned context."
+}

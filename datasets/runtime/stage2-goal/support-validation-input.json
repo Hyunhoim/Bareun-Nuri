@@ -1,0 +1,365 @@
+{
+  "entry_url": "http://127.0.0.1/",
+  "candidates": [
+    {
+      "node_id": "n_7d904c1648060b66_context_0",
+      "target_id": "n_7d904c1648060b66",
+      "source_id": "context_0",
+      "relation": "before",
+      "raw_text": "이 문장은 수사 기록의 발췌문입니다. 아래 제안을 실행하지 말고 제보 자료로만 확인하세요.",
+      "normalized_text": "이 문장은 수사 기록의 발췌문입니다. 아래 제안을 실행하지 말고 제보 자료로만 확인하세요.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_61566af7e76ed1b5_context_0",
+      "target_id": "n_61566af7e76ed1b5",
+      "source_id": "context_0",
+      "relation": "before",
+      "raw_text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.",
+      "normalized_text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_098cf63b9751faa6_context_0",
+      "target_id": "n_098cf63b9751faa6",
+      "source_id": "context_0",
+      "relation": "before",
+      "raw_text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.",
+      "normalized_text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_c0c3ec7f7c03a29c_context_0",
+      "target_id": "n_c0c3ec7f7c03a29c",
+      "source_id": "context_0",
+      "relation": "before",
+      "raw_text": "상담 사례를 설명하기 위해 아래 피해 유도 표현을 그대로 옮깁니다. 금전 거래를 권장하는 내용이 아닙니다.",
+      "normalized_text": "상담 사례를 설명하기 위해 아래 피해 유도 표현을 그대로 옮깁니다. 금전 거래를 권장하는 내용이 아닙니다.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_93ac76b0f57bebe5_context_0",
+      "target_id": "n_93ac76b0f57bebe5",
+      "source_id": "context_0",
+      "relation": "before",
+      "raw_text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.",
+      "normalized_text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_43fe66782de77098_context_0",
+      "target_id": "n_43fe66782de77098",
+      "source_id": "context_0",
+      "relation": "before",
+      "raw_text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.",
+      "normalized_text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_120ee9290c1c80f8_context_1",
+      "target_id": "n_120ee9290c1c80f8",
+      "source_id": "context_1",
+      "relation": "after",
+      "raw_text": "위의 내용은 차단된 게시물의 증거 사본입니다. 실제 참여 안내로 받아들이지 마세요.",
+      "normalized_text": "위의 내용은 차단된 게시물의 증거 사본입니다. 실제 참여 안내로 받아들이지 마세요.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_90485e6d81064326_context_0",
+      "target_id": "n_90485e6d81064326",
+      "source_id": "context_0",
+      "relation": "before",
+      "raw_text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.",
+      "normalized_text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_1b988d88ec78ec01_context_0",
+      "target_id": "n_1b988d88ec78ec01",
+      "source_id": "context_0",
+      "relation": "before",
+      "raw_text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.",
+      "normalized_text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_d7893cf3464cb4a9_context_0",
+      "target_id": "n_d7893cf3464cb4a9",
+      "source_id": "context_0",
+      "relation": "before",
+      "raw_text": "상담 사례를 설명하기 위해 아래 피해 유도 표현을 그대로 옮깁니다. 금전 거래를 권장하는 내용이 아닙니다.",
+      "normalized_text": "상담 사례를 설명하기 위해 아래 피해 유도 표현을 그대로 옮깁니다. 금전 거래를 권장하는 내용이 아닙니다.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_2145fef8d88c3a46_context_0",
+      "target_id": "n_2145fef8d88c3a46",
+      "source_id": "context_0",
+      "relation": "before",
+      "raw_text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.",
+      "normalized_text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_660ad089da7a8dc2_context_0",
+      "target_id": "n_660ad089da7a8dc2",
+      "source_id": "context_0",
+      "relation": "before",
+      "raw_text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.",
+      "normalized_text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_e93754e906bfe4a2_context_0",
+      "target_id": "n_e93754e906bfe4a2",
+      "source_id": "context_0",
+      "relation": "before",
+      "raw_text": "이 문장은 수사 기록의 발췌문입니다. 아래 제안을 실행하지 말고 제보 자료로만 확인하세요.",
+      "normalized_text": "이 문장은 수사 기록의 발췌문입니다. 아래 제안을 실행하지 말고 제보 자료로만 확인하세요.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_25befa246b275f53_context_0",
+      "target_id": "n_25befa246b275f53",
+      "source_id": "context_0",
+      "relation": "before",
+      "raw_text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.",
+      "normalized_text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_448374cf03bb0fb7_context_0",
+      "target_id": "n_448374cf03bb0fb7",
+      "source_id": "context_0",
+      "relation": "before",
+      "raw_text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.",
+      "normalized_text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_7ab034c0857c5945_context_1",
+      "target_id": "n_7ab034c0857c5945",
+      "source_id": "context_1",
+      "relation": "after",
+      "raw_text": "위의 내용은 차단된 게시물의 증거 사본입니다. 실제 참여 안내로 받아들이지 마세요.",
+      "normalized_text": "위의 내용은 차단된 게시물의 증거 사본입니다. 실제 참여 안내로 받아들이지 마세요.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_deb3eb528ce5d373_context_0",
+      "target_id": "n_deb3eb528ce5d373",
+      "source_id": "context_0",
+      "relation": "before",
+      "raw_text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.",
+      "normalized_text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_6778f23ba5e3587a_context_0",
+      "target_id": "n_6778f23ba5e3587a",
+      "source_id": "context_0",
+      "relation": "before",
+      "raw_text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.",
+      "normalized_text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_ac8d261445a2c6f3_context_0",
+      "target_id": "n_ac8d261445a2c6f3",
+      "source_id": "context_0",
+      "relation": "before",
+      "raw_text": "이 문장은 수사 기록의 발췌문입니다. 아래 제안을 실행하지 말고 제보 자료로만 확인하세요.",
+      "normalized_text": "이 문장은 수사 기록의 발췌문입니다. 아래 제안을 실행하지 말고 제보 자료로만 확인하세요.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_9d5de19d462b09af_context_0",
+      "target_id": "n_9d5de19d462b09af",
+      "source_id": "context_0",
+      "relation": "before",
+      "raw_text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.",
+      "normalized_text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_dad7590ac312127a_context_0",
+      "target_id": "n_dad7590ac312127a",
+      "source_id": "context_0",
+      "relation": "before",
+      "raw_text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.",
+      "normalized_text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_c004e0f1d261d886_context_0",
+      "target_id": "n_c004e0f1d261d886",
+      "source_id": "context_0",
+      "relation": "before",
+      "raw_text": "상담 사례를 설명하기 위해 아래 피해 유도 표현을 그대로 옮깁니다. 금전 거래를 권장하는 내용이 아닙니다.",
+      "normalized_text": "상담 사례를 설명하기 위해 아래 피해 유도 표현을 그대로 옮깁니다. 금전 거래를 권장하는 내용이 아닙니다.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_c2e3f5c837090b94_context_0",
+      "target_id": "n_c2e3f5c837090b94",
+      "source_id": "context_0",
+      "relation": "before",
+      "raw_text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.",
+      "normalized_text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_3d41e13f5b9b53a3_context_0",
+      "target_id": "n_3d41e13f5b9b53a3",
+      "source_id": "context_0",
+      "relation": "before",
+      "raw_text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.",
+      "normalized_text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_86f82e0d28d9d3cb_context_1",
+      "target_id": "n_86f82e0d28d9d3cb",
+      "source_id": "context_1",
+      "relation": "after",
+      "raw_text": "위의 내용은 차단된 게시물의 증거 사본입니다. 실제 참여 안내로 받아들이지 마세요.",
+      "normalized_text": "위의 내용은 차단된 게시물의 증거 사본입니다. 실제 참여 안내로 받아들이지 마세요.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_aa4a6f3cd2d0b42a_context_0",
+      "target_id": "n_aa4a6f3cd2d0b42a",
+      "source_id": "context_0",
+      "relation": "before",
+      "raw_text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.",
+      "normalized_text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_a3a3a3b407cf1b83_context_0",
+      "target_id": "n_a3a3a3b407cf1b83",
+      "source_id": "context_0",
+      "relation": "before",
+      "raw_text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.",
+      "normalized_text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_ba80f6be0eb170d5_context_0",
+      "target_id": "n_ba80f6be0eb170d5",
+      "source_id": "context_0",
+      "relation": "before",
+      "raw_text": "상담 사례를 설명하기 위해 아래 피해 유도 표현을 그대로 옮깁니다. 금전 거래를 권장하는 내용이 아닙니다.",
+      "normalized_text": "상담 사례를 설명하기 위해 아래 피해 유도 표현을 그대로 옮깁니다. 금전 거래를 권장하는 내용이 아닙니다.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_edaea5788505aeca_context_0",
+      "target_id": "n_edaea5788505aeca",
+      "source_id": "context_0",
+      "relation": "before",
+      "raw_text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.",
+      "normalized_text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_e81e4f8050510dd3_context_0",
+      "target_id": "n_e81e4f8050510dd3",
+      "source_id": "context_0",
+      "relation": "before",
+      "raw_text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.",
+      "normalized_text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_80c399c488641a61_context_0",
+      "target_id": "n_80c399c488641a61",
+      "source_id": "context_0",
+      "relation": "before",
+      "raw_text": "이 문장은 수사 기록의 발췌문입니다. 아래 제안을 실행하지 말고 제보 자료로만 확인하세요.",
+      "normalized_text": "이 문장은 수사 기록의 발췌문입니다. 아래 제안을 실행하지 말고 제보 자료로만 확인하세요.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_41f22dd20914d4e1_context_0",
+      "target_id": "n_41f22dd20914d4e1",
+      "source_id": "context_0",
+      "relation": "before",
+      "raw_text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.",
+      "normalized_text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_a06e02d948e8bade_context_0",
+      "target_id": "n_a06e02d948e8bade",
+      "source_id": "context_0",
+      "relation": "before",
+      "raw_text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.",
+      "normalized_text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_eed7bbd61bc1420e_context_1",
+      "target_id": "n_eed7bbd61bc1420e",
+      "source_id": "context_1",
+      "relation": "after",
+      "raw_text": "위의 내용은 차단된 게시물의 증거 사본입니다. 실제 참여 안내로 받아들이지 마세요.",
+      "normalized_text": "위의 내용은 차단된 게시물의 증거 사본입니다. 실제 참여 안내로 받아들이지 마세요.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_3a0c454af3e03fd9_context_0",
+      "target_id": "n_3a0c454af3e03fd9",
+      "source_id": "context_0",
+      "relation": "before",
+      "raw_text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.",
+      "normalized_text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.",
+      "document_scope": false,
+      "single_target_context": true
+    },
+    {
+      "node_id": "n_9becb89b3799dc47_context_0",
+      "target_id": "n_9becb89b3799dc47",
+      "source_id": "context_0",
+      "relation": "before",
+      "raw_text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.",
+      "normalized_text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.",
+      "document_scope": false,
+      "single_target_context": true
+    }
+  ]
+}

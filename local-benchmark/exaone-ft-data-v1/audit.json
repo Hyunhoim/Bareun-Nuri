@@ -1,0 +1,20 @@
+{
+  "rows": 24,
+  "scenario_groups": 4,
+  "training_ready": 0,
+  "human_reviewed": 0,
+  "rendered_techniques": 0,
+  "exact_pair_overlap_with_observed_221": 0,
+  "limitations": [
+    "No semantic-near-duplicate certification",
+    "No all-history scan",
+    "No sealed holdout accessed",
+    "Four scenario families only; not a training corpus"
+  ],
+  "labels": {
+    "0": 8,
+    "1": 4,
+    "2": 8,
+    "3": 4
+  }
+}

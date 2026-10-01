@@ -1,0 +1,71 @@
+{
+  "frozen": {
+    "control/klue": {
+      "folder": ".runtime\\semantic-real-addition-gpu-v1\\control\\klue-f8-t512",
+      "sha256": "c5986cbd1966a6b0f7eaff78be17d35ae46963d5d46c5699a1d6d6a5820997c6",
+      "selected_epoch": 2,
+      "rank": [
+        0.8717948717948718,
+        0.8717948717948718,
+        -2
+      ]
+    },
+    "control/kc": {
+      "folder": ".runtime\\semantic-real-addition-gpu-v1\\control\\kc-f8-t512",
+      "sha256": "d782f7995893d0f7df0744101b06ec4948c28ec3bd5eded051bf8d3df3a5a545",
+      "selected_epoch": 3,
+      "rank": [
+        0.9,
+        0.9,
+        -2
+      ]
+    },
+    "control/ko": {
+      "folder": ".runtime\\semantic-real-addition-gpu-v1\\control\\ko-f8-t512",
+      "sha256": "dc79ab1a9dd94fb18dc573d954b0e397951c9300138364a4753902d8723662b1",
+      "selected_epoch": 3,
+      "rank": [
+        0.8648648648648649,
+        0.8648648648648649,
+        -1
+      ]
+    },
+    "addition/klue": {
+      "folder": ".runtime\\semantic-real-addition-gpu-v1\\addition\\klue-f8-t512",
+      "sha256": "da20bc13d512dcbe3653326c3d0c3aea0aa0eb0865359e755e5fff85979f48b1",
+      "selected_epoch": 3,
+      "rank": [
+        0.8888888888888888,
+        0.8888888888888888,
+        0
+      ]
+    },
+    "addition/kc": {
+      "folder": ".runtime\\semantic-real-addition-gpu-v1\\addition\\kc-f8-t512",
+      "sha256": "9ef91baa0f1d9dd4e36b9c21e2027f783ae7574e970ece48c150914829948f00",
+      "selected_epoch": 2,
+      "rank": [
+        0.9047619047619048,
+        0.9047619047619048,
+        -3
+      ]
+    },
+    "addition/ko": {
+      "folder": ".runtime\\semantic-real-addition-gpu-v1\\addition\\ko-f8-t512",
+      "sha256": "e8b314ab7ca4af08921cc81e47ed9b05b803e0c80019269a0e2ec943792d5f89",
+      "selected_epoch": 2,
+      "rank": [
+        0.7567567567567568,
+        0.7567567567567568,
+        -3
+      ]
+    }
+  },
+  "script_sha256": "b2a9224471f0b21374bbe7a682e836a87da81cc099536bdde2973d5207263497",
+  "at": "2026-09-29T15:26:04.293279+00:00",
+  "panels": {
+    "semantic204": 204,
+    "retention2000": 2000
+  },
+  "new_api_calls": 0
+}

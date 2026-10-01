@@ -1,0 +1,2378 @@
+[
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto0:0",
+    "token": "ㅁㅣㅅㅜㄹ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅁㅣㅅㅜㄹ[/표기] alpine",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto0:1",
+    "token": "alpine",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅁㅣㅅㅜㄹ [표기]alpine[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto1:0",
+    "token": "ㅁㅣㅅㅜㄹ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅁㅣㅅㅜㄹ[/표기] 4lpine",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto1:1",
+    "token": "4lpine",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅁㅣㅅㅜㄹ [표기]4lpine[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto2:0",
+    "token": "ㅁㅣㅅㅜㄹ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅁㅣㅅㅜㄹ[/표기] cypress",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto2:1",
+    "token": "cypress",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅁㅣㅅㅜㄹ [표기]cypress[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto3:0",
+    "token": "ㅁㅣㅅㅜㄹ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅁㅣㅅㅜㄹ[/표기] cypr3ss",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto3:1",
+    "token": "cypr3ss",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅁㅣㅅㅜㄹ [표기]cypr3ss[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto4:0",
+    "token": "ㅁㅣㅅㅜㄹ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅁㅣㅅㅜㄹ[/표기] badger",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto4:1",
+    "token": "badger",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅁㅣㅅㅜㄹ [표기]badger[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto5:0",
+    "token": "ㅁㅣㅅㅜㄹ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅁㅣㅅㅜㄹ[/표기] b4dger",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto5:1",
+    "token": "b4dger",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅁㅣㅅㅜㄹ [표기]b4dger[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto6:0",
+    "token": "ㅁㅣㅅㅜㄹ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅁㅣㅅㅜㄹ[/표기] dolphin",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto6:1",
+    "token": "dolphin",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅁㅣㅅㅜㄹ [표기]dolphin[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto7:0",
+    "token": "ㅁㅣㅅㅜㄹ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅁㅣㅅㅜㄹ[/표기] d0lphin",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto7:1",
+    "token": "d0lphin",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅁㅣㅅㅜㄹ [표기]d0lphin[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto8:0",
+    "token": "ㅁㅣㅅㅜㄹ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅁㅣㅅㅜㄹ[/표기] emerald",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto8:1",
+    "token": "emerald",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅁㅣㅅㅜㄹ [표기]emerald[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto9:0",
+    "token": "ㅁㅣㅅㅜㄹ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅁㅣㅅㅜㄹ[/표기] 3merald",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto9:1",
+    "token": "3merald",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅁㅣㅅㅜㄹ [표기]3merald[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto10:0",
+    "token": "ㅁㅣㅅㅜㄹ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅁㅣㅅㅜㄹ[/표기] falcon",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto10:1",
+    "token": "falcon",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅁㅣㅅㅜㄹ [표기]falcon[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto11:0",
+    "token": "ㅁㅣㅅㅜㄹ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅁㅣㅅㅜㄹ[/표기] falc0n",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto11:1",
+    "token": "falc0n",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅁㅣㅅㅜㄹ [표기]falc0n[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto12:0",
+    "token": "ㅅㅣㅁㅣㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅣㅁㅣㄴ[/표기] alpine",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto12:1",
+    "token": "alpine",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅣㅁㅣㄴ [표기]alpine[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto13:0",
+    "token": "ㅅㅣㅁㅣㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅣㅁㅣㄴ[/표기] 4lpine",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto13:1",
+    "token": "4lpine",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅣㅁㅣㄴ [표기]4lpine[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto14:0",
+    "token": "ㅅㅣㅁㅣㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅣㅁㅣㄴ[/표기] cypress",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto14:1",
+    "token": "cypress",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅣㅁㅣㄴ [표기]cypress[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto15:0",
+    "token": "ㅅㅣㅁㅣㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅣㅁㅣㄴ[/표기] cypr3ss",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto15:1",
+    "token": "cypr3ss",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅣㅁㅣㄴ [표기]cypr3ss[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto16:0",
+    "token": "ㅅㅣㅁㅣㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅣㅁㅣㄴ[/표기] badger",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto16:1",
+    "token": "badger",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅣㅁㅣㄴ [표기]badger[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto17:0",
+    "token": "ㅅㅣㅁㅣㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅣㅁㅣㄴ[/표기] b4dger",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto17:1",
+    "token": "b4dger",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅣㅁㅣㄴ [표기]b4dger[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto18:0",
+    "token": "ㅅㅣㅁㅣㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅣㅁㅣㄴ[/표기] dolphin",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto18:1",
+    "token": "dolphin",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅣㅁㅣㄴ [표기]dolphin[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto19:0",
+    "token": "ㅅㅣㅁㅣㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅣㅁㅣㄴ[/표기] d0lphin",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto19:1",
+    "token": "d0lphin",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅣㅁㅣㄴ [표기]d0lphin[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto20:0",
+    "token": "ㅅㅣㅁㅣㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅣㅁㅣㄴ[/표기] emerald",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto20:1",
+    "token": "emerald",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅣㅁㅣㄴ [표기]emerald[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto21:0",
+    "token": "ㅅㅣㅁㅣㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅣㅁㅣㄴ[/표기] 3merald",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto21:1",
+    "token": "3merald",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅣㅁㅣㄴ [표기]3merald[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto22:0",
+    "token": "ㅅㅣㅁㅣㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅣㅁㅣㄴ[/표기] falcon",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto22:1",
+    "token": "falcon",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅣㅁㅣㄴ [표기]falcon[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto23:0",
+    "token": "ㅅㅣㅁㅣㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅣㅁㅣㄴ[/표기] falc0n",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto23:1",
+    "token": "falc0n",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅣㅁㅣㄴ [표기]falc0n[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto24:0",
+    "token": "ㄱㅣㄴㅕㅁ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄱㅣㄴㅕㅁ[/표기] alpine",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto24:1",
+    "token": "alpine",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄱㅣㄴㅕㅁ [표기]alpine[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto25:0",
+    "token": "ㄱㅣㄴㅕㅁ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄱㅣㄴㅕㅁ[/표기] 4lpine",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto25:1",
+    "token": "4lpine",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄱㅣㄴㅕㅁ [표기]4lpine[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto26:0",
+    "token": "ㄱㅣㄴㅕㅁ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄱㅣㄴㅕㅁ[/표기] cypress",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto26:1",
+    "token": "cypress",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄱㅣㄴㅕㅁ [표기]cypress[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto27:0",
+    "token": "ㄱㅣㄴㅕㅁ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄱㅣㄴㅕㅁ[/표기] cypr3ss",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto27:1",
+    "token": "cypr3ss",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄱㅣㄴㅕㅁ [표기]cypr3ss[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto28:0",
+    "token": "ㄱㅣㄴㅕㅁ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄱㅣㄴㅕㅁ[/표기] badger",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto28:1",
+    "token": "badger",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄱㅣㄴㅕㅁ [표기]badger[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto29:0",
+    "token": "ㄱㅣㄴㅕㅁ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄱㅣㄴㅕㅁ[/표기] b4dger",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto29:1",
+    "token": "b4dger",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄱㅣㄴㅕㅁ [표기]b4dger[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto30:0",
+    "token": "ㄱㅣㄴㅕㅁ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄱㅣㄴㅕㅁ[/표기] dolphin",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto30:1",
+    "token": "dolphin",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄱㅣㄴㅕㅁ [표기]dolphin[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto31:0",
+    "token": "ㄱㅣㄴㅕㅁ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄱㅣㄴㅕㅁ[/표기] d0lphin",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto31:1",
+    "token": "d0lphin",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄱㅣㄴㅕㅁ [표기]d0lphin[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto32:0",
+    "token": "ㄱㅣㄴㅕㅁ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄱㅣㄴㅕㅁ[/표기] emerald",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto32:1",
+    "token": "emerald",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄱㅣㄴㅕㅁ [표기]emerald[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto33:0",
+    "token": "ㄱㅣㄴㅕㅁ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄱㅣㄴㅕㅁ[/표기] 3merald",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto33:1",
+    "token": "3merald",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄱㅣㄴㅕㅁ [표기]3merald[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto34:0",
+    "token": "ㄱㅣㄴㅕㅁ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄱㅣㄴㅕㅁ[/표기] falcon",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto34:1",
+    "token": "falcon",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄱㅣㄴㅕㅁ [표기]falcon[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto35:0",
+    "token": "ㄱㅣㄴㅕㅁ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄱㅣㄴㅕㅁ[/표기] falc0n",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto35:1",
+    "token": "falc0n",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄱㅣㄴㅕㅁ [표기]falc0n[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto36:0",
+    "token": "ㄱㅣㄹㅣㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄱㅣㄹㅣㄴ[/표기] alpine",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto36:1",
+    "token": "alpine",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄱㅣㄹㅣㄴ [표기]alpine[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto37:0",
+    "token": "ㄱㅣㄹㅣㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄱㅣㄹㅣㄴ[/표기] 4lpine",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto37:1",
+    "token": "4lpine",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄱㅣㄹㅣㄴ [표기]4lpine[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto38:0",
+    "token": "ㄱㅣㄹㅣㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄱㅣㄹㅣㄴ[/표기] cypress",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto38:1",
+    "token": "cypress",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄱㅣㄹㅣㄴ [표기]cypress[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto39:0",
+    "token": "ㄱㅣㄹㅣㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄱㅣㄹㅣㄴ[/표기] cypr3ss",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto39:1",
+    "token": "cypr3ss",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄱㅣㄹㅣㄴ [표기]cypr3ss[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto40:0",
+    "token": "ㄱㅣㄹㅣㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄱㅣㄹㅣㄴ[/표기] badger",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto40:1",
+    "token": "badger",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄱㅣㄹㅣㄴ [표기]badger[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto41:0",
+    "token": "ㄱㅣㄹㅣㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄱㅣㄹㅣㄴ[/표기] b4dger",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto41:1",
+    "token": "b4dger",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄱㅣㄹㅣㄴ [표기]b4dger[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto42:0",
+    "token": "ㄱㅣㄹㅣㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄱㅣㄹㅣㄴ[/표기] dolphin",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto42:1",
+    "token": "dolphin",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄱㅣㄹㅣㄴ [표기]dolphin[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto43:0",
+    "token": "ㄱㅣㄹㅣㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄱㅣㄹㅣㄴ[/표기] d0lphin",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto43:1",
+    "token": "d0lphin",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄱㅣㄹㅣㄴ [표기]d0lphin[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto44:0",
+    "token": "ㄱㅣㄹㅣㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄱㅣㄹㅣㄴ[/표기] emerald",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto44:1",
+    "token": "emerald",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄱㅣㄹㅣㄴ [표기]emerald[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto45:0",
+    "token": "ㄱㅣㄹㅣㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄱㅣㄹㅣㄴ[/표기] 3merald",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto45:1",
+    "token": "3merald",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄱㅣㄹㅣㄴ [표기]3merald[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto46:0",
+    "token": "ㄱㅣㄹㅣㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄱㅣㄹㅣㄴ[/표기] falcon",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto46:1",
+    "token": "falcon",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄱㅣㄹㅣㄴ [표기]falcon[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto47:0",
+    "token": "ㄱㅣㄹㅣㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄱㅣㄹㅣㄴ[/표기] falc0n",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto47:1",
+    "token": "falc0n",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄱㅣㄹㅣㄴ [표기]falc0n[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 7,
+    "id": "auto48:0",
+    "token": "ㅁㅣㄹㄱㅏㄹㅜ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅁㅣㄹㄱㅏㄹㅜ[/표기] alpine",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 8,
+    "end": 14,
+    "id": "auto48:1",
+    "token": "alpine",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅁㅣㄹㄱㅏㄹㅜ [표기]alpine[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 7,
+    "id": "auto49:0",
+    "token": "ㅁㅣㄹㄱㅏㄹㅜ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅁㅣㄹㄱㅏㄹㅜ[/표기] 4lpine",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 8,
+    "end": 14,
+    "id": "auto49:1",
+    "token": "4lpine",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅁㅣㄹㄱㅏㄹㅜ [표기]4lpine[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 7,
+    "id": "auto50:0",
+    "token": "ㅁㅣㄹㄱㅏㄹㅜ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅁㅣㄹㄱㅏㄹㅜ[/표기] cypress",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 8,
+    "end": 15,
+    "id": "auto50:1",
+    "token": "cypress",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅁㅣㄹㄱㅏㄹㅜ [표기]cypress[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 7,
+    "id": "auto51:0",
+    "token": "ㅁㅣㄹㄱㅏㄹㅜ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅁㅣㄹㄱㅏㄹㅜ[/표기] cypr3ss",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 8,
+    "end": 15,
+    "id": "auto51:1",
+    "token": "cypr3ss",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅁㅣㄹㄱㅏㄹㅜ [표기]cypr3ss[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 7,
+    "id": "auto52:0",
+    "token": "ㅁㅣㄹㄱㅏㄹㅜ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅁㅣㄹㄱㅏㄹㅜ[/표기] badger",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 8,
+    "end": 14,
+    "id": "auto52:1",
+    "token": "badger",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅁㅣㄹㄱㅏㄹㅜ [표기]badger[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 7,
+    "id": "auto53:0",
+    "token": "ㅁㅣㄹㄱㅏㄹㅜ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅁㅣㄹㄱㅏㄹㅜ[/표기] b4dger",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 8,
+    "end": 14,
+    "id": "auto53:1",
+    "token": "b4dger",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅁㅣㄹㄱㅏㄹㅜ [표기]b4dger[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 7,
+    "id": "auto54:0",
+    "token": "ㅁㅣㄹㄱㅏㄹㅜ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅁㅣㄹㄱㅏㄹㅜ[/표기] dolphin",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 8,
+    "end": 15,
+    "id": "auto54:1",
+    "token": "dolphin",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅁㅣㄹㄱㅏㄹㅜ [표기]dolphin[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 7,
+    "id": "auto55:0",
+    "token": "ㅁㅣㄹㄱㅏㄹㅜ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅁㅣㄹㄱㅏㄹㅜ[/표기] d0lphin",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 8,
+    "end": 15,
+    "id": "auto55:1",
+    "token": "d0lphin",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅁㅣㄹㄱㅏㄹㅜ [표기]d0lphin[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 7,
+    "id": "auto56:0",
+    "token": "ㅁㅣㄹㄱㅏㄹㅜ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅁㅣㄹㄱㅏㄹㅜ[/표기] emerald",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 8,
+    "end": 15,
+    "id": "auto56:1",
+    "token": "emerald",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅁㅣㄹㄱㅏㄹㅜ [표기]emerald[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 7,
+    "id": "auto57:0",
+    "token": "ㅁㅣㄹㄱㅏㄹㅜ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅁㅣㄹㄱㅏㄹㅜ[/표기] 3merald",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 8,
+    "end": 15,
+    "id": "auto57:1",
+    "token": "3merald",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅁㅣㄹㄱㅏㄹㅜ [표기]3merald[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 7,
+    "id": "auto58:0",
+    "token": "ㅁㅣㄹㄱㅏㄹㅜ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅁㅣㄹㄱㅏㄹㅜ[/표기] falcon",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 8,
+    "end": 14,
+    "id": "auto58:1",
+    "token": "falcon",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅁㅣㄹㄱㅏㄹㅜ [표기]falcon[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 7,
+    "id": "auto59:0",
+    "token": "ㅁㅣㄹㄱㅏㄹㅜ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅁㅣㄹㄱㅏㄹㅜ[/표기] falc0n",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 8,
+    "end": 14,
+    "id": "auto59:1",
+    "token": "falc0n",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅁㅣㄹㄱㅏㄹㅜ [표기]falc0n[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto60:0",
+    "token": "ㅅㅣㄱㅗㄹ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅣㄱㅗㄹ[/표기] alpine",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto60:1",
+    "token": "alpine",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅣㄱㅗㄹ [표기]alpine[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto61:0",
+    "token": "ㅅㅣㄱㅗㄹ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅣㄱㅗㄹ[/표기] 4lpine",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto61:1",
+    "token": "4lpine",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅣㄱㅗㄹ [표기]4lpine[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto62:0",
+    "token": "ㅅㅣㄱㅗㄹ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅣㄱㅗㄹ[/표기] cypress",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto62:1",
+    "token": "cypress",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅣㄱㅗㄹ [표기]cypress[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto63:0",
+    "token": "ㅅㅣㄱㅗㄹ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅣㄱㅗㄹ[/표기] cypr3ss",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto63:1",
+    "token": "cypr3ss",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅣㄱㅗㄹ [표기]cypr3ss[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto64:0",
+    "token": "ㅅㅣㄱㅗㄹ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅣㄱㅗㄹ[/표기] badger",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto64:1",
+    "token": "badger",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅣㄱㅗㄹ [표기]badger[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto65:0",
+    "token": "ㅅㅣㄱㅗㄹ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅣㄱㅗㄹ[/표기] b4dger",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto65:1",
+    "token": "b4dger",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅣㄱㅗㄹ [표기]b4dger[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto66:0",
+    "token": "ㅅㅣㄱㅗㄹ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅣㄱㅗㄹ[/표기] dolphin",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto66:1",
+    "token": "dolphin",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅣㄱㅗㄹ [표기]dolphin[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto67:0",
+    "token": "ㅅㅣㄱㅗㄹ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅣㄱㅗㄹ[/표기] d0lphin",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto67:1",
+    "token": "d0lphin",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅣㄱㅗㄹ [표기]d0lphin[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto68:0",
+    "token": "ㅅㅣㄱㅗㄹ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅣㄱㅗㄹ[/표기] emerald",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto68:1",
+    "token": "emerald",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅣㄱㅗㄹ [표기]emerald[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto69:0",
+    "token": "ㅅㅣㄱㅗㄹ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅣㄱㅗㄹ[/표기] 3merald",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto69:1",
+    "token": "3merald",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅣㄱㅗㄹ [표기]3merald[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto70:0",
+    "token": "ㅅㅣㄱㅗㄹ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅣㄱㅗㄹ[/표기] falcon",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto70:1",
+    "token": "falcon",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅣㄱㅗㄹ [표기]falcon[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto71:0",
+    "token": "ㅅㅣㄱㅗㄹ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅣㄱㅗㄹ[/표기] falc0n",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto71:1",
+    "token": "falc0n",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅣㄱㅗㄹ [표기]falc0n[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto72:0",
+    "token": "ㅎㅏㄱㄱㅛ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅎㅏㄱㄱㅛ[/표기] alpine",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto72:1",
+    "token": "alpine",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅎㅏㄱㄱㅛ [표기]alpine[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto73:0",
+    "token": "ㅎㅏㄱㄱㅛ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅎㅏㄱㄱㅛ[/표기] 4lpine",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto73:1",
+    "token": "4lpine",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅎㅏㄱㄱㅛ [표기]4lpine[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto74:0",
+    "token": "ㅎㅏㄱㄱㅛ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅎㅏㄱㄱㅛ[/표기] cypress",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto74:1",
+    "token": "cypress",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅎㅏㄱㄱㅛ [표기]cypress[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto75:0",
+    "token": "ㅎㅏㄱㄱㅛ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅎㅏㄱㄱㅛ[/표기] cypr3ss",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto75:1",
+    "token": "cypr3ss",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅎㅏㄱㄱㅛ [표기]cypr3ss[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto76:0",
+    "token": "ㅎㅏㄱㄱㅛ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅎㅏㄱㄱㅛ[/표기] badger",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto76:1",
+    "token": "badger",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅎㅏㄱㄱㅛ [표기]badger[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto77:0",
+    "token": "ㅎㅏㄱㄱㅛ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅎㅏㄱㄱㅛ[/표기] b4dger",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto77:1",
+    "token": "b4dger",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅎㅏㄱㄱㅛ [표기]b4dger[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto78:0",
+    "token": "ㅎㅏㄱㄱㅛ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅎㅏㄱㄱㅛ[/표기] dolphin",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto78:1",
+    "token": "dolphin",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅎㅏㄱㄱㅛ [표기]dolphin[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto79:0",
+    "token": "ㅎㅏㄱㄱㅛ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅎㅏㄱㄱㅛ[/표기] d0lphin",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto79:1",
+    "token": "d0lphin",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅎㅏㄱㄱㅛ [표기]d0lphin[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto80:0",
+    "token": "ㅎㅏㄱㄱㅛ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅎㅏㄱㄱㅛ[/표기] emerald",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto80:1",
+    "token": "emerald",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅎㅏㄱㄱㅛ [표기]emerald[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto81:0",
+    "token": "ㅎㅏㄱㄱㅛ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅎㅏㄱㄱㅛ[/표기] 3merald",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 13,
+    "id": "auto81:1",
+    "token": "3merald",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅎㅏㄱㄱㅛ [표기]3merald[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto82:0",
+    "token": "ㅎㅏㄱㄱㅛ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅎㅏㄱㄱㅛ[/표기] falcon",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto82:1",
+    "token": "falcon",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅎㅏㄱㄱㅛ [표기]falcon[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 5,
+    "id": "auto83:0",
+    "token": "ㅎㅏㄱㄱㅛ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅎㅏㄱㄱㅛ[/표기] falc0n",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "id": "auto83:1",
+    "token": "falc0n",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅎㅏㄱㄱㅛ [표기]falc0n[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 7,
+    "id": "auto84:0",
+    "token": "ㄷㅗㅅㅓㄱㅘㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄷㅗㅅㅓㄱㅘㄴ[/표기] alpine",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 8,
+    "end": 14,
+    "id": "auto84:1",
+    "token": "alpine",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄷㅗㅅㅓㄱㅘㄴ [표기]alpine[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 7,
+    "id": "auto85:0",
+    "token": "ㄷㅗㅅㅓㄱㅘㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄷㅗㅅㅓㄱㅘㄴ[/표기] 4lpine",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 8,
+    "end": 14,
+    "id": "auto85:1",
+    "token": "4lpine",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄷㅗㅅㅓㄱㅘㄴ [표기]4lpine[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 7,
+    "id": "auto86:0",
+    "token": "ㄷㅗㅅㅓㄱㅘㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄷㅗㅅㅓㄱㅘㄴ[/표기] cypress",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 8,
+    "end": 15,
+    "id": "auto86:1",
+    "token": "cypress",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄷㅗㅅㅓㄱㅘㄴ [표기]cypress[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 7,
+    "id": "auto87:0",
+    "token": "ㄷㅗㅅㅓㄱㅘㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄷㅗㅅㅓㄱㅘㄴ[/표기] cypr3ss",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 8,
+    "end": 15,
+    "id": "auto87:1",
+    "token": "cypr3ss",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄷㅗㅅㅓㄱㅘㄴ [표기]cypr3ss[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 7,
+    "id": "auto88:0",
+    "token": "ㄷㅗㅅㅓㄱㅘㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄷㅗㅅㅓㄱㅘㄴ[/표기] badger",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 8,
+    "end": 14,
+    "id": "auto88:1",
+    "token": "badger",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄷㅗㅅㅓㄱㅘㄴ [표기]badger[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 7,
+    "id": "auto89:0",
+    "token": "ㄷㅗㅅㅓㄱㅘㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄷㅗㅅㅓㄱㅘㄴ[/표기] b4dger",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 8,
+    "end": 14,
+    "id": "auto89:1",
+    "token": "b4dger",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄷㅗㅅㅓㄱㅘㄴ [표기]b4dger[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 7,
+    "id": "auto90:0",
+    "token": "ㄷㅗㅅㅓㄱㅘㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄷㅗㅅㅓㄱㅘㄴ[/표기] dolphin",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 8,
+    "end": 15,
+    "id": "auto90:1",
+    "token": "dolphin",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄷㅗㅅㅓㄱㅘㄴ [표기]dolphin[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 7,
+    "id": "auto91:0",
+    "token": "ㄷㅗㅅㅓㄱㅘㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄷㅗㅅㅓㄱㅘㄴ[/표기] d0lphin",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 8,
+    "end": 15,
+    "id": "auto91:1",
+    "token": "d0lphin",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄷㅗㅅㅓㄱㅘㄴ [표기]d0lphin[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 7,
+    "id": "auto92:0",
+    "token": "ㄷㅗㅅㅓㄱㅘㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄷㅗㅅㅓㄱㅘㄴ[/표기] emerald",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 8,
+    "end": 15,
+    "id": "auto92:1",
+    "token": "emerald",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄷㅗㅅㅓㄱㅘㄴ [표기]emerald[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 7,
+    "id": "auto93:0",
+    "token": "ㄷㅗㅅㅓㄱㅘㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄷㅗㅅㅓㄱㅘㄴ[/표기] 3merald",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 8,
+    "end": 15,
+    "id": "auto93:1",
+    "token": "3merald",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄷㅗㅅㅓㄱㅘㄴ [표기]3merald[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 7,
+    "id": "auto94:0",
+    "token": "ㄷㅗㅅㅓㄱㅘㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄷㅗㅅㅓㄱㅘㄴ[/표기] falcon",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 8,
+    "end": 14,
+    "id": "auto94:1",
+    "token": "falcon",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄷㅗㅅㅓㄱㅘㄴ [표기]falcon[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 7,
+    "id": "auto95:0",
+    "token": "ㄷㅗㅅㅓㄱㅘㄴ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㄷㅗㅅㅓㄱㅘㄴ[/표기] falc0n",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 8,
+    "end": 14,
+    "id": "auto95:1",
+    "token": "falc0n",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㄷㅗㅅㅓㄱㅘㄴ [표기]falc0n[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 6,
+    "id": "auto96:0",
+    "token": "ㅅㅏㅇㄷㅏㅁ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅏㅇㄷㅏㅁ[/표기] alpine",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 7,
+    "end": 13,
+    "id": "auto96:1",
+    "token": "alpine",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅏㅇㄷㅏㅁ [표기]alpine[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 6,
+    "id": "auto97:0",
+    "token": "ㅅㅏㅇㄷㅏㅁ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅏㅇㄷㅏㅁ[/표기] 4lpine",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 7,
+    "end": 13,
+    "id": "auto97:1",
+    "token": "4lpine",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅏㅇㄷㅏㅁ [표기]4lpine[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 6,
+    "id": "auto98:0",
+    "token": "ㅅㅏㅇㄷㅏㅁ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅏㅇㄷㅏㅁ[/표기] cypress",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 7,
+    "end": 14,
+    "id": "auto98:1",
+    "token": "cypress",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅏㅇㄷㅏㅁ [표기]cypress[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 6,
+    "id": "auto99:0",
+    "token": "ㅅㅏㅇㄷㅏㅁ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅏㅇㄷㅏㅁ[/표기] cypr3ss",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 7,
+    "end": 14,
+    "id": "auto99:1",
+    "token": "cypr3ss",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅏㅇㄷㅏㅁ [표기]cypr3ss[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 6,
+    "id": "auto100:0",
+    "token": "ㅅㅏㅇㄷㅏㅁ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅏㅇㄷㅏㅁ[/표기] badger",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 7,
+    "end": 13,
+    "id": "auto100:1",
+    "token": "badger",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅏㅇㄷㅏㅁ [표기]badger[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 6,
+    "id": "auto101:0",
+    "token": "ㅅㅏㅇㄷㅏㅁ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅏㅇㄷㅏㅁ[/표기] b4dger",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 7,
+    "end": 13,
+    "id": "auto101:1",
+    "token": "b4dger",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅏㅇㄷㅏㅁ [표기]b4dger[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 6,
+    "id": "auto102:0",
+    "token": "ㅅㅏㅇㄷㅏㅁ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅏㅇㄷㅏㅁ[/표기] dolphin",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 7,
+    "end": 14,
+    "id": "auto102:1",
+    "token": "dolphin",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅏㅇㄷㅏㅁ [표기]dolphin[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 6,
+    "id": "auto103:0",
+    "token": "ㅅㅏㅇㄷㅏㅁ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅏㅇㄷㅏㅁ[/표기] d0lphin",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 7,
+    "end": 14,
+    "id": "auto103:1",
+    "token": "d0lphin",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅏㅇㄷㅏㅁ [표기]d0lphin[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 6,
+    "id": "auto104:0",
+    "token": "ㅅㅏㅇㄷㅏㅁ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅏㅇㄷㅏㅁ[/표기] emerald",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 7,
+    "end": 14,
+    "id": "auto104:1",
+    "token": "emerald",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅏㅇㄷㅏㅁ [표기]emerald[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 6,
+    "id": "auto105:0",
+    "token": "ㅅㅏㅇㄷㅏㅁ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅏㅇㄷㅏㅁ[/표기] 3merald",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 7,
+    "end": 14,
+    "id": "auto105:1",
+    "token": "3merald",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅏㅇㄷㅏㅁ [표기]3merald[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 6,
+    "id": "auto106:0",
+    "token": "ㅅㅏㅇㄷㅏㅁ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅏㅇㄷㅏㅁ[/표기] falcon",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 7,
+    "end": 13,
+    "id": "auto106:1",
+    "token": "falcon",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅏㅇㄷㅏㅁ [표기]falcon[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 0,
+    "end": 6,
+    "id": "auto107:0",
+    "token": "ㅅㅏㅇㄷㅏㅁ",
+    "collection_truncated": false,
+    "input": {
+      "target": "[표기]ㅅㅏㅇㄷㅏㅁ[/표기] falc0n",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "start": 7,
+    "end": 13,
+    "id": "auto107:1",
+    "token": "falc0n",
+    "collection_truncated": false,
+    "input": {
+      "target": "ㅅㅏㅇㄷㅏㅁ [표기]falc0n[/표기]",
+      "context": "이용 안내"
+    }
+  }
+]

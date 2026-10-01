@@ -1,0 +1,1888 @@
+{
+  "entry_url": "http://127.0.0.1:8765/dev/",
+  "scope": "/dev/",
+  "pages": [
+    {
+      "url": "http://127.0.0.1:8765/dev/",
+      "title": "시민 소통 | 온빛시청"
+    },
+    {
+      "url": "http://127.0.0.1:8765/dev/guide",
+      "title": "이용 안내 | 온빛시청"
+    },
+    {
+      "url": "http://127.0.0.1:8765/dev/board/list?board=free&page=1",
+      "title": "시민 게시판 | 온빛시청"
+    },
+    {
+      "url": "http://127.0.0.1:8765/dev/board/view?board=free&id=1041",
+      "title": "시민 게시판 | 온빛시청"
+    },
+    {
+      "url": "http://127.0.0.1:8765/dev/board/view?board=free&id=1048",
+      "title": "시민 게시판 | 온빛시청"
+    },
+    {
+      "url": "http://127.0.0.1:8765/dev/board/view?board=free&id=1055",
+      "title": "시민 게시판 | 온빛시청"
+    },
+    {
+      "url": "http://127.0.0.1:8765/dev/board/list?board=free&page=2",
+      "title": "시민 게시판 | 온빛시청"
+    },
+    {
+      "url": "http://127.0.0.1:8765/dev/board/list?board=free&page=3",
+      "title": "시민 게시판 | 온빛시청"
+    },
+    {
+      "url": "http://127.0.0.1:8765/dev/board/view?board=free&id=1062",
+      "title": "시민 게시판 | 온빛시청"
+    },
+    {
+      "url": "http://127.0.0.1:8765/dev/board/view?board=free&id=1069",
+      "title": "시민 게시판 | 온빛시청"
+    },
+    {
+      "url": "http://127.0.0.1:8765/dev/board/view?board=free&id=1076",
+      "title": "시민 게시판 | 온빛시청"
+    },
+    {
+      "url": "http://127.0.0.1:8765/dev/board/view?board=free&id=1083",
+      "title": "시민 게시판 | 온빛시청"
+    },
+    {
+      "url": "http://127.0.0.1:8765/dev/board/view?board=free&id=1090",
+      "title": "시민 게시판 | 온빛시청"
+    }
+  ],
+  "candidates": [
+    {
+      "node_id": "n_f0a2896823eba0de",
+      "url": "http://127.0.0.1:8765/dev/board/view?board=free&id=1041",
+      "location": "p#n8b1f228e6f",
+      "frame_urls": [],
+      "page_title": "시민 게시판 | 온빛시청",
+      "selector": "p#n8b1f228e6f",
+      "raw_text": "예방 교육: ‘ＣＡＳＩＮＯ 첫 입금 보너스’라는 문구는 불법도박 유도 사례입니다. 가입하지 마세요.",
+      "own_style": {
+        "tag": "p",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(34, 50, 72)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 15,
+        "position": "static",
+        "rect": {
+          "x": 428,
+          "y": 870,
+          "width": 844,
+          "height": 24.75,
+          "right": 1272,
+          "bottom": 894.75
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgb(246, 248, 250)",
+          "font_size": 15,
+          "position": "relative",
+          "rect": {
+            "x": 408,
+            "y": 816.25,
+            "width": 884,
+            "height": 107.5,
+            "right": 1292,
+            "bottom": 923.75
+          }
+        },
+        {
+          "tag": "section",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "relative",
+          "rect": {
+            "x": 380,
+            "y": 758.5,
+            "width": 940,
+            "height": 185.25,
+            "right": 1320,
+            "bottom": 943.75
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 380,
+            "y": 411.625,
+            "width": 940,
+            "height": 717.375,
+            "right": 1320,
+            "bottom": 1129
+          }
+        },
+        {
+          "tag": "main",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 380,
+            "y": 255.890625,
+            "width": 940,
+            "height": 974.203125,
+            "right": 1320,
+            "bottom": 1230.09375
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "grid",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 120,
+            "y": 255.890625,
+            "width": 1200,
+            "height": 974.203125,
+            "right": 1320,
+            "bottom": 1230.09375
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1426.03125,
+            "right": 1440,
+            "bottom": 1426.03125
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1426.03125,
+            "right": 1440,
+            "bottom": 1426.03125
+          }
+        }
+      ],
+      "nearby": {
+        "before": "2026.09.18",
+        "after": ""
+      },
+      "context": "익명 시민2026.09.18예방 교육: ‘ＣＡＳＩＮＯ 첫 입금 보너스’라는 문구는 불법도박 유도 사례입니다. 가입하지 마세요.",
+      "links": [],
+      "normalized_text": "예방 교육: ‘CASINO 첫 입금 보너스’라는 문구는 불법도박 유도 사례입니다. 가입하지 마세요.",
+      "signals": [
+        "HOMOGLYPH"
+      ]
+    },
+    {
+      "node_id": "n_d7c2f2313cb143ad",
+      "url": "http://127.0.0.1:8765/dev/board/view?board=free&id=1048",
+      "location": "p#n842ef6fabc",
+      "frame_urls": [],
+      "page_title": "시민 게시판 | 온빛시청",
+      "selector": "p#n842ef6fabc",
+      "raw_text": "온라인 카지노 B0NUS 지급 중, 입금 후 추천 코드를 등록하세요.",
+      "own_style": {
+        "tag": "p",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(34, 50, 72)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 15,
+        "position": "static",
+        "rect": {
+          "x": 408,
+          "y": 659.59375,
+          "width": 884,
+          "height": 24.75,
+          "right": 1292,
+          "bottom": 684.34375
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "section",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "relative",
+          "rect": {
+            "x": 380,
+            "y": 578.5,
+            "width": 940,
+            "height": 180,
+            "right": 1320,
+            "bottom": 758.5
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 380,
+            "y": 411.625,
+            "width": 940,
+            "height": 694.265625,
+            "right": 1320,
+            "bottom": 1105.890625
+          }
+        },
+        {
+          "tag": "main",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 380,
+            "y": 255.890625,
+            "width": 940,
+            "height": 951.09375,
+            "right": 1320,
+            "bottom": 1206.984375
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "grid",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 120,
+            "y": 255.890625,
+            "width": 1200,
+            "height": 951.09375,
+            "right": 1320,
+            "bottom": 1206.984375
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1402.921875,
+            "right": 1440,
+            "bottom": 1402.921875
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1402.921875,
+            "right": 1440,
+            "bottom": 1402.921875
+          }
+        }
+      ],
+      "nearby": {
+        "before": "시민 여러분의 의견을 듣고 있습니다. 아래 내용을 참고해 주시기 바랍니다.",
+        "after": ""
+      },
+      "context": "시민 여러분의 의견을 듣고 있습니다. 아래 내용을 참고해 주시기 바랍니다.온라인 카지노 B0NUS 지급 중, 입금 후 추천 코드를 등록하세요.",
+      "links": [],
+      "normalized_text": "온라인 카지노 B0NUS 지급 중, 입금 후 추천 코드를 등록하세요.",
+      "signals": [
+        "HOMOGLYPH"
+      ]
+    },
+    {
+      "node_id": "n_805d9164f7e5a189",
+      "url": "http://127.0.0.1:8765/dev/board/view?board=free&id=1041",
+      "location": "p#nbce91632c2",
+      "frame_urls": [],
+      "page_title": "시민 게시판 | 온빛시청",
+      "selector": "p#nbce91632c2",
+      "raw_text": "ㅋㅏㅈㅣㄴㅗ ㄱㅏㅇㅣㅂㅎㅏㅁㅕㄴ ㅇㅣㅂㄱㅡㅁ ㅂㅗㄴㅓㅅㅡ ㅈㅣㄱㅡㅂ, ㅈㅡㄱㅅㅣ ㅎㅘㄴㅈㅓㄴ ㄱㅏㄴㅡㅇ.",
+      "own_style": {
+        "tag": "p",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(34, 50, 72)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 15,
+        "position": "static",
+        "rect": {
+          "x": 428,
+          "y": 1055.25,
+          "width": 844,
+          "height": 24.75,
+          "right": 1272,
+          "bottom": 1080
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgb(246, 248, 250)",
+          "font_size": 15,
+          "position": "relative",
+          "rect": {
+            "x": 408,
+            "y": 1001.5,
+            "width": 884,
+            "height": 107.5,
+            "right": 1292,
+            "bottom": 1109
+          }
+        },
+        {
+          "tag": "section",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "relative",
+          "rect": {
+            "x": 380,
+            "y": 943.75,
+            "width": 940,
+            "height": 185.25,
+            "right": 1320,
+            "bottom": 1129
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 380,
+            "y": 411.625,
+            "width": 940,
+            "height": 717.375,
+            "right": 1320,
+            "bottom": 1129
+          }
+        },
+        {
+          "tag": "main",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 380,
+            "y": 255.890625,
+            "width": 940,
+            "height": 974.203125,
+            "right": 1320,
+            "bottom": 1230.09375
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "grid",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 120,
+            "y": 255.890625,
+            "width": 1200,
+            "height": 974.203125,
+            "right": 1320,
+            "bottom": 1230.09375
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1426.03125,
+            "right": 1440,
+            "bottom": 1426.03125
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1426.03125,
+            "right": 1440,
+            "bottom": 1426.03125
+          }
+        }
+      ],
+      "nearby": {
+        "before": "2026.09.18",
+        "after": ""
+      },
+      "context": "익명 시민2026.09.18ㅋㅏㅈㅣㄴㅗ ㄱㅏㅇㅣㅂㅎㅏㅁㅕㄴ ㅇㅣㅂㄱㅡㅁ ㅂㅗㄴㅓㅅㅡ ㅈㅣㄱㅡㅂ, ㅈㅡㄱㅅㅣ ㅎㅘㄴㅈㅓㄴ ㄱㅏㄴㅡㅇ.",
+      "links": [],
+      "normalized_text": "카지노 가이ᄇ하며ᄂ 이ᄇ그ᄆ 보너스 지그ᄇ, 즈ᄀ시 화ᄂ저ᄂ 가느ᄋ.",
+      "signals": [
+        "JAMO"
+      ]
+    },
+    {
+      "node_id": "n_036a63aa1240abd0",
+      "url": "http://127.0.0.1:8765/dev/board/view?board=free&id=1055",
+      "location": "iframe[src=\"http://127.0.0.1:8765/dev/widget/comments?post=1055\"] >>> p#n938cee67db",
+      "frame_urls": [
+        "http://127.0.0.1:8765/dev/widget/comments?post=1055"
+      ],
+      "page_title": "시민 게시판 | 온빛시청",
+      "selector": "p#n938cee67db",
+      "raw_text": "ㅅㅡㄹㄹㅗㅅ ㄱㅏㅇㅣㅂㅎㅏㅁㅕㄴ ㅊㅓㅅ ㅊㅜㅇㅈㅓㄴ ㄷㅜ ㅂㅐ, ㅎㅕㄴㄱㅡㅁ ㅎㅘㄴㅈㅓㄴ ㅈㅓㅂㅅㅜ.",
+      "own_style": {
+        "tag": "p",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(34, 50, 72)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 15,
+        "position": "static",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0,
+          "right": 0,
+          "bottom": 0
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "none",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0,
+            "right": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgb(246, 248, 250)",
+          "font_size": 15,
+          "position": "relative",
+          "rect": {
+            "x": 16,
+            "y": 16,
+            "width": 850,
+            "height": 58.75,
+            "right": 866,
+            "bottom": 74.75
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 882,
+            "height": 90.75,
+            "right": 882,
+            "bottom": 90.75
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 882,
+            "height": 90.75,
+            "right": 882,
+            "bottom": 90.75
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "ㅅㅡㄹㄹㅗㅅ ㄱㅏㅇㅣㅂㅎㅏㅁㅕㄴ ㅊㅓㅅ ㅊㅜㅇㅈㅓㄴ ㄷㅜ ㅂㅐ, ㅎㅕㄴㄱㅡㅁ ㅎㅘㄴㅈㅓㄴ ㅈㅓㅂㅅㅜ.",
+      "links": [],
+      "normalized_text": "스ᄅ로ᄉ 가이ᄇ하며ᄂ 처ᄉ 추ᄋ저ᄂ 두 배, 혀ᄂ그ᄆ 화ᄂ저ᄂ 저ᄇ수.",
+      "signals": [
+        "JAMO",
+        "OFFSCREEN"
+      ]
+    },
+    {
+      "node_id": "n_1283947e9159e897",
+      "url": "http://127.0.0.1:8765/dev/board/view?board=free&id=1055",
+      "location": "p#n67f2aa2376",
+      "frame_urls": [],
+      "page_title": "시민 게시판 | 온빛시청",
+      "selector": "p#n67f2aa2376",
+      "raw_text": "사설 카지노 신규 회원 모집, 첫 입금 추가 지급과 현금 환전.",
+      "own_style": {
+        "tag": "p",
+        "opacity": 0,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(34, 50, 72)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 15,
+        "position": "static",
+        "rect": {
+          "x": 428,
+          "y": 870,
+          "width": 844,
+          "height": 24.75,
+          "right": 1272,
+          "bottom": 894.75
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgb(246, 248, 250)",
+          "font_size": 15,
+          "position": "relative",
+          "rect": {
+            "x": 408,
+            "y": 816.25,
+            "width": 884,
+            "height": 107.5,
+            "right": 1292,
+            "bottom": 923.75
+          }
+        },
+        {
+          "tag": "section",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "relative",
+          "rect": {
+            "x": 380,
+            "y": 758.5,
+            "width": 940,
+            "height": 185.25,
+            "right": 1320,
+            "bottom": 943.75
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 380,
+            "y": 411.625,
+            "width": 940,
+            "height": 829.875,
+            "right": 1320,
+            "bottom": 1241.5
+          }
+        },
+        {
+          "tag": "main",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 380,
+            "y": 255.890625,
+            "width": 940,
+            "height": 1086.703125,
+            "right": 1320,
+            "bottom": 1342.59375
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "grid",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 120,
+            "y": 255.890625,
+            "width": 1200,
+            "height": 1086.703125,
+            "right": 1320,
+            "bottom": 1342.59375
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1538.53125,
+            "right": 1440,
+            "bottom": 1538.53125
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1538.53125,
+            "right": 1440,
+            "bottom": 1538.53125
+          }
+        }
+      ],
+      "nearby": {
+        "before": "2026.09.18",
+        "after": ""
+      },
+      "context": "익명 시민2026.09.18사설 카지노 신규 회원 모집, 첫 입금 추가 지급과 현금 환전.",
+      "links": [],
+      "normalized_text": "사설 카지노 신규 회원 모집, 첫 입금 추가 지급과 현금 환전.",
+      "signals": [
+        "TRANSPARENT"
+      ]
+    },
+    {
+      "node_id": "n_24b4010f56f03a15",
+      "url": "http://127.0.0.1:8765/dev/board/view?board=free&id=1069",
+      "location": "p#n33ce6bbc0f",
+      "frame_urls": [],
+      "page_title": "시민 게시판 | 온빛시청",
+      "selector": "p#n33ce6bbc0f",
+      "raw_text": "전체 메뉴 닫기 및 검색 도움말",
+      "own_style": {
+        "tag": "p",
+        "opacity": 0,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(34, 50, 72)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 15,
+        "position": "static",
+        "rect": {
+          "x": 428,
+          "y": 870,
+          "width": 844,
+          "height": 24.75,
+          "right": 1272,
+          "bottom": 894.75
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgb(246, 248, 250)",
+          "font_size": 15,
+          "position": "relative",
+          "rect": {
+            "x": 408,
+            "y": 816.25,
+            "width": 884,
+            "height": 107.5,
+            "right": 1292,
+            "bottom": 923.75
+          }
+        },
+        {
+          "tag": "section",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "relative",
+          "rect": {
+            "x": 380,
+            "y": 758.5,
+            "width": 940,
+            "height": 185.25,
+            "right": 1320,
+            "bottom": 943.75
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 380,
+            "y": 411.625,
+            "width": 940,
+            "height": 668.625,
+            "right": 1320,
+            "bottom": 1080.25
+          }
+        },
+        {
+          "tag": "main",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 380,
+            "y": 255.890625,
+            "width": 940,
+            "height": 925.453125,
+            "right": 1320,
+            "bottom": 1181.34375
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "grid",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 120,
+            "y": 255.890625,
+            "width": 1200,
+            "height": 925.453125,
+            "right": 1320,
+            "bottom": 1181.34375
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1377.28125,
+            "right": 1440,
+            "bottom": 1377.28125
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1377.28125,
+            "right": 1440,
+            "bottom": 1377.28125
+          }
+        }
+      ],
+      "nearby": {
+        "before": "2026.09.18",
+        "after": ""
+      },
+      "context": "익명 시민2026.09.18전체 메뉴 닫기 및 검색 도움말",
+      "links": [],
+      "normalized_text": "전체 메뉴 닫기 및 검색 도움말",
+      "signals": [
+        "TRANSPARENT"
+      ]
+    },
+    {
+      "node_id": "n_232c71653ede085f",
+      "url": "http://127.0.0.1:8765/dev/board/view?board=free&id=1048",
+      "location": "p#neac6b9ca6d",
+      "frame_urls": [],
+      "page_title": "시민 게시판 | 온빛시청",
+      "selector": "p#neac6b9ca6d",
+      "raw_text": "본문 바로가기 · 주메뉴 바로가기",
+      "own_style": {
+        "tag": "p",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(34, 50, 72)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 1,
+        "position": "static",
+        "rect": {
+          "x": 428,
+          "y": 870,
+          "width": 844,
+          "height": 1.640625,
+          "right": 1272,
+          "bottom": 871.640625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgb(246, 248, 250)",
+          "font_size": 15,
+          "position": "relative",
+          "rect": {
+            "x": 408,
+            "y": 816.25,
+            "width": 884,
+            "height": 84.390625,
+            "right": 1292,
+            "bottom": 900.640625
+          }
+        },
+        {
+          "tag": "section",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "relative",
+          "rect": {
+            "x": 380,
+            "y": 758.5,
+            "width": 940,
+            "height": 162.140625,
+            "right": 1320,
+            "bottom": 920.640625
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 380,
+            "y": 411.625,
+            "width": 940,
+            "height": 694.265625,
+            "right": 1320,
+            "bottom": 1105.890625
+          }
+        },
+        {
+          "tag": "main",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 380,
+            "y": 255.890625,
+            "width": 940,
+            "height": 951.09375,
+            "right": 1320,
+            "bottom": 1206.984375
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "grid",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 120,
+            "y": 255.890625,
+            "width": 1200,
+            "height": 951.09375,
+            "right": 1320,
+            "bottom": 1206.984375
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1402.921875,
+            "right": 1440,
+            "bottom": 1402.921875
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1402.921875,
+            "right": 1440,
+            "bottom": 1402.921875
+          }
+        }
+      ],
+      "nearby": {
+        "before": "2026.09.18",
+        "after": ""
+      },
+      "context": "익명 시민2026.09.18본문 바로가기 · 주메뉴 바로가기",
+      "links": [],
+      "normalized_text": "본문 바로가기 · 주메뉴 바로가기",
+      "signals": [
+        "OFFSCREEN"
+      ]
+    },
+    {
+      "node_id": "n_bc334e71b3146088",
+      "url": "http://127.0.0.1:8765/dev/board/view?board=free&id=1062",
+      "location": "p#naacfbbb6fa",
+      "frame_urls": [],
+      "page_title": "시민 게시판 | 온빛시청",
+      "selector": "p#naacfbbb6fa",
+      "raw_text": "불법 성인물 공유방 입장 회원 모집, 비공개 영상 결제 안내.",
+      "own_style": {
+        "tag": "p",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(34, 50, 72)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 15,
+        "position": "absolute",
+        "rect": {
+          "x": -9591,
+          "y": 1013.5,
+          "width": 399.03125,
+          "height": 24.75,
+          "right": -9191.96875,
+          "bottom": 1038.25
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgb(246, 248, 250)",
+          "font_size": 15,
+          "position": "relative",
+          "rect": {
+            "x": 408,
+            "y": 1001.5,
+            "width": 884,
+            "height": 58.75,
+            "right": 1292,
+            "bottom": 1060.25
+          }
+        },
+        {
+          "tag": "section",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "relative",
+          "rect": {
+            "x": 380,
+            "y": 943.75,
+            "width": 940,
+            "height": 136.5,
+            "right": 1320,
+            "bottom": 1080.25
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 380,
+            "y": 411.625,
+            "width": 940,
+            "height": 668.625,
+            "right": 1320,
+            "bottom": 1080.25
+          }
+        },
+        {
+          "tag": "main",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 380,
+            "y": 255.890625,
+            "width": 940,
+            "height": 925.453125,
+            "right": 1320,
+            "bottom": 1181.34375
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "grid",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 120,
+            "y": 255.890625,
+            "width": 1200,
+            "height": 925.453125,
+            "right": 1320,
+            "bottom": 1181.34375
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1377.28125,
+            "right": 1440,
+            "bottom": 1377.28125
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1377.28125,
+            "right": 1440,
+            "bottom": 1377.28125
+          }
+        }
+      ],
+      "nearby": {
+        "before": "2026.09.18",
+        "after": ""
+      },
+      "context": "익명 시민2026.09.18불법 성인물 공유방 입장 회원 모집, 비공개 영상 결제 안내.",
+      "links": [],
+      "normalized_text": "불법 성인물 공유방 입장 회원 모집, 비공개 영상 결제 안내.",
+      "signals": [
+        "OFFSCREEN"
+      ]
+    },
+    {
+      "node_id": "n_cb59143234c418e0",
+      "url": "http://127.0.0.1:8765/dev/",
+      "location": "html > body > div:nth-of-type(2) > main > section > h1",
+      "frame_urls": [],
+      "page_title": "시민 소통 | 온빛시청",
+      "selector": "html > body > div:nth-of-type(2) > main > section > h1",
+      "raw_text": "함께 만드는 온빛,시민의 목소리에서 시작합니다.",
+      "own_style": {
+        "tag": "h1",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(34, 50, 72)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 31,
+        "position": "relative",
+        "rect": {
+          "x": 416,
+          "y": 372.828125,
+          "width": 868,
+          "height": 86.78125,
+          "right": 1284,
+          "bottom": 459.609375
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "section",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgb(237, 245, 250)",
+          "font_size": 15,
+          "position": "relative",
+          "rect": {
+            "x": 380,
+            "y": 300.6875,
+            "width": 940,
+            "height": 330,
+            "right": 1320,
+            "bottom": 630.6875
+          }
+        },
+        {
+          "tag": "main",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 380,
+            "y": 255.890625,
+            "width": 940,
+            "height": 620.296875,
+            "right": 1320,
+            "bottom": 876.1875
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "grid",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 120,
+            "y": 255.890625,
+            "width": 1200,
+            "height": 620.296875,
+            "right": 1320,
+            "bottom": 876.1875
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1072.125,
+            "right": 1440,
+            "bottom": 1072.125
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1072.125,
+            "right": 1440,
+            "bottom": 1072.125
+          }
+        }
+      ],
+      "nearby": {
+        "before": "CITIZEN FIRST",
+        "after": "생활 속 작은 의견이 더 나은 도시를 만듭니다."
+      },
+      "context": "CITIZEN FIRST함께 만드는 온빛,시민의 목소리에서 시작합니다.생활 속 작은 의견이 더 나은 도시를 만듭니다.시민 게시판 바로가기 →",
+      "links": [],
+      "normalized_text": "함께 만드는 온빛,시민의 목소리에서 시작합니다.",
+      "signals": []
+    },
+    {
+      "node_id": "n_c6a9f1ad76313c6e",
+      "url": "http://127.0.0.1:8765/dev/",
+      "location": "html > body > div:nth-of-type(2) > main > section > p",
+      "frame_urls": [],
+      "page_title": "시민 소통 | 온빛시청",
+      "selector": "html > body > div:nth-of-type(2) > main > section > p",
+      "raw_text": "생활 속 작은 의견이 더 나은 도시를 만듭니다.",
+      "own_style": {
+        "tag": "p",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(100, 126, 149)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 14,
+        "position": "relative",
+        "rect": {
+          "x": 416,
+          "y": 473.609375,
+          "width": 868,
+          "height": 23.09375,
+          "right": 1284,
+          "bottom": 496.703125
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "section",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgb(237, 245, 250)",
+          "font_size": 15,
+          "position": "relative",
+          "rect": {
+            "x": 380,
+            "y": 300.6875,
+            "width": 940,
+            "height": 330,
+            "right": 1320,
+            "bottom": 630.6875
+          }
+        },
+        {
+          "tag": "main",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 380,
+            "y": 255.890625,
+            "width": 940,
+            "height": 620.296875,
+            "right": 1320,
+            "bottom": 876.1875
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "grid",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 120,
+            "y": 255.890625,
+            "width": 1200,
+            "height": 620.296875,
+            "right": 1320,
+            "bottom": 876.1875
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1072.125,
+            "right": 1440,
+            "bottom": 1072.125
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1072.125,
+            "right": 1440,
+            "bottom": 1072.125
+          }
+        }
+      ],
+      "nearby": {
+        "before": "함께 만드는 온빛,시민의 목소리에서 시작합니다.",
+        "after": "시민 게시판 바로가기 →"
+      },
+      "context": "CITIZEN FIRST함께 만드는 온빛,시민의 목소리에서 시작합니다.생활 속 작은 의견이 더 나은 도시를 만듭니다.시민 게시판 바로가기 →",
+      "links": [],
+      "normalized_text": "생활 속 작은 의견이 더 나은 도시를 만듭니다.",
+      "signals": []
+    },
+    {
+      "node_id": "n_5975f737982a5e46",
+      "url": "http://127.0.0.1:8765/dev/",
+      "location": "html > body > div:nth-of-type(2) > main > div:nth-of-type(2) > section:nth-of-type(1) > h2",
+      "frame_urls": [],
+      "page_title": "시민 소통 | 온빛시청",
+      "selector": "html > body > div:nth-of-type(2) > main > div:nth-of-type(2) > section:nth-of-type(1) > h2",
+      "raw_text": "새로운 시민 소식",
+      "own_style": {
+        "tag": "h2",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(34, 50, 72)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 20,
+        "position": "static",
+        "rect": {
+          "x": 380,
+          "y": 681.28125,
+          "width": 514.34375,
+          "height": 33,
+          "right": 894.34375,
+          "bottom": 714.28125
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "section",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 380,
+            "y": 664.6875,
+            "width": 514.34375,
+            "height": 211.5,
+            "right": 894.34375,
+            "bottom": 876.1875
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "grid",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 380,
+            "y": 664.6875,
+            "width": 940,
+            "height": 211.5,
+            "right": 1320,
+            "bottom": 876.1875
+          }
+        },
+        {
+          "tag": "main",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 380,
+            "y": 255.890625,
+            "width": 940,
+            "height": 620.296875,
+            "right": 1320,
+            "bottom": 876.1875
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "grid",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 120,
+            "y": 255.890625,
+            "width": 1200,
+            "height": 620.296875,
+            "right": 1320,
+            "bottom": 876.1875
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1072.125,
+            "right": 1440,
+            "bottom": 1072.125
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1072.125,
+            "right": 1440,
+            "bottom": 1072.125
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": "생활체육 프로그램 운영에 관한 의견09.18도서관 야간 개방 안내09.18마을 산책로 정비 요청09.18"
+      },
+      "context": "새로운 시민 소식생활체육 프로그램 운영에 관한 의견09.18도서관 야간 개방 안내09.18마을 산책로 정비 요청09.18",
+      "links": [],
+      "normalized_text": "새로운 시민 소식",
+      "signals": []
+    },
+    {
+      "node_id": "n_29a726a6f21ad1be",
+      "url": "http://127.0.0.1:8765/dev/",
+      "location": "html > body > div:nth-of-type(2) > main > div:nth-of-type(2) > section:nth-of-type(1) > ul > li:nth-of-type(1)",
+      "frame_urls": [],
+      "page_title": "시민 소통 | 온빛시청",
+      "selector": "html > body > div:nth-of-type(2) > main > div:nth-of-type(2) > section:nth-of-type(1) > ul > li:nth-of-type(1)",
+      "raw_text": "생활체육 프로그램 운영에 관한 의견09.18",
+      "own_style": {
+        "tag": "li",
+        "opacity": 1,
+        "display": "flex",
+        "visibility": "visible",
+        "color": "rgb(34, 50, 72)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 13,
+        "position": "static",
+        "rect": {
+          "x": 380,
+          "y": 730.875,
+          "width": 514.34375,
+          "height": 48.4375,
+          "right": 894.34375,
+          "bottom": 779.3125
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "ul",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 380,
+            "y": 730.875,
+            "width": 514.34375,
+            "height": 145.3125,
+            "right": 894.34375,
+            "bottom": 876.1875
+          }
+        },
+        {
+          "tag": "section",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 380,
+            "y": 664.6875,
+            "width": 514.34375,
+            "height": 211.5,
+            "right": 894.34375,
+            "bottom": 876.1875
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "grid",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 380,
+            "y": 664.6875,
+            "width": 940,
+            "height": 211.5,
+            "right": 1320,
+            "bottom": 876.1875
+          }
+        },
+        {
+          "tag": "main",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 380,
+            "y": 255.890625,
+            "width": 940,
+            "height": 620.296875,
+            "right": 1320,
+            "bottom": 876.1875
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "grid",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 120,
+            "y": 255.890625,
+            "width": 1200,
+            "height": 620.296875,
+            "right": 1320,
+            "bottom": 876.1875
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1072.125,
+            "right": 1440,
+            "bottom": 1072.125
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(34, 50, 72)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 15,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1072.125,
+            "right": 1440,
+            "bottom": 1072.125
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": "도서관 야간 개방 안내09.18"
+      },
+      "context": "생활체육 프로그램 운영에 관한 의견09.18도서관 야간 개방 안내09.18마을 산책로 정비 요청09.18",
+      "links": [
+        {
+          "text": "생활체육 프로그램 운영에 관한 의견",
+          "url": "http://127.0.0.1:8765/dev/board/view?board=free&id=1041"
+        }
+      ],
+      "normalized_text": "생활체육 프로그램 운영에 관한 의견09.18",
+      "signals": []
+    }
+  ],
+  "blocked_requests": [],
+  "snapshot_sha256": "75809cd54527fe3a7e975a221cddd44ab467f281b5d72b8f6a074f88703afedd",
+  "collected_at": "2026-09-21T07:12:33.469Z",
+  "collection_elapsed_sec": 9.2044598,
+  "selection": {
+    "purpose": "integration verification only, not an accuracy benchmark",
+    "source_candidates": 226,
+    "method": "Two distinct DOM-hint candidates per technique, then four without hints; no gold labels read",
+    "source_snapshot_sha256": "8ce301ea4f4b96ee8652e0a5a01f618dfcfbd4161bac234a7890ec0787beb6da"
+  }
+}

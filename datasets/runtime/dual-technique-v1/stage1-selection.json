@@ -1,0 +1,117 @@
+{
+  "candidate": "kc-base",
+  "arm": "kc",
+  "metrics": {
+    "klue-base": {
+      "JAMO": {
+        "confusion": [
+          [
+            332,
+            0,
+            4
+          ],
+          [
+            25,
+            251,
+            0
+          ],
+          [
+            0,
+            0,
+            12
+          ]
+        ],
+        "macro_f1": 0.9226191617083458,
+        "strict_f1": 0.9581529581529582,
+        "normal_false": 25,
+        "uncertain_false": 0
+      },
+      "HOMOGLYPH": {
+        "confusion": [
+          [
+            192,
+            48,
+            0
+          ],
+          [
+            0,
+            372,
+            0
+          ],
+          [
+            12,
+            0,
+            0
+          ]
+        ],
+        "macro_f1": 0.6014196014196015,
+        "strict_f1": 0.8648648648648649,
+        "normal_false": 0,
+        "uncertain_false": 12
+      },
+      "positive_macro_f1": 0.9115089115089116,
+      "min_f1": 0.8648648648648649,
+      "normal_false": 25,
+      "uncertain_false": 12,
+      "exact_state_accuracy": 0.8637820512820513,
+      "rows": 624
+    },
+    "kc-base": {
+      "JAMO": {
+        "confusion": [
+          [
+            336,
+            0,
+            0
+          ],
+          [
+            4,
+            272,
+            0
+          ],
+          [
+            0,
+            0,
+            12
+          ]
+        ],
+        "macro_f1": 0.9955945233878979,
+        "strict_f1": 0.9940828402366864,
+        "normal_false": 4,
+        "uncertain_false": 0
+      },
+      "HOMOGLYPH": {
+        "confusion": [
+          [
+            192,
+            48,
+            0
+          ],
+          [
+            2,
+            370,
+            0
+          ],
+          [
+            12,
+            0,
+            0
+          ]
+        ],
+        "macro_f1": 0.5992318026148985,
+        "strict_f1": 0.8609865470852018,
+        "normal_false": 2,
+        "uncertain_false": 12
+      },
+      "positive_macro_f1": 0.9275346936609441,
+      "min_f1": 0.8609865470852018,
+      "normal_false": 6,
+      "uncertain_false": 12,
+      "exact_state_accuracy": 0.8942307692307693,
+      "rows": 624
+    }
+  },
+  "eligible": true,
+  "reason": "fixed development rank, no final or regression selection",
+  "sha256": "19dd3111a4c9abc566e742b3888cebb7bdc6106ae3b8ec795413940906980a1a"
+}

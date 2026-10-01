@@ -1,0 +1,108 @@
+{
+  "id": "b50e9e5bfdf8b204",
+  "source": {
+    "id": "b50e9e5bfdf8b204",
+    "url": "https://hrd.jeonbuk.go.kr/board/view.training?boardId=BBS_0000016&menuCd=DOM_000000103001000000&startPage=6&dataSid=13140",
+    "source_scope": "government_board",
+    "captured_at": "2026-09-28T23:08:49.298958+00:00",
+    "rights_status": "unverified_third_party_content",
+    "human_reviewed": false,
+    "raw_file": "raw/b50e9e5bfdf8b204.html",
+    "byte_file": "raw/b50e9e5bfdf8b204.bin",
+    "response_sha256": "b55e7d3b6e8120f4601be13f6c549376893a821b6a3cf1cd3fb8487a5fd3de17",
+    "decoded_sha256": "b55e7d3b6e8120f4601be13f6c549376893a821b6a3cf1cd3fb8487a5fd3de17",
+    "encoding": "utf-8",
+    "status": "captured",
+    "page_title": "홈 > 소통마당 > 자유게시판 |상세보기"
+  },
+  "title": "이제 슬슬 날씨가 풀리네요",
+  "raw_text": "풀리는 날씨처럼 불황인 경기가 풀려서 다들 힘내셨으면 합니다.\n출장안마\n서울출장안마\n강남출장안마\n서초출장안마\n강동구출장안마\n영등포출장안마\n송파출장안마\n관악구출장안마\n동작구출장안마\n강서구출장안마\n금천구출장안마\n용산출장안마\n구로출장안마\n성동구출장안마\n양천구출장안마\n관악구출장안마\n동대문출장안마\n마포출장안마\n서대문출장안마",
+  "body_xpath": "/html/body/div[1]/div[3]/div/div[2]/div[2]/div[3]/div",
+  "title_xpath": "/html/body/div[1]/div[3]/div/div[2]/div[2]/div[3]/dl[1]",
+  "source_kind": "real_web_post",
+  "extraction": "static_HTML_lxml_itertext",
+  "comments_status": "not_extracted_or_labeled",
+  "technique_observed": null,
+  "body_sha256": "f26a1987db2373016bbfd17b467f5f3b124482b0aa35da38353bcb8121a232ae",
+  "label": null,
+  "human_reviewed": false,
+  "outgoing_links": [
+    {
+      "text": "출장안마",
+      "href": "https://www.dioanma.com"
+    },
+    {
+      "text": "서울출장안마",
+      "href": "https://www.dioanma.com/seoul"
+    },
+    {
+      "text": "강남출장안마",
+      "href": "https://www.dioanma.com/gangnam"
+    },
+    {
+      "text": "서초출장안마",
+      "href": "https://www.dioanma.com/seocho"
+    },
+    {
+      "text": "강동구출장안마",
+      "href": "https://www.dioanma.com/gangdong"
+    },
+    {
+      "text": "영등포출장안마",
+      "href": "https://www.dioanma.com/yeongdeungpo"
+    },
+    {
+      "text": "송파출장안마",
+      "href": "https://www.dioanma.com/songpa"
+    },
+    {
+      "text": "관악구출장안마",
+      "href": "https://www.dioanma.com/gwanak"
+    },
+    {
+      "text": "동작구출장안마",
+      "href": "https://www.dioanma.com/dongjak"
+    },
+    {
+      "text": "강서구출장안마",
+      "href": "https://www.dioanma.com/gangseo"
+    },
+    {
+      "text": "금천구출장안마",
+      "href": "https://www.dioanma.com/geumcheon"
+    },
+    {
+      "text": "용산출장안마",
+      "href": "https://www.dioanma.com/yongsan"
+    },
+    {
+      "text": "구로출장안마",
+      "href": "https://www.dioanma.com/guro"
+    },
+    {
+      "text": "성동구출장안마",
+      "href": "https://www.dioanma.com/seongdong"
+    },
+    {
+      "text": "양천구출장안마",
+      "href": "https://www.dioanma.com/yangcheon"
+    },
+    {
+      "text": "관악구출장안마",
+      "href": "https://www.dioanma.com/gwangjin"
+    },
+    {
+      "text": "동대문출장안마",
+      "href": "https://www.dioanma.com/dongdaemun"
+    },
+    {
+      "text": "마포출장안마",
+      "href": "https://www.dioanma.com/mapo"
+    },
+    {
+      "text": "서대문출장안마",
+      "href": "https://www.dioanma.com/seodaemun"
+    }
+  ],
+  "notes": "No CSS technique claim from static text; listed neighbours are excluded from owned context."
+}

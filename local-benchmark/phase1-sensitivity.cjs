@@ -1,0 +1,18 @@
+// Post-hoc diagnostic sensitivity only; authored gold and operational result stay frozen.
+const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict');
+const {materialize}=require('../agent/src/core/bounded-scan-store.cjs'),{combine}=require('../agent/src/core/scan.cjs'),{integrateObservations}=require('../agent/src/core/techniques.cjs'),{measure}=require('./phase1-operating-evaluate.cjs');
+const dir=path.resolve(process.argv[2]),read=f=>JSON.parse(fs.readFileSync(path.join(dir,f))),save=(f,v)=>fs.writeFileSync(path.join(dir,f),JSON.stringify(v,null,2));
+const result=read('evaluation.json'),dom=read('dom-audit.json'),state=read('scan/checkpoint.json').state,ex=materialize(path.join(dir,'scan'),state),merged=combine(ex),ids=new Set(merged.candidates.map(c=>c.node_id)),integrated=integrateObservations(merged,merged.decisions,ex.technique_observations.filter(o=>ids.has(o.node_id))),ds=new Map(merged.decisions.map(d=>[d.node_id,d])),fsd=new Map(integrated.decisions.map(d=>[d.node_id,d])),cs=new Map(ex.candidates.map(c=>[c.node_id,c]));
+const gold=new Map(fs.readFileSync('test-set-operating-phase1/private/gold.jsonl','utf8').trim().split('\n').map(x=>{const g=JSON.parse(x);return [g.id,g]}));
+const rows=structuredClone(result.end.rows),parentRecovered=[];
+for(const r of rows){if(r.collected)continue;const match=dom.rows.filter(m=>m.page===r.page&&m.raw_matches&&m.covered.length===1&&m.covered[0].id===r.id&&cs.get(m.node_id).raw_text==='작성자 '+r.target);if(match.length!==1)continue;const c=cs.get(match[0].node_id),d=ds.get(c.node_id),f=fsd.get(c.node_id);r.collected=true;r.judged=!!d;r.predicted=!!d?.is_violation&&!d.needs_review;r.review=!!d?.needs_review;r.got=f?.is_violation&&!f.needs_review?f.techniques:[];r.miss_reason=r.predicted?null:!d?'collected_not_judged':d.needs_review?'intent_uncertain':'intent_negative';parentRecovered.push({id:r.id,node_id:c.node_id,ad:r.ad,judged:r.judged,predicted:r.predicted});}
+const locationAdjusted=measure(rows),locationJudged=measure(rows.filter(r=>r.judged)),corrections=[];
+for(const r of rows){const g=gold.get(r.id),matches=dom.rows.filter(m=>m.page===r.page&&m.raw_matches).flatMap(m=>m.covered.filter(c=>c.id===r.id));if(!matches.length)continue;const v=matches[0];assert(matches.every(x=>x.color===v.color&&x.font_size===v.font_size));
+ for(const e of g.style_evidence){let remove=false,reason='';
+  if(e.technique==='TRANSPARENT'&&e.scope==='ancestor'&&['transparent-color','white-on-white','matching-solid-color'].includes(e.kind)&&g.slot==='link'&&v.color==='rgb(0, 0, 238)'&&!v.chain.some(s=>Number(s.opacity)===0)){remove=true;reason='Opaque default blue link color overrides ancestor color; configured transparent/same-background text is not rendered.';}
+  if(e.technique==='OFFSCREEN'&&e.kind==='font-one'&&parseFloat(v.font_size)>1){remove=true;reason='Relative heading font renders above 1px despite ancestor font-size:1px.';}
+  if(remove){r.want=r.want.filter(t=>t!==e.technique);corrections.push({id:r.id,ad:r.ad,judged:r.judged,removed:e.technique,color:v.color,font_size:v.font_size,reason});}
+ }
+}
+save('sensitivity.json',{scope:'Post-hoc DOM-verified author-wrapper matching and obvious CSS label discrepancies. Not a replacement held-out score; original gold and operating output unchanged.',parentRecovered,corrections,locationAdjusted,locationJudged,renderedAdjusted:measure(rows),renderedJudged:measure(rows.filter(r=>r.judged)),correctAdRendered:measure(rows.filter(r=>r.ad&&r.predicted))});
+console.log(JSON.stringify({parents:parentRecovered.length,corrections:corrections.length,locationJudged,renderedJudged:measure(rows.filter(r=>r.judged))}));

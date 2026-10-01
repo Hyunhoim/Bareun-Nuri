@@ -1,0 +1,17 @@
+{
+  "name": "운영 테스트 phase 1",
+  "purpose": "evaluation_only",
+  "version": "1.2",
+  "previous_archive": ".runtime/phase1-before-publicweb-v12.zip",
+  "evaluation_runs": 1,
+  "training_runs": 0,
+  "training_allowed": false,
+  "model_outputs_exist": true,
+  "human_reviewed": false,
+  "evaluation_requires_separate_user_request": true,
+  "evaluation_status": "failed_partial_observation",
+  "evaluation_record": ".runtime/phase1-operating-1790735149471",
+  "completed_evaluation": false,
+  "exact_target_positions_judged": 686,
+  "reuse_status": "observed_regression_material_not_unused_holdout"
+}

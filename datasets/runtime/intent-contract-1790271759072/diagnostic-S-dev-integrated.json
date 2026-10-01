@@ -1,0 +1,537 @@
+{
+  "decisions": [
+    {
+      "node_id": "n_4c355840878beb70",
+      "is_violation": true,
+      "techniques": [
+        "HOMOGLYPH"
+      ],
+      "observed_techniques": [
+        "HOMOGLYPH"
+      ],
+      "needs_review": false,
+      "reason": "불법 서비스 이용 권유 · t: ＧＵＩＤＥ · 사설 스포츠 베팅방 회원을 받습니다. 가입하고 충전하면 현금 배당 게임을 이용할 수 있습니다. / c0: 피해 상담 기록에 등장한 권유 문장을 자료로 옮겼습니다. 아래 인용은 홍보가 아니며 돈을 보내면 피해를 입을 수 있습니다.",
+      "raw_ad_verdict": "violation",
+      "reason_code": "invitation",
+      "evidence_ids": [
+        "t",
+        "c0"
+      ]
+    },
+    {
+      "node_id": "n_a1bbca53d99ed120",
+      "is_violation": true,
+      "techniques": [
+        "JAMO"
+      ],
+      "observed_techniques": [
+        "JAMO"
+      ],
+      "needs_review": false,
+      "reason": "불법 서비스 이용 권유 · t: 무허가 카지노의 현금 룰렛 회원을 모집합니다. 판돈을 입금하고 게임에 참여하세요. / c0: 청소년 수업 자료입니다. 뒤의 예시는 불법 서비스로 유인하는 말이므로 따라 하지 말고 신고해야 합니다.",
+      "raw_ad_verdict": "violation",
+      "reason_code": "invitation",
+      "evidence_ids": [
+        "t",
+        "c0"
+      ]
+    },
+    {
+      "node_id": "n_160974f939f1fca8",
+      "is_violation": true,
+      "techniques": [
+        "TRANSPARENT"
+      ],
+      "observed_techniques": [
+        "TRANSPARENT"
+      ],
+      "needs_review": false,
+      "reason": "불법 서비스 이용 권유 · t: 동의 없이 촬영한 성인 영상 공유방에 유료 회원을 받습니다. 가입비 송금 후 초대받으세요. / c0: 삭제된 모집글의 표현을 증거로 남깁니다. 인용 내용을 실행하거나 연락하지 마십시오.",
+      "raw_ad_verdict": "violation",
+      "reason_code": "invitation",
+      "evidence_ids": [
+        "t",
+        "c0"
+      ]
+    },
+    {
+      "node_id": "n_8873e618aac83a71",
+      "is_violation": true,
+      "techniques": [
+        "OFFSCREEN"
+      ],
+      "observed_techniques": [
+        "OFFSCREEN"
+      ],
+      "needs_review": false,
+      "reason": "불법 서비스 이용 권유 · t: 사설 경마 도박판 접수를 시작합니다. 충전한 금액으로 승부를 걸고 현금 배당을 받으세요. / c0: 불법사이트 대응 교육: 다음 내용은 실제 제보에서 발췌한 위험 사례입니다. 참여를 제안하는 취지가 아닙니다.",
+      "raw_ad_verdict": "violation",
+      "reason_code": "invitation",
+      "evidence_ids": [
+        "t",
+        "c0"
+      ]
+    },
+    {
+      "node_id": "n_b7ccf347c1874cd2",
+      "is_violation": true,
+      "techniques": [
+        "HOMOGLYPH"
+      ],
+      "observed_techniques": [
+        "HOMOGLYPH"
+      ],
+      "needs_review": false,
+      "reason": "불법 서비스 이용 권유 · t: ＧＵＩＤＥ · 무허가 카지노의 현금 룰렛 회원을 모집합니다. 판돈을 입금하고 게임에 참여하세요. / c0: 다른 이용자의 글",
+      "raw_ad_verdict": "violation",
+      "reason_code": "invitation",
+      "evidence_ids": [
+        "t",
+        "c0"
+      ]
+    },
+    {
+      "node_id": "n_481bc7f9bb7c12ed",
+      "is_violation": true,
+      "techniques": [
+        "JAMO"
+      ],
+      "observed_techniques": [
+        "JAMO"
+      ],
+      "needs_review": false,
+      "reason": "불법 서비스 이용 권유 · t: 동의 없이 촬영한 성인 영상 공유방에 유료 회원을 받습니다. 가입비 송금 후 초대받으세요. / c0: 다른 이용자의 글",
+      "raw_ad_verdict": "violation",
+      "reason_code": "invitation",
+      "evidence_ids": [
+        "t",
+        "c0"
+      ]
+    },
+    {
+      "node_id": "n_ef294cc6c3eb8e97",
+      "is_violation": true,
+      "techniques": [
+        "TRANSPARENT"
+      ],
+      "observed_techniques": [
+        "TRANSPARENT"
+      ],
+      "needs_review": false,
+      "reason": "불법 서비스 이용 권유 · t: 사설 경마 도박판 접수를 시작합니다. 충전한 금액으로 승부를 걸고 현금 배당을 받으세요. / c0: 다른 이용자의 글",
+      "raw_ad_verdict": "violation",
+      "reason_code": "invitation",
+      "evidence_ids": [
+        "t",
+        "c0"
+      ]
+    },
+    {
+      "node_id": "n_218d490dc07ab0d3",
+      "is_violation": true,
+      "techniques": [
+        "OFFSCREEN"
+      ],
+      "observed_techniques": [
+        "OFFSCREEN"
+      ],
+      "needs_review": false,
+      "reason": "불법 서비스 이용 권유 · t: 사설 스포츠 베팅방 회원을 받습니다. 가입하고 충전하면 현금 배당 게임을 이용할 수 있습니다. / c0: 다른 이용자의 글",
+      "raw_ad_verdict": "violation",
+      "reason_code": "invitation",
+      "evidence_ids": [
+        "t",
+        "c0"
+      ]
+    },
+    {
+      "node_id": "n_a3afde478b85c65c",
+      "is_violation": true,
+      "techniques": [
+        "HOMOGLYPH"
+      ],
+      "observed_techniques": [
+        "HOMOGLYPH"
+      ],
+      "needs_review": false,
+      "reason": "불법 서비스 이용 권유 · t: ＧＵＩＤＥ · 동의 없이 촬영한 성인 영상 공유방에 유료 회원을 받습니다. 가입비 송금 후 초대받으세요.",
+      "raw_ad_verdict": "violation",
+      "reason_code": "invitation",
+      "evidence_ids": [
+        "t"
+      ]
+    },
+    {
+      "node_id": "n_7c8a1dfb15db7dea",
+      "is_violation": true,
+      "techniques": [
+        "JAMO"
+      ],
+      "observed_techniques": [
+        "JAMO"
+      ],
+      "needs_review": false,
+      "reason": "불법 서비스 이용 권유 · t: 사설 경마 도박판 접수를 시작합니다. 충전한 금액으로 승부를 걸고 현금 배당을 받으세요.",
+      "raw_ad_verdict": "violation",
+      "reason_code": "invitation",
+      "evidence_ids": [
+        "t"
+      ]
+    },
+    {
+      "node_id": "n_00d4a934b4a72317",
+      "is_violation": true,
+      "techniques": [
+        "TRANSPARENT"
+      ],
+      "observed_techniques": [
+        "TRANSPARENT"
+      ],
+      "needs_review": false,
+      "reason": "불법 서비스 이용 권유 · t: 사설 스포츠 베팅방 회원을 받습니다. 가입하고 충전하면 현금 배당 게임을 이용할 수 있습니다.",
+      "raw_ad_verdict": "violation",
+      "reason_code": "invitation",
+      "evidence_ids": [
+        "t"
+      ]
+    },
+    {
+      "node_id": "n_5b7b239c144ee1c4",
+      "is_violation": true,
+      "techniques": [
+        "OFFSCREEN"
+      ],
+      "observed_techniques": [
+        "OFFSCREEN"
+      ],
+      "needs_review": false,
+      "reason": "불법 서비스 이용 권유 · t: 무허가 카지노의 현금 룰렛 회원을 모집합니다. 판돈을 입금하고 게임에 참여하세요.",
+      "raw_ad_verdict": "violation",
+      "reason_code": "invitation",
+      "evidence_ids": [
+        "t"
+      ]
+    },
+    {
+      "node_id": "n_46c001d660db83c0",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [
+        "HOMOGLYPH"
+      ],
+      "needs_review": false,
+      "reason": "일반 정보 · t: ＧＵＩＤＥ · 주민 도서교환 행사 신청은 동네 도서관에서 받습니다. 참가비는 없습니다.",
+      "raw_ad_verdict": "benign",
+      "reason_code": "information",
+      "evidence_ids": [
+        "t"
+      ]
+    },
+    {
+      "node_id": "n_c36f917681025c36",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [
+        "JAMO"
+      ],
+      "needs_review": false,
+      "reason": "일반 정보 · t: 주민 도서교환 행사 신청은 동네 도서관에서 받습니다. 참가비는 없습니다.",
+      "raw_ad_verdict": "benign",
+      "reason_code": "information",
+      "evidence_ids": [
+        "t"
+      ]
+    },
+    {
+      "node_id": "n_ee3a0860de4cb93e",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [
+        "TRANSPARENT"
+      ],
+      "needs_review": false,
+      "reason": "일반 정보 · t: 주민 도서교환 행사 신청은 동네 도서관에서 받습니다. 참가비는 없습니다.",
+      "raw_ad_verdict": "benign",
+      "reason_code": "information",
+      "evidence_ids": [
+        "t"
+      ]
+    },
+    {
+      "node_id": "n_46b6b4ac02953417",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [
+        "OFFSCREEN"
+      ],
+      "needs_review": false,
+      "reason": "일반 정보 · t: 주민 도서교환 행사 신청은 동네 도서관에서 받습니다. 참가비는 없습니다.",
+      "raw_ad_verdict": "benign",
+      "reason_code": "information",
+      "evidence_ids": [
+        "t"
+      ]
+    },
+    {
+      "node_id": "n_96dc20ddaf458eac",
+      "is_violation": true,
+      "techniques": [
+        "HOMOGLYPH"
+      ],
+      "observed_techniques": [
+        "HOMOGLYPH"
+      ],
+      "needs_review": false,
+      "reason": "불법 서비스 이용 권유 · t: ＧＵＩＤＥ · 입장 창구 열기 / c0: 다음 연결은 사설 도박방의 가입 창구입니다. 충전할 회원은 이곳을 이용하세요.",
+      "raw_ad_verdict": "violation",
+      "reason_code": "invitation",
+      "evidence_ids": [
+        "t",
+        "c0"
+      ]
+    },
+    {
+      "node_id": "n_2e03cabde298cf6f",
+      "is_violation": true,
+      "techniques": [
+        "JAMO"
+      ],
+      "observed_techniques": [
+        "JAMO"
+      ],
+      "needs_review": false,
+      "reason": "불법 서비스 이용 권유 · t: 입장 창구 열기 / c0: 다음 연결은 사설 도박방의 가입 창구입니다. 충전할 회원은 이곳을 이용하세요.",
+      "raw_ad_verdict": "violation",
+      "reason_code": "invitation",
+      "evidence_ids": [
+        "t",
+        "c0"
+      ]
+    },
+    {
+      "node_id": "n_3f37bc8b59688cda",
+      "is_violation": true,
+      "techniques": [
+        "TRANSPARENT"
+      ],
+      "observed_techniques": [
+        "TRANSPARENT"
+      ],
+      "needs_review": false,
+      "reason": "불법 서비스 이용 권유 · t: 입장 창구 열기 / c0: 다음 연결은 사설 도박방의 가입 창구입니다. 충전할 회원은 이곳을 이용하세요.",
+      "raw_ad_verdict": "violation",
+      "reason_code": "invitation",
+      "evidence_ids": [
+        "t",
+        "c0"
+      ]
+    },
+    {
+      "node_id": "n_e3c78f0590bdb61d",
+      "is_violation": true,
+      "techniques": [
+        "OFFSCREEN"
+      ],
+      "observed_techniques": [
+        "OFFSCREEN"
+      ],
+      "needs_review": false,
+      "reason": "불법 서비스 이용 권유 · t: 입장 창구 열기 / c0: 다음 연결은 사설 도박방의 가입 창구입니다. 충전할 회원은 이곳을 이용하세요.",
+      "raw_ad_verdict": "violation",
+      "reason_code": "invitation",
+      "evidence_ids": [
+        "t",
+        "c0"
+      ]
+    },
+    {
+      "node_id": "n_e884fe84a2b3d311",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [
+        "HOMOGLYPH"
+      ],
+      "needs_review": false,
+      "reason": "일반 정보 · t: ＧＵＩＤＥ · 상세 내용 확인",
+      "raw_ad_verdict": "benign",
+      "reason_code": "information",
+      "evidence_ids": [
+        "t"
+      ]
+    },
+    {
+      "node_id": "n_10960c48f627ebee",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [
+        "JAMO"
+      ],
+      "needs_review": false,
+      "reason": "일반 정보 · t: 상세 내용 확인",
+      "raw_ad_verdict": "benign",
+      "reason_code": "information",
+      "evidence_ids": [
+        "t"
+      ]
+    },
+    {
+      "node_id": "n_a1f2ef119d0c5ca7",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [
+        "TRANSPARENT"
+      ],
+      "needs_review": false,
+      "reason": "일반 정보 · t: 상세 내용 확인",
+      "raw_ad_verdict": "benign",
+      "reason_code": "information",
+      "evidence_ids": [
+        "t"
+      ]
+    },
+    {
+      "node_id": "n_f13a0a33f3d8ae16",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [
+        "OFFSCREEN"
+      ],
+      "needs_review": false,
+      "reason": "일반 정보 · t: 상세 내용 확인",
+      "raw_ad_verdict": "benign",
+      "reason_code": "information",
+      "evidence_ids": [
+        "t"
+      ]
+    },
+    {
+      "node_id": "n_802f646936371e2b",
+      "is_violation": true,
+      "techniques": [
+        "HOMOGLYPH"
+      ],
+      "observed_techniques": [
+        "HOMOGLYPH"
+      ],
+      "needs_review": false,
+      "reason": "불법 서비스 이용 권유 · t: ＧＵＩＤＥ · 동의 없이 촬영한 성인 영상 공유방에 유료 회원을 받습니다. 가입비 송금 후 초대받으세요.",
+      "raw_ad_verdict": "violation",
+      "reason_code": "invitation",
+      "evidence_ids": [
+        "t"
+      ]
+    },
+    {
+      "node_id": "n_0a3326266d201cdb",
+      "is_violation": true,
+      "techniques": [
+        "JAMO"
+      ],
+      "observed_techniques": [
+        "JAMO"
+      ],
+      "needs_review": false,
+      "reason": "불법 서비스 이용 권유 · t: 사설 경마 도박판 접수를 시작합니다. 충전한 금액으로 승부를 걸고 현금 배당을 받으세요.",
+      "raw_ad_verdict": "violation",
+      "reason_code": "invitation",
+      "evidence_ids": [
+        "t"
+      ]
+    },
+    {
+      "node_id": "n_ecf666849b18da0b",
+      "is_violation": true,
+      "techniques": [
+        "TRANSPARENT"
+      ],
+      "observed_techniques": [
+        "TRANSPARENT"
+      ],
+      "needs_review": false,
+      "reason": "불법 서비스 이용 권유 · t: 사설 스포츠 베팅방 회원을 받습니다. 가입하고 충전하면 현금 배당 게임을 이용할 수 있습니다.",
+      "raw_ad_verdict": "violation",
+      "reason_code": "invitation",
+      "evidence_ids": [
+        "t"
+      ]
+    },
+    {
+      "node_id": "n_af2b82c3f6aba9fa",
+      "is_violation": true,
+      "techniques": [
+        "OFFSCREEN"
+      ],
+      "observed_techniques": [
+        "OFFSCREEN"
+      ],
+      "needs_review": false,
+      "reason": "불법 서비스 이용 권유 · t: 무허가 카지노의 현금 룰렛 회원을 모집합니다. 판돈을 입금하고 게임에 참여하세요.",
+      "raw_ad_verdict": "violation",
+      "reason_code": "invitation",
+      "evidence_ids": [
+        "t"
+      ]
+    },
+    {
+      "node_id": "n_7045b588ef17d2f4",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [
+        "HOMOGLYPH"
+      ],
+      "needs_review": false,
+      "reason": "일반 정보 · t: ＧＵＩＤＥ · 주민 도서교환 행사 신청은 동네 도서관에서 받습니다. 참가비는 없습니다.",
+      "raw_ad_verdict": "benign",
+      "reason_code": "information",
+      "evidence_ids": [
+        "t"
+      ]
+    },
+    {
+      "node_id": "n_7a1e4e52ae4ce9bd",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [
+        "JAMO"
+      ],
+      "needs_review": false,
+      "reason": "일반 정보 · t: 주민 도서교환 행사 신청은 동네 도서관에서 받습니다. 참가비는 없습니다.",
+      "raw_ad_verdict": "benign",
+      "reason_code": "information",
+      "evidence_ids": [
+        "t"
+      ]
+    },
+    {
+      "node_id": "n_326df5d1f44314e6",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [
+        "TRANSPARENT"
+      ],
+      "needs_review": false,
+      "reason": "일반 정보 · t: 주민 도서교환 행사 신청은 동네 도서관에서 받습니다. 참가비는 없습니다.",
+      "raw_ad_verdict": "benign",
+      "reason_code": "information",
+      "evidence_ids": [
+        "t"
+      ]
+    },
+    {
+      "node_id": "n_dbc9a5ca4394c130",
+      "is_violation": false,
+      "techniques": [],
+      "observed_techniques": [
+        "OFFSCREEN"
+      ],
+      "needs_review": false,
+      "reason": "일반 정보 · t: 주민 도서교환 행사 신청은 동네 도서관에서 받습니다. 참가비는 없습니다.",
+      "raw_ad_verdict": "benign",
+      "reason_code": "information",
+      "evidence_ids": [
+        "t"
+      ]
+    }
+  ],
+  "technique_diagnostics": []
+}

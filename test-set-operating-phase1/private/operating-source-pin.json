@@ -1,0 +1,20 @@
+{
+  "agent\\src\\worker.cjs": "6f50c5545dd15aab266c08bb6069e32192229956990c89b8b6f694b6ebb488bf",
+  "agent\\src\\core\\antispoof.cjs": "2764d6f2db730bc8245a0bf5540d415ec6be00d2ef50e8ace90cd74426a0a69e",
+  "agent\\src\\core\\bounded-scan-store.cjs": "15d713239e235affeaca0305c0f557abcf0a968e37809bc1dda85038da9f37d1",
+  "agent\\src\\core\\bounded-scan.cjs": "83275cf92b6e0bee9f04d2fa053c074984d2c9255bfee636f1d4d3aa71c6b0b6",
+  "agent\\src\\core\\collect.cjs": "05df35ca15cdbb7129fe93c360a46d69f66efed5119b7aa200f4bd48ffc5138d",
+  "agent\\src\\core\\frame-access.cjs": "acadccc7050d8d11824264a7fa59a26d368246ca440be429ba6cf7ee274cf48a",
+  "agent\\src\\core\\frontier.cjs": "efa8e85303dff47d094d28f26fe08d09d656a81b3a9a3c562de8abd983ecb3c7",
+  "agent\\src\\core\\jamo-reading.cjs": "e05a74f50cb7dc3fe181a9dd6566cff1204284443803944254c83dad7c027091",
+  "agent\\src\\core\\jamo.cjs": "7abe71440b69cb847075b3bc807d2933cc522771a093afac9ae4e8a01484fc3f",
+  "agent\\src\\core\\json-envelope.cjs": "16911f180f3c46e03be567aa69c1deba1a4b6191d2b33b764271fbf726fed2d5",
+  "agent\\src\\core\\judgment.cjs": "edd2b95b3eacee2c1560bdc7b87a66a63272fdcad0d65dc4c84787c22544af6f",
+  "agent\\src\\core\\llm.cjs": "ba88c253e9df5fa2f583799a411e63ecb1265b48132cc02957299a2069078575",
+  "agent\\src\\core\\output.cjs": "e0365bc812b6945d81ce4c972529b30c75869f2479b18bf923bc85da386f7677",
+  "agent\\src\\core\\request-budget.cjs": "79e9a6c083d37e763e00e23aa94468dcd3c96946170ed128c0d183c00d91a227",
+  "agent\\src\\core\\scan.cjs": "477ae012f7f7bfd5281fc50becaf4d39f07e8b02f61bc754aabd3c16cf648185",
+  "agent\\src\\core\\techniques.cjs": "edf9ba3b1241c4b78786246ba9b257d1b47e38df1d8906727440ee9774763b56",
+  "agent\\antispoof\\infer.py": "d851d56ea87901dd4ea6b60194f28ac0860f299282fe879700ef23297ead8f4b",
+  "agent\\models\\kcelectra-antispoof-v1\\manifest.json": "f8ec9740db15ee76823af99c66d6bbd3e01905ee41150a48625bb740febe33b4"
+}

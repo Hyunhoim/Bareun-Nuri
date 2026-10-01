@@ -1,0 +1,4966 @@
+[
+  {
+    "id": "nbc3024fa4073f1",
+    "group": "train-0-14",
+    "split": "train",
+    "label": 0,
+    "input": {
+      "target": "주민 문의 답변은 읽었습니다. 제가 안내하는 사설 경주게임에 현금 걸고 싶으면 새 계정 신청하세요.",
+      "context": "게시글 보기\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "n1ce3a5730ff492",
+    "group": "train-0-3",
+    "split": "train",
+    "label": 0,
+    "input": {
+      "target": "오늘 제 글 내용은 간단합니다. 현금 판돈 받는 비공식 축구 승부방에 가입할 사람 모집해요.",
+      "context": "주민 소통 글\n뒤 문맥: 주민이 남긴 의견입니다."
+    }
+  },
+  {
+    "id": "rehearsal-rehearsal-k_f27d5e6899afae8f",
+    "group": "train-11-2",
+    "candidate": {
+      "node_id": "k_f27d5e6899afae8f",
+      "raw_text": "누리 유료 불법 성인 영상방으로 초대합니다. 결제 후 자료를 보내드립니다. 메시지로 신청을 남겨주세요.",
+      "normalized_text": "누리 유료 불법 성인 영상방으로 초대합니다. 결제 후 자료를 보내드립니다. 메시지로 신청을 남겨주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "누리 유료 불법 성인 영상방으로 초대합니다. 결제 후 자료를 보내드립니다. 메시지로 신청을 남겨주세요.",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "text": "아래는 신고된 홍보 게시물의 증거다. 실제 참여를 권유하는 게시글이 아니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "누리 유료 불법 성인 영상방으로 초대합니다. 결제 후 자료를 보내드립니다. 메시지로 신청을 남겨주세요.",
+      "context": "뒤 문맥: 아래는 신고된 홍보 게시물의 증거다. 실제 참여를 권유하는 게시글이 아니다."
+    },
+    "label": 1,
+    "source": "prior-train",
+    "kind": "rehearsal"
+  },
+  {
+    "id": "compositional-2253",
+    "input": {
+      "target": "오늘 회의의 결정 내용을 문서로 공유합니다.",
+      "context": "문의와 답변\n앞 게시물(다른 작성자): 여기서 거래하는 항목은 판매 허가가 없는 불법 의약품입니다. 이용 대가를 받고 제공하겠습니다. 유료로 이용할 분은 메시지를 남겨 주세요.\n같은 글의 끝: 오늘 회의의 결정 내용을 문서로 공유합니다. 담당 부서를 찾지 못해 연락처를 문의합니다."
+    },
+    "label": 2,
+    "kind": "ordinary-neighbor"
+  },
+  {
+    "id": "compositional-2006",
+    "input": {
+      "target": "“현재 접수하는 서비스는 불법 위조 졸업 서류입니다. 이용할 분의 요청을 기다립니다. 유료로 이용할 분은 메시지를 남겨 주세요.”",
+      "context": "열린 게시판\n앞 문맥: 제가 판매하는 내용이라 다시 적었습니다. 유료로 이용할 분은 메시지를 남겨 주세요"
+    },
+    "label": 0,
+    "kind": "quoted-offer"
+  },
+  {
+    "id": "compositional-1828",
+    "input": {
+      "target": "여기서 거래하는 항목은 불법 유출 성인 동영상입니다. 이용 대가를 받고 제공하겠습니다. 참여를 원하면 접수 창을 열어 주세요.",
+      "context": "시민 게시판\n앞 문맥: 잘못된 광고의 양상을 설명하려고 원문을 제시합니다. 판매를 중개하려는 목적이 아닙니다."
+    },
+    "label": 1,
+    "kind": "prevention"
+  },
+  {
+    "id": "compositional-1143",
+    "input": {
+      "target": "신규로 안내할 서비스는 의사 자격 없는 불법 의료 시술입니다. 돈을 받고 제공하고 있습니다. 거래할 분의 상담을 받습니다.",
+      "context": "앞 게시물(다른 작성자): 잘못된 광고의 양상을 설명하려고 원문을 제시합니다. 판매를 중개하려는 목적이 아닙니다.\n이어서: 제 거래에 참가할 분을 받습니다."
+    },
+    "label": 0,
+    "kind": "neighbor-warning"
+  },
+  {
+    "id": "rehearsal-cycle2-train-1608",
+    "group": "train-f33ff543a407",
+    "kind": "ordinary-context",
+    "input": {
+      "target": "공공 강좌의 준비물은 각 강좌 안내에 나와 있습니다.",
+      "context": "시민 제안 상세\n앞 문맥: 응급 상황을 가정한 안전 훈련을 실시합니다."
+    },
+    "label": 2
+  },
+  {
+    "id": "nfdf003431bba7f",
+    "group": "train-0-11",
+    "split": "train",
+    "label": 0,
+    "input": {
+      "target": "자격 없는 사설 배팅방이지만 입금 고객은 받고 있습니다. 오늘 축구 경기부터 돈 걸어보세요.",
+      "context": "열린 게시판\n뒤 문맥: 주민이 남긴 의견입니다."
+    }
+  },
+  {
+    "id": "neb0c2a1d8c2969",
+    "group": "train-3-6",
+    "split": "train",
+    "label": 3,
+    "input": {
+      "target": "이용 신청을 받지만 서비스 명칭은 추후 알린다고 합니다. 현재는 신청 안내만 있습니다.",
+      "context": "주민 소통 글\n뒤 문맥: 주민이 남긴 의견입니다."
+    }
+  },
+  {
+    "id": "compositional-260",
+    "input": {
+      "target": "2024.03.27",
+      "context": "같은 작성자의 설명: 등록일\n같은 글의 끝: 제가 받고 있는 의뢰는 현금을 거는 무허가 경주 게임입니다. 이용 대가를 받고 제공하겠습니다. 거래할 분의 상담을 받습니다."
+    },
+    "label": 2,
+    "kind": "metadata"
+  },
+  {
+    "id": "compositional-244",
+    "input": {
+      "target": "제가 제공하는 것은 불법 위조 졸업 서류입니다. 지금 유상 거래를 진행합니다. 거래할 분의 상담을 받습니다.",
+      "context": "상세 내용\n뒤 문맥: 피해 방지 차원에서 적발된 제안을 옮겨 적습니다. 이 제안에 응하면 안 됩니다."
+    },
+    "label": 1,
+    "kind": "prevention"
+  },
+  {
+    "id": "compositional-767",
+    "input": {
+      "target": "상담 요청",
+      "context": "게시글 보기\n다른 댓글의 내용: 응급 상황을 가정한 안전 훈련을 실시합니다. 화면 가장자리 밖에 둔 설명도 보조 기술로 전달할 수 있습니다. 신청서에서 오타를 발견해 수정본을 올립니다.\n추가 설명이 빠져 있습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "compositional-1791",
+    "input": {
+      "target": "신규로 안내할 서비스는 의사 자격 없는 불법 의료 시술입니다. 비용을 낼 신청자를 찾고 있습니다. 신청할 분은 연락을 남겨 주세요.",
+      "context": "상세 내용\n앞 게시물(다른 작성자): 신고된 제안이 어떤 말인지 시민에게 알려 드립니다. 상품을 제공하는 게시글이 아닙니다.\n이어서: 제 거래에 참가할 분을 받습니다."
+    },
+    "label": 0,
+    "kind": "neighbor-warning"
+  },
+  {
+    "id": "compositional-1905",
+    "input": {
+      "target": "화면 읽기 프로그램에서 이동 메뉴를 확인하는 수업입니다.",
+      "context": "관련 없는 글: 신규로 안내할 서비스는 사설 승부 예측 도박입니다. 유료 이용을 원하는 고객을 받습니다. 계정에 주문 의사를 적어 주세요.\n이어서: 다음 답변이 등록되면 안내를 받겠습니다. 그림이 표시되지 않아 게시 내용을 읽기 어렵습니다."
+    },
+    "label": 2,
+    "kind": "ordinary-neighbor"
+  },
+  {
+    "id": "compositional-4139",
+    "input": {
+      "target": "접수 안내",
+      "context": "소통 화면\n관련 없는 글: 박물관이 수집한 놀이 도구를 전시하고 있습니다. 한글을 이루는 자음과 모음을 공부하는 자료입니다.\n추가 설명이 빠져 있습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "n90cc1f837949b7",
+    "group": "train-1-9",
+    "split": "train",
+    "label": 1,
+    "input": {
+      "target": "수사 발표에 나온 온라인 포커방은 칩을 돈으로 바꿔줬다고 합니다. 해당 영업의 적발 경위를 알리는 기사입니다.",
+      "context": "게시글 보기\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "ndc6f6912764f9a",
+    "group": "train-3-5",
+    "split": "train",
+    "label": 3,
+    "input": {
+      "target": "조건을 맞추면 연결해드린다고 합니다. 연결되는 곳의 종류나 목적은 설명돼 있지 않습니다.",
+      "context": "주민 소통 글\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "compositional-1805",
+    "input": {
+      "target": "거래 피해를 막기 위한 설명에서 가져온 사례입니다. 현재 글쓴이는 판매자가 아닙니다. 「이곳에서 유료로 공급할 것은 면허 없이 진행하는 의료 행위입니다. 구매 의뢰를 접수합니다. 참여를 원하면 접수 창을 열어 주세요.」",
+      "context": ""
+    },
+    "label": 1,
+    "kind": "warning-target"
+  },
+  {
+    "id": "compositional-3679",
+    "input": {
+      "target": "메뉴의 투명도가 바뀌는 애니메이션을 실습합니다. 다음 답변이 등록되면 안내를 받겠습니다. 장애인도 내용을 들을 수 있도록 버튼에 음성 설명을 제공합니다.",
+      "context": "주민 발언\n다른 댓글의 내용: 제가 제공하는 것은 동의 없이 촬영된 성인 영상입니다. 지금 유상 거래를 진행합니다. 참여를 원하면 접수 창을 열어 주세요."
+    },
+    "label": 2,
+    "kind": "ordinary"
+  },
+  {
+    "id": "compositional-4827",
+    "input": {
+      "target": "이곳에서 유료로 공급할 것은 사설 바카라 도박 서비스입니다. 유료 이용을 원하는 고객을 받습니다. 거래할 분의 상담을 받습니다.",
+      "context": "게시글 보기\n앞 게시물(다른 작성자): 신고된 제안이 어떤 말인지 시민에게 알려 드립니다. 판매를 중개하려는 목적이 아닙니다.\n같은 글의 끝: 제 거래에 참가할 분을 받습니다."
+    },
+    "label": 0,
+    "kind": "neighbor-warning"
+  },
+  {
+    "id": "compositional-2278",
+    "input": {
+      "target": "상담 안내",
+      "context": "열린 공간\n이 문구 외에 어떤 것을 신청하는지 나타난 자료가 없습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "rehearsal-cycle2-train-827",
+    "group": "train-4193171dc2dc",
+    "kind": "quoted-prevention",
+    "input": {
+      "target": "“비동의 성인 촬영물의 유료 열람권을 판매합니다. 운영자에게 연락하세요.”",
+      "context": "앞 문맥: 불법 모집 사례를 분석합니다. 이용 방법을 제공하지 않습니다\n다른 답글: 운영자에게 연락하세요"
+    },
+    "label": 1
+  },
+  {
+    "id": "rehearsal-rehearsal-ref_9031814eadfcff0d",
+    "group": "train-new-2-0",
+    "input": {
+      "target": "진달래1 사설 주사위 도박 사이트 유료 계정 판매. 쪽지로 거래하실 분을 받습니다.",
+      "context": ""
+    },
+    "label": 0,
+    "source": "new-contrastive",
+    "family": 2,
+    "role": 0,
+    "kind": "rehearsal"
+  },
+  {
+    "id": "neb0c2a1d8c2969",
+    "group": "train-3-6",
+    "split": "train",
+    "label": 3,
+    "input": {
+      "target": "이용 신청을 받지만 서비스 명칭은 추후 알린다고 합니다. 현재는 신청 안내만 있습니다.",
+      "context": "게시글 보기\n뒤 문맥: 주민이 남긴 의견입니다."
+    }
+  },
+  {
+    "id": "nea0fcdedd2f693",
+    "group": "train-2-11",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "작년 봉사 보상금이 입금되지 않았습니다. 지급 담당 부서에 문의하고 싶습니다.",
+      "context": "주민 소통 글\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "compositional-2276",
+    "input": {
+      "target": "2020.07.10",
+      "context": "본문: 등록일\n같은 글의 끝: 신규로 안내할 서비스는 불법 촬영 성인 자료 이용권입니다. 이용 대가를 받고 제공하겠습니다. 유료로 이용할 분은 메시지를 남겨 주세요."
+    },
+    "label": 2,
+    "kind": "metadata"
+  },
+  {
+    "id": "compositional-1273",
+    "input": {
+      "target": "문의안내",
+      "context": "문의와 답변\n앞 문맥: 제가 받고 있는 의뢰는 허가 없는 도박방 이용권입니다. 돈을 받고 제공하고 있습니다. 거래할 분의 상담을 받습니다."
+    },
+    "label": 0,
+    "kind": "short-link"
+  },
+  {
+    "id": "compositional-1763",
+    "input": {
+      "target": "접수 바랍니다",
+      "context": "게시글 보기\n관련 없는 글: 공공 강좌의 준비물은 각 강좌 안내에 나와 있습니다.\n추가 설명이 빠져 있습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "rehearsal-cycle2-train-1075",
+    "group": "train-451876024172",
+    "kind": "prevention",
+    "input": {
+      "target": "허가​ 없는​ 의약품을​ 불법으로​ 판매하며​ 주문을​ 받습니다.​ 참가비를​ 보내세요.",
+      "context": "주민 의견 게시판\n뒤 문맥: 불법 모집 사례를 분석합니다. 이용 방법을 제공하지 않습니다"
+    },
+    "label": 1
+  },
+  {
+    "id": "rehearsal-cycle2-train-1605",
+    "group": "train-00a022cf790a",
+    "kind": "ordinary-neighbor",
+    "input": {
+      "target": "공공 강좌의 준비물은 각 강좌 안내에 나와 있습니다.",
+      "context": "다른 이용자의 글: 사설 경륜 도박방 참가자의 충전을 받습니다. 주문을 전달하세요."
+    },
+    "label": 2
+  },
+  {
+    "id": "compositional-2757",
+    "input": {
+      "target": "확률과 기대값을 배우는 수학 학습지입니다.",
+      "context": "열린 공간\n다른 댓글의 내용: 현재 접수하는 서비스는 비동의 성인 사생활 녹화본입니다. 구매 의뢰를 접수합니다. 진행할 의사를 보내 주세요.\n뒤 문맥: 신청서에서 오타를 발견해 수정본을 올립니다."
+    },
+    "label": 2,
+    "kind": "ordinary-neighbor"
+  },
+  {
+    "id": "nadf6560a4239e6",
+    "group": "train-3-0",
+    "split": "train",
+    "label": 3,
+    "input": {
+      "target": "회원 받을 건데 내용은 전화로만 알려드려요. 어떤 서비스인지는 지금 적지 않겠습니다.",
+      "context": "게시글 보기\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "n1bb0f5645866a0",
+    "group": "train-0-12",
+    "split": "train",
+    "label": 0,
+    "input": {
+      "target": "사진 속 행사는 끝났습니다. 이제 제 현금 포커방 참가자를 받으니 판돈 충전할 분 답장하세요.",
+      "context": "주민 소통 글\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "compositional-2940",
+    "input": {
+      "target": "제가 제공하는 것은 의사 자격 없는 불법 의료 시술입니다. 구매 의뢰를 접수합니다. 구매하려면 접수해 주세요.",
+      "context": "관련 없는 글: 주민들이 물품을 기부하는 장터가 열립니다. 화면 읽기 프로그램에서 이동 메뉴를 확인하는 수업입니다. 삭제된 댓글에 대해 이의 신청하는 절차를 문의합니다."
+    },
+    "label": 0,
+    "kind": "direct"
+  },
+  {
+    "id": "rehearsal-cycle2-train-2207",
+    "group": "train-ad93c92f5677",
+    "kind": "insufficient",
+    "input": {
+      "target": "필요한​ 분만​ 문의",
+      "context": "답변 보기\n앞 문맥: 접수 내용\n뒤 문맥: 참여 방법은 개별 전달"
+    },
+    "label": 3
+  },
+  {
+    "id": "compositional-2817",
+    "input": {
+      "target": "삭제된 댓글에 대해 이의 신청하는 절차를 문의합니다.",
+      "context": "열린 게시판\n관련 없는 글: 현재 접수하는 서비스는 불법 유출 성인 동영상입니다. 비용을 낼 신청자를 찾고 있습니다. 신청할 분은 연락을 남겨 주세요.\n뒤 문맥: 시청 누리집의 오류 화면을 제보합니다. 지급받은 자료의 제목과 작성 날짜를 확인합니다. 수업에서 문자 조합 방식에 따른 표시 차이를 관찰합니다."
+    },
+    "label": 2,
+    "kind": "ordinary-neighbor"
+  },
+  {
+    "id": "compositional-4945",
+    "input": {
+      "target": "문의하실 분",
+      "context": "문의와 답변\n본문: 제가 제공하는 것은 사설 스포츠 베팅 계정입니다. 유료 이용을 원하는 고객을 받습니다. 참여를 원하면 접수 창을 열어 주세요."
+    },
+    "label": 0,
+    "kind": "short-link"
+  },
+  {
+    "id": "compositional-2166",
+    "input": {
+      "target": "“제가 제공하는 것은 허가 없는 도박방 이용권입니다. 이용 대가를 받고 제공하겠습니다. 진행할 의사를 보내 주세요.”",
+      "context": "앞 문맥: 게시판 관리 교육을 위해 증거 문구를 보존합니다. 현재 글쓴이는 판매자가 아닙니다.\n다른 댓글의 내용: 진행할 의사를 보내 주세요"
+    },
+    "label": 1,
+    "kind": "quoted-prevention"
+  },
+  {
+    "id": "rehearsal-cycle2-train-144",
+    "group": "train-595b15787c07",
+    "kind": "direct",
+    "input": {
+      "target": "위조​ 졸업​ 증서를​ 돈​ 받고​ 제작해​ 드립니다.​ 참가비를​ 보내세요.",
+      "context": "주민 의견 게시판"
+    },
+    "label": 0
+  },
+  {
+    "id": "n2ae77389ddb37e",
+    "group": "train-3-10",
+    "split": "train",
+    "label": 3,
+    "input": {
+      "target": "이 글에서는 신청 방법만 말하겠습니다. 어떤 서비스를 신청하는지는 나중에 밝힙니다.",
+      "context": "열린 게시판"
+    }
+  },
+  {
+    "id": "n3a30c4d6aabde2",
+    "group": "train-0-15",
+    "split": "train",
+    "label": 0,
+    "input": {
+      "target": "원하시면 성인 피해 촬영물 저장본을 팔겠습니다. 당사자의 공개 허락을 받은 자료는 아닙니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "rehearsal-cycle2-train-4583",
+    "group": "train-266037f939c9",
+    "kind": "metadata",
+    "input": {
+      "target": "저녁놀",
+      "context": "앞 문맥: 작성자\n다른 항목: 불법 카드 내기방에서 현금 참가비를 받습니다. 계정을 등록하세요."
+    },
+    "label": 2
+  },
+  {
+    "id": "rehearsal-rehearsal-k_e73f6392fb532206",
+    "group": "train-1-3",
+    "candidate": {
+      "node_id": "k_e73f6392fb532206",
+      "raw_text": "은하 무허가 도박방 신규 계정을 개설해 드립니다. 판돈을 보내고 경기에 참여하세요. 지금 참여 등록을 해주세요.",
+      "normalized_text": "은하 무허가 도박방 신규 계정을 개설해 드립니다. 판돈을 보내고 경기에 참여하세요. 지금 참여 등록을 해주세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "은하 무허가 도박방 신규 계정을 개설해 드립니다. 판돈을 보내고 경기에 참여하세요. 지금 참여 등록을 해주세요.",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "text": "이런 문장을 발견하면 담당 기관에 신고하세요. 이용 방법을 안내하려는 목적이 아니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "은하 무허가 도박방 신규 계정을 개설해 드립니다. 판돈을 보내고 경기에 참여하세요. 지금 참여 등록을 해주세요.",
+      "context": "시민 소통 게시판\n뒤 문맥: 이런 문장을 발견하면 담당 기관에 신고하세요. 이용 방법을 안내하려는 목적이 아니다."
+    },
+    "label": 1,
+    "source": "prior-train",
+    "kind": "rehearsal"
+  },
+  {
+    "id": "compositional-3100",
+    "input": {
+      "target": "이곳에서 유료로 공급할 것은 사설 스포츠 베팅 계정입니다. 이용할 분의 요청을 기다립니다. 연결된 창구로 이용을 요청하세요.",
+      "context": "열린 게시판\n같은 글의 끝: 피해 방지 차원에서 적발된 제안을 옮겨 적습니다. 이 제안에 응하면 안 됩니다."
+    },
+    "label": 1,
+    "kind": "prevention"
+  },
+  {
+    "id": "compositional-645",
+    "input": {
+      "target": "다음 답변이 등록되면 안내를 받겠습니다.",
+      "context": "참여 게시글\n관련 없는 글: 여기서 거래하는 항목은 불법 현금 슬롯 게임입니다. 이용 대가를 받고 제공하겠습니다. 진행할 의사를 보내 주세요.\n이어서: 행사 날짜가 변경되면 주민에게 다시 알려 드리겠습니다. 키보드만으로 화면을 조작하는 방법을 설명합니다."
+    },
+    "label": 2,
+    "kind": "ordinary-neighbor"
+  },
+  {
+    "id": "compositional-4522",
+    "input": {
+      "target": "접수 바랍니다",
+      "context": "앞 게시물(다른 작성자): 수업에서 문자 조합 방식에 따른 표시 차이를 관찰합니다. 장애인도 내용을 들을 수 있도록 버튼에 음성 설명을 제공합니다. 박물관이 수집한 놀이 도구를 전시하고 있습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "compositional-2401",
+    "input": {
+      "target": "진행하실 분",
+      "context": "참여 게시글\n앞 문맥: 제가 제공하는 것은 가짜 경력 확인서입니다. 구매 의뢰를 접수합니다. 참여를 원하면 접수 창을 열어 주세요."
+    },
+    "label": 0,
+    "kind": "short-link"
+  },
+  {
+    "id": "n339fa1a830f4a4",
+    "group": "train-2-14",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "행사 예약 확인서를 다시 발급받으려 합니다. 신청 내역이 지워진 것 같습니다.",
+      "context": "시민 참여\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "n5a8f8df838ad7a",
+    "group": "train-1-8",
+    "split": "train",
+    "label": 1,
+    "input": {
+      "target": "유출 성인 영상을 구독하라는 메시지를 받았다는 증언입니다. 기록자는 판매자가 아니라 피해 상담 담당자입니다.",
+      "context": "주민 소통 글\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "compositional-5771",
+    "input": {
+      "target": "연락 요청",
+      "context": "관련 없는 글: 신청서에서 오타를 발견해 수정본을 올립니다.\n추가 설명이 빠져 있습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "compositional-569",
+    "input": {
+      "target": "신고된 제안이 어떤 말인지 시민에게 알려 드립니다. 상품을 제공하는 게시글이 아닙니다. 「제가 제공하는 것은 몰래 촬영된 성인물 복제본입니다. 지금 유상 거래를 진행합니다. 거래할 분의 상담을 받습니다.」",
+      "context": "열린 공간"
+    },
+    "label": 1,
+    "kind": "warning-target"
+  },
+  {
+    "id": "compositional-375",
+    "input": {
+      "target": "제가 제공하는 것은 불법 온라인 카드 내기입니다. 유료 이용을 원하는 고객을 받습니다. 신청할 분은 연락을 남겨 주세요.",
+      "context": "게시글 보기\n다른 댓글의 내용: 삭제 대상 표현을 교육 자료에 실었습니다. 이용하거나 돈을 보내지 마세요.\n이어서: 제 거래에 참가할 분을 받습니다."
+    },
+    "label": 0,
+    "kind": "neighbor-warning"
+  },
+  {
+    "id": "compositional-5417",
+    "input": {
+      "target": "거래 피해를 막기 위한 설명에서 가져온 사례입니다. 현재 글쓴이는 판매자가 아닙니다. 「신규로 안내할 서비스는 가짜 경력 확인서입니다. 구매 의뢰를 접수합니다. 신청할 분은 연락을 남겨 주세요.」",
+      "context": "소통 화면"
+    },
+    "label": 1,
+    "kind": "warning-target"
+  },
+  {
+    "id": "compositional-1866",
+    "input": {
+      "target": "“현재 접수하는 서비스는 불법 현금 슬롯 게임입니다. 이용 대가를 받고 제공하겠습니다. 계정에 주문 의사를 적어 주세요.”",
+      "context": "같은 글의 끝: 거래 피해를 막기 위한 설명에서 가져온 사례입니다. 연결을 안내하는 곳이 아닙니다.\n관련 없는 글: 계정에 주문 의사를 적어 주세요"
+    },
+    "label": 1,
+    "kind": "quoted-prevention"
+  },
+  {
+    "id": "rehearsal-cycle2-train-1010",
+    "group": "train-5377ab8bcb96",
+    "kind": "quoted-offer",
+    "input": {
+      "target": "“온라인​ 주사위​ 도박에​ 입금하고​ 참여할​ 회원​ 모집합니다.​ 연결​ 주소로​ 접수하세요.”",
+      "context": "자유로운 소통\n앞 문맥: 제 영업 안내를 다시 인용합니다.\n뒤 문맥: 저에게 신청하세요."
+    },
+    "label": 0
+  },
+  {
+    "id": "nd5e55bda085f82",
+    "group": "train-1-13",
+    "split": "train",
+    "label": 1,
+    "input": {
+      "target": "신고 접수 내용에 비동의 성인 파일 판매 제안이 들어 있습니다. 공개 문서에서는 관련 계정을 가렸습니다.",
+      "context": "게시글 보기"
+    }
+  },
+  {
+    "id": "n0ef289ddc799ec",
+    "group": "train-0-12",
+    "split": "train",
+    "label": 0,
+    "input": {
+      "target": "사진 속 행사는 끝났습니다. 이제 제 현금 포커방 참가자를 받으니 판돈 충전할 분 답장하세요.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "compositional-3113",
+    "input": {
+      "target": "당사자가 거절한 모집 메시지를 기록으로 남깁니다. 여기서는 가입을 받지 않습니다. 「이곳에서 유료로 공급할 것은 불법 자격 시험 대리 응시입니다. 유료 이용을 원하는 고객을 받습니다. 구매하려면 접수해 주세요.」",
+      "context": ""
+    },
+    "label": 1,
+    "kind": "warning-target"
+  },
+  {
+    "id": "compositional-2277",
+    "input": {
+      "target": "확률과 기대값을 배우는 수학 학습지입니다.",
+      "context": "열린 공간\n앞 게시물(다른 작성자): 신규로 안내할 서비스는 현금을 거는 무허가 경주 게임입니다. 이용할 분의 요청을 기다립니다. 신청할 분은 연락을 남겨 주세요.\n같은 글의 끝: 공연 관람권의 예매 안내를 확인해 주세요."
+    },
+    "label": 2,
+    "kind": "ordinary-neighbor"
+  },
+  {
+    "id": "compositional-3714",
+    "input": {
+      "target": "“이곳에서 유료로 공급할 것은 허가 없이 운영되는 복권 도박입니다. 비용을 낼 신청자를 찾고 있습니다. 구매하려면 접수해 주세요.”",
+      "context": "시민 참여\n뒤 문맥: 게시판 관리 교육을 위해 증거 문구를 보존합니다. 이 제안에 응하면 안 됩니다.\n관련 없는 글: 구매하려면 접수해 주세요"
+    },
+    "label": 1,
+    "kind": "quoted-prevention"
+  },
+  {
+    "id": "compositional-5207",
+    "input": {
+      "target": "진행을 남겨 주세요",
+      "context": "열린 공간\n관련 없는 글: 그림이 표시되지 않아 게시 내용을 읽기 어렵습니다.\n추가 설명이 빠져 있습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "rehearsal-cycle2-train-1594",
+    "group": "train-1bf42c98a6b0",
+    "kind": "neighbor-warning",
+    "input": {
+      "target": "불법 카드 내기방에서 현금 참가비를 받습니다. 참가비를 보내세요.",
+      "context": "다른 댓글: 불법 모집 사례를 분석합니다. 이용 방법을 제공하지 않습니다\n현재 작성자: 제가 접수를 받습니다."
+    },
+    "label": 0
+  },
+  {
+    "id": "compositional-2988",
+    "input": {
+      "target": "이곳에서 유료로 공급할 것은 사설 승부 예측 도박입니다. 지금 유상 거래를 진행합니다. 계정에 주문 의사를 적어 주세요.",
+      "context": "문의와 답변\n앞 게시물(다른 작성자): 온라인 사기 피해의 상담 창구를 찾고 있습니다. 오늘 회의의 결정 내용을 문서로 공유합니다."
+    },
+    "label": 0,
+    "kind": "direct"
+  },
+  {
+    "id": "n1ef815a145d6fc",
+    "group": "train-2-13",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "카드 게임 확률을 배우는 모임을 도서관에서 엽니다. 참가비도 없고 실제 돈은 사용하지 않습니다.",
+      "context": "게시글 보기\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "n77560a0853d5a6",
+    "group": "train-1-10",
+    "split": "train",
+    "label": 1,
+    "input": {
+      "target": "연구진이 사설 경기 배당 광고의 유입 경로를 조사했습니다. 보고서에서는 접속 주소를 지우고 통계만 남겼습니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "compositional-5490",
+    "input": {
+      "target": "“현재 접수하는 서비스는 도용한 개인정보의 불법 매매입니다. 이용할 분의 요청을 기다립니다. 연결된 창구로 이용을 요청하세요.”",
+      "context": "같은 글의 끝: 잘못된 광고의 양상을 설명하려고 원문을 제시합니다. 연결을 안내하는 곳이 아닙니다.\n관련 없는 글: 연결된 창구로 이용을 요청하세요"
+    },
+    "label": 1,
+    "kind": "quoted-prevention"
+  },
+  {
+    "id": "compositional-2187",
+    "input": {
+      "target": "이곳에서유료로공급할것은허가없는약품의불법유통입니다.비용을낼신청자를찾고있습니다.진행할의사를보내주세요.",
+      "context": "문의와 답변\n앞 게시물(다른 작성자): 방송의 범죄 예방 해설에서 해당 발언을 소개합니다. 이 제안에 응하면 안 됩니다.\n같은 글의 끝: 제 거래에 참가할 분을 받습니다."
+    },
+    "label": 0,
+    "kind": "neighbor-warning"
+  },
+  {
+    "id": "compositional-5749",
+    "input": {
+      "target": "연락 바랍니다",
+      "context": "열린 게시판\n앞 문맥: 현재 접수하는 서비스는 불법 현금 슬롯 게임입니다. 대금을 낸 분에게 공급합니다. 유료로 이용할 분은 메시지를 남겨 주세요."
+    },
+    "label": 0,
+    "kind": "short-link"
+  },
+  {
+    "id": "rehearsal-cycle2-train-3601",
+    "group": "train-763c1124cd1c",
+    "kind": "short-link",
+    "input": {
+      "target": "운영자에게​ 연락하세요",
+      "context": "주민 의견 게시판\n앞 문맥: 불법 카드 내기방에서 현금 참가비를 받습니다"
+    },
+    "label": 0
+  },
+  {
+    "id": "compositional-5599",
+    "input": {
+      "target": "키보드만으로 화면을 조작하는 방법을 설명합니다. 영상 촬영 시에는 참여자의 동의를 먼저 확인합니다. 체육 모임은 금전 내기를 하지 않고 친목을 나눕니다.",
+      "context": ""
+    },
+    "label": 2,
+    "kind": "ordinary"
+  },
+  {
+    "id": "compositional-5308",
+    "input": {
+      "target": "현재 접수하는 서비스는 판돈을 받는 사설 룰렛입니다. 돈을 받고 제공하고 있습니다. 참여를 원하면 접수 창을 열어 주세요.",
+      "context": "소통 화면\n뒤 문맥: 신고된 제안이 어떤 말인지 시민에게 알려 드립니다. 상품을 제공하는 게시글이 아닙니다."
+    },
+    "label": 1,
+    "kind": "prevention"
+  },
+  {
+    "id": "n172b4cbe0f217c",
+    "group": "train-1-5",
+    "split": "train",
+    "label": 1,
+    "input": {
+      "target": "배팅장 광고 문구가 적힌 종이는 청소팀이 수거했습니다. 이 글은 수거 위치를 정리한 작업 보고입니다.",
+      "context": "열린 게시판"
+    }
+  },
+  {
+    "id": "n742b477ca3afb9",
+    "group": "train-1-15",
+    "split": "train",
+    "label": 1,
+    "input": {
+      "target": "전시된 화면은 카지노 광고에 속은 사람의 진술 자료입니다. 전시실에서는 광고 서비스를 신청할 수 없습니다.",
+      "context": "주민 소통 글\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "compositional-1338",
+    "input": {
+      "target": "“여기서 거래하는 항목은 피해자 허락 없는 성인 기록 파일입니다. 대금을 낸 분에게 공급합니다. 진행할 의사를 보내 주세요.”",
+      "context": "뒤 문맥: 단속 기록에 나온 모집 문장을 살펴보는 중입니다. 연결을 안내하는 곳이 아닙니다.\n관련 없는 글: 진행할 의사를 보내 주세요"
+    },
+    "label": 1,
+    "kind": "quoted-prevention"
+  },
+  {
+    "id": "compositional-3786",
+    "input": {
+      "target": "“현재 접수하는 서비스는 불법 유출 성인 동영상입니다. 이용 대가를 받고 제공하겠습니다. 거래할 분의 상담을 받습니다.”",
+      "context": "문의와 답변\n같은 글의 끝: 게시판 관리 교육을 위해 증거 문구를 보존합니다. 이용하거나 돈을 보내지 마세요.\n관련 없는 글: 거래할 분의 상담을 받습니다"
+    },
+    "label": 1,
+    "kind": "quoted-prevention"
+  },
+  {
+    "id": "compositional-3108",
+    "input": {
+      "target": "신규로 안내할 서비스는 가짜 경력 확인서입니다. 유료 이용을 원하는 고객을 받습니다. 거래할 분의 상담을 받습니다.",
+      "context": "열린 게시판\n관련 없는 글: 영상 촬영 시에는 참여자의 동의를 먼저 확인합니다."
+    },
+    "label": 0,
+    "kind": "direct"
+  },
+  {
+    "id": "compositional-2211",
+    "input": {
+      "target": "현재 접수하는 서비스는 가짜 경력 확인서입니다. 대금을 낸 분에게 공급합니다. 진행할 의사를 보내 주세요.",
+      "context": "시민 게시판\n앞 게시물(다른 작성자): 방송의 범죄 예방 해설에서 해당 발언을 소개합니다. 상품을 제공하는 게시글이 아닙니다.\n이어서: 제 거래에 참가할 분을 받습니다."
+    },
+    "label": 0,
+    "kind": "neighbor-warning"
+  },
+  {
+    "id": "rehearsal-rehearsal-ref_30081afc46464b05",
+    "group": "train-new-2-2",
+    "input": {
+      "target": "게시판 번호",
+      "context": "[대상 위치] 게시물 정보 항목"
+    },
+    "label": 2,
+    "source": "new-contrastive",
+    "family": 2,
+    "role": 6,
+    "kind": "rehearsal"
+  },
+  {
+    "id": "compositional-5242",
+    "input": {
+      "target": "진행하실 분",
+      "context": "열린 공간\n이 문구 외에 어떤 것을 신청하는지 나타난 자료가 없습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "n055b091347018b",
+    "group": "train-1-12",
+    "split": "train",
+    "label": 1,
+    "input": {
+      "target": "학부모 회의에서는 배팅 계정 모집 문자를 함께 살폈습니다. 청소년 상담기관을 안내하는 자리였습니다.",
+      "context": "게시글 보기\n뒤 문맥: 주민이 남긴 의견입니다."
+    }
+  },
+  {
+    "id": "n8092c561c7dc11",
+    "group": "train-2-9",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "교통카드 충전이 두 번 승인됐습니다. 시내버스 이용 내역에는 한 번만 나와 환불을 요청합니다.",
+      "context": "주민 소통 글\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "rehearsal-cycle2-train-4493",
+    "group": "train-bcaf09067ce9",
+    "kind": "warning-target",
+    "input": {
+      "target": "피해자가 받은 메시지를 기록합니다. 거래를 중개하지 않습니다 「의료 자격 없이 불법 시술을 제공하니 유료 예약을 받습니다. 링크에서 진행하세요.」",
+      "context": ""
+    },
+    "label": 1
+  },
+  {
+    "id": "rehearsal-rehearsal-ref_c3dd75c0a9bef1e2",
+    "group": "train-new-5-4",
+    "input": {
+      "target": "체육공원 무료 풋살 교실 회원을 받습니다. 가입 희망자는 운영자에게 연락 바랍니다.",
+      "context": "[다른 게시물] 진달래5 현금으로 승부하는 비인가 카드 내기 참가자 모집. 가입 희망자는 운영자에게 연락 바랍니다."
+    },
+    "label": 2,
+    "source": "new-contrastive",
+    "family": 5,
+    "role": 7,
+    "kind": "rehearsal"
+  },
+  {
+    "id": "rehearsal-cycle2-train-3797",
+    "group": "train-41ed9f5e6eaa",
+    "kind": "ordinary-neighbor",
+    "input": {
+      "target": "안내 문서의 영문 철자를 고치는 편집 활동입니다.",
+      "context": "시민 참여\n다른 이용자의 글: 불법 성인 촬영본을 비용을 낸 구매자에게 배송합니다. 계정을 등록하세요."
+    },
+    "label": 2
+  },
+  {
+    "id": "compositional-458",
+    "input": {
+      "target": "“제가제공하는것은유료면접대리참가입니다.비용을낼신청자를찾고있습니다.계정에주문의사를적어주세요.”",
+      "context": "문의와 답변\n앞 문맥: 제가 판매하는 내용이라 다시 적었습니다. 계정에 주문 의사를 적어 주세요"
+    },
+    "label": 0,
+    "kind": "quoted-offer"
+  },
+  {
+    "id": "compositional-1876",
+    "input": {
+      "target": "제가 제공하는 것은 피해자 허락 없는 성인 기록 파일입니다. 유료 이용을 원하는 고객을 받습니다. 구매하려면 접수해 주세요.",
+      "context": "본문: 잘못된 광고의 양상을 설명하려고 원문을 제시합니다. 연결을 안내하는 곳이 아닙니다."
+    },
+    "label": 1,
+    "kind": "prevention"
+  },
+  {
+    "id": "rehearsal-cycle2-train-1088",
+    "group": "train-aa416ebdd4ac",
+    "kind": "direct",
+    "input": {
+      "target": "비동의 성인 촬영물의 유료 열람권을 판매합니다. 계정을 등록하세요.",
+      "context": "시민 제안 상세"
+    },
+    "label": 0
+  },
+  {
+    "id": "n63bcfabf434fc1",
+    "group": "train-3-3",
+    "split": "train",
+    "label": 3,
+    "input": {
+      "target": "추가 설명 없이 이용자를 받는다고만 적었습니다. 대상 서비스가 무엇인지는 아직 밝히지 않았습니다.",
+      "context": "열린 게시판\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "n38eabb721a9116",
+    "group": "train-2-2",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "제가 성인일 때 몰래 찍힌 영상이 거래되고 있습니다. 판매 글을 내릴 수 있게 지원받고 싶습니다.",
+      "context": "주민 소통 글\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "compositional-542",
+    "input": {
+      "target": "“제가 제공하는 것은 허가 없이 운영되는 복권 도박입니다. 유료 이용을 원하는 고객을 받습니다. 구매하려면 접수해 주세요.”",
+      "context": "같은 작성자의 설명: 제가 판매하는 내용이라 다시 적었습니다. 구매하려면 접수해 주세요"
+    },
+    "label": 0,
+    "kind": "quoted-offer"
+  },
+  {
+    "id": "compositional-1728",
+    "input": {
+      "target": "제가 제공하는 것은 사설 승부 예측 도박입니다. 이용 대가를 받고 제공하겠습니다. 구매하려면 접수해 주세요.",
+      "context": "주민 발언\n다른 댓글의 내용: 주민들이 물품을 기부하는 장터가 열립니다. 키보드만으로 화면을 조작하는 방법을 설명합니다. 불법 도박이 공동체에 미치는 영향을 토론합니다."
+    },
+    "label": 0,
+    "kind": "direct"
+  },
+  {
+    "id": "rehearsal-cycle2-train-488",
+    "group": "train-0747fdb4a612",
+    "kind": "ordinary-context",
+    "input": {
+      "target": "행사 날짜가 변경되면 주민에게 다시 알려 드리겠습니다.",
+      "context": "시민 참여\n앞 문맥: 학교에서 개인정보 보호를 주제로 토론합니다."
+    },
+    "label": 2
+  },
+  {
+    "id": "rehearsal-cycle2-train-423",
+    "group": "train-9b41c52bab04",
+    "kind": "metadata",
+    "input": {
+      "target": "2022-05-14",
+      "context": "답변 보기\n앞 문맥: 작성일\n다른 항목: 당사자 허락 없는 성인 자료의 다운로드 권한을 팝니다. 거래 의사를 알려 주세요."
+    },
+    "label": 2
+  },
+  {
+    "id": "compositional-4646",
+    "input": {
+      "target": "“여기서 거래하는 항목은 면허 없이 진행하는 의료 행위입니다. 유료 이용을 원하는 고객을 받습니다. 신청할 분은 연락을 남겨 주세요.”",
+      "context": "본문: 제가 판매하는 내용이라 다시 적었습니다. 신청할 분은 연락을 남겨 주세요"
+    },
+    "label": 0,
+    "kind": "quoted-offer"
+  },
+  {
+    "id": "rehearsal-rehearsal-ref_0423814acc1c821e",
+    "group": "train-new-3-4",
+    "input": {
+      "target": "진달래5 비동의 촬영 성인물을 돈을 받고 공유합니다. 가입 희망자는 운영자에게 연락 바랍니다.",
+      "context": ""
+    },
+    "label": 0,
+    "source": "new-contrastive",
+    "family": 3,
+    "role": 0,
+    "kind": "rehearsal"
+  },
+  {
+    "id": "ne1c91ee3570ef4",
+    "group": "train-1-11",
+    "split": "train",
+    "label": 1,
+    "input": {
+      "target": "도박 충전 혜택이라는 표현은 게시물 삭제 사유에 인용된 말입니다. 담당자는 광고를 접수한 것이 아닙니다.",
+      "context": "시민 참여\n뒤 문맥: 주민이 남긴 의견입니다."
+    }
+  },
+  {
+    "id": "n747ae99ee1aec3",
+    "group": "train-3-15",
+    "split": "train",
+    "label": 3,
+    "input": {
+      "target": "회원 연장을 받고 있습니다. 회원이 사용하는 서비스가 무엇인지는 이 글만으로 알 수 없습니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "compositional-3241",
+    "input": {
+      "target": "신청하실 분",
+      "context": "앞 문맥: 신규로 안내할 서비스는 불법 자격 시험 대리 응시입니다. 이용 대가를 받고 제공하겠습니다. 신청할 분은 연락을 남겨 주세요."
+    },
+    "label": 0,
+    "kind": "short-link"
+  },
+  {
+    "id": "rehearsal-cycle2-train-1342",
+    "group": "train-77eb13173e8f",
+    "kind": "ordinary-context",
+    "input": {
+      "target": "도서관은 이번 주에 서가 배치를 바꾸고 있습니다.",
+      "context": "자유로운 소통\n뒤 문맥: 지급받은 자료의 제목과 작성 날짜를 확인합니다."
+    },
+    "label": 2
+  },
+  {
+    "id": "rehearsal-cycle2-train-1841",
+    "group": "train-83d857851adf",
+    "kind": "short-link",
+    "input": {
+      "target": "운영자에게 연락하세요",
+      "context": "게시글 보기\n앞 문맥: 불법 개인 정보 명단을 돈 받고 넘기니 구매 연락을 받습니다"
+    },
+    "label": 0
+  },
+  {
+    "id": "compositional-5266",
+    "input": {
+      "target": "진행하실 분",
+      "context": "시민 게시판\n다른 댓글의 내용: 지급받은 자료의 제목과 작성 날짜를 확인합니다. 장애인도 내용을 들을 수 있도록 버튼에 음성 설명을 제공합니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "compositional-3758",
+    "input": {
+      "target": "“현재 접수하는 서비스는 피해자 허락 없는 성인 기록 파일입니다. 돈을 받고 제공하고 있습니다. 거래할 분의 상담을 받습니다.”",
+      "context": "같은 작성자의 설명: 제가 판매하는 내용이라 다시 적었습니다. 거래할 분의 상담을 받습니다"
+    },
+    "label": 0,
+    "kind": "quoted-offer"
+  },
+  {
+    "id": "compositional-1170",
+    "input": {
+      "target": "“현재 접수하는 서비스는 피해자 허락 없는 성인 기록 파일입니다. 돈을 받고 제공하고 있습니다. 연결된 창구로 이용을 요청하세요.”",
+      "context": "주민 발언\n뒤 문맥: 거래 피해를 막기 위한 설명에서 가져온 사례입니다. 이 제안에 응하면 안 됩니다.\n앞 게시물(다른 작성자): 연결된 창구로 이용을 요청하세요"
+    },
+    "label": 1,
+    "kind": "quoted-prevention"
+  },
+  {
+    "id": "n6f4bd9d41c071c",
+    "group": "train-1-15",
+    "split": "train",
+    "label": 1,
+    "input": {
+      "target": "전시된 화면은 카지노 광고에 속은 사람의 진술 자료입니다. 전시실에서는 광고 서비스를 신청할 수 없습니다.",
+      "context": "시민 참여\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "ndfad7645a81fe3",
+    "group": "train-2-1",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "급하게 돈을 보내라고 해서 도박 사이트에 송금했습니다. 다시는 들어가지 않으려는데 상담 예약을 도와주세요.",
+      "context": "주민 소통 글\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "rehearsal-rehearsal-k_d094b012bec894c2",
+    "group": "train-5-1",
+    "candidate": {
+      "node_id": "k_d094b012bec894c2",
+      "raw_text": "여울 불법 카지노 게임 회원을 받습니다. 입금하고 실시간 테이블에 참여하세요. 아래 접수 링크를 이용하세요.",
+      "normalized_text": "여울 불법 카지노 게임 회원을 받습니다. 입금하고 실시간 테이블에 참여하세요. 아래 접수 링크를 이용하세요.",
+      "page_title": "시민 소통 게시판",
+      "nearby": "",
+      "links": [],
+      "signals": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "text": "여울 불법 카지노 게임 회원을 받습니다. 입금하고 실시간 테이블에 참여하세요. 아래 접수 링크를 이용하세요.",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "text": "피해 예방을 위해 적발 문구를 소개한다. 해당 서비스는 이용하면 안 된다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    "input": {
+      "target": "여울 불법 카지노 게임 회원을 받습니다. 입금하고 실시간 테이블에 참여하세요. 아래 접수 링크를 이용하세요.",
+      "context": "뒤 문맥: 피해 예방을 위해 적발 문구를 소개한다. 해당 서비스는 이용하면 안 된다."
+    },
+    "label": 1,
+    "source": "prior-train",
+    "kind": "rehearsal"
+  },
+  {
+    "id": "compositional-4788",
+    "input": {
+      "target": "여기서 거래하는 항목은 허가 없이 운영되는 복권 도박입니다. 이용 대가를 받고 제공하겠습니다. 계정에 주문 의사를 적어 주세요.",
+      "context": "주민 발언\n다른 댓글의 내용: 주민 설명회의 장소가 바뀌었다고 들었는데 확인 부탁드립니다."
+    },
+    "label": 0,
+    "kind": "direct"
+  },
+  {
+    "id": "compositional-3509",
+    "input": {
+      "target": "게시판 관리 교육을 위해 증거 문구를 보존합니다. 연결을 안내하는 곳이 아닙니다. 「이곳에서 유료로 공급할 것은 가짜 경력 확인서입니다. 지금 유상 거래를 진행합니다. 계정에 주문 의사를 적어 주세요.」",
+      "context": "게시글 보기"
+    },
+    "label": 1,
+    "kind": "warning-target"
+  },
+  {
+    "id": "rehearsal-cycle2-train-354",
+    "group": "train-917fd7fbe178",
+    "kind": "quoted-offer",
+    "input": {
+      "target": "“불법​ 개인​ 정보​ 명단을​ 돈​ 받고​ 넘기니​ 구매​ 연락을​ 받습니다.​ 가입​ 메시지를​ 주세요.”",
+      "context": "주민 의견 게시판\n앞 문맥: 제 영업 안내를 다시 인용합니다.\n뒤 문맥: 저에게 신청하세요."
+    },
+    "label": 0
+  },
+  {
+    "id": "compositional-4780",
+    "input": {
+      "target": "여기서 거래하는 항목은 면허 없이 진행하는 의료 행위입니다. 지금 유상 거래를 진행합니다. 유료로 이용할 분은 메시지를 남겨 주세요.",
+      "context": "이어서: 단속 기록에 나온 모집 문장을 살펴보는 중입니다. 연결을 안내하는 곳이 아닙니다."
+    },
+    "label": 1,
+    "kind": "prevention"
+  },
+  {
+    "id": "compositional-3271",
+    "input": {
+      "target": "삭제된 댓글에 대해 이의 신청하는 절차를 문의합니다. 공연 관람권의 예매 안내를 확인해 주세요. 그림이 표시되지 않아 게시 내용을 읽기 어렵습니다.",
+      "context": "참여 게시글"
+    },
+    "label": 2,
+    "kind": "ordinary"
+  },
+  {
+    "id": "nd58fa459a6ce83",
+    "group": "train-1-1",
+    "split": "train",
+    "label": 1,
+    "input": {
+      "target": "수업 시간에 온라인 배팅 광고의 입금 유도 대목을 읽었습니다. 학생들은 광고를 분석한 보고서를 제출했습니다.",
+      "context": "열린 게시판\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "n4e01a2eef2a49d",
+    "group": "train-3-15",
+    "split": "train",
+    "label": 3,
+    "input": {
+      "target": "회원 연장을 받고 있습니다. 회원이 사용하는 서비스가 무엇인지는 이 글만으로 알 수 없습니다.",
+      "context": "주민 소통 글\n뒤 문맥: 주민이 남긴 의견입니다."
+    }
+  },
+  {
+    "id": "compositional-744",
+    "input": {
+      "target": "여기서 거래하는 항목은 불법 온라인 카드 내기입니다. 지금 유상 거래를 진행합니다. 연결된 창구로 이용을 요청하세요.",
+      "context": "앞 게시물(다른 작성자): 학교에서 개인정보 보호를 주제로 토론합니다."
+    },
+    "label": 0,
+    "kind": "direct"
+  },
+  {
+    "id": "rehearsal-cycle2-train-3442",
+    "group": "train-ab2cf8caf3fd",
+    "kind": "quoted-offer",
+    "input": {
+      "target": "“사설 홀짝 도박 계정을 유료로 발급합니다. 신청 양식을 작성하세요.”",
+      "context": "주민 의견 게시판\n앞 문맥: 제 영업 안내를 다시 인용합니다.\n뒤 문맥: 저에게 신청하세요."
+    },
+    "label": 0
+  },
+  {
+    "id": "compositional-385",
+    "input": {
+      "target": "신청 요청",
+      "context": "게시글 보기\n본문: 현재 접수하는 서비스는 허가 없는 도박방 이용권입니다. 돈을 받고 제공하고 있습니다. 신청할 분은 연락을 남겨 주세요."
+    },
+    "label": 0,
+    "kind": "short-link"
+  },
+  {
+    "id": "rehearsal-cycle2-train-4844",
+    "group": "train-b44bb3841c49",
+    "kind": "compact",
+    "input": {
+      "target": "사설스포츠승부에돈을걸수있는회원을받습니다.주문을전달하세요.",
+      "context": "시민 제안 상세\n앞 문맥: 작성자"
+    },
+    "label": 0
+  },
+  {
+    "id": "compositional-898",
+    "input": {
+      "target": "신청 요청",
+      "context": "관련 없는 글: 학교에서 개인정보 보호를 주제로 토론합니다. 삭제된 댓글에 대해 이의 신청하는 절차를 문의합니다. 주민들이 물품을 기부하는 장터가 열립니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "compositional-1252",
+    "input": {
+      "target": "이곳에서 유료로 공급할 것은 비인가 경륜 도박방입니다. 돈을 받고 제공하고 있습니다. 거래할 분의 상담을 받습니다.",
+      "context": "문의와 답변\n같은 작성자의 설명: 삭제 대상 표현을 교육 자료에 실었습니다. 상품을 제공하는 게시글이 아닙니다."
+    },
+    "label": 1,
+    "kind": "prevention"
+  },
+  {
+    "id": "neb0c2a1d8c2969",
+    "group": "train-3-6",
+    "split": "train",
+    "label": 3,
+    "input": {
+      "target": "이용 신청을 받지만 서비스 명칭은 추후 알린다고 합니다. 현재는 신청 안내만 있습니다.",
+      "context": "열린 게시판\n뒤 문맥: 주민이 남긴 의견입니다."
+    }
+  },
+  {
+    "id": "n1ac509418feb7b",
+    "group": "train-0-8",
+    "split": "train",
+    "label": 0,
+    "input": {
+      "target": "판돈 걸어 경기 맞히는 사설방 초대해요. 지역 행사에 관한 의견은 다음 글에 쓰겠습니다.",
+      "context": "주민 소통 글\n뒤 문맥: 주민이 남긴 의견입니다."
+    }
+  },
+  {
+    "id": "compositional-3152",
+    "input": {
+      "target": "7516",
+      "context": "같은 작성자의 설명: 열람 수\n같은 글의 끝: 여기서 거래하는 항목은 유출된 개인 명부의 유상 거래입니다. 대금을 낸 분에게 공급합니다. 진행할 의사를 보내 주세요."
+    },
+    "label": 2,
+    "kind": "metadata"
+  },
+  {
+    "id": "compositional-3126",
+    "input": {
+      "target": "“이곳에서 유료로 공급할 것은 불법 온라인 카드 내기입니다. 지금 유상 거래를 진행합니다. 유료로 이용할 분은 메시지를 남겨 주세요.”",
+      "context": "질문 보기\n글의 시작: 신고된 제안이 어떤 말인지 시민에게 알려 드립니다. 이용하거나 돈을 보내지 마세요.\n관련 없는 글: 유료로 이용할 분은 메시지를 남겨 주세요"
+    },
+    "label": 1,
+    "kind": "quoted-prevention"
+  },
+  {
+    "id": "compositional-4881",
+    "input": {
+      "target": "신청한 민원 처리 상태를 조회하고 싶습니다.",
+      "context": "게시글 보기\n관련 없는 글: 신규로 안내할 서비스는 사설 승부 예측 도박입니다. 비용을 낼 신청자를 찾고 있습니다. 거래할 분의 상담을 받습니다.\n이어서: 확률과 기대값을 배우는 수학 학습지입니다. 신청서에서 오타를 발견해 수정본을 올립니다. 행사 날짜가 변경되면 주민에게 다시 알려 드리겠습니다."
+    },
+    "label": 2,
+    "kind": "ordinary-neighbor"
+  },
+  {
+    "id": "compositional-3834",
+    "input": {
+      "target": "“신규로 안내할 서비스는 불법 자격 시험 대리 응시입니다. 돈을 받고 제공하고 있습니다. 구매하려면 접수해 주세요.”",
+      "context": "소통 화면\n글의 시작: 수사 자료에서 문제된 게시물을 인용했습니다. 구매 신청을 권유하지 않습니다.\n앞 게시물(다른 작성자): 구매하려면 접수해 주세요"
+    },
+    "label": 1,
+    "kind": "quoted-prevention"
+  },
+  {
+    "id": "compositional-4334",
+    "input": {
+      "target": "“제가 받고 있는 의뢰는 불법 현금 슬롯 게임입니다. 지금 유상 거래를 진행합니다. 연결된 창구로 이용을 요청하세요.”",
+      "context": "같은 작성자의 설명: 제가 판매하는 내용이라 다시 적었습니다. 연결된 창구로 이용을 요청하세요"
+    },
+    "label": 0,
+    "kind": "quoted-offer"
+  },
+  {
+    "id": "compositional-2059",
+    "input": {
+      "target": "행사 날짜가 변경되면 주민에게 다시 알려 드리겠습니다.",
+      "context": "참여 게시글\n앞 게시물(다른 작성자): 제가 제공하는 것은 사설 스포츠 베팅 계정입니다. 이용할 분의 요청을 기다립니다. 참여를 원하면 접수 창을 열어 주세요."
+    },
+    "label": 2,
+    "kind": "ordinary"
+  },
+  {
+    "id": "n90709156fdd8df",
+    "group": "train-0-14",
+    "split": "train",
+    "label": 0,
+    "input": {
+      "target": "주민 문의 답변은 읽었습니다. 제가 안내하는 사설 경주게임에 현금 걸고 싶으면 새 계정 신청하세요.",
+      "context": "게시글 보기\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "nf3700d3f7d1d9a",
+    "group": "train-2-2",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "제가 성인일 때 몰래 찍힌 영상이 거래되고 있습니다. 판매 글을 내릴 수 있게 지원받고 싶습니다.",
+      "context": "주민 소통 글\n뒤 문맥: 주민이 남긴 의견입니다."
+    }
+  },
+  {
+    "id": "rehearsal-cycle2-train-1943",
+    "group": "train-f2e697224bef",
+    "kind": "metadata",
+    "input": {
+      "target": "6821",
+      "context": "앞 문맥: 조회 횟수\n다른 항목: 동의 없이 찍은 성인 영상 모음을 유료로 공유합니다. 거래 의사를 알려 주세요."
+    },
+    "label": 2
+  },
+  {
+    "id": "compositional-5250",
+    "input": {
+      "target": "“제가 제공하는 것은 비인가 경륜 도박방입니다. 이용할 분의 요청을 기다립니다. 연결된 창구로 이용을 요청하세요.”",
+      "context": "문의와 답변\n같은 글의 끝: 거래 피해를 막기 위한 설명에서 가져온 사례입니다. 이 제안에 응하면 안 됩니다.\n관련 없는 글: 연결된 창구로 이용을 요청하세요"
+    },
+    "label": 1,
+    "kind": "quoted-prevention"
+  },
+  {
+    "id": "compositional-2786",
+    "input": {
+      "target": "“여기서 거래하는 항목은 불법 자격 시험 대리 응시입니다. 대금을 낸 분에게 공급합니다. 유료로 이용할 분은 메시지를 남겨 주세요.”",
+      "context": "시민 참여\n같은 작성자의 설명: 제가 판매하는 내용이라 다시 적었습니다. 유료로 이용할 분은 메시지를 남겨 주세요"
+    },
+    "label": 0,
+    "kind": "quoted-offer"
+  },
+  {
+    "id": "compositional-913",
+    "input": {
+      "target": "상담 바랍니다",
+      "context": "소통 화면\n글의 시작: 여기서 거래하는 항목은 사설 승부 예측 도박입니다. 비용을 낼 신청자를 찾고 있습니다. 구매하려면 접수해 주세요."
+    },
+    "label": 0,
+    "kind": "short-link"
+  },
+  {
+    "id": "compositional-2404",
+    "input": {
+      "target": "현재 접수하는 서비스는 사설 바카라 도박 서비스입니다. 지금 유상 거래를 진행합니다. 유료로 이용할 분은 메시지를 남겨 주세요.",
+      "context": "글의 시작: 잘못된 광고의 양상을 설명하려고 원문을 제시합니다. 이 제안에 응하면 안 됩니다."
+    },
+    "label": 1,
+    "kind": "prevention"
+  },
+  {
+    "id": "compositional-3561",
+    "input": {
+      "target": "반복되는 광고 게시물의 삭제 기준을 문의합니다.",
+      "context": "시민 게시판\n관련 없는 글: 신규로 안내할 서비스는 유료 면접 대리 참가입니다. 지금 유상 거래를 진행합니다. 구매하려면 접수해 주세요.\n뒤 문맥: 주차장 공사가 끝나면 이용을 재개합니다. 화면 가장자리 밖에 둔 설명도 보조 기술로 전달할 수 있습니다. 지급받은 자료의 제목과 작성 날짜를 확인합니다."
+    },
+    "label": 2,
+    "kind": "ordinary-neighbor"
+  },
+  {
+    "id": "n6eff8af98f8262",
+    "group": "train-0-0",
+    "split": "train",
+    "label": 0,
+    "input": {
+      "target": "동네 길 안내 고맙습니다. 덧붙여 제가 운영하는 사설 야구 배팅장 회원을 받고 있으니 돈 걸고 하실 분 연락 바랍니다.",
+      "context": "게시글 보기\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "ndfad7645a81fe3",
+    "group": "train-2-1",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "급하게 돈을 보내라고 해서 도박 사이트에 송금했습니다. 다시는 들어가지 않으려는데 상담 예약을 도와주세요.",
+      "context": "주민 소통 글\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "rehearsal-cycle2-train-1444",
+    "group": "train-8a74dde7e6bf",
+    "kind": "ordinary",
+    "input": {
+      "target": "스포츠​ 경기​ 결과를​ 통계​ 수업의​ 예제로​ 분석합니다.",
+      "context": ""
+    },
+    "label": 2
+  },
+  {
+    "id": "compositional-4100",
+    "input": {
+      "target": "8867",
+      "context": "참여 게시글\n앞 문맥: 열람 수\n뒤 문맥: 제가 받고 있는 의뢰는 몰래 촬영된 성인물 복제본입니다. 지금 유상 거래를 진행합니다. 신청할 분은 연락을 남겨 주세요."
+    },
+    "label": 2,
+    "kind": "metadata"
+  },
+  {
+    "id": "rehearsal-cycle2-train-2224",
+    "group": "train-6f3eccf0f565",
+    "kind": "direct",
+    "input": {
+      "target": "사설​ 스포츠​ 승부에​ 돈을​ 걸​ 수​ 있는​ 회원을​ 받습니다.​ 운영자에게​ 연락하세요.",
+      "context": "열린 게시판"
+    },
+    "label": 0
+  },
+  {
+    "id": "compositional-1463",
+    "input": {
+      "target": "진행 방법",
+      "context": "시민 게시판\n관련 없는 글: 주민 설명회의 장소가 바뀌었다고 들었는데 확인 부탁드립니다.\n추가 설명이 빠져 있습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "compositional-4158",
+    "input": {
+      "target": "“신규로 안내할 서비스는 다른 사람 대신 치르는 시험 응시입니다. 이용 대가를 받고 제공하겠습니다. 구매하려면 접수해 주세요.”",
+      "context": "뒤 문맥: 삭제 대상 표현을 교육 자료에 실었습니다. 이 제안에 응하면 안 됩니다.\n앞 게시물(다른 작성자): 구매하려면 접수해 주세요"
+    },
+    "label": 1,
+    "kind": "quoted-prevention"
+  },
+  {
+    "id": "rehearsal-rehearsal-ref_767e9da7fbece3a2",
+    "group": "train-new-1-1",
+    "input": {
+      "target": "진달래2 현금 환전 가능한 무허가 릴게임 회원 모집. 가입 희망자는 운영자에게 연락 바랍니다.",
+      "context": "삭제한 게시물의 표현을 분석하고 있습니다.\n[다른 댓글] 가입 희망자는 운영자에게 연락 바랍니다."
+    },
+    "label": 1,
+    "source": "new-contrastive",
+    "family": 1,
+    "role": 11,
+    "kind": "rehearsal"
+  },
+  {
+    "id": "n67e7242c91fbe1",
+    "group": "train-2-6",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "도박 출금이 된다며 신분증을 보냈습니다. 개인정보를 회수하려면 어디에 연락해야 하나요?",
+      "context": "열린 게시판\n뒤 문맥: 주민이 남긴 의견입니다."
+    }
+  },
+  {
+    "id": "n90cc1f837949b7",
+    "group": "train-1-9",
+    "split": "train",
+    "label": 1,
+    "input": {
+      "target": "수사 발표에 나온 온라인 포커방은 칩을 돈으로 바꿔줬다고 합니다. 해당 영업의 적발 경위를 알리는 기사입니다.",
+      "context": "주민 소통 글\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "compositional-1252",
+    "input": {
+      "target": "이곳에서 유료로 공급할 것은 비인가 경륜 도박방입니다. 돈을 받고 제공하고 있습니다. 거래할 분의 상담을 받습니다.",
+      "context": "같은 작성자의 설명: 삭제 대상 표현을 교육 자료에 실었습니다. 상품을 제공하는 게시글이 아닙니다."
+    },
+    "label": 1,
+    "kind": "prevention"
+  },
+  {
+    "id": "compositional-3063",
+    "input": {
+      "target": "신규로 안내할 서비스는 의사 자격 없는 불법 의료 시술입니다. 대금을 낸 분에게 공급합니다. 신청할 분은 연락을 남겨 주세요.",
+      "context": "시민 게시판\n앞 게시물(다른 작성자): 잘못된 광고의 양상을 설명하려고 원문을 제시합니다. 상품을 제공하는 게시글이 아닙니다.\n뒤 문맥: 제 거래에 참가할 분을 받습니다."
+    },
+    "label": 0,
+    "kind": "neighbor-warning"
+  },
+  {
+    "id": "rehearsal-cycle2-train-2300",
+    "group": "train-f50c17fb078c",
+    "kind": "compact",
+    "input": {
+      "target": "위조졸업증서를돈받고제작해드립니다.상담을남기세요.",
+      "context": "게시글 보기\n앞 문맥: 작성자"
+    },
+    "label": 0
+  },
+  {
+    "id": "compositional-1323",
+    "input": {
+      "target": "제가 받고 있는 의뢰는 피해자 허락 없는 성인 기록 파일입니다. 이용 대가를 받고 제공하겠습니다. 계정에 주문 의사를 적어 주세요.",
+      "context": "소통 화면\n다른 댓글의 내용: 게시판 관리 교육을 위해 증거 문구를 보존합니다. 여기서는 가입을 받지 않습니다.\n같은 글의 끝: 제 거래에 참가할 분을 받습니다."
+    },
+    "label": 0,
+    "kind": "neighbor-warning"
+  },
+  {
+    "id": "compositional-4418",
+    "input": {
+      "target": "“여기서 거래하는 항목은 허가 없이 운영되는 복권 도박입니다. 이용 대가를 받고 제공하겠습니다. 거래할 분의 상담을 받습니다.”",
+      "context": "글의 시작: 제가 판매하는 내용이라 다시 적었습니다. 거래할 분의 상담을 받습니다"
+    },
+    "label": 0,
+    "kind": "quoted-offer"
+  },
+  {
+    "id": "rehearsal-cycle2-train-3362",
+    "group": "train-580f60a5d472",
+    "kind": "quoted-offer",
+    "input": {
+      "target": "“현금을​ 걸고​ 즐기는​ 사설​ 마작방의​ 회원을​ 받습니다.​ 거래​ 의사를​ 알려​ 주세요.”",
+      "context": "시민 제안 상세\n앞 문맥: 제 영업 안내를 다시 인용합니다.\n뒤 문맥: 저에게 신청하세요."
+    },
+    "label": 0
+  },
+  {
+    "id": "nb03ca32eb7710e",
+    "group": "train-2-9",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "교통카드 충전이 두 번 승인됐습니다. 시내버스 이용 내역에는 한 번만 나와 환불을 요청합니다.",
+      "context": "시민 참여\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "nb2040a6c4054fa",
+    "group": "train-3-14",
+    "split": "train",
+    "label": 3,
+    "input": {
+      "target": "이용권을 드린다는 안내입니다. 무엇을 이용하는 권리인지 설명되지 않았습니다.",
+      "context": "주민 소통 글\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "compositional-159",
+    "input": {
+      "target": "현재 접수하는 서비스는 불법 유출 성인 동영상입니다. 대금을 낸 분에게 공급합니다. 연결된 창구로 이용을 요청하세요.",
+      "context": "다른 댓글의 내용: 피해 방지 차원에서 적발된 제안을 옮겨 적습니다. 여기서는 가입을 받지 않습니다.\n뒤 문맥: 제 거래에 참가할 분을 받습니다."
+    },
+    "label": 0,
+    "kind": "neighbor-warning"
+  },
+  {
+    "id": "compositional-916",
+    "input": {
+      "target": "제가 받고 있는 의뢰는 피해자 허락 없는 성인 기록 파일입니다. 지금 유상 거래를 진행합니다. 거래할 분의 상담을 받습니다.",
+      "context": "참여 게시글\n같은 작성자의 설명: 거래 피해를 막기 위한 설명에서 가져온 사례입니다. 현재 글쓴이는 판매자가 아닙니다."
+    },
+    "label": 1,
+    "kind": "prevention"
+  },
+  {
+    "id": "rehearsal-cycle2-train-3929",
+    "group": "train-be4ac092f51b",
+    "kind": "insufficient",
+    "input": {
+      "target": "주문을 전달하세요",
+      "context": "게시글 보기\n등록 정보: 갈대밭"
+    },
+    "label": 3
+  },
+  {
+    "id": "compositional-2973",
+    "input": {
+      "target": "주민 증명 서류의 발급 창구를 안내합니다.",
+      "context": "주민 발언\n다른 댓글의 내용: 제가 제공하는 것은 현금을 거는 무허가 경주 게임입니다. 이용할 분의 요청을 기다립니다. 진행할 의사를 보내 주세요.\n같은 글의 끝: 지급받은 자료의 제목과 작성 날짜를 확인합니다."
+    },
+    "label": 2,
+    "kind": "ordinary-neighbor"
+  },
+  {
+    "id": "rehearsal-cycle2-train-2604",
+    "group": "train-a7eeec5836dc",
+    "kind": "compact",
+    "input": {
+      "target": "사설스포츠승부에돈을걸수있는회원을받습니다.주문을전달하세요.",
+      "context": "앞 문맥: 작성자"
+    },
+    "label": 0
+  },
+  {
+    "id": "rehearsal-cycle2-train-81",
+    "group": "train-bb0ecb10ad41",
+    "kind": "short-link",
+    "input": {
+      "target": "계정을​ 등록하세요",
+      "context": "자유로운 소통\n앞 문맥: 무허가 투견 승부에 돈을 걸 고객을 모집합니다"
+    },
+    "label": 0
+  },
+  {
+    "id": "nfcf3ec6f7806be",
+    "group": "train-0-7",
+    "split": "train",
+    "label": 0,
+    "input": {
+      "target": "제 연락처로 주문 남기세요. 피해자 동의 없이 촬영한 성인 영상 원본을 판매 중입니다.",
+      "context": "시민 참여\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "n5a3fb149d16916",
+    "group": "train-1-14",
+    "split": "train",
+    "label": 1,
+    "input": {
+      "target": "사설 회차게임의 현금 정산을 미끼로 한 피해를 취재했습니다. 제보자는 보낸 돈을 돌려받지 못했다고 말했습니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "rehearsal-cycle2-train-4626",
+    "group": "train-11e3b75dab3e",
+    "kind": "quoted-offer",
+    "input": {
+      "target": "“불법 성인 촬영본을 비용을 낸 구매자에게 배송합니다. 연결 주소로 접수하세요.”",
+      "context": "앞 문맥: 제 영업 안내를 다시 인용합니다.\n뒤 문맥: 저에게 신청하세요."
+    },
+    "label": 0
+  },
+  {
+    "id": "compositional-4647",
+    "input": {
+      "target": "신규로 안내할 서비스는 의사 자격 없는 불법 의료 시술입니다. 비용을 낼 신청자를 찾고 있습니다. 구매하려면 접수해 주세요.",
+      "context": "시민 게시판\n관련 없는 글: 단속 기록에 나온 모집 문장을 살펴보는 중입니다. 이 제안에 응하면 안 됩니다.\n뒤 문맥: 제 거래에 참가할 분을 받습니다."
+    },
+    "label": 0,
+    "kind": "neighbor-warning"
+  },
+  {
+    "id": "rehearsal-cycle2-train-4456",
+    "group": "train-8abc575a8d75",
+    "kind": "ordinary-context",
+    "input": {
+      "target": "도서관은 이번 주에 서가 배치를 바꾸고 있습니다.",
+      "context": "게시글 보기\n앞 문맥: 안내 문서의 영문 철자를 고치는 편집 활동입니다."
+    },
+    "label": 2
+  },
+  {
+    "id": "compositional-645",
+    "input": {
+      "target": "다음 답변이 등록되면 안내를 받겠습니다.",
+      "context": "참여 게시글\n관련 없는 글: 여기서 거래하는 항목은 불법 현금 슬롯 게임입니다. 이용 대가를 받고 제공하겠습니다. 진행할 의사를 보내 주세요.\n이어서: 행사 날짜가 변경되면 주민에게 다시 알려 드리겠습니다. 키보드만으로 화면을 조작하는 방법을 설명합니다."
+    },
+    "label": 2,
+    "kind": "ordinary-neighbor"
+  },
+  {
+    "id": "compositional-701",
+    "input": {
+      "target": "수사 자료에서 문제된 게시물을 인용했습니다. 이 제안에 응하면 안 됩니다. 「현재 접수하는 서비스는 위조 신분 증명 문서입니다. 이용할 분의 요청을 기다립니다. 계정에 주문 의사를 적어 주세요.」",
+      "context": ""
+    },
+    "label": 1,
+    "kind": "warning-target"
+  },
+  {
+    "id": "compositional-5995",
+    "input": {
+      "target": "시험 대리 응시는 허용되지 않는다는 공지입니다.",
+      "context": "열린 공간"
+    },
+    "label": 2,
+    "kind": "ordinary"
+  },
+  {
+    "id": "nde9eddeae40275",
+    "group": "train-1-0",
+    "split": "train",
+    "label": 1,
+    "input": {
+      "target": "단체 채팅에 현금 슬롯 모집 문구가 붙었습니다. 제가 작성한 안내문이 아닌데 제 이름으로 돌아다녀 경위를 알립니다.",
+      "context": "열린 게시판\n뒤 문맥: 주민이 남긴 의견입니다."
+    }
+  },
+  {
+    "id": "n4241b19959cba5",
+    "group": "train-1-0",
+    "split": "train",
+    "label": 1,
+    "input": {
+      "target": "단체 채팅에 현금 슬롯 모집 문구가 붙었습니다. 제가 작성한 안내문이 아닌데 제 이름으로 돌아다녀 경위를 알립니다.",
+      "context": "주민 소통 글\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "compositional-5404",
+    "input": {
+      "target": "제가 제공하는 것은 불법 촬영 성인 자료 이용권입니다. 돈을 받고 제공하고 있습니다. 구매하려면 접수해 주세요.",
+      "context": "뒤 문맥: 단속 기록에 나온 모집 문장을 살펴보는 중입니다. 구매 신청을 권유하지 않습니다."
+    },
+    "label": 1,
+    "kind": "prevention"
+  },
+  {
+    "id": "compositional-3893",
+    "input": {
+      "target": "잘못된 광고의 양상을 설명하려고 원문을 제시합니다. 이 제안에 응하면 안 됩니다. 「제가 받고 있는 의뢰는 사설 스포츠 베팅 계정입니다. 이용할 분의 요청을 기다립니다. 계정에 주문 의사를 적어 주세요.」",
+      "context": "참여 게시글"
+    },
+    "label": 1,
+    "kind": "warning-target"
+  },
+  {
+    "id": "rehearsal-rehearsal-ref_9ddf2587b67cbb8c",
+    "group": "train-new-4-6",
+    "input": {
+      "target": "진달래7 해외 불법 경륜 베팅방에서 판돈을 충전하세요. 쪽지로 거래하실 분을 받습니다.",
+      "context": "열린 게시판\n[다른 댓글] 쪽지로 거래하실 분을 받습니다."
+    },
+    "label": 1,
+    "source": "new-contrastive",
+    "family": 4,
+    "role": 11,
+    "kind": "rehearsal"
+  },
+  {
+    "id": "compositional-4503",
+    "input": {
+      "target": "신규로 안내할 서비스는 사설 스포츠 베팅 계정입니다. 구매 의뢰를 접수합니다. 연결된 창구로 이용을 요청하세요.",
+      "context": "주민 발언\n다른 댓글의 내용: 신고된 제안이 어떤 말인지 시민에게 알려 드립니다. 연결을 안내하는 곳이 아닙니다.\n같은 글의 끝: 제 거래에 참가할 분을 받습니다."
+    },
+    "label": 0,
+    "kind": "neighbor-warning"
+  },
+  {
+    "id": "compositional-1352",
+    "input": {
+      "target": "2019.05.05",
+      "context": "본문: 등록일\n이어서: 이곳에서 유료로 공급할 것은 가짜 경력 확인서입니다. 이용할 분의 요청을 기다립니다. 거래할 분의 상담을 받습니다."
+    },
+    "label": 2,
+    "kind": "metadata"
+  },
+  {
+    "id": "compositional-2171",
+    "input": {
+      "target": "상담 바랍니다",
+      "context": "상세 내용\n다른 댓글의 내용: 여기서 거래하는 항목은 도용한 개인정보의 불법 매매입니다. 이용할 분의 요청을 기다립니다. 계정에 주문 의사를 적어 주세요.\n현재 선택한 항목의 제공 대상은 확인되지 않습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "neb0c2a1d8c2969",
+    "group": "train-3-6",
+    "split": "train",
+    "label": 3,
+    "input": {
+      "target": "이용 신청을 받지만 서비스 명칭은 추후 알린다고 합니다. 현재는 신청 안내만 있습니다.",
+      "context": "열린 게시판\n뒤 문맥: 주민이 남긴 의견입니다."
+    }
+  },
+  {
+    "id": "ne1c91ee3570ef4",
+    "group": "train-1-11",
+    "split": "train",
+    "label": 1,
+    "input": {
+      "target": "도박 충전 혜택이라는 표현은 게시물 삭제 사유에 인용된 말입니다. 담당자는 광고를 접수한 것이 아닙니다.",
+      "context": "주민 소통 글\n뒤 문맥: 주민이 남긴 의견입니다."
+    }
+  },
+  {
+    "id": "rehearsal-cycle2-train-521",
+    "group": "train-f0935d89388a",
+    "kind": "insufficient",
+    "input": {
+      "target": "신청 양식을 작성하세요",
+      "context": "등록 정보: 돌담길"
+    },
+    "label": 3
+  },
+  {
+    "id": "compositional-4417",
+    "input": {
+      "target": "접수 요청",
+      "context": "참여 게시글\n본문: 신규로 안내할 서비스는 사설 스포츠 베팅 계정입니다. 돈을 받고 제공하고 있습니다. 거래할 분의 상담을 받습니다."
+    },
+    "label": 0,
+    "kind": "short-link"
+  },
+  {
+    "id": "rehearsal-cycle2-train-4598",
+    "group": "train-46391cd88e2b",
+    "kind": "ordinary-link",
+    "input": {
+      "target": "링크에서 진행하세요",
+      "context": "시민 참여\n앞 문맥: 도서관은 이번 주에 서가 배치를 바꾸고 있습니다.\n뒤 문맥: 공공 프로그램의 절차입니다."
+    },
+    "label": 2
+  },
+  {
+    "id": "compositional-5979",
+    "input": {
+      "target": "제가 제공하는 것은 면허 없이 진행하는 의료 행위입니다. 이용 대가를 받고 제공하겠습니다. 신청할 분은 연락을 남겨 주세요.",
+      "context": "소통 화면\n관련 없는 글: 삭제 대상 표현을 교육 자료에 실었습니다. 이용하거나 돈을 보내지 마세요.\n이어서: 제 거래에 참가할 분을 받습니다."
+    },
+    "label": 0,
+    "kind": "neighbor-warning"
+  },
+  {
+    "id": "compositional-5651",
+    "input": {
+      "target": "연락 방법",
+      "context": "다른 댓글의 내용: 수업에서 문자 조합 방식에 따른 표시 차이를 관찰합니다.\n추가 설명이 빠져 있습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "compositional-1647",
+    "input": {
+      "target": "현재접수하는서비스는불법위조졸업서류입니다.지금유상거래를진행합니다.거래할분의상담을받습니다.",
+      "context": "주민 발언\n관련 없는 글: 당사자가 거절한 모집 메시지를 기록으로 남깁니다. 상품을 제공하는 게시글이 아닙니다.\n이어서: 제 거래에 참가할 분을 받습니다."
+    },
+    "label": 0,
+    "kind": "neighbor-warning"
+  },
+  {
+    "id": "ne06867a79c26f3",
+    "group": "train-3-3",
+    "split": "train",
+    "label": 3,
+    "input": {
+      "target": "추가 설명 없이 이용자를 받는다고만 적었습니다. 대상 서비스가 무엇인지는 아직 밝히지 않았습니다.",
+      "context": "게시글 보기\n뒤 문맥: 주민이 남긴 의견입니다."
+    }
+  },
+  {
+    "id": "n636f99dfa0aeb7",
+    "group": "train-2-15",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "이 버튼은 화면 읽기 프로그램에서 다음 항목으로 이동하는 기능입니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "compositional-3588",
+    "input": {
+      "target": "신규로 안내할 서비스는 비동의 성인 사생활 녹화본입니다. 유료 이용을 원하는 고객을 받습니다. 유료로 이용할 분은 메시지를 남겨 주세요.",
+      "context": ""
+    },
+    "label": 0,
+    "kind": "direct"
+  },
+  {
+    "id": "rehearsal-cycle2-train-3647",
+    "group": "train-c32d586ce803",
+    "kind": "insufficient",
+    "input": {
+      "target": "연결 후 설명",
+      "context": "자유로운 소통\n앞 문맥: 접수 내용\n뒤 문맥: 연결 후 설명"
+    },
+    "label": 3
+  },
+  {
+    "id": "compositional-4239",
+    "input": {
+      "target": "현재 접수하는 서비스는 불법 위조 졸업 서류입니다. 유료 이용을 원하는 고객을 받습니다. 구매하려면 접수해 주세요.",
+      "context": "게시글 보기\n앞 게시물(다른 작성자): 방송의 범죄 예방 해설에서 해당 발언을 소개합니다. 여기서는 가입을 받지 않습니다.\n이어서: 제 거래에 참가할 분을 받습니다."
+    },
+    "label": 0,
+    "kind": "neighbor-warning"
+  },
+  {
+    "id": "compositional-3698",
+    "input": {
+      "target": "“제가 제공하는 것은 비인가 경륜 도박방입니다. 이용할 분의 요청을 기다립니다. 참여를 원하면 접수 창을 열어 주세요.”",
+      "context": "질문 보기\n글의 시작: 제가 판매하는 내용이라 다시 적었습니다. 참여를 원하면 접수 창을 열어 주세요"
+    },
+    "label": 0,
+    "kind": "quoted-offer"
+  },
+  {
+    "id": "compositional-991",
+    "input": {
+      "target": "신청한 민원 처리 상태를 조회하고 싶습니다. 의료기관의 자격을 확인하는 방법을 배우는 교육입니다. 박물관이 수집한 놀이 도구를 전시하고 있습니다.",
+      "context": "관련 없는 글: 제가 받고 있는 의뢰는 불법 현금 슬롯 게임입니다. 지금 유상 거래를 진행합니다. 유료로 이용할 분은 메시지를 남겨 주세요."
+    },
+    "label": 2,
+    "kind": "ordinary"
+  },
+  {
+    "id": "compositional-2030",
+    "input": {
+      "target": "“현재 접수하는 서비스는 불법 위조 졸업 서류입니다. 이용할 분의 요청을 기다립니다. 구매하려면 접수해 주세요.”",
+      "context": "소통 화면\n같은 작성자의 설명: 제가 판매하는 내용이라 다시 적었습니다. 구매하려면 접수해 주세요"
+    },
+    "label": 0,
+    "kind": "quoted-offer"
+  },
+  {
+    "id": "nb7777203c44448",
+    "group": "train-2-11",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "작년 봉사 보상금이 입금되지 않았습니다. 지급 담당 부서에 문의하고 싶습니다.",
+      "context": "게시글 보기\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "n711a418cb3daf0",
+    "group": "train-0-2",
+    "split": "train",
+    "label": 0,
+    "input": {
+      "target": "댓글 남긴 김에 알려요. 성인 사생활을 몰래 촬영한 파일을 유료로 넘길 구매자 찾고 있습니다.",
+      "context": "주민 소통 글\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "compositional-4819",
+    "input": {
+      "target": "수업에서 문자 조합 방식에 따른 표시 차이를 관찰합니다. 담당 부서를 찾지 못해 연락처를 문의합니다. 확률과 기대값을 배우는 수학 학습지입니다.",
+      "context": ""
+    },
+    "label": 2,
+    "kind": "ordinary"
+  },
+  {
+    "id": "compositional-4537",
+    "input": {
+      "target": "진행 방법",
+      "context": "참여 게시글\n본문: 신규로 안내할 서비스는 사설 바카라 도박 서비스입니다. 대금을 낸 분에게 공급합니다. 계정에 주문 의사를 적어 주세요."
+    },
+    "label": 0,
+    "kind": "short-link"
+  },
+  {
+    "id": "compositional-1885",
+    "input": {
+      "target": "접수을 남겨 주세요",
+      "context": "열린 게시판\n글의 시작: 제가 받고 있는 의뢰는 사설 스포츠 베팅 계정입니다. 이용할 분의 요청을 기다립니다. 신청할 분은 연락을 남겨 주세요."
+    },
+    "label": 0,
+    "kind": "short-link"
+  },
+  {
+    "id": "compositional-4820",
+    "input": {
+      "target": "따뜻한바람",
+      "context": "주민 발언\n같은 작성자의 설명: 작성자\n뒤 문맥: 현재 접수하는 서비스는 불법 촬영 성인 자료 이용권입니다. 지금 유상 거래를 진행합니다. 참여를 원하면 접수 창을 열어 주세요."
+    },
+    "label": 2,
+    "kind": "metadata"
+  },
+  {
+    "id": "compositional-1804",
+    "input": {
+      "target": "여기서 거래하는 항목은 다른 사람 대신 치르는 시험 응시입니다. 구매 의뢰를 접수합니다. 구매하려면 접수해 주세요.",
+      "context": "같은 글의 끝: 신고된 제안이 어떤 말인지 시민에게 알려 드립니다. 상품을 제공하는 게시글이 아닙니다."
+    },
+    "label": 1,
+    "kind": "prevention"
+  },
+  {
+    "id": "compositional-58",
+    "input": {
+      "target": "연락을 남겨 주세요",
+      "context": "질문 보기\n앞 게시물(다른 작성자): 주민 증명 서류의 발급 창구를 안내합니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "n7a56dfbfec0024",
+    "group": "train-0-7",
+    "split": "train",
+    "label": 0,
+    "input": {
+      "target": "제 연락처로 주문 남기세요. 피해자 동의 없이 촬영한 성인 영상 원본을 판매 중입니다.",
+      "context": "열린 게시판\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "n7679016fce7ea5",
+    "group": "train-1-13",
+    "split": "train",
+    "label": 1,
+    "input": {
+      "target": "신고 접수 내용에 비동의 성인 파일 판매 제안이 들어 있습니다. 공개 문서에서는 관련 계정을 가렸습니다.",
+      "context": "주민 소통 글\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "compositional-552",
+    "input": {
+      "target": "여기서 거래하는 항목은 유료 면접 대리 참가입니다. 이용 대가를 받고 제공하겠습니다. 거래할 분의 상담을 받습니다.",
+      "context": "앞 게시물(다른 작성자): 글자 색과 배경의 명도 차이를 비교하는 디자인 연습입니다. 온라인 사기 피해의 상담 창구를 찾고 있습니다. 체육 모임은 금전 내기를 하지 않고 친목을 나눕니다."
+    },
+    "label": 0,
+    "kind": "direct"
+  },
+  {
+    "id": "rehearsal-cycle2-train-155",
+    "group": "train-df5ba38c6fbd",
+    "kind": "quoted-prevention",
+    "input": {
+      "target": "“유출된 성인 사생활 영상을 돈 받고 전송합니다. 연결 주소로 접수하세요.”",
+      "context": "자유로운 소통\n앞 문맥: 범죄 예방 수업 자료입니다. 제시된 권유에 응하지 마세요\n다른 답글: 연결 주소로 접수하세요"
+    },
+    "label": 1
+  },
+  {
+    "id": "compositional-257",
+    "input": {
+      "target": "피해 방지 차원에서 적발된 제안을 옮겨 적습니다. 상품을 제공하는 게시글이 아닙니다. 「제가 받고 있는 의뢰는 유출된 개인 명부의 유상 거래입니다. 비용을 낼 신청자를 찾고 있습니다. 거래할 분의 상담을 받습니다.」",
+      "context": "게시글 보기"
+    },
+    "label": 1,
+    "kind": "warning-target"
+  },
+  {
+    "id": "rehearsal-cycle2-train-658",
+    "group": "train-cc495ccc0131",
+    "kind": "quoted-offer",
+    "input": {
+      "target": "“유출된 성인 사생활 영상을 돈 받고 전송합니다. 신청 양식을 작성하세요.”",
+      "context": "주민 의견 게시판\n앞 문맥: 제 영업 안내를 다시 인용합니다.\n뒤 문맥: 저에게 신청하세요."
+    },
+    "label": 0
+  },
+  {
+    "id": "compositional-2706",
+    "input": {
+      "target": "“이곳에서 유료로 공급할 것은 사설 승부 예측 도박입니다. 이용 대가를 받고 제공하겠습니다. 유료로 이용할 분은 메시지를 남겨 주세요.”",
+      "context": "이어서: 삭제 대상 표현을 교육 자료에 실었습니다. 연결을 안내하는 곳이 아닙니다.\n다른 댓글의 내용: 유료로 이용할 분은 메시지를 남겨 주세요"
+    },
+    "label": 1,
+    "kind": "quoted-prevention"
+  },
+  {
+    "id": "compositional-580",
+    "input": {
+      "target": "여기서 거래하는 항목은 불법 자격 시험 대리 응시입니다. 비용을 낼 신청자를 찾고 있습니다. 거래할 분의 상담을 받습니다.",
+      "context": "주민 발언\n이어서: 잘못된 광고의 양상을 설명하려고 원문을 제시합니다. 이 제안에 응하면 안 됩니다."
+    },
+    "label": 1,
+    "kind": "prevention"
+  },
+  {
+    "id": "n638de3e12d2054",
+    "group": "train-2-3",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "현금 게임을 그만두겠다고 했는데 연락이 옵니다. 연락을 끊고 채무 상담을 받으려 합니다.",
+      "context": "열린 게시판\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "nb3e411889c2a9c",
+    "group": "train-3-14",
+    "split": "train",
+    "label": 3,
+    "input": {
+      "target": "이용권을 드린다는 안내입니다. 무엇을 이용하는 권리인지 설명되지 않았습니다.",
+      "context": "주민 소통 글\n뒤 문맥: 주민이 남긴 의견입니다."
+    }
+  },
+  {
+    "id": "compositional-1755",
+    "input": {
+      "target": "제가 받고 있는 의뢰는 의사 자격 없는 불법 의료 시술입니다. 유료 이용을 원하는 고객을 받습니다. 연결된 창구로 이용을 요청하세요.",
+      "context": "관련 없는 글: 당사자가 거절한 모집 메시지를 기록으로 남깁니다. 여기서는 가입을 받지 않습니다.\n같은 글의 끝: 제 거래에 참가할 분을 받습니다."
+    },
+    "label": 0,
+    "kind": "neighbor-warning"
+  },
+  {
+    "id": "compositional-4417",
+    "input": {
+      "target": "접수 요청",
+      "context": "참여 게시글\n본문: 신규로 안내할 서비스는 사설 스포츠 베팅 계정입니다. 돈을 받고 제공하고 있습니다. 거래할 분의 상담을 받습니다."
+    },
+    "label": 0,
+    "kind": "short-link"
+  },
+  {
+    "id": "compositional-1083",
+    "input": {
+      "target": "이곳에서 유료로 공급할 것은 몰래 촬영된 성인물 복제본입니다. 이용할 분의 요청을 기다립니다. 참여를 원하면 접수 창을 열어 주세요.",
+      "context": "열린 게시판\n다른 댓글의 내용: 거래 피해를 막기 위한 설명에서 가져온 사례입니다. 연결을 안내하는 곳이 아닙니다.\n뒤 문맥: 제 거래에 참가할 분을 받습니다."
+    },
+    "label": 0,
+    "kind": "neighbor-warning"
+  },
+  {
+    "id": "compositional-5925",
+    "input": {
+      "target": "삭제된 댓글에 대해 이의 신청하는 절차를 문의합니다.",
+      "context": "상세 내용\n앞 게시물(다른 작성자): 제가 제공하는 것은 허가 없는 도박방 이용권입니다. 비용을 낼 신청자를 찾고 있습니다. 연결된 창구로 이용을 요청하세요.\n이어서: 불법 도박이 공동체에 미치는 영향을 토론합니다."
+    },
+    "label": 2,
+    "kind": "ordinary-neighbor"
+  },
+  {
+    "id": "rehearsal-cycle2-train-386",
+    "group": "train-5542db843ca0",
+    "kind": "quoted-offer",
+    "input": {
+      "target": "“사설 스포츠 승부에 돈을 걸 수 있는 회원을 받습니다. 거래 의사를 알려 주세요.”",
+      "context": "앞 문맥: 제 영업 안내를 다시 인용합니다.\n뒤 문맥: 저에게 신청하세요."
+    },
+    "label": 0
+  },
+  {
+    "id": "rehearsal-cycle2-train-4004",
+    "group": "train-d77f3b9008f4",
+    "kind": "ordinary",
+    "input": {
+      "target": "장애인도 내용을 들을 수 있도록 버튼에 음성 설명을 제공합니다.",
+      "context": "시민 제안 상세"
+    },
+    "label": 2
+  },
+  {
+    "id": "n5cee9c97e07cb1",
+    "group": "train-3-12",
+    "split": "train",
+    "label": 3,
+    "input": {
+      "target": "오늘 접수할 분 구합니다. 접수 대상이나 기관 안내는 별도로 하지 않았습니다.",
+      "context": "게시글 보기\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "n09db719a98775d",
+    "group": "train-1-15",
+    "split": "train",
+    "label": 1,
+    "input": {
+      "target": "전시된 화면은 카지노 광고에 속은 사람의 진술 자료입니다. 전시실에서는 광고 서비스를 신청할 수 없습니다.",
+      "context": "주민 소통 글\n뒤 문맥: 주민이 남긴 의견입니다."
+    }
+  },
+  {
+    "id": "rehearsal-rehearsal-ref_a682978730f18d10",
+    "group": "train-new-1-9",
+    "input": {
+      "target": "진달래10 현금 환전 가능한 무허가 릴게임 회원 모집. 쪽지로 거래하실 분을 받습니다.",
+      "context": ""
+    },
+    "label": 0,
+    "source": "new-contrastive",
+    "family": 1,
+    "role": 0,
+    "kind": "rehearsal"
+  },
+  {
+    "id": "compositional-3874",
+    "input": {
+      "target": "연락을 남겨 주세요",
+      "context": "문의와 답변\n이 문구 외에 어떤 것을 신청하는지 나타난 자료가 없습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "rehearsal-cycle2-train-2491",
+    "group": "train-37d915c43121",
+    "kind": "quoted-prevention",
+    "input": {
+      "target": "“사설 홀짝 도박 계정을 유료로 발급합니다. 대금을 납부하세요.”",
+      "context": "열린 게시판\n앞 문맥: 삭제된 광고를 예시로 옮겼습니다. 클릭하면 안 됩니다\n다른 답글: 대금을 납부하세요"
+    },
+    "label": 1
+  },
+  {
+    "id": "compositional-3334",
+    "input": {
+      "target": "접수 바랍니다",
+      "context": "주민 발언\n이 문구 외에 어떤 것을 신청하는지 나타난 자료가 없습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "compositional-1559",
+    "input": {
+      "target": "신청 방법",
+      "context": "앞 게시물(다른 작성자): 제가 받고 있는 의뢰는 불법 현금 슬롯 게임입니다. 이용할 분의 요청을 기다립니다. 거래할 분의 상담을 받습니다.\n현재 선택한 항목의 제공 대상은 확인되지 않습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "compositional-772",
+    "input": {
+      "target": "현재 접수하는 서비스는 허가 없이 운영되는 복권 도박입니다. 지금 유상 거래를 진행합니다. 계정에 주문 의사를 적어 주세요.",
+      "context": "참여 게시글\n글의 시작: 방송의 범죄 예방 해설에서 해당 발언을 소개합니다. 여기서는 가입을 받지 않습니다."
+    },
+    "label": 1,
+    "kind": "prevention"
+  },
+  {
+    "id": "na87358c305b071",
+    "group": "train-3-7",
+    "split": "train",
+    "label": 3,
+    "input": {
+      "target": "별도 연락으로 안내한다는 말만 남겼습니다. 판매 품목과 거래 조건은 알려져 있지 않습니다.",
+      "context": "열린 게시판\n뒤 문맥: 주민이 남긴 의견입니다."
+    }
+  },
+  {
+    "id": "n1ef815a145d6fc",
+    "group": "train-2-13",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "카드 게임 확률을 배우는 모임을 도서관에서 엽니다. 참가비도 없고 실제 돈은 사용하지 않습니다.",
+      "context": "주민 소통 글\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "compositional-3469",
+    "input": {
+      "target": "접수 요청",
+      "context": "앞 문맥: 현재 접수하는 서비스는 가짜 경력 확인서입니다. 구매 의뢰를 접수합니다. 계정에 주문 의사를 적어 주세요."
+    },
+    "label": 0,
+    "kind": "short-link"
+  },
+  {
+    "id": "compositional-3367",
+    "input": {
+      "target": "메뉴의 투명도가 바뀌는 애니메이션을 실습합니다. 행사 날짜가 변경되면 주민에게 다시 알려 드리겠습니다. 지급받은 자료의 제목과 작성 날짜를 확인합니다.",
+      "context": "문의와 답변"
+    },
+    "label": 2,
+    "kind": "ordinary"
+  },
+  {
+    "id": "compositional-3825",
+    "input": {
+      "target": "공연 관람권의 예매 안내를 확인해 주세요.",
+      "context": "열린 게시판\n앞 게시물(다른 작성자): 이곳에서 유료로 공급할 것은 불법 온라인 카드 내기입니다. 이용 대가를 받고 제공하겠습니다. 구매하려면 접수해 주세요.\n뒤 문맥: 시청 누리집의 오류 화면을 제보합니다."
+    },
+    "label": 2,
+    "kind": "ordinary-neighbor"
+  },
+  {
+    "id": "rehearsal-cycle2-train-4480",
+    "group": "train-f0ec2c8ad9ba",
+    "kind": "direct",
+    "input": {
+      "target": "비동의 성인 촬영물의 유료 열람권을 판매합니다. 계정을 등록하세요.",
+      "context": "자유로운 소통"
+    },
+    "label": 0
+  },
+  {
+    "id": "compositional-5972",
+    "input": {
+      "target": "2021.08.09",
+      "context": "본문: 등록일\n이어서: 신규로 안내할 서비스는 불법 온라인 카드 내기입니다. 비용을 낼 신청자를 찾고 있습니다. 연결된 창구로 이용을 요청하세요."
+    },
+    "label": 2,
+    "kind": "metadata"
+  },
+  {
+    "id": "compositional-443",
+    "input": {
+      "target": "진행 안내",
+      "context": "주민 발언\n관련 없는 글: 주차장 공사가 끝나면 이용을 재개합니다. 주민들이 물품을 기부하는 장터가 열립니다.\n추가 설명이 빠져 있습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "n16a0eda4f05317",
+    "group": "train-0-12",
+    "split": "train",
+    "label": 0,
+    "input": {
+      "target": "사진 속 행사는 끝났습니다. 이제 제 현금 포커방 참가자를 받으니 판돈 충전할 분 답장하세요.",
+      "context": "게시글 보기\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "nfdadaab8aa4e50",
+    "group": "train-0-7",
+    "split": "train",
+    "label": 0,
+    "input": {
+      "target": "제 연락처로 주문 남기세요. 피해자 동의 없이 촬영한 성인 영상 원본을 판매 중입니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "compositional-3298",
+    "input": {
+      "target": "신청 안내",
+      "context": "이 문구 외에 어떤 것을 신청하는지 나타난 자료가 없습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "compositional-5965",
+    "input": {
+      "target": "신청을 남겨 주세요",
+      "context": "상세 내용\n앞 문맥: 신규로 안내할 서비스는 면허 없이 진행하는 의료 행위입니다. 대금을 낸 분에게 공급합니다. 계정에 주문 의사를 적어 주세요."
+    },
+    "label": 0,
+    "kind": "short-link"
+  },
+  {
+    "id": "compositional-2779",
+    "input": {
+      "target": "주민 증명 서류의 발급 창구를 안내합니다.",
+      "context": "게시글 보기"
+    },
+    "label": 2,
+    "kind": "ordinary"
+  },
+  {
+    "id": "rehearsal-cycle2-train-3302",
+    "group": "train-7e1b5b616aae",
+    "kind": "ordinary-link",
+    "input": {
+      "target": "대금을 납부하세요",
+      "context": "답변 보기\n앞 문맥: 주민 증명 서류의 발급 창구를 안내합니다.\n뒤 문맥: 공공 프로그램의 절차입니다."
+    },
+    "label": 2
+  },
+  {
+    "id": "rehearsal-cycle2-train-2419",
+    "group": "train-49b80a638225",
+    "kind": "prevention",
+    "input": {
+      "target": "위조 졸업 증서를 돈 받고 제작해 드립니다. 쪽지로 신청하세요.",
+      "context": "뒤 문맥: 피해자가 받은 메시지를 기록합니다. 거래를 중개하지 않습니다"
+    },
+    "label": 1
+  },
+  {
+    "id": "compositional-895",
+    "input": {
+      "target": "의료기관의 자격을 확인하는 방법을 배우는 교육입니다. 박물관이 수집한 놀이 도구를 전시하고 있습니다. 스포츠 경기 결과를 통계 수업의 예제로 분석합니다.",
+      "context": "참여 게시글\n앞 게시물(다른 작성자): 제가 받고 있는 의뢰는 허가 없이 운영되는 복권 도박입니다. 이용 대가를 받고 제공하겠습니다. 구매하려면 접수해 주세요."
+    },
+    "label": 2,
+    "kind": "ordinary"
+  },
+  {
+    "id": "n20e4989d928c60",
+    "group": "train-1-8",
+    "split": "train",
+    "label": 1,
+    "input": {
+      "target": "유출 성인 영상을 구독하라는 메시지를 받았다는 증언입니다. 기록자는 판매자가 아니라 피해 상담 담당자입니다.",
+      "context": "게시글 보기\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "n2011168f31e575",
+    "group": "train-3-9",
+    "split": "train",
+    "label": 3,
+    "input": {
+      "target": "지금 참여자를 받습니다. 활동 내용은 확인할 수 없고 연결 버튼만 있습니다.",
+      "context": "주민 소통 글\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "compositional-1148",
+    "input": {
+      "target": "따뜻한바람",
+      "context": "같은 작성자의 설명: 작성자\n이어서: 이곳에서 유료로 공급할 것은 유출된 개인 명부의 유상 거래입니다. 지금 유상 거래를 진행합니다. 연결된 창구로 이용을 요청하세요."
+    },
+    "label": 2,
+    "kind": "metadata"
+  },
+  {
+    "id": "compositional-3456",
+    "input": {
+      "target": "제가 받고 있는 의뢰는 사설 승부 예측 도박입니다. 대금을 낸 분에게 공급합니다. 유료로 이용할 분은 메시지를 남겨 주세요.",
+      "context": "상세 내용"
+    },
+    "label": 0,
+    "kind": "direct"
+  },
+  {
+    "id": "compositional-1503",
+    "input": {
+      "target": "현재 접수하는 서비스는 위조 신분 증명 문서입니다. 이용 대가를 받고 제공하겠습니다. 계정에 주문 의사를 적어 주세요.",
+      "context": "시민 참여\n앞 게시물(다른 작성자): 당사자가 거절한 모집 메시지를 기록으로 남깁니다. 이 제안에 응하면 안 됩니다.\n같은 글의 끝: 제 거래에 참가할 분을 받습니다."
+    },
+    "label": 0,
+    "kind": "neighbor-warning"
+  },
+  {
+    "id": "compositional-2281",
+    "input": {
+      "target": "신청안내",
+      "context": "상세 내용\n앞 문맥: 제가 받고 있는 의뢰는 의사 자격 없는 불법 의료 시술입니다. 돈을 받고 제공하고 있습니다. 신청할 분은 연락을 남겨 주세요."
+    },
+    "label": 0,
+    "kind": "short-link"
+  },
+  {
+    "id": "compositional-3789",
+    "input": {
+      "target": "주민들이 물품을 기부하는 장터가 열립니다.",
+      "context": "다른 댓글의 내용: 신규로 안내할 서비스는 허가 없는 약품의 불법 유통입니다. 이용 대가를 받고 제공하겠습니다. 구매하려면 접수해 주세요.\n같은 글의 끝: 체육 모임은 금전 내기를 하지 않고 친목을 나눕니다. 지급받은 자료의 제목과 작성 날짜를 확인합니다. 화면 읽기 프로그램에서 이동 메뉴를 확인하는 수업입니다."
+    },
+    "label": 2,
+    "kind": "ordinary-neighbor"
+  },
+  {
+    "id": "compositional-2046",
+    "input": {
+      "target": "“신규로 안내할 서비스는 면허 없이 진행하는 의료 행위입니다. 구매 의뢰를 접수합니다. 연결된 창구로 이용을 요청하세요.”",
+      "context": "질문 보기\n본문: 방송의 범죄 예방 해설에서 해당 발언을 소개합니다. 상품을 제공하는 게시글이 아닙니다.\n다른 댓글의 내용: 연결된 창구로 이용을 요청하세요"
+    },
+    "label": 1,
+    "kind": "quoted-prevention"
+  },
+  {
+    "id": "n16a0eda4f05317",
+    "group": "train-0-12",
+    "split": "train",
+    "label": 0,
+    "input": {
+      "target": "사진 속 행사는 끝났습니다. 이제 제 현금 포커방 참가자를 받으니 판돈 충전할 분 답장하세요.",
+      "context": "게시글 보기\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "n21d1f96ddf3e05",
+    "group": "train-0-6",
+    "split": "train",
+    "label": 0,
+    "input": {
+      "target": "회의 잘 마쳤습니다. 다른 얘기지만 현금 환전되는 온라인 슬롯을 운영 중이니 유료 계정 만들어드릴게요.",
+      "context": "주민 소통 글\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "compositional-5342",
+    "input": {
+      "target": "“현재접수하는서비스는몰래촬영된성인물복제본입니다.비용을낼신청자를찾고있습니다.진행할의사를보내주세요.”",
+      "context": "본문: 제가 판매하는 내용이라 다시 적었습니다. 진행할 의사를 보내 주세요"
+    },
+    "label": 0,
+    "kind": "quoted-offer"
+  },
+  {
+    "id": "compositional-4428",
+    "input": {
+      "target": "이곳에서유료로공급할것은불법자격시험대리응시입니다.이용할분의요청을기다립니다.신청할분은연락을남겨주세요.",
+      "context": "소통 화면"
+    },
+    "label": 0,
+    "kind": "direct"
+  },
+  {
+    "id": "rehearsal-cycle2-train-2182",
+    "group": "train-3fc16bb91695",
+    "kind": "ordinary-link",
+    "input": {
+      "target": "참가비를 보내세요",
+      "context": "게시글 보기\n앞 문맥: 화면 읽기 프로그램에서 이동 메뉴를 확인하는 수업입니다.\n뒤 문맥: 공공 프로그램의 절차입니다."
+    },
+    "label": 2
+  },
+  {
+    "id": "compositional-120",
+    "input": {
+      "target": "여기서거래하는항목은허가없는약품의불법유통입니다.구매의뢰를접수합니다.계정에주문의사를적어주세요.",
+      "context": "질문 보기"
+    },
+    "label": 0,
+    "kind": "direct"
+  },
+  {
+    "id": "rehearsal-cycle2-train-1294",
+    "group": "train-6514cf29a47c",
+    "kind": "ordinary-context",
+    "input": {
+      "target": "주민들이 물품을 기부하는 장터가 열립니다.",
+      "context": "뒤 문맥: 온라인 사기 피해의 상담 창구를 찾고 있습니다."
+    },
+    "label": 2
+  },
+  {
+    "id": "compositional-764",
+    "input": {
+      "target": "따뜻한바람",
+      "context": "질문 보기\n글의 시작: 작성자\n같은 글의 끝: 신규로 안내할 서비스는 도용한 개인정보의 불법 매매입니다. 구매 의뢰를 접수합니다. 유료로 이용할 분은 메시지를 남겨 주세요."
+    },
+    "label": 2,
+    "kind": "metadata"
+  },
+  {
+    "id": "nd90bb18a13c9a3",
+    "group": "train-3-4",
+    "split": "train",
+    "label": 3,
+    "input": {
+      "target": "진행할 분을 찾습니다. 무엇을 진행하는지에 관한 내용은 지금 제공하지 않겠습니다.",
+      "context": "게시글 보기\n뒤 문맥: 주민이 남긴 의견입니다."
+    }
+  },
+  {
+    "id": "nb3e411889c2a9c",
+    "group": "train-3-14",
+    "split": "train",
+    "label": 3,
+    "input": {
+      "target": "이용권을 드린다는 안내입니다. 무엇을 이용하는 권리인지 설명되지 않았습니다.",
+      "context": "주민 소통 글\n뒤 문맥: 주민이 남긴 의견입니다."
+    }
+  },
+  {
+    "id": "compositional-3943",
+    "input": {
+      "target": "신청서에서 오타를 발견해 수정본을 올립니다.",
+      "context": ""
+    },
+    "label": 2,
+    "kind": "ordinary"
+  },
+  {
+    "id": "compositional-1751",
+    "input": {
+      "target": "상담을 남겨 주세요",
+      "context": "주민 발언\n다른 댓글의 내용: 주민 증명 서류의 발급 창구를 안내합니다. 시험 대리 응시는 허용되지 않는다는 공지입니다.\n추가 설명이 빠져 있습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "rehearsal-cycle2-train-2512",
+    "group": "train-7826c528c1e7",
+    "kind": "direct",
+    "input": {
+      "target": "신분 증명서를 위조해 판매하니 구매 신청을 받습니다. 대금을 납부하세요.",
+      "context": "시민 참여"
+    },
+    "label": 0
+  },
+  {
+    "id": "compositional-3285",
+    "input": {
+      "target": "삭제된 댓글에 대해 이의 신청하는 절차를 문의합니다.",
+      "context": "문의와 답변\n관련 없는 글: 제가 받고 있는 의뢰는 불법 위조 졸업 서류입니다. 이용 대가를 받고 제공하겠습니다. 계정에 주문 의사를 적어 주세요.\n뒤 문맥: 영상 촬영 시에는 참여자의 동의를 먼저 확인합니다. 지역 문화 행사의 사진을 게시판에 올립니다. 화면 읽기 프로그램에서 이동 메뉴를 확인하는 수업입니다."
+    },
+    "label": 2,
+    "kind": "ordinary-neighbor"
+  },
+  {
+    "id": "rehearsal-cycle2-train-412",
+    "group": "train-12e18bc1a254",
+    "kind": "compact",
+    "input": {
+      "target": "무허가투견승부에돈을걸고객을모집합니다.신청양식을작성하세요.",
+      "context": "앞 문맥: 작성자"
+    },
+    "label": 0
+  },
+  {
+    "id": "compositional-480",
+    "input": {
+      "target": "제가 받고 있는 의뢰는 사설 바카라 도박 서비스입니다. 구매 의뢰를 접수합니다. 신청할 분은 연락을 남겨 주세요.",
+      "context": "상세 내용\n앞 게시물(다른 작성자): 공연 관람권의 예매 안내를 확인해 주세요. 지급받은 자료의 제목과 작성 날짜를 확인합니다. 박물관이 수집한 놀이 도구를 전시하고 있습니다."
+    },
+    "label": 0,
+    "kind": "direct"
+  },
+  {
+    "id": "n6eff8af98f8262",
+    "group": "train-0-0",
+    "split": "train",
+    "label": 0,
+    "input": {
+      "target": "동네 길 안내 고맙습니다. 덧붙여 제가 운영하는 사설 야구 배팅장 회원을 받고 있으니 돈 걸고 하실 분 연락 바랍니다.",
+      "context": "시민 참여\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "n405610dfc36a39",
+    "group": "train-3-1",
+    "split": "train",
+    "label": 3,
+    "input": {
+      "target": "신청 창은 있는데 상품 이름이나 이용 목적 설명은 없습니다. 관심 있으면 연락만 주세요.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "compositional-2172",
+    "input": {
+      "target": "신규로안내할서비스는도용한개인정보의불법매매입니다.지금유상거래를진행합니다.진행할의사를보내주세요.",
+      "context": "다른 댓글의 내용: 장애인도 내용을 들을 수 있도록 버튼에 음성 설명을 제공합니다. 오늘 회의의 결정 내용을 문서로 공유합니다."
+    },
+    "label": 0,
+    "kind": "direct"
+  },
+  {
+    "id": "rehearsal-cycle2-train-25",
+    "group": "train-b665264a4c4d",
+    "kind": "insufficient",
+    "input": {
+      "target": "신청 양식을 작성하세요",
+      "context": "자유로운 소통\n등록 정보: 2025-05-06"
+    },
+    "label": 3
+  },
+  {
+    "id": "rehearsal-cycle2-train-4386",
+    "group": "train-f2466bb86f01",
+    "kind": "quoted-offer",
+    "input": {
+      "target": "“비동의 성인 촬영물의 유료 열람권을 판매합니다. 계정을 등록하세요.”",
+      "context": "열린 게시판\n앞 문맥: 제 영업 안내를 다시 인용합니다.\n뒤 문맥: 저에게 신청하세요."
+    },
+    "label": 0
+  },
+  {
+    "id": "rehearsal-cycle2-train-2817",
+    "group": "train-cd8b7861cbf7",
+    "kind": "short-link",
+    "input": {
+      "target": "신청 양식을 작성하세요",
+      "context": "답변 보기\n앞 문맥: 불법 성인 촬영본을 비용을 낸 구매자에게 배송합니다"
+    },
+    "label": 0
+  },
+  {
+    "id": "compositional-3727",
+    "input": {
+      "target": "시험 대리 응시는 허용되지 않는다는 공지입니다. 확률과 기대값을 배우는 수학 학습지입니다. 불법 도박이 공동체에 미치는 영향을 토론합니다.",
+      "context": ""
+    },
+    "label": 2,
+    "kind": "ordinary"
+  },
+  {
+    "id": "compositional-2336",
+    "input": {
+      "target": "고요한숲",
+      "context": "시민 게시판\n글의 시작: 작성자\n뒤 문맥: 제가 받고 있는 의뢰는 불법 촬영 성인 자료 이용권입니다. 유료 이용을 원하는 고객을 받습니다. 구매하려면 접수해 주세요."
+    },
+    "label": 2,
+    "kind": "metadata"
+  },
+  {
+    "id": "nefdadacf7c5cf3",
+    "group": "train-3-14",
+    "split": "train",
+    "label": 3,
+    "input": {
+      "target": "이용권을 드린다는 안내입니다. 무엇을 이용하는 권리인지 설명되지 않았습니다.",
+      "context": "열린 게시판\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "nd7ac1799a71313",
+    "group": "train-1-3",
+    "split": "train",
+    "label": 1,
+    "input": {
+      "target": "상담 기록에는 당첨금을 보내려면 먼저 돈을 넣으라는 연락이 적혀 있습니다. 상담사가 그 요구를 거절하도록 설명했습니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "compositional-1555",
+    "input": {
+      "target": "시험 대리 응시는 허용되지 않는다는 공지입니다.",
+      "context": ""
+    },
+    "label": 2,
+    "kind": "ordinary"
+  },
+  {
+    "id": "compositional-2430",
+    "input": {
+      "target": "“신규로 안내할 서비스는 몰래 촬영된 성인물 복제본입니다. 구매 의뢰를 접수합니다. 신청할 분은 연락을 남겨 주세요.”",
+      "context": "소통 화면\n같은 작성자의 설명: 피해 방지 차원에서 적발된 제안을 옮겨 적습니다. 판매를 중개하려는 목적이 아닙니다.\n앞 게시물(다른 작성자): 신청할 분은 연락을 남겨 주세요"
+    },
+    "label": 1,
+    "kind": "quoted-prevention"
+  },
+  {
+    "id": "compositional-1783",
+    "input": {
+      "target": "주차장 공사가 끝나면 이용을 재개합니다. 삭제된 댓글에 대해 이의 신청하는 절차를 문의합니다. 메뉴의 투명도가 바뀌는 애니메이션을 실습합니다.",
+      "context": "열린 게시판"
+    },
+    "label": 2,
+    "kind": "ordinary"
+  },
+  {
+    "id": "rehearsal-cycle2-train-4102",
+    "group": "train-b77b9f1a3e79",
+    "kind": "ordinary-link",
+    "input": {
+      "target": "쪽지로 신청하세요",
+      "context": "시민 제안 상세\n앞 문맥: 키보드만으로 화면을 조작하는 방법을 설명합니다.\n뒤 문맥: 공공 프로그램의 절차입니다."
+    },
+    "label": 2
+  },
+  {
+    "id": "compositional-479",
+    "input": {
+      "target": "신청을 남겨 주세요",
+      "context": "관련 없는 글: 행사 날짜가 변경되면 주민에게 다시 알려 드리겠습니다. 그림이 표시되지 않아 게시 내용을 읽기 어렵습니다. 학교에서 개인정보 보호를 주제로 토론합니다.\n추가 설명이 빠져 있습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "compositional-4744",
+    "input": {
+      "target": "이곳에서 유료로 공급할 것은 동의 없이 촬영된 성인 영상입니다. 구매 의뢰를 접수합니다. 신청할 분은 연락을 남겨 주세요.",
+      "context": "상세 내용\n앞 문맥: 삭제 대상 표현을 교육 자료에 실었습니다. 연결을 안내하는 곳이 아닙니다."
+    },
+    "label": 1,
+    "kind": "prevention"
+  },
+  {
+    "id": "nfdadaab8aa4e50",
+    "group": "train-0-7",
+    "split": "train",
+    "label": 0,
+    "input": {
+      "target": "제 연락처로 주문 남기세요. 피해자 동의 없이 촬영한 성인 영상 원본을 판매 중입니다.",
+      "context": "열린 게시판"
+    }
+  },
+  {
+    "id": "nffe3427126f2b3",
+    "group": "train-2-8",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "공영 주차장 기계에 현금을 냈는데 표가 안 나왔습니다. 영수증 없이도 결제 기록을 확인할 수 있나요?",
+      "context": "주민 소통 글\n뒤 문맥: 주민이 남긴 의견입니다."
+    }
+  },
+  {
+    "id": "compositional-468",
+    "input": {
+      "target": "이곳에서 유료로 공급할 것은 불법 현금 슬롯 게임입니다. 대금을 낸 분에게 공급합니다. 연결된 창구로 이용을 요청하세요.",
+      "context": ""
+    },
+    "label": 0,
+    "kind": "direct"
+  },
+  {
+    "id": "compositional-410",
+    "input": {
+      "target": "“제가 받고 있는 의뢰는 사설 스포츠 베팅 계정입니다. 구매 의뢰를 접수합니다. 계정에 주문 의사를 적어 주세요.”",
+      "context": "참여 게시글\n글의 시작: 제가 판매하는 내용이라 다시 적었습니다. 계정에 주문 의사를 적어 주세요"
+    },
+    "label": 0,
+    "kind": "quoted-offer"
+  },
+  {
+    "id": "compositional-4785",
+    "input": {
+      "target": "행사 날짜가 변경되면 주민에게 다시 알려 드리겠습니다.",
+      "context": "게시글 보기\n관련 없는 글: 여기서 거래하는 항목은 다른 사람 대신 치르는 시험 응시입니다. 지금 유상 거래를 진행합니다. 진행할 의사를 보내 주세요.\n뒤 문맥: 한글을 이루는 자음과 모음을 공부하는 자료입니다."
+    },
+    "label": 2,
+    "kind": "ordinary-neighbor"
+  },
+  {
+    "id": "compositional-3905",
+    "input": {
+      "target": "단속 기록에 나온 모집 문장을 살펴보는 중입니다. 현재 글쓴이는 판매자가 아닙니다. 「제가 받고 있는 의뢰는 의사 자격 없는 불법 의료 시술입니다. 대금을 낸 분에게 공급합니다. 참여를 원하면 접수 창을 열어 주세요.」",
+      "context": "문의와 답변"
+    },
+    "label": 1,
+    "kind": "warning-target"
+  },
+  {
+    "id": "compositional-4119",
+    "input": {
+      "target": "제가 받고 있는 의뢰는 사설 승부 예측 도박입니다. 돈을 받고 제공하고 있습니다. 연결된 창구로 이용을 요청하세요.",
+      "context": "앞 게시물(다른 작성자): 잘못된 광고의 양상을 설명하려고 원문을 제시합니다. 판매를 중개하려는 목적이 아닙니다.\n같은 글의 끝: 제 거래에 참가할 분을 받습니다."
+    },
+    "label": 0,
+    "kind": "neighbor-warning"
+  },
+  {
+    "id": "rehearsal-cycle2-train-3100",
+    "group": "train-63cd2812879e",
+    "kind": "compact",
+    "input": {
+      "target": "무허가투견승부에돈을걸고객을모집합니다.연결주소로접수하세요.",
+      "context": "자유로운 소통\n앞 문맥: 작성자"
+    },
+    "label": 0
+  },
+  {
+    "id": "nfcf3ec6f7806be",
+    "group": "train-0-7",
+    "split": "train",
+    "label": 0,
+    "input": {
+      "target": "제 연락처로 주문 남기세요. 피해자 동의 없이 촬영한 성인 영상 원본을 판매 중입니다.",
+      "context": "게시글 보기\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "ncb19bc30729231",
+    "group": "train-0-10",
+    "split": "train",
+    "label": 0,
+    "input": {
+      "target": "저는 온라인 도박 테이블 모집 담당입니다. 칩을 현금으로 바꾸실 고객에게 가입창 드려요.",
+      "context": "주민 소통 글\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "rehearsal-cycle2-train-278",
+    "group": "train-316b055c4f85",
+    "kind": "ordinary-link",
+    "input": {
+      "target": "계정을 등록하세요",
+      "context": "앞 문맥: 스포츠 경기 결과를 통계 수업의 예제로 분석합니다.\n뒤 문맥: 공공 프로그램의 절차입니다."
+    },
+    "label": 2
+  },
+  {
+    "id": "compositional-1522",
+    "input": {
+      "target": "진행 안내",
+      "context": "소통 화면\n이 문구 외에 어떤 것을 신청하는지 나타난 자료가 없습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "compositional-561",
+    "input": {
+      "target": "한글을 이루는 자음과 모음을 공부하는 자료입니다.",
+      "context": "시민 참여\n앞 게시물(다른 작성자): 현재 접수하는 서비스는 동의 없이 촬영된 성인 영상입니다. 유료 이용을 원하는 고객을 받습니다. 계정에 주문 의사를 적어 주세요.\n같은 글의 끝: 영상 촬영 시에는 참여자의 동의를 먼저 확인합니다. 도서관은 이번 주에 서가 배치를 바꾸고 있습니다. 주차장 공사가 끝나면 이용을 재개합니다."
+    },
+    "label": 2,
+    "kind": "ordinary-neighbor"
+  },
+  {
+    "id": "compositional-4874",
+    "input": {
+      "target": "“제가 제공하는 것은 비인가 경륜 도박방입니다. 지금 유상 거래를 진행합니다. 계정에 주문 의사를 적어 주세요.”",
+      "context": "상세 내용\n같은 작성자의 설명: 제가 판매하는 내용이라 다시 적었습니다. 계정에 주문 의사를 적어 주세요"
+    },
+    "label": 0,
+    "kind": "quoted-offer"
+  },
+  {
+    "id": "compositional-556",
+    "input": {
+      "target": "제가 제공하는 것은 판돈을 받는 사설 룰렛입니다. 돈을 받고 제공하고 있습니다. 구매하려면 접수해 주세요.",
+      "context": "앞 문맥: 삭제 대상 표현을 교육 자료에 실었습니다. 연결을 안내하는 곳이 아닙니다."
+    },
+    "label": 1,
+    "kind": "prevention"
+  },
+  {
+    "id": "compositional-5531",
+    "input": {
+      "target": "신청하실 분",
+      "context": "열린 공간\n다른 댓글의 내용: 제가 제공하는 것은 위조 신분 증명 문서입니다. 이용할 분의 요청을 기다립니다. 진행할 의사를 보내 주세요.\n현재 선택한 항목의 제공 대상은 확인되지 않습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "nbb9a3a8af024d3",
+    "group": "train-0-15",
+    "split": "train",
+    "label": 0,
+    "input": {
+      "target": "원하시면 성인 피해 촬영물 저장본을 팔겠습니다. 당사자의 공개 허락을 받은 자료는 아닙니다.",
+      "context": "열린 게시판\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "n6f4bd9d41c071c",
+    "group": "train-1-15",
+    "split": "train",
+    "label": 1,
+    "input": {
+      "target": "전시된 화면은 카지노 광고에 속은 사람의 진술 자료입니다. 전시실에서는 광고 서비스를 신청할 수 없습니다.",
+      "context": "주민 소통 글\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "compositional-4742",
+    "input": {
+      "target": "“제가 받고 있는 의뢰는 불법 현금 슬롯 게임입니다. 돈을 받고 제공하고 있습니다. 신청할 분은 연락을 남겨 주세요.”",
+      "context": "앞 문맥: 제가 판매하는 내용이라 다시 적었습니다. 신청할 분은 연락을 남겨 주세요"
+    },
+    "label": 0,
+    "kind": "quoted-offer"
+  },
+  {
+    "id": "compositional-4870",
+    "input": {
+      "target": "상담하실 분",
+      "context": "소통 화면\n관련 없는 글: 신청서에서 오타를 발견해 수정본을 올립니다. 삭제된 댓글에 대해 이의 신청하는 절차를 문의합니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "compositional-325",
+    "input": {
+      "target": "신청을 남겨 주세요",
+      "context": "열린 게시판\n같은 작성자의 설명: 현재 접수하는 서비스는 피해자 허락 없는 성인 기록 파일입니다. 구매 의뢰를 접수합니다. 참여를 원하면 접수 창을 열어 주세요."
+    },
+    "label": 0,
+    "kind": "short-link"
+  },
+  {
+    "id": "compositional-5073",
+    "input": {
+      "target": "그림이 표시되지 않아 게시 내용을 읽기 어렵습니다.",
+      "context": "문의와 답변\n앞 게시물(다른 작성자): 제가 받고 있는 의뢰는 불법 현금 슬롯 게임입니다. 지금 유상 거래를 진행합니다. 참여를 원하면 접수 창을 열어 주세요.\n뒤 문맥: 공공 강좌의 준비물은 각 강좌 안내에 나와 있습니다. 체육 모임은 금전 내기를 하지 않고 친목을 나눕니다. 응급 상황을 가정한 안전 훈련을 실시합니다."
+    },
+    "label": 2,
+    "kind": "ordinary-neighbor"
+  },
+  {
+    "id": "compositional-671",
+    "input": {
+      "target": "접수 요청",
+      "context": "관련 없는 글: 확률과 기대값을 배우는 수학 학습지입니다.\n추가 설명이 빠져 있습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "compositional-3434",
+    "input": {
+      "target": "“이곳에서 유료로 공급할 것은 불법 위조 졸업 서류입니다. 이용할 분의 요청을 기다립니다. 연결된 창구로 이용을 요청하세요.”",
+      "context": "참여 게시글\n같은 작성자의 설명: 제가 판매하는 내용이라 다시 적었습니다. 연결된 창구로 이용을 요청하세요"
+    },
+    "label": 0,
+    "kind": "quoted-offer"
+  },
+  {
+    "id": "n81d90516f7be8c",
+    "group": "train-2-8",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "공영 주차장 기계에 현금을 냈는데 표가 안 나왔습니다. 영수증 없이도 결제 기록을 확인할 수 있나요?",
+      "context": "시민 참여\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "na066523697f5ff",
+    "group": "train-2-1",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "급하게 돈을 보내라고 해서 도박 사이트에 송금했습니다. 다시는 들어가지 않으려는데 상담 예약을 도와주세요.",
+      "context": "주민 소통 글\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "compositional-1673",
+    "input": {
+      "target": "삭제 대상 표현을 교육 자료에 실었습니다. 상품을 제공하는 게시글이 아닙니다. 「여기서 거래하는 항목은 몰래 촬영된 성인물 복제본입니다. 유료 이용을 원하는 고객을 받습니다. 진행할 의사를 보내 주세요.」",
+      "context": ""
+    },
+    "label": 1,
+    "kind": "warning-target"
+  },
+  {
+    "id": "compositional-5486",
+    "input": {
+      "target": "“여기서 거래하는 항목은 비동의 성인 사생활 녹화본입니다. 돈을 받고 제공하고 있습니다. 연결된 창구로 이용을 요청하세요.”",
+      "context": "열린 공간\n같은 작성자의 설명: 제가 판매하는 내용이라 다시 적었습니다. 연결된 창구로 이용을 요청하세요"
+    },
+    "label": 0,
+    "kind": "quoted-offer"
+  },
+  {
+    "id": "compositional-5867",
+    "input": {
+      "target": "상담하실 분",
+      "context": "게시글 보기\n관련 없는 글: 여기서 거래하는 항목은 비인가 경륜 도박방입니다. 지금 유상 거래를 진행합니다. 계정에 주문 의사를 적어 주세요.\n현재 선택한 항목의 제공 대상은 확인되지 않습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "compositional-2573",
+    "input": {
+      "target": "수사 자료에서 문제된 게시물을 인용했습니다. 연결을 안내하는 곳이 아닙니다. 「현재 접수하는 서비스는 불법 현금 슬롯 게임입니다. 대금을 낸 분에게 공급합니다. 유료로 이용할 분은 메시지를 남겨 주세요.」",
+      "context": "소통 화면"
+    },
+    "label": 1,
+    "kind": "warning-target"
+  },
+  {
+    "id": "compositional-1955",
+    "input": {
+      "target": "연락을 남겨 주세요",
+      "context": "관련 없는 글: 제가 제공하는 것은 사설 승부 예측 도박입니다. 구매 의뢰를 접수합니다. 진행할 의사를 보내 주세요.\n현재 선택한 항목의 제공 대상은 확인되지 않습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "compositional-2175",
+    "input": {
+      "target": "현재 접수하는 서비스는 불법 자격 시험 대리 응시입니다. 이용할 분의 요청을 기다립니다. 참여를 원하면 접수 창을 열어 주세요.",
+      "context": "시민 게시판\n관련 없는 글: 단속 기록에 나온 모집 문장을 살펴보는 중입니다. 연결을 안내하는 곳이 아닙니다.\n이어서: 제 거래에 참가할 분을 받습니다."
+    },
+    "label": 0,
+    "kind": "neighbor-warning"
+  },
+  {
+    "id": "n17578f95dd8595",
+    "group": "train-2-6",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "도박 출금이 된다며 신분증을 보냈습니다. 개인정보를 회수하려면 어디에 연락해야 하나요?",
+      "context": "시민 참여\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "ndb6a2be68b13a3",
+    "group": "train-3-10",
+    "split": "train",
+    "label": 3,
+    "input": {
+      "target": "이 글에서는 신청 방법만 말하겠습니다. 어떤 서비스를 신청하는지는 나중에 밝힙니다.",
+      "context": "주민 소통 글\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "compositional-2590",
+    "input": {
+      "target": "연락 안내",
+      "context": "이 문구 외에 어떤 것을 신청하는지 나타난 자료가 없습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "rehearsal-cycle2-train-2613",
+    "group": "train-35083aabea4d",
+    "kind": "ordinary-neighbor",
+    "input": {
+      "target": "한글을​ 이루는​ 자음과​ 모음을​ 공부하는​ 자료입니다.",
+      "context": "답변 보기\n다른 이용자의 글: 의료 자격 없이 불법 시술을 제공하니 유료 예약을 받습니다. 링크에서 진행하세요."
+    },
+    "label": 2
+  },
+  {
+    "id": "rehearsal-cycle2-train-1457",
+    "group": "train-f9ac99866006",
+    "kind": "short-link",
+    "input": {
+      "target": "주문을 전달하세요",
+      "context": "열린 게시판\n앞 문맥: 신분 증명서를 위조해 판매하니 구매 신청을 받습니다"
+    },
+    "label": 0
+  },
+  {
+    "id": "rehearsal-cycle2-train-3441",
+    "group": "train-7341d395ea91",
+    "kind": "short-link",
+    "input": {
+      "target": "가입 메시지를 주세요",
+      "context": "주민 의견 게시판\n앞 문맥: 불법 바카라 테이블에 입장할 고객을 모집합니다"
+    },
+    "label": 0
+  },
+  {
+    "id": "compositional-594",
+    "input": {
+      "target": "“제가 받고 있는 의뢰는 허가 없이 운영되는 복권 도박입니다. 이용 대가를 받고 제공하겠습니다. 유료로 이용할 분은 메시지를 남겨 주세요.”",
+      "context": "같은 글의 끝: 단속 기록에 나온 모집 문장을 살펴보는 중입니다. 연결을 안내하는 곳이 아닙니다.\n다른 댓글의 내용: 유료로 이용할 분은 메시지를 남겨 주세요"
+    },
+    "label": 1,
+    "kind": "quoted-prevention"
+  },
+  {
+    "id": "compositional-76",
+    "input": {
+      "target": "신규로 안내할 서비스는 판매 허가가 없는 불법 의약품입니다. 이용 대가를 받고 제공하겠습니다. 계정에 주문 의사를 적어 주세요.",
+      "context": "문의와 답변\n같은 작성자의 설명: 단속 기록에 나온 모집 문장을 살펴보는 중입니다. 이용하거나 돈을 보내지 마세요."
+    },
+    "label": 1,
+    "kind": "prevention"
+  },
+  {
+    "id": "n0ef289ddc799ec",
+    "group": "train-0-12",
+    "split": "train",
+    "label": 0,
+    "input": {
+      "target": "사진 속 행사는 끝났습니다. 이제 제 현금 포커방 참가자를 받으니 판돈 충전할 분 답장하세요.",
+      "context": "시민 참여"
+    }
+  },
+  {
+    "id": "n7f776f98609ed1",
+    "group": "train-0-9",
+    "split": "train",
+    "label": 0,
+    "input": {
+      "target": "추첨식 사설 게임에 돈 넣을 회원 받습니다. 당첨 번호에 따라 정산금을 계좌로 보내드립니다.",
+      "context": "주민 소통 글\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "compositional-4404",
+    "input": {
+      "target": "제가 받고 있는 의뢰는 면허 없이 진행하는 의료 행위입니다. 이용 대가를 받고 제공하겠습니다. 계정에 주문 의사를 적어 주세요.",
+      "context": "관련 없는 글: 영상 촬영 시에는 참여자의 동의를 먼저 확인합니다. 메뉴의 투명도가 바뀌는 애니메이션을 실습합니다."
+    },
+    "label": 0,
+    "kind": "direct"
+  },
+  {
+    "id": "compositional-1746",
+    "input": {
+      "target": "“여기서 거래하는 항목은 몰래 촬영된 성인물 복제본입니다. 대금을 낸 분에게 공급합니다. 구매하려면 접수해 주세요.”",
+      "context": "질문 보기\n글의 시작: 단속 기록에 나온 모집 문장을 살펴보는 중입니다. 이용하거나 돈을 보내지 마세요.\n관련 없는 글: 구매하려면 접수해 주세요"
+    },
+    "label": 1,
+    "kind": "quoted-prevention"
+  },
+  {
+    "id": "compositional-4144",
+    "input": {
+      "target": "현재 접수하는 서비스는 불법 온라인 카드 내기입니다. 대금을 낸 분에게 공급합니다. 계정에 주문 의사를 적어 주세요.",
+      "context": "게시글 보기\n뒤 문맥: 거래 피해를 막기 위한 설명에서 가져온 사례입니다. 이 제안에 응하면 안 됩니다."
+    },
+    "label": 1,
+    "kind": "prevention"
+  },
+  {
+    "id": "compositional-2172",
+    "input": {
+      "target": "신규로안내할서비스는도용한개인정보의불법매매입니다.지금유상거래를진행합니다.진행할의사를보내주세요.",
+      "context": "주민 발언\n다른 댓글의 내용: 장애인도 내용을 들을 수 있도록 버튼에 음성 설명을 제공합니다. 오늘 회의의 결정 내용을 문서로 공유합니다."
+    },
+    "label": 0,
+    "kind": "direct"
+  },
+  {
+    "id": "compositional-1085",
+    "input": {
+      "target": "신고된 제안이 어떤 말인지 시민에게 알려 드립니다. 여기서는 가입을 받지 않습니다. 「현재 접수하는 서비스는 사설 스포츠 베팅 계정입니다. 구매 의뢰를 접수합니다. 연결된 창구로 이용을 요청하세요.」",
+      "context": ""
+    },
+    "label": 1,
+    "kind": "warning-target"
+  },
+  {
+    "id": "rehearsal-cycle2-train-247",
+    "group": "train-20832e52a542",
+    "kind": "metadata",
+    "input": {
+      "target": "1098",
+      "context": "시민 제안 상세\n앞 문맥: 조회 횟수\n다른 항목: 불법 성인 촬영본을 비용을 낸 구매자에게 배송합니다. 참가비를 보내세요."
+    },
+    "label": 2
+  },
+  {
+    "id": "n742b477ca3afb9",
+    "group": "train-1-15",
+    "split": "train",
+    "label": 1,
+    "input": {
+      "target": "전시된 화면은 카지노 광고에 속은 사람의 진술 자료입니다. 전시실에서는 광고 서비스를 신청할 수 없습니다.",
+      "context": "시민 참여\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "n1dbfb7c2359919",
+    "group": "train-2-15",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "이 버튼은 화면 읽기 프로그램에서 다음 항목으로 이동하는 기능입니다.",
+      "context": "주민 소통 글\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "compositional-2334",
+    "input": {
+      "target": "“현재 접수하는 서비스는 불법 촬영 성인 자료 이용권입니다. 유료 이용을 원하는 고객을 받습니다. 거래할 분의 상담을 받습니다.”",
+      "context": "같은 작성자의 설명: 수사 자료에서 문제된 게시물을 인용했습니다. 판매를 중개하려는 목적이 아닙니다.\n관련 없는 글: 거래할 분의 상담을 받습니다"
+    },
+    "label": 1,
+    "kind": "quoted-prevention"
+  },
+  {
+    "id": "compositional-1292",
+    "input": {
+      "target": "고요한숲",
+      "context": "참여 게시글\n글의 시작: 작성자\n뒤 문맥: 신규로 안내할 서비스는 유료 면접 대리 참가입니다. 유료 이용을 원하는 고객을 받습니다. 신청할 분은 연락을 남겨 주세요."
+    },
+    "label": 2,
+    "kind": "metadata"
+  },
+  {
+    "id": "compositional-3589",
+    "input": {
+      "target": "진행하실 분",
+      "context": "열린 게시판\n본문: 신규로 안내할 서비스는 허가 없이 운영되는 복권 도박입니다. 구매 의뢰를 접수합니다. 유료로 이용할 분은 메시지를 남겨 주세요."
+    },
+    "label": 0,
+    "kind": "short-link"
+  },
+  {
+    "id": "rehearsal-cycle2-train-4096",
+    "group": "train-2f3f17f1998c",
+    "kind": "direct",
+    "input": {
+      "target": "시험을 대신 치러 드리는 불법 대리 응시의 비용을 받습니다. 상담을 남기세요.",
+      "context": "주민 의견 게시판"
+    },
+    "label": 0
+  },
+  {
+    "id": "compositional-4450",
+    "input": {
+      "target": "연락 요청",
+      "context": "이 문구 외에 어떤 것을 신청하는지 나타난 자료가 없습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "compositional-5763",
+    "input": {
+      "target": "제가받고있는의뢰는불법촬영성인자료이용권입니다.비용을낼신청자를찾고있습니다.거래할분의상담을받습니다.",
+      "context": "상세 내용\n앞 게시물(다른 작성자): 당사자가 거절한 모집 메시지를 기록으로 남깁니다. 여기서는 가입을 받지 않습니다.\n이어서: 제 거래에 참가할 분을 받습니다."
+    },
+    "label": 0,
+    "kind": "neighbor-warning"
+  },
+  {
+    "id": "n788b6332c40baa",
+    "group": "train-0-1",
+    "split": "train",
+    "label": 0,
+    "input": {
+      "target": "비 때문에 집에 계시면 저희 온라인 룰렛으로 오세요. 현금 칩 사서 참여하고 남은 금액은 다시 돈으로 드립니다.",
+      "context": "시민 참여\n뒤 문맥: 주민이 남긴 의견입니다."
+    }
+  },
+  {
+    "id": "n17578f95dd8595",
+    "group": "train-2-6",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "도박 출금이 된다며 신분증을 보냈습니다. 개인정보를 회수하려면 어디에 연락해야 하나요?",
+      "context": "주민 소통 글\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "rehearsal-cycle2-train-2779",
+    "group": "train-991917d5fe57",
+    "kind": "quoted-prevention",
+    "input": {
+      "target": "“허가 없는 슬롯 게임에 현금을 충전할 분을 찾습니다. 연결 주소로 접수하세요.”",
+      "context": "앞 문맥: 신고 접수된 원문을 증거로 보관합니다. 이용하지 마세요\n다른 답글: 연결 주소로 접수하세요"
+    },
+    "label": 1
+  },
+  {
+    "id": "compositional-5434",
+    "input": {
+      "target": "진행 요청",
+      "context": "시민 게시판\n다른 댓글의 내용: 시험 대리 응시는 허용되지 않는다는 공지입니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "compositional-848",
+    "input": {
+      "target": "2023.08.24",
+      "context": "게시글 보기\n본문: 등록일\n이어서: 신규로 안내할 서비스는 불법 온라인 카드 내기입니다. 유료 이용을 원하는 고객을 받습니다. 거래할 분의 상담을 받습니다."
+    },
+    "label": 2,
+    "kind": "metadata"
+  },
+  {
+    "id": "rehearsal-cycle2-train-2698",
+    "group": "train-eba024bd6982",
+    "kind": "neighbor-warning",
+    "input": {
+      "target": "사설​ 경륜​ 도박방​ 참가자의​ 충전을​ 받습니다.​ 상담을​ 남기세요.",
+      "context": "답변 보기\n다른 댓글: 이런 게시물을 보면 신고해 주세요. 실제 판매글이 아닙니다\n현재 작성자: 제가 접수를 받습니다."
+    },
+    "label": 0
+  },
+  {
+    "id": "rehearsal-cycle2-train-1480",
+    "group": "train-e78b507146f3",
+    "kind": "ordinary-context",
+    "input": {
+      "target": "글자​ 색과​ 배경의​ 명도​ 차이를​ 비교하는​ 디자인​ 연습입니다.",
+      "context": "앞 문맥: 신청한 민원 처리 상태를 조회하고 싶습니다."
+    },
+    "label": 2
+  },
+  {
+    "id": "compositional-1100",
+    "input": {
+      "target": "2024.04.15",
+      "context": "질문 보기\n본문: 등록일\n뒤 문맥: 제가 받고 있는 의뢰는 불법 위조 졸업 서류입니다. 대금을 낸 분에게 공급합니다. 연결된 창구로 이용을 요청하세요."
+    },
+    "label": 2,
+    "kind": "metadata"
+  },
+  {
+    "id": "nf7b23f58c1edf0",
+    "group": "train-0-13",
+    "split": "train",
+    "label": 0,
+    "input": {
+      "target": "글이 길어졌네요. 마지막으로 몰래 찍힌 성인 영상의 구매자를 찾습니다. 돈 받고 보내드립니다.",
+      "context": "게시글 보기\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "nd7ac1799a71313",
+    "group": "train-1-3",
+    "split": "train",
+    "label": 1,
+    "input": {
+      "target": "상담 기록에는 당첨금을 보내려면 먼저 돈을 넣으라는 연락이 적혀 있습니다. 상담사가 그 요구를 거절하도록 설명했습니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "compositional-2231",
+    "input": {
+      "target": "연락하실 분",
+      "context": "앞 게시물(다른 작성자): 여기서 거래하는 항목은 가짜 경력 확인서입니다. 이용할 분의 요청을 기다립니다. 계정에 주문 의사를 적어 주세요.\n현재 선택한 항목의 제공 대상은 확인되지 않습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "compositional-2308",
+    "input": {
+      "target": "현재 접수하는 서비스는 몰래 촬영된 성인물 복제본입니다. 이용할 분의 요청을 기다립니다. 신청할 분은 연락을 남겨 주세요.",
+      "context": "시민 게시판\n이어서: 당사자가 거절한 모집 메시지를 기록으로 남깁니다. 이 제안에 응하면 안 됩니다."
+    },
+    "label": 1,
+    "kind": "prevention"
+  },
+  {
+    "id": "compositional-4954",
+    "input": {
+      "target": "연락을 남겨 주세요",
+      "context": "열린 게시판\n다른 댓글의 내용: 체육 모임은 금전 내기를 하지 않고 친목을 나눕니다. 시청 누리집의 오류 화면을 제보합니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "compositional-1725",
+    "input": {
+      "target": "담당 부서를 찾지 못해 연락처를 문의합니다.",
+      "context": "질문 보기\n관련 없는 글: 현재 접수하는 서비스는 불법 자격 시험 대리 응시입니다. 유료 이용을 원하는 고객을 받습니다. 참여를 원하면 접수 창을 열어 주세요.\n이어서: 주민들이 물품을 기부하는 장터가 열립니다. 온라인 사기 피해의 상담 창구를 찾고 있습니다. 담당 부서를 찾지 못해 연락처를 문의합니다."
+    },
+    "label": 2,
+    "kind": "ordinary-neighbor"
+  },
+  {
+    "id": "compositional-5878",
+    "input": {
+      "target": "연락하실 분",
+      "context": "다른 댓글의 내용: 신청서에서 오타를 발견해 수정본을 올립니다. 안내 문서의 영문 철자를 고치는 편집 활동입니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "compositional-2808",
+    "input": {
+      "target": "여기서거래하는항목은허가없이운영되는복권도박입니다.대금을낸분에게공급합니다.참여를원하면접수창을열어주세요.",
+      "context": "소통 화면"
+    },
+    "label": 0,
+    "kind": "direct"
+  },
+  {
+    "id": "nf6b3115a7efa04",
+    "group": "train-2-1",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "급하게 돈을 보내라고 해서 도박 사이트에 송금했습니다. 다시는 들어가지 않으려는데 상담 예약을 도와주세요.",
+      "context": "열린 게시판"
+    }
+  },
+  {
+    "id": "nb2040a6c4054fa",
+    "group": "train-3-14",
+    "split": "train",
+    "label": 3,
+    "input": {
+      "target": "이용권을 드린다는 안내입니다. 무엇을 이용하는 권리인지 설명되지 않았습니다.",
+      "context": "주민 소통 글\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "compositional-2057",
+    "input": {
+      "target": "피해 방지 차원에서 적발된 제안을 옮겨 적습니다. 현재 글쓴이는 판매자가 아닙니다. 「제가 제공하는 것은 현금을 거는 무허가 경주 게임입니다. 대금을 낸 분에게 공급합니다. 거래할 분의 상담을 받습니다.」",
+      "context": ""
+    },
+    "label": 1,
+    "kind": "warning-target"
+  },
+  {
+    "id": "rehearsal-cycle2-train-4433",
+    "group": "train-4b6c82d41335",
+    "kind": "short-link",
+    "input": {
+      "target": "대금을 납부하세요",
+      "context": "답변 보기\n앞 문맥: 의료 자격 없이 불법 시술을 제공하니 유료 예약을 받습니다"
+    },
+    "label": 0
+  },
+  {
+    "id": "rehearsal-cycle2-train-4259",
+    "group": "train-e0116e6b22c6",
+    "kind": "prevention",
+    "input": {
+      "target": "동의 없이 찍은 성인 영상 모음을 유료로 공유합니다. 링크에서 진행하세요.",
+      "context": "시민 참여\n뒤 문맥: 신고 접수된 원문을 증거로 보관합니다. 이용하지 마세요"
+    },
+    "label": 1
+  },
+  {
+    "id": "rehearsal-cycle2-train-2173",
+    "group": "train-566e9933b0ef",
+    "kind": "warning-target",
+    "input": {
+      "target": "이런 게시물을 보면 신고해 주세요. 실제 판매글이 아닙니다 「위조 졸업 증서를 돈 받고 제작해 드립니다. 거래 의사를 알려 주세요.」",
+      "context": "주민 의견 게시판"
+    },
+    "label": 1
+  },
+  {
+    "id": "compositional-416",
+    "input": {
+      "target": "2022.07.05",
+      "context": "글의 시작: 등록일\n이어서: 신규로 안내할 서비스는 면허 없이 진행하는 의료 행위입니다. 구매 의뢰를 접수합니다. 구매하려면 접수해 주세요."
+    },
+    "label": 2,
+    "kind": "metadata"
+  },
+  {
+    "id": "compositional-756",
+    "input": {
+      "target": "제가 받고 있는 의뢰는 의사 자격 없는 불법 의료 시술입니다. 지금 유상 거래를 진행합니다. 진행할 의사를 보내 주세요.",
+      "context": "질문 보기"
+    },
+    "label": 0,
+    "kind": "direct"
+  },
+  {
+    "id": "nb33be06418d628",
+    "group": "train-2-3",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "현금 게임을 그만두겠다고 했는데 연락이 옵니다. 연락을 끊고 채무 상담을 받으려 합니다.",
+      "context": "게시글 보기\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "n3c2d5f5272bcf0",
+    "group": "train-0-5",
+    "split": "train",
+    "label": 0,
+    "input": {
+      "target": "가게 쉬는 날에 같이 하죠. 제가 소개하는 사설 카지노는 예치금을 걸고 딴 칩을 현금으로 찾는 곳입니다.",
+      "context": "주민 소통 글\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "compositional-29",
+    "input": {
+      "target": "단속 기록에 나온 모집 문장을 살펴보는 중입니다. 구매 신청을 권유하지 않습니다. 「이곳에서 유료로 공급할 것은 불법 현금 슬롯 게임입니다. 유료 이용을 원하는 고객을 받습니다. 연결된 창구로 이용을 요청하세요.」",
+      "context": ""
+    },
+    "label": 1,
+    "kind": "warning-target"
+  },
+  {
+    "id": "compositional-2732",
+    "input": {
+      "target": "2022.04.10",
+      "context": "주민 발언\n같은 작성자의 설명: 등록일\n이어서: 현재 접수하는 서비스는 허가 없는 도박방 이용권입니다. 유료 이용을 원하는 고객을 받습니다. 신청할 분은 연락을 남겨 주세요."
+    },
+    "label": 2,
+    "kind": "metadata"
+  },
+  {
+    "id": "rehearsal-rehearsal-ref_a5be8975816e3f07",
+    "group": "train-new-4-1",
+    "input": {
+      "target": "등록 날짜",
+      "context": "열린 게시판\n[대상 위치] 게시물 정보 항목"
+    },
+    "label": 2,
+    "source": "new-contrastive",
+    "family": 4,
+    "role": 6,
+    "kind": "rehearsal"
+  },
+  {
+    "id": "compositional-1071",
+    "input": {
+      "target": "이곳에서유료로공급할것은현금을거는무허가경주게임입니다.대금을낸분에게공급합니다.계정에주문의사를적어주세요.",
+      "context": "상세 내용\n관련 없는 글: 방송의 범죄 예방 해설에서 해당 발언을 소개합니다. 상품을 제공하는 게시글이 아닙니다.\n이어서: 제 거래에 참가할 분을 받습니다."
+    },
+    "label": 0,
+    "kind": "neighbor-warning"
+  },
+  {
+    "id": "compositional-5219",
+    "input": {
+      "target": "연락 안내",
+      "context": "앞 게시물(다른 작성자): 그림이 표시되지 않아 게시 내용을 읽기 어렵습니다.\n추가 설명이 빠져 있습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "compositional-2145",
+    "input": {
+      "target": "영상 촬영 시에는 참여자의 동의를 먼저 확인합니다.",
+      "context": "소통 화면\n앞 게시물(다른 작성자): 제가 제공하는 것은 몰래 촬영된 성인물 복제본입니다. 비용을 낼 신청자를 찾고 있습니다. 계정에 주문 의사를 적어 주세요.\n뒤 문맥: 신청한 민원 처리 상태를 조회하고 싶습니다."
+    },
+    "label": 2,
+    "kind": "ordinary-neighbor"
+  },
+  {
+    "id": "n3edd614a202098",
+    "group": "train-3-8",
+    "split": "train",
+    "label": 3,
+    "input": {
+      "target": "가입할 사람은 답장하세요. 가입 목적을 설명하는 본문은 아직 작성하지 않았습니다.",
+      "context": "열린 게시판\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "nd8dcb8eb5d9273",
+    "group": "train-3-6",
+    "split": "train",
+    "label": 3,
+    "input": {
+      "target": "이용 신청을 받지만 서비스 명칭은 추후 알린다고 합니다. 현재는 신청 안내만 있습니다.",
+      "context": "주민 소통 글\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "compositional-4594",
+    "input": {
+      "target": "신청 바랍니다",
+      "context": "이 문구 외에 어떤 것을 신청하는지 나타난 자료가 없습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "compositional-79",
+    "input": {
+      "target": "신청한 민원 처리 상태를 조회하고 싶습니다. 도서관은 이번 주에 서가 배치를 바꾸고 있습니다.",
+      "context": "열린 공간\n다른 댓글의 내용: 여기서 거래하는 항목은 동의 없이 촬영된 성인 영상입니다. 구매 의뢰를 접수합니다. 계정에 주문 의사를 적어 주세요."
+    },
+    "label": 2,
+    "kind": "ordinary"
+  },
+  {
+    "id": "compositional-916",
+    "input": {
+      "target": "제가 받고 있는 의뢰는 피해자 허락 없는 성인 기록 파일입니다. 지금 유상 거래를 진행합니다. 거래할 분의 상담을 받습니다.",
+      "context": "게시글 보기\n같은 작성자의 설명: 거래 피해를 막기 위한 설명에서 가져온 사례입니다. 현재 글쓴이는 판매자가 아닙니다."
+    },
+    "label": 1,
+    "kind": "prevention"
+  },
+  {
+    "id": "compositional-616",
+    "input": {
+      "target": "여기서 거래하는 항목은 가짜 경력 확인서입니다. 구매 의뢰를 접수합니다. 구매하려면 접수해 주세요.",
+      "context": "주민 발언\n같은 글의 끝: 삭제 대상 표현을 교육 자료에 실었습니다. 이용하거나 돈을 보내지 마세요."
+    },
+    "label": 1,
+    "kind": "prevention"
+  },
+  {
+    "id": "rehearsal-rehearsal-ref_17b43247611d12c3",
+    "group": "train-new-0-10",
+    "input": {
+      "target": "게시판 번호",
+      "context": "[대상 위치] 게시물 정보 항목"
+    },
+    "label": 2,
+    "source": "new-contrastive",
+    "family": 0,
+    "role": 6,
+    "kind": "rehearsal"
+  },
+  {
+    "id": "rehearsal-cycle2-train-226",
+    "group": "train-69cc9d073100",
+    "kind": "quoted-offer",
+    "input": {
+      "target": "“불법 바카라 테이블에 입장할 고객을 모집합니다. 연결 주소로 접수하세요.”",
+      "context": "시민 제안 상세\n앞 문맥: 제 영업 안내를 다시 인용합니다.\n뒤 문맥: 저에게 신청하세요."
+    },
+    "label": 0
+  },
+  {
+    "id": "nc00619b20a1436",
+    "group": "train-0-4",
+    "split": "train",
+    "label": 0,
+    "input": {
+      "target": "앞부분 교통 건의는 여기까지입니다. 아래에는 제가 파는 비동의 성인 촬영물 이용권 신청창을 남깁니다.",
+      "context": "시민 참여\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "n1dbfb7c2359919",
+    "group": "train-2-15",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "이 버튼은 화면 읽기 프로그램에서 다음 항목으로 이동하는 기능입니다.",
+      "context": "주민 소통 글\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "compositional-4771",
+    "input": {
+      "target": "다음 답변이 등록되면 안내를 받겠습니다. 시청 누리집의 오류 화면을 제보합니다. 신청한 민원 처리 상태를 조회하고 싶습니다.",
+      "context": ""
+    },
+    "label": 2,
+    "kind": "ordinary"
+  },
+  {
+    "id": "compositional-4526",
+    "input": {
+      "target": "“신규로 안내할 서비스는 가짜 경력 확인서입니다. 비용을 낼 신청자를 찾고 있습니다. 참여를 원하면 접수 창을 열어 주세요.”",
+      "context": "소통 화면\n본문: 제가 판매하는 내용이라 다시 적었습니다. 참여를 원하면 접수 창을 열어 주세요"
+    },
+    "label": 0,
+    "kind": "quoted-offer"
+  },
+  {
+    "id": "compositional-1213",
+    "input": {
+      "target": "상담하실 분",
+      "context": "시민 참여\n글의 시작: 제가 받고 있는 의뢰는 비인가 경륜 도박방입니다. 이용할 분의 요청을 기다립니다. 연결된 창구로 이용을 요청하세요."
+    },
+    "label": 0,
+    "kind": "short-link"
+  },
+  {
+    "id": "compositional-3520",
+    "input": {
+      "target": "제가 받고 있는 의뢰는 불법 자격 시험 대리 응시입니다. 돈을 받고 제공하고 있습니다. 진행할 의사를 보내 주세요.",
+      "context": "소통 화면\n글의 시작: 피해 방지 차원에서 적발된 제안을 옮겨 적습니다. 이용하거나 돈을 보내지 마세요."
+    },
+    "label": 1,
+    "kind": "prevention"
+  },
+  {
+    "id": "compositional-1044",
+    "input": {
+      "target": "신규로 안내할 서비스는 불법 위조 졸업 서류입니다. 유료 이용을 원하는 고객을 받습니다. 신청할 분은 연락을 남겨 주세요.",
+      "context": ""
+    },
+    "label": 0,
+    "kind": "direct"
+  },
+  {
+    "id": "compositional-342",
+    "input": {
+      "target": "“여기서 거래하는 항목은 불법 위조 졸업 서류입니다. 구매 의뢰를 접수합니다. 연결된 창구로 이용을 요청하세요.”",
+      "context": "참여 게시글\n이어서: 잘못된 광고의 양상을 설명하려고 원문을 제시합니다. 판매를 중개하려는 목적이 아닙니다.\n관련 없는 글: 연결된 창구로 이용을 요청하세요"
+    },
+    "label": 1,
+    "kind": "quoted-prevention"
+  },
+  {
+    "id": "nebedb5e4140bf8",
+    "group": "train-0-5",
+    "split": "train",
+    "label": 0,
+    "input": {
+      "target": "가게 쉬는 날에 같이 하죠. 제가 소개하는 사설 카지노는 예치금을 걸고 딴 칩을 현금으로 찾는 곳입니다.",
+      "context": "열린 게시판\n뒤 문맥: 주민이 남긴 의견입니다."
+    }
+  },
+  {
+    "id": "nbab27a40710756",
+    "group": "train-2-13",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "카드 게임 확률을 배우는 모임을 도서관에서 엽니다. 참가비도 없고 실제 돈은 사용하지 않습니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "compositional-1720",
+    "input": {
+      "target": "이곳에서 유료로 공급할 것은 불법 자격 시험 대리 응시입니다. 이용 대가를 받고 제공하겠습니다. 진행할 의사를 보내 주세요.",
+      "context": "본문: 잘못된 광고의 양상을 설명하려고 원문을 제시합니다. 이 제안에 응하면 안 됩니다."
+    },
+    "label": 1,
+    "kind": "prevention"
+  },
+  {
+    "id": "compositional-5587",
+    "input": {
+      "target": "한글을 이루는 자음과 모음을 공부하는 자료입니다. 공공 강좌의 준비물은 각 강좌 안내에 나와 있습니다. 그림이 표시되지 않아 게시 내용을 읽기 어렵습니다.",
+      "context": "주민 발언\n관련 없는 글: 신규로 안내할 서비스는 불법 온라인 카드 내기입니다. 대금을 낸 분에게 공급합니다. 연결된 창구로 이용을 요청하세요."
+    },
+    "label": 2,
+    "kind": "ordinary"
+  },
+  {
+    "id": "compositional-2044",
+    "input": {
+      "target": "신규로 안내할 서비스는 허가 없는 약품의 불법 유통입니다. 이용 대가를 받고 제공하겠습니다. 구매하려면 접수해 주세요.",
+      "context": "시민 참여\n본문: 신고된 제안이 어떤 말인지 시민에게 알려 드립니다. 상품을 제공하는 게시글이 아닙니다."
+    },
+    "label": 1,
+    "kind": "prevention"
+  },
+  {
+    "id": "compositional-5463",
+    "input": {
+      "target": "제가 받고 있는 의뢰는 가짜 경력 확인서입니다. 돈을 받고 제공하고 있습니다. 진행할 의사를 보내 주세요.",
+      "context": "질문 보기\n다른 댓글의 내용: 당사자가 거절한 모집 메시지를 기록으로 남깁니다. 구매 신청을 권유하지 않습니다.\n뒤 문맥: 제 거래에 참가할 분을 받습니다."
+    },
+    "label": 0,
+    "kind": "neighbor-warning"
+  },
+  {
+    "id": "compositional-842",
+    "input": {
+      "target": "“제가제공하는것은유출된개인명부의유상거래입니다.이용할분의요청을기다립니다.연결된창구로이용을요청하세요.”",
+      "context": "같은 작성자의 설명: 제가 판매하는 내용이라 다시 적었습니다. 연결된 창구로 이용을 요청하세요"
+    },
+    "label": 0,
+    "kind": "quoted-offer"
+  },
+  {
+    "id": "compositional-2897",
+    "input": {
+      "target": "수사 자료에서 문제된 게시물을 인용했습니다. 연결을 안내하는 곳이 아닙니다. 「신규로 안내할 서비스는 판매 허가가 없는 불법 의약품입니다. 이용 대가를 받고 제공하겠습니다. 연결된 창구로 이용을 요청하세요.」",
+      "context": "주민 발언"
+    },
+    "label": 1,
+    "kind": "warning-target"
+  },
+  {
+    "id": "nd7ac1799a71313",
+    "group": "train-1-3",
+    "split": "train",
+    "label": 1,
+    "input": {
+      "target": "상담 기록에는 당첨금을 보내려면 먼저 돈을 넣으라는 연락이 적혀 있습니다. 상담사가 그 요구를 거절하도록 설명했습니다.",
+      "context": "시민 참여"
+    }
+  },
+  {
+    "id": "n0f48b37efda103",
+    "group": "train-1-14",
+    "split": "train",
+    "label": 1,
+    "input": {
+      "target": "사설 회차게임의 현금 정산을 미끼로 한 피해를 취재했습니다. 제보자는 보낸 돈을 돌려받지 못했다고 말했습니다.",
+      "context": "주민 소통 글\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "rehearsal-cycle2-train-4552",
+    "group": "train-06af2ddcc9c4",
+    "kind": "ordinary-context",
+    "input": {
+      "target": "주민 증명 서류의 발급 창구를 안내합니다.",
+      "context": "앞 문맥: 학교에서 개인정보 보호를 주제로 토론합니다."
+    },
+    "label": 2
+  },
+  {
+    "id": "compositional-1331",
+    "input": {
+      "target": "연락 방법",
+      "context": "질문 보기\n관련 없는 글: 이곳에서 유료로 공급할 것은 판매 허가가 없는 불법 의약품입니다. 유료 이용을 원하는 고객을 받습니다. 거래할 분의 상담을 받습니다.\n현재 선택한 항목의 제공 대상은 확인되지 않습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "rehearsal-cycle2-train-770",
+    "group": "train-0985186b25b4",
+    "kind": "quoted-offer",
+    "input": {
+      "target": "“불법​ 촬영​ 성인​ 영상​ 파일을​ 결제한​ 사람에게​ 보내드립니다.​ 참가비를​ 보내세요.”",
+      "context": "게시글 보기\n앞 문맥: 제 영업 안내를 다시 인용합니다.\n뒤 문맥: 저에게 신청하세요."
+    },
+    "label": 0
+  },
+  {
+    "id": "rehearsal-cycle2-train-3515",
+    "group": "train-25dd83d473e9",
+    "kind": "quoted-prevention",
+    "input": {
+      "target": "“비동의​ 성인​ 촬영물의​ 유료​ 열람권을​ 판매합니다.​ 계정을​ 등록하세요.”",
+      "context": "주민 의견 게시판\n앞 문맥: 피해자가 받은 메시지를 기록합니다. 거래를 중개하지 않습니다\n다른 답글: 계정을 등록하세요"
+    },
+    "label": 1
+  },
+  {
+    "id": "rehearsal-cycle2-train-4254",
+    "group": "train-5ec7359ff51d",
+    "kind": "ordinary-context",
+    "input": {
+      "target": "주민들이 물품을 기부하는 장터가 열립니다.",
+      "context": "뒤 문맥: 영상 촬영 시에는 참여자의 동의를 먼저 확인합니다."
+    },
+    "label": 2
+  },
+  {
+    "id": "compositional-1450",
+    "input": {
+      "target": "상담하실 분",
+      "context": "열린 공간\n관련 없는 글: 확률과 기대값을 배우는 수학 학습지입니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "nbe6b490a3a88b1",
+    "group": "train-1-6",
+    "split": "train",
+    "label": 1,
+    "input": {
+      "target": "시민교육 자료에 현금 카지노 가입 권유 화면을 실었습니다. 가입 버튼은 없애고 피해 사례만 설명합니다.",
+      "context": "열린 게시판"
+    }
+  },
+  {
+    "id": "n90d24508bf3ef1",
+    "group": "train-2-10",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "청소년 회관 수강료를 돌려받을 계좌를 등록하려 합니다. 보호자 명의여도 되나요?",
+      "context": "주민 소통 글\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "rehearsal-cycle2-train-1726",
+    "group": "train-6faf97d8044b",
+    "kind": "ordinary-context",
+    "input": {
+      "target": "학교에서 개인정보 보호를 주제로 토론합니다.",
+      "context": "뒤 문맥: 체육 모임은 금전 내기를 하지 않고 친목을 나눕니다."
+    },
+    "label": 2
+  },
+  {
+    "id": "rehearsal-cycle2-train-862",
+    "group": "train-34a60045261a",
+    "kind": "ordinary-context",
+    "input": {
+      "target": "주민 설명회의 장소가 바뀌었다고 들었는데 확인 부탁드립니다.",
+      "context": "자유로운 소통\n뒤 문맥: 도서관은 이번 주에 서가 배치를 바꾸고 있습니다."
+    },
+    "label": 2
+  },
+  {
+    "id": "compositional-3372",
+    "input": {
+      "target": "제가 제공하는 것은 현금을 거는 무허가 경주 게임입니다. 이용 대가를 받고 제공하겠습니다. 연결된 창구로 이용을 요청하세요.",
+      "context": "게시글 보기"
+    },
+    "label": 0,
+    "kind": "direct"
+  },
+  {
+    "id": "rehearsal-cycle2-train-2756",
+    "group": "train-9e104eca3fd5",
+    "kind": "ordinary",
+    "input": {
+      "target": "키보드만으로​ 화면을​ 조작하는​ 방법을​ 설명합니다.",
+      "context": "답변 보기"
+    },
+    "label": 2
+  },
+  {
+    "id": "compositional-5487",
+    "input": {
+      "target": "제가 제공하는 것은 위조 신분 증명 문서입니다. 이용 대가를 받고 제공하겠습니다. 진행할 의사를 보내 주세요.",
+      "context": "관련 없는 글: 신고된 제안이 어떤 말인지 시민에게 알려 드립니다. 이용하거나 돈을 보내지 마세요.\n이어서: 제 거래에 참가할 분을 받습니다."
+    },
+    "label": 0,
+    "kind": "neighbor-warning"
+  },
+  {
+    "id": "rehearsal-cycle2-train-2277",
+    "group": "train-4143c09a5e19",
+    "kind": "ordinary-neighbor",
+    "input": {
+      "target": "장애인도 내용을 들을 수 있도록 버튼에 음성 설명을 제공합니다.",
+      "context": "주민 의견 게시판\n다른 이용자의 글: 불법 바카라 테이블에 입장할 고객을 모집합니다. 계정을 등록하세요."
+    },
+    "label": 2
+  },
+  {
+    "id": "nf3700d3f7d1d9a",
+    "group": "train-2-2",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "제가 성인일 때 몰래 찍힌 영상이 거래되고 있습니다. 판매 글을 내릴 수 있게 지원받고 싶습니다.",
+      "context": "시민 참여\n뒤 문맥: 주민이 남긴 의견입니다."
+    }
+  },
+  {
+    "id": "ne0c730d24e369d",
+    "group": "train-1-4",
+    "split": "train",
+    "label": 1,
+    "input": {
+      "target": "지난 회의에서 성인 피해 영상을 판다는 게시글을 증거 목록에 넣었습니다. 파일이나 구매 경로는 공개하지 않았습니다.",
+      "context": "주민 소통 글\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "rehearsal-cycle2-train-3948",
+    "group": "train-a315bdb47f37",
+    "kind": "compact",
+    "input": {
+      "target": "사설경륜도박방참가자의충전을받습니다.신청양식을작성하세요.",
+      "context": "앞 문맥: 작성자"
+    },
+    "label": 0
+  },
+  {
+    "id": "compositional-5744",
+    "input": {
+      "target": "8675",
+      "context": "시민 게시판\n앞 문맥: 열람 수\n뒤 문맥: 이곳에서 유료로 공급할 것은 사설 바카라 도박 서비스입니다. 비용을 낼 신청자를 찾고 있습니다. 거래할 분의 상담을 받습니다."
+    },
+    "label": 2,
+    "kind": "metadata"
+  },
+  {
+    "id": "compositional-885",
+    "input": {
+      "target": "온라인 사기 피해의 상담 창구를 찾고 있습니다.",
+      "context": "게시글 보기\n앞 게시물(다른 작성자): 제가 받고 있는 의뢰는 불법 온라인 카드 내기입니다. 유료 이용을 원하는 고객을 받습니다. 연결된 창구로 이용을 요청하세요.\n같은 글의 끝: 그림이 표시되지 않아 게시 내용을 읽기 어렵습니다. 시험 대리 응시는 허용되지 않는다는 공지입니다. HTML 태그가 어떻게 문서의 구조를 나타내는지 배웁니다."
+    },
+    "label": 2,
+    "kind": "ordinary-neighbor"
+  },
+  {
+    "id": "compositional-3133",
+    "input": {
+      "target": "신청 안내",
+      "context": "시민 게시판\n같은 작성자의 설명: 현재 접수하는 서비스는 사설 바카라 도박 서비스입니다. 대금을 낸 분에게 공급합니다. 유료로 이용할 분은 메시지를 남겨 주세요."
+    },
+    "label": 0,
+    "kind": "short-link"
+  },
+  {
+    "id": "rehearsal-cycle2-train-3779",
+    "group": "train-bc9198f0225c",
+    "kind": "prevention",
+    "input": {
+      "target": "무허가​ 룰렛​ 게임에서​ 현금​ 내기를​ 할​ 손님을​ 받습니다.​ 주문을​ 전달하세요.",
+      "context": "뒤 문맥: 신고 접수된 원문을 증거로 보관합니다. 이용하지 마세요"
+    },
+    "label": 1
+  },
+  {
+    "id": "compositional-317",
+    "input": {
+      "target": "방송의 범죄 예방 해설에서 해당 발언을 소개합니다. 여기서는 가입을 받지 않습니다. 「신규로 안내할 서비스는 가짜 경력 확인서입니다. 구매 의뢰를 접수합니다. 참여를 원하면 접수 창을 열어 주세요.」",
+      "context": "상세 내용"
+    },
+    "label": 1,
+    "kind": "warning-target"
+  },
+  {
+    "id": "n2f2105839b3568",
+    "group": "train-1-9",
+    "split": "train",
+    "label": 1,
+    "input": {
+      "target": "수사 발표에 나온 온라인 포커방은 칩을 돈으로 바꿔줬다고 합니다. 해당 영업의 적발 경위를 알리는 기사입니다.",
+      "context": "게시글 보기\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "n2ae77389ddb37e",
+    "group": "train-3-10",
+    "split": "train",
+    "label": 3,
+    "input": {
+      "target": "이 글에서는 신청 방법만 말하겠습니다. 어떤 서비스를 신청하는지는 나중에 밝힙니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "compositional-2864",
+    "input": {
+      "target": "겨울바다",
+      "context": "글의 시작: 작성자\n같은 글의 끝: 이곳에서 유료로 공급할 것은 다른 사람 대신 치르는 시험 응시입니다. 유료 이용을 원하는 고객을 받습니다. 연결된 창구로 이용을 요청하세요."
+    },
+    "label": 2,
+    "kind": "metadata"
+  },
+  {
+    "id": "compositional-2500",
+    "input": {
+      "target": "제가 받고 있는 의뢰는 도용한 개인정보의 불법 매매입니다. 구매 의뢰를 접수합니다. 구매하려면 접수해 주세요.",
+      "context": "참여 게시글\n글의 시작: 당사자가 거절한 모집 메시지를 기록으로 남깁니다. 상품을 제공하는 게시글이 아닙니다."
+    },
+    "label": 1,
+    "kind": "prevention"
+  },
+  {
+    "id": "rehearsal-cycle2-train-3092",
+    "group": "train-34f6cce04d0b",
+    "kind": "ordinary",
+    "input": {
+      "target": "영상​ 촬영​ 시에는​ 참여자의​ 동의를​ 먼저​ 확인합니다.",
+      "context": "게시글 보기"
+    },
+    "label": 2
+  },
+  {
+    "id": "rehearsal-cycle2-train-462",
+    "group": "train-60f9d33480a1",
+    "kind": "ordinary-context",
+    "input": {
+      "target": "신청한​ 민원​ 처리​ 상태를​ 조회하고​ 싶습니다.",
+      "context": "시민 제안 상세\n뒤 문맥: 수업에서 문자 조합 방식에 따른 표시 차이를 관찰합니다."
+    },
+    "label": 2
+  },
+  {
+    "id": "rehearsal-cycle2-train-944",
+    "group": "train-b8bbbb3d0e61",
+    "kind": "direct",
+    "input": {
+      "target": "현금을​ 걸고​ 즐기는​ 사설​ 마작방의​ 회원을​ 받습니다.​ 거래​ 의사를​ 알려​ 주세요.",
+      "context": ""
+    },
+    "label": 0
+  },
+  {
+    "id": "compositional-1864",
+    "input": {
+      "target": "현재 접수하는 서비스는 허가 없이 운영되는 복권 도박입니다. 이용 대가를 받고 제공하겠습니다. 유료로 이용할 분은 메시지를 남겨 주세요.",
+      "context": "소통 화면\n뒤 문맥: 삭제 대상 표현을 교육 자료에 실었습니다. 이 제안에 응하면 안 됩니다."
+    },
+    "label": 1,
+    "kind": "prevention"
+  },
+  {
+    "id": "n5a8f8df838ad7a",
+    "group": "train-1-8",
+    "split": "train",
+    "label": 1,
+    "input": {
+      "target": "유출 성인 영상을 구독하라는 메시지를 받았다는 증언입니다. 기록자는 판매자가 아니라 피해 상담 담당자입니다.",
+      "context": "시민 참여\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "ne06867a79c26f3",
+    "group": "train-3-3",
+    "split": "train",
+    "label": 3,
+    "input": {
+      "target": "추가 설명 없이 이용자를 받는다고만 적었습니다. 대상 서비스가 무엇인지는 아직 밝히지 않았습니다.",
+      "context": "주민 소통 글\n뒤 문맥: 주민이 남긴 의견입니다."
+    }
+  },
+  {
+    "id": "compositional-2689",
+    "input": {
+      "target": "진행 바랍니다",
+      "context": "본문: 제가 받고 있는 의뢰는 불법 현금 슬롯 게임입니다. 비용을 낼 신청자를 찾고 있습니다. 진행할 의사를 보내 주세요."
+    },
+    "label": 0,
+    "kind": "short-link"
+  },
+  {
+    "id": "compositional-2282",
+    "input": {
+      "target": "“제가 제공하는 것은 가짜 경력 확인서입니다. 구매 의뢰를 접수합니다. 유료로 이용할 분은 메시지를 남겨 주세요.”",
+      "context": "상세 내용\n본문: 제가 판매하는 내용이라 다시 적었습니다. 유료로 이용할 분은 메시지를 남겨 주세요"
+    },
+    "label": 0,
+    "kind": "quoted-offer"
+  },
+  {
+    "id": "rehearsal-cycle2-train-2510",
+    "group": "train-5482b642f20b",
+    "kind": "ordinary-context",
+    "input": {
+      "target": "공공​ 강좌의​ 준비물은​ 각​ 강좌​ 안내에​ 나와​ 있습니다.",
+      "context": "시민 참여\n뒤 문맥: 한글을 이루는 자음과 모음을 공부하는 자료입니다."
+    },
+    "label": 2
+  },
+  {
+    "id": "compositional-568",
+    "input": {
+      "target": "이곳에서 유료로 공급할 것은 현금을 거는 무허가 경주 게임입니다. 비용을 낼 신청자를 찾고 있습니다. 신청할 분은 연락을 남겨 주세요.",
+      "context": "문의와 답변\n본문: 잘못된 광고의 양상을 설명하려고 원문을 제시합니다. 여기서는 가입을 받지 않습니다."
+    },
+    "label": 1,
+    "kind": "prevention"
+  },
+  {
+    "id": "rehearsal-cycle2-train-992",
+    "group": "train-0646e277cfdf",
+    "kind": "direct",
+    "input": {
+      "target": "허가​ 없는​ 슬롯​ 게임에​ 현금을​ 충전할​ 분을​ 찾습니다.​ 계정을​ 등록하세요.",
+      "context": ""
+    },
+    "label": 0
+  },
+  {
+    "id": "rehearsal-cycle2-train-3770",
+    "group": "train-98d1b00b7388",
+    "kind": "neighbor-warning",
+    "input": {
+      "target": "유출된 성인 사생활 영상을 돈 받고 전송합니다. 상담을 남기세요.",
+      "context": "자유로운 소통\n다른 댓글: 단속 교육에서 적발 표현을 설명합니다. 돈을 보내지 마세요\n현재 작성자: 제가 접수를 받습니다."
+    },
+    "label": 0
+  },
+  {
+    "id": "ne06867a79c26f3",
+    "group": "train-3-3",
+    "split": "train",
+    "label": 3,
+    "input": {
+      "target": "추가 설명 없이 이용자를 받는다고만 적었습니다. 대상 서비스가 무엇인지는 아직 밝히지 않았습니다.",
+      "context": "게시글 보기\n뒤 문맥: 주민이 남긴 의견입니다."
+    }
+  },
+  {
+    "id": "n64577922c4df13",
+    "group": "train-2-10",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "청소년 회관 수강료를 돌려받을 계좌를 등록하려 합니다. 보호자 명의여도 되나요?",
+      "context": "주민 소통 글\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "rehearsal-cycle2-train-965",
+    "group": "train-c71905dbcc6a",
+    "kind": "ordinary-neighbor",
+    "input": {
+      "target": "지급받은​ 자료의​ 제목과​ 작성​ 날짜를​ 확인합니다.",
+      "context": "다른 이용자의 글: 유출된 성인 사생활 영상을 돈 받고 전송합니다. 운영자에게 연락하세요."
+    },
+    "label": 2
+  },
+  {
+    "id": "compositional-226",
+    "input": {
+      "target": "진행을 남겨 주세요",
+      "context": "열린 공간\n관련 없는 글: 영상 촬영 시에는 참여자의 동의를 먼저 확인합니다. 메뉴의 투명도가 바뀌는 애니메이션을 실습합니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "compositional-944",
+    "input": {
+      "target": "별이뜨는밤",
+      "context": "열린 게시판\n앞 문맥: 작성자\n이어서: 신규로 안내할 서비스는 불법 위조 졸업 서류입니다. 이용 대가를 받고 제공하겠습니다. 참여를 원하면 접수 창을 열어 주세요."
+    },
+    "label": 2,
+    "kind": "metadata"
+  },
+  {
+    "id": "rehearsal-cycle2-train-4970",
+    "group": "train-05eaef4e3b88",
+    "kind": "neighbor-warning",
+    "input": {
+      "target": "신분 증명서를 위조해 판매하니 구매 신청을 받습니다. 연결 주소로 접수하세요.",
+      "context": "답변 보기\n다른 댓글: 신고 접수된 원문을 증거로 보관합니다. 이용하지 마세요\n현재 작성자: 제가 접수를 받습니다."
+    },
+    "label": 0
+  },
+  {
+    "id": "rehearsal-cycle2-train-907",
+    "group": "train-497490d37889",
+    "kind": "quoted-prevention",
+    "input": {
+      "target": "“불법​ 바카라​ 테이블에​ 입장할​ 고객을​ 모집합니다.​ 계정을​ 등록하세요.”",
+      "context": "앞 문맥: 이런 게시물을 보면 신고해 주세요. 실제 판매글이 아닙니다\n다른 답글: 계정을 등록하세요"
+    },
+    "label": 1
+  },
+  {
+    "id": "compositional-2139",
+    "input": {
+      "target": "이곳에서유료로공급할것은허가없는도박방이용권입니다.이용할분의요청을기다립니다.유료로이용할분은메시지를남겨주세요.",
+      "context": "문의와 답변\n앞 게시물(다른 작성자): 수사 자료에서 문제된 게시물을 인용했습니다. 이 제안에 응하면 안 됩니다.\n뒤 문맥: 제 거래에 참가할 분을 받습니다."
+    },
+    "label": 0,
+    "kind": "neighbor-warning"
+  },
+  {
+    "id": "nf6b3115a7efa04",
+    "group": "train-2-1",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "급하게 돈을 보내라고 해서 도박 사이트에 송금했습니다. 다시는 들어가지 않으려는데 상담 예약을 도와주세요.",
+      "context": "시민 참여"
+    }
+  },
+  {
+    "id": "nf1e882bb7558fc",
+    "group": "train-0-4",
+    "split": "train",
+    "label": 0,
+    "input": {
+      "target": "앞부분 교통 건의는 여기까지입니다. 아래에는 제가 파는 비동의 성인 촬영물 이용권 신청창을 남깁니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "compositional-888",
+    "input": {
+      "target": "여기서 거래하는 항목은 불법 위조 졸업 서류입니다. 이용 대가를 받고 제공하겠습니다. 구매하려면 접수해 주세요.",
+      "context": "관련 없는 글: 불법 도박이 공동체에 미치는 영향을 토론합니다. 주민 설명회의 장소가 바뀌었다고 들었는데 확인 부탁드립니다. 오늘 회의의 결정 내용을 문서로 공유합니다."
+    },
+    "label": 0,
+    "kind": "direct"
+  },
+  {
+    "id": "compositional-4887",
+    "input": {
+      "target": "이곳에서 유료로 공급할 것은 허가 없는 약품의 불법 유통입니다. 지금 유상 거래를 진행합니다. 거래할 분의 상담을 받습니다.",
+      "context": "질문 보기\n관련 없는 글: 잘못된 광고의 양상을 설명하려고 원문을 제시합니다. 이용하거나 돈을 보내지 마세요.\n같은 글의 끝: 제 거래에 참가할 분을 받습니다."
+    },
+    "label": 0,
+    "kind": "neighbor-warning"
+  },
+  {
+    "id": "compositional-3559",
+    "input": {
+      "target": "삭제된 댓글에 대해 이의 신청하는 절차를 문의합니다. 장애인도 내용을 들을 수 있도록 버튼에 음성 설명을 제공합니다.",
+      "context": "시민 참여"
+    },
+    "label": 2,
+    "kind": "ordinary"
+  },
+  {
+    "id": "compositional-2831",
+    "input": {
+      "target": "신청 요청",
+      "context": "주민 발언\n관련 없는 글: 제가 받고 있는 의뢰는 위조 신분 증명 문서입니다. 구매 의뢰를 접수합니다. 참여를 원하면 접수 창을 열어 주세요.\n현재 선택한 항목의 제공 대상은 확인되지 않습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "compositional-5968",
+    "input": {
+      "target": "제가 제공하는 것은 유출된 개인 명부의 유상 거래입니다. 구매 의뢰를 접수합니다. 진행할 의사를 보내 주세요.",
+      "context": "글의 시작: 수사 자료에서 문제된 게시물을 인용했습니다. 이 제안에 응하면 안 됩니다."
+    },
+    "label": 1,
+    "kind": "prevention"
+  },
+  {
+    "id": "rehearsal-cycle2-train-1617",
+    "group": "train-171ba74478e1",
+    "kind": "short-link",
+    "input": {
+      "target": "주문을​ 전달하세요",
+      "context": "자유로운 소통\n앞 문맥: 무허가 투견 승부에 돈을 걸 고객을 모집합니다"
+    },
+    "label": 0
+  },
+  {
+    "id": "n0ece1b079ac2ec",
+    "group": "train-0-14",
+    "split": "train",
+    "label": 0,
+    "input": {
+      "target": "주민 문의 답변은 읽었습니다. 제가 안내하는 사설 경주게임에 현금 걸고 싶으면 새 계정 신청하세요.",
+      "context": "시민 참여"
+    }
+  },
+  {
+    "id": "n4196aeccaf8605",
+    "group": "train-3-1",
+    "split": "train",
+    "label": 3,
+    "input": {
+      "target": "신청 창은 있는데 상품 이름이나 이용 목적 설명은 없습니다. 관심 있으면 연락만 주세요.",
+      "context": "주민 소통 글\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "rehearsal-cycle2-train-3859",
+    "group": "train-a1dfeeada278",
+    "kind": "prevention",
+    "input": {
+      "target": "시험을 대신 치러 드리는 불법 대리 응시의 비용을 받습니다. 참가비를 보내세요.",
+      "context": "뒤 문맥: 피해자가 받은 메시지를 기록합니다. 거래를 중개하지 않습니다"
+    },
+    "label": 1
+  },
+  {
+    "id": "compositional-4723",
+    "input": {
+      "target": "화면 가장자리 밖에 둔 설명도 보조 기술로 전달할 수 있습니다. HTML 태그가 어떻게 문서의 구조를 나타내는지 배웁니다.",
+      "context": "참여 게시글"
+    },
+    "label": 2,
+    "kind": "ordinary"
+  },
+  {
+    "id": "compositional-1557",
+    "input": {
+      "target": "시험 대리 응시는 허용되지 않는다는 공지입니다.",
+      "context": "게시글 보기\n앞 게시물(다른 작성자): 현재 접수하는 서비스는 유출된 개인 명부의 유상 거래입니다. 지금 유상 거래를 진행합니다. 진행할 의사를 보내 주세요.\n뒤 문맥: 온라인 사기 피해의 상담 창구를 찾고 있습니다. 글자 색과 배경의 명도 차이를 비교하는 디자인 연습입니다. 공공 강좌의 준비물은 각 강좌 안내에 나와 있습니다."
+    },
+    "label": 2,
+    "kind": "ordinary-neighbor"
+  },
+  {
+    "id": "compositional-2086",
+    "input": {
+      "target": "문의 바랍니다",
+      "context": "참여 게시글\n이 문구 외에 어떤 것을 신청하는지 나타난 자료가 없습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "compositional-363",
+    "input": {
+      "target": "여기서거래하는항목은몰래촬영된성인물복제본입니다.유료이용을원하는고객을받습니다.진행할의사를보내주세요.",
+      "context": "다른 댓글의 내용: 피해 방지 차원에서 적발된 제안을 옮겨 적습니다. 판매를 중개하려는 목적이 아닙니다.\n같은 글의 끝: 제 거래에 참가할 분을 받습니다."
+    },
+    "label": 0,
+    "kind": "neighbor-warning"
+  },
+  {
+    "id": "compositional-5806",
+    "input": {
+      "target": "신청 방법",
+      "context": "문의와 답변\n이 문구 외에 어떤 것을 신청하는지 나타난 자료가 없습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "nc6bdb7e833384c",
+    "group": "train-1-9",
+    "split": "train",
+    "label": 1,
+    "input": {
+      "target": "수사 발표에 나온 온라인 포커방은 칩을 돈으로 바꿔줬다고 합니다. 해당 영업의 적발 경위를 알리는 기사입니다.",
+      "context": "열린 게시판\n뒤 문맥: 주민이 남긴 의견입니다."
+    }
+  },
+  {
+    "id": "n3c280ba03310af",
+    "group": "train-2-14",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "행사 예약 확인서를 다시 발급받으려 합니다. 신청 내역이 지워진 것 같습니다.",
+      "context": "주민 소통 글\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "compositional-3533",
+    "input": {
+      "target": "단속 기록에 나온 모집 문장을 살펴보는 중입니다. 현재 글쓴이는 판매자가 아닙니다. 「제가 제공하는 것은 비인가 경륜 도박방입니다. 유료 이용을 원하는 고객을 받습니다. 신청할 분은 연락을 남겨 주세요.」",
+      "context": ""
+    },
+    "label": 1,
+    "kind": "warning-target"
+  },
+  {
+    "id": "compositional-573",
+    "input": {
+      "target": "키보드만으로 화면을 조작하는 방법을 설명합니다.",
+      "context": "상세 내용\n앞 게시물(다른 작성자): 현재 접수하는 서비스는 허가 없이 운영되는 복권 도박입니다. 돈을 받고 제공하고 있습니다. 구매하려면 접수해 주세요.\n뒤 문맥: 화면 가장자리 밖에 둔 설명도 보조 기술로 전달할 수 있습니다. 담당 부서를 찾지 못해 연락처를 문의합니다. 체육 모임은 금전 내기를 하지 않고 친목을 나눕니다."
+    },
+    "label": 2,
+    "kind": "ordinary-neighbor"
+  },
+  {
+    "id": "rehearsal-cycle2-train-2213",
+    "group": "train-b75845f00415",
+    "kind": "ordinary-neighbor",
+    "input": {
+      "target": "온라인​ 사기​ 피해의​ 상담​ 창구를​ 찾고​ 있습니다.",
+      "context": "시민 참여\n다른 이용자의 글: 불법 바카라 테이블에 입장할 고객을 모집합니다. 운영자에게 연락하세요."
+    },
+    "label": 2
+  },
+  {
+    "id": "compositional-5441",
+    "input": {
+      "target": "수사 자료에서 문제된 게시물을 인용했습니다. 판매를 중개하려는 목적이 아닙니다. 「신규로 안내할 서비스는 불법 유출 성인 동영상입니다. 이용 대가를 받고 제공하겠습니다. 신청할 분은 연락을 남겨 주세요.」",
+      "context": "시민 게시판"
+    },
+    "label": 1,
+    "kind": "warning-target"
+  },
+  {
+    "id": "rehearsal-rehearsal-ref_f02f759a38480c05",
+    "group": "train-new-0-1",
+    "input": {
+      "target": "진달래2 사설 홀짝 게임에 돈을 걸고 배당을 받으실 분. 가입 희망자는 운영자에게 연락 바랍니다.",
+      "context": ""
+    },
+    "label": 1,
+    "source": "new-contrastive",
+    "family": 0,
+    "role": 3,
+    "kind": "rehearsal"
+  },
+  {
+    "id": "compositional-2704",
+    "input": {
+      "target": "여기서 거래하는 항목은 현금을 거는 무허가 경주 게임입니다. 돈을 받고 제공하고 있습니다. 유료로 이용할 분은 메시지를 남겨 주세요.",
+      "context": "시민 게시판\n같은 글의 끝: 거래 피해를 막기 위한 설명에서 가져온 사례입니다. 현재 글쓴이는 판매자가 아닙니다."
+    },
+    "label": 1,
+    "kind": "prevention"
+  },
+  {
+    "id": "n3a30c4d6aabde2",
+    "group": "train-0-15",
+    "split": "train",
+    "label": 0,
+    "input": {
+      "target": "원하시면 성인 피해 촬영물 저장본을 팔겠습니다. 당사자의 공개 허락을 받은 자료는 아닙니다.",
+      "context": "열린 게시판"
+    }
+  },
+  {
+    "id": "n17578f95dd8595",
+    "group": "train-2-6",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "도박 출금이 된다며 신분증을 보냈습니다. 개인정보를 회수하려면 어디에 연락해야 하나요?",
+      "context": "주민 소통 글\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "compositional-4154",
+    "input": {
+      "target": "“제가 받고 있는 의뢰는 사설 스포츠 베팅 계정입니다. 구매 의뢰를 접수합니다. 참여를 원하면 접수 창을 열어 주세요.”",
+      "context": "글의 시작: 제가 판매하는 내용이라 다시 적었습니다. 참여를 원하면 접수 창을 열어 주세요"
+    },
+    "label": 0,
+    "kind": "quoted-offer"
+  },
+  {
+    "id": "compositional-2533",
+    "input": {
+      "target": "상담 안내",
+      "context": "소통 화면\n본문: 여기서 거래하는 항목은 판매 허가가 없는 불법 의약품입니다. 대금을 낸 분에게 공급합니다. 구매하려면 접수해 주세요."
+    },
+    "label": 0,
+    "kind": "short-link"
+  },
+  {
+    "id": "compositional-5463",
+    "input": {
+      "target": "제가 받고 있는 의뢰는 가짜 경력 확인서입니다. 돈을 받고 제공하고 있습니다. 진행할 의사를 보내 주세요.",
+      "context": "시민 참여\n다른 댓글의 내용: 당사자가 거절한 모집 메시지를 기록으로 남깁니다. 구매 신청을 권유하지 않습니다.\n뒤 문맥: 제 거래에 참가할 분을 받습니다."
+    },
+    "label": 0,
+    "kind": "neighbor-warning"
+  },
+  {
+    "id": "compositional-3345",
+    "input": {
+      "target": "불법 도박이 공동체에 미치는 영향을 토론합니다.",
+      "context": "질문 보기\n관련 없는 글: 제가 제공하는 것은 불법 현금 슬롯 게임입니다. 이용할 분의 요청을 기다립니다. 진행할 의사를 보내 주세요.\n이어서: 의료기관의 자격을 확인하는 방법을 배우는 교육입니다. 메뉴의 투명도가 바뀌는 애니메이션을 실습합니다. 다음 답변이 등록되면 안내를 받겠습니다."
+    },
+    "label": 2,
+    "kind": "ordinary-neighbor"
+  },
+  {
+    "id": "compositional-2672",
+    "input": {
+      "target": "따뜻한바람",
+      "context": "본문: 작성자\n같은 글의 끝: 이곳에서 유료로 공급할 것은 사설 스포츠 베팅 계정입니다. 지금 유상 거래를 진행합니다. 유료로 이용할 분은 메시지를 남겨 주세요."
+    },
+    "label": 2,
+    "kind": "metadata"
+  },
+  {
+    "id": "compositional-3296",
+    "input": {
+      "target": "따뜻한바람",
+      "context": "시민 게시판\n본문: 작성자\n같은 글의 끝: 신규로 안내할 서비스는 유출된 개인 명부의 유상 거래입니다. 유료 이용을 원하는 고객을 받습니다. 참여를 원하면 접수 창을 열어 주세요."
+    },
+    "label": 2,
+    "kind": "metadata"
+  },
+  {
+    "id": "n4241b19959cba5",
+    "group": "train-1-0",
+    "split": "train",
+    "label": 1,
+    "input": {
+      "target": "단체 채팅에 현금 슬롯 모집 문구가 붙었습니다. 제가 작성한 안내문이 아닌데 제 이름으로 돌아다녀 경위를 알립니다.",
+      "context": "게시글 보기\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "n5a8f8df838ad7a",
+    "group": "train-1-8",
+    "split": "train",
+    "label": 1,
+    "input": {
+      "target": "유출 성인 영상을 구독하라는 메시지를 받았다는 증언입니다. 기록자는 판매자가 아니라 피해 상담 담당자입니다.",
+      "context": "주민 소통 글\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "compositional-3444",
+    "input": {
+      "target": "신규로 안내할 서비스는 비인가 경륜 도박방입니다. 이용 대가를 받고 제공하겠습니다. 유료로 이용할 분은 메시지를 남겨 주세요.",
+      "context": ""
+    },
+    "label": 0,
+    "kind": "direct"
+  },
+  {
+    "id": "compositional-5447",
+    "input": {
+      "target": "접수 안내",
+      "context": "시민 게시판\n앞 게시물(다른 작성자): 여기서 거래하는 항목은 허가 없는 도박방 이용권입니다. 이용할 분의 요청을 기다립니다. 참여를 원하면 접수 창을 열어 주세요.\n현재 선택한 항목의 제공 대상은 확인되지 않습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "rehearsal-cycle2-train-4311",
+    "group": "train-44409c515407",
+    "kind": "metadata",
+    "input": {
+      "target": "새벽숲",
+      "context": "열린 게시판\n앞 문맥: 작성자\n다른 항목: 허가 없는 슬롯 게임에 현금을 충전할 분을 찾습니다. 계정을 등록하세요."
+    },
+    "label": 2
+  },
+  {
+    "id": "compositional-3105",
+    "input": {
+      "target": "글자 색과 배경의 명도 차이를 비교하는 디자인 연습입니다.",
+      "context": "문의와 답변\n앞 게시물(다른 작성자): 이곳에서 유료로 공급할 것은 도용한 개인정보의 불법 매매입니다. 돈을 받고 제공하고 있습니다. 진행할 의사를 보내 주세요.\n같은 글의 끝: 주민들이 물품을 기부하는 장터가 열립니다."
+    },
+    "label": 2,
+    "kind": "ordinary-neighbor"
+  },
+  {
+    "id": "compositional-5548",
+    "input": {
+      "target": "제가 제공하는 것은 비인가 경륜 도박방입니다. 돈을 받고 제공하고 있습니다. 참여를 원하면 접수 창을 열어 주세요.",
+      "context": "같은 글의 끝: 당사자가 거절한 모집 메시지를 기록으로 남깁니다. 현재 글쓴이는 판매자가 아닙니다."
+    },
+    "label": 1,
+    "kind": "prevention"
+  },
+  {
+    "id": "rehearsal-cycle2-train-3738",
+    "group": "train-7b3688374625",
+    "kind": "neighbor-warning",
+    "input": {
+      "target": "불법 성인 촬영본을 비용을 낸 구매자에게 배송합니다. 운영자에게 연락하세요.",
+      "context": "자유로운 소통\n다른 댓글: 피해 방지를 위해 원문을 제시합니다. 계좌 송금은 금지합니다\n현재 작성자: 제가 접수를 받습니다."
+    },
+    "label": 0
+  },
+  {
+    "id": "nca5296d5bfb051",
+    "group": "train-2-6",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "도박 출금이 된다며 신분증을 보냈습니다. 개인정보를 회수하려면 어디에 연락해야 하나요?",
+      "context": "시민 참여\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "n28545c419a9309",
+    "group": "train-3-3",
+    "split": "train",
+    "label": 3,
+    "input": {
+      "target": "추가 설명 없이 이용자를 받는다고만 적었습니다. 대상 서비스가 무엇인지는 아직 밝히지 않았습니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "compositional-4488",
+    "input": {
+      "target": "여기서 거래하는 항목은 동의 없이 촬영된 성인 영상입니다. 유료 이용을 원하는 고객을 받습니다. 유료로 이용할 분은 메시지를 남겨 주세요.",
+      "context": ""
+    },
+    "label": 0,
+    "kind": "direct"
+  },
+  {
+    "id": "rehearsal-cycle2-train-2695",
+    "group": "train-8d828c457e56",
+    "kind": "metadata",
+    "input": {
+      "target": "봄기운",
+      "context": "주민 의견 게시판\n앞 문맥: 작성자\n다른 항목: 불법 카드 내기방에서 현금 참가비를 받습니다. 상담을 남기세요."
+    },
+    "label": 2
+  },
+  {
+    "id": "compositional-3",
+    "input": {
+      "target": "이곳에서유료로공급할것은사설스포츠베팅계정입니다.이용할분의요청을기다립니다.연결된창구로이용을요청하세요.",
+      "context": "열린 게시판\n앞 게시물(다른 작성자): 피해 방지 차원에서 적발된 제안을 옮겨 적습니다. 현재 글쓴이는 판매자가 아닙니다.\n이어서: 제 거래에 참가할 분을 받습니다."
+    },
+    "label": 0,
+    "kind": "neighbor-warning"
+  },
+  {
+    "id": "compositional-2489",
+    "input": {
+      "target": "당사자가 거절한 모집 메시지를 기록으로 남깁니다. 상품을 제공하는 게시글이 아닙니다. 「제가 받고 있는 의뢰는 허가 없이 운영되는 복권 도박입니다. 대금을 낸 분에게 공급합니다. 신청할 분은 연락을 남겨 주세요.」",
+      "context": "주민 발언"
+    },
+    "label": 1,
+    "kind": "warning-target"
+  },
+  {
+    "id": "compositional-2350",
+    "input": {
+      "target": "진행 방법",
+      "context": "관련 없는 글: 시청 누리집의 오류 화면을 제보합니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "compositional-1721",
+    "input": {
+      "target": "게시판 관리 교육을 위해 증거 문구를 보존합니다. 현재 글쓴이는 판매자가 아닙니다. 「제가 제공하는 것은 면허 없이 진행하는 의료 행위입니다. 비용을 낼 신청자를 찾고 있습니다. 진행할 의사를 보내 주세요.」",
+      "context": "질문 보기"
+    },
+    "label": 1,
+    "kind": "warning-target"
+  },
+  {
+    "id": "nffc7010800af30",
+    "group": "train-2-9",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "교통카드 충전이 두 번 승인됐습니다. 시내버스 이용 내역에는 한 번만 나와 환불을 요청합니다.",
+      "context": "열린 게시판\n뒤 문맥: 주민이 남긴 의견입니다."
+    }
+  },
+  {
+    "id": "n2df06de1884b2d",
+    "group": "train-3-11",
+    "split": "train",
+    "label": 3,
+    "input": {
+      "target": "결제한 분께 무언가를 보내드립니다. 보내는 물건이나 자료가 무엇인지 적지 않았습니다.",
+      "context": "주민 소통 글\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "compositional-3619",
+    "input": {
+      "target": "메뉴의 투명도가 바뀌는 애니메이션을 실습합니다. 박물관이 수집한 놀이 도구를 전시하고 있습니다.",
+      "context": "다른 댓글의 내용: 신규로 안내할 서비스는 불법 유출 성인 동영상입니다. 대금을 낸 분에게 공급합니다. 참여를 원하면 접수 창을 열어 주세요."
+    },
+    "label": 2,
+    "kind": "ordinary"
+  },
+  {
+    "id": "compositional-3622",
+    "input": {
+      "target": "접수하실 분",
+      "context": "주민 발언\n관련 없는 글: 응급 상황을 가정한 안전 훈련을 실시합니다. 신청서에서 오타를 발견해 수정본을 올립니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "compositional-5534",
+    "input": {
+      "target": "“여기서 거래하는 항목은 비동의 성인 사생활 녹화본입니다. 비용을 낼 신청자를 찾고 있습니다. 구매하려면 접수해 주세요.”",
+      "context": "게시글 보기\n본문: 제가 판매하는 내용이라 다시 적었습니다. 구매하려면 접수해 주세요"
+    },
+    "label": 0,
+    "kind": "quoted-offer"
+  },
+  {
+    "id": "compositional-1750",
+    "input": {
+      "target": "문의을 남겨 주세요",
+      "context": "질문 보기\n이 문구 외에 어떤 것을 신청하는지 나타난 자료가 없습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "compositional-4187",
+    "input": {
+      "target": "진행 방법",
+      "context": "다른 댓글의 내용: 다음 답변이 등록되면 안내를 받겠습니다. 의료기관의 자격을 확인하는 방법을 배우는 교육입니다. 신청한 민원 처리 상태를 조회하고 싶습니다.\n추가 설명이 빠져 있습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "compositional-3876",
+    "input": {
+      "target": "제가 제공하는 것은 가짜 경력 확인서입니다. 돈을 받고 제공하고 있습니다. 계정에 주문 의사를 적어 주세요.",
+      "context": "참여 게시글\n앞 게시물(다른 작성자): 화면 읽기 프로그램에서 이동 메뉴를 확인하는 수업입니다. 공공 강좌의 준비물은 각 강좌 안내에 나와 있습니다."
+    },
+    "label": 0,
+    "kind": "direct"
+  },
+  {
+    "id": "n42201e40e55a0e",
+    "group": "train-0-10",
+    "split": "train",
+    "label": 0,
+    "input": {
+      "target": "저는 온라인 도박 테이블 모집 담당입니다. 칩을 현금으로 바꾸실 고객에게 가입창 드려요.",
+      "context": "게시글 보기"
+    }
+  },
+  {
+    "id": "n9c06053329263d",
+    "group": "train-2-4",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "제 사진을 붙여 성인 유출 자료를 판다는 계정이 있습니다. 제 명의가 도용됐다는 접수부터 하고 싶어요.",
+      "context": "주민 소통 글\n앞 문맥: 문의 내용을 작성했습니다."
+    }
+  },
+  {
+    "id": "compositional-4222",
+    "input": {
+      "target": "연락 요청",
+      "context": "앞 게시물(다른 작성자): 공공 강좌의 준비물은 각 강좌 안내에 나와 있습니다. 온라인 사기 피해의 상담 창구를 찾고 있습니다. 키보드만으로 화면을 조작하는 방법을 설명합니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "compositional-5438",
+    "input": {
+      "target": "“제가 제공하는 것은 허가 없는 약품의 불법 유통입니다. 지금 유상 거래를 진행합니다. 구매하려면 접수해 주세요.”",
+      "context": "상세 내용\n앞 문맥: 제가 판매하는 내용이라 다시 적었습니다. 구매하려면 접수해 주세요"
+    },
+    "label": 0,
+    "kind": "quoted-offer"
+  },
+  {
+    "id": "compositional-5185",
+    "input": {
+      "target": "접수 바랍니다",
+      "context": "열린 게시판\n같은 작성자의 설명: 여기서 거래하는 항목은 사설 스포츠 베팅 계정입니다. 유료 이용을 원하는 고객을 받습니다. 신청할 분은 연락을 남겨 주세요."
+    },
+    "label": 0,
+    "kind": "short-link"
+  },
+  {
+    "id": "compositional-5072",
+    "input": {
+      "target": "작은돌담",
+      "context": "시민 게시판\n글의 시작: 작성자\n같은 글의 끝: 이곳에서 유료로 공급할 것은 비동의 성인 사생활 녹화본입니다. 이용 대가를 받고 제공하겠습니다. 계정에 주문 의사를 적어 주세요."
+    },
+    "label": 2,
+    "kind": "metadata"
+  },
+  {
+    "id": "compositional-2745",
+    "input": {
+      "target": "응급 상황을 가정한 안전 훈련을 실시합니다.",
+      "context": "다른 댓글의 내용: 신규로 안내할 서비스는 가짜 경력 확인서입니다. 구매 의뢰를 접수합니다. 진행할 의사를 보내 주세요.\n뒤 문맥: 메뉴의 투명도가 바뀌는 애니메이션을 실습합니다. 담당 부서를 찾지 못해 연락처를 문의합니다."
+    },
+    "label": 2,
+    "kind": "ordinary-neighbor"
+  },
+  {
+    "id": "compositional-765",
+    "input": {
+      "target": "메뉴의 투명도가 바뀌는 애니메이션을 실습합니다.",
+      "context": "참여 게시글\n다른 댓글의 내용: 제가 제공하는 것은 위조 신분 증명 문서입니다. 대금을 낸 분에게 공급합니다. 참여를 원하면 접수 창을 열어 주세요.\n뒤 문맥: 다음 답변이 등록되면 안내를 받겠습니다. 화면 읽기 프로그램에서 이동 메뉴를 확인하는 수업입니다. 시험 대리 응시는 허용되지 않는다는 공지입니다."
+    },
+    "label": 2,
+    "kind": "ordinary-neighbor"
+  },
+  {
+    "id": "n4c7f8e996c5e4d",
+    "group": "train-2-7",
+    "split": "train",
+    "label": 2,
+    "input": {
+      "target": "성인 피해 영상의 재유포 사실을 알게 됐습니다. 기록을 제출할 비공개 방법을 안내받고 싶습니다.",
+      "context": "시민 참여\n뒤 문맥: 참여 게시판의 새 글입니다."
+    }
+  },
+  {
+    "id": "nd49e4c2fcfd626",
+    "group": "train-1-12",
+    "split": "train",
+    "label": 1,
+    "input": {
+      "target": "학부모 회의에서는 배팅 계정 모집 문자를 함께 살폈습니다. 청소년 상담기관을 안내하는 자리였습니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "rehearsal-cycle2-train-1355",
+    "group": "train-6012d4764d97",
+    "kind": "quoted-prevention",
+    "input": {
+      "target": "“불법 개인 정보 명단을 돈 받고 넘기니 구매 연락을 받습니다. 연결 주소로 접수하세요.”",
+      "context": "앞 문맥: 이런 게시물을 보면 신고해 주세요. 실제 판매글이 아닙니다\n다른 답글: 연결 주소로 접수하세요"
+    },
+    "label": 1
+  },
+  {
+    "id": "compositional-1631",
+    "input": {
+      "target": "진행하실 분",
+      "context": "질문 보기\n다른 댓글의 내용: 신규로 안내할 서비스는 허가 없는 도박방 이용권입니다. 유료 이용을 원하는 고객을 받습니다. 계정에 주문 의사를 적어 주세요.\n현재 선택한 항목의 제공 대상은 확인되지 않습니다."
+    },
+    "label": 3,
+    "kind": "insufficient"
+  },
+  {
+    "id": "compositional-1207",
+    "input": {
+      "target": "학교에서 개인정보 보호를 주제로 토론합니다. 시청 누리집의 오류 화면을 제보합니다. 주차장 공사가 끝나면 이용을 재개합니다.",
+      "context": "열린 게시판\n다른 댓글의 내용: 이곳에서 유료로 공급할 것은 위조 신분 증명 문서입니다. 비용을 낼 신청자를 찾고 있습니다. 연결된 창구로 이용을 요청하세요."
+    },
+    "label": 2,
+    "kind": "ordinary"
+  },
+  {
+    "id": "compositional-200",
+    "input": {
+      "target": "9268",
+      "context": "문의와 답변\n앞 문맥: 열람 수\n이어서: 여기서 거래하는 항목은 판돈을 받는 사설 룰렛입니다. 대금을 낸 분에게 공급합니다. 구매하려면 접수해 주세요."
+    },
+    "label": 2,
+    "kind": "metadata"
+  },
+  {
+    "id": "compositional-378",
+    "input": {
+      "target": "“제가 받고 있는 의뢰는 판돈을 받는 사설 룰렛입니다. 유료 이용을 원하는 고객을 받습니다. 연결된 창구로 이용을 요청하세요.”",
+      "context": "본문: 방송의 범죄 예방 해설에서 해당 발언을 소개합니다. 구매 신청을 권유하지 않습니다.\n관련 없는 글: 연결된 창구로 이용을 요청하세요"
+    },
+    "label": 1,
+    "kind": "quoted-prevention"
+  },
+  {
+    "id": "compositional-2005",
+    "input": {
+      "target": "문의 안내",
+      "context": "열린 공간\n같은 작성자의 설명: 현재 접수하는 서비스는 동의 없이 촬영된 성인 영상입니다. 이용할 분의 요청을 기다립니다. 신청할 분은 연락을 남겨 주세요."
+    },
+    "label": 0,
+    "kind": "short-link"
+  }
+]

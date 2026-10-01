@@ -1,0 +1,418 @@
+[
+  {
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"html > body > div:nth-of-type(2) > section > section > article > div:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1)\",\"비동의 성인 영상 유포에 가담하지 말고 피해 지원 창구를 이용하세요.\"]",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "selector": "html > body > div:nth-of-type(2) > section > section > article > div:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1)",
+    "raw_text": "비동의 성인 영상 유포에 가담하지 말고 피해 지원 창구를 이용하세요.",
+    "node_id": "n_087d4af8dd85907b",
+    "is_ad": false,
+    "expected_review": false,
+    "panel": "supplemental-context",
+    "kind": "separate_prevention_information",
+    "reason": "The sealed other field explicitly discourages illegal services or introduces prevention/support; it is a separate explanatory text, not the target advertisement.",
+    "related_primary_ids": [
+      "ra30b984bde3567e272",
+      "rf1fa11b19e9a81332a"
+    ],
+    "context_evidence": {
+      "scope": {
+        "tag": "section",
+        "role": null,
+        "document_scope": false
+      },
+      "target_tag": "div",
+      "target_quoted": false,
+      "units": [
+        {
+          "relation": "target",
+          "tag": "div",
+          "quoted": false
+        }
+      ],
+      "truncated": false
+    },
+    "observed_in_saved_dom": [],
+    "technique_gold_available": false
+  },
+  {
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"html > body > div:nth-of-type(2) > section > section > article > div:nth-of-type(1) > section:nth-of-type(49) > div:nth-of-type(1)\",\"비동의 성인 영상 유포에 가담하지 말고 피해 지원 창구를 이용하세요.\"]",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "selector": "html > body > div:nth-of-type(2) > section > section > article > div:nth-of-type(1) > section:nth-of-type(49) > div:nth-of-type(1)",
+    "raw_text": "비동의 성인 영상 유포에 가담하지 말고 피해 지원 창구를 이용하세요.",
+    "node_id": "n_7eed8c47f492bdf9",
+    "is_ad": false,
+    "expected_review": false,
+    "panel": "supplemental-context",
+    "kind": "separate_prevention_information",
+    "reason": "The sealed other field explicitly discourages illegal services or introduces prevention/support; it is a separate explanatory text, not the target advertisement.",
+    "related_primary_ids": [
+      "ra30b984bde3567e272",
+      "rf1fa11b19e9a81332a"
+    ],
+    "context_evidence": {
+      "scope": {
+        "tag": "div",
+        "role": "comment",
+        "document_scope": false
+      },
+      "target_tag": "div",
+      "target_quoted": false,
+      "units": [
+        {
+          "relation": "target",
+          "tag": "div",
+          "quoted": false
+        }
+      ],
+      "truncated": false
+    },
+    "observed_in_saved_dom": [],
+    "technique_gold_available": false
+  },
+  {
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"html > body > div:nth-of-type(2) > section > section > article > div:nth-of-type(1) > section:nth-of-type(8) > div:nth-of-type(1)\",\"유료 범죄 광고를 신고하는 별도의 댓글입니다. 거래 제안에 답하지 마세요.\"]",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "selector": "html > body > div:nth-of-type(2) > section > section > article > div:nth-of-type(1) > section:nth-of-type(8) > div:nth-of-type(1)",
+    "raw_text": "유료 범죄 광고를 신고하는 별도의 댓글입니다. 거래 제안에 답하지 마세요.",
+    "node_id": "n_b11927e58d065ece",
+    "is_ad": false,
+    "expected_review": false,
+    "panel": "supplemental-context",
+    "kind": "separate_prevention_information",
+    "reason": "The sealed other field explicitly discourages illegal services or introduces prevention/support; it is a separate explanatory text, not the target advertisement.",
+    "related_primary_ids": [
+      "r655f243b2052d88e75",
+      "raa8b068a7779aee47f"
+    ],
+    "context_evidence": {
+      "scope": {
+        "tag": "div",
+        "role": "comment",
+        "document_scope": false
+      },
+      "target_tag": "div",
+      "target_quoted": false,
+      "units": [
+        {
+          "relation": "target",
+          "tag": "div",
+          "quoted": false
+        }
+      ],
+      "truncated": false
+    },
+    "observed_in_saved_dom": [],
+    "technique_gold_available": false
+  },
+  {
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"html > body > div:nth-of-type(2) > section > section > article > div:nth-of-type(1) > section:nth-of-type(29) > div:nth-of-type(1)\",\"유료 범죄 광고를 신고하는 별도의 댓글입니다. 거래 제안에 답하지 마세요.\"]",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "selector": "html > body > div:nth-of-type(2) > section > section > article > div:nth-of-type(1) > section:nth-of-type(29) > div:nth-of-type(1)",
+    "raw_text": "유료 범죄 광고를 신고하는 별도의 댓글입니다. 거래 제안에 답하지 마세요.",
+    "node_id": "n_f7eb2322bb9d8615",
+    "is_ad": false,
+    "expected_review": false,
+    "panel": "supplemental-context",
+    "kind": "separate_prevention_information",
+    "reason": "The sealed other field explicitly discourages illegal services or introduces prevention/support; it is a separate explanatory text, not the target advertisement.",
+    "related_primary_ids": [
+      "r655f243b2052d88e75",
+      "raa8b068a7779aee47f"
+    ],
+    "context_evidence": {
+      "scope": {
+        "tag": "section",
+        "role": null,
+        "document_scope": false
+      },
+      "target_tag": "div",
+      "target_quoted": false,
+      "units": [
+        {
+          "relation": "target",
+          "tag": "div",
+          "quoted": false
+        }
+      ],
+      "truncated": false
+    },
+    "observed_in_saved_dom": [],
+    "technique_gold_available": false
+  },
+  {
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"html > body > div:nth-of-type(2) > section > section > article > div:nth-of-type(1) > section:nth-of-type(14) > div:nth-of-type(1)\",\"POKER 무허가 현금 게임 모임이 새 참가자를 기다립니다. 입금 뒤 비공개 주소로 들어오세요.\"]",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "selector": "html > body > div:nth-of-type(2) > section > section > article > div:nth-of-type(1) > section:nth-of-type(14) > div:nth-of-type(1)",
+    "raw_text": "POKER 무허가 현금 게임 모임이 새 참가자를 기다립니다. 입금 뒤 비공개 주소로 들어오세요.",
+    "node_id": "n_ae21d41422fce102",
+    "is_ad": true,
+    "expected_review": false,
+    "panel": "supplemental-context",
+    "kind": "separate_neighbor_ad",
+    "reason": "The sealed other field explicitly offers gambling or illegal adult material in a separate comment, without an owned preventive wrapper.",
+    "related_primary_ids": [
+      "r895fd937d212dea50b"
+    ],
+    "context_evidence": {
+      "scope": {
+        "tag": "div",
+        "role": "comment",
+        "document_scope": false
+      },
+      "target_tag": "div",
+      "target_quoted": false,
+      "units": [
+        {
+          "relation": "target",
+          "tag": "div",
+          "quoted": false
+        }
+      ],
+      "truncated": false
+    },
+    "observed_in_saved_dom": [],
+    "technique_gold_available": false
+  },
+  {
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"html > body > div:nth-of-type(2) > section > section > article > div:nth-of-type(1) > section:nth-of-type(17) > div:nth-of-type(1)\",\"불법 게임으로 돈을 잃은 시민을 위한 상담 안내를 적습니다.\"]",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "selector": "html > body > div:nth-of-type(2) > section > section > article > div:nth-of-type(1) > section:nth-of-type(17) > div:nth-of-type(1)",
+    "raw_text": "불법 게임으로 돈을 잃은 시민을 위한 상담 안내를 적습니다.",
+    "node_id": "n_1084833ba8ba41ae",
+    "is_ad": false,
+    "expected_review": false,
+    "panel": "supplemental-context",
+    "kind": "separate_prevention_information",
+    "reason": "The sealed other field explicitly discourages illegal services or introduces prevention/support; it is a separate explanatory text, not the target advertisement.",
+    "related_primary_ids": [
+      "rae16dd92ec052c2080",
+      "r927ae07c9ce4687ac1"
+    ],
+    "context_evidence": {
+      "scope": {
+        "tag": "section",
+        "role": null,
+        "document_scope": false
+      },
+      "target_tag": "div",
+      "target_quoted": false,
+      "units": [
+        {
+          "relation": "target",
+          "tag": "div",
+          "quoted": false
+        }
+      ],
+      "truncated": false
+    },
+    "observed_in_saved_dom": [],
+    "technique_gold_available": false
+  },
+  {
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"html > body > div:nth-of-type(2) > section > section > article > div:nth-of-type(1) > section:nth-of-type(32) > div:nth-of-type(1)\",\"불법 게임으로 돈을 잃은 시민을 위한 상담 안내를 적습니다.\"]",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "selector": "html > body > div:nth-of-type(2) > section > section > article > div:nth-of-type(1) > section:nth-of-type(32) > div:nth-of-type(1)",
+    "raw_text": "불법 게임으로 돈을 잃은 시민을 위한 상담 안내를 적습니다.",
+    "node_id": "n_971e375fb4059a19",
+    "is_ad": false,
+    "expected_review": false,
+    "panel": "supplemental-context",
+    "kind": "separate_prevention_information",
+    "reason": "The sealed other field explicitly discourages illegal services or introduces prevention/support; it is a separate explanatory text, not the target advertisement.",
+    "related_primary_ids": [
+      "rae16dd92ec052c2080",
+      "r927ae07c9ce4687ac1"
+    ],
+    "context_evidence": {
+      "scope": {
+        "tag": "div",
+        "role": "comment",
+        "document_scope": false
+      },
+      "target_tag": "div",
+      "target_quoted": false,
+      "units": [
+        {
+          "relation": "target",
+          "tag": "div",
+          "quoted": false
+        }
+      ],
+      "truncated": false
+    },
+    "observed_in_saved_dom": [],
+    "technique_gold_available": false
+  },
+  {
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"html > body > div:nth-of-type(2) > section > section > article > div:nth-of-type(1) > section:nth-of-type(25) > div:nth-of-type(1)\",\"CLIP 불법 성인 영상 묶음 판매 접수입니다. 파일을 받을 분은 구매 대금을 보내세요.\"]",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "selector": "html > body > div:nth-of-type(2) > section > section > article > div:nth-of-type(1) > section:nth-of-type(25) > div:nth-of-type(1)",
+    "raw_text": "CLIP 불법 성인 영상 묶음 판매 접수입니다. 파일을 받을 분은 구매 대금을 보내세요.",
+    "node_id": "n_c6fa7415050ad717",
+    "is_ad": true,
+    "expected_review": false,
+    "panel": "supplemental-context",
+    "kind": "separate_neighbor_ad",
+    "reason": "The sealed other field explicitly offers gambling or illegal adult material in a separate comment, without an owned preventive wrapper.",
+    "related_primary_ids": [
+      "r7ed4dd4793d01b85a4"
+    ],
+    "context_evidence": {
+      "scope": {
+        "tag": "div",
+        "role": "comment",
+        "document_scope": false
+      },
+      "target_tag": "div",
+      "target_quoted": false,
+      "units": [
+        {
+          "relation": "target",
+          "tag": "div",
+          "quoted": false
+        }
+      ],
+      "truncated": false
+    },
+    "observed_in_saved_dom": [],
+    "technique_gold_available": false
+  },
+  {
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"html > body > div:nth-of-type(2) > section > section > article > div:nth-of-type(1) > section:nth-of-type(31) > div:nth-of-type(1)\",\"FILM 당사자 허락 없이 공개된 성인 영상을 팝니다. 원하는 구매자는 금액을 문의해 주세요.\"]",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "selector": "html > body > div:nth-of-type(2) > section > section > article > div:nth-of-type(1) > section:nth-of-type(31) > div:nth-of-type(1)",
+    "raw_text": "FILM 당사자 허락 없이 공개된 성인 영상을 팝니다. 원하는 구매자는 금액을 문의해 주세요.",
+    "node_id": "n_443ac8c7af52542e",
+    "is_ad": true,
+    "expected_review": false,
+    "panel": "supplemental-context",
+    "kind": "separate_neighbor_ad",
+    "reason": "The sealed other field explicitly offers gambling or illegal adult material in a separate comment, without an owned preventive wrapper.",
+    "related_primary_ids": [
+      "r117ef6aa128e6f6e7c"
+    ],
+    "context_evidence": {
+      "scope": {
+        "tag": "div",
+        "role": "comment",
+        "document_scope": false
+      },
+      "target_tag": "div",
+      "target_quoted": false,
+      "units": [
+        {
+          "relation": "target",
+          "tag": "div",
+          "quoted": false
+        }
+      ],
+      "truncated": false
+    },
+    "observed_in_saved_dom": [],
+    "technique_gold_available": false
+  },
+  {
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"html > body > div:nth-of-type(2) > section > section > article > div:nth-of-type(1) > section:nth-of-type(46) > div:nth-of-type(1)\",\"RACE 사설 도박 경주에 참가할 회원을 모읍니다. 배팅 금액을 내고 현금 배당에 참여하세요.\"]",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "selector": "html > body > div:nth-of-type(2) > section > section > article > div:nth-of-type(1) > section:nth-of-type(46) > div:nth-of-type(1)",
+    "raw_text": "RACE 사설 도박 경주에 참가할 회원을 모읍니다. 배팅 금액을 내고 현금 배당에 참여하세요.",
+    "node_id": "n_9063a413fb92c983",
+    "is_ad": true,
+    "expected_review": false,
+    "panel": "supplemental-context",
+    "kind": "separate_neighbor_ad",
+    "reason": "The sealed other field explicitly offers gambling or illegal adult material in a separate comment, without an owned preventive wrapper.",
+    "related_primary_ids": [
+      "rb82f76f7423d2b091e"
+    ],
+    "context_evidence": {
+      "scope": {
+        "tag": "div",
+        "role": "comment",
+        "document_scope": false
+      },
+      "target_tag": "div",
+      "target_quoted": false,
+      "units": [
+        {
+          "relation": "target",
+          "tag": "div",
+          "quoted": false
+        }
+      ],
+      "truncated": false
+    },
+    "observed_in_saved_dom": [],
+    "technique_gold_available": false
+  },
+  {
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"html > body > div:nth-of-type(2) > section > section > article > div:nth-of-type(1) > section:nth-of-type(51) > div:nth-of-type(1)\",\"이 글은 불법 서비스 이용을 막는 주민 교육 소개입니다.\"]",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "selector": "html > body > div:nth-of-type(2) > section > section > article > div:nth-of-type(1) > section:nth-of-type(51) > div:nth-of-type(1)",
+    "raw_text": "이 글은 불법 서비스 이용을 막는 주민 교육 소개입니다.",
+    "node_id": "n_6c6a16693bc70d5f",
+    "is_ad": false,
+    "expected_review": false,
+    "panel": "supplemental-context",
+    "kind": "separate_prevention_information",
+    "reason": "The sealed other field explicitly discourages illegal services or introduces prevention/support; it is a separate explanatory text, not the target advertisement.",
+    "related_primary_ids": [
+      "rf42f2d82ff69f80cad",
+      "r23e98749d3da91ea48"
+    ],
+    "context_evidence": {
+      "scope": {
+        "tag": "section",
+        "role": null,
+        "document_scope": false
+      },
+      "target_tag": "div",
+      "target_quoted": false,
+      "units": [
+        {
+          "relation": "target",
+          "tag": "div",
+          "quoted": false
+        }
+      ],
+      "truncated": false
+    },
+    "observed_in_saved_dom": [],
+    "technique_gold_available": false
+  },
+  {
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"html > body > div:nth-of-type(2) > section > section > article > div:nth-of-type(1) > section:nth-of-type(52) > div:nth-of-type(1)\",\"이 글은 불법 서비스 이용을 막는 주민 교육 소개입니다.\"]",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "selector": "html > body > div:nth-of-type(2) > section > section > article > div:nth-of-type(1) > section:nth-of-type(52) > div:nth-of-type(1)",
+    "raw_text": "이 글은 불법 서비스 이용을 막는 주민 교육 소개입니다.",
+    "node_id": "n_7bdfc28927bb226e",
+    "is_ad": false,
+    "expected_review": false,
+    "panel": "supplemental-context",
+    "kind": "separate_prevention_information",
+    "reason": "The sealed other field explicitly discourages illegal services or introduces prevention/support; it is a separate explanatory text, not the target advertisement.",
+    "related_primary_ids": [
+      "rf42f2d82ff69f80cad",
+      "r23e98749d3da91ea48"
+    ],
+    "context_evidence": {
+      "scope": {
+        "tag": "div",
+        "role": "comment",
+        "document_scope": false
+      },
+      "target_tag": "div",
+      "target_quoted": false,
+      "units": [
+        {
+          "relation": "target",
+          "tag": "div",
+          "quoted": false
+        }
+      ],
+      "truncated": false
+    },
+    "observed_in_saved_dom": [],
+    "technique_gold_available": false
+  }
+]

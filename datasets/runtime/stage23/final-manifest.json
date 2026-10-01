@@ -1,0 +1,32 @@
+{
+  "createdAt": "2026-09-21T20:34:44.881Z",
+  "stage2GatePassed": false,
+  "stage3Started": false,
+  "production": "stage1 judgment; additional structural context collection",
+  "remainingIntentErrors": {
+    "labeledFalseNegative": 4,
+    "labeledFalsePositive": 0,
+    "extraLocationFalsePositive": 2
+  },
+  "datasetSHA256": "0aced96f99d46c2a69742d9e35efbb184a921639b49b2aed720e25a51549946a",
+  "groundTruthFileSHA256": "63abac549a2a082ae6e2886932e5ec37ead8dc6dcff8d8cd215f83fa4b29c7b7",
+  "sourceSHA256": {
+    "AGENTS.md": "f965e7fded8d516a9b2558a72040a4cfbce096edf1f64e16af7f5d98f094deed",
+    "agent/src/core/collect.cjs": "7b1941e7a4177edeeb915bcda87c1f4bcbbd1ad9327afbe800d99f25f53be305",
+    "agent/src/core/llm.cjs": "725c7ba473c1c4106651b8d92abb9b9279be922ff89301ac9b9a6907a5f630e1",
+    "agent/src/core/output.cjs": "e0365bc812b6945d81ce4c972529b30c75869f2479b18bf923bc85da386f7677",
+    "agent/collect.test.cjs": "360f8cd5dc9a53fa999319f86f198c5c1016d22a924c9b542a4b3d539d8a4c9f",
+    "agent/experiments/context-contract.cjs": "f30ee80fcd6f7fdd8717f91a7398fe274e50d8ebaf0ff738be3887870fe26d78",
+    "agent/experiments/intent-contract.cjs": "e3bf99e0ac661cae90025a157ed67314be98aa15a886cb552885f3e6f92c8f57",
+    "agent/experiments/context.test.cjs": "e32049d097120a41b4f1cf54423e9688eb1081096f162780b3a4a89e497a1913",
+    "agent/experiments/run.cjs": "b7ad32c5c31c478a5363feb1478fd84de9b663577a9395b606db85283daa07bb",
+    "test-set-v2/context-regression.cjs": "ea970c61ada9bb4cc760a6e958d6d1f74264e63d20374255296b9448b682e573",
+    "docs/stage-2-3-report.md": "0664456d4210a92959a0c75515dc76fe0b20ba326ce7f9ff876d2b62b2270a68"
+  },
+  "inputSHA256": {
+    "panel-stage1.json": "1461985359c03391d2340a383d8c5741dc8c89847e48511b979d7903834c35df",
+    "panel-stage2-final-scope.json": "d8defb6f4dd1f2be8b7aaa80bf52a1bbefb276918f19460e2dba560671d34bf1",
+    "counterfactuals-evidence.json": "d81fd4177886b63de6f5fc95f81511654af91a6a17926ff955a78bbb14c71f3a",
+    "reserve-evidence.json": "a5b8d8be44647bfeaca7bebaf8f0438befb34bb2522bb9d6d9a7bfeb0cf0747e"
+  }
+}

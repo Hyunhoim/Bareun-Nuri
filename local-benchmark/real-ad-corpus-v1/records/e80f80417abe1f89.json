@@ -1,0 +1,36 @@
+{
+  "id": "e80f80417abe1f89",
+  "source": {
+    "id": "e80f80417abe1f89",
+    "url": "https://hrd.jeonbuk.go.kr/board/view.training?boardId=BBS_0000016&menuCd=DOM_000000103001000000&startPage=6&dataSid=13127",
+    "source_scope": "government_board",
+    "captured_at": "2026-09-28T23:08:49.663135+00:00",
+    "rights_status": "unverified_third_party_content",
+    "human_reviewed": false,
+    "raw_file": "raw/e80f80417abe1f89.html",
+    "byte_file": "raw/e80f80417abe1f89.bin",
+    "response_sha256": "ffdb205d434bcd9c7ae4040117f719090219d5708c6366f02f581165eafbcf38",
+    "decoded_sha256": "ffdb205d434bcd9c7ae4040117f719090219d5708c6366f02f581165eafbcf38",
+    "encoding": "utf-8",
+    "status": "captured",
+    "page_title": "홈 > 소통마당 > 자유게시판 |상세보기"
+  },
+  "title": "날씨가 아직 춥네요~",
+  "raw_text": "감기조심하세요~\n자동차다이렉트보험비교",
+  "body_xpath": "/html/body/div/div[3]/div/div[2]/div[2]/div[3]/div",
+  "title_xpath": "/html/body/div/div[3]/div/div[2]/div[2]/div[3]/dl[1]",
+  "source_kind": "real_web_post",
+  "extraction": "static_HTML_lxml_itertext",
+  "comments_status": "not_extracted_or_labeled",
+  "technique_observed": null,
+  "body_sha256": "7461c6f0ef16045c8287823f324bd358222af7f1016587ce86018c488c2f17af",
+  "label": null,
+  "human_reviewed": false,
+  "outgoing_links": [
+    {
+      "text": "자동차다이렉트보험비교",
+      "href": "https://blog.naver.com/overpress4/223273419682"
+    }
+  ],
+  "notes": "No CSS technique claim from static text; listed neighbours are excluded from owned context."
+}

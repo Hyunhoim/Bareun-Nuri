@@ -1,0 +1,90 @@
+[
+  {
+    "input": {
+      "node_id": "demo_01",
+      "token": "fl4me",
+      "target_text": "도박 피해 예방 강의는 광고 문구 「feel the fl4me, 입금하고 바로 게임에 참여하세요」를 인용했다. 강사는 참가 권유에 응하지 말라고 설명했다.",
+      "context": ""
+    },
+    "expected": {
+      "classification": "substitution"
+    }
+  },
+  {
+    "input": {
+      "node_id": "demo_02",
+      "token": "3fl4me",
+      "target_text": "사설 슬롯게임에 가입하세요. 광고판의 3fl4me symbols pay triple은 불꽃 그림 세 개가 나오는 조건의 배당을 말합니다. 좁은 표제 칸 때문에 그림 개수와 다음 단어 사이를 붙여 적었습니다.",
+      "context": ""
+    },
+    "expected": {
+      "classification": "substitution"
+    }
+  },
+  {
+    "input": {
+      "node_id": "demo_03",
+      "token": "3fl4me",
+      "target_text": "무허가 도박 단말기를 판매합니다. 납품서에 등록된 모델 식별자는 3fl4me이며 주문 항목은 이 표기 전체로 구별합니다. 철자를 고쳐 적은 주문은 해당 모델로 처리되지 않습니다.",
+      "context": ""
+    },
+    "expected": {
+      "classification": "literal"
+    }
+  },
+  {
+    "input": {
+      "node_id": "demo_04",
+      "token": "3fl4me",
+      "target_text": "주민 게시판에서 민원 접수 시간과 대기 장소를 자세히 설명한 글이다. 작성자는 마지막에 3fl4me를 적었는데 앞 문장에는 이 표기를 설명하는 대목이 없다.",
+      "context": ""
+    },
+    "expected": {
+      "classification": "uncertain"
+    }
+  },
+  {
+    "input": {
+      "node_id": "demo_05",
+      "token": "st0ne",
+      "target_text": "비동의 성인 촬영물 판매글에 our price is set in st0ne이라고 적고, 정해진 금액을 결제하면 파일을 보내겠다고 구매를 권유한다.",
+      "context": ""
+    },
+    "expected": {
+      "classification": "substitution"
+    }
+  },
+  {
+    "input": {
+      "node_id": "demo_06",
+      "token": "st0ne6",
+      "target_text": "석조 조각 전시의 여섯 번째 작품 표제는 carved in st0ne6이다. 영어 구절 뒤에 작품의 전시 순번을 이어 적은 표기이고, 작품 목록에서도 순번은 6으로 기재되어 있다.",
+      "context": ""
+    },
+    "expected": {
+      "classification": "substitution"
+    }
+  },
+  {
+    "input": {
+      "node_id": "demo_07",
+      "token": "st0ne6",
+      "target_text": "불법 영상 유통 피해 예방 안내에서 신고할 서버 기록의 request_key 예시로 st0ne6을 제시했다. 신고자는 로그에 남은 키를 한 글자도 바꾸지 말고 복사해야 관련 요청을 조회할 수 있다.",
+      "context": ""
+    },
+    "expected": {
+      "classification": "literal"
+    }
+  },
+  {
+    "input": {
+      "node_id": "demo_08",
+      "token": "st0ne6",
+      "target_text": "이사 후 발견한 봉투 앞면에 st0ne6이 적혀 있다. 봉투에는 사진도 서류도 없고 발신인과 수신인은 읽을 수 없다.",
+      "context": ""
+    },
+    "expected": {
+      "classification": "uncertain"
+    }
+  }
+]

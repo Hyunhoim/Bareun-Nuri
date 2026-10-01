@@ -1,0 +1,6380 @@
+{
+  "entry_url": "http://127.0.0.1:60966/validation/",
+  "scope": "/validation/",
+  "pages": [
+    {
+      "url": "http://127.0.0.1:60966/validation/",
+      "title": "지역 소통 알림",
+      "readiness": {
+        "settled": true,
+        "wait_ms": 1100
+      }
+    }
+  ],
+  "candidates": [
+    {
+      "node_id": "n_0afb23e58d4fa21f",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "p#v99f3343bf69b",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "p#v99f3343bf69b",
+      "raw_text": "ＣＡＳＩＮＯ · 비인가 온라인 룰렛에 참여할 회원을 받습니다. 예치금을 보내면 실시간 베팅 권한을 드립니다.",
+      "own_style": {
+        "tag": "p",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 16,
+          "width": 1424,
+          "height": 21,
+          "right": 1432,
+          "bottom": 37
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 37
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "ＣＡＳＩＮＯ · 비인가 온라인 룰렛에 참여할 회원을 받습니다. 예치금을 보내면 실시간 베팅 권한을 드립니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "p",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "CASINO · 비인가 온라인 룰렛에 참여할 회원을 받습니다. 예치금을 보내면 실시간 베팅 권한을 드립니다.",
+      "signals": [
+        "HOMOGLYPH"
+      ]
+    },
+    {
+      "node_id": "n_7d904c1648060b66",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "p#ve122a283162b",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "p#ve122a283162b",
+      "raw_text": "ＣＡＳＩＮＯ · 비인가 온라인 룰렛에 참여할 회원을 받습니다. 예치금을 보내면 실시간 베팅 권한을 드립니다.",
+      "own_style": {
+        "tag": "p",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 90,
+          "width": 1424,
+          "height": 21,
+          "right": 1432,
+          "bottom": 111
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 53,
+            "width": 1424,
+            "height": 58,
+            "right": 1432,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "이 문장은 수사 기록의 발췌문입니다. 아래 제안을 실행하지 말고 제보 자료로만 확인하세요.",
+        "after": ""
+      },
+      "context": "이 문장은 수사 기록의 발췌문입니다. 아래 제안을 실행하지 말고 제보 자료로만 확인하세요.ＣＡＳＩＮＯ · 비인가 온라인 룰렛에 참여할 회원을 받습니다. 예치금을 보내면 실시간 베팅 권한을 드립니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "이 문장은 수사 기록의 발췌문입니다. 아래 제안을 실행하지 말고 제보 자료로만 확인하세요."
+          },
+          {
+            "relation": "target",
+            "tag": "p",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "CASINO · 비인가 온라인 룰렛에 참여할 회원을 받습니다. 예치금을 보내면 실시간 베팅 권한을 드립니다.",
+      "signals": [
+        "HOMOGLYPH"
+      ]
+    },
+    {
+      "node_id": "n_61566af7e76ed1b5",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "p#v2f7d1e54d5a1",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "p#v2f7d1e54d5a1",
+      "raw_text": "ＣＡＳＩＮＯ · 비인가 온라인 룰렛에 참여할 회원을 받습니다. 예치금을 보내면 실시간 베팅 권한을 드립니다.",
+      "own_style": {
+        "tag": "p",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 164,
+          "width": 1424,
+          "height": 21,
+          "right": 1432,
+          "bottom": 185
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 127,
+            "width": 1424,
+            "height": 58,
+            "right": 1432,
+            "bottom": 185
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.",
+        "after": ""
+      },
+      "context": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.ＣＡＳＩＮＯ · 비인가 온라인 룰렛에 참여할 회원을 받습니다. 예치금을 보내면 실시간 베팅 권한을 드립니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요."
+          },
+          {
+            "relation": "target",
+            "tag": "p",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "CASINO · 비인가 온라인 룰렛에 참여할 회원을 받습니다. 예치금을 보내면 실시간 베팅 권한을 드립니다.",
+      "signals": [
+        "HOMOGLYPH"
+      ]
+    },
+    {
+      "node_id": "n_098cf63b9751faa6",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "p#vfd42a30ac749",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "p#vfd42a30ac749",
+      "raw_text": "ＣＡＳＩＮＯ · 비인가 온라인 룰렛에 참여할 회원을 받습니다. 예치금을 보내면 실시간 베팅 권한을 드립니다.",
+      "own_style": {
+        "tag": "p",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 312,
+          "width": 1424,
+          "height": 21,
+          "right": 1432,
+          "bottom": 333
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 275,
+            "width": 1424,
+            "height": 58,
+            "right": 1432,
+            "bottom": 333
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.",
+        "after": ""
+      },
+      "context": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.ＣＡＳＩＮＯ · 비인가 온라인 룰렛에 참여할 회원을 받습니다. 예치금을 보내면 실시간 베팅 권한을 드립니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다."
+          },
+          {
+            "relation": "target",
+            "tag": "p",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "CASINO · 비인가 온라인 룰렛에 참여할 회원을 받습니다. 예치금을 보내면 실시간 베팅 권한을 드립니다.",
+      "signals": [
+        "HOMOGLYPH"
+      ]
+    },
+    {
+      "node_id": "n_1a9ce029692c373b",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "h2#vf6af5a607047",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "h2#vf6af5a607047",
+      "raw_text": "개인 운영 현금 포커 클럽의 가입 창구입니다. 보증금 이체 후 카드방에 입장할 수 있습니다.",
+      "own_style": {
+        "tag": "h2",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 24,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 389.90625,
+          "width": 1424,
+          "height": 32,
+          "right": 1432,
+          "bottom": 421.90625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 389.90625,
+            "width": 1424,
+            "height": 32,
+            "right": 1432,
+            "bottom": 421.90625
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 389.90625,
+            "width": 1424,
+            "height": 32,
+            "right": 1432,
+            "bottom": 421.90625
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 389.90625,
+            "width": 1424,
+            "height": 32,
+            "right": 1432,
+            "bottom": 421.90625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "개인 운영 현금 포커 클럽의 가입 창구입니다. 보증금 이체 후 카드방에 입장할 수 있습니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "h2",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "h2",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "개인 운영 현금 포커 클럽의 가입 창구입니다. 보증금 이체 후 카드방에 입장할 수 있습니다.",
+      "signals": [
+        "JAMO"
+      ]
+    },
+    {
+      "node_id": "n_c0c3ec7f7c03a29c",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "h2#v1503250d210f",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "h2#v1503250d210f",
+      "raw_text": "개인 운영 현금 포커 클럽의 가입 창구입니다. 보증금 이체 후 카드방에 입장할 수 있습니다.",
+      "own_style": {
+        "tag": "h2",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 24,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 482.71875,
+          "width": 1424,
+          "height": 32,
+          "right": 1432,
+          "bottom": 514.71875
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 482.71875,
+            "width": 1424,
+            "height": 32,
+            "right": 1432,
+            "bottom": 514.71875
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 482.71875,
+            "width": 1424,
+            "height": 32,
+            "right": 1432,
+            "bottom": 514.71875
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 441.8125,
+            "width": 1424,
+            "height": 72.90625,
+            "right": 1432,
+            "bottom": 514.71875
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "개인 운영 현금 포커 클럽의 가입 창구입니다. 보증금 이체 후 카드방에 입장할 수 있습니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "h2",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "상담 사례를 설명하기 위해 아래 피해 유도 표현을 그대로 옮깁니다. 금전 거래를 권장하는 내용이 아닙니다."
+          },
+          {
+            "relation": "target",
+            "tag": "h2",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "개인 운영 현금 포커 클럽의 가입 창구입니다. 보증금 이체 후 카드방에 입장할 수 있습니다.",
+      "signals": [
+        "JAMO"
+      ]
+    },
+    {
+      "node_id": "n_93ac76b0f57bebe5",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "h2#v8fa276c95dde",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "h2#v8fa276c95dde",
+      "raw_text": "개인 운영 현금 포커 클럽의 가입 창구입니다. 보증금 이체 후 카드방에 입장할 수 있습니다.",
+      "own_style": {
+        "tag": "h2",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 24,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 575.53125,
+          "width": 1424,
+          "height": 32,
+          "right": 1432,
+          "bottom": 607.53125
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 575.53125,
+            "width": 1424,
+            "height": 32,
+            "right": 1432,
+            "bottom": 607.53125
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 575.53125,
+            "width": 1424,
+            "height": 32,
+            "right": 1432,
+            "bottom": 607.53125
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 534.625,
+            "width": 1424,
+            "height": 72.90625,
+            "right": 1432,
+            "bottom": 607.53125
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "개인 운영 현금 포커 클럽의 가입 창구입니다. 보증금 이체 후 카드방에 입장할 수 있습니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "h2",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요."
+          },
+          {
+            "relation": "target",
+            "tag": "h2",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "개인 운영 현금 포커 클럽의 가입 창구입니다. 보증금 이체 후 카드방에 입장할 수 있습니다.",
+      "signals": [
+        "JAMO"
+      ]
+    },
+    {
+      "node_id": "n_43fe66782de77098",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "h2#v822db10dd4f9",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "h2#v822db10dd4f9",
+      "raw_text": "개인 운영 현금 포커 클럽의 가입 창구입니다. 보증금 이체 후 카드방에 입장할 수 있습니다.",
+      "own_style": {
+        "tag": "h2",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 24,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 757.25,
+          "width": 1424,
+          "height": 32,
+          "right": 1432,
+          "bottom": 789.25
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 757.25,
+            "width": 1424,
+            "height": 32,
+            "right": 1432,
+            "bottom": 789.25
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 757.25,
+            "width": 1424,
+            "height": 32,
+            "right": 1432,
+            "bottom": 789.25
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 716.34375,
+            "width": 1424,
+            "height": 72.90625,
+            "right": 1432,
+            "bottom": 789.25
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "개인 운영 현금 포커 클럽의 가입 창구입니다. 보증금 이체 후 카드방에 입장할 수 있습니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "h2",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다."
+          },
+          {
+            "relation": "target",
+            "tag": "h2",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "개인 운영 현금 포커 클럽의 가입 창구입니다. 보증금 이체 후 카드방에 입장할 수 있습니다.",
+      "signals": [
+        "JAMO"
+      ]
+    },
+    {
+      "node_id": "n_16f36ccd8ce97635",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "div#vbd8eb24b857c",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "div#vbd8eb24b857c",
+      "raw_text": "허가받지 않은 숫자 추첨 도박 계정을 판매합니다. 참가금을 보내면 당첨금을 현금으로 돌려드립니다.",
+      "own_style": {
+        "tag": "div",
+        "opacity": 0,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 861.0625,
+          "width": 1424,
+          "height": 21,
+          "right": 1432,
+          "bottom": 882.0625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 861.0625,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 882.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "허가받지 않은 숫자 추첨 도박 계정을 판매합니다. 참가금을 보내면 당첨금을 현금으로 돌려드립니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "div",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "div",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "허가받지 않은 숫자 추첨 도박 계정을 판매합니다. 참가금을 보내면 당첨금을 현금으로 돌려드립니다.",
+      "signals": [
+        "TRANSPARENT"
+      ]
+    },
+    {
+      "node_id": "n_120ee9290c1c80f8",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "div#v8902e2e17a2c",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "div#v8902e2e17a2c",
+      "raw_text": "허가받지 않은 숫자 추첨 도박 계정을 판매합니다. 참가금을 보내면 당첨금을 현금으로 돌려드립니다.",
+      "own_style": {
+        "tag": "div",
+        "opacity": 0,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 882.0625,
+          "width": 1424,
+          "height": 21,
+          "right": 1432,
+          "bottom": 903.0625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 882.0625,
+            "width": 1424,
+            "height": 58,
+            "right": 1432,
+            "bottom": 940.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": "위의 내용은 차단된 게시물의 증거 사본입니다. 실제 참여 안내로 받아들이지 마세요."
+      },
+      "context": "허가받지 않은 숫자 추첨 도박 계정을 판매합니다. 참가금을 보내면 당첨금을 현금으로 돌려드립니다.위의 내용은 차단된 게시물의 증거 사본입니다. 실제 참여 안내로 받아들이지 마세요.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "div",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "div",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "quoted": false,
+            "text": "위의 내용은 차단된 게시물의 증거 사본입니다. 실제 참여 안내로 받아들이지 마세요."
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "허가받지 않은 숫자 추첨 도박 계정을 판매합니다. 참가금을 보내면 당첨금을 현금으로 돌려드립니다.",
+      "signals": [
+        "TRANSPARENT"
+      ]
+    },
+    {
+      "node_id": "n_90485e6d81064326",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "div#vfdf9d9d164da",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "div#vfdf9d9d164da",
+      "raw_text": "허가받지 않은 숫자 추첨 도박 계정을 판매합니다. 참가금을 보내면 당첨금을 현금으로 돌려드립니다.",
+      "own_style": {
+        "tag": "div",
+        "opacity": 0,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 993.0625,
+          "width": 1424,
+          "height": 21,
+          "right": 1432,
+          "bottom": 1014.0625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 956.0625,
+            "width": 1424,
+            "height": 58,
+            "right": 1432,
+            "bottom": 1014.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.",
+        "after": ""
+      },
+      "context": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.허가받지 않은 숫자 추첨 도박 계정을 판매합니다. 참가금을 보내면 당첨금을 현금으로 돌려드립니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "div",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요."
+          },
+          {
+            "relation": "target",
+            "tag": "div",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "허가받지 않은 숫자 추첨 도박 계정을 판매합니다. 참가금을 보내면 당첨금을 현금으로 돌려드립니다.",
+      "signals": [
+        "TRANSPARENT"
+      ]
+    },
+    {
+      "node_id": "n_1b988d88ec78ec01",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "div#v9cf6d74e109f",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "div#v9cf6d74e109f",
+      "raw_text": "허가받지 않은 숫자 추첨 도박 계정을 판매합니다. 참가금을 보내면 당첨금을 현금으로 돌려드립니다.",
+      "own_style": {
+        "tag": "div",
+        "opacity": 0,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 1125.0625,
+          "width": 1424,
+          "height": 21,
+          "right": 1432,
+          "bottom": 1146.0625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 1088.0625,
+            "width": 1424,
+            "height": 58,
+            "right": 1432,
+            "bottom": 1146.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.",
+        "after": ""
+      },
+      "context": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.허가받지 않은 숫자 추첨 도박 계정을 판매합니다. 참가금을 보내면 당첨금을 현금으로 돌려드립니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "div",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다."
+          },
+          {
+            "relation": "target",
+            "tag": "div",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "허가받지 않은 숫자 추첨 도박 계정을 판매합니다. 참가금을 보내면 당첨금을 현금으로 돌려드립니다.",
+      "signals": [
+        "TRANSPARENT"
+      ]
+    },
+    {
+      "node_id": "n_2defc2ce07fabaf4",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "blockquote#v222e80d4c212",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "blockquote#v222e80d4c212",
+      "raw_text": "사설 축구 승부 내기방을 소개합니다. 잔액을 충전한 계정으로 배당에 참여하세요.",
+      "own_style": {
+        "tag": "blockquote",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "absolute",
+        "rect": {
+          "x": -15960,
+          "y": 16,
+          "width": 585.625,
+          "height": 21,
+          "right": -15374.375,
+          "bottom": 37
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 1167.0625,
+            "width": 1424,
+            "height": 0,
+            "right": 1432,
+            "bottom": 1167.0625
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 1167.0625,
+            "width": 1424,
+            "height": 0,
+            "right": 1432,
+            "bottom": 1167.0625
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 1167.0625,
+            "width": 1424,
+            "height": 0,
+            "right": 1432,
+            "bottom": 1167.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "사설 축구 승부 내기방을 소개합니다. 잔액을 충전한 계정으로 배당에 참여하세요.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "blockquote",
+        "target_quoted": true,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "blockquote",
+            "quoted": true
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "사설 축구 승부 내기방을 소개합니다. 잔액을 충전한 계정으로 배당에 참여하세요.",
+      "signals": [
+        "OFFSCREEN"
+      ]
+    },
+    {
+      "node_id": "n_d7893cf3464cb4a9",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "blockquote#vdd919d1e54c3",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "blockquote#vdd919d1e54c3",
+      "raw_text": "사설 축구 승부 내기방을 소개합니다. 잔액을 충전한 계정으로 배당에 참여하세요.",
+      "own_style": {
+        "tag": "blockquote",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "absolute",
+        "rect": {
+          "x": -15960,
+          "y": 16,
+          "width": 585.625,
+          "height": 21,
+          "right": -15374.375,
+          "bottom": 37
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 1220.0625,
+            "width": 1424,
+            "height": 0,
+            "right": 1432,
+            "bottom": 1220.0625
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 1220.0625,
+            "width": 1424,
+            "height": 0,
+            "right": 1432,
+            "bottom": 1220.0625
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 1183.0625,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 1204.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "사설 축구 승부 내기방을 소개합니다. 잔액을 충전한 계정으로 배당에 참여하세요.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "blockquote",
+        "target_quoted": true,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "상담 사례를 설명하기 위해 아래 피해 유도 표현을 그대로 옮깁니다. 금전 거래를 권장하는 내용이 아닙니다."
+          },
+          {
+            "relation": "target",
+            "tag": "blockquote",
+            "quoted": true
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "사설 축구 승부 내기방을 소개합니다. 잔액을 충전한 계정으로 배당에 참여하세요.",
+      "signals": [
+        "OFFSCREEN"
+      ]
+    },
+    {
+      "node_id": "n_2145fef8d88c3a46",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "blockquote#vaf14add6be7a",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "blockquote#vaf14add6be7a",
+      "raw_text": "사설 축구 승부 내기방을 소개합니다. 잔액을 충전한 계정으로 배당에 참여하세요.",
+      "own_style": {
+        "tag": "blockquote",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "absolute",
+        "rect": {
+          "x": -15960,
+          "y": 16,
+          "width": 585.625,
+          "height": 21,
+          "right": -15374.375,
+          "bottom": 37
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 1257.0625,
+            "width": 1424,
+            "height": 0,
+            "right": 1432,
+            "bottom": 1257.0625
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 1257.0625,
+            "width": 1424,
+            "height": 0,
+            "right": 1432,
+            "bottom": 1257.0625
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 1220.0625,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 1241.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "사설 축구 승부 내기방을 소개합니다. 잔액을 충전한 계정으로 배당에 참여하세요.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "blockquote",
+        "target_quoted": true,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요."
+          },
+          {
+            "relation": "target",
+            "tag": "blockquote",
+            "quoted": true
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "사설 축구 승부 내기방을 소개합니다. 잔액을 충전한 계정으로 배당에 참여하세요.",
+      "signals": [
+        "OFFSCREEN"
+      ]
+    },
+    {
+      "node_id": "n_660ad089da7a8dc2",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "blockquote#vb33237232742",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "blockquote#vb33237232742",
+      "raw_text": "사설 축구 승부 내기방을 소개합니다. 잔액을 충전한 계정으로 배당에 참여하세요.",
+      "own_style": {
+        "tag": "blockquote",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "absolute",
+        "rect": {
+          "x": -15960,
+          "y": 16,
+          "width": 585.625,
+          "height": 21,
+          "right": -15374.375,
+          "bottom": 37
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 1331.0625,
+            "width": 1424,
+            "height": 0,
+            "right": 1432,
+            "bottom": 1331.0625
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 1331.0625,
+            "width": 1424,
+            "height": 0,
+            "right": 1432,
+            "bottom": 1331.0625
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 1294.0625,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 1315.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "사설 축구 승부 내기방을 소개합니다. 잔액을 충전한 계정으로 배당에 참여하세요.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "blockquote",
+        "target_quoted": true,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다."
+          },
+          {
+            "relation": "target",
+            "tag": "blockquote",
+            "quoted": true
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "사설 축구 승부 내기방을 소개합니다. 잔액을 충전한 계정으로 배당에 참여하세요.",
+      "signals": [
+        "OFFSCREEN"
+      ]
+    },
+    {
+      "node_id": "n_f76a620883582c3e",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "span#v3b16777efda6",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "span#v3b16777efda6",
+      "raw_text": "ＣＡＳＩＮＯ · 불법 촬영 영상의 유료 압축 파일을 판매합니다. 대금이 확인되면 내려받기 주소를 전달합니다.",
+      "own_style": {
+        "tag": "span",
+        "opacity": 1,
+        "display": "inline",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 1331.0625,
+          "width": 787.625,
+          "height": 21,
+          "right": 795.625,
+          "bottom": 1352.0625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 1331.0625,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 1352.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "ＣＡＳＩＮＯ · 불법 촬영 영상의 유료 압축 파일을 판매합니다. 대금이 확인되면 내려받기 주소를 전달합니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "span",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "span",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "CASINO · 불법 촬영 영상의 유료 압축 파일을 판매합니다. 대금이 확인되면 내려받기 주소를 전달합니다.",
+      "signals": [
+        "HOMOGLYPH"
+      ]
+    },
+    {
+      "node_id": "n_e93754e906bfe4a2",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "span#v7eb7f75a5e26",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "span#v7eb7f75a5e26",
+      "raw_text": "ＣＡＳＩＮＯ · 불법 촬영 영상의 유료 압축 파일을 판매합니다. 대금이 확인되면 내려받기 주소를 전달합니다.",
+      "own_style": {
+        "tag": "span",
+        "opacity": 1,
+        "display": "inline",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 1405.0625,
+          "width": 787.625,
+          "height": 21,
+          "right": 795.625,
+          "bottom": 1426.0625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 1368.0625,
+            "width": 1424,
+            "height": 58,
+            "right": 1432,
+            "bottom": 1426.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "이 문장은 수사 기록의 발췌문입니다. 아래 제안을 실행하지 말고 제보 자료로만 확인하세요.",
+        "after": ""
+      },
+      "context": "이 문장은 수사 기록의 발췌문입니다. 아래 제안을 실행하지 말고 제보 자료로만 확인하세요.ＣＡＳＩＮＯ · 불법 촬영 영상의 유료 압축 파일을 판매합니다. 대금이 확인되면 내려받기 주소를 전달합니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "span",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "이 문장은 수사 기록의 발췌문입니다. 아래 제안을 실행하지 말고 제보 자료로만 확인하세요."
+          },
+          {
+            "relation": "target",
+            "tag": "span",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "CASINO · 불법 촬영 영상의 유료 압축 파일을 판매합니다. 대금이 확인되면 내려받기 주소를 전달합니다.",
+      "signals": [
+        "HOMOGLYPH"
+      ]
+    },
+    {
+      "node_id": "n_25befa246b275f53",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "span#v3950229c2c53",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "span#v3950229c2c53",
+      "raw_text": "ＣＡＳＩＮＯ · 불법 촬영 영상의 유료 압축 파일을 판매합니다. 대금이 확인되면 내려받기 주소를 전달합니다.",
+      "own_style": {
+        "tag": "span",
+        "opacity": 1,
+        "display": "inline",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 1479.0625,
+          "width": 787.625,
+          "height": 21,
+          "right": 795.625,
+          "bottom": 1500.0625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 1442.0625,
+            "width": 1424,
+            "height": 58,
+            "right": 1432,
+            "bottom": 1500.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.",
+        "after": ""
+      },
+      "context": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.ＣＡＳＩＮＯ · 불법 촬영 영상의 유료 압축 파일을 판매합니다. 대금이 확인되면 내려받기 주소를 전달합니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "span",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요."
+          },
+          {
+            "relation": "target",
+            "tag": "span",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "CASINO · 불법 촬영 영상의 유료 압축 파일을 판매합니다. 대금이 확인되면 내려받기 주소를 전달합니다.",
+      "signals": [
+        "HOMOGLYPH"
+      ]
+    },
+    {
+      "node_id": "n_448374cf03bb0fb7",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "span#vaa418514d3d9",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "span#vaa418514d3d9",
+      "raw_text": "ＣＡＳＩＮＯ · 불법 촬영 영상의 유료 압축 파일을 판매합니다. 대금이 확인되면 내려받기 주소를 전달합니다.",
+      "own_style": {
+        "tag": "span",
+        "opacity": 1,
+        "display": "inline",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 1611.0625,
+          "width": 787.625,
+          "height": 21,
+          "right": 795.625,
+          "bottom": 1632.0625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 1574.0625,
+            "width": 1424,
+            "height": 58,
+            "right": 1432,
+            "bottom": 1632.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.",
+        "after": ""
+      },
+      "context": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.ＣＡＳＩＮＯ · 불법 촬영 영상의 유료 압축 파일을 판매합니다. 대금이 확인되면 내려받기 주소를 전달합니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "span",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다."
+          },
+          {
+            "relation": "target",
+            "tag": "span",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "CASINO · 불법 촬영 영상의 유료 압축 파일을 판매합니다. 대금이 확인되면 내려받기 주소를 전달합니다.",
+      "signals": [
+        "HOMOGLYPH"
+      ]
+    },
+    {
+      "node_id": "n_539a87ac32cf664e",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "a#v9591a3d38812",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "a#v9591a3d38812",
+      "raw_text": "동의 없이 촬영된 성적 영상의 비공개 보관함입니다. 회비를 낸 회원에게 열람 계정을 발급합니다.",
+      "own_style": {
+        "tag": "a",
+        "opacity": 1,
+        "display": "inline",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 238)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 1653.0625,
+          "width": 698.5,
+          "height": 21,
+          "right": 706.5,
+          "bottom": 1674.0625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 1653.0625,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 1674.0625
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 1653.0625,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 1674.0625
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 1653.0625,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 1674.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "동의 없이 촬영된 성적 영상의 비공개 보관함입니다. 회비를 낸 회원에게 열람 계정을 발급합니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "a",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "동의 없이 촬영된 성적 영상의 비공개 보관함입니다. 회비를 낸 회원에게 열람 계정을 발급합니다.",
+      "signals": [
+        "JAMO"
+      ]
+    },
+    {
+      "node_id": "n_7ab034c0857c5945",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "a#v6f8a6562e7b5",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "a#v6f8a6562e7b5",
+      "raw_text": "동의 없이 촬영된 성적 영상의 비공개 보관함입니다. 회비를 낸 회원에게 열람 계정을 발급합니다.",
+      "own_style": {
+        "tag": "a",
+        "opacity": 1,
+        "display": "inline",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 238)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 1674.0625,
+          "width": 698.5,
+          "height": 21,
+          "right": 706.5,
+          "bottom": 1695.0625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 1674.0625,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 1695.0625
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 1674.0625,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 1695.0625
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 1674.0625,
+            "width": 1424,
+            "height": 58,
+            "right": 1432,
+            "bottom": 1732.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "동의 없이 촬영된 성적 영상의 비공개 보관함입니다. 회비를 낸 회원에게 열람 계정을 발급합니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "a",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "quoted": false,
+            "text": "위의 내용은 차단된 게시물의 증거 사본입니다. 실제 참여 안내로 받아들이지 마세요."
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "동의 없이 촬영된 성적 영상의 비공개 보관함입니다. 회비를 낸 회원에게 열람 계정을 발급합니다.",
+      "signals": [
+        "JAMO"
+      ]
+    },
+    {
+      "node_id": "n_deb3eb528ce5d373",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "a#v65380edcdd33",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "a#v65380edcdd33",
+      "raw_text": "동의 없이 촬영된 성적 영상의 비공개 보관함입니다. 회비를 낸 회원에게 열람 계정을 발급합니다.",
+      "own_style": {
+        "tag": "a",
+        "opacity": 1,
+        "display": "inline",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 238)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 1785.0625,
+          "width": 698.5,
+          "height": 21,
+          "right": 706.5,
+          "bottom": 1806.0625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 1785.0625,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 1806.0625
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 1785.0625,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 1806.0625
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 1748.0625,
+            "width": 1424,
+            "height": 58,
+            "right": 1432,
+            "bottom": 1806.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "동의 없이 촬영된 성적 영상의 비공개 보관함입니다. 회비를 낸 회원에게 열람 계정을 발급합니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "a",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요."
+          },
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "동의 없이 촬영된 성적 영상의 비공개 보관함입니다. 회비를 낸 회원에게 열람 계정을 발급합니다.",
+      "signals": [
+        "JAMO"
+      ]
+    },
+    {
+      "node_id": "n_6778f23ba5e3587a",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "a#v1ea86f4b1a5c",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "a#v1ea86f4b1a5c",
+      "raw_text": "동의 없이 촬영된 성적 영상의 비공개 보관함입니다. 회비를 낸 회원에게 열람 계정을 발급합니다.",
+      "own_style": {
+        "tag": "a",
+        "opacity": 1,
+        "display": "inline",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 238)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 1917.0625,
+          "width": 698.5,
+          "height": 21,
+          "right": 706.5,
+          "bottom": 1938.0625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 1917.0625,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 1938.0625
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 1917.0625,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 1938.0625
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 1880.0625,
+            "width": 1424,
+            "height": 58,
+            "right": 1432,
+            "bottom": 1938.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "동의 없이 촬영된 성적 영상의 비공개 보관함입니다. 회비를 낸 회원에게 열람 계정을 발급합니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "a",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다."
+          },
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "동의 없이 촬영된 성적 영상의 비공개 보관함입니다. 회비를 낸 회원에게 열람 계정을 발급합니다.",
+      "signals": [
+        "JAMO"
+      ]
+    },
+    {
+      "node_id": "n_3b7aedc3d2e73700",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "p#vba54aaa39f31",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "p#vba54aaa39f31",
+      "raw_text": "유출된 사적 성인 영상 묶음을 구매하실 분을 찾습니다. 송금 확인 후 접근 암호를 드립니다.",
+      "own_style": {
+        "tag": "p",
+        "opacity": 0,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 1975.0625,
+          "width": 1424,
+          "height": 21,
+          "right": 1432,
+          "bottom": 1996.0625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 1975.0625,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 1996.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "유출된 사적 성인 영상 묶음을 구매하실 분을 찾습니다. 송금 확인 후 접근 암호를 드립니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "p",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "유출된 사적 성인 영상 묶음을 구매하실 분을 찾습니다. 송금 확인 후 접근 암호를 드립니다.",
+      "signals": [
+        "TRANSPARENT"
+      ]
+    },
+    {
+      "node_id": "n_ac8d261445a2c6f3",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "p#vaa28100e0952",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "p#vaa28100e0952",
+      "raw_text": "유출된 사적 성인 영상 묶음을 구매하실 분을 찾습니다. 송금 확인 후 접근 암호를 드립니다.",
+      "own_style": {
+        "tag": "p",
+        "opacity": 0,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 2049.0625,
+          "width": 1424,
+          "height": 21,
+          "right": 1432,
+          "bottom": 2070.0625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 2012.0625,
+            "width": 1424,
+            "height": 58,
+            "right": 1432,
+            "bottom": 2070.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "이 문장은 수사 기록의 발췌문입니다. 아래 제안을 실행하지 말고 제보 자료로만 확인하세요.",
+        "after": ""
+      },
+      "context": "이 문장은 수사 기록의 발췌문입니다. 아래 제안을 실행하지 말고 제보 자료로만 확인하세요.유출된 사적 성인 영상 묶음을 구매하실 분을 찾습니다. 송금 확인 후 접근 암호를 드립니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "이 문장은 수사 기록의 발췌문입니다. 아래 제안을 실행하지 말고 제보 자료로만 확인하세요."
+          },
+          {
+            "relation": "target",
+            "tag": "p",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "유출된 사적 성인 영상 묶음을 구매하실 분을 찾습니다. 송금 확인 후 접근 암호를 드립니다.",
+      "signals": [
+        "TRANSPARENT"
+      ]
+    },
+    {
+      "node_id": "n_9d5de19d462b09af",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "p#v57cae5373ea9",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "p#v57cae5373ea9",
+      "raw_text": "유출된 사적 성인 영상 묶음을 구매하실 분을 찾습니다. 송금 확인 후 접근 암호를 드립니다.",
+      "own_style": {
+        "tag": "p",
+        "opacity": 0,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 2123.0625,
+          "width": 1424,
+          "height": 21,
+          "right": 1432,
+          "bottom": 2144.0625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 2086.0625,
+            "width": 1424,
+            "height": 58,
+            "right": 1432,
+            "bottom": 2144.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.",
+        "after": ""
+      },
+      "context": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.유출된 사적 성인 영상 묶음을 구매하실 분을 찾습니다. 송금 확인 후 접근 암호를 드립니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요."
+          },
+          {
+            "relation": "target",
+            "tag": "p",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "유출된 사적 성인 영상 묶음을 구매하실 분을 찾습니다. 송금 확인 후 접근 암호를 드립니다.",
+      "signals": [
+        "TRANSPARENT"
+      ]
+    },
+    {
+      "node_id": "n_dad7590ac312127a",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "p#vde15d6efdec7",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "p#vde15d6efdec7",
+      "raw_text": "유출된 사적 성인 영상 묶음을 구매하실 분을 찾습니다. 송금 확인 후 접근 암호를 드립니다.",
+      "own_style": {
+        "tag": "p",
+        "opacity": 0,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 2271.0625,
+          "width": 1424,
+          "height": 21,
+          "right": 1432,
+          "bottom": 2292.0625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 2234.0625,
+            "width": 1424,
+            "height": 58,
+            "right": 1432,
+            "bottom": 2292.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.",
+        "after": ""
+      },
+      "context": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.유출된 사적 성인 영상 묶음을 구매하실 분을 찾습니다. 송금 확인 후 접근 암호를 드립니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다."
+          },
+          {
+            "relation": "target",
+            "tag": "p",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "유출된 사적 성인 영상 묶음을 구매하실 분을 찾습니다. 송금 확인 후 접근 암호를 드립니다.",
+      "signals": [
+        "TRANSPARENT"
+      ]
+    },
+    {
+      "node_id": "n_76948cac8d049d78",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "h2#va10f25912775",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "h2#va10f25912775",
+      "raw_text": "불법 촬영물 교환 채널에 들어오세요. 유료 등급으로 가입하면 매일 새 자료를 받을 수 있습니다.",
+      "own_style": {
+        "tag": "h2",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 24,
+        "position": "absolute",
+        "rect": {
+          "x": -16000,
+          "y": 19.90625,
+          "width": 1034.25,
+          "height": 32,
+          "right": -14965.75,
+          "bottom": 51.90625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 2345.0625,
+            "width": 1424,
+            "height": 0,
+            "right": 1432,
+            "bottom": 2345.0625
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 2345.0625,
+            "width": 1424,
+            "height": 0,
+            "right": 1432,
+            "bottom": 2345.0625
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 2345.0625,
+            "width": 1424,
+            "height": 0,
+            "right": 1432,
+            "bottom": 2345.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "불법 촬영물 교환 채널에 들어오세요. 유료 등급으로 가입하면 매일 새 자료를 받을 수 있습니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "h2",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "h2",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "불법 촬영물 교환 채널에 들어오세요. 유료 등급으로 가입하면 매일 새 자료를 받을 수 있습니다.",
+      "signals": [
+        "OFFSCREEN"
+      ]
+    },
+    {
+      "node_id": "n_c004e0f1d261d886",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "h2#vfd7a49aa9eb5",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "h2#vfd7a49aa9eb5",
+      "raw_text": "불법 촬영물 교환 채널에 들어오세요. 유료 등급으로 가입하면 매일 새 자료를 받을 수 있습니다.",
+      "own_style": {
+        "tag": "h2",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 24,
+        "position": "absolute",
+        "rect": {
+          "x": -16000,
+          "y": 19.90625,
+          "width": 1034.25,
+          "height": 32,
+          "right": -14965.75,
+          "bottom": 51.90625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 2382.0625,
+            "width": 1424,
+            "height": 0,
+            "right": 1432,
+            "bottom": 2382.0625
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 2382.0625,
+            "width": 1424,
+            "height": 0,
+            "right": 1432,
+            "bottom": 2382.0625
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 2345.0625,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 2366.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "불법 촬영물 교환 채널에 들어오세요. 유료 등급으로 가입하면 매일 새 자료를 받을 수 있습니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "h2",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "상담 사례를 설명하기 위해 아래 피해 유도 표현을 그대로 옮깁니다. 금전 거래를 권장하는 내용이 아닙니다."
+          },
+          {
+            "relation": "target",
+            "tag": "h2",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "불법 촬영물 교환 채널에 들어오세요. 유료 등급으로 가입하면 매일 새 자료를 받을 수 있습니다.",
+      "signals": [
+        "OFFSCREEN"
+      ]
+    },
+    {
+      "node_id": "n_c2e3f5c837090b94",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "h2#vb79271be89e4",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "h2#vb79271be89e4",
+      "raw_text": "불법 촬영물 교환 채널에 들어오세요. 유료 등급으로 가입하면 매일 새 자료를 받을 수 있습니다.",
+      "own_style": {
+        "tag": "h2",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 24,
+        "position": "absolute",
+        "rect": {
+          "x": -16000,
+          "y": 19.90625,
+          "width": 1034.25,
+          "height": 32,
+          "right": -14965.75,
+          "bottom": 51.90625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 2419.0625,
+            "width": 1424,
+            "height": 0,
+            "right": 1432,
+            "bottom": 2419.0625
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 2419.0625,
+            "width": 1424,
+            "height": 0,
+            "right": 1432,
+            "bottom": 2419.0625
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 2382.0625,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 2403.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "불법 촬영물 교환 채널에 들어오세요. 유료 등급으로 가입하면 매일 새 자료를 받을 수 있습니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "h2",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요."
+          },
+          {
+            "relation": "target",
+            "tag": "h2",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "불법 촬영물 교환 채널에 들어오세요. 유료 등급으로 가입하면 매일 새 자료를 받을 수 있습니다.",
+      "signals": [
+        "OFFSCREEN"
+      ]
+    },
+    {
+      "node_id": "n_3d41e13f5b9b53a3",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "h2#vda5bcf77f32f",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "h2#vda5bcf77f32f",
+      "raw_text": "불법 촬영물 교환 채널에 들어오세요. 유료 등급으로 가입하면 매일 새 자료를 받을 수 있습니다.",
+      "own_style": {
+        "tag": "h2",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 24,
+        "position": "absolute",
+        "rect": {
+          "x": -16000,
+          "y": 19.90625,
+          "width": 1034.25,
+          "height": 32,
+          "right": -14965.75,
+          "bottom": 51.90625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 2493.0625,
+            "width": 1424,
+            "height": 0,
+            "right": 1432,
+            "bottom": 2493.0625
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 2493.0625,
+            "width": 1424,
+            "height": 0,
+            "right": 1432,
+            "bottom": 2493.0625
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 2456.0625,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 2477.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "불법 촬영물 교환 채널에 들어오세요. 유료 등급으로 가입하면 매일 새 자료를 받을 수 있습니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "h2",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다."
+          },
+          {
+            "relation": "target",
+            "tag": "h2",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "불법 촬영물 교환 채널에 들어오세요. 유료 등급으로 가입하면 매일 새 자료를 받을 수 있습니다.",
+      "signals": [
+        "OFFSCREEN"
+      ]
+    },
+    {
+      "node_id": "n_dd295e03eccafaa3",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "div#v302a2ca0d4a0",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "div#v302a2ca0d4a0",
+      "raw_text": "ＣＡＳＩＮＯ · 미등록 온라인 경주 도박의 참여 계좌를 안내합니다. 판돈을 입금한 뒤 결과에 베팅하세요.",
+      "own_style": {
+        "tag": "div",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 2493.0625,
+          "width": 1424,
+          "height": 21,
+          "right": 1432,
+          "bottom": 2514.0625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 2493.0625,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 2514.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "ＣＡＳＩＮＯ · 미등록 온라인 경주 도박의 참여 계좌를 안내합니다. 판돈을 입금한 뒤 결과에 베팅하세요.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "div",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "div",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "CASINO · 미등록 온라인 경주 도박의 참여 계좌를 안내합니다. 판돈을 입금한 뒤 결과에 베팅하세요.",
+      "signals": [
+        "HOMOGLYPH"
+      ]
+    },
+    {
+      "node_id": "n_86f82e0d28d9d3cb",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "div#vbce2d03c2785",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "div#vbce2d03c2785",
+      "raw_text": "ＣＡＳＩＮＯ · 미등록 온라인 경주 도박의 참여 계좌를 안내합니다. 판돈을 입금한 뒤 결과에 베팅하세요.",
+      "own_style": {
+        "tag": "div",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 2514.0625,
+          "width": 1424,
+          "height": 21,
+          "right": 1432,
+          "bottom": 2535.0625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 2514.0625,
+            "width": 1424,
+            "height": 58,
+            "right": 1432,
+            "bottom": 2572.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": "위의 내용은 차단된 게시물의 증거 사본입니다. 실제 참여 안내로 받아들이지 마세요."
+      },
+      "context": "ＣＡＳＩＮＯ · 미등록 온라인 경주 도박의 참여 계좌를 안내합니다. 판돈을 입금한 뒤 결과에 베팅하세요.위의 내용은 차단된 게시물의 증거 사본입니다. 실제 참여 안내로 받아들이지 마세요.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "div",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "div",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "quoted": false,
+            "text": "위의 내용은 차단된 게시물의 증거 사본입니다. 실제 참여 안내로 받아들이지 마세요."
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "CASINO · 미등록 온라인 경주 도박의 참여 계좌를 안내합니다. 판돈을 입금한 뒤 결과에 베팅하세요.",
+      "signals": [
+        "HOMOGLYPH"
+      ]
+    },
+    {
+      "node_id": "n_aa4a6f3cd2d0b42a",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "div#v8ac0fa201693",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "div#v8ac0fa201693",
+      "raw_text": "ＣＡＳＩＮＯ · 미등록 온라인 경주 도박의 참여 계좌를 안내합니다. 판돈을 입금한 뒤 결과에 베팅하세요.",
+      "own_style": {
+        "tag": "div",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 2625.0625,
+          "width": 1424,
+          "height": 21,
+          "right": 1432,
+          "bottom": 2646.0625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 2588.0625,
+            "width": 1424,
+            "height": 58,
+            "right": 1432,
+            "bottom": 2646.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.",
+        "after": ""
+      },
+      "context": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.ＣＡＳＩＮＯ · 미등록 온라인 경주 도박의 참여 계좌를 안내합니다. 판돈을 입금한 뒤 결과에 베팅하세요.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "div",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요."
+          },
+          {
+            "relation": "target",
+            "tag": "div",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "CASINO · 미등록 온라인 경주 도박의 참여 계좌를 안내합니다. 판돈을 입금한 뒤 결과에 베팅하세요.",
+      "signals": [
+        "HOMOGLYPH"
+      ]
+    },
+    {
+      "node_id": "n_a3a3a3b407cf1b83",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "div#v00b6521b65f1",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "div#v00b6521b65f1",
+      "raw_text": "ＣＡＳＩＮＯ · 미등록 온라인 경주 도박의 참여 계좌를 안내합니다. 판돈을 입금한 뒤 결과에 베팅하세요.",
+      "own_style": {
+        "tag": "div",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 2757.0625,
+          "width": 1424,
+          "height": 21,
+          "right": 1432,
+          "bottom": 2778.0625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 2720.0625,
+            "width": 1424,
+            "height": 58,
+            "right": 1432,
+            "bottom": 2778.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.",
+        "after": ""
+      },
+      "context": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.ＣＡＳＩＮＯ · 미등록 온라인 경주 도박의 참여 계좌를 안내합니다. 판돈을 입금한 뒤 결과에 베팅하세요.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "div",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다."
+          },
+          {
+            "relation": "target",
+            "tag": "div",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "CASINO · 미등록 온라인 경주 도박의 참여 계좌를 안내합니다. 판돈을 입금한 뒤 결과에 베팅하세요.",
+      "signals": [
+        "HOMOGLYPH"
+      ]
+    },
+    {
+      "node_id": "n_139070788e26e991",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "blockquote#v87327f3b5ae6",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "blockquote#v87327f3b5ae6",
+      "raw_text": "현금으로 정산하는 사설 주사위 게임을 운영합니다. 계정을 개설하고 참여금을 충전해 주세요.",
+      "own_style": {
+        "tag": "blockquote",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 48,
+          "y": 2815.0625,
+          "width": 1344,
+          "height": 21,
+          "right": 1392,
+          "bottom": 2836.0625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 2815.0625,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 2836.0625
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 2815.0625,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 2836.0625
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 2815.0625,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 2836.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "현금으로 정산하는 사설 주사위 게임을 운영합니다. 계정을 개설하고 참여금을 충전해 주세요.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "blockquote",
+        "target_quoted": true,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "blockquote",
+            "quoted": true
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "현금으로 정산하는 사설 주사위 게임을 운영합니다. 계정을 개설하고 참여금을 충전해 주세요.",
+      "signals": [
+        "JAMO"
+      ]
+    },
+    {
+      "node_id": "n_ba80f6be0eb170d5",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "blockquote#veddf40defef0",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "blockquote#veddf40defef0",
+      "raw_text": "현금으로 정산하는 사설 주사위 게임을 운영합니다. 계정을 개설하고 참여금을 충전해 주세요.",
+      "own_style": {
+        "tag": "blockquote",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 48,
+          "y": 2889.0625,
+          "width": 1344,
+          "height": 21,
+          "right": 1392,
+          "bottom": 2910.0625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 2889.0625,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 2910.0625
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 2889.0625,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 2910.0625
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 2852.0625,
+            "width": 1424,
+            "height": 58,
+            "right": 1432,
+            "bottom": 2910.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "현금으로 정산하는 사설 주사위 게임을 운영합니다. 계정을 개설하고 참여금을 충전해 주세요.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "blockquote",
+        "target_quoted": true,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "상담 사례를 설명하기 위해 아래 피해 유도 표현을 그대로 옮깁니다. 금전 거래를 권장하는 내용이 아닙니다."
+          },
+          {
+            "relation": "target",
+            "tag": "blockquote",
+            "quoted": true
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "현금으로 정산하는 사설 주사위 게임을 운영합니다. 계정을 개설하고 참여금을 충전해 주세요.",
+      "signals": [
+        "JAMO"
+      ]
+    },
+    {
+      "node_id": "n_edaea5788505aeca",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "blockquote#vce8adb44baa4",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "blockquote#vce8adb44baa4",
+      "raw_text": "현금으로 정산하는 사설 주사위 게임을 운영합니다. 계정을 개설하고 참여금을 충전해 주세요.",
+      "own_style": {
+        "tag": "blockquote",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 48,
+          "y": 2963.0625,
+          "width": 1344,
+          "height": 21,
+          "right": 1392,
+          "bottom": 2984.0625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 2963.0625,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 2984.0625
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 2963.0625,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 2984.0625
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 2926.0625,
+            "width": 1424,
+            "height": 58,
+            "right": 1432,
+            "bottom": 2984.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "현금으로 정산하는 사설 주사위 게임을 운영합니다. 계정을 개설하고 참여금을 충전해 주세요.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "blockquote",
+        "target_quoted": true,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요."
+          },
+          {
+            "relation": "target",
+            "tag": "blockquote",
+            "quoted": true
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "현금으로 정산하는 사설 주사위 게임을 운영합니다. 계정을 개설하고 참여금을 충전해 주세요.",
+      "signals": [
+        "JAMO"
+      ]
+    },
+    {
+      "node_id": "n_e81e4f8050510dd3",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "blockquote#v8c2908404380",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "blockquote#v8c2908404380",
+      "raw_text": "현금으로 정산하는 사설 주사위 게임을 운영합니다. 계정을 개설하고 참여금을 충전해 주세요.",
+      "own_style": {
+        "tag": "blockquote",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 48,
+          "y": 3111.0625,
+          "width": 1344,
+          "height": 21,
+          "right": 1392,
+          "bottom": 3132.0625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 3111.0625,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 3132.0625
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 3111.0625,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 3132.0625
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 3074.0625,
+            "width": 1424,
+            "height": 58,
+            "right": 1432,
+            "bottom": 3132.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "현금으로 정산하는 사설 주사위 게임을 운영합니다. 계정을 개설하고 참여금을 충전해 주세요.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "blockquote",
+        "target_quoted": true,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다."
+          },
+          {
+            "relation": "target",
+            "tag": "blockquote",
+            "quoted": true
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "현금으로 정산하는 사설 주사위 게임을 운영합니다. 계정을 개설하고 참여금을 충전해 주세요.",
+      "signals": [
+        "JAMO"
+      ]
+    },
+    {
+      "node_id": "n_b97b59ce032e6b0d",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "span#va11fd292c64f",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "span#va11fd292c64f",
+      "raw_text": "허가 없는 온라인 도박 전용 회원권을 판매합니다. 이체를 완료하면 비공개 접속 주소가 제공됩니다.",
+      "own_style": {
+        "tag": "span",
+        "opacity": 0,
+        "display": "inline",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 3185.0625,
+          "width": 714.5,
+          "height": 21,
+          "right": 722.5,
+          "bottom": 3206.0625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 3185.0625,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 3206.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "허가 없는 온라인 도박 전용 회원권을 판매합니다. 이체를 완료하면 비공개 접속 주소가 제공됩니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "span",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "span",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "허가 없는 온라인 도박 전용 회원권을 판매합니다. 이체를 완료하면 비공개 접속 주소가 제공됩니다.",
+      "signals": [
+        "TRANSPARENT"
+      ]
+    },
+    {
+      "node_id": "n_80c399c488641a61",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "span#v8cae88d03567",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "span#v8cae88d03567",
+      "raw_text": "허가 없는 온라인 도박 전용 회원권을 판매합니다. 이체를 완료하면 비공개 접속 주소가 제공됩니다.",
+      "own_style": {
+        "tag": "span",
+        "opacity": 0,
+        "display": "inline",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 3259.0625,
+          "width": 714.5,
+          "height": 21,
+          "right": 722.5,
+          "bottom": 3280.0625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 3222.0625,
+            "width": 1424,
+            "height": 58,
+            "right": 1432,
+            "bottom": 3280.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "이 문장은 수사 기록의 발췌문입니다. 아래 제안을 실행하지 말고 제보 자료로만 확인하세요.",
+        "after": ""
+      },
+      "context": "이 문장은 수사 기록의 발췌문입니다. 아래 제안을 실행하지 말고 제보 자료로만 확인하세요.허가 없는 온라인 도박 전용 회원권을 판매합니다. 이체를 완료하면 비공개 접속 주소가 제공됩니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "span",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "이 문장은 수사 기록의 발췌문입니다. 아래 제안을 실행하지 말고 제보 자료로만 확인하세요."
+          },
+          {
+            "relation": "target",
+            "tag": "span",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "허가 없는 온라인 도박 전용 회원권을 판매합니다. 이체를 완료하면 비공개 접속 주소가 제공됩니다.",
+      "signals": [
+        "TRANSPARENT"
+      ]
+    },
+    {
+      "node_id": "n_41f22dd20914d4e1",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "span#ve55304d782fe",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "span#ve55304d782fe",
+      "raw_text": "허가 없는 온라인 도박 전용 회원권을 판매합니다. 이체를 완료하면 비공개 접속 주소가 제공됩니다.",
+      "own_style": {
+        "tag": "span",
+        "opacity": 0,
+        "display": "inline",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 3333.0625,
+          "width": 714.5,
+          "height": 21,
+          "right": 722.5,
+          "bottom": 3354.0625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 3296.0625,
+            "width": 1424,
+            "height": 58,
+            "right": 1432,
+            "bottom": 3354.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.",
+        "after": ""
+      },
+      "context": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요.허가 없는 온라인 도박 전용 회원권을 판매합니다. 이체를 완료하면 비공개 접속 주소가 제공됩니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "span",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요."
+          },
+          {
+            "relation": "target",
+            "tag": "span",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "허가 없는 온라인 도박 전용 회원권을 판매합니다. 이체를 완료하면 비공개 접속 주소가 제공됩니다.",
+      "signals": [
+        "TRANSPARENT"
+      ]
+    },
+    {
+      "node_id": "n_a06e02d948e8bade",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "span#v3fd8febeabad",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "span#v3fd8febeabad",
+      "raw_text": "허가 없는 온라인 도박 전용 회원권을 판매합니다. 이체를 완료하면 비공개 접속 주소가 제공됩니다.",
+      "own_style": {
+        "tag": "span",
+        "opacity": 0,
+        "display": "inline",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 3465.0625,
+          "width": 714.5,
+          "height": 21,
+          "right": 722.5,
+          "bottom": 3486.0625
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 3428.0625,
+            "width": 1424,
+            "height": 58,
+            "right": 1432,
+            "bottom": 3486.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.",
+        "after": ""
+      },
+      "context": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다.허가 없는 온라인 도박 전용 회원권을 판매합니다. 이체를 완료하면 비공개 접속 주소가 제공됩니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "span",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다."
+          },
+          {
+            "relation": "target",
+            "tag": "span",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "허가 없는 온라인 도박 전용 회원권을 판매합니다. 이체를 완료하면 비공개 접속 주소가 제공됩니다.",
+      "signals": [
+        "TRANSPARENT"
+      ]
+    },
+    {
+      "node_id": "n_56e800c48f6c65ec",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "a#vf309aa27ded0",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "a#vf309aa27ded0",
+      "raw_text": "불법 촬영물을 모아 둔 유료 저장소를 운영합니다. 가입비를 보내면 다운로드 제한이 해제됩니다.",
+      "own_style": {
+        "tag": "a",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 238)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "absolute",
+        "rect": {
+          "x": -16000,
+          "y": 0,
+          "width": 692.875,
+          "height": 21,
+          "right": -15307.125,
+          "bottom": 21
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 3507.0625,
+            "width": 1424,
+            "height": 0,
+            "right": 1432,
+            "bottom": 3507.0625
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 3507.0625,
+            "width": 1424,
+            "height": 0,
+            "right": 1432,
+            "bottom": 3507.0625
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 3507.0625,
+            "width": 1424,
+            "height": 0,
+            "right": 1432,
+            "bottom": 3507.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "불법 촬영물을 모아 둔 유료 저장소를 운영합니다. 가입비를 보내면 다운로드 제한이 해제됩니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "a",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "불법 촬영물을 모아 둔 유료 저장소를 운영합니다. 가입비를 보내면 다운로드 제한이 해제됩니다.",
+      "signals": [
+        "OFFSCREEN"
+      ]
+    },
+    {
+      "node_id": "n_eed7bbd61bc1420e",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "a#v272bb8000b25",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "a#v272bb8000b25",
+      "raw_text": "불법 촬영물을 모아 둔 유료 저장소를 운영합니다. 가입비를 보내면 다운로드 제한이 해제됩니다.",
+      "own_style": {
+        "tag": "a",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 238)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "absolute",
+        "rect": {
+          "x": -16000,
+          "y": 0,
+          "width": 692.875,
+          "height": 21,
+          "right": -15307.125,
+          "bottom": 21
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 3523.0625,
+            "width": 1424,
+            "height": 0,
+            "right": 1432,
+            "bottom": 3523.0625
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 3523.0625,
+            "width": 1424,
+            "height": 0,
+            "right": 1432,
+            "bottom": 3523.0625
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 3523.0625,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 3544.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "불법 촬영물을 모아 둔 유료 저장소를 운영합니다. 가입비를 보내면 다운로드 제한이 해제됩니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "a",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "quoted": false,
+            "text": "위의 내용은 차단된 게시물의 증거 사본입니다. 실제 참여 안내로 받아들이지 마세요."
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "불법 촬영물을 모아 둔 유료 저장소를 운영합니다. 가입비를 보내면 다운로드 제한이 해제됩니다.",
+      "signals": [
+        "OFFSCREEN"
+      ]
+    },
+    {
+      "node_id": "n_3a0c454af3e03fd9",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "a#v167025c70035",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "a#v167025c70035",
+      "raw_text": "불법 촬영물을 모아 둔 유료 저장소를 운영합니다. 가입비를 보내면 다운로드 제한이 해제됩니다.",
+      "own_style": {
+        "tag": "a",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 238)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "absolute",
+        "rect": {
+          "x": -16000,
+          "y": 0,
+          "width": 692.875,
+          "height": 21,
+          "right": -15307.125,
+          "bottom": 21
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 3597.0625,
+            "width": 1424,
+            "height": 0,
+            "right": 1432,
+            "bottom": 3597.0625
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 3597.0625,
+            "width": 1424,
+            "height": 0,
+            "right": 1432,
+            "bottom": 3597.0625
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 3560.0625,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 3581.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "불법 촬영물을 모아 둔 유료 저장소를 운영합니다. 가입비를 보내면 다운로드 제한이 해제됩니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "a",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "금전 피해가 발생하면 담당 기관에 상담을 요청하세요."
+          },
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "불법 촬영물을 모아 둔 유료 저장소를 운영합니다. 가입비를 보내면 다운로드 제한이 해제됩니다.",
+      "signals": [
+        "OFFSCREEN"
+      ]
+    },
+    {
+      "node_id": "n_9becb89b3799dc47",
+      "url": "http://127.0.0.1:60966/validation/",
+      "location": "a#v7ecdb13e98ec",
+      "frame_urls": [],
+      "page_title": "지역 소통 알림",
+      "selector": "a#v7ecdb13e98ec",
+      "raw_text": "불법 촬영물을 모아 둔 유료 저장소를 운영합니다. 가입비를 보내면 다운로드 제한이 해제됩니다.",
+      "own_style": {
+        "tag": "a",
+        "opacity": 1,
+        "display": "block",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 238)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "absolute",
+        "rect": {
+          "x": -16000,
+          "y": 0,
+          "width": 692.875,
+          "height": 21,
+          "right": -15307.125,
+          "bottom": 21
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 3671.0625,
+            "width": 1424,
+            "height": 0,
+            "right": 1432,
+            "bottom": 3671.0625
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 3671.0625,
+            "width": 1424,
+            "height": 0,
+            "right": 1432,
+            "bottom": 3671.0625
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 3634.0625,
+            "width": 1424,
+            "height": 21,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1424,
+            "height": 3639.0625,
+            "right": 1432,
+            "bottom": 3655.0625
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3671.0625,
+            "right": 1440,
+            "bottom": 3671.0625
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "불법 촬영물을 모아 둔 유료 저장소를 운영합니다. 가입비를 보내면 다운로드 제한이 해제됩니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_tag": "a",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "홍보 글을 인용하는 자료가 아니라 운영자가 실제 참가자를 모집하는 안내입니다."
+          },
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "normalized_text": "불법 촬영물을 모아 둔 유료 저장소를 운영합니다. 가입비를 보내면 다운로드 제한이 해제됩니다.",
+      "signals": [
+        "OFFSCREEN"
+      ]
+    }
+  ],
+  "blocked_requests": [],
+  "snapshot_sha256": "1b00248123f2697865cb88713e7e8de3991668d53f353dbee92f1500e712a1af",
+  "collected_at": "2026-09-21T20:50:05.144Z",
+  "collection_elapsed_sec": 1.4409887000000001
+}

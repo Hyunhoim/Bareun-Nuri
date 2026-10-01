@@ -1,0 +1,1766 @@
+[
+  {
+    "id": "9fc0f2bcf1cb9c0a",
+    "label": 2,
+    "observations": {
+      "node_id": "9fc0f2bcf1cb9c0a",
+      "url": "http://127.0.0.1:64920/dev/9fc0f2bcf1cb9c0a.html",
+      "location": "article > p",
+      "raw_text": "잔액 받으실 분, 사설 슬롯 가입란의 8alance를 누르고 충전하시면 됩니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "11fcb8d79b8973c8",
+    "label": 2,
+    "observations": {
+      "node_id": "11fcb8d79b8973c8",
+      "url": "http://127.0.0.1:64920/dev/11fcb8d79b8973c8.html",
+      "location": "article > p",
+      "raw_text": "잔액라는 뜻의 8alance 문구가 온 사례를 접수했습니다. 불법 도박 안내에 응하지 않도록 주의 부탁드립니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "c62cdb07e95f3a87",
+    "label": 2,
+    "observations": {
+      "node_id": "c62cdb07e95f3a87",
+      "url": "http://127.0.0.1:64920/dev/c62cdb07e95f3a87.html",
+      "location": "article > p",
+      "raw_text": "저희 사설 카지노 8alance24는 24시간 열려 있습니다. 잔액 원하시면 회원으로 등록해 주세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "bc7cd9e142c8c44d",
+    "label": 0,
+    "observations": {
+      "node_id": "bc7cd9e142c8c44d",
+      "url": "http://127.0.0.1:64920/dev/bc7cd9e142c8c44d.html",
+      "location": "article > p",
+      "raw_text": "이 화면의 잔액 항목은 bаlance로 표시되어 있습니다. 시청 홈페이지 이용 안내입니다.",
+      "version": 1,
+      "observations": [
+        {
+          "technique": "HOMOGLYPH",
+          "coverage": "text-span",
+          "evidence": [
+            {
+              "technique": "HOMOGLYPH",
+              "reason": "mixed-script-confusable",
+              "start": 13,
+              "end": 21,
+              "text": "bаlance로",
+              "reading": "balance로"
+            }
+          ]
+        }
+      ],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "992808587af23960",
+    "label": 2,
+    "observations": {
+      "node_id": "992808587af23960",
+      "url": "http://127.0.0.1:64920/dev/992808587af23960.html",
+      "location": "article > p",
+      "raw_text": "불법 카지노 상담을 신청하세요. 상담 건 식별값은 8alance이며 숫자는 접수 순번입니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "f1d50c9e9763f344",
+    "label": 2,
+    "observations": {
+      "node_id": "f1d50c9e9763f344",
+      "url": "http://127.0.0.1:64920/dev/f1d50c9e9763f344.html",
+      "location": "article > p",
+      "raw_text": "공공 시설 센서 8alance 규격은 부품 구매 시 그대로 사용합니다. 이 규격으로 주문 가능한가요?",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "e9dbda642f436179",
+    "label": 2,
+    "observations": {
+      "node_id": "e9dbda642f436179",
+      "url": "http://127.0.0.1:64920/dev/e9dbda642f436179.html",
+      "location": "article > p",
+      "raw_text": "어제 본 화면 이름이 8alance였습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "f521ca086cf1576b",
+    "label": 2,
+    "observations": {
+      "node_id": "f521ca086cf1576b",
+      "url": "http://127.0.0.1:64920/dev/f521ca086cf1576b.html",
+      "location": "article > p",
+      "raw_text": "제목에는 8alance만 보이고 내용은 열리지 않아요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "08f3d624393ff6b5",
+    "label": 2,
+    "observations": {
+      "node_id": "08f3d624393ff6b5",
+      "url": "http://127.0.0.1:64920/dev/08f3d624393ff6b5.html",
+      "location": "article > p",
+      "raw_text": "고객 받으실 분, 사설 슬롯 가입란의 cu5tomer를 누르고 충전하시면 됩니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 21,
+          "end": 30,
+          "text": "cu5tomer를"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3a0f8e219b875810",
+    "label": 2,
+    "observations": {
+      "node_id": "3a0f8e219b875810",
+      "url": "http://127.0.0.1:64920/dev/3a0f8e219b875810.html",
+      "location": "article > p",
+      "raw_text": "고객라는 뜻의 cu5tomer 문구가 온 사례를 접수했습니다. 불법 도박 안내에 응하지 않도록 주의 부탁드립니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 8,
+          "end": 16,
+          "text": "cu5tomer"
+        }
+      ]
+    }
+  },
+  {
+    "id": "94e3bb755c58b564",
+    "label": 2,
+    "observations": {
+      "node_id": "94e3bb755c58b564",
+      "url": "http://127.0.0.1:64920/dev/94e3bb755c58b564.html",
+      "location": "article > p",
+      "raw_text": "저희 사설 카지노 cu5tomer24는 24시간 열려 있습니다. 고객 원하시면 회원으로 등록해 주세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 10,
+          "end": 21,
+          "text": "cu5tomer24는"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2f1f6569c6d41fce",
+    "label": 0,
+    "observations": {
+      "node_id": "2f1f6569c6d41fce",
+      "url": "http://127.0.0.1:64920/dev/2f1f6569c6d41fce.html",
+      "location": "article > p",
+      "raw_text": "이 화면의 고객 항목은 ｃｕｓｔｏｍｅｒ로 표시되어 있습니다. 시청 홈페이지 이용 안내입니다.",
+      "version": 1,
+      "observations": [
+        {
+          "technique": "HOMOGLYPH",
+          "coverage": "text-span",
+          "evidence": [
+            {
+              "technique": "HOMOGLYPH",
+              "reason": "compatibility-letter-or-number",
+              "start": 13,
+              "end": 22,
+              "text": "ｃｕｓｔｏｍｅｒ로",
+              "reading": "customer로"
+            }
+          ]
+        }
+      ],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "85d2ac43ac4c9001",
+    "label": 2,
+    "observations": {
+      "node_id": "85d2ac43ac4c9001",
+      "url": "http://127.0.0.1:64920/dev/85d2ac43ac4c9001.html",
+      "location": "article > p",
+      "raw_text": "불법 카지노 상담을 신청하세요. 상담 건 식별값은 cu5tomer이며 숫자는 접수 순번입니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 28,
+          "end": 38,
+          "text": "cu5tomer이며"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1e9f50122e34e419",
+    "label": 2,
+    "observations": {
+      "node_id": "1e9f50122e34e419",
+      "url": "http://127.0.0.1:64920/dev/1e9f50122e34e419.html",
+      "location": "article > p",
+      "raw_text": "공공 시설 센서 cu5tomer 규격은 부품 구매 시 그대로 사용합니다. 이 규격으로 주문 가능한가요?",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 9,
+          "end": 17,
+          "text": "cu5tomer"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6618d8d3f600b973",
+    "label": 2,
+    "observations": {
+      "node_id": "6618d8d3f600b973",
+      "url": "http://127.0.0.1:64920/dev/6618d8d3f600b973.html",
+      "location": "article > p",
+      "raw_text": "어제 본 화면 이름이 cu5tomer였습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 12,
+          "end": 24,
+          "text": "cu5tomer였습니다"
+        }
+      ]
+    }
+  },
+  {
+    "id": "baefd41abbf19567",
+    "label": 2,
+    "observations": {
+      "node_id": "baefd41abbf19567",
+      "url": "http://127.0.0.1:64920/dev/baefd41abbf19567.html",
+      "location": "article > p",
+      "raw_text": "제목에는 cu5tomer만 보이고 내용은 열리지 않아요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 5,
+          "end": 14,
+          "text": "cu5tomer만"
+        }
+      ]
+    }
+  },
+  {
+    "id": "63981cc969431aa2",
+    "label": 2,
+    "observations": {
+      "node_id": "63981cc969431aa2",
+      "url": "http://127.0.0.1:64920/dev/63981cc969431aa2.html",
+      "location": "article > p",
+      "raw_text": "등록 받으실 분, 사설 슬롯 가입란의 r3gister를 누르고 충전하시면 됩니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 21,
+          "end": 30,
+          "text": "r3gister를"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1ec6c9e3a0f71a61",
+    "label": 2,
+    "observations": {
+      "node_id": "1ec6c9e3a0f71a61",
+      "url": "http://127.0.0.1:64920/dev/1ec6c9e3a0f71a61.html",
+      "location": "article > p",
+      "raw_text": "등록라는 뜻의 r3gister 문구가 온 사례를 접수했습니다. 불법 도박 안내에 응하지 않도록 주의 부탁드립니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 8,
+          "end": 16,
+          "text": "r3gister"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f66034c2408cd4bc",
+    "label": 2,
+    "observations": {
+      "node_id": "f66034c2408cd4bc",
+      "url": "http://127.0.0.1:64920/dev/f66034c2408cd4bc.html",
+      "location": "article > p",
+      "raw_text": "저희 사설 카지노 r3gister24는 24시간 열려 있습니다. 등록 원하시면 회원으로 등록해 주세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 10,
+          "end": 21,
+          "text": "r3gister24는"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f0fa26b04c4163d3",
+    "label": 0,
+    "observations": {
+      "node_id": "f0fa26b04c4163d3",
+      "url": "http://127.0.0.1:64920/dev/f0fa26b04c4163d3.html",
+      "location": "article > p",
+      "raw_text": "이 화면의 등록 항목은 rеgister로 표시되어 있습니다. 시청 홈페이지 이용 안내입니다.",
+      "version": 1,
+      "observations": [
+        {
+          "technique": "HOMOGLYPH",
+          "coverage": "text-span",
+          "evidence": [
+            {
+              "technique": "HOMOGLYPH",
+              "reason": "mixed-script-confusable",
+              "start": 13,
+              "end": 22,
+              "text": "rеgister로",
+              "reading": "register로"
+            }
+          ]
+        }
+      ],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "478186ce1fe71b0d",
+    "label": 2,
+    "observations": {
+      "node_id": "478186ce1fe71b0d",
+      "url": "http://127.0.0.1:64920/dev/478186ce1fe71b0d.html",
+      "location": "article > p",
+      "raw_text": "불법 카지노 상담을 신청하세요. 상담 건 식별값은 r3gister이며 숫자는 접수 순번입니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 28,
+          "end": 38,
+          "text": "r3gister이며"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4382ad15f359bc16",
+    "label": 2,
+    "observations": {
+      "node_id": "4382ad15f359bc16",
+      "url": "http://127.0.0.1:64920/dev/4382ad15f359bc16.html",
+      "location": "article > p",
+      "raw_text": "공공 시설 센서 r3gister 규격은 부품 구매 시 그대로 사용합니다. 이 규격으로 주문 가능한가요?",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 9,
+          "end": 17,
+          "text": "r3gister"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5d934ac0d66faf85",
+    "label": 2,
+    "observations": {
+      "node_id": "5d934ac0d66faf85",
+      "url": "http://127.0.0.1:64920/dev/5d934ac0d66faf85.html",
+      "location": "article > p",
+      "raw_text": "어제 본 화면 이름이 r3gister였습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 12,
+          "end": 24,
+          "text": "r3gister였습니다"
+        }
+      ]
+    }
+  },
+  {
+    "id": "509bad8248dfb7f5",
+    "label": 2,
+    "observations": {
+      "node_id": "509bad8248dfb7f5",
+      "url": "http://127.0.0.1:64920/dev/509bad8248dfb7f5.html",
+      "location": "article > p",
+      "raw_text": "제목에는 r3gister만 보이고 내용은 열리지 않아요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 5,
+          "end": 14,
+          "text": "r3gister만"
+        }
+      ]
+    }
+  },
+  {
+    "id": "664ff517cc141139",
+    "label": 2,
+    "observations": {
+      "node_id": "664ff517cc141139",
+      "url": "http://127.0.0.1:64920/dev/664ff517cc141139.html",
+      "location": "article > p",
+      "raw_text": "홍보 받으실 분, 사설 슬롯 가입란의 pr0motion를 누르고 충전하시면 됩니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 21,
+          "end": 31,
+          "text": "pr0motion를"
+        }
+      ]
+    }
+  },
+  {
+    "id": "76e6036b03d718a9",
+    "label": 2,
+    "observations": {
+      "node_id": "76e6036b03d718a9",
+      "url": "http://127.0.0.1:64920/dev/76e6036b03d718a9.html",
+      "location": "article > p",
+      "raw_text": "홍보라는 뜻의 pr0motion 문구가 온 사례를 접수했습니다. 불법 도박 안내에 응하지 않도록 주의 부탁드립니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 8,
+          "end": 17,
+          "text": "pr0motion"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b7a64ce2018cee8a",
+    "label": 2,
+    "observations": {
+      "node_id": "b7a64ce2018cee8a",
+      "url": "http://127.0.0.1:64920/dev/b7a64ce2018cee8a.html",
+      "location": "article > p",
+      "raw_text": "저희 사설 카지노 pr0motion24는 24시간 열려 있습니다. 홍보 원하시면 회원으로 등록해 주세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 10,
+          "end": 22,
+          "text": "pr0motion24는"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6bc2497a8ad399cb",
+    "label": 0,
+    "observations": {
+      "node_id": "6bc2497a8ad399cb",
+      "url": "http://127.0.0.1:64920/dev/6bc2497a8ad399cb.html",
+      "location": "article > p",
+      "raw_text": "이 화면의 홍보 항목은 ｐｒｏｍｏｔｉｏｎ로 표시되어 있습니다. 시청 홈페이지 이용 안내입니다.",
+      "version": 1,
+      "observations": [
+        {
+          "technique": "HOMOGLYPH",
+          "coverage": "text-span",
+          "evidence": [
+            {
+              "technique": "HOMOGLYPH",
+              "reason": "compatibility-letter-or-number",
+              "start": 13,
+              "end": 23,
+              "text": "ｐｒｏｍｏｔｉｏｎ로",
+              "reading": "promotion로"
+            }
+          ]
+        }
+      ],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "2401be3e2e7afb16",
+    "label": 2,
+    "observations": {
+      "node_id": "2401be3e2e7afb16",
+      "url": "http://127.0.0.1:64920/dev/2401be3e2e7afb16.html",
+      "location": "article > p",
+      "raw_text": "불법 카지노 상담을 신청하세요. 상담 건 식별값은 pr0motion이며 숫자는 접수 순번입니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 28,
+          "end": 39,
+          "text": "pr0motion이며"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e9713f3ba078eb23",
+    "label": 2,
+    "observations": {
+      "node_id": "e9713f3ba078eb23",
+      "url": "http://127.0.0.1:64920/dev/e9713f3ba078eb23.html",
+      "location": "article > p",
+      "raw_text": "공공 시설 센서 pr0motion 규격은 부품 구매 시 그대로 사용합니다. 이 규격으로 주문 가능한가요?",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 9,
+          "end": 18,
+          "text": "pr0motion"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fab3a199ac047006",
+    "label": 2,
+    "observations": {
+      "node_id": "fab3a199ac047006",
+      "url": "http://127.0.0.1:64920/dev/fab3a199ac047006.html",
+      "location": "article > p",
+      "raw_text": "어제 본 화면 이름이 pr0motion였습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 12,
+          "end": 25,
+          "text": "pr0motion였습니다"
+        }
+      ]
+    }
+  },
+  {
+    "id": "caaec8352982d28e",
+    "label": 2,
+    "observations": {
+      "node_id": "caaec8352982d28e",
+      "url": "http://127.0.0.1:64920/dev/caaec8352982d28e.html",
+      "location": "article > p",
+      "raw_text": "제목에는 pr0motion만 보이고 내용은 열리지 않아요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 5,
+          "end": 15,
+          "text": "pr0motion만"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6036c251e6c65a7a",
+    "label": 2,
+    "observations": {
+      "node_id": "6036c251e6c65a7a",
+      "url": "http://127.0.0.1:64920/dev/6036c251e6c65a7a.html",
+      "location": "article > p",
+      "raw_text": "초대 받으실 분, 사설 슬롯 가입란의 1nvite를 누르고 충전하시면 됩니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "15a574b161139900",
+    "label": 2,
+    "observations": {
+      "node_id": "15a574b161139900",
+      "url": "http://127.0.0.1:64920/dev/15a574b161139900.html",
+      "location": "article > p",
+      "raw_text": "초대라는 뜻의 1nvite 문구가 온 사례를 접수했습니다. 불법 도박 안내에 응하지 않도록 주의 부탁드립니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "3e7d27ce9000367c",
+    "label": 2,
+    "observations": {
+      "node_id": "3e7d27ce9000367c",
+      "url": "http://127.0.0.1:64920/dev/3e7d27ce9000367c.html",
+      "location": "article > p",
+      "raw_text": "저희 사설 카지노 1nvite24는 24시간 열려 있습니다. 초대 원하시면 회원으로 등록해 주세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "f5079b55d4e38923",
+    "label": 0,
+    "observations": {
+      "node_id": "f5079b55d4e38923",
+      "url": "http://127.0.0.1:64920/dev/f5079b55d4e38923.html",
+      "location": "article > p",
+      "raw_text": "이 화면의 초대 항목은 іnvite로 표시되어 있습니다. 시청 홈페이지 이용 안내입니다.",
+      "version": 1,
+      "observations": [
+        {
+          "technique": "HOMOGLYPH",
+          "coverage": "text-span",
+          "evidence": [
+            {
+              "technique": "HOMOGLYPH",
+              "reason": "mixed-script-confusable",
+              "start": 13,
+              "end": 20,
+              "text": "іnvite로",
+              "reading": "invite로"
+            }
+          ]
+        }
+      ],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "0ff2a1d7990629dd",
+    "label": 2,
+    "observations": {
+      "node_id": "0ff2a1d7990629dd",
+      "url": "http://127.0.0.1:64920/dev/0ff2a1d7990629dd.html",
+      "location": "article > p",
+      "raw_text": "불법 카지노 상담을 신청하세요. 상담 건 식별값은 1nvite이며 숫자는 접수 순번입니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "0666e20a01701a11",
+    "label": 2,
+    "observations": {
+      "node_id": "0666e20a01701a11",
+      "url": "http://127.0.0.1:64920/dev/0666e20a01701a11.html",
+      "location": "article > p",
+      "raw_text": "공공 시설 센서 1nvite 규격은 부품 구매 시 그대로 사용합니다. 이 규격으로 주문 가능한가요?",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "0f4a3e1178e79b33",
+    "label": 2,
+    "observations": {
+      "node_id": "0f4a3e1178e79b33",
+      "url": "http://127.0.0.1:64920/dev/0f4a3e1178e79b33.html",
+      "location": "article > p",
+      "raw_text": "어제 본 화면 이름이 1nvite였습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "cfa1fbc085cd998c",
+    "label": 2,
+    "observations": {
+      "node_id": "cfa1fbc085cd998c",
+      "url": "http://127.0.0.1:64920/dev/cfa1fbc085cd998c.html",
+      "location": "article > p",
+      "raw_text": "제목에는 1nvite만 보이고 내용은 열리지 않아요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "c53c919dd5e57d0a",
+    "label": 2,
+    "observations": {
+      "node_id": "c53c919dd5e57d0a",
+      "url": "http://127.0.0.1:64920/dev/c53c919dd5e57d0a.html",
+      "location": "article > p",
+      "raw_text": "고급 받으실 분, 사설 슬롯 가입란의 pr3mium를 누르고 충전하시면 됩니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 21,
+          "end": 29,
+          "text": "pr3mium를"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b9cf0946c2122cee",
+    "label": 2,
+    "observations": {
+      "node_id": "b9cf0946c2122cee",
+      "url": "http://127.0.0.1:64920/dev/b9cf0946c2122cee.html",
+      "location": "article > p",
+      "raw_text": "고급라는 뜻의 pr3mium 문구가 온 사례를 접수했습니다. 불법 도박 안내에 응하지 않도록 주의 부탁드립니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 8,
+          "end": 15,
+          "text": "pr3mium"
+        }
+      ]
+    }
+  },
+  {
+    "id": "51bb16fcd40c0889",
+    "label": 2,
+    "observations": {
+      "node_id": "51bb16fcd40c0889",
+      "url": "http://127.0.0.1:64920/dev/51bb16fcd40c0889.html",
+      "location": "article > p",
+      "raw_text": "저희 사설 카지노 pr3mium24는 24시간 열려 있습니다. 고급 원하시면 회원으로 등록해 주세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 10,
+          "end": 20,
+          "text": "pr3mium24는"
+        }
+      ]
+    }
+  },
+  {
+    "id": "33f944410d7d4e9e",
+    "label": 0,
+    "observations": {
+      "node_id": "33f944410d7d4e9e",
+      "url": "http://127.0.0.1:64920/dev/33f944410d7d4e9e.html",
+      "location": "article > p",
+      "raw_text": "이 화면의 고급 항목은 ｐｒｅｍｉｕｍ로 표시되어 있습니다. 시청 홈페이지 이용 안내입니다.",
+      "version": 1,
+      "observations": [
+        {
+          "technique": "HOMOGLYPH",
+          "coverage": "text-span",
+          "evidence": [
+            {
+              "technique": "HOMOGLYPH",
+              "reason": "compatibility-letter-or-number",
+              "start": 13,
+              "end": 21,
+              "text": "ｐｒｅｍｉｕｍ로",
+              "reading": "premium로"
+            }
+          ]
+        }
+      ],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "d82f9ee377b0219d",
+    "label": 2,
+    "observations": {
+      "node_id": "d82f9ee377b0219d",
+      "url": "http://127.0.0.1:64920/dev/d82f9ee377b0219d.html",
+      "location": "article > p",
+      "raw_text": "불법 카지노 상담을 신청하세요. 상담 건 식별값은 pr3mium이며 숫자는 접수 순번입니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 28,
+          "end": 37,
+          "text": "pr3mium이며"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5dde4059cefcd0a4",
+    "label": 2,
+    "observations": {
+      "node_id": "5dde4059cefcd0a4",
+      "url": "http://127.0.0.1:64920/dev/5dde4059cefcd0a4.html",
+      "location": "article > p",
+      "raw_text": "공공 시설 센서 pr3mium 규격은 부품 구매 시 그대로 사용합니다. 이 규격으로 주문 가능한가요?",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 9,
+          "end": 16,
+          "text": "pr3mium"
+        }
+      ]
+    }
+  },
+  {
+    "id": "454b607d74a66427",
+    "label": 2,
+    "observations": {
+      "node_id": "454b607d74a66427",
+      "url": "http://127.0.0.1:64920/dev/454b607d74a66427.html",
+      "location": "article > p",
+      "raw_text": "어제 본 화면 이름이 pr3mium였습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 12,
+          "end": 23,
+          "text": "pr3mium였습니다"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1e35dfeb715b88c2",
+    "label": 2,
+    "observations": {
+      "node_id": "1e35dfeb715b88c2",
+      "url": "http://127.0.0.1:64920/dev/1e35dfeb715b88c2.html",
+      "location": "article > p",
+      "raw_text": "제목에는 pr3mium만 보이고 내용은 열리지 않아요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 5,
+          "end": 13,
+          "text": "pr3mium만"
+        }
+      ]
+    }
+  },
+  {
+    "id": "085ffacc89f1ed86",
+    "label": 2,
+    "observations": {
+      "node_id": "085ffacc89f1ed86",
+      "url": "http://127.0.0.1:64920/dev/085ffacc89f1ed86.html",
+      "location": "article > p",
+      "raw_text": "선택사항 받으실 분, 사설 슬롯 가입란의 0ption를 누르고 충전하시면 됩니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "690bab41d4cccf7b",
+    "label": 2,
+    "observations": {
+      "node_id": "690bab41d4cccf7b",
+      "url": "http://127.0.0.1:64920/dev/690bab41d4cccf7b.html",
+      "location": "article > p",
+      "raw_text": "선택사항라는 뜻의 0ption 문구가 온 사례를 접수했습니다. 불법 도박 안내에 응하지 않도록 주의 부탁드립니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "96c8f8df3888500b",
+    "label": 2,
+    "observations": {
+      "node_id": "96c8f8df3888500b",
+      "url": "http://127.0.0.1:64920/dev/96c8f8df3888500b.html",
+      "location": "article > p",
+      "raw_text": "저희 사설 카지노 0ption24는 24시간 열려 있습니다. 선택사항 원하시면 회원으로 등록해 주세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "80c514f532c5f4f2",
+    "label": 0,
+    "observations": {
+      "node_id": "80c514f532c5f4f2",
+      "url": "http://127.0.0.1:64920/dev/80c514f532c5f4f2.html",
+      "location": "article > p",
+      "raw_text": "이 화면의 선택사항 항목은 оption로 표시되어 있습니다. 시청 홈페이지 이용 안내입니다.",
+      "version": 1,
+      "observations": [
+        {
+          "technique": "HOMOGLYPH",
+          "coverage": "text-span",
+          "evidence": [
+            {
+              "technique": "HOMOGLYPH",
+              "reason": "mixed-script-confusable",
+              "start": 15,
+              "end": 22,
+              "text": "оption로",
+              "reading": "option로"
+            }
+          ]
+        }
+      ],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "5c052cdfccaa7866",
+    "label": 2,
+    "observations": {
+      "node_id": "5c052cdfccaa7866",
+      "url": "http://127.0.0.1:64920/dev/5c052cdfccaa7866.html",
+      "location": "article > p",
+      "raw_text": "불법 카지노 상담을 신청하세요. 상담 건 식별값은 0ption이며 숫자는 접수 순번입니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "6f52fa990784989c",
+    "label": 2,
+    "observations": {
+      "node_id": "6f52fa990784989c",
+      "url": "http://127.0.0.1:64920/dev/6f52fa990784989c.html",
+      "location": "article > p",
+      "raw_text": "공공 시설 센서 0ption 규격은 부품 구매 시 그대로 사용합니다. 이 규격으로 주문 가능한가요?",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "a50424c9d323a0b8",
+    "label": 2,
+    "observations": {
+      "node_id": "a50424c9d323a0b8",
+      "url": "http://127.0.0.1:64920/dev/a50424c9d323a0b8.html",
+      "location": "article > p",
+      "raw_text": "어제 본 화면 이름이 0ption였습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "f471d6851302b891",
+    "label": 2,
+    "observations": {
+      "node_id": "f471d6851302b891",
+      "url": "http://127.0.0.1:64920/dev/f471d6851302b891.html",
+      "location": "article > p",
+      "raw_text": "제목에는 0ption만 보이고 내용은 열리지 않아요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "95a5413596d96acc",
+    "label": 2,
+    "observations": {
+      "node_id": "95a5413596d96acc",
+      "url": "http://127.0.0.1:64920/dev/95a5413596d96acc.html",
+      "location": "article > p",
+      "raw_text": "접속시간 받으실 분, 사설 슬롯 가입란의 5ession를 누르고 충전하시면 됩니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "74cf818b29b0bc45",
+    "label": 2,
+    "observations": {
+      "node_id": "74cf818b29b0bc45",
+      "url": "http://127.0.0.1:64920/dev/74cf818b29b0bc45.html",
+      "location": "article > p",
+      "raw_text": "접속시간라는 뜻의 5ession 문구가 온 사례를 접수했습니다. 불법 도박 안내에 응하지 않도록 주의 부탁드립니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "9ec48e8dcba8a9a0",
+    "label": 2,
+    "observations": {
+      "node_id": "9ec48e8dcba8a9a0",
+      "url": "http://127.0.0.1:64920/dev/9ec48e8dcba8a9a0.html",
+      "location": "article > p",
+      "raw_text": "저희 사설 카지노 5ession24는 24시간 열려 있습니다. 접속시간 원하시면 회원으로 등록해 주세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "ef8a9c617d32546f",
+    "label": 0,
+    "observations": {
+      "node_id": "ef8a9c617d32546f",
+      "url": "http://127.0.0.1:64920/dev/ef8a9c617d32546f.html",
+      "location": "article > p",
+      "raw_text": "이 화면의 접속시간 항목은 ｓｅｓｓｉｏｎ로 표시되어 있습니다. 시청 홈페이지 이용 안내입니다.",
+      "version": 1,
+      "observations": [
+        {
+          "technique": "HOMOGLYPH",
+          "coverage": "text-span",
+          "evidence": [
+            {
+              "technique": "HOMOGLYPH",
+              "reason": "compatibility-letter-or-number",
+              "start": 15,
+              "end": 23,
+              "text": "ｓｅｓｓｉｏｎ로",
+              "reading": "session로"
+            }
+          ]
+        }
+      ],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "ea7e4bae3dcf0868",
+    "label": 2,
+    "observations": {
+      "node_id": "ea7e4bae3dcf0868",
+      "url": "http://127.0.0.1:64920/dev/ea7e4bae3dcf0868.html",
+      "location": "article > p",
+      "raw_text": "불법 카지노 상담을 신청하세요. 상담 건 식별값은 5ession이며 숫자는 접수 순번입니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "f7995331c815d567",
+    "label": 2,
+    "observations": {
+      "node_id": "f7995331c815d567",
+      "url": "http://127.0.0.1:64920/dev/f7995331c815d567.html",
+      "location": "article > p",
+      "raw_text": "공공 시설 센서 5ession 규격은 부품 구매 시 그대로 사용합니다. 이 규격으로 주문 가능한가요?",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "2ce9f31b4f272914",
+    "label": 2,
+    "observations": {
+      "node_id": "2ce9f31b4f272914",
+      "url": "http://127.0.0.1:64920/dev/2ce9f31b4f272914.html",
+      "location": "article > p",
+      "raw_text": "어제 본 화면 이름이 5ession였습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "513e80f46562d52d",
+    "label": 2,
+    "observations": {
+      "node_id": "513e80f46562d52d",
+      "url": "http://127.0.0.1:64920/dev/513e80f46562d52d.html",
+      "location": "article > p",
+      "raw_text": "제목에는 5ession만 보이고 내용은 열리지 않아요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "949bf2814bd7b309",
+    "label": 2,
+    "observations": {
+      "node_id": "949bf2814bd7b309",
+      "url": "http://127.0.0.1:64920/dev/949bf2814bd7b309.html",
+      "location": "article > p",
+      "raw_text": "즉시처리 받으실 분, 사설 슬롯 가입란의 1nstant를 누르고 충전하시면 됩니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "06711dab58680959",
+    "label": 2,
+    "observations": {
+      "node_id": "06711dab58680959",
+      "url": "http://127.0.0.1:64920/dev/06711dab58680959.html",
+      "location": "article > p",
+      "raw_text": "즉시처리라는 뜻의 1nstant 문구가 온 사례를 접수했습니다. 불법 도박 안내에 응하지 않도록 주의 부탁드립니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "e392e0487ff02e67",
+    "label": 2,
+    "observations": {
+      "node_id": "e392e0487ff02e67",
+      "url": "http://127.0.0.1:64920/dev/e392e0487ff02e67.html",
+      "location": "article > p",
+      "raw_text": "저희 사설 카지노 1nstant24는 24시간 열려 있습니다. 즉시처리 원하시면 회원으로 등록해 주세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "0b43bcf57f7195b7",
+    "label": 0,
+    "observations": {
+      "node_id": "0b43bcf57f7195b7",
+      "url": "http://127.0.0.1:64920/dev/0b43bcf57f7195b7.html",
+      "location": "article > p",
+      "raw_text": "이 화면의 즉시처리 항목은 іnstant로 표시되어 있습니다. 시청 홈페이지 이용 안내입니다.",
+      "version": 1,
+      "observations": [
+        {
+          "technique": "HOMOGLYPH",
+          "coverage": "text-span",
+          "evidence": [
+            {
+              "technique": "HOMOGLYPH",
+              "reason": "mixed-script-confusable",
+              "start": 15,
+              "end": 23,
+              "text": "іnstant로",
+              "reading": "instant로"
+            }
+          ]
+        }
+      ],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "cefc2c31d26296f5",
+    "label": 2,
+    "observations": {
+      "node_id": "cefc2c31d26296f5",
+      "url": "http://127.0.0.1:64920/dev/cefc2c31d26296f5.html",
+      "location": "article > p",
+      "raw_text": "불법 카지노 상담을 신청하세요. 상담 건 식별값은 1nstant이며 숫자는 접수 순번입니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "8ff6fb2e04e0c6f8",
+    "label": 2,
+    "observations": {
+      "node_id": "8ff6fb2e04e0c6f8",
+      "url": "http://127.0.0.1:64920/dev/8ff6fb2e04e0c6f8.html",
+      "location": "article > p",
+      "raw_text": "공공 시설 센서 1nstant 규격은 부품 구매 시 그대로 사용합니다. 이 규격으로 주문 가능한가요?",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "b1fcd9c6b5cbbf78",
+    "label": 2,
+    "observations": {
+      "node_id": "b1fcd9c6b5cbbf78",
+      "url": "http://127.0.0.1:64920/dev/b1fcd9c6b5cbbf78.html",
+      "location": "article > p",
+      "raw_text": "어제 본 화면 이름이 1nstant였습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "915aaf8e9b543e63",
+    "label": 2,
+    "observations": {
+      "node_id": "915aaf8e9b543e63",
+      "url": "http://127.0.0.1:64920/dev/915aaf8e9b543e63.html",
+      "location": "article > p",
+      "raw_text": "제목에는 1nstant만 보이고 내용은 열리지 않아요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "4db1130cc261727e",
+    "label": 2,
+    "observations": {
+      "node_id": "4db1130cc261727e",
+      "url": "http://127.0.0.1:64920/dev/4db1130cc261727e.html",
+      "location": "article > p",
+      "raw_text": "당첨자 받으실 분, 사설 슬롯 가입란의 w1nner를 누르고 충전하시면 됩니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 22,
+          "end": 29,
+          "text": "w1nner를"
+        }
+      ]
+    }
+  },
+  {
+    "id": "691edafcdaee5506",
+    "label": 2,
+    "observations": {
+      "node_id": "691edafcdaee5506",
+      "url": "http://127.0.0.1:64920/dev/691edafcdaee5506.html",
+      "location": "article > p",
+      "raw_text": "당첨자라는 뜻의 w1nner 문구가 온 사례를 접수했습니다. 불법 도박 안내에 응하지 않도록 주의 부탁드립니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 9,
+          "end": 15,
+          "text": "w1nner"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2bd8a9fd1ab6411f",
+    "label": 2,
+    "observations": {
+      "node_id": "2bd8a9fd1ab6411f",
+      "url": "http://127.0.0.1:64920/dev/2bd8a9fd1ab6411f.html",
+      "location": "article > p",
+      "raw_text": "저희 사설 카지노 w1nner24는 24시간 열려 있습니다. 당첨자 원하시면 회원으로 등록해 주세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 10,
+          "end": 19,
+          "text": "w1nner24는"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e824c917accc147b",
+    "label": 0,
+    "observations": {
+      "node_id": "e824c917accc147b",
+      "url": "http://127.0.0.1:64920/dev/e824c917accc147b.html",
+      "location": "article > p",
+      "raw_text": "이 화면의 당첨자 항목은 ｗｉｎｎｅｒ로 표시되어 있습니다. 시청 홈페이지 이용 안내입니다.",
+      "version": 1,
+      "observations": [
+        {
+          "technique": "HOMOGLYPH",
+          "coverage": "text-span",
+          "evidence": [
+            {
+              "technique": "HOMOGLYPH",
+              "reason": "compatibility-letter-or-number",
+              "start": 14,
+              "end": 21,
+              "text": "ｗｉｎｎｅｒ로",
+              "reading": "winner로"
+            }
+          ]
+        }
+      ],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "210808811e024e52",
+    "label": 2,
+    "observations": {
+      "node_id": "210808811e024e52",
+      "url": "http://127.0.0.1:64920/dev/210808811e024e52.html",
+      "location": "article > p",
+      "raw_text": "불법 카지노 상담을 신청하세요. 상담 건 식별값은 w1nner이며 숫자는 접수 순번입니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 28,
+          "end": 36,
+          "text": "w1nner이며"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6a0519da30cc476b",
+    "label": 2,
+    "observations": {
+      "node_id": "6a0519da30cc476b",
+      "url": "http://127.0.0.1:64920/dev/6a0519da30cc476b.html",
+      "location": "article > p",
+      "raw_text": "공공 시설 센서 w1nner 규격은 부품 구매 시 그대로 사용합니다. 이 규격으로 주문 가능한가요?",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 9,
+          "end": 15,
+          "text": "w1nner"
+        }
+      ]
+    }
+  },
+  {
+    "id": "79ecd095b22e3575",
+    "label": 2,
+    "observations": {
+      "node_id": "79ecd095b22e3575",
+      "url": "http://127.0.0.1:64920/dev/79ecd095b22e3575.html",
+      "location": "article > p",
+      "raw_text": "어제 본 화면 이름이 w1nner였습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 12,
+          "end": 22,
+          "text": "w1nner였습니다"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ae6e0156975ba633",
+    "label": 2,
+    "observations": {
+      "node_id": "ae6e0156975ba633",
+      "url": "http://127.0.0.1:64920/dev/ae6e0156975ba633.html",
+      "location": "article > p",
+      "raw_text": "제목에는 w1nner만 보이고 내용은 열리지 않아요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 5,
+          "end": 12,
+          "text": "w1nner만"
+        }
+      ]
+    }
+  },
+  {
+    "id": "47498284bf209e70",
+    "label": 2,
+    "observations": {
+      "node_id": "47498284bf209e70",
+      "url": "http://127.0.0.1:64920/dev/47498284bf209e70.html",
+      "location": "article > p",
+      "raw_text": "이체 받으실 분, 사설 슬롯 가입란의 7ransfer를 누르고 충전하시면 됩니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "4608365cd0efe26d",
+    "label": 2,
+    "observations": {
+      "node_id": "4608365cd0efe26d",
+      "url": "http://127.0.0.1:64920/dev/4608365cd0efe26d.html",
+      "location": "article > p",
+      "raw_text": "이체라는 뜻의 7ransfer 문구가 온 사례를 접수했습니다. 불법 도박 안내에 응하지 않도록 주의 부탁드립니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "c346a068ab6579ac",
+    "label": 2,
+    "observations": {
+      "node_id": "c346a068ab6579ac",
+      "url": "http://127.0.0.1:64920/dev/c346a068ab6579ac.html",
+      "location": "article > p",
+      "raw_text": "저희 사설 카지노 7ransfer24는 24시간 열려 있습니다. 이체 원하시면 회원으로 등록해 주세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "a7ef2b0174d9808c",
+    "label": 0,
+    "observations": {
+      "node_id": "a7ef2b0174d9808c",
+      "url": "http://127.0.0.1:64920/dev/a7ef2b0174d9808c.html",
+      "location": "article > p",
+      "raw_text": "이 화면의 이체 항목은 trаnsfer로 표시되어 있습니다. 시청 홈페이지 이용 안내입니다.",
+      "version": 1,
+      "observations": [
+        {
+          "technique": "HOMOGLYPH",
+          "coverage": "text-span",
+          "evidence": [
+            {
+              "technique": "HOMOGLYPH",
+              "reason": "mixed-script-confusable",
+              "start": 13,
+              "end": 22,
+              "text": "trаnsfer로",
+              "reading": "transfer로"
+            }
+          ]
+        }
+      ],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "49f70bab922a517a",
+    "label": 2,
+    "observations": {
+      "node_id": "49f70bab922a517a",
+      "url": "http://127.0.0.1:64920/dev/49f70bab922a517a.html",
+      "location": "article > p",
+      "raw_text": "불법 카지노 상담을 신청하세요. 상담 건 식별값은 7ransfer이며 숫자는 접수 순번입니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "a3cbb26716393f5d",
+    "label": 2,
+    "observations": {
+      "node_id": "a3cbb26716393f5d",
+      "url": "http://127.0.0.1:64920/dev/a3cbb26716393f5d.html",
+      "location": "article > p",
+      "raw_text": "공공 시설 센서 7ransfer 규격은 부품 구매 시 그대로 사용합니다. 이 규격으로 주문 가능한가요?",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "984ec7f17e02b1a6",
+    "label": 2,
+    "observations": {
+      "node_id": "984ec7f17e02b1a6",
+      "url": "http://127.0.0.1:64920/dev/984ec7f17e02b1a6.html",
+      "location": "article > p",
+      "raw_text": "어제 본 화면 이름이 7ransfer였습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "8ad72e5123adf5ad",
+    "label": 2,
+    "observations": {
+      "node_id": "8ad72e5123adf5ad",
+      "url": "http://127.0.0.1:64920/dev/8ad72e5123adf5ad.html",
+      "location": "article > p",
+      "raw_text": "제목에는 7ransfer만 보이고 내용은 열리지 않아요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "add2d8ba2a168aad",
+    "label": 2,
+    "observations": {
+      "node_id": "add2d8ba2a168aad",
+      "url": "http://127.0.0.1:64920/dev/add2d8ba2a168aad.html",
+      "location": "article > p",
+      "raw_text": "증명서 받으실 분, 사설 슬롯 가입란의 c3rtificate를 누르고 충전하시면 됩니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 22,
+          "end": 34,
+          "text": "c3rtificate를"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bc9edd36d2596809",
+    "label": 2,
+    "observations": {
+      "node_id": "bc9edd36d2596809",
+      "url": "http://127.0.0.1:64920/dev/bc9edd36d2596809.html",
+      "location": "article > p",
+      "raw_text": "증명서라는 뜻의 c3rtificate 문구가 온 사례를 접수했습니다. 불법 도박 안내에 응하지 않도록 주의 부탁드립니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 9,
+          "end": 20,
+          "text": "c3rtificate"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4dfc24c29c9a2171",
+    "label": 2,
+    "observations": {
+      "node_id": "4dfc24c29c9a2171",
+      "url": "http://127.0.0.1:64920/dev/4dfc24c29c9a2171.html",
+      "location": "article > p",
+      "raw_text": "저희 사설 카지노 c3rtificate24는 24시간 열려 있습니다. 증명서 원하시면 회원으로 등록해 주세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 10,
+          "end": 24,
+          "text": "c3rtificate24는"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2e85874ff7352ec5",
+    "label": 0,
+    "observations": {
+      "node_id": "2e85874ff7352ec5",
+      "url": "http://127.0.0.1:64920/dev/2e85874ff7352ec5.html",
+      "location": "article > p",
+      "raw_text": "이 화면의 증명서 항목은 ｃｅｒｔｉｆｉｃａｔｅ로 표시되어 있습니다. 시청 홈페이지 이용 안내입니다.",
+      "version": 1,
+      "observations": [
+        {
+          "technique": "HOMOGLYPH",
+          "coverage": "text-span",
+          "evidence": [
+            {
+              "technique": "HOMOGLYPH",
+              "reason": "compatibility-letter-or-number",
+              "start": 14,
+              "end": 26,
+              "text": "ｃｅｒｔｉｆｉｃａｔｅ로",
+              "reading": "certificate로"
+            }
+          ]
+        }
+      ],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "dbe5e0ef3e896712",
+    "label": 2,
+    "observations": {
+      "node_id": "dbe5e0ef3e896712",
+      "url": "http://127.0.0.1:64920/dev/dbe5e0ef3e896712.html",
+      "location": "article > p",
+      "raw_text": "불법 카지노 상담을 신청하세요. 상담 건 식별값은 c3rtificate이며 숫자는 접수 순번입니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 28,
+          "end": 41,
+          "text": "c3rtificate이며"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ce4bb44a59d856f8",
+    "label": 2,
+    "observations": {
+      "node_id": "ce4bb44a59d856f8",
+      "url": "http://127.0.0.1:64920/dev/ce4bb44a59d856f8.html",
+      "location": "article > p",
+      "raw_text": "공공 시설 센서 c3rtificate 규격은 부품 구매 시 그대로 사용합니다. 이 규격으로 주문 가능한가요?",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 9,
+          "end": 20,
+          "text": "c3rtificate"
+        }
+      ]
+    }
+  },
+  {
+    "id": "993cc39c38088633",
+    "label": 2,
+    "observations": {
+      "node_id": "993cc39c38088633",
+      "url": "http://127.0.0.1:64920/dev/993cc39c38088633.html",
+      "location": "article > p",
+      "raw_text": "어제 본 화면 이름이 c3rtificate였습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 12,
+          "end": 27,
+          "text": "c3rtificate였습니다"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c848839803e48861",
+    "label": 2,
+    "observations": {
+      "node_id": "c848839803e48861",
+      "url": "http://127.0.0.1:64920/dev/c848839803e48861.html",
+      "location": "article > p",
+      "raw_text": "제목에는 c3rtificate만 보이고 내용은 열리지 않아요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 5,
+          "end": 17,
+          "text": "c3rtificate만"
+        }
+      ]
+    }
+  }
+]

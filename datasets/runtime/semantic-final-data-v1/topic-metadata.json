@@ -1,0 +1,281 @@
+{
+  "purpose": "Evaluation-only service-topic metadata. Never pass to model input. Describes synthetic wording, not an independent legal finding.",
+  "created_at": "2026-09-24T19:05:47.153Z",
+  "source_hashes": {
+    "evidence": "a9d26782c356db85932e4d0026180578b7e8844ebc5002ebc9177b18d90bf15e",
+    "labels": "d1e8e1f247c03ccad44651e77d511ac7507a97ef91f70ef85bd8256b4f88b34d",
+    "generator": "28fe4ce1ca67f35d28b44665d10c600a5f59b683cdd6a0bec2bfbfe4ba30205f"
+  },
+  "definition": {
+    "strict": "Explicit gambling, or explicit illegal adult/sexual service. There are no explicit adult/sexual cases in these newly authored positive sets.",
+    "broad": "Gambling plus explicitly illegal or nonconsensual videos; video adult/sexual nature remains unspecified.",
+    "other": "Other service categories explicitly described in the synthetic source. Outside the above common-topic definition does not mean legally benign.",
+    "metric_limit": "Only positive targets are classified. This supports subgroup recall; a scope-specific F1 requires an explicit, justified negative-set definition."
+  },
+  "counts": {
+    "positive_targets": 32,
+    "strict_common": 8,
+    "broad_common": 8,
+    "other_strict": 24,
+    "other_broad": 24,
+    "video_scope_ambiguous": 0
+  },
+  "items": [
+    {
+      "fixture_id": "record-002",
+      "node_id": "n_95700c32c14ba5cb",
+      "topic": "stolen_goods_sales",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "record-003",
+      "node_id": "n_1f618d85b9a70960",
+      "topic": "stolen_goods_sales",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "record-004",
+      "node_id": "n_3ee0f60edb9c2c7f",
+      "topic": "prescription_drug_sales",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "record-005",
+      "node_id": "n_408482e0ee69932f",
+      "topic": "document_forgery",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "record-006",
+      "node_id": "n_b6be4ad6560df1c9",
+      "topic": "gambling",
+      "shared_scope_strict": true,
+      "shared_scope_broad": true,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "record-007",
+      "node_id": "n_068c2ee2d22cf9d4",
+      "topic": "unlicensed_medical_service",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "record-010",
+      "node_id": "n_63115779fb3a4116",
+      "topic": "document_forgery",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "record-011",
+      "node_id": "n_be32ece9bfa35792",
+      "topic": "exam_impersonation",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "record-012",
+      "node_id": "n_9816847840cd3a02",
+      "topic": "document_forgery",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "record-018",
+      "node_id": "n_02c2511a772ce944",
+      "topic": "gambling",
+      "shared_scope_strict": true,
+      "shared_scope_broad": true,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "record-022",
+      "node_id": "n_890c058c1211e2aa",
+      "topic": "exam_impersonation",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "record-023",
+      "node_id": "n_eb1183fcd5290705",
+      "topic": "gambling",
+      "shared_scope_strict": true,
+      "shared_scope_broad": true,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "record-026",
+      "node_id": "n_297861518e8a6c58",
+      "topic": "gambling",
+      "shared_scope_strict": true,
+      "shared_scope_broad": true,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "record-031",
+      "node_id": "n_62c85409f129c281",
+      "topic": "nonconsensual_surveillance",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "record-034",
+      "node_id": "n_7883957b6da3fb2f",
+      "topic": "document_forgery",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "record-036",
+      "node_id": "n_472aa952bf77de25",
+      "topic": "unlicensed_medical_service",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "record-038",
+      "node_id": "n_3f26a811008e2f4a",
+      "topic": "gambling",
+      "shared_scope_strict": true,
+      "shared_scope_broad": true,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "record-046",
+      "node_id": "n_a73eff521e685ecf",
+      "topic": "gambling",
+      "shared_scope_strict": true,
+      "shared_scope_broad": true,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "record-049",
+      "node_id": "n_47f0c9305f7eebee",
+      "topic": "gambling",
+      "shared_scope_strict": true,
+      "shared_scope_broad": true,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "record-050",
+      "node_id": "n_49535e8609cea01a",
+      "topic": "stolen_goods_sales",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "record-052",
+      "node_id": "n_10575508b2de99e6",
+      "topic": "identity_document_forgery",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "record-053",
+      "node_id": "n_b8f028b87fd5f002",
+      "topic": "nonconsensual_surveillance",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "record-055",
+      "node_id": "n_7ae1d876731ecae6",
+      "topic": "gambling",
+      "shared_scope_strict": true,
+      "shared_scope_broad": true,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "record-056",
+      "node_id": "n_9ac1a7421a8bee38",
+      "topic": "nonconsensual_surveillance",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "record-061",
+      "node_id": "n_478851f6f4fec3b6",
+      "topic": "stolen_account_sales",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "record-062",
+      "node_id": "n_4fb5a98cd22a4727",
+      "topic": "unlicensed_medical_service",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "record-064",
+      "node_id": "n_55e2d9ed94eab8aa",
+      "topic": "third_party_identity_transfer",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "record-065",
+      "node_id": "n_b04e8c02e1a2d7ab",
+      "topic": "document_forgery",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "record-067",
+      "node_id": "n_a0d66e80ef83f5bc",
+      "topic": "account_hacking_service",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "record-069",
+      "node_id": "n_f2780753262819b2",
+      "topic": "third_party_account_transfer",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "record-070",
+      "node_id": "n_2e230555cbefa2c7",
+      "topic": "prescription_drug_sales",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    },
+    {
+      "fixture_id": "record-071",
+      "node_id": "n_3922a61d577ce24f",
+      "topic": "document_forgery",
+      "shared_scope_strict": false,
+      "shared_scope_broad": false,
+      "adult_or_sexual_content_explicit": false
+    }
+  ]
+}

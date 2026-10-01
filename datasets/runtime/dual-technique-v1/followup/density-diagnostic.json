@@ -1,0 +1,1555 @@
+{
+  "result": {
+    "dense": {
+      "positive": 48,
+      "total": 48
+    },
+    "sparse": {
+      "positive": 27,
+      "total": 48
+    }
+  },
+  "inputs": [
+    {
+      "id": "0",
+      "token": "4lp1n3",
+      "input": {
+        "target": "[표기]4lp1n3[/표기]라고 적혀 있는데 신청해 보신 주민 계세요?",
+        "context": "열람 중인 의견 글의 일부."
+      }
+    },
+    {
+      "id": "1",
+      "token": "4lpine",
+      "input": {
+        "target": "[표기]4lpine[/표기]라고 적혀 있는데 신청해 보신 주민 계세요?",
+        "context": "열람 중인 의견 글의 일부."
+      }
+    },
+    {
+      "id": "2",
+      "token": "4lp1n3",
+      "input": {
+        "target": "오늘은 [표기]4lp1n3[/표기] 이름으로 사설 베팅 입장 받습니다. 새로 오실 분만 연락 주십시오.",
+        "context": "대상 게시자의 작성 내용."
+      }
+    },
+    {
+      "id": "3",
+      "token": "4lpine",
+      "input": {
+        "target": "오늘은 [표기]4lpine[/표기] 이름으로 사설 베팅 입장 받습니다. 새로 오실 분만 연락 주십시오.",
+        "context": "대상 게시자의 작성 내용."
+      }
+    },
+    {
+      "id": "4",
+      "token": "4lp1n3",
+      "input": {
+        "target": "도박방 광고에 [표기]4lp1n3[/표기]가 보입니다. 캡처 첨부했으니 처리해 주실 수 있나요.",
+        "context": "이용자가 신고하는 글."
+      }
+    },
+    {
+      "id": "5",
+      "token": "4lpine",
+      "input": {
+        "target": "도박방 광고에 [표기]4lpine[/표기]가 보입니다. 캡처 첨부했으니 처리해 주실 수 있나요.",
+        "context": "이용자가 신고하는 글."
+      }
+    },
+    {
+      "id": "6",
+      "token": "4lp1n3",
+      "input": {
+        "target": "책에 나온 [표기]4lp1n3[/표기]를 칠판에 옮겼습니다. 받아쓰기 자료로 쓸 예정입니다.",
+        "context": "교사의 수업 기록."
+      }
+    },
+    {
+      "id": "7",
+      "token": "4lpine",
+      "input": {
+        "target": "책에 나온 [표기]4lpine[/표기]를 칠판에 옮겼습니다. 받아쓰기 자료로 쓸 예정입니다.",
+        "context": "교사의 수업 기록."
+      }
+    },
+    {
+      "id": "8",
+      "token": "cypr355",
+      "input": {
+        "target": "[표기]cypr355[/표기]라고 적혀 있는데 신청해 보신 주민 계세요?",
+        "context": "열람 중인 의견 글의 일부."
+      }
+    },
+    {
+      "id": "9",
+      "token": "cypr3ss",
+      "input": {
+        "target": "[표기]cypr3ss[/표기]라고 적혀 있는데 신청해 보신 주민 계세요?",
+        "context": "열람 중인 의견 글의 일부."
+      }
+    },
+    {
+      "id": "10",
+      "token": "cypr355",
+      "input": {
+        "target": "오늘은 [표기]cypr355[/표기] 이름으로 사설 베팅 입장 받습니다. 새로 오실 분만 연락 주십시오.",
+        "context": "대상 게시자의 작성 내용."
+      }
+    },
+    {
+      "id": "11",
+      "token": "cypr3ss",
+      "input": {
+        "target": "오늘은 [표기]cypr3ss[/표기] 이름으로 사설 베팅 입장 받습니다. 새로 오실 분만 연락 주십시오.",
+        "context": "대상 게시자의 작성 내용."
+      }
+    },
+    {
+      "id": "12",
+      "token": "cypr355",
+      "input": {
+        "target": "도박방 광고에 [표기]cypr355[/표기]가 보입니다. 캡처 첨부했으니 처리해 주실 수 있나요.",
+        "context": "이용자가 신고하는 글."
+      }
+    },
+    {
+      "id": "13",
+      "token": "cypr3ss",
+      "input": {
+        "target": "도박방 광고에 [표기]cypr3ss[/표기]가 보입니다. 캡처 첨부했으니 처리해 주실 수 있나요.",
+        "context": "이용자가 신고하는 글."
+      }
+    },
+    {
+      "id": "14",
+      "token": "cypr355",
+      "input": {
+        "target": "책에 나온 [표기]cypr355[/표기]를 칠판에 옮겼습니다. 받아쓰기 자료로 쓸 예정입니다.",
+        "context": "교사의 수업 기록."
+      }
+    },
+    {
+      "id": "15",
+      "token": "cypr3ss",
+      "input": {
+        "target": "책에 나온 [표기]cypr3ss[/표기]를 칠판에 옮겼습니다. 받아쓰기 자료로 쓸 예정입니다.",
+        "context": "교사의 수업 기록."
+      }
+    },
+    {
+      "id": "16",
+      "token": "84dg3r",
+      "input": {
+        "target": "[표기]84dg3r[/표기]라고 적혀 있는데 신청해 보신 주민 계세요?",
+        "context": "열람 중인 의견 글의 일부."
+      }
+    },
+    {
+      "id": "17",
+      "token": "8adger",
+      "input": {
+        "target": "[표기]8adger[/표기]라고 적혀 있는데 신청해 보신 주민 계세요?",
+        "context": "열람 중인 의견 글의 일부."
+      }
+    },
+    {
+      "id": "18",
+      "token": "84dg3r",
+      "input": {
+        "target": "오늘은 [표기]84dg3r[/표기] 이름으로 사설 베팅 입장 받습니다. 새로 오실 분만 연락 주십시오.",
+        "context": "대상 게시자의 작성 내용."
+      }
+    },
+    {
+      "id": "19",
+      "token": "8adger",
+      "input": {
+        "target": "오늘은 [표기]8adger[/표기] 이름으로 사설 베팅 입장 받습니다. 새로 오실 분만 연락 주십시오.",
+        "context": "대상 게시자의 작성 내용."
+      }
+    },
+    {
+      "id": "20",
+      "token": "84dg3r",
+      "input": {
+        "target": "도박방 광고에 [표기]84dg3r[/표기]가 보입니다. 캡처 첨부했으니 처리해 주실 수 있나요.",
+        "context": "이용자가 신고하는 글."
+      }
+    },
+    {
+      "id": "21",
+      "token": "8adger",
+      "input": {
+        "target": "도박방 광고에 [표기]8adger[/표기]가 보입니다. 캡처 첨부했으니 처리해 주실 수 있나요.",
+        "context": "이용자가 신고하는 글."
+      }
+    },
+    {
+      "id": "22",
+      "token": "84dg3r",
+      "input": {
+        "target": "책에 나온 [표기]84dg3r[/표기]를 칠판에 옮겼습니다. 받아쓰기 자료로 쓸 예정입니다.",
+        "context": "교사의 수업 기록."
+      }
+    },
+    {
+      "id": "23",
+      "token": "8adger",
+      "input": {
+        "target": "책에 나온 [표기]8adger[/표기]를 칠판에 옮겼습니다. 받아쓰기 자료로 쓸 예정입니다.",
+        "context": "교사의 수업 기록."
+      }
+    },
+    {
+      "id": "24",
+      "token": "d0lph1n",
+      "input": {
+        "target": "[표기]d0lph1n[/표기]라고 적혀 있는데 신청해 보신 주민 계세요?",
+        "context": "열람 중인 의견 글의 일부."
+      }
+    },
+    {
+      "id": "25",
+      "token": "d0lphin",
+      "input": {
+        "target": "[표기]d0lphin[/표기]라고 적혀 있는데 신청해 보신 주민 계세요?",
+        "context": "열람 중인 의견 글의 일부."
+      }
+    },
+    {
+      "id": "26",
+      "token": "d0lph1n",
+      "input": {
+        "target": "오늘은 [표기]d0lph1n[/표기] 이름으로 사설 베팅 입장 받습니다. 새로 오실 분만 연락 주십시오.",
+        "context": "대상 게시자의 작성 내용."
+      }
+    },
+    {
+      "id": "27",
+      "token": "d0lphin",
+      "input": {
+        "target": "오늘은 [표기]d0lphin[/표기] 이름으로 사설 베팅 입장 받습니다. 새로 오실 분만 연락 주십시오.",
+        "context": "대상 게시자의 작성 내용."
+      }
+    },
+    {
+      "id": "28",
+      "token": "d0lph1n",
+      "input": {
+        "target": "도박방 광고에 [표기]d0lph1n[/표기]가 보입니다. 캡처 첨부했으니 처리해 주실 수 있나요.",
+        "context": "이용자가 신고하는 글."
+      }
+    },
+    {
+      "id": "29",
+      "token": "d0lphin",
+      "input": {
+        "target": "도박방 광고에 [표기]d0lphin[/표기]가 보입니다. 캡처 첨부했으니 처리해 주실 수 있나요.",
+        "context": "이용자가 신고하는 글."
+      }
+    },
+    {
+      "id": "30",
+      "token": "d0lph1n",
+      "input": {
+        "target": "책에 나온 [표기]d0lph1n[/표기]를 칠판에 옮겼습니다. 받아쓰기 자료로 쓸 예정입니다.",
+        "context": "교사의 수업 기록."
+      }
+    },
+    {
+      "id": "31",
+      "token": "d0lphin",
+      "input": {
+        "target": "책에 나온 [표기]d0lphin[/표기]를 칠판에 옮겼습니다. 받아쓰기 자료로 쓸 예정입니다.",
+        "context": "교사의 수업 기록."
+      }
+    },
+    {
+      "id": "32",
+      "token": "3m3r4ld",
+      "input": {
+        "target": "[표기]3m3r4ld[/표기]라고 적혀 있는데 신청해 보신 주민 계세요?",
+        "context": "열람 중인 의견 글의 일부."
+      }
+    },
+    {
+      "id": "33",
+      "token": "3merald",
+      "input": {
+        "target": "[표기]3merald[/표기]라고 적혀 있는데 신청해 보신 주민 계세요?",
+        "context": "열람 중인 의견 글의 일부."
+      }
+    },
+    {
+      "id": "34",
+      "token": "3m3r4ld",
+      "input": {
+        "target": "오늘은 [표기]3m3r4ld[/표기] 이름으로 사설 베팅 입장 받습니다. 새로 오실 분만 연락 주십시오.",
+        "context": "대상 게시자의 작성 내용."
+      }
+    },
+    {
+      "id": "35",
+      "token": "3merald",
+      "input": {
+        "target": "오늘은 [표기]3merald[/표기] 이름으로 사설 베팅 입장 받습니다. 새로 오실 분만 연락 주십시오.",
+        "context": "대상 게시자의 작성 내용."
+      }
+    },
+    {
+      "id": "36",
+      "token": "3m3r4ld",
+      "input": {
+        "target": "도박방 광고에 [표기]3m3r4ld[/표기]가 보입니다. 캡처 첨부했으니 처리해 주실 수 있나요.",
+        "context": "이용자가 신고하는 글."
+      }
+    },
+    {
+      "id": "37",
+      "token": "3merald",
+      "input": {
+        "target": "도박방 광고에 [표기]3merald[/표기]가 보입니다. 캡처 첨부했으니 처리해 주실 수 있나요.",
+        "context": "이용자가 신고하는 글."
+      }
+    },
+    {
+      "id": "38",
+      "token": "3m3r4ld",
+      "input": {
+        "target": "책에 나온 [표기]3m3r4ld[/표기]를 칠판에 옮겼습니다. 받아쓰기 자료로 쓸 예정입니다.",
+        "context": "교사의 수업 기록."
+      }
+    },
+    {
+      "id": "39",
+      "token": "3merald",
+      "input": {
+        "target": "책에 나온 [표기]3merald[/표기]를 칠판에 옮겼습니다. 받아쓰기 자료로 쓸 예정입니다.",
+        "context": "교사의 수업 기록."
+      }
+    },
+    {
+      "id": "40",
+      "token": "f4lc0n",
+      "input": {
+        "target": "[표기]f4lc0n[/표기]라고 적혀 있는데 신청해 보신 주민 계세요?",
+        "context": "열람 중인 의견 글의 일부."
+      }
+    },
+    {
+      "id": "41",
+      "token": "f4lcon",
+      "input": {
+        "target": "[표기]f4lcon[/표기]라고 적혀 있는데 신청해 보신 주민 계세요?",
+        "context": "열람 중인 의견 글의 일부."
+      }
+    },
+    {
+      "id": "42",
+      "token": "f4lc0n",
+      "input": {
+        "target": "오늘은 [표기]f4lc0n[/표기] 이름으로 사설 베팅 입장 받습니다. 새로 오실 분만 연락 주십시오.",
+        "context": "대상 게시자의 작성 내용."
+      }
+    },
+    {
+      "id": "43",
+      "token": "f4lcon",
+      "input": {
+        "target": "오늘은 [표기]f4lcon[/표기] 이름으로 사설 베팅 입장 받습니다. 새로 오실 분만 연락 주십시오.",
+        "context": "대상 게시자의 작성 내용."
+      }
+    },
+    {
+      "id": "44",
+      "token": "f4lc0n",
+      "input": {
+        "target": "도박방 광고에 [표기]f4lc0n[/표기]가 보입니다. 캡처 첨부했으니 처리해 주실 수 있나요.",
+        "context": "이용자가 신고하는 글."
+      }
+    },
+    {
+      "id": "45",
+      "token": "f4lcon",
+      "input": {
+        "target": "도박방 광고에 [표기]f4lcon[/표기]가 보입니다. 캡처 첨부했으니 처리해 주실 수 있나요.",
+        "context": "이용자가 신고하는 글."
+      }
+    },
+    {
+      "id": "46",
+      "token": "f4lc0n",
+      "input": {
+        "target": "책에 나온 [표기]f4lc0n[/표기]를 칠판에 옮겼습니다. 받아쓰기 자료로 쓸 예정입니다.",
+        "context": "교사의 수업 기록."
+      }
+    },
+    {
+      "id": "47",
+      "token": "f4lcon",
+      "input": {
+        "target": "책에 나온 [표기]f4lcon[/표기]를 칠판에 옮겼습니다. 받아쓰기 자료로 쓸 예정입니다.",
+        "context": "교사의 수업 기록."
+      }
+    },
+    {
+      "id": "48",
+      "token": "g4l4xy",
+      "input": {
+        "target": "[표기]g4l4xy[/표기]라고 적혀 있는데 신청해 보신 주민 계세요?",
+        "context": "열람 중인 의견 글의 일부."
+      }
+    },
+    {
+      "id": "49",
+      "token": "g4laxy",
+      "input": {
+        "target": "[표기]g4laxy[/표기]라고 적혀 있는데 신청해 보신 주민 계세요?",
+        "context": "열람 중인 의견 글의 일부."
+      }
+    },
+    {
+      "id": "50",
+      "token": "g4l4xy",
+      "input": {
+        "target": "오늘은 [표기]g4l4xy[/표기] 이름으로 사설 베팅 입장 받습니다. 새로 오실 분만 연락 주십시오.",
+        "context": "대상 게시자의 작성 내용."
+      }
+    },
+    {
+      "id": "51",
+      "token": "g4laxy",
+      "input": {
+        "target": "오늘은 [표기]g4laxy[/표기] 이름으로 사설 베팅 입장 받습니다. 새로 오실 분만 연락 주십시오.",
+        "context": "대상 게시자의 작성 내용."
+      }
+    },
+    {
+      "id": "52",
+      "token": "g4l4xy",
+      "input": {
+        "target": "도박방 광고에 [표기]g4l4xy[/표기]가 보입니다. 캡처 첨부했으니 처리해 주실 수 있나요.",
+        "context": "이용자가 신고하는 글."
+      }
+    },
+    {
+      "id": "53",
+      "token": "g4laxy",
+      "input": {
+        "target": "도박방 광고에 [표기]g4laxy[/표기]가 보입니다. 캡처 첨부했으니 처리해 주실 수 있나요.",
+        "context": "이용자가 신고하는 글."
+      }
+    },
+    {
+      "id": "54",
+      "token": "g4l4xy",
+      "input": {
+        "target": "책에 나온 [표기]g4l4xy[/표기]를 칠판에 옮겼습니다. 받아쓰기 자료로 쓸 예정입니다.",
+        "context": "교사의 수업 기록."
+      }
+    },
+    {
+      "id": "55",
+      "token": "g4laxy",
+      "input": {
+        "target": "책에 나온 [표기]g4laxy[/표기]를 칠판에 옮겼습니다. 받아쓰기 자료로 쓸 예정입니다.",
+        "context": "교사의 수업 기록."
+      }
+    },
+    {
+      "id": "56",
+      "token": "h347h3r",
+      "input": {
+        "target": "[표기]h347h3r[/표기]라고 적혀 있는데 신청해 보신 주민 계세요?",
+        "context": "열람 중인 의견 글의 일부."
+      }
+    },
+    {
+      "id": "57",
+      "token": "h3ather",
+      "input": {
+        "target": "[표기]h3ather[/표기]라고 적혀 있는데 신청해 보신 주민 계세요?",
+        "context": "열람 중인 의견 글의 일부."
+      }
+    },
+    {
+      "id": "58",
+      "token": "h347h3r",
+      "input": {
+        "target": "오늘은 [표기]h347h3r[/표기] 이름으로 사설 베팅 입장 받습니다. 새로 오실 분만 연락 주십시오.",
+        "context": "대상 게시자의 작성 내용."
+      }
+    },
+    {
+      "id": "59",
+      "token": "h3ather",
+      "input": {
+        "target": "오늘은 [표기]h3ather[/표기] 이름으로 사설 베팅 입장 받습니다. 새로 오실 분만 연락 주십시오.",
+        "context": "대상 게시자의 작성 내용."
+      }
+    },
+    {
+      "id": "60",
+      "token": "h347h3r",
+      "input": {
+        "target": "도박방 광고에 [표기]h347h3r[/표기]가 보입니다. 캡처 첨부했으니 처리해 주실 수 있나요.",
+        "context": "이용자가 신고하는 글."
+      }
+    },
+    {
+      "id": "61",
+      "token": "h3ather",
+      "input": {
+        "target": "도박방 광고에 [표기]h3ather[/표기]가 보입니다. 캡처 첨부했으니 처리해 주실 수 있나요.",
+        "context": "이용자가 신고하는 글."
+      }
+    },
+    {
+      "id": "62",
+      "token": "h347h3r",
+      "input": {
+        "target": "책에 나온 [표기]h347h3r[/표기]를 칠판에 옮겼습니다. 받아쓰기 자료로 쓸 예정입니다.",
+        "context": "교사의 수업 기록."
+      }
+    },
+    {
+      "id": "63",
+      "token": "h3ather",
+      "input": {
+        "target": "책에 나온 [표기]h3ather[/표기]를 칠판에 옮겼습니다. 받아쓰기 자료로 쓸 예정입니다.",
+        "context": "교사의 수업 기록."
+      }
+    },
+    {
+      "id": "64",
+      "token": "j45m1n3",
+      "input": {
+        "target": "[표기]j45m1n3[/표기]라고 적혀 있는데 신청해 보신 주민 계세요?",
+        "context": "열람 중인 의견 글의 일부."
+      }
+    },
+    {
+      "id": "65",
+      "token": "j4smine",
+      "input": {
+        "target": "[표기]j4smine[/표기]라고 적혀 있는데 신청해 보신 주민 계세요?",
+        "context": "열람 중인 의견 글의 일부."
+      }
+    },
+    {
+      "id": "66",
+      "token": "j45m1n3",
+      "input": {
+        "target": "오늘은 [표기]j45m1n3[/표기] 이름으로 사설 베팅 입장 받습니다. 새로 오실 분만 연락 주십시오.",
+        "context": "대상 게시자의 작성 내용."
+      }
+    },
+    {
+      "id": "67",
+      "token": "j4smine",
+      "input": {
+        "target": "오늘은 [표기]j4smine[/표기] 이름으로 사설 베팅 입장 받습니다. 새로 오실 분만 연락 주십시오.",
+        "context": "대상 게시자의 작성 내용."
+      }
+    },
+    {
+      "id": "68",
+      "token": "j45m1n3",
+      "input": {
+        "target": "도박방 광고에 [표기]j45m1n3[/표기]가 보입니다. 캡처 첨부했으니 처리해 주실 수 있나요.",
+        "context": "이용자가 신고하는 글."
+      }
+    },
+    {
+      "id": "69",
+      "token": "j4smine",
+      "input": {
+        "target": "도박방 광고에 [표기]j4smine[/표기]가 보입니다. 캡처 첨부했으니 처리해 주실 수 있나요.",
+        "context": "이용자가 신고하는 글."
+      }
+    },
+    {
+      "id": "70",
+      "token": "j45m1n3",
+      "input": {
+        "target": "책에 나온 [표기]j45m1n3[/표기]를 칠판에 옮겼습니다. 받아쓰기 자료로 쓸 예정입니다.",
+        "context": "교사의 수업 기록."
+      }
+    },
+    {
+      "id": "71",
+      "token": "j4smine",
+      "input": {
+        "target": "책에 나온 [표기]j4smine[/표기]를 칠판에 옮겼습니다. 받아쓰기 자료로 쓸 예정입니다.",
+        "context": "교사의 수업 기록."
+      }
+    },
+    {
+      "id": "72",
+      "token": "l4g00n",
+      "input": {
+        "target": "[표기]l4g00n[/표기]라고 적혀 있는데 신청해 보신 주민 계세요?",
+        "context": "열람 중인 의견 글의 일부."
+      }
+    },
+    {
+      "id": "73",
+      "token": "l4goon",
+      "input": {
+        "target": "[표기]l4goon[/표기]라고 적혀 있는데 신청해 보신 주민 계세요?",
+        "context": "열람 중인 의견 글의 일부."
+      }
+    },
+    {
+      "id": "74",
+      "token": "l4g00n",
+      "input": {
+        "target": "오늘은 [표기]l4g00n[/표기] 이름으로 사설 베팅 입장 받습니다. 새로 오실 분만 연락 주십시오.",
+        "context": "대상 게시자의 작성 내용."
+      }
+    },
+    {
+      "id": "75",
+      "token": "l4goon",
+      "input": {
+        "target": "오늘은 [표기]l4goon[/표기] 이름으로 사설 베팅 입장 받습니다. 새로 오실 분만 연락 주십시오.",
+        "context": "대상 게시자의 작성 내용."
+      }
+    },
+    {
+      "id": "76",
+      "token": "l4g00n",
+      "input": {
+        "target": "도박방 광고에 [표기]l4g00n[/표기]가 보입니다. 캡처 첨부했으니 처리해 주실 수 있나요.",
+        "context": "이용자가 신고하는 글."
+      }
+    },
+    {
+      "id": "77",
+      "token": "l4goon",
+      "input": {
+        "target": "도박방 광고에 [표기]l4goon[/표기]가 보입니다. 캡처 첨부했으니 처리해 주실 수 있나요.",
+        "context": "이용자가 신고하는 글."
+      }
+    },
+    {
+      "id": "78",
+      "token": "l4g00n",
+      "input": {
+        "target": "책에 나온 [표기]l4g00n[/표기]를 칠판에 옮겼습니다. 받아쓰기 자료로 쓸 예정입니다.",
+        "context": "교사의 수업 기록."
+      }
+    },
+    {
+      "id": "79",
+      "token": "l4goon",
+      "input": {
+        "target": "책에 나온 [표기]l4goon[/표기]를 칠판에 옮겼습니다. 받아쓰기 자료로 쓸 예정입니다.",
+        "context": "교사의 수업 기록."
+      }
+    },
+    {
+      "id": "80",
+      "token": "n3c74r",
+      "input": {
+        "target": "[표기]n3c74r[/표기]라고 적혀 있는데 신청해 보신 주민 계세요?",
+        "context": "열람 중인 의견 글의 일부."
+      }
+    },
+    {
+      "id": "81",
+      "token": "n3ctar",
+      "input": {
+        "target": "[표기]n3ctar[/표기]라고 적혀 있는데 신청해 보신 주민 계세요?",
+        "context": "열람 중인 의견 글의 일부."
+      }
+    },
+    {
+      "id": "82",
+      "token": "n3c74r",
+      "input": {
+        "target": "오늘은 [표기]n3c74r[/표기] 이름으로 사설 베팅 입장 받습니다. 새로 오실 분만 연락 주십시오.",
+        "context": "대상 게시자의 작성 내용."
+      }
+    },
+    {
+      "id": "83",
+      "token": "n3ctar",
+      "input": {
+        "target": "오늘은 [표기]n3ctar[/표기] 이름으로 사설 베팅 입장 받습니다. 새로 오실 분만 연락 주십시오.",
+        "context": "대상 게시자의 작성 내용."
+      }
+    },
+    {
+      "id": "84",
+      "token": "n3c74r",
+      "input": {
+        "target": "도박방 광고에 [표기]n3c74r[/표기]가 보입니다. 캡처 첨부했으니 처리해 주실 수 있나요.",
+        "context": "이용자가 신고하는 글."
+      }
+    },
+    {
+      "id": "85",
+      "token": "n3ctar",
+      "input": {
+        "target": "도박방 광고에 [표기]n3ctar[/표기]가 보입니다. 캡처 첨부했으니 처리해 주실 수 있나요.",
+        "context": "이용자가 신고하는 글."
+      }
+    },
+    {
+      "id": "86",
+      "token": "n3c74r",
+      "input": {
+        "target": "책에 나온 [표기]n3c74r[/표기]를 칠판에 옮겼습니다. 받아쓰기 자료로 쓸 예정입니다.",
+        "context": "교사의 수업 기록."
+      }
+    },
+    {
+      "id": "87",
+      "token": "n3ctar",
+      "input": {
+        "target": "책에 나온 [표기]n3ctar[/표기]를 칠판에 옮겼습니다. 받아쓰기 자료로 쓸 예정입니다.",
+        "context": "교사의 수업 기록."
+      }
+    },
+    {
+      "id": "88",
+      "token": "0773r",
+      "input": {
+        "target": "[표기]0773r[/표기]라고 적혀 있는데 신청해 보신 주민 계세요?",
+        "context": "열람 중인 의견 글의 일부."
+      }
+    },
+    {
+      "id": "89",
+      "token": "0tter",
+      "input": {
+        "target": "[표기]0tter[/표기]라고 적혀 있는데 신청해 보신 주민 계세요?",
+        "context": "열람 중인 의견 글의 일부."
+      }
+    },
+    {
+      "id": "90",
+      "token": "0773r",
+      "input": {
+        "target": "오늘은 [표기]0773r[/표기] 이름으로 사설 베팅 입장 받습니다. 새로 오실 분만 연락 주십시오.",
+        "context": "대상 게시자의 작성 내용."
+      }
+    },
+    {
+      "id": "91",
+      "token": "0tter",
+      "input": {
+        "target": "오늘은 [표기]0tter[/표기] 이름으로 사설 베팅 입장 받습니다. 새로 오실 분만 연락 주십시오.",
+        "context": "대상 게시자의 작성 내용."
+      }
+    },
+    {
+      "id": "92",
+      "token": "0773r",
+      "input": {
+        "target": "도박방 광고에 [표기]0773r[/표기]가 보입니다. 캡처 첨부했으니 처리해 주실 수 있나요.",
+        "context": "이용자가 신고하는 글."
+      }
+    },
+    {
+      "id": "93",
+      "token": "0tter",
+      "input": {
+        "target": "도박방 광고에 [표기]0tter[/표기]가 보입니다. 캡처 첨부했으니 처리해 주실 수 있나요.",
+        "context": "이용자가 신고하는 글."
+      }
+    },
+    {
+      "id": "94",
+      "token": "0773r",
+      "input": {
+        "target": "책에 나온 [표기]0773r[/표기]를 칠판에 옮겼습니다. 받아쓰기 자료로 쓸 예정입니다.",
+        "context": "교사의 수업 기록."
+      }
+    },
+    {
+      "id": "95",
+      "token": "0tter",
+      "input": {
+        "target": "책에 나온 [표기]0tter[/표기]를 칠판에 옮겼습니다. 받아쓰기 자료로 쓸 예정입니다.",
+        "context": "교사의 수업 기록."
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "kind": "dense",
+      "family": "alpine"
+    },
+    {
+      "kind": "sparse",
+      "family": "alpine"
+    },
+    {
+      "kind": "dense",
+      "family": "alpine"
+    },
+    {
+      "kind": "sparse",
+      "family": "alpine"
+    },
+    {
+      "kind": "dense",
+      "family": "alpine"
+    },
+    {
+      "kind": "sparse",
+      "family": "alpine"
+    },
+    {
+      "kind": "dense",
+      "family": "alpine"
+    },
+    {
+      "kind": "sparse",
+      "family": "alpine"
+    },
+    {
+      "kind": "dense",
+      "family": "cypress"
+    },
+    {
+      "kind": "sparse",
+      "family": "cypress"
+    },
+    {
+      "kind": "dense",
+      "family": "cypress"
+    },
+    {
+      "kind": "sparse",
+      "family": "cypress"
+    },
+    {
+      "kind": "dense",
+      "family": "cypress"
+    },
+    {
+      "kind": "sparse",
+      "family": "cypress"
+    },
+    {
+      "kind": "dense",
+      "family": "cypress"
+    },
+    {
+      "kind": "sparse",
+      "family": "cypress"
+    },
+    {
+      "kind": "dense",
+      "family": "badger"
+    },
+    {
+      "kind": "sparse",
+      "family": "badger"
+    },
+    {
+      "kind": "dense",
+      "family": "badger"
+    },
+    {
+      "kind": "sparse",
+      "family": "badger"
+    },
+    {
+      "kind": "dense",
+      "family": "badger"
+    },
+    {
+      "kind": "sparse",
+      "family": "badger"
+    },
+    {
+      "kind": "dense",
+      "family": "badger"
+    },
+    {
+      "kind": "sparse",
+      "family": "badger"
+    },
+    {
+      "kind": "dense",
+      "family": "dolphin"
+    },
+    {
+      "kind": "sparse",
+      "family": "dolphin"
+    },
+    {
+      "kind": "dense",
+      "family": "dolphin"
+    },
+    {
+      "kind": "sparse",
+      "family": "dolphin"
+    },
+    {
+      "kind": "dense",
+      "family": "dolphin"
+    },
+    {
+      "kind": "sparse",
+      "family": "dolphin"
+    },
+    {
+      "kind": "dense",
+      "family": "dolphin"
+    },
+    {
+      "kind": "sparse",
+      "family": "dolphin"
+    },
+    {
+      "kind": "dense",
+      "family": "emerald"
+    },
+    {
+      "kind": "sparse",
+      "family": "emerald"
+    },
+    {
+      "kind": "dense",
+      "family": "emerald"
+    },
+    {
+      "kind": "sparse",
+      "family": "emerald"
+    },
+    {
+      "kind": "dense",
+      "family": "emerald"
+    },
+    {
+      "kind": "sparse",
+      "family": "emerald"
+    },
+    {
+      "kind": "dense",
+      "family": "emerald"
+    },
+    {
+      "kind": "sparse",
+      "family": "emerald"
+    },
+    {
+      "kind": "dense",
+      "family": "falcon"
+    },
+    {
+      "kind": "sparse",
+      "family": "falcon"
+    },
+    {
+      "kind": "dense",
+      "family": "falcon"
+    },
+    {
+      "kind": "sparse",
+      "family": "falcon"
+    },
+    {
+      "kind": "dense",
+      "family": "falcon"
+    },
+    {
+      "kind": "sparse",
+      "family": "falcon"
+    },
+    {
+      "kind": "dense",
+      "family": "falcon"
+    },
+    {
+      "kind": "sparse",
+      "family": "falcon"
+    },
+    {
+      "kind": "dense",
+      "family": "galaxy"
+    },
+    {
+      "kind": "sparse",
+      "family": "galaxy"
+    },
+    {
+      "kind": "dense",
+      "family": "galaxy"
+    },
+    {
+      "kind": "sparse",
+      "family": "galaxy"
+    },
+    {
+      "kind": "dense",
+      "family": "galaxy"
+    },
+    {
+      "kind": "sparse",
+      "family": "galaxy"
+    },
+    {
+      "kind": "dense",
+      "family": "galaxy"
+    },
+    {
+      "kind": "sparse",
+      "family": "galaxy"
+    },
+    {
+      "kind": "dense",
+      "family": "heather"
+    },
+    {
+      "kind": "sparse",
+      "family": "heather"
+    },
+    {
+      "kind": "dense",
+      "family": "heather"
+    },
+    {
+      "kind": "sparse",
+      "family": "heather"
+    },
+    {
+      "kind": "dense",
+      "family": "heather"
+    },
+    {
+      "kind": "sparse",
+      "family": "heather"
+    },
+    {
+      "kind": "dense",
+      "family": "heather"
+    },
+    {
+      "kind": "sparse",
+      "family": "heather"
+    },
+    {
+      "kind": "dense",
+      "family": "jasmine"
+    },
+    {
+      "kind": "sparse",
+      "family": "jasmine"
+    },
+    {
+      "kind": "dense",
+      "family": "jasmine"
+    },
+    {
+      "kind": "sparse",
+      "family": "jasmine"
+    },
+    {
+      "kind": "dense",
+      "family": "jasmine"
+    },
+    {
+      "kind": "sparse",
+      "family": "jasmine"
+    },
+    {
+      "kind": "dense",
+      "family": "jasmine"
+    },
+    {
+      "kind": "sparse",
+      "family": "jasmine"
+    },
+    {
+      "kind": "dense",
+      "family": "lagoon"
+    },
+    {
+      "kind": "sparse",
+      "family": "lagoon"
+    },
+    {
+      "kind": "dense",
+      "family": "lagoon"
+    },
+    {
+      "kind": "sparse",
+      "family": "lagoon"
+    },
+    {
+      "kind": "dense",
+      "family": "lagoon"
+    },
+    {
+      "kind": "sparse",
+      "family": "lagoon"
+    },
+    {
+      "kind": "dense",
+      "family": "lagoon"
+    },
+    {
+      "kind": "sparse",
+      "family": "lagoon"
+    },
+    {
+      "kind": "dense",
+      "family": "nectar"
+    },
+    {
+      "kind": "sparse",
+      "family": "nectar"
+    },
+    {
+      "kind": "dense",
+      "family": "nectar"
+    },
+    {
+      "kind": "sparse",
+      "family": "nectar"
+    },
+    {
+      "kind": "dense",
+      "family": "nectar"
+    },
+    {
+      "kind": "sparse",
+      "family": "nectar"
+    },
+    {
+      "kind": "dense",
+      "family": "nectar"
+    },
+    {
+      "kind": "sparse",
+      "family": "nectar"
+    },
+    {
+      "kind": "dense",
+      "family": "otter"
+    },
+    {
+      "kind": "sparse",
+      "family": "otter"
+    },
+    {
+      "kind": "dense",
+      "family": "otter"
+    },
+    {
+      "kind": "sparse",
+      "family": "otter"
+    },
+    {
+      "kind": "dense",
+      "family": "otter"
+    },
+    {
+      "kind": "sparse",
+      "family": "otter"
+    },
+    {
+      "kind": "dense",
+      "family": "otter"
+    },
+    {
+      "kind": "sparse",
+      "family": "otter"
+    }
+  ],
+  "predictions": [
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      1
+    ]
+  ],
+  "scope": "same novel development words and contexts, only digit substitution density varies"
+}

@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "checks": [
+    "raw_byte_hashes",
+    "cached_and_fresh_parser_contract",
+    "body_xpath_roundtrip",
+    "excerpt_offsets",
+    "redaction_examples",
+    "unique_ids",
+    "no_conflicting_input_labels_at_build",
+    "uncertain_excluded",
+    "parent_group_preserved",
+    "input_field_allowlist",
+    "NFD_roundtrip"
+  ],
+  "training_rows": 766,
+  "accuracy_evaluated": false,
+  "production_collector_parity": false
+}

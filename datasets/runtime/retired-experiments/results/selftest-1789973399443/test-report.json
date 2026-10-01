@@ -1,0 +1,26 @@
+{
+  "passed": 19,
+  "checked": [
+    "missing-key-and-endpoint-validation",
+    "URL-and-scope-boundary",
+    "pipeline-control-flow",
+    "adaptive-control-flow",
+    "specialists-control-flow",
+    "composite-output-and-original-text",
+    "reject-unknown-ID-and-technique",
+    "uncertainty-not-negative",
+    "HTML-escaping",
+    "HCX-tool-evidence-schema-roundtrip",
+    "HCX-disabled-reasoning-and-call-limit",
+    "HTTP-request-response-contract",
+    "malformed-response-and-401",
+    "truncation-and-unknown-tools",
+    "redirect-block-and-timeout",
+    "browser-crawl-query-deduplication",
+    "dynamic-comments-and-nested-frames",
+    "four-technique-evidence",
+    "incomplete-crawl-is-failure-not-clean-result"
+  ],
+  "live_api_called": false,
+  "verified_at": "2026-09-21T06:50:04.487Z"
+}

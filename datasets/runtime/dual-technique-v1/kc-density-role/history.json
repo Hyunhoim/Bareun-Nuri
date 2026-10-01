@@ -1,0 +1,238 @@
+[
+  {
+    "epoch": 1,
+    "base_dev": {
+      "JAMO": {
+        "confusion": [
+          [
+            336,
+            0,
+            0
+          ],
+          [
+            0,
+            276,
+            0
+          ],
+          [
+            0,
+            0,
+            12
+          ]
+        ],
+        "macro_f1": 1.0,
+        "strict_f1": 1.0,
+        "normal_false": 0,
+        "uncertain_false": 0
+      },
+      "HOMOGLYPH": {
+        "confusion": [
+          [
+            239,
+            0,
+            1
+          ],
+          [
+            4,
+            368,
+            0
+          ],
+          [
+            0,
+            0,
+            12
+          ]
+        ],
+        "macro_f1": 0.9814142092402962,
+        "strict_f1": 0.989648033126294,
+        "normal_false": 4,
+        "uncertain_false": 0
+      },
+      "positive_macro_f1": 0.994824016563147,
+      "min_f1": 0.989648033126294,
+      "normal_false": 4,
+      "uncertain_false": 0,
+      "exact_state_accuracy": 0.9919871794871795,
+      "rows": 624
+    },
+    "contrast_dev": {
+      "JAMO": {
+        "confusion": [
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            300,
+            0
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "macro_f1": 0.3333333333333333,
+        "strict_f1": 0,
+        "normal_false": 0,
+        "uncertain_false": 0
+      },
+      "HOMOGLYPH": {
+        "confusion": [
+          [
+            79,
+            5,
+            66
+          ],
+          [
+            0,
+            32,
+            43
+          ],
+          [
+            0,
+            1,
+            74
+          ]
+        ],
+        "macro_f1": 0.6099904747154573,
+        "strict_f1": 0.6899563318777293,
+        "normal_false": 0,
+        "uncertain_false": 0
+      },
+      "positive_macro_f1": 0.34497816593886466,
+      "min_f1": 0,
+      "normal_false": 0,
+      "uncertain_false": 0,
+      "exact_state_accuracy": 0.6166666666666667,
+      "rows": 300
+    },
+    "rank": [
+      0.8423901742204382,
+      0.6899563318777293,
+      -4
+    ],
+    "loss": 0.018117847386211944,
+    "seconds": 71.10381640000014
+  },
+  {
+    "epoch": 2,
+    "base_dev": {
+      "JAMO": {
+        "confusion": [
+          [
+            336,
+            0,
+            0
+          ],
+          [
+            0,
+            276,
+            0
+          ],
+          [
+            0,
+            0,
+            12
+          ]
+        ],
+        "macro_f1": 1.0,
+        "strict_f1": 1.0,
+        "normal_false": 0,
+        "uncertain_false": 0
+      },
+      "HOMOGLYPH": {
+        "confusion": [
+          [
+            240,
+            0,
+            0
+          ],
+          [
+            1,
+            371,
+            0
+          ],
+          [
+            0,
+            0,
+            12
+          ]
+        ],
+        "macro_f1": 0.9988583676336033,
+        "strict_f1": 0.997920997920998,
+        "normal_false": 1,
+        "uncertain_false": 0
+      },
+      "positive_macro_f1": 0.998960498960499,
+      "min_f1": 0.997920997920998,
+      "normal_false": 1,
+      "uncertain_false": 0,
+      "exact_state_accuracy": 0.9983974358974359,
+      "rows": 624
+    },
+    "contrast_dev": {
+      "JAMO": {
+        "confusion": [
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            300,
+            0
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "macro_f1": 0.3333333333333333,
+        "strict_f1": 0,
+        "normal_false": 0,
+        "uncertain_false": 0
+      },
+      "HOMOGLYPH": {
+        "confusion": [
+          [
+            82,
+            5,
+            63
+          ],
+          [
+            0,
+            56,
+            19
+          ],
+          [
+            0,
+            1,
+            74
+          ]
+        ],
+        "macro_f1": 0.7217024801973203,
+        "strict_f1": 0.7068965517241379,
+        "normal_false": 0,
+        "uncertain_false": 0
+      },
+      "positive_macro_f1": 0.35344827586206895,
+      "min_f1": 0,
+      "normal_false": 0,
+      "uncertain_false": 0,
+      "exact_state_accuracy": 0.7066666666666667,
+      "rows": 300
+    },
+    "rank": [
+      0.8529285253423184,
+      0.7068965517241379,
+      -1
+    ],
+    "loss": 0.003856212835894802,
+    "seconds": 143.04523609999978
+  }
+]

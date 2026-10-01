@@ -1,0 +1,2596 @@
+{
+  "candidates": [
+    {
+      "selector": "a#n_03c56e93e62f6d69",
+      "raw_text": "예약하기",
+      "own_style": {
+        "tag": "a",
+        "opacity": 1,
+        "display": "inline",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 238)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 53,
+          "width": 64,
+          "height": 21,
+          "right": 72,
+          "bottom": 74
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 95,
+            "right": 1272,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 95,
+            "right": 1272,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 127,
+            "right": 1280,
+            "bottom": 127
+          }
+        }
+      ],
+      "nearby": {
+        "before": "제가 제공하는 불법 현금 마작의 유료 이용 창구입니다. 아래에서 비용을 보내고 신청하세요.",
+        "after": "실제 가입과 구매를 접수합니다."
+      },
+      "context": "제가 제공하는 불법 현금 마작의 유료 이용 창구입니다. 아래에서 비용을 보내고 신청하세요.예약하기실제 가입과 구매를 접수합니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": "article",
+          "document_scope": false
+        },
+        "target_tag": "a",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "제가 제공하는 불법 현금 마작의 유료 이용 창구입니다. 아래에서 비용을 보내고 신청하세요."
+          },
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "quoted": false,
+            "text": "실제 가입과 구매를 접수합니다."
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "node_id": "n_03c56e93e62f6d69",
+      "url": "https://public.invalid/board/view",
+      "location": "a#n_03c56e93e62f6d69",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "normalized_text": "예약하기",
+      "signals": [],
+      "own_link_result": [
+        {
+          "text": "예약하기",
+          "url": "https://public.invalid/portal?id=84"
+        }
+      ]
+    },
+    {
+      "selector": "a#n_0acd324bfa623f28",
+      "raw_text": "접속 안내",
+      "own_style": {
+        "tag": "a",
+        "opacity": 1,
+        "display": "inline",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 238)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 53,
+          "width": 69.625,
+          "height": 21,
+          "right": 77.625,
+          "bottom": 74
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "aside",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 95,
+            "right": 1272,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 95,
+            "right": 1272,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 127,
+            "right": 1280,
+            "bottom": 127
+          }
+        }
+      ],
+      "nearby": {
+        "before": "시민 보드게임 교실 신청 안내입니다. 정상 행사 접수이며 도박·불법 영상 거래와 관계없습니다.",
+        "after": "행사는 무료이며 공공 문화 프로그램입니다."
+      },
+      "context": "시민 보드게임 교실 신청 안내입니다. 정상 행사 접수이며 도박·불법 영상 거래와 관계없습니다.접속 안내행사는 무료이며 공공 문화 프로그램입니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "aside",
+          "role": "article",
+          "document_scope": false
+        },
+        "target_tag": "a",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "시민 보드게임 교실 신청 안내입니다. 정상 행사 접수이며 도박·불법 영상 거래와 관계없습니다."
+          },
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "quoted": false,
+            "text": "행사는 무료이며 공공 문화 프로그램입니다."
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "node_id": "n_0acd324bfa623f28",
+      "url": "https://public.invalid/board/view",
+      "location": "a#n_0acd324bfa623f28",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "normalized_text": "접속 안내",
+      "signals": [],
+      "own_link_result": [
+        {
+          "text": "접속 안내",
+          "url": "https://public.invalid/form?step=2#apply"
+        }
+      ]
+    },
+    {
+      "selector": "a#n_11fb4176e07ed9d7",
+      "raw_text": "참여 접수",
+      "own_style": {
+        "tag": "a",
+        "opacity": 1,
+        "display": "inline",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 238)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 48,
+          "y": 53,
+          "width": 69.625,
+          "height": 21,
+          "right": 117.625,
+          "bottom": 74
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "blockquote",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 48,
+            "y": 53,
+            "width": 1184,
+            "height": 21,
+            "right": 1232,
+            "bottom": 74
+          }
+        },
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 95,
+            "right": 1272,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 95,
+            "right": 1272,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 127,
+            "right": 1280,
+            "bottom": 127
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "참여 접수",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": "article",
+          "document_scope": false
+        },
+        "target_tag": "a",
+        "target_quoted": true,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "불법 현금 마작 모집 수법을 설명하는 피해예방 자료입니다. 아래 링크 문구와 주소는 신고 대상 원문을 인용한 것입니다."
+          },
+          {
+            "relation": "contains_target",
+            "tag": "blockquote",
+            "quoted": true,
+            "text": "참여 접수"
+          },
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "quoted": false,
+            "text": "접속하거나 결제하지 마세요. 신고 자료로만 제시합니다."
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "node_id": "n_11fb4176e07ed9d7",
+      "url": "https://public.invalid/board/view",
+      "location": "a#n_11fb4176e07ed9d7",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "normalized_text": "참여 접수",
+      "signals": [],
+      "own_link_result": [
+        {
+          "text": "참여 접수",
+          "url": "https://public.invalid/entry?room=72"
+        }
+      ]
+    },
+    {
+      "selector": "a#n_142e815e6ae443c4",
+      "raw_text": "별도 상담",
+      "own_style": {
+        "tag": "a",
+        "opacity": 1,
+        "display": "inline",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 238)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 53,
+          "width": 69.625,
+          "height": 21,
+          "right": 77.625,
+          "bottom": 74
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "section",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 58,
+            "right": 1272,
+            "bottom": 74
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 58,
+            "right": 1272,
+            "bottom": 74
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 90,
+            "right": 1280,
+            "bottom": 90
+          }
+        }
+      ],
+      "nearby": {
+        "before": "서비스의 상세 설명은 제공되지 않았습니다.",
+        "after": ""
+      },
+      "context": "서비스의 상세 설명은 제공되지 않았습니다.별도 상담",
+      "context_evidence": {
+        "scope": {
+          "tag": "section",
+          "role": "article",
+          "document_scope": false
+        },
+        "target_tag": "a",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "서비스의 상세 설명은 제공되지 않았습니다."
+          },
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "node_id": "n_142e815e6ae443c4",
+      "url": "https://public.invalid/board/view",
+      "location": "a#n_142e815e6ae443c4",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "normalized_text": "별도 상담",
+      "signals": [],
+      "own_link_result": [
+        {
+          "text": "별도 상담",
+          "url": "https://files.invalid/adult/order"
+        }
+      ]
+    },
+    {
+      "selector": "a#n_15ab1b0da1a0cf8f",
+      "raw_text": "요금 납부",
+      "own_style": {
+        "tag": "a",
+        "opacity": 1,
+        "display": "inline",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 238)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 48,
+          "y": 53,
+          "width": 69.625,
+          "height": 21,
+          "right": 117.625,
+          "bottom": 74
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "blockquote",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 48,
+            "y": 53,
+            "width": 1184,
+            "height": 21,
+            "right": 1232,
+            "bottom": 74
+          }
+        },
+        {
+          "tag": "aside",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 95,
+            "right": 1272,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 95,
+            "right": 1272,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 127,
+            "right": 1280,
+            "bottom": 127
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "요금 납부",
+      "context_evidence": {
+        "scope": {
+          "tag": "aside",
+          "role": "article",
+          "document_scope": false
+        },
+        "target_tag": "a",
+        "target_quoted": true,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "불법 현금 마작 모집 수법을 설명하는 피해예방 자료입니다. 아래 링크 문구와 주소는 신고 대상 원문을 인용한 것입니다."
+          },
+          {
+            "relation": "contains_target",
+            "tag": "blockquote",
+            "quoted": true,
+            "text": "요금 납부"
+          },
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "quoted": false,
+            "text": "접속하거나 결제하지 마세요. 신고 자료로만 제시합니다."
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "node_id": "n_15ab1b0da1a0cf8f",
+      "url": "https://public.invalid/board/view",
+      "location": "a#n_15ab1b0da1a0cf8f",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "normalized_text": "요금 납부",
+      "signals": [],
+      "own_link_result": [
+        {
+          "text": "요금 납부",
+          "url": "https://public.invalid/payment?return=%2Fnotice"
+        }
+      ]
+    },
+    {
+      "selector": "a#n_1adda20a9070b221",
+      "raw_text": "요금 납부",
+      "own_style": {
+        "tag": "a",
+        "opacity": 1,
+        "display": "inline",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 238)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 53,
+          "width": 69.625,
+          "height": 21,
+          "right": 77.625,
+          "bottom": 74
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "aside",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 95,
+            "right": 1272,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 95,
+            "right": 1272,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 127,
+            "right": 1280,
+            "bottom": 127
+          }
+        }
+      ],
+      "nearby": {
+        "before": "제가 제공하는 불법 현금 마작의 유료 이용 창구입니다. 아래에서 비용을 보내고 신청하세요.",
+        "after": "실제 가입과 구매를 접수합니다."
+      },
+      "context": "제가 제공하는 불법 현금 마작의 유료 이용 창구입니다. 아래에서 비용을 보내고 신청하세요.요금 납부실제 가입과 구매를 접수합니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "aside",
+          "role": "article",
+          "document_scope": false
+        },
+        "target_tag": "a",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "제가 제공하는 불법 현금 마작의 유료 이용 창구입니다. 아래에서 비용을 보내고 신청하세요."
+          },
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "quoted": false,
+            "text": "실제 가입과 구매를 접수합니다."
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "node_id": "n_1adda20a9070b221",
+      "url": "https://public.invalid/board/view",
+      "location": "a#n_1adda20a9070b221",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "normalized_text": "요금 납부",
+      "signals": [],
+      "own_link_result": [
+        {
+          "text": "요금 납부",
+          "url": "https://public.invalid/payment?return=%2Fnotice"
+        }
+      ]
+    },
+    {
+      "selector": "a#n_3a2a4bfc785f1097",
+      "raw_text": "상담 연결",
+      "own_style": {
+        "tag": "a",
+        "opacity": 1,
+        "display": "inline",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 238)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 53,
+          "width": 69.625,
+          "height": 21,
+          "right": 77.625,
+          "bottom": 74
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 95,
+            "right": 1272,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 95,
+            "right": 1272,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 127,
+            "right": 1280,
+            "bottom": 127
+          }
+        }
+      ],
+      "nearby": {
+        "before": "제가 제공하는 유출된 성인 사생활 파일의 유료 이용 창구입니다. 아래에서 비용을 보내고 신청하세요.",
+        "after": "실제 가입과 구매를 접수합니다."
+      },
+      "context": "제가 제공하는 유출된 성인 사생활 파일의 유료 이용 창구입니다. 아래에서 비용을 보내고 신청하세요.상담 연결실제 가입과 구매를 접수합니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "div",
+          "role": "article",
+          "document_scope": false
+        },
+        "target_tag": "a",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "제가 제공하는 유출된 성인 사생활 파일의 유료 이용 창구입니다. 아래에서 비용을 보내고 신청하세요."
+          },
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "quoted": false,
+            "text": "실제 가입과 구매를 접수합니다."
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "node_id": "n_3a2a4bfc785f1097",
+      "url": "https://public.invalid/board/view",
+      "location": "a#n_3a2a4bfc785f1097",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "normalized_text": "상담 연결",
+      "signals": [],
+      "own_link_result": [
+        {
+          "text": "상담 연결",
+          "url": "https://public.invalid/%EC%95%88%EB%82%B4"
+        }
+      ]
+    },
+    {
+      "selector": "a#n_41c51734b41770b2",
+      "raw_text": "배송 요청",
+      "own_style": {
+        "tag": "a",
+        "opacity": 1,
+        "display": "inline",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 238)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 53,
+          "width": 69.625,
+          "height": 21,
+          "right": 77.625,
+          "bottom": 74
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "section",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 95,
+            "right": 1272,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 95,
+            "right": 1272,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 127,
+            "right": 1280,
+            "bottom": 127
+          }
+        }
+      ],
+      "nearby": {
+        "before": "제가 제공하는 유출된 성인 사생활 파일의 유료 이용 창구입니다. 아래에서 비용을 보내고 신청하세요.",
+        "after": "실제 가입과 구매를 접수합니다."
+      },
+      "context": "제가 제공하는 유출된 성인 사생활 파일의 유료 이용 창구입니다. 아래에서 비용을 보내고 신청하세요.배송 요청실제 가입과 구매를 접수합니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "section",
+          "role": "article",
+          "document_scope": false
+        },
+        "target_tag": "a",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "제가 제공하는 유출된 성인 사생활 파일의 유료 이용 창구입니다. 아래에서 비용을 보내고 신청하세요."
+          },
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "quoted": false,
+            "text": "실제 가입과 구매를 접수합니다."
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "node_id": "n_41c51734b41770b2",
+      "url": "https://public.invalid/board/view",
+      "location": "a#n_41c51734b41770b2",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "normalized_text": "배송 요청",
+      "signals": [],
+      "own_link_result": [
+        {
+          "text": "배송 요청",
+          "url": "https://archive.invalid/report?source=casino"
+        }
+      ]
+    },
+    {
+      "selector": "a#n_498df7a83d2ddd9e",
+      "raw_text": "파일 구입",
+      "own_style": {
+        "tag": "a",
+        "opacity": 1,
+        "display": "inline",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 238)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 48,
+          "y": 53,
+          "width": 69.625,
+          "height": 21,
+          "right": 117.625,
+          "bottom": 74
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "blockquote",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 48,
+            "y": 53,
+            "width": 1184,
+            "height": 21,
+            "right": 1232,
+            "bottom": 74
+          }
+        },
+        {
+          "tag": "section",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 95,
+            "right": 1272,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 95,
+            "right": 1272,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 127,
+            "right": 1280,
+            "bottom": 127
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "파일 구입",
+      "context_evidence": {
+        "scope": {
+          "tag": "section",
+          "role": "article",
+          "document_scope": false
+        },
+        "target_tag": "a",
+        "target_quoted": true,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "유출된 성인 사생활 파일 모집 수법을 설명하는 피해예방 자료입니다. 아래 링크 문구와 주소는 신고 대상 원문을 인용한 것입니다."
+          },
+          {
+            "relation": "contains_target",
+            "tag": "blockquote",
+            "quoted": true,
+            "text": "파일 구입"
+          },
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "quoted": false,
+            "text": "접속하거나 결제하지 마세요. 신고 자료로만 제시합니다."
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "node_id": "n_498df7a83d2ddd9e",
+      "url": "https://public.invalid/board/view",
+      "location": "a#n_498df7a83d2ddd9e",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "normalized_text": "파일 구입",
+      "signals": [],
+      "own_link_result": [
+        {
+          "text": "파일 구입",
+          "url": "https://service.invalid/casino/join"
+        }
+      ]
+    },
+    {
+      "selector": "a#n_5ebf4cb32aba0c23",
+      "raw_text": "예약하기",
+      "own_style": {
+        "tag": "a",
+        "opacity": 1,
+        "display": "inline",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 238)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 53,
+          "width": 64,
+          "height": 21,
+          "right": 72,
+          "bottom": 74
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 95,
+            "right": 1272,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 95,
+            "right": 1272,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 127,
+            "right": 1280,
+            "bottom": 127
+          }
+        }
+      ],
+      "nearby": {
+        "before": "시민 보드게임 교실 신청 안내입니다. 정상 행사 접수이며 도박·불법 영상 거래와 관계없습니다.",
+        "after": "행사는 무료이며 공공 문화 프로그램입니다."
+      },
+      "context": "시민 보드게임 교실 신청 안내입니다. 정상 행사 접수이며 도박·불법 영상 거래와 관계없습니다.예약하기행사는 무료이며 공공 문화 프로그램입니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": "article",
+          "document_scope": false
+        },
+        "target_tag": "a",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "시민 보드게임 교실 신청 안내입니다. 정상 행사 접수이며 도박·불법 영상 거래와 관계없습니다."
+          },
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "quoted": false,
+            "text": "행사는 무료이며 공공 문화 프로그램입니다."
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "node_id": "n_5ebf4cb32aba0c23",
+      "url": "https://public.invalid/board/view",
+      "location": "a#n_5ebf4cb32aba0c23",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "normalized_text": "예약하기",
+      "signals": [],
+      "own_link_result": [
+        {
+          "text": "예약하기",
+          "url": "https://public.invalid/portal?id=84"
+        }
+      ]
+    },
+    {
+      "selector": "a#n_62f6469d3d8f16b0",
+      "raw_text": "구독 결제",
+      "own_style": {
+        "tag": "a",
+        "opacity": 1,
+        "display": "inline",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 238)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 48,
+          "y": 53,
+          "width": 69.625,
+          "height": 21,
+          "right": 117.625,
+          "bottom": 74
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "blockquote",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 48,
+            "y": 53,
+            "width": 1184,
+            "height": 21,
+            "right": 1232,
+            "bottom": 74
+          }
+        },
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 95,
+            "right": 1272,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 95,
+            "right": 1272,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 127,
+            "right": 1280,
+            "bottom": 127
+          }
+        }
+      ],
+      "nearby": {
+        "before": "",
+        "after": ""
+      },
+      "context": "구독 결제",
+      "context_evidence": {
+        "scope": {
+          "tag": "div",
+          "role": "article",
+          "document_scope": false
+        },
+        "target_tag": "a",
+        "target_quoted": true,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "유출된 성인 사생활 파일 모집 수법을 설명하는 피해예방 자료입니다. 아래 링크 문구와 주소는 신고 대상 원문을 인용한 것입니다."
+          },
+          {
+            "relation": "contains_target",
+            "tag": "blockquote",
+            "quoted": true,
+            "text": "구독 결제"
+          },
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "quoted": false,
+            "text": "접속하거나 결제하지 마세요. 신고 자료로만 제시합니다."
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "node_id": "n_62f6469d3d8f16b0",
+      "url": "https://public.invalid/board/view",
+      "location": "a#n_62f6469d3d8f16b0",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "normalized_text": "구독 결제",
+      "signals": [],
+      "own_link_result": [
+        {
+          "text": "구독 결제",
+          "url": "https://files.invalid/adult/order"
+        }
+      ]
+    },
+    {
+      "selector": "a#n_7aac4b4536a64d0f",
+      "raw_text": "전용 안내",
+      "own_style": {
+        "tag": "a",
+        "opacity": 1,
+        "display": "inline",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 238)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 53,
+          "width": 69.625,
+          "height": 21,
+          "right": 77.625,
+          "bottom": 74
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "section",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 58,
+            "right": 1272,
+            "bottom": 74
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 58,
+            "right": 1272,
+            "bottom": 74
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 90,
+            "right": 1280,
+            "bottom": 90
+          }
+        }
+      ],
+      "nearby": {
+        "before": "서비스의 상세 설명은 제공되지 않았습니다.",
+        "after": ""
+      },
+      "context": "서비스의 상세 설명은 제공되지 않았습니다.전용 안내",
+      "context_evidence": {
+        "scope": {
+          "tag": "section",
+          "role": "article",
+          "document_scope": false
+        },
+        "target_tag": "a",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "서비스의 상세 설명은 제공되지 않았습니다."
+          },
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "node_id": "n_7aac4b4536a64d0f",
+      "url": "https://public.invalid/board/view",
+      "location": "a#n_7aac4b4536a64d0f",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "normalized_text": "전용 안내",
+      "signals": [],
+      "own_link_result": [
+        {
+          "text": "전용 안내",
+          "url": "https://public.invalid/entry?room=72"
+        }
+      ]
+    },
+    {
+      "selector": "a#n_89b5ba756e6bcaa1",
+      "raw_text": "자료 받기",
+      "own_style": {
+        "tag": "a",
+        "opacity": 1,
+        "display": "inline",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 238)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 53,
+          "width": 69.625,
+          "height": 21,
+          "right": 77.625,
+          "bottom": 74
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "section",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 58,
+            "right": 1272,
+            "bottom": 74
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 58,
+            "right": 1272,
+            "bottom": 74
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 90,
+            "right": 1280,
+            "bottom": 90
+          }
+        }
+      ],
+      "nearby": {
+        "before": "서비스의 상세 설명은 제공되지 않았습니다.",
+        "after": ""
+      },
+      "context": "서비스의 상세 설명은 제공되지 않았습니다.자료 받기",
+      "context_evidence": {
+        "scope": {
+          "tag": "section",
+          "role": "article",
+          "document_scope": false
+        },
+        "target_tag": "a",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "서비스의 상세 설명은 제공되지 않았습니다."
+          },
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "node_id": "n_89b5ba756e6bcaa1",
+      "url": "https://public.invalid/board/view",
+      "location": "a#n_89b5ba756e6bcaa1",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "normalized_text": "자료 받기",
+      "signals": [],
+      "own_link_result": [
+        {
+          "text": "자료 받기",
+          "url": "https://public.invalid/payment?return=%2Fnotice"
+        }
+      ]
+    },
+    {
+      "selector": "a#n_90006a56872e7780",
+      "raw_text": "파일 구입",
+      "own_style": {
+        "tag": "a",
+        "opacity": 1,
+        "display": "inline",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 238)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 53,
+          "width": 69.625,
+          "height": 21,
+          "right": 77.625,
+          "bottom": 74
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "section",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 95,
+            "right": 1272,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 95,
+            "right": 1272,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 127,
+            "right": 1280,
+            "bottom": 127
+          }
+        }
+      ],
+      "nearby": {
+        "before": "제가 제공하는 유출된 성인 사생활 파일의 유료 이용 창구입니다. 아래에서 비용을 보내고 신청하세요.",
+        "after": "실제 가입과 구매를 접수합니다."
+      },
+      "context": "제가 제공하는 유출된 성인 사생활 파일의 유료 이용 창구입니다. 아래에서 비용을 보내고 신청하세요.파일 구입실제 가입과 구매를 접수합니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "section",
+          "role": "article",
+          "document_scope": false
+        },
+        "target_tag": "a",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "제가 제공하는 유출된 성인 사생활 파일의 유료 이용 창구입니다. 아래에서 비용을 보내고 신청하세요."
+          },
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "quoted": false,
+            "text": "실제 가입과 구매를 접수합니다."
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "node_id": "n_90006a56872e7780",
+      "url": "https://public.invalid/board/view",
+      "location": "a#n_90006a56872e7780",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "normalized_text": "파일 구입",
+      "signals": [],
+      "own_link_result": [
+        {
+          "text": "파일 구입",
+          "url": "https://service.invalid/casino/join"
+        }
+      ]
+    },
+    {
+      "selector": "a#n_b5a4ecb851a647e1",
+      "raw_text": "배송 요청",
+      "own_style": {
+        "tag": "a",
+        "opacity": 1,
+        "display": "inline",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 238)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 53,
+          "width": 69.625,
+          "height": 21,
+          "right": 77.625,
+          "bottom": 74
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "section",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 95,
+            "right": 1272,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 95,
+            "right": 1272,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 127,
+            "right": 1280,
+            "bottom": 127
+          }
+        }
+      ],
+      "nearby": {
+        "before": "시민 영상제 신청 안내입니다. 정상 행사 접수이며 도박·불법 영상 거래와 관계없습니다.",
+        "after": "행사는 무료이며 공공 문화 프로그램입니다."
+      },
+      "context": "시민 영상제 신청 안내입니다. 정상 행사 접수이며 도박·불법 영상 거래와 관계없습니다.배송 요청행사는 무료이며 공공 문화 프로그램입니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "section",
+          "role": "article",
+          "document_scope": false
+        },
+        "target_tag": "a",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "시민 영상제 신청 안내입니다. 정상 행사 접수이며 도박·불법 영상 거래와 관계없습니다."
+          },
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "quoted": false,
+            "text": "행사는 무료이며 공공 문화 프로그램입니다."
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "node_id": "n_b5a4ecb851a647e1",
+      "url": "https://public.invalid/board/view",
+      "location": "a#n_b5a4ecb851a647e1",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "normalized_text": "배송 요청",
+      "signals": [],
+      "own_link_result": [
+        {
+          "text": "배송 요청",
+          "url": "https://archive.invalid/report?source=casino"
+        }
+      ]
+    },
+    {
+      "selector": "a#n_bbd71a8d324c178a",
+      "raw_text": "접속 안내",
+      "own_style": {
+        "tag": "a",
+        "opacity": 1,
+        "display": "inline",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 238)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 53,
+          "width": 69.625,
+          "height": 21,
+          "right": 77.625,
+          "bottom": 74
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "aside",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 95,
+            "right": 1272,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 95,
+            "right": 1272,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 127,
+            "right": 1280,
+            "bottom": 127
+          }
+        }
+      ],
+      "nearby": {
+        "before": "제가 제공하는 불법 현금 마작의 유료 이용 창구입니다. 아래에서 비용을 보내고 신청하세요.",
+        "after": "실제 가입과 구매를 접수합니다."
+      },
+      "context": "제가 제공하는 불법 현금 마작의 유료 이용 창구입니다. 아래에서 비용을 보내고 신청하세요.접속 안내실제 가입과 구매를 접수합니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "aside",
+          "role": "article",
+          "document_scope": false
+        },
+        "target_tag": "a",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "제가 제공하는 불법 현금 마작의 유료 이용 창구입니다. 아래에서 비용을 보내고 신청하세요."
+          },
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "quoted": false,
+            "text": "실제 가입과 구매를 접수합니다."
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "node_id": "n_bbd71a8d324c178a",
+      "url": "https://public.invalid/board/view",
+      "location": "a#n_bbd71a8d324c178a",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "normalized_text": "접속 안내",
+      "signals": [],
+      "own_link_result": [
+        {
+          "text": "접속 안내",
+          "url": "https://public.invalid/form?step=2#apply"
+        }
+      ]
+    },
+    {
+      "selector": "a#n_c9a085b5c58720d0",
+      "raw_text": "참여 접수",
+      "own_style": {
+        "tag": "a",
+        "opacity": 1,
+        "display": "inline",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 238)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 53,
+          "width": 69.625,
+          "height": 21,
+          "right": 77.625,
+          "bottom": 74
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "article",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 95,
+            "right": 1272,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 95,
+            "right": 1272,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 127,
+            "right": 1280,
+            "bottom": 127
+          }
+        }
+      ],
+      "nearby": {
+        "before": "제가 제공하는 불법 현금 마작의 유료 이용 창구입니다. 아래에서 비용을 보내고 신청하세요.",
+        "after": "실제 가입과 구매를 접수합니다."
+      },
+      "context": "제가 제공하는 불법 현금 마작의 유료 이용 창구입니다. 아래에서 비용을 보내고 신청하세요.참여 접수실제 가입과 구매를 접수합니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "role": "article",
+          "document_scope": false
+        },
+        "target_tag": "a",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "제가 제공하는 불법 현금 마작의 유료 이용 창구입니다. 아래에서 비용을 보내고 신청하세요."
+          },
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "quoted": false,
+            "text": "실제 가입과 구매를 접수합니다."
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "node_id": "n_c9a085b5c58720d0",
+      "url": "https://public.invalid/board/view",
+      "location": "a#n_c9a085b5c58720d0",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "normalized_text": "참여 접수",
+      "signals": [],
+      "own_link_result": [
+        {
+          "text": "참여 접수",
+          "url": "https://public.invalid/entry?room=72"
+        }
+      ]
+    },
+    {
+      "selector": "a#n_d76fed7e009d4a75",
+      "raw_text": "상담 연결",
+      "own_style": {
+        "tag": "a",
+        "opacity": 1,
+        "display": "inline",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 238)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 53,
+          "width": 69.625,
+          "height": 21,
+          "right": 77.625,
+          "bottom": 74
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 95,
+            "right": 1272,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 95,
+            "right": 1272,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 127,
+            "right": 1280,
+            "bottom": 127
+          }
+        }
+      ],
+      "nearby": {
+        "before": "시민 영상제 신청 안내입니다. 정상 행사 접수이며 도박·불법 영상 거래와 관계없습니다.",
+        "after": "행사는 무료이며 공공 문화 프로그램입니다."
+      },
+      "context": "시민 영상제 신청 안내입니다. 정상 행사 접수이며 도박·불법 영상 거래와 관계없습니다.상담 연결행사는 무료이며 공공 문화 프로그램입니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "div",
+          "role": "article",
+          "document_scope": false
+        },
+        "target_tag": "a",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "시민 영상제 신청 안내입니다. 정상 행사 접수이며 도박·불법 영상 거래와 관계없습니다."
+          },
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "quoted": false,
+            "text": "행사는 무료이며 공공 문화 프로그램입니다."
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "node_id": "n_d76fed7e009d4a75",
+      "url": "https://public.invalid/board/view",
+      "location": "a#n_d76fed7e009d4a75",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "normalized_text": "상담 연결",
+      "signals": [],
+      "own_link_result": [
+        {
+          "text": "상담 연결",
+          "url": "https://public.invalid/%EC%95%88%EB%82%B4"
+        }
+      ]
+    },
+    {
+      "selector": "a#n_e8c5d1554cc622d8",
+      "raw_text": "구독 결제",
+      "own_style": {
+        "tag": "a",
+        "opacity": 1,
+        "display": "inline",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 238)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 53,
+          "width": 69.625,
+          "height": 21,
+          "right": 77.625,
+          "bottom": 74
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "div",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 95,
+            "right": 1272,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 95,
+            "right": 1272,
+            "bottom": 111
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 127,
+            "right": 1280,
+            "bottom": 127
+          }
+        }
+      ],
+      "nearby": {
+        "before": "제가 제공하는 유출된 성인 사생활 파일의 유료 이용 창구입니다. 아래에서 비용을 보내고 신청하세요.",
+        "after": "실제 가입과 구매를 접수합니다."
+      },
+      "context": "제가 제공하는 유출된 성인 사생활 파일의 유료 이용 창구입니다. 아래에서 비용을 보내고 신청하세요.구독 결제실제 가입과 구매를 접수합니다.",
+      "context_evidence": {
+        "scope": {
+          "tag": "div",
+          "role": "article",
+          "document_scope": false
+        },
+        "target_tag": "a",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "제가 제공하는 유출된 성인 사생활 파일의 유료 이용 창구입니다. 아래에서 비용을 보내고 신청하세요."
+          },
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "quoted": false,
+            "text": "실제 가입과 구매를 접수합니다."
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "node_id": "n_e8c5d1554cc622d8",
+      "url": "https://public.invalid/board/view",
+      "location": "a#n_e8c5d1554cc622d8",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "normalized_text": "구독 결제",
+      "signals": [],
+      "own_link_result": [
+        {
+          "text": "구독 결제",
+          "url": "https://files.invalid/adult/order"
+        }
+      ]
+    },
+    {
+      "selector": "a#n_ed415c1341f008dc",
+      "raw_text": "가입 창구",
+      "own_style": {
+        "tag": "a",
+        "opacity": 1,
+        "display": "inline",
+        "visibility": "visible",
+        "color": "rgb(0, 0, 238)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font_size": 16,
+        "position": "static",
+        "rect": {
+          "x": 8,
+          "y": 53,
+          "width": 69.625,
+          "height": 21,
+          "right": 77.625,
+          "bottom": 74
+        }
+      },
+      "ancestors": [
+        {
+          "tag": "section",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 58,
+            "right": 1272,
+            "bottom": 74
+          }
+        },
+        {
+          "tag": "body",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 8,
+            "y": 16,
+            "width": 1264,
+            "height": 58,
+            "right": 1272,
+            "bottom": 74
+          }
+        },
+        {
+          "tag": "html",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1280,
+            "height": 90,
+            "right": 1280,
+            "bottom": 90
+          }
+        }
+      ],
+      "nearby": {
+        "before": "서비스의 상세 설명은 제공되지 않았습니다.",
+        "after": ""
+      },
+      "context": "서비스의 상세 설명은 제공되지 않았습니다.가입 창구",
+      "context_evidence": {
+        "scope": {
+          "tag": "section",
+          "role": "article",
+          "document_scope": false
+        },
+        "target_tag": "a",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "서비스의 상세 설명은 제공되지 않았습니다."
+          },
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": false
+          }
+        ],
+        "truncated": false
+      },
+      "links": [],
+      "node_id": "n_ed415c1341f008dc",
+      "url": "https://public.invalid/board/view",
+      "location": "a#n_ed415c1341f008dc",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "normalized_text": "가입 창구",
+      "signals": [],
+      "own_link_result": [
+        {
+          "text": "가입 창구",
+          "url": "https://service.invalid/casino/join"
+        }
+      ]
+    }
+  ]
+}

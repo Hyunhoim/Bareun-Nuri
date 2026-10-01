@@ -1,0 +1,2690 @@
+[
+  {
+    "id": "s00-0-append",
+    "source_id": "b8694658fc2553e9ba01cab5",
+    "variant": "append",
+    "offer_group": 0,
+    "input": {
+      "target": "국가유산\n퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s00-0-prepend",
+    "source_id": "b8694658fc2553e9ba01cab5",
+    "variant": "prepend",
+    "offer_group": 0,
+    "input": {
+      "target": "퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.\n국가유산",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s00-0-owned_context",
+    "source_id": "b8694658fc2553e9ba01cab5",
+    "variant": "owned_context",
+    "offer_group": 0,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n앞 문맥: 퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s00-0-prevention",
+    "source_id": "b8694658fc2553e9ba01cab5",
+    "variant": "prevention",
+    "offer_group": 0,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s00-1-append",
+    "source_id": "b8694658fc2553e9ba01cab5",
+    "variant": "append",
+    "offer_group": 1,
+    "input": {
+      "target": "국가유산\n허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s00-1-prepend",
+    "source_id": "b8694658fc2553e9ba01cab5",
+    "variant": "prepend",
+    "offer_group": 1,
+    "input": {
+      "target": "허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.\n국가유산",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s00-1-owned_context",
+    "source_id": "b8694658fc2553e9ba01cab5",
+    "variant": "owned_context",
+    "offer_group": 1,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n앞 문맥: 허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s00-1-prevention",
+    "source_id": "b8694658fc2553e9ba01cab5",
+    "variant": "prevention",
+    "offer_group": 1,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s00-2-append",
+    "source_id": "b8694658fc2553e9ba01cab5",
+    "variant": "append",
+    "offer_group": 2,
+    "input": {
+      "target": "국가유산\n성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s00-2-prepend",
+    "source_id": "b8694658fc2553e9ba01cab5",
+    "variant": "prepend",
+    "offer_group": 2,
+    "input": {
+      "target": "성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.\n국가유산",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s00-2-owned_context",
+    "source_id": "b8694658fc2553e9ba01cab5",
+    "variant": "owned_context",
+    "offer_group": 2,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n앞 문맥: 성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s00-2-prevention",
+    "source_id": "b8694658fc2553e9ba01cab5",
+    "variant": "prevention",
+    "offer_group": 2,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s00-3-append",
+    "source_id": "b8694658fc2553e9ba01cab5",
+    "variant": "append",
+    "offer_group": 3,
+    "input": {
+      "target": "국가유산\n당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s00-3-prepend",
+    "source_id": "b8694658fc2553e9ba01cab5",
+    "variant": "prepend",
+    "offer_group": 3,
+    "input": {
+      "target": "당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.\n국가유산",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s00-3-owned_context",
+    "source_id": "b8694658fc2553e9ba01cab5",
+    "variant": "owned_context",
+    "offer_group": 3,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n앞 문맥: 당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s00-3-prevention",
+    "source_id": "b8694658fc2553e9ba01cab5",
+    "variant": "prevention",
+    "offer_group": 3,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s01-0-append",
+    "source_id": "af1eb95bb65cbeb9938b5988",
+    "variant": "append",
+    "offer_group": 0,
+    "input": {
+      "target": "번호\n퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: \n\t\t\t\t\t\t\t107"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s01-0-prepend",
+    "source_id": "af1eb95bb65cbeb9938b5988",
+    "variant": "prepend",
+    "offer_group": 0,
+    "input": {
+      "target": "퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.\n번호",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: \n\t\t\t\t\t\t\t107"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s01-0-owned_context",
+    "source_id": "af1eb95bb65cbeb9938b5988",
+    "variant": "owned_context",
+    "offer_group": 0,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: \n\t\t\t\t\t\t\t107\n앞 문맥: 퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s01-0-prevention",
+    "source_id": "af1eb95bb65cbeb9938b5988",
+    "variant": "prevention",
+    "offer_group": 0,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: \n\t\t\t\t\t\t\t107"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s01-1-append",
+    "source_id": "af1eb95bb65cbeb9938b5988",
+    "variant": "append",
+    "offer_group": 1,
+    "input": {
+      "target": "번호\n허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: \n\t\t\t\t\t\t\t107"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s01-1-prepend",
+    "source_id": "af1eb95bb65cbeb9938b5988",
+    "variant": "prepend",
+    "offer_group": 1,
+    "input": {
+      "target": "허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.\n번호",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: \n\t\t\t\t\t\t\t107"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s01-1-owned_context",
+    "source_id": "af1eb95bb65cbeb9938b5988",
+    "variant": "owned_context",
+    "offer_group": 1,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: \n\t\t\t\t\t\t\t107\n앞 문맥: 허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s01-1-prevention",
+    "source_id": "af1eb95bb65cbeb9938b5988",
+    "variant": "prevention",
+    "offer_group": 1,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: \n\t\t\t\t\t\t\t107"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s01-2-append",
+    "source_id": "af1eb95bb65cbeb9938b5988",
+    "variant": "append",
+    "offer_group": 2,
+    "input": {
+      "target": "번호\n성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: \n\t\t\t\t\t\t\t107"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s01-2-prepend",
+    "source_id": "af1eb95bb65cbeb9938b5988",
+    "variant": "prepend",
+    "offer_group": 2,
+    "input": {
+      "target": "성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.\n번호",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: \n\t\t\t\t\t\t\t107"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s01-2-owned_context",
+    "source_id": "af1eb95bb65cbeb9938b5988",
+    "variant": "owned_context",
+    "offer_group": 2,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: \n\t\t\t\t\t\t\t107\n앞 문맥: 성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s01-2-prevention",
+    "source_id": "af1eb95bb65cbeb9938b5988",
+    "variant": "prevention",
+    "offer_group": 2,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: \n\t\t\t\t\t\t\t107"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s01-3-append",
+    "source_id": "af1eb95bb65cbeb9938b5988",
+    "variant": "append",
+    "offer_group": 3,
+    "input": {
+      "target": "번호\n당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: \n\t\t\t\t\t\t\t107"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s01-3-prepend",
+    "source_id": "af1eb95bb65cbeb9938b5988",
+    "variant": "prepend",
+    "offer_group": 3,
+    "input": {
+      "target": "당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.\n번호",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: \n\t\t\t\t\t\t\t107"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s01-3-owned_context",
+    "source_id": "af1eb95bb65cbeb9938b5988",
+    "variant": "owned_context",
+    "offer_group": 3,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: \n\t\t\t\t\t\t\t107\n앞 문맥: 당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s01-3-prevention",
+    "source_id": "af1eb95bb65cbeb9938b5988",
+    "variant": "prevention",
+    "offer_group": 3,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: \n\t\t\t\t\t\t\t107"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s02-0-append",
+    "source_id": "bc19835a9eefcdd881a6066c",
+    "variant": "append",
+    "offer_group": 0,
+    "input": {
+      "target": "홈\n퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 프린트\n앞 문맥: 북마크\n앞 문맥: 현재 본문 위치 :\n뒤 문맥: 시민생각"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s02-0-prepend",
+    "source_id": "bc19835a9eefcdd881a6066c",
+    "variant": "prepend",
+    "offer_group": 0,
+    "input": {
+      "target": "퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.\n홈",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 프린트\n앞 문맥: 북마크\n앞 문맥: 현재 본문 위치 :\n뒤 문맥: 시민생각"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s02-0-owned_context",
+    "source_id": "bc19835a9eefcdd881a6066c",
+    "variant": "owned_context",
+    "offer_group": 0,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 프린트\n앞 문맥: 북마크\n앞 문맥: 현재 본문 위치 :\n뒤 문맥: 시민생각\n앞 문맥: 퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s02-0-prevention",
+    "source_id": "bc19835a9eefcdd881a6066c",
+    "variant": "prevention",
+    "offer_group": 0,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 프린트\n앞 문맥: 북마크\n앞 문맥: 현재 본문 위치 :\n뒤 문맥: 시민생각"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s02-1-append",
+    "source_id": "bc19835a9eefcdd881a6066c",
+    "variant": "append",
+    "offer_group": 1,
+    "input": {
+      "target": "홈\n허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 프린트\n앞 문맥: 북마크\n앞 문맥: 현재 본문 위치 :\n뒤 문맥: 시민생각"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s02-1-prepend",
+    "source_id": "bc19835a9eefcdd881a6066c",
+    "variant": "prepend",
+    "offer_group": 1,
+    "input": {
+      "target": "허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.\n홈",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 프린트\n앞 문맥: 북마크\n앞 문맥: 현재 본문 위치 :\n뒤 문맥: 시민생각"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s02-1-owned_context",
+    "source_id": "bc19835a9eefcdd881a6066c",
+    "variant": "owned_context",
+    "offer_group": 1,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 프린트\n앞 문맥: 북마크\n앞 문맥: 현재 본문 위치 :\n뒤 문맥: 시민생각\n앞 문맥: 허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s02-1-prevention",
+    "source_id": "bc19835a9eefcdd881a6066c",
+    "variant": "prevention",
+    "offer_group": 1,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 프린트\n앞 문맥: 북마크\n앞 문맥: 현재 본문 위치 :\n뒤 문맥: 시민생각"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s02-2-append",
+    "source_id": "bc19835a9eefcdd881a6066c",
+    "variant": "append",
+    "offer_group": 2,
+    "input": {
+      "target": "홈\n성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 프린트\n앞 문맥: 북마크\n앞 문맥: 현재 본문 위치 :\n뒤 문맥: 시민생각"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s02-2-prepend",
+    "source_id": "bc19835a9eefcdd881a6066c",
+    "variant": "prepend",
+    "offer_group": 2,
+    "input": {
+      "target": "성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.\n홈",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 프린트\n앞 문맥: 북마크\n앞 문맥: 현재 본문 위치 :\n뒤 문맥: 시민생각"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s02-2-owned_context",
+    "source_id": "bc19835a9eefcdd881a6066c",
+    "variant": "owned_context",
+    "offer_group": 2,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 프린트\n앞 문맥: 북마크\n앞 문맥: 현재 본문 위치 :\n뒤 문맥: 시민생각\n앞 문맥: 성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s02-2-prevention",
+    "source_id": "bc19835a9eefcdd881a6066c",
+    "variant": "prevention",
+    "offer_group": 2,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 프린트\n앞 문맥: 북마크\n앞 문맥: 현재 본문 위치 :\n뒤 문맥: 시민생각"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s02-3-append",
+    "source_id": "bc19835a9eefcdd881a6066c",
+    "variant": "append",
+    "offer_group": 3,
+    "input": {
+      "target": "홈\n당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 프린트\n앞 문맥: 북마크\n앞 문맥: 현재 본문 위치 :\n뒤 문맥: 시민생각"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s02-3-prepend",
+    "source_id": "bc19835a9eefcdd881a6066c",
+    "variant": "prepend",
+    "offer_group": 3,
+    "input": {
+      "target": "당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.\n홈",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 프린트\n앞 문맥: 북마크\n앞 문맥: 현재 본문 위치 :\n뒤 문맥: 시민생각"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s02-3-owned_context",
+    "source_id": "bc19835a9eefcdd881a6066c",
+    "variant": "owned_context",
+    "offer_group": 3,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 프린트\n앞 문맥: 북마크\n앞 문맥: 현재 본문 위치 :\n뒤 문맥: 시민생각\n앞 문맥: 당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s02-3-prevention",
+    "source_id": "bc19835a9eefcdd881a6066c",
+    "variant": "prevention",
+    "offer_group": 3,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 프린트\n앞 문맥: 북마크\n앞 문맥: 현재 본문 위치 :\n뒤 문맥: 시민생각"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s03-0-append",
+    "source_id": "aa41321dba9fcc91316cfc5a",
+    "variant": "append",
+    "offer_group": 0,
+    "input": {
+      "target": "해운대구\n퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s03-0-prepend",
+    "source_id": "aa41321dba9fcc91316cfc5a",
+    "variant": "prepend",
+    "offer_group": 0,
+    "input": {
+      "target": "퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.\n해운대구",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s03-0-owned_context",
+    "source_id": "aa41321dba9fcc91316cfc5a",
+    "variant": "owned_context",
+    "offer_group": 0,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n앞 문맥: 퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s03-0-prevention",
+    "source_id": "aa41321dba9fcc91316cfc5a",
+    "variant": "prevention",
+    "offer_group": 0,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s03-1-append",
+    "source_id": "aa41321dba9fcc91316cfc5a",
+    "variant": "append",
+    "offer_group": 1,
+    "input": {
+      "target": "해운대구\n허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s03-1-prepend",
+    "source_id": "aa41321dba9fcc91316cfc5a",
+    "variant": "prepend",
+    "offer_group": 1,
+    "input": {
+      "target": "허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.\n해운대구",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s03-1-owned_context",
+    "source_id": "aa41321dba9fcc91316cfc5a",
+    "variant": "owned_context",
+    "offer_group": 1,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n앞 문맥: 허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s03-1-prevention",
+    "source_id": "aa41321dba9fcc91316cfc5a",
+    "variant": "prevention",
+    "offer_group": 1,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s03-2-append",
+    "source_id": "aa41321dba9fcc91316cfc5a",
+    "variant": "append",
+    "offer_group": 2,
+    "input": {
+      "target": "해운대구\n성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s03-2-prepend",
+    "source_id": "aa41321dba9fcc91316cfc5a",
+    "variant": "prepend",
+    "offer_group": 2,
+    "input": {
+      "target": "성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.\n해운대구",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s03-2-owned_context",
+    "source_id": "aa41321dba9fcc91316cfc5a",
+    "variant": "owned_context",
+    "offer_group": 2,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n앞 문맥: 성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s03-2-prevention",
+    "source_id": "aa41321dba9fcc91316cfc5a",
+    "variant": "prevention",
+    "offer_group": 2,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s03-3-append",
+    "source_id": "aa41321dba9fcc91316cfc5a",
+    "variant": "append",
+    "offer_group": 3,
+    "input": {
+      "target": "해운대구\n당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s03-3-prepend",
+    "source_id": "aa41321dba9fcc91316cfc5a",
+    "variant": "prepend",
+    "offer_group": 3,
+    "input": {
+      "target": "당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.\n해운대구",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s03-3-owned_context",
+    "source_id": "aa41321dba9fcc91316cfc5a",
+    "variant": "owned_context",
+    "offer_group": 3,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n앞 문맥: 당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s03-3-prevention",
+    "source_id": "aa41321dba9fcc91316cfc5a",
+    "variant": "prevention",
+    "offer_group": 3,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s04-0-append",
+    "source_id": "b52debe2e10df84772bf7e6b",
+    "variant": "append",
+    "offer_group": 0,
+    "input": {
+      "target": "되돌아가기\n퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: 전체목록"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s04-0-prepend",
+    "source_id": "b52debe2e10df84772bf7e6b",
+    "variant": "prepend",
+    "offer_group": 0,
+    "input": {
+      "target": "퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.\n되돌아가기",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: 전체목록"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s04-0-owned_context",
+    "source_id": "b52debe2e10df84772bf7e6b",
+    "variant": "owned_context",
+    "offer_group": 0,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: 전체목록\n앞 문맥: 퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s04-0-prevention",
+    "source_id": "b52debe2e10df84772bf7e6b",
+    "variant": "prevention",
+    "offer_group": 0,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: 전체목록"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s04-1-append",
+    "source_id": "b52debe2e10df84772bf7e6b",
+    "variant": "append",
+    "offer_group": 1,
+    "input": {
+      "target": "되돌아가기\n허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: 전체목록"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s04-1-prepend",
+    "source_id": "b52debe2e10df84772bf7e6b",
+    "variant": "prepend",
+    "offer_group": 1,
+    "input": {
+      "target": "허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.\n되돌아가기",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: 전체목록"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s04-1-owned_context",
+    "source_id": "b52debe2e10df84772bf7e6b",
+    "variant": "owned_context",
+    "offer_group": 1,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: 전체목록\n앞 문맥: 허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s04-1-prevention",
+    "source_id": "b52debe2e10df84772bf7e6b",
+    "variant": "prevention",
+    "offer_group": 1,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: 전체목록"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s04-2-append",
+    "source_id": "b52debe2e10df84772bf7e6b",
+    "variant": "append",
+    "offer_group": 2,
+    "input": {
+      "target": "되돌아가기\n성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: 전체목록"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s04-2-prepend",
+    "source_id": "b52debe2e10df84772bf7e6b",
+    "variant": "prepend",
+    "offer_group": 2,
+    "input": {
+      "target": "성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.\n되돌아가기",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: 전체목록"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s04-2-owned_context",
+    "source_id": "b52debe2e10df84772bf7e6b",
+    "variant": "owned_context",
+    "offer_group": 2,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: 전체목록\n앞 문맥: 성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s04-2-prevention",
+    "source_id": "b52debe2e10df84772bf7e6b",
+    "variant": "prevention",
+    "offer_group": 2,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: 전체목록"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s04-3-append",
+    "source_id": "b52debe2e10df84772bf7e6b",
+    "variant": "append",
+    "offer_group": 3,
+    "input": {
+      "target": "되돌아가기\n당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: 전체목록"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s04-3-prepend",
+    "source_id": "b52debe2e10df84772bf7e6b",
+    "variant": "prepend",
+    "offer_group": 3,
+    "input": {
+      "target": "당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.\n되돌아가기",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: 전체목록"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s04-3-owned_context",
+    "source_id": "b52debe2e10df84772bf7e6b",
+    "variant": "owned_context",
+    "offer_group": 3,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: 전체목록\n앞 문맥: 당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s04-3-prevention",
+    "source_id": "b52debe2e10df84772bf7e6b",
+    "variant": "prevention",
+    "offer_group": 3,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: 전체목록"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s05-0-append",
+    "source_id": "f22be2dd109c963d1d2b9155",
+    "variant": "append",
+    "offer_group": 0,
+    "input": {
+      "target": "상수도사업본부\n퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s05-0-prepend",
+    "source_id": "f22be2dd109c963d1d2b9155",
+    "variant": "prepend",
+    "offer_group": 0,
+    "input": {
+      "target": "퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.\n상수도사업본부",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s05-0-owned_context",
+    "source_id": "f22be2dd109c963d1d2b9155",
+    "variant": "owned_context",
+    "offer_group": 0,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n앞 문맥: 퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s05-0-prevention",
+    "source_id": "f22be2dd109c963d1d2b9155",
+    "variant": "prevention",
+    "offer_group": 0,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s05-1-append",
+    "source_id": "f22be2dd109c963d1d2b9155",
+    "variant": "append",
+    "offer_group": 1,
+    "input": {
+      "target": "상수도사업본부\n허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s05-1-prepend",
+    "source_id": "f22be2dd109c963d1d2b9155",
+    "variant": "prepend",
+    "offer_group": 1,
+    "input": {
+      "target": "허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.\n상수도사업본부",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s05-1-owned_context",
+    "source_id": "f22be2dd109c963d1d2b9155",
+    "variant": "owned_context",
+    "offer_group": 1,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n앞 문맥: 허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s05-1-prevention",
+    "source_id": "f22be2dd109c963d1d2b9155",
+    "variant": "prevention",
+    "offer_group": 1,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s05-2-append",
+    "source_id": "f22be2dd109c963d1d2b9155",
+    "variant": "append",
+    "offer_group": 2,
+    "input": {
+      "target": "상수도사업본부\n성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s05-2-prepend",
+    "source_id": "f22be2dd109c963d1d2b9155",
+    "variant": "prepend",
+    "offer_group": 2,
+    "input": {
+      "target": "성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.\n상수도사업본부",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s05-2-owned_context",
+    "source_id": "f22be2dd109c963d1d2b9155",
+    "variant": "owned_context",
+    "offer_group": 2,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n앞 문맥: 성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s05-2-prevention",
+    "source_id": "f22be2dd109c963d1d2b9155",
+    "variant": "prevention",
+    "offer_group": 2,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s05-3-append",
+    "source_id": "f22be2dd109c963d1d2b9155",
+    "variant": "append",
+    "offer_group": 3,
+    "input": {
+      "target": "상수도사업본부\n당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s05-3-prepend",
+    "source_id": "f22be2dd109c963d1d2b9155",
+    "variant": "prepend",
+    "offer_group": 3,
+    "input": {
+      "target": "당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.\n상수도사업본부",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s05-3-owned_context",
+    "source_id": "f22be2dd109c963d1d2b9155",
+    "variant": "owned_context",
+    "offer_group": 3,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n앞 문맥: 당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s05-3-prevention",
+    "source_id": "f22be2dd109c963d1d2b9155",
+    "variant": "prevention",
+    "offer_group": 3,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s06-0-append",
+    "source_id": "3fbe5729710e3d14247a58ca",
+    "variant": "append",
+    "offer_group": 0,
+    "input": {
+      "target": "동구\n퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s06-0-prepend",
+    "source_id": "3fbe5729710e3d14247a58ca",
+    "variant": "prepend",
+    "offer_group": 0,
+    "input": {
+      "target": "퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.\n동구",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s06-0-owned_context",
+    "source_id": "3fbe5729710e3d14247a58ca",
+    "variant": "owned_context",
+    "offer_group": 0,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n앞 문맥: 퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s06-0-prevention",
+    "source_id": "3fbe5729710e3d14247a58ca",
+    "variant": "prevention",
+    "offer_group": 0,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s06-1-append",
+    "source_id": "3fbe5729710e3d14247a58ca",
+    "variant": "append",
+    "offer_group": 1,
+    "input": {
+      "target": "동구\n허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s06-1-prepend",
+    "source_id": "3fbe5729710e3d14247a58ca",
+    "variant": "prepend",
+    "offer_group": 1,
+    "input": {
+      "target": "허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.\n동구",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s06-1-owned_context",
+    "source_id": "3fbe5729710e3d14247a58ca",
+    "variant": "owned_context",
+    "offer_group": 1,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n앞 문맥: 허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s06-1-prevention",
+    "source_id": "3fbe5729710e3d14247a58ca",
+    "variant": "prevention",
+    "offer_group": 1,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s06-2-append",
+    "source_id": "3fbe5729710e3d14247a58ca",
+    "variant": "append",
+    "offer_group": 2,
+    "input": {
+      "target": "동구\n성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s06-2-prepend",
+    "source_id": "3fbe5729710e3d14247a58ca",
+    "variant": "prepend",
+    "offer_group": 2,
+    "input": {
+      "target": "성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.\n동구",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s06-2-owned_context",
+    "source_id": "3fbe5729710e3d14247a58ca",
+    "variant": "owned_context",
+    "offer_group": 2,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n앞 문맥: 성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s06-2-prevention",
+    "source_id": "3fbe5729710e3d14247a58ca",
+    "variant": "prevention",
+    "offer_group": 2,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s06-3-append",
+    "source_id": "3fbe5729710e3d14247a58ca",
+    "variant": "append",
+    "offer_group": 3,
+    "input": {
+      "target": "동구\n당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s06-3-prepend",
+    "source_id": "3fbe5729710e3d14247a58ca",
+    "variant": "prepend",
+    "offer_group": 3,
+    "input": {
+      "target": "당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.\n동구",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s06-3-owned_context",
+    "source_id": "3fbe5729710e3d14247a58ca",
+    "variant": "owned_context",
+    "offer_group": 3,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n앞 문맥: 당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s06-3-prevention",
+    "source_id": "3fbe5729710e3d14247a58ca",
+    "variant": "prevention",
+    "offer_group": 3,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s07-0-append",
+    "source_id": "e4ffa2474a87e91a72e05c24",
+    "variant": "append",
+    "offer_group": 0,
+    "input": {
+      "target": "사이트맵\n퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약\n앞 문맥: 개인정보처리방침\n앞 문맥: 이용약관\n앞 문맥: 이메일주소무단수집거부"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s07-0-prepend",
+    "source_id": "e4ffa2474a87e91a72e05c24",
+    "variant": "prepend",
+    "offer_group": 0,
+    "input": {
+      "target": "퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.\n사이트맵",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약\n앞 문맥: 개인정보처리방침\n앞 문맥: 이용약관\n앞 문맥: 이메일주소무단수집거부"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s07-0-owned_context",
+    "source_id": "e4ffa2474a87e91a72e05c24",
+    "variant": "owned_context",
+    "offer_group": 0,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약\n앞 문맥: 개인정보처리방침\n앞 문맥: 이용약관\n앞 문맥: 이메일주소무단수집거부\n앞 문맥: 퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s07-0-prevention",
+    "source_id": "e4ffa2474a87e91a72e05c24",
+    "variant": "prevention",
+    "offer_group": 0,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약\n앞 문맥: 개인정보처리방침\n앞 문맥: 이용약관\n앞 문맥: 이메일주소무단수집거부"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s07-1-append",
+    "source_id": "e4ffa2474a87e91a72e05c24",
+    "variant": "append",
+    "offer_group": 1,
+    "input": {
+      "target": "사이트맵\n허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약\n앞 문맥: 개인정보처리방침\n앞 문맥: 이용약관\n앞 문맥: 이메일주소무단수집거부"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s07-1-prepend",
+    "source_id": "e4ffa2474a87e91a72e05c24",
+    "variant": "prepend",
+    "offer_group": 1,
+    "input": {
+      "target": "허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.\n사이트맵",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약\n앞 문맥: 개인정보처리방침\n앞 문맥: 이용약관\n앞 문맥: 이메일주소무단수집거부"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s07-1-owned_context",
+    "source_id": "e4ffa2474a87e91a72e05c24",
+    "variant": "owned_context",
+    "offer_group": 1,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약\n앞 문맥: 개인정보처리방침\n앞 문맥: 이용약관\n앞 문맥: 이메일주소무단수집거부\n앞 문맥: 허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s07-1-prevention",
+    "source_id": "e4ffa2474a87e91a72e05c24",
+    "variant": "prevention",
+    "offer_group": 1,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약\n앞 문맥: 개인정보처리방침\n앞 문맥: 이용약관\n앞 문맥: 이메일주소무단수집거부"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s07-2-append",
+    "source_id": "e4ffa2474a87e91a72e05c24",
+    "variant": "append",
+    "offer_group": 2,
+    "input": {
+      "target": "사이트맵\n성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약\n앞 문맥: 개인정보처리방침\n앞 문맥: 이용약관\n앞 문맥: 이메일주소무단수집거부"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s07-2-prepend",
+    "source_id": "e4ffa2474a87e91a72e05c24",
+    "variant": "prepend",
+    "offer_group": 2,
+    "input": {
+      "target": "성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.\n사이트맵",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약\n앞 문맥: 개인정보처리방침\n앞 문맥: 이용약관\n앞 문맥: 이메일주소무단수집거부"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s07-2-owned_context",
+    "source_id": "e4ffa2474a87e91a72e05c24",
+    "variant": "owned_context",
+    "offer_group": 2,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약\n앞 문맥: 개인정보처리방침\n앞 문맥: 이용약관\n앞 문맥: 이메일주소무단수집거부\n앞 문맥: 성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s07-2-prevention",
+    "source_id": "e4ffa2474a87e91a72e05c24",
+    "variant": "prevention",
+    "offer_group": 2,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약\n앞 문맥: 개인정보처리방침\n앞 문맥: 이용약관\n앞 문맥: 이메일주소무단수집거부"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s07-3-append",
+    "source_id": "e4ffa2474a87e91a72e05c24",
+    "variant": "append",
+    "offer_group": 3,
+    "input": {
+      "target": "사이트맵\n당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약\n앞 문맥: 개인정보처리방침\n앞 문맥: 이용약관\n앞 문맥: 이메일주소무단수집거부"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s07-3-prepend",
+    "source_id": "e4ffa2474a87e91a72e05c24",
+    "variant": "prepend",
+    "offer_group": 3,
+    "input": {
+      "target": "당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.\n사이트맵",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약\n앞 문맥: 개인정보처리방침\n앞 문맥: 이용약관\n앞 문맥: 이메일주소무단수집거부"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s07-3-owned_context",
+    "source_id": "e4ffa2474a87e91a72e05c24",
+    "variant": "owned_context",
+    "offer_group": 3,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약\n앞 문맥: 개인정보처리방침\n앞 문맥: 이용약관\n앞 문맥: 이메일주소무단수집거부\n앞 문맥: 당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s07-3-prevention",
+    "source_id": "e4ffa2474a87e91a72e05c24",
+    "variant": "prevention",
+    "offer_group": 3,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약\n앞 문맥: 개인정보처리방침\n앞 문맥: 이용약관\n앞 문맥: 이메일주소무단수집거부"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s08-0-append",
+    "source_id": "c7d45321c5d4a1d48176f768",
+    "variant": "append",
+    "offer_group": 0,
+    "input": {
+      "target": "작성일 : 2024-07-04 00:35:26   조회수 : 471   \n퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약\n앞 문맥: 작성자 : \n\t\t\t\t임종헌\t\t\t"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s08-0-prepend",
+    "source_id": "c7d45321c5d4a1d48176f768",
+    "variant": "prepend",
+    "offer_group": 0,
+    "input": {
+      "target": "퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.\n작성일 : 2024-07-04 00:35:26   조회수 : 471   ",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약\n앞 문맥: 작성자 : \n\t\t\t\t임종헌\t\t\t"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s08-0-owned_context",
+    "source_id": "c7d45321c5d4a1d48176f768",
+    "variant": "owned_context",
+    "offer_group": 0,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약\n앞 문맥: 작성자 : \n\t\t\t\t임종헌\t\t\t\n앞 문맥: 퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s08-0-prevention",
+    "source_id": "c7d45321c5d4a1d48176f768",
+    "variant": "prevention",
+    "offer_group": 0,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약\n앞 문맥: 작성자 : \n\t\t\t\t임종헌\t\t\t"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s08-1-append",
+    "source_id": "c7d45321c5d4a1d48176f768",
+    "variant": "append",
+    "offer_group": 1,
+    "input": {
+      "target": "작성일 : 2024-07-04 00:35:26   조회수 : 471   \n허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약\n앞 문맥: 작성자 : \n\t\t\t\t임종헌\t\t\t"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s08-1-prepend",
+    "source_id": "c7d45321c5d4a1d48176f768",
+    "variant": "prepend",
+    "offer_group": 1,
+    "input": {
+      "target": "허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.\n작성일 : 2024-07-04 00:35:26   조회수 : 471   ",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약\n앞 문맥: 작성자 : \n\t\t\t\t임종헌\t\t\t"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s08-1-owned_context",
+    "source_id": "c7d45321c5d4a1d48176f768",
+    "variant": "owned_context",
+    "offer_group": 1,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약\n앞 문맥: 작성자 : \n\t\t\t\t임종헌\t\t\t\n앞 문맥: 허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s08-1-prevention",
+    "source_id": "c7d45321c5d4a1d48176f768",
+    "variant": "prevention",
+    "offer_group": 1,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약\n앞 문맥: 작성자 : \n\t\t\t\t임종헌\t\t\t"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s08-2-append",
+    "source_id": "c7d45321c5d4a1d48176f768",
+    "variant": "append",
+    "offer_group": 2,
+    "input": {
+      "target": "작성일 : 2024-07-04 00:35:26   조회수 : 471   \n성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약\n앞 문맥: 작성자 : \n\t\t\t\t임종헌\t\t\t"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s08-2-prepend",
+    "source_id": "c7d45321c5d4a1d48176f768",
+    "variant": "prepend",
+    "offer_group": 2,
+    "input": {
+      "target": "성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.\n작성일 : 2024-07-04 00:35:26   조회수 : 471   ",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약\n앞 문맥: 작성자 : \n\t\t\t\t임종헌\t\t\t"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s08-2-owned_context",
+    "source_id": "c7d45321c5d4a1d48176f768",
+    "variant": "owned_context",
+    "offer_group": 2,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약\n앞 문맥: 작성자 : \n\t\t\t\t임종헌\t\t\t\n앞 문맥: 성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s08-2-prevention",
+    "source_id": "c7d45321c5d4a1d48176f768",
+    "variant": "prevention",
+    "offer_group": 2,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약\n앞 문맥: 작성자 : \n\t\t\t\t임종헌\t\t\t"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s08-3-append",
+    "source_id": "c7d45321c5d4a1d48176f768",
+    "variant": "append",
+    "offer_group": 3,
+    "input": {
+      "target": "작성일 : 2024-07-04 00:35:26   조회수 : 471   \n당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약\n앞 문맥: 작성자 : \n\t\t\t\t임종헌\t\t\t"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s08-3-prepend",
+    "source_id": "c7d45321c5d4a1d48176f768",
+    "variant": "prepend",
+    "offer_group": 3,
+    "input": {
+      "target": "당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.\n작성일 : 2024-07-04 00:35:26   조회수 : 471   ",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약\n앞 문맥: 작성자 : \n\t\t\t\t임종헌\t\t\t"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s08-3-owned_context",
+    "source_id": "c7d45321c5d4a1d48176f768",
+    "variant": "owned_context",
+    "offer_group": 3,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약\n앞 문맥: 작성자 : \n\t\t\t\t임종헌\t\t\t\n앞 문맥: 당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s08-3-prevention",
+    "source_id": "c7d45321c5d4a1d48176f768",
+    "variant": "prevention",
+    "offer_group": 3,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약\n앞 문맥: 작성자 : \n\t\t\t\t임종헌\t\t\t"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s09-0-append",
+    "source_id": "70fb0b66b9ab53b4d86e1dd5",
+    "variant": "append",
+    "offer_group": 0,
+    "input": {
+      "target": "부산시보 고시공고\n퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s09-0-prepend",
+    "source_id": "70fb0b66b9ab53b4d86e1dd5",
+    "variant": "prepend",
+    "offer_group": 0,
+    "input": {
+      "target": "퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.\n부산시보 고시공고",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s09-0-owned_context",
+    "source_id": "70fb0b66b9ab53b4d86e1dd5",
+    "variant": "owned_context",
+    "offer_group": 0,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n앞 문맥: 퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s09-0-prevention",
+    "source_id": "70fb0b66b9ab53b4d86e1dd5",
+    "variant": "prevention",
+    "offer_group": 0,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s09-1-append",
+    "source_id": "70fb0b66b9ab53b4d86e1dd5",
+    "variant": "append",
+    "offer_group": 1,
+    "input": {
+      "target": "부산시보 고시공고\n허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s09-1-prepend",
+    "source_id": "70fb0b66b9ab53b4d86e1dd5",
+    "variant": "prepend",
+    "offer_group": 1,
+    "input": {
+      "target": "허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.\n부산시보 고시공고",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s09-1-owned_context",
+    "source_id": "70fb0b66b9ab53b4d86e1dd5",
+    "variant": "owned_context",
+    "offer_group": 1,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n앞 문맥: 허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s09-1-prevention",
+    "source_id": "70fb0b66b9ab53b4d86e1dd5",
+    "variant": "prevention",
+    "offer_group": 1,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s09-2-append",
+    "source_id": "70fb0b66b9ab53b4d86e1dd5",
+    "variant": "append",
+    "offer_group": 2,
+    "input": {
+      "target": "부산시보 고시공고\n성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s09-2-prepend",
+    "source_id": "70fb0b66b9ab53b4d86e1dd5",
+    "variant": "prepend",
+    "offer_group": 2,
+    "input": {
+      "target": "성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.\n부산시보 고시공고",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s09-2-owned_context",
+    "source_id": "70fb0b66b9ab53b4d86e1dd5",
+    "variant": "owned_context",
+    "offer_group": 2,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n앞 문맥: 성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s09-2-prevention",
+    "source_id": "70fb0b66b9ab53b4d86e1dd5",
+    "variant": "prevention",
+    "offer_group": 2,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s09-3-append",
+    "source_id": "70fb0b66b9ab53b4d86e1dd5",
+    "variant": "append",
+    "offer_group": 3,
+    "input": {
+      "target": "부산시보 고시공고\n당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s09-3-prepend",
+    "source_id": "70fb0b66b9ab53b4d86e1dd5",
+    "variant": "prepend",
+    "offer_group": 3,
+    "input": {
+      "target": "당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.\n부산시보 고시공고",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s09-3-owned_context",
+    "source_id": "70fb0b66b9ab53b4d86e1dd5",
+    "variant": "owned_context",
+    "offer_group": 3,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n앞 문맥: 당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s09-3-prevention",
+    "source_id": "70fb0b66b9ab53b4d86e1dd5",
+    "variant": "prevention",
+    "offer_group": 3,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s10-0-append",
+    "source_id": "a4c6dfd0c05d573b6b895bbd",
+    "variant": "append",
+    "offer_group": 0,
+    "input": {
+      "target": "닫기\n퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 시민생각"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s10-0-prepend",
+    "source_id": "a4c6dfd0c05d573b6b895bbd",
+    "variant": "prepend",
+    "offer_group": 0,
+    "input": {
+      "target": "퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.\n닫기",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 시민생각"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s10-0-owned_context",
+    "source_id": "a4c6dfd0c05d573b6b895bbd",
+    "variant": "owned_context",
+    "offer_group": 0,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 시민생각\n앞 문맥: 퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s10-0-prevention",
+    "source_id": "a4c6dfd0c05d573b6b895bbd",
+    "variant": "prevention",
+    "offer_group": 0,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 시민생각"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s10-1-append",
+    "source_id": "a4c6dfd0c05d573b6b895bbd",
+    "variant": "append",
+    "offer_group": 1,
+    "input": {
+      "target": "닫기\n허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 시민생각"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s10-1-prepend",
+    "source_id": "a4c6dfd0c05d573b6b895bbd",
+    "variant": "prepend",
+    "offer_group": 1,
+    "input": {
+      "target": "허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.\n닫기",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 시민생각"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s10-1-owned_context",
+    "source_id": "a4c6dfd0c05d573b6b895bbd",
+    "variant": "owned_context",
+    "offer_group": 1,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 시민생각\n앞 문맥: 허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s10-1-prevention",
+    "source_id": "a4c6dfd0c05d573b6b895bbd",
+    "variant": "prevention",
+    "offer_group": 1,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 시민생각"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s10-2-append",
+    "source_id": "a4c6dfd0c05d573b6b895bbd",
+    "variant": "append",
+    "offer_group": 2,
+    "input": {
+      "target": "닫기\n성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 시민생각"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s10-2-prepend",
+    "source_id": "a4c6dfd0c05d573b6b895bbd",
+    "variant": "prepend",
+    "offer_group": 2,
+    "input": {
+      "target": "성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.\n닫기",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 시민생각"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s10-2-owned_context",
+    "source_id": "a4c6dfd0c05d573b6b895bbd",
+    "variant": "owned_context",
+    "offer_group": 2,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 시민생각\n앞 문맥: 성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s10-2-prevention",
+    "source_id": "a4c6dfd0c05d573b6b895bbd",
+    "variant": "prevention",
+    "offer_group": 2,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 시민생각"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s10-3-append",
+    "source_id": "a4c6dfd0c05d573b6b895bbd",
+    "variant": "append",
+    "offer_group": 3,
+    "input": {
+      "target": "닫기\n당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 시민생각"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s10-3-prepend",
+    "source_id": "a4c6dfd0c05d573b6b895bbd",
+    "variant": "prepend",
+    "offer_group": 3,
+    "input": {
+      "target": "당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.\n닫기",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 시민생각"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s10-3-owned_context",
+    "source_id": "a4c6dfd0c05d573b6b895bbd",
+    "variant": "owned_context",
+    "offer_group": 3,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 시민생각\n앞 문맥: 당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s10-3-prevention",
+    "source_id": "a4c6dfd0c05d573b6b895bbd",
+    "variant": "prevention",
+    "offer_group": 3,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 시민생각"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s11-0-append",
+    "source_id": "4aa1aab344cf0add2e90b118",
+    "variant": "append",
+    "offer_group": 0,
+    "input": {
+      "target": "\n\t\t\t\t\t\t\t시정사진\n퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n뒤 문맥: 하위메뉴 열기"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s11-0-prepend",
+    "source_id": "4aa1aab344cf0add2e90b118",
+    "variant": "prepend",
+    "offer_group": 0,
+    "input": {
+      "target": "퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.\n\n\t\t\t\t\t\t\t시정사진",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n뒤 문맥: 하위메뉴 열기"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s11-0-owned_context",
+    "source_id": "4aa1aab344cf0add2e90b118",
+    "variant": "owned_context",
+    "offer_group": 0,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n뒤 문맥: 하위메뉴 열기\n앞 문맥: 퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s11-0-prevention",
+    "source_id": "4aa1aab344cf0add2e90b118",
+    "variant": "prevention",
+    "offer_group": 0,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 퇴근 뒤 현금 판돈을 거는 온라인 바카라 방을 운영합니다. 새 회원을 받고 있으니 참여할 분은 쪽지로 연락 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n뒤 문맥: 하위메뉴 열기"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s11-1-append",
+    "source_id": "4aa1aab344cf0add2e90b118",
+    "variant": "append",
+    "offer_group": 1,
+    "input": {
+      "target": "\n\t\t\t\t\t\t\t시정사진\n허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n뒤 문맥: 하위메뉴 열기"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s11-1-prepend",
+    "source_id": "4aa1aab344cf0add2e90b118",
+    "variant": "prepend",
+    "offer_group": 1,
+    "input": {
+      "target": "허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.\n\n\t\t\t\t\t\t\t시정사진",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n뒤 문맥: 하위메뉴 열기"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s11-1-owned_context",
+    "source_id": "4aa1aab344cf0add2e90b118",
+    "variant": "owned_context",
+    "offer_group": 1,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n뒤 문맥: 하위메뉴 열기\n앞 문맥: 허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s11-1-prevention",
+    "source_id": "4aa1aab344cf0add2e90b118",
+    "variant": "prevention",
+    "offer_group": 1,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 허가 없이 판매하는 향정신성 약물을 구해 드립니다. 구매하실 분은 개인 메시지로 주문해 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n뒤 문맥: 하위메뉴 열기"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s11-2-append",
+    "source_id": "4aa1aab344cf0add2e90b118",
+    "variant": "append",
+    "offer_group": 2,
+    "input": {
+      "target": "\n\t\t\t\t\t\t\t시정사진\n성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n뒤 문맥: 하위메뉴 열기"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s11-2-prepend",
+    "source_id": "4aa1aab344cf0add2e90b118",
+    "variant": "prepend",
+    "offer_group": 2,
+    "input": {
+      "target": "성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.\n\n\t\t\t\t\t\t\t시정사진",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n뒤 문맥: 하위메뉴 열기"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s11-2-owned_context",
+    "source_id": "4aa1aab344cf0add2e90b118",
+    "variant": "owned_context",
+    "offer_group": 2,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n뒤 문맥: 하위메뉴 열기\n앞 문맥: 성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s11-2-prevention",
+    "source_id": "4aa1aab344cf0add2e90b118",
+    "variant": "prevention",
+    "offer_group": 2,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 성매매 예약을 받고 있습니다. 이용할 분은 비밀 댓글로 연락처를 남겨 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n뒤 문맥: 하위메뉴 열기"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s11-3-append",
+    "source_id": "4aa1aab344cf0add2e90b118",
+    "variant": "append",
+    "offer_group": 3,
+    "input": {
+      "target": "\n\t\t\t\t\t\t\t시정사진\n당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n뒤 문맥: 하위메뉴 열기"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s11-3-prepend",
+    "source_id": "4aa1aab344cf0add2e90b118",
+    "variant": "prepend",
+    "offer_group": 3,
+    "input": {
+      "target": "당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.\n\n\t\t\t\t\t\t\t시정사진",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n뒤 문맥: 하위메뉴 열기"
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s11-3-owned_context",
+    "source_id": "4aa1aab344cf0add2e90b118",
+    "variant": "owned_context",
+    "offer_group": 3,
+    "input": {
+      "target": "참여 방법은 여기에서 확인하세요.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n뒤 문맥: 하위메뉴 열기\n앞 문맥: 당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요."
+    },
+    "collection_truncated": false,
+    "label": 0,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  },
+  {
+    "id": "s11-3-prevention",
+    "source_id": "4aa1aab344cf0add2e90b118",
+    "variant": "prevention",
+    "offer_group": 3,
+    "input": {
+      "target": "다음 문장은 불법 권유의 신고 사례입니다. 참여하거나 연락하지 마세요.\n인용 시작: 당사자 동의 없이 촬영한 성인 영상을 판매합니다. 구매 희망자는 답장 주세요.\n인용 끝. 이 게시물은 예방 안내이며 판매나 이용 신청을 받지 않습니다.",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n뒤 문맥: 하위메뉴 열기"
+    },
+    "collection_truncated": false,
+    "label": 2,
+    "label_origin": "synthetic_author",
+    "browser_verified": false
+  }
+]

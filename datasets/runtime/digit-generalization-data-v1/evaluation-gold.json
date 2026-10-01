@@ -1,0 +1,562 @@
+[
+  {
+    "node_id": "n_24fd1f755807547f",
+    "site": "ridge-county",
+    "split": "evaluation",
+    "family": "jackpot",
+    "role": "offer",
+    "template": "evaluation-offer-0",
+    "classification": "substitution",
+    "reading": "JACKPOT"
+  },
+  {
+    "node_id": "n_4809190eed2fa513",
+    "site": "ridge-county",
+    "split": "evaluation",
+    "family": "jackpot",
+    "role": "prevention",
+    "template": "evaluation-prevention-0",
+    "classification": "substitution",
+    "reading": "JACKPOT"
+  },
+  {
+    "node_id": "n_9d7ca705d34a0fe0",
+    "site": "ridge-county",
+    "split": "evaluation",
+    "family": "jackpot",
+    "role": "identifier",
+    "template": "evaluation-identifier-0",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_d04e7c8cc19bc356",
+    "site": "ridge-county",
+    "split": "evaluation",
+    "family": "jackpot",
+    "role": "ambiguous",
+    "template": "evaluation-ambiguous-0",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_349c5295f320c6b2",
+    "site": "lake-service",
+    "split": "evaluation",
+    "family": "welcome",
+    "role": "offer",
+    "template": "evaluation-offer-1",
+    "classification": "substitution",
+    "reading": "WELCOME"
+  },
+  {
+    "node_id": "n_f752b274dacc1ece",
+    "site": "lake-service",
+    "split": "evaluation",
+    "family": "welcome",
+    "role": "prevention",
+    "template": "evaluation-prevention-1",
+    "classification": "substitution",
+    "reading": "WELCOME"
+  },
+  {
+    "node_id": "n_13879ca03183deb4",
+    "site": "lake-service",
+    "split": "evaluation",
+    "family": "welcome",
+    "role": "identifier",
+    "template": "evaluation-identifier-1",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_97e6ab9a1474ac75",
+    "site": "lake-service",
+    "split": "evaluation",
+    "family": "welcome",
+    "role": "ambiguous",
+    "template": "evaluation-ambiguous-0",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_722e754fa3a7b640",
+    "site": "ridge-county",
+    "split": "evaluation",
+    "family": "lucky",
+    "role": "offer",
+    "template": "evaluation-offer-2",
+    "classification": "substitution",
+    "reading": "LUCKY"
+  },
+  {
+    "node_id": "n_cb6d75d8ddcc4ad6",
+    "site": "ridge-county",
+    "split": "evaluation",
+    "family": "lucky",
+    "role": "prevention",
+    "template": "evaluation-prevention-2",
+    "classification": "substitution",
+    "reading": "LUCKY"
+  },
+  {
+    "node_id": "n_0e27418f9f3fca46",
+    "site": "ridge-county",
+    "split": "evaluation",
+    "family": "lucky",
+    "role": "identifier",
+    "template": "evaluation-identifier-2",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_a11842ccd30c6972",
+    "site": "ridge-county",
+    "split": "evaluation",
+    "family": "lucky",
+    "role": "ambiguous",
+    "template": "evaluation-ambiguous-0",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_cf14dee182c8392c",
+    "site": "lake-service",
+    "split": "evaluation",
+    "family": "transfer",
+    "role": "offer",
+    "template": "evaluation-offer-0",
+    "classification": "substitution",
+    "reading": "TRANSFER"
+  },
+  {
+    "node_id": "n_984c454fbea27c66",
+    "site": "lake-service",
+    "split": "evaluation",
+    "family": "transfer",
+    "role": "prevention",
+    "template": "evaluation-prevention-0",
+    "classification": "substitution",
+    "reading": "TRANSFER"
+  },
+  {
+    "node_id": "n_ef9ff663c7f9bac1",
+    "site": "lake-service",
+    "split": "evaluation",
+    "family": "transfer",
+    "role": "identifier",
+    "template": "evaluation-identifier-0",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_668a5e673e9d1b40",
+    "site": "lake-service",
+    "split": "evaluation",
+    "family": "transfer",
+    "role": "ambiguous",
+    "template": "evaluation-ambiguous-0",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_e2c8abd5637b3412",
+    "site": "ridge-county",
+    "split": "evaluation",
+    "family": "payout",
+    "role": "offer",
+    "template": "evaluation-offer-1",
+    "classification": "substitution",
+    "reading": "PAYOUT"
+  },
+  {
+    "node_id": "n_21819ab550d1d3a3",
+    "site": "ridge-county",
+    "split": "evaluation",
+    "family": "payout",
+    "role": "prevention",
+    "template": "evaluation-prevention-1",
+    "classification": "substitution",
+    "reading": "PAYOUT"
+  },
+  {
+    "node_id": "n_0e77969ac2e02e4a",
+    "site": "ridge-county",
+    "split": "evaluation",
+    "family": "payout",
+    "role": "identifier",
+    "template": "evaluation-identifier-1",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_ae114a289d9a4da8",
+    "site": "ridge-county",
+    "split": "evaluation",
+    "family": "payout",
+    "role": "ambiguous",
+    "template": "evaluation-ambiguous-0",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_a54edb2b634963c4",
+    "site": "lake-service",
+    "split": "evaluation",
+    "family": "member",
+    "role": "offer",
+    "template": "evaluation-offer-2",
+    "classification": "substitution",
+    "reading": "MEMBER"
+  },
+  {
+    "node_id": "n_fb0531888a130715",
+    "site": "lake-service",
+    "split": "evaluation",
+    "family": "member",
+    "role": "prevention",
+    "template": "evaluation-prevention-2",
+    "classification": "substitution",
+    "reading": "MEMBER"
+  },
+  {
+    "node_id": "n_b19ecf78d5373b3d",
+    "site": "lake-service",
+    "split": "evaluation",
+    "family": "member",
+    "role": "identifier",
+    "template": "evaluation-identifier-2",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_4a29341197eec3ce",
+    "site": "lake-service",
+    "split": "evaluation",
+    "family": "member",
+    "role": "ambiguous",
+    "template": "evaluation-ambiguous-0",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_2dd8eff7a79434eb",
+    "site": "ridge-county",
+    "split": "evaluation",
+    "family": "ticket",
+    "role": "offer",
+    "template": "evaluation-offer-0",
+    "classification": "substitution",
+    "reading": "TICKET"
+  },
+  {
+    "node_id": "n_99e1b55aef0211af",
+    "site": "ridge-county",
+    "split": "evaluation",
+    "family": "ticket",
+    "role": "prevention",
+    "template": "evaluation-prevention-0",
+    "classification": "substitution",
+    "reading": "TICKET"
+  },
+  {
+    "node_id": "n_b1a1b9003f60b0b0",
+    "site": "ridge-county",
+    "split": "evaluation",
+    "family": "ticket",
+    "role": "identifier",
+    "template": "evaluation-identifier-0",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_a4af05fff561eeb8",
+    "site": "ridge-county",
+    "split": "evaluation",
+    "family": "ticket",
+    "role": "ambiguous",
+    "template": "evaluation-ambiguous-0",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_c06829318276b0bf",
+    "site": "lake-service",
+    "split": "evaluation",
+    "family": "access",
+    "role": "offer",
+    "template": "evaluation-offer-1",
+    "classification": "substitution",
+    "reading": "ACCESS"
+  },
+  {
+    "node_id": "n_99cd0bfea4570b45",
+    "site": "lake-service",
+    "split": "evaluation",
+    "family": "access",
+    "role": "prevention",
+    "template": "evaluation-prevention-1",
+    "classification": "substitution",
+    "reading": "ACCESS"
+  },
+  {
+    "node_id": "n_baa10000a2ae48ef",
+    "site": "lake-service",
+    "split": "evaluation",
+    "family": "access",
+    "role": "identifier",
+    "template": "evaluation-identifier-1",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_56b8e5d5d4c2ce7a",
+    "site": "lake-service",
+    "split": "evaluation",
+    "family": "access",
+    "role": "ambiguous",
+    "template": "evaluation-ambiguous-0",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_eaa1c911ffb58f21",
+    "site": "ridge-county",
+    "split": "evaluation",
+    "family": "discount",
+    "role": "offer",
+    "template": "evaluation-offer-2",
+    "classification": "substitution",
+    "reading": "DISCOUNT"
+  },
+  {
+    "node_id": "n_f0859b39e30a8b30",
+    "site": "ridge-county",
+    "split": "evaluation",
+    "family": "discount",
+    "role": "prevention",
+    "template": "evaluation-prevention-2",
+    "classification": "substitution",
+    "reading": "DISCOUNT"
+  },
+  {
+    "node_id": "n_7405953c04f1194b",
+    "site": "ridge-county",
+    "split": "evaluation",
+    "family": "discount",
+    "role": "identifier",
+    "template": "evaluation-identifier-2",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_4a8bf9837a318115",
+    "site": "ridge-county",
+    "split": "evaluation",
+    "family": "discount",
+    "role": "ambiguous",
+    "template": "evaluation-ambiguous-0",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_43952e628228d8d8",
+    "site": "lake-service",
+    "split": "evaluation",
+    "family": "fortune",
+    "role": "offer",
+    "template": "evaluation-offer-0",
+    "classification": "substitution",
+    "reading": "FORTUNE"
+  },
+  {
+    "node_id": "n_6000274f30164c61",
+    "site": "lake-service",
+    "split": "evaluation",
+    "family": "fortune",
+    "role": "prevention",
+    "template": "evaluation-prevention-0",
+    "classification": "substitution",
+    "reading": "FORTUNE"
+  },
+  {
+    "node_id": "n_262dc95606a5e3cb",
+    "site": "lake-service",
+    "split": "evaluation",
+    "family": "fortune",
+    "role": "identifier",
+    "template": "evaluation-identifier-0",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_449e31ccca94d7d6",
+    "site": "lake-service",
+    "split": "evaluation",
+    "family": "fortune",
+    "role": "ambiguous",
+    "template": "evaluation-ambiguous-0",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_83ad2fda5e8889e3",
+    "site": "ridge-county",
+    "split": "evaluation",
+    "family": "private",
+    "role": "offer",
+    "template": "evaluation-offer-1",
+    "classification": "substitution",
+    "reading": "PRIVATE"
+  },
+  {
+    "node_id": "n_bff56f2c4d4206f6",
+    "site": "ridge-county",
+    "split": "evaluation",
+    "family": "private",
+    "role": "prevention",
+    "template": "evaluation-prevention-1",
+    "classification": "substitution",
+    "reading": "PRIVATE"
+  },
+  {
+    "node_id": "n_2dd883dd01a34b03",
+    "site": "ridge-county",
+    "split": "evaluation",
+    "family": "private",
+    "role": "identifier",
+    "template": "evaluation-identifier-1",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_dac860f8bef28b87",
+    "site": "ridge-county",
+    "split": "evaluation",
+    "family": "private",
+    "role": "ambiguous",
+    "template": "evaluation-ambiguous-0",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_ae3ab18027ae50d5",
+    "site": "lake-service",
+    "split": "evaluation",
+    "family": "redeem",
+    "role": "offer",
+    "template": "evaluation-offer-2",
+    "classification": "substitution",
+    "reading": "REDEEM"
+  },
+  {
+    "node_id": "n_126ba13481509a9b",
+    "site": "lake-service",
+    "split": "evaluation",
+    "family": "redeem",
+    "role": "prevention",
+    "template": "evaluation-prevention-2",
+    "classification": "substitution",
+    "reading": "REDEEM"
+  },
+  {
+    "node_id": "n_4c6a865418a67605",
+    "site": "lake-service",
+    "split": "evaluation",
+    "family": "redeem",
+    "role": "identifier",
+    "template": "evaluation-identifier-2",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_1bdedf326391a41c",
+    "site": "lake-service",
+    "split": "evaluation",
+    "family": "redeem",
+    "role": "ambiguous",
+    "template": "evaluation-ambiguous-0",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_f14d35e8226d59f9",
+    "site": "ridge-county",
+    "split": "evaluation",
+    "family": "utf8",
+    "role": "standard",
+    "template": "evaluation-standard-0",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_4c58df25974d2ea8",
+    "site": "lake-service",
+    "split": "evaluation",
+    "family": "sha256",
+    "role": "standard",
+    "template": "evaluation-standard-1",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_1d19c0fdfbd59927",
+    "site": "ridge-county",
+    "split": "evaluation",
+    "family": "http2",
+    "role": "standard",
+    "template": "evaluation-standard-2",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_c0b2afdfb41cadf3",
+    "site": "lake-service",
+    "split": "evaluation",
+    "family": "pcie4",
+    "role": "standard",
+    "template": "evaluation-standard-3",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_9ecd6f78e9d32f7f",
+    "site": "ridge-county",
+    "split": "evaluation",
+    "family": "ddr5",
+    "role": "standard",
+    "template": "evaluation-standard-4",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_48f8d2561b243df0",
+    "site": "lake-service",
+    "split": "evaluation",
+    "family": "iec61850",
+    "role": "standard",
+    "template": "evaluation-standard-5",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_ac3f4bfdac784f92",
+    "site": "ridge-county",
+    "split": "evaluation",
+    "family": "m8",
+    "role": "standard",
+    "template": "evaluation-standard-6",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_f142db134738c92a",
+    "site": "lake-service",
+    "split": "evaluation",
+    "family": "x86",
+    "role": "standard",
+    "template": "evaluation-standard-7",
+    "classification": "literal",
+    "reading": null
+  }
+]

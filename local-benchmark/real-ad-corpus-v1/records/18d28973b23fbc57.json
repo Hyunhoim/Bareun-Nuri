@@ -1,0 +1,36 @@
+{
+  "id": "18d28973b23fbc57",
+  "source": {
+    "id": "18d28973b23fbc57",
+    "url": "https://hrd.jeonbuk.go.kr/board/view.training?boardId=BBS_0000016&menuCd=DOM_000000103001000000&startPage=4&dataSid=13308",
+    "source_scope": "government_board",
+    "captured_at": "2026-09-28T23:08:46.492915+00:00",
+    "rights_status": "unverified_third_party_content",
+    "human_reviewed": false,
+    "raw_file": "raw/18d28973b23fbc57.html",
+    "byte_file": "raw/18d28973b23fbc57.bin",
+    "response_sha256": "7af4fbb5c0369d8970b7a8e7e09d8d96ea688515fa058476f0dc1ba70257172b",
+    "decoded_sha256": "7af4fbb5c0369d8970b7a8e7e09d8d96ea688515fa058476f0dc1ba70257172b",
+    "encoding": "utf-8",
+    "status": "captured",
+    "page_title": "홈 > 소통마당 > 자유게시판 |상세보기"
+  },
+  "title": "모두 화이팅입니다!",
+  "raw_text": "경기가 요즘 너무 안좋은데 모두 화이팅하시고 힘내시길 바랍니다.\n안양출장마사지",
+  "body_xpath": "/html/body/div/div[3]/div/div[2]/div[2]/div[3]/div",
+  "title_xpath": "/html/body/div/div[3]/div/div[2]/div[2]/div[3]/dl[1]",
+  "source_kind": "real_web_post",
+  "extraction": "static_HTML_lxml_itertext",
+  "comments_status": "not_extracted_or_labeled",
+  "technique_observed": null,
+  "body_sha256": "722b1d98641ff48ca8c331f9a09ac343cc3f41a8f1a90f97fc4c71d05801c948",
+  "label": null,
+  "human_reviewed": false,
+  "outgoing_links": [
+    {
+      "text": "안양출장마사지",
+      "href": "https://anyangrita.com/"
+    }
+  ],
+  "notes": "No CSS technique claim from static text; listed neighbours are excluded from owned context."
+}

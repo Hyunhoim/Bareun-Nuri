@@ -1,0 +1,55 @@
+{
+  "api_calls": 0,
+  "result": [
+    {
+      "slots": 100,
+      "ad_opportunities": [
+        0,
+        0
+      ],
+      "prior_tp_opportunities": [
+        0,
+        0
+      ],
+      "gained": [],
+      "lost": []
+    },
+    {
+      "slots": 300,
+      "ad_opportunities": [
+        8,
+        8
+      ],
+      "prior_tp_opportunities": [
+        7,
+        8
+      ],
+      "gained": [
+        "n_0cb8ccd28345101b",
+        "n_fbb360843acba38c"
+      ],
+      "lost": [
+        "n_01630cfb0005f9ea",
+        "n_5157549a6b49a6c2"
+      ]
+    },
+    {
+      "slots": 467,
+      "ad_opportunities": [
+        21,
+        22
+      ],
+      "prior_tp_opportunities": [
+        18,
+        18
+      ],
+      "gained": [
+        "n_3d8d4d03b42b7948"
+      ],
+      "lost": []
+    }
+  ],
+  "unjudged_ads": 7,
+  "all_seven_collected_and_unsplit": true,
+  "full_original_chunk_completion_required": true
+}

@@ -1,0 +1,5 @@
+// Same compact D-input contract; only request grouping changes.
+const assert=require('node:assert/strict'),base=require('./digit-generalization-methods.cjs'),compact=require('./digit-isolated-contract.cjs'),{regroup}=require('./digit-goal-methods.cjs');
+function jobs(inputs,reverse,mode){assert(['C','G','S'].includes(mode));const qs=inputs.map(base.prepare);if(reverse)qs.reverse();if(mode==='G')return regroup(qs);const size=mode==='S'?1:4;return Array.from({length:Math.ceil(qs.length/size)},(_,i)=>qs.slice(i*size,i*size+size));}
+module.exports={jobs,contract:compact.contract,postprocess:compact.postprocess};
+if(require.main===module){const rows=Array.from({length:56},(_,i)=>({node_id:'n'+i,token:'T'+Math.floor(i/4),target_text:'T'+Math.floor(i/4)}));for(const rev of [false,true]){const all=['C','G','S'].map(mode=>jobs(rows,rev,mode));assert.deepEqual(all.map(a=>a.length),[14,14,56]);for(const a of all)assert.deepEqual(a.flat().map(x=>x.node_id).sort(),rows.map(x=>x.node_id).sort());}console.log('PASS compact grouping arms preserve all candidates');}

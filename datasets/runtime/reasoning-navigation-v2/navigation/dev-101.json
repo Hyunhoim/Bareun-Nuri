@@ -1,0 +1,6074 @@
+{
+  "id": "dev-101",
+  "split": "dev",
+  "entry": "http://dev-101.fixture.test/",
+  "scope": "/",
+  "pages": {
+    "http://dev-101.fixture.test/": {
+      "status": 200,
+      "profile": {
+        "title": "시민 서비스 포털",
+        "detail": false,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "시민 서비스 포털",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 9,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/ff21ebca65c4af",
+            "text": "시민 게시판",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "시민 서비스 포털",
+              "nearby": "시민 게시판 관련 안내 공공 서비스 시민 게시판 시민 게시판 공공 서비스 관련 안내 공공 서비스",
+              "siblings": 8,
+              "outlinks": 9,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/d5ffca05b243ab",
+            "text": "관련 안내",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "시민 서비스 포털",
+              "nearby": "시민 게시판 관련 안내 공공 서비스 시민 게시판 시민 게시판 공공 서비스 관련 안내 공공 서비스",
+              "siblings": 8,
+              "outlinks": 9,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/93d1fe272a9ba2",
+            "text": "공공 서비스",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "시민 서비스 포털",
+              "nearby": "시민 게시판 관련 안내 공공 서비스 시민 게시판 시민 게시판 공공 서비스 관련 안내 공공 서비스",
+              "siblings": 8,
+              "outlinks": 9,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/a71c068710b638",
+            "text": "시민 게시판",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "시민 서비스 포털",
+              "nearby": "시민 게시판 관련 안내 공공 서비스 시민 게시판 시민 게시판 공공 서비스 관련 안내 공공 서비스",
+              "siblings": 8,
+              "outlinks": 9,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/5417ffd5094504",
+            "text": "시민 게시판",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "시민 서비스 포털",
+              "nearby": "시민 게시판 관련 안내 공공 서비스 시민 게시판 시민 게시판 공공 서비스 관련 안내 공공 서비스",
+              "siblings": 8,
+              "outlinks": 9,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/e52b2f8cc1cf8f",
+            "text": "공공 서비스",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "시민 서비스 포털",
+              "nearby": "시민 게시판 관련 안내 공공 서비스 시민 게시판 시민 게시판 공공 서비스 관련 안내 공공 서비스",
+              "siblings": 8,
+              "outlinks": 9,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/d65e3f765d00ec",
+            "text": "관련 안내",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "시민 서비스 포털",
+              "nearby": "시민 게시판 관련 안내 공공 서비스 시민 게시판 시민 게시판 공공 서비스 관련 안내 공공 서비스",
+              "siblings": 8,
+              "outlinks": 9,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/fe2fdc10e97d96",
+            "text": "공공 서비스",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "시민 서비스 포털",
+              "nearby": "시민 게시판 관련 안내 공공 서비스 시민 게시판 시민 게시판 공공 서비스 관련 안내 공공 서비스",
+              "siblings": 8,
+              "outlinks": 9,
+              "parent_detail": false
+            }
+          }
+        ],
+        "fingerprint": "93810a8dad8e1b112cb030c5cc6f166bb2990630dc5d481e4fbac1310f635f39",
+        "status": 200,
+        "bytes": 982
+      }
+    },
+    "http://dev-101.fixture.test/a71c068710b638": {
+      "status": 200,
+      "profile": {
+        "title": "주민 의견 게시판",
+        "detail": false,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/fc779a80f83794",
+            "text": "게시글 보기 1",
+            "content_scope": true,
+            "group": "main>article>ul>li>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 1",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/fd3220ce28e5d9",
+            "text": "게시글 보기 2",
+            "content_scope": true,
+            "group": "main>article>ul>li>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 2",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/174b6e92c452a2",
+            "text": "게시글 보기 3",
+            "content_scope": true,
+            "group": "main>article>ul>li>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 3",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/3b24bb00cb9da4",
+            "text": "게시글 보기 4",
+            "content_scope": true,
+            "group": "main>article>ul>li>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 4",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/1f5ba1e99f932b",
+            "text": "다음 목록",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "다음 목록",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          }
+        ],
+        "fingerprint": "de3e41cd4036cd399a28089ff2661b4cf56458f3644015663be48dfbd5647e68",
+        "status": 200,
+        "bytes": 815
+      }
+    },
+    "http://dev-101.fixture.test/1f5ba1e99f932b": {
+      "status": 200,
+      "profile": {
+        "title": "주민 의견 게시판",
+        "detail": false,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/ac88697c7ebdb4",
+            "text": "게시글 보기 5",
+            "content_scope": true,
+            "group": "main>article>ul>li>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 5",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/197a7c42b6ae0d",
+            "text": "게시글 보기 6",
+            "content_scope": true,
+            "group": "main>article>ul>li>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 6",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/6beabd0579b955",
+            "text": "게시글 보기 7",
+            "content_scope": true,
+            "group": "main>article>ul>li>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 7",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/db7afd80131172",
+            "text": "게시글 보기 8",
+            "content_scope": true,
+            "group": "main>article>ul>li>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 8",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/4b53e1d76d1896",
+            "text": "다음 목록",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "다음 목록",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          }
+        ],
+        "fingerprint": "de3e41cd4036cd399a28089ff2661b4cf56458f3644015663be48dfbd5647e68",
+        "status": 200,
+        "bytes": 815
+      }
+    },
+    "http://dev-101.fixture.test/4b53e1d76d1896": {
+      "status": 200,
+      "profile": {
+        "title": "주민 의견 게시판",
+        "detail": false,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/613b4fa7333269",
+            "text": "게시글 보기 9",
+            "content_scope": true,
+            "group": "main>article>ul>li>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 9",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/7ee7d449d1ce4d",
+            "text": "게시글 보기 10",
+            "content_scope": true,
+            "group": "main>article>ul>li>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 10",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/38cab61986b3ea",
+            "text": "게시글 보기 11",
+            "content_scope": true,
+            "group": "main>article>ul>li>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 11",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/c529787d1b0752",
+            "text": "게시글 보기 12",
+            "content_scope": true,
+            "group": "main>article>ul>li>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 12",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          }
+        ],
+        "fingerprint": "de3e41cd4036cd399a28089ff2661b4cf56458f3644015663be48dfbd5647e68",
+        "status": 200,
+        "bytes": 748
+      }
+    },
+    "http://dev-101.fixture.test/fc779a80f83794": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 1-1",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 1-1",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/a71c068710b638",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 1-1",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "ba7607700147fa69113c46ef5e5caac1e75d3fec61f6fb5a814c3ee94cce7e55",
+        "status": 200,
+        "bytes": 1189
+      }
+    },
+    "http://dev-101.fixture.test/fd3220ce28e5d9": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 1-2",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 1-2",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/a71c068710b638",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 1-2",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "9df4a2c9f33656243de3aca6625ef79ebd47c49db404129605cc6bdf9cfe854d",
+        "status": 200,
+        "bytes": 1092
+      }
+    },
+    "http://dev-101.fixture.test/174b6e92c452a2": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 1-3",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 1-3",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/a71c068710b638",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 1-3",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "818c8dee136234ac924377299eb2e3ae8018642fd725e744ccfd26ed97a96baf",
+        "status": 200,
+        "bytes": 889
+      }
+    },
+    "http://dev-101.fixture.test/3b24bb00cb9da4": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 1-4",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 1-4",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/a71c068710b638",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 1-4",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "5902053f7118d118e69b3af47d6fc43714a638f152f454b40add5d1d9905ffef",
+        "status": 200,
+        "bytes": 978
+      }
+    },
+    "http://dev-101.fixture.test/ac88697c7ebdb4": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 1-5",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 1-5",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/1f5ba1e99f932b",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 1-5",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "aa07581cffb864bd9ca15b35da1bc2ed9bff5e9ce86ad75517a73db45c6f9b04",
+        "status": 200,
+        "bytes": 1061
+      }
+    },
+    "http://dev-101.fixture.test/197a7c42b6ae0d": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 1-6",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 1-6",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/1f5ba1e99f932b",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 1-6",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "e19cc2fd646fc9b47061009f2868f5bd4e3e594817a87166ef97db1b3af45370",
+        "status": 200,
+        "bytes": 1050
+      }
+    },
+    "http://dev-101.fixture.test/6beabd0579b955": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 1-7",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 1-7",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/1f5ba1e99f932b",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 1-7",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "d9d823cb52f23300aab2ebb465c6e0de6cf9881103e2020322cd5c0f36af3125",
+        "status": 200,
+        "bytes": 979
+      }
+    },
+    "http://dev-101.fixture.test/db7afd80131172": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 1-8",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 1-8",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/1f5ba1e99f932b",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 1-8",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "d27fcdfee067e217f3e0917a3dde74ca15de602fd09108fb8fe69d12ab565ab8",
+        "status": 200,
+        "bytes": 932
+      }
+    },
+    "http://dev-101.fixture.test/613b4fa7333269": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 1-9",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 1-9",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/4b53e1d76d1896",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 1-9",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "aa07581cffb864bd9ca15b35da1bc2ed9bff5e9ce86ad75517a73db45c6f9b04",
+        "status": 200,
+        "bytes": 1015
+      }
+    },
+    "http://dev-101.fixture.test/7ee7d449d1ce4d": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 1-10",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 1-10",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/4b53e1d76d1896",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 1-10",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "2ff166feb7f947e5008c12e6b079fc9ffb970dc9d11be40f021551b8f7a13d0d",
+        "status": 200,
+        "bytes": 1136
+      }
+    },
+    "http://dev-101.fixture.test/38cab61986b3ea": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 1-11",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 1-11",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/4b53e1d76d1896",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 1-11",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "235c3b6b46b5738582f6185efae3ce39e32e593da1e345aaaaf5c96e9dc02575",
+        "status": 200,
+        "bytes": 936
+      }
+    },
+    "http://dev-101.fixture.test/c529787d1b0752": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 1-12",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 1-12",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/4b53e1d76d1896",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 1-12",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "21e40ef15f8adebefdccb2ed5b8bc2b0306eed1ba324fc63119563ddc18b1814",
+        "status": 200,
+        "bytes": 898
+      }
+    },
+    "http://dev-101.fixture.test/c0a055b460cbc8": {
+      "status": 200,
+      "profile": {
+        "title": "주민 의견 게시판",
+        "detail": false,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/03eb82b414bc9f",
+            "text": "생활 자료 1",
+            "content_scope": false,
+            "group": "section>ol>li>span>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 1",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/8a32e14cd8a26d",
+            "text": "생활 자료 2",
+            "content_scope": false,
+            "group": "section>ol>li>span>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 2",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/0306bfd0e56a5a",
+            "text": "생활 자료 3",
+            "content_scope": false,
+            "group": "section>ol>li>span>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 3",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/d1e466778ede29",
+            "text": "생활 자료 4",
+            "content_scope": false,
+            "group": "section>ol>li>span>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 4",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/b0f25862e82a72",
+            "text": "다음 목록",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "다음 목록",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          }
+        ],
+        "fingerprint": "de3e41cd4036cd399a28089ff2661b4cf56458f3644015663be48dfbd5647e68",
+        "status": 200,
+        "bytes": 855
+      }
+    },
+    "http://dev-101.fixture.test/b0f25862e82a72": {
+      "status": 200,
+      "profile": {
+        "title": "주민 의견 게시판",
+        "detail": false,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/746ec8784190e8",
+            "text": "생활 자료 5",
+            "content_scope": false,
+            "group": "section>ol>li>span>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 5",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/131c19ec48524c",
+            "text": "생활 자료 6",
+            "content_scope": false,
+            "group": "section>ol>li>span>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 6",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/3aa969f1a04444",
+            "text": "생활 자료 7",
+            "content_scope": false,
+            "group": "section>ol>li>span>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 7",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/dd6cf0117d42e1",
+            "text": "생활 자료 8",
+            "content_scope": false,
+            "group": "section>ol>li>span>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 8",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/ffde4c515c5f9c",
+            "text": "다음 목록",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "다음 목록",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          }
+        ],
+        "fingerprint": "de3e41cd4036cd399a28089ff2661b4cf56458f3644015663be48dfbd5647e68",
+        "status": 200,
+        "bytes": 855
+      }
+    },
+    "http://dev-101.fixture.test/ffde4c515c5f9c": {
+      "status": 200,
+      "profile": {
+        "title": "주민 의견 게시판",
+        "detail": false,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/d902e23b615c6b",
+            "text": "생활 자료 9",
+            "content_scope": false,
+            "group": "section>ol>li>span>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 9",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/458c213b879152",
+            "text": "생활 자료 10",
+            "content_scope": false,
+            "group": "section>ol>li>span>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 10",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/c7fe050eea9af2",
+            "text": "생활 자료 11",
+            "content_scope": false,
+            "group": "section>ol>li>span>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 11",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/b855fb0177551c",
+            "text": "생활 자료 12",
+            "content_scope": false,
+            "group": "section>ol>li>span>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 12",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          }
+        ],
+        "fingerprint": "de3e41cd4036cd399a28089ff2661b4cf56458f3644015663be48dfbd5647e68",
+        "status": 200,
+        "bytes": 788
+      }
+    },
+    "http://dev-101.fixture.test/03eb82b414bc9f": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 2-1",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 2-1",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/c0a055b460cbc8",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 2-1",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "90efa21624f66ad8d754d40e905e041098b938ff3a2ff1a5081e0d6f4232662c",
+        "status": 200,
+        "bytes": 1142
+      }
+    },
+    "http://dev-101.fixture.test/8a32e14cd8a26d": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 2-2",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 2-2",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/c0a055b460cbc8",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 2-2",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "dd7d1c3c5a5e2cfc34dcb3743c58d76112d558468480a280b2a651f2d3ebb360",
+        "status": 200,
+        "bytes": 928
+      }
+    },
+    "http://dev-101.fixture.test/0306bfd0e56a5a": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 2-3",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 2-3",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/c0a055b460cbc8",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 2-3",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "de96a2358aa27857b8311bffa0759ad6a22ba4dfaa9f3daf6158dd612f17918c",
+        "status": 200,
+        "bytes": 893
+      }
+    },
+    "http://dev-101.fixture.test/d1e466778ede29": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 2-4",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 2-4",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/c0a055b460cbc8",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 2-4",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "7917d954e17129447d4802e35eb37f6685446cc69c5b7a16cd72729319aee40c",
+        "status": 200,
+        "bytes": 1131
+      }
+    },
+    "http://dev-101.fixture.test/746ec8784190e8": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 2-5",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 2-5",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/b0f25862e82a72",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 2-5",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "8809539e0fae34942aedb47b4a717324969ff9e02ea1737d8ced4a44a4233ef6",
+        "status": 200,
+        "bytes": 1094
+      }
+    },
+    "http://dev-101.fixture.test/131c19ec48524c": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 2-6",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 2-6",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/b0f25862e82a72",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 2-6",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "cb9e1e2e9fcc587d6886a3589c16ba4ec32435f2a3984c73b712ebd201c46471",
+        "status": 200,
+        "bytes": 891
+      }
+    },
+    "http://dev-101.fixture.test/3aa969f1a04444": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 2-7",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 2-7",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/b0f25862e82a72",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 2-7",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "82e38a1967312bf4813393f930ae57023e79ad9ebccf59a3a0e7ddde4e3d49cc",
+        "status": 200,
+        "bytes": 889
+      }
+    },
+    "http://dev-101.fixture.test/dd6cf0117d42e1": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 2-8",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 2-8",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/b0f25862e82a72",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 2-8",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "3c082838a3e53eab8c435ec744bf28c7e08e1bc4f40ec251b38bc3e1639c7118",
+        "status": 200,
+        "bytes": 1059
+      }
+    },
+    "http://dev-101.fixture.test/d902e23b615c6b": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 2-9",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 2-9",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/ffde4c515c5f9c",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 2-9",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "8809539e0fae34942aedb47b4a717324969ff9e02ea1737d8ced4a44a4233ef6",
+        "status": 200,
+        "bytes": 923
+      }
+    },
+    "http://dev-101.fixture.test/458c213b879152": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 2-10",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 2-10",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/ffde4c515c5f9c",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 2-10",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "f3e85f3868876243f200a9d4b1202cf6fe6aa17ea0fc57d314ca9164dafb9f1a",
+        "status": 200,
+        "bytes": 977
+      }
+    },
+    "http://dev-101.fixture.test/c7fe050eea9af2": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 2-11",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 2-11",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/ffde4c515c5f9c",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 2-11",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "bb58e677c2488faafc88d4f53c8c18b27e879b243d85bbe4bdede7d1e5350ebe",
+        "status": 200,
+        "bytes": 881
+      }
+    },
+    "http://dev-101.fixture.test/b855fb0177551c": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 2-12",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 2-12",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/ffde4c515c5f9c",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 2-12",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "cd148feb10e9b78af0567eaef078bdd771e5be2053c1f41b1d645b20d83ca6e5",
+        "status": 200,
+        "bytes": 1016
+      }
+    },
+    "http://dev-101.fixture.test/f17108bcd32975": {
+      "status": 200,
+      "profile": {
+        "title": "이용 안내",
+        "detail": false,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "이용 안내",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/c0a055b460cbc8",
+            "text": "참여 안내",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "이용 안내",
+              "nearby": "참여 안내",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": false
+            }
+          }
+        ],
+        "fingerprint": "8c30781f1a2a5bd478ffce4e7766918d056d6c4d795ef55df4497e959bb0fb22",
+        "status": 200,
+        "bytes": 430
+      }
+    },
+    "http://dev-101.fixture.test/264a5d27c8780a": {
+      "status": 200,
+      "profile": {
+        "title": "이용 안내",
+        "detail": false,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "이용 안내",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/f17108bcd32975",
+            "text": "참여 안내",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "이용 안내",
+              "nearby": "참여 안내",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": false
+            }
+          }
+        ],
+        "fingerprint": "8c30781f1a2a5bd478ffce4e7766918d056d6c4d795ef55df4497e959bb0fb22",
+        "status": 200,
+        "bytes": 435
+      }
+    },
+    "http://dev-101.fixture.test/fe2fdc10e97d96": {
+      "status": 200,
+      "profile": {
+        "title": "이용 안내",
+        "detail": false,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "이용 안내",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/264a5d27c8780a",
+            "text": "참여 안내",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "이용 안내",
+              "nearby": "참여 안내",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": false
+            }
+          }
+        ],
+        "fingerprint": "8c30781f1a2a5bd478ffce4e7766918d056d6c4d795ef55df4497e959bb0fb22",
+        "status": 200,
+        "bytes": 437
+      }
+    },
+    "http://dev-101.fixture.test/d5ffca05b243ab": {
+      "status": 200,
+      "profile": {
+        "title": "생활 안내",
+        "detail": false,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 안내",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/3bd6dc037155ca",
+            "text": "생활 자료 1",
+            "content_scope": false,
+            "group": "body>main>div[list]>div[listitem]>a|0",
+            "context": {
+              "heading": "생활 안내",
+              "nearby": "생활 자료 1",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/d295ae2c238985",
+            "text": "생활 자료 2",
+            "content_scope": false,
+            "group": "body>main>div[list]>div[listitem]>a|0",
+            "context": {
+              "heading": "생활 안내",
+              "nearby": "생활 자료 2",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/17a92e47280214",
+            "text": "생활 자료 3",
+            "content_scope": false,
+            "group": "body>main>div[list]>div[listitem]>a|0",
+            "context": {
+              "heading": "생활 안내",
+              "nearby": "생활 자료 3",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/8a18ca4f9151bf",
+            "text": "생활 자료 4",
+            "content_scope": false,
+            "group": "body>main>div[list]>div[listitem]>a|0",
+            "context": {
+              "heading": "생활 안내",
+              "nearby": "생활 자료 4",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/f69422527a57ec",
+            "text": "다음 목록",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 안내",
+              "nearby": "다음 목록",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          }
+        ],
+        "fingerprint": "b5c8485d89ae89e01ecc14febe210ae3eb3ca35b5a8337f8cfb5095a43dc3cd7",
+        "status": 200,
+        "bytes": 829
+      }
+    },
+    "http://dev-101.fixture.test/f69422527a57ec": {
+      "status": 200,
+      "profile": {
+        "title": "생활 안내",
+        "detail": false,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 안내",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/b2c52425e72c20",
+            "text": "생활 자료 5",
+            "content_scope": false,
+            "group": "body>main>div[list]>div[listitem]>a|0",
+            "context": {
+              "heading": "생활 안내",
+              "nearby": "생활 자료 5",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/c11f5c2a2e55c0",
+            "text": "생활 자료 6",
+            "content_scope": false,
+            "group": "body>main>div[list]>div[listitem]>a|0",
+            "context": {
+              "heading": "생활 안내",
+              "nearby": "생활 자료 6",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/089dc871b9fc05",
+            "text": "생활 자료 7",
+            "content_scope": false,
+            "group": "body>main>div[list]>div[listitem]>a|0",
+            "context": {
+              "heading": "생활 안내",
+              "nearby": "생활 자료 7",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/1e122e6f234072",
+            "text": "생활 자료 8",
+            "content_scope": false,
+            "group": "body>main>div[list]>div[listitem]>a|0",
+            "context": {
+              "heading": "생활 안내",
+              "nearby": "생활 자료 8",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/f7ef9226fd6095",
+            "text": "다음 목록",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 안내",
+              "nearby": "다음 목록",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          }
+        ],
+        "fingerprint": "b5c8485d89ae89e01ecc14febe210ae3eb3ca35b5a8337f8cfb5095a43dc3cd7",
+        "status": 200,
+        "bytes": 829
+      }
+    },
+    "http://dev-101.fixture.test/f7ef9226fd6095": {
+      "status": 200,
+      "profile": {
+        "title": "생활 안내",
+        "detail": false,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 안내",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/78465c6a0a50fe",
+            "text": "생활 자료 9",
+            "content_scope": false,
+            "group": "body>main>div[list]>div[listitem]>a|0",
+            "context": {
+              "heading": "생활 안내",
+              "nearby": "생활 자료 9",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/8f50bfca98ee04",
+            "text": "생활 자료 10",
+            "content_scope": false,
+            "group": "body>main>div[list]>div[listitem]>a|0",
+            "context": {
+              "heading": "생활 안내",
+              "nearby": "생활 자료 10",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/b2c9d4b01a4be0",
+            "text": "생활 자료 11",
+            "content_scope": false,
+            "group": "body>main>div[list]>div[listitem]>a|0",
+            "context": {
+              "heading": "생활 안내",
+              "nearby": "생활 자료 11",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/bb5311af84c56b",
+            "text": "생활 자료 12",
+            "content_scope": false,
+            "group": "body>main>div[list]>div[listitem]>a|0",
+            "context": {
+              "heading": "생활 안내",
+              "nearby": "생활 자료 12",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          }
+        ],
+        "fingerprint": "b5c8485d89ae89e01ecc14febe210ae3eb3ca35b5a8337f8cfb5095a43dc3cd7",
+        "status": 200,
+        "bytes": 762
+      }
+    },
+    "http://dev-101.fixture.test/3bd6dc037155ca": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 3-1",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 3-1",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/d5ffca05b243ab",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 3-1",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "7db8d8bed291e0b217e609eedc2a33317697c3e0e1da90b7e6c43c450e20bb6b",
+        "status": 200,
+        "bytes": 889
+      }
+    },
+    "http://dev-101.fixture.test/d295ae2c238985": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 3-2",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 3-2",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/d5ffca05b243ab",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 3-2",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "a153db0a0ef81541d08de890765b6250c8bcc81877d7d5d851ddd93bfc14dcb3",
+        "status": 200,
+        "bytes": 937
+      }
+    },
+    "http://dev-101.fixture.test/17a92e47280214": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 3-3",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 3-3",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/d5ffca05b243ab",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 3-3",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "daaa5751f67a6fdbf587ac04a154b2c8b100b441d48aa0283387eea7ba78ad33",
+        "status": 200,
+        "bytes": 1015
+      }
+    },
+    "http://dev-101.fixture.test/8a18ca4f9151bf": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 3-4",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 3-4",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/d5ffca05b243ab",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 3-4",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "5697539c2d29c2c567b1e11cd2525c6aeb4d17607637f3a29354542035aca5a7",
+        "status": 200,
+        "bytes": 1013
+      }
+    },
+    "http://dev-101.fixture.test/b2c52425e72c20": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 3-5",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 3-5",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/f69422527a57ec",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 3-5",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "8809539e0fae34942aedb47b4a717324969ff9e02ea1737d8ced4a44a4233ef6",
+        "status": 200,
+        "bytes": 879
+      }
+    },
+    "http://dev-101.fixture.test/c11f5c2a2e55c0": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 3-6",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 3-6",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/f69422527a57ec",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 3-6",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "bb58e677c2488faafc88d4f53c8c18b27e879b243d85bbe4bdede7d1e5350ebe",
+        "status": 200,
+        "bytes": 830
+      }
+    },
+    "http://dev-101.fixture.test/089dc871b9fc05": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 3-7",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 3-7",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/f69422527a57ec",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 3-7",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "91150c543e053dda400baf63c8dae1ebb1a0b080cc6e86d466a8da0d4763495a",
+        "status": 200,
+        "bytes": 1187
+      }
+    },
+    "http://dev-101.fixture.test/1e122e6f234072": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 3-8",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 3-8",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/f69422527a57ec",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 3-8",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "289cadc783fb2c69d097856b9ef0a5f4cbf15b519686975e39c686c54529d206",
+        "status": 200,
+        "bytes": 1094
+      }
+    },
+    "http://dev-101.fixture.test/78465c6a0a50fe": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 3-9",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 3-9",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/f7ef9226fd6095",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 3-9",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "8809539e0fae34942aedb47b4a717324969ff9e02ea1737d8ced4a44a4233ef6",
+        "status": 200,
+        "bytes": 886
+      }
+    },
+    "http://dev-101.fixture.test/8f50bfca98ee04": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 3-10",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 3-10",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/f7ef9226fd6095",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 3-10",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "256354109e14d8df108976a2daad350e3514bbc09a84cbbf0031d626ee7747cf",
+        "status": 200,
+        "bytes": 986
+      }
+    },
+    "http://dev-101.fixture.test/b2c9d4b01a4be0": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 3-11",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 3-11",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/f7ef9226fd6095",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 3-11",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "121c17fc289d45cf504dfa2ca5f741bd0d14d5a1ca304469b38f3d82ddd59714",
+        "status": 200,
+        "bytes": 1055
+      }
+    },
+    "http://dev-101.fixture.test/bb5311af84c56b": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 3-12",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 3-12",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/f7ef9226fd6095",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 3-12",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "cfb67cccc5ef3c2cce96d1e03f66666d7878e6244c96fa44948267e00ba46e75",
+        "status": 200,
+        "bytes": 1053
+      }
+    },
+    "http://dev-101.fixture.test/56b22ad32d43e0": {
+      "status": 200,
+      "profile": {
+        "title": "주민 의견 게시판",
+        "detail": false,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/d5ac35c55c478f",
+            "text": "게시글 보기 1",
+            "content_scope": true,
+            "group": "table>tbody>tr>td>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 1",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/11f85576f0fd6a",
+            "text": "게시글 보기 2",
+            "content_scope": true,
+            "group": "table>tbody>tr>td>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 2",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/07f522258bdf72",
+            "text": "게시글 보기 3",
+            "content_scope": true,
+            "group": "table>tbody>tr>td>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 3",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/83bf8eb21cd409",
+            "text": "게시글 보기 4",
+            "content_scope": true,
+            "group": "table>tbody>tr>td>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 4",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/b67313533f765c",
+            "text": "다음 목록",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "다음 목록",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          }
+        ],
+        "fingerprint": "de3e41cd4036cd399a28089ff2661b4cf56458f3644015663be48dfbd5647e68",
+        "status": 200,
+        "bytes": 853
+      }
+    },
+    "http://dev-101.fixture.test/b67313533f765c": {
+      "status": 200,
+      "profile": {
+        "title": "주민 의견 게시판",
+        "detail": false,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/944f8b404c55a1",
+            "text": "게시글 보기 5",
+            "content_scope": true,
+            "group": "table>tbody>tr>td>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 5",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/274258d268bb05",
+            "text": "게시글 보기 6",
+            "content_scope": true,
+            "group": "table>tbody>tr>td>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 6",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/10e15577df1914",
+            "text": "게시글 보기 7",
+            "content_scope": true,
+            "group": "table>tbody>tr>td>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 7",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/5b73c961215b4f",
+            "text": "게시글 보기 8",
+            "content_scope": true,
+            "group": "table>tbody>tr>td>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 8",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/84e780ea741eab",
+            "text": "다음 목록",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "다음 목록",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          }
+        ],
+        "fingerprint": "de3e41cd4036cd399a28089ff2661b4cf56458f3644015663be48dfbd5647e68",
+        "status": 200,
+        "bytes": 853
+      }
+    },
+    "http://dev-101.fixture.test/84e780ea741eab": {
+      "status": 200,
+      "profile": {
+        "title": "주민 의견 게시판",
+        "detail": false,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/8b13c4be631866",
+            "text": "게시글 보기 9",
+            "content_scope": true,
+            "group": "table>tbody>tr>td>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 9",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/7239d98011825c",
+            "text": "게시글 보기 10",
+            "content_scope": true,
+            "group": "table>tbody>tr>td>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 10",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/295f7bf28cf3a2",
+            "text": "게시글 보기 11",
+            "content_scope": true,
+            "group": "table>tbody>tr>td>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 11",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/b952ede1b902d2",
+            "text": "게시글 보기 12",
+            "content_scope": true,
+            "group": "table>tbody>tr>td>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 12",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          }
+        ],
+        "fingerprint": "de3e41cd4036cd399a28089ff2661b4cf56458f3644015663be48dfbd5647e68",
+        "status": 200,
+        "bytes": 786
+      }
+    },
+    "http://dev-101.fixture.test/d5ac35c55c478f": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 4-1",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 4-1",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/56b22ad32d43e0",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 4-1",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "d7ffa1215d26f9dd9d993a5e82a1bddba51d352acd6ea3554e2c9abbef322767",
+        "status": 200,
+        "bytes": 985
+      }
+    },
+    "http://dev-101.fixture.test/11f85576f0fd6a": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 4-2",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 4-2",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/56b22ad32d43e0",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 4-2",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "3fea0a6f69f561078931e42585e38a5ce0bf631f659e550261d0b3c8df97f595",
+        "status": 200,
+        "bytes": 1057
+      }
+    },
+    "http://dev-101.fixture.test/07f522258bdf72": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 4-3",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 4-3",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/56b22ad32d43e0",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 4-3",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "b3cb91e2c75c36b72258e4445af3d51fa3def9419c37b817fb16119daf0b83a9",
+        "status": 200,
+        "bytes": 916
+      }
+    },
+    "http://dev-101.fixture.test/83bf8eb21cd409": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 4-4",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 4-4",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/56b22ad32d43e0",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 4-4",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "f4f59a10511b555344b1809c9e20b1212c3ce9d1ec66b11a10ae1f914c8783a6",
+        "status": 200,
+        "bytes": 979
+      }
+    },
+    "http://dev-101.fixture.test/944f8b404c55a1": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 4-5",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 4-5",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/b67313533f765c",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 4-5",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "cbadfe49845697d5dd33f291afb700352ed60e27b88ba1270ebaaa860779e9ef",
+        "status": 200,
+        "bytes": 939
+      }
+    },
+    "http://dev-101.fixture.test/274258d268bb05": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 4-6",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 4-6",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/b67313533f765c",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 4-6",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "5745fd40614b204d5728b4c8cd8544f13a0f51acf7233d9d4a3353b9b3ea165a",
+        "status": 200,
+        "bytes": 1008
+      }
+    },
+    "http://dev-101.fixture.test/10e15577df1914": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 4-7",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 4-7",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/b67313533f765c",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 4-7",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "7cb87cd87fd58c09085ffe2eb20e4cabbd7224790ffd34dd8fbd36e9022504dc",
+        "status": 200,
+        "bytes": 1140
+      }
+    },
+    "http://dev-101.fixture.test/5b73c961215b4f": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 4-8",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 4-8",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/b67313533f765c",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 4-8",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "a2b0dd783e7079e75b3ec509cc5dfd8c619972c9a7b98452e9ce405024a72097",
+        "status": 200,
+        "bytes": 928
+      }
+    },
+    "http://dev-101.fixture.test/8b13c4be631866": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 4-9",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 4-9",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/84e780ea741eab",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 4-9",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "cbadfe49845697d5dd33f291afb700352ed60e27b88ba1270ebaaa860779e9ef",
+        "status": 200,
+        "bytes": 895
+      }
+    },
+    "http://dev-101.fixture.test/7239d98011825c": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 4-10",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 4-10",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/84e780ea741eab",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 4-10",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "7917d954e17129447d4802e35eb37f6685446cc69c5b7a16cd72729319aee40c",
+        "status": 200,
+        "bytes": 1131
+      }
+    },
+    "http://dev-101.fixture.test/295f7bf28cf3a2": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 4-11",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 4-11",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/84e780ea741eab",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 4-11",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "b3cb91e2c75c36b72258e4445af3d51fa3def9419c37b817fb16119daf0b83a9",
+        "status": 200,
+        "bytes": 967
+      }
+    },
+    "http://dev-101.fixture.test/b952ede1b902d2": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 4-12",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 4-12",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/84e780ea741eab",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 4-12",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "a12aad1a3fdf5c06e3fb479d30cac84abd108236ca9a87222304f9e229c06cd9",
+        "status": 200,
+        "bytes": 883
+      }
+    },
+    "http://dev-101.fixture.test/469644f63481c7": {
+      "status": 200,
+      "profile": {
+        "title": "이용 안내",
+        "detail": false,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "이용 안내",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/56b22ad32d43e0",
+            "text": "참여 안내",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "이용 안내",
+              "nearby": "참여 안내",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": false
+            }
+          }
+        ],
+        "fingerprint": "8c30781f1a2a5bd478ffce4e7766918d056d6c4d795ef55df4497e959bb0fb22",
+        "status": 200,
+        "bytes": 435
+      }
+    },
+    "http://dev-101.fixture.test/3cc265ac138669": {
+      "status": 200,
+      "profile": {
+        "title": "이용 안내",
+        "detail": false,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "이용 안내",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/469644f63481c7",
+            "text": "참여 안내",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "이용 안내",
+              "nearby": "참여 안내",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": false
+            }
+          }
+        ],
+        "fingerprint": "8c30781f1a2a5bd478ffce4e7766918d056d6c4d795ef55df4497e959bb0fb22",
+        "status": 200,
+        "bytes": 437
+      }
+    },
+    "http://dev-101.fixture.test/5417ffd5094504": {
+      "status": 200,
+      "profile": {
+        "title": "이용 안내",
+        "detail": false,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "이용 안내",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/3cc265ac138669",
+            "text": "참여 안내",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "이용 안내",
+              "nearby": "참여 안내",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": false
+            }
+          }
+        ],
+        "fingerprint": "8c30781f1a2a5bd478ffce4e7766918d056d6c4d795ef55df4497e959bb0fb22",
+        "status": 200,
+        "bytes": 437
+      }
+    },
+    "http://dev-101.fixture.test/e52b2f8cc1cf8f": {
+      "status": 200,
+      "profile": {
+        "title": "주민 의견 게시판",
+        "detail": false,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/87fea1960d666d",
+            "text": "생활 자료 1",
+            "content_scope": true,
+            "group": "main>article>ul>li>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 1",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/8897886aa617c9",
+            "text": "생활 자료 2",
+            "content_scope": true,
+            "group": "main>article>ul>li>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 2",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/4abc82b762563e",
+            "text": "생활 자료 3",
+            "content_scope": true,
+            "group": "main>article>ul>li>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 3",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/bbe9c8c168fc51",
+            "text": "생활 자료 4",
+            "content_scope": true,
+            "group": "main>article>ul>li>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 4",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/67f09e1dcc5b2f",
+            "text": "다음 목록",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "다음 목록",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          }
+        ],
+        "fingerprint": "de3e41cd4036cd399a28089ff2661b4cf56458f3644015663be48dfbd5647e68",
+        "status": 200,
+        "bytes": 803
+      }
+    },
+    "http://dev-101.fixture.test/67f09e1dcc5b2f": {
+      "status": 200,
+      "profile": {
+        "title": "주민 의견 게시판",
+        "detail": false,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/3bec0c85ab054d",
+            "text": "생활 자료 5",
+            "content_scope": true,
+            "group": "main>article>ul>li>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 5",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/8dd83c491c4fa8",
+            "text": "생활 자료 6",
+            "content_scope": true,
+            "group": "main>article>ul>li>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 6",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/f47876389c4b9e",
+            "text": "생활 자료 7",
+            "content_scope": true,
+            "group": "main>article>ul>li>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 7",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/e3d5207b948dac",
+            "text": "생활 자료 8",
+            "content_scope": true,
+            "group": "main>article>ul>li>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 8",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/78c266abc8b9a5",
+            "text": "다음 목록",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "다음 목록",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          }
+        ],
+        "fingerprint": "de3e41cd4036cd399a28089ff2661b4cf56458f3644015663be48dfbd5647e68",
+        "status": 200,
+        "bytes": 803
+      }
+    },
+    "http://dev-101.fixture.test/78c266abc8b9a5": {
+      "status": 200,
+      "profile": {
+        "title": "주민 의견 게시판",
+        "detail": false,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/ea9fe1f116ddc2",
+            "text": "생활 자료 9",
+            "content_scope": true,
+            "group": "main>article>ul>li>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 9",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/5812fe6bb9fca7",
+            "text": "생활 자료 10",
+            "content_scope": true,
+            "group": "main>article>ul>li>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 10",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/77b622932a5f94",
+            "text": "생활 자료 11",
+            "content_scope": true,
+            "group": "main>article>ul>li>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 11",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/d9e1a4e2c54bcb",
+            "text": "생활 자료 12",
+            "content_scope": true,
+            "group": "main>article>ul>li>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 12",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          }
+        ],
+        "fingerprint": "de3e41cd4036cd399a28089ff2661b4cf56458f3644015663be48dfbd5647e68",
+        "status": 200,
+        "bytes": 736
+      }
+    },
+    "http://dev-101.fixture.test/87fea1960d666d": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 5-1",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 5-1",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/e52b2f8cc1cf8f",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 5-1",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "ba7607700147fa69113c46ef5e5caac1e75d3fec61f6fb5a814c3ee94cce7e55",
+        "status": 200,
+        "bytes": 1191
+      }
+    },
+    "http://dev-101.fixture.test/8897886aa617c9": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 5-2",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 5-2",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/e52b2f8cc1cf8f",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 5-2",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "b3cb91e2c75c36b72258e4445af3d51fa3def9419c37b817fb16119daf0b83a9",
+        "status": 200,
+        "bytes": 967
+      }
+    },
+    "http://dev-101.fixture.test/4abc82b762563e": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 5-3",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 5-3",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/e52b2f8cc1cf8f",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 5-3",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "bdae7c3cba57b4633f79504bfd264d868a7cdb54b66ba1c398ff918c0580bd72",
+        "status": 200,
+        "bytes": 884
+      }
+    },
+    "http://dev-101.fixture.test/bbe9c8c168fc51": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 5-4",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 5-4",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/e52b2f8cc1cf8f",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 5-4",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "7d0fcdeb7753e2c6df487589241e9e1be93f8d2dd425fea662ee46747aedf29c",
+        "status": 200,
+        "bytes": 985
+      }
+    },
+    "http://dev-101.fixture.test/3bec0c85ab054d": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 5-5",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 5-5",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/67f09e1dcc5b2f",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 5-5",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "aa07581cffb864bd9ca15b35da1bc2ed9bff5e9ce86ad75517a73db45c6f9b04",
+        "status": 200,
+        "bytes": 1059
+      }
+    },
+    "http://dev-101.fixture.test/8dd83c491c4fa8": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 5-6",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 5-6",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/67f09e1dcc5b2f",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 5-6",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "0f37725632d9e25a764449249fff8fb30534fd64b7cb816c1c68e01dbd8d3141",
+        "status": 200,
+        "bytes": 1048
+      }
+    },
+    "http://dev-101.fixture.test/f47876389c4b9e": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 5-7",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 5-7",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/67f09e1dcc5b2f",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 5-7",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "61824d7aad5428bc41fa2d2264ba00d2f889ccbe3a0c64cc84457dea2320ce85",
+        "status": 200,
+        "bytes": 979
+      }
+    },
+    "http://dev-101.fixture.test/e3d5207b948dac": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 5-8",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 5-8",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/67f09e1dcc5b2f",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 5-8",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "bb58e677c2488faafc88d4f53c8c18b27e879b243d85bbe4bdede7d1e5350ebe",
+        "status": 200,
+        "bytes": 881
+      }
+    },
+    "http://dev-101.fixture.test/ea9fe1f116ddc2": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 5-9",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 5-9",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/78c266abc8b9a5",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 5-9",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "aa07581cffb864bd9ca15b35da1bc2ed9bff5e9ce86ad75517a73db45c6f9b04",
+        "status": 200,
+        "bytes": 1015
+      }
+    },
+    "http://dev-101.fixture.test/5812fe6bb9fca7": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 5-10",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 5-10",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/78c266abc8b9a5",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 5-10",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "5697539c2d29c2c567b1e11cd2525c6aeb4d17607637f3a29354542035aca5a7",
+        "status": 200,
+        "bytes": 1013
+      }
+    },
+    "http://dev-101.fixture.test/77b622932a5f94": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 5-11",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 5-11",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/78c266abc8b9a5",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 5-11",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "ee8dbc1abbaf14e51b19268c08554e365c40e1058c72b8ace461b49514f075ee",
+        "status": 200,
+        "bytes": 936
+      }
+    },
+    "http://dev-101.fixture.test/d9e1a4e2c54bcb": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 5-12",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 5-12",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/78c266abc8b9a5",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 5-12",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "82185dd401afd56a8e682ae50e559b66b0a74eea2c8eb9566205df7a05d68f67",
+        "status": 200,
+        "bytes": 887
+      }
+    },
+    "http://dev-101.fixture.test/d65e3f765d00ec": {
+      "status": 200,
+      "profile": {
+        "title": "기관 알림",
+        "detail": false,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "기관 알림",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/b2e4e907ca0408",
+            "text": "생활 자료 1",
+            "content_scope": false,
+            "group": "section>ol>li>span>a|0",
+            "context": {
+              "heading": "기관 알림",
+              "nearby": "생활 자료 1",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/b2fec7ac38893b",
+            "text": "생활 자료 2",
+            "content_scope": false,
+            "group": "section>ol>li>span>a|0",
+            "context": {
+              "heading": "기관 알림",
+              "nearby": "생활 자료 2",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/cd4093df7772d1",
+            "text": "생활 자료 3",
+            "content_scope": false,
+            "group": "section>ol>li>span>a|0",
+            "context": {
+              "heading": "기관 알림",
+              "nearby": "생활 자료 3",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/65b974f42c67ce",
+            "text": "생활 자료 4",
+            "content_scope": false,
+            "group": "section>ol>li>span>a|0",
+            "context": {
+              "heading": "기관 알림",
+              "nearby": "생활 자료 4",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/4a7b98ff28cd7b",
+            "text": "다음 목록",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "기관 알림",
+              "nearby": "다음 목록",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          }
+        ],
+        "fingerprint": "b5c8485d89ae89e01ecc14febe210ae3eb3ca35b5a8337f8cfb5095a43dc3cd7",
+        "status": 200,
+        "bytes": 814
+      }
+    },
+    "http://dev-101.fixture.test/4a7b98ff28cd7b": {
+      "status": 200,
+      "profile": {
+        "title": "기관 알림",
+        "detail": false,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "기관 알림",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/72a1521f5cb8ca",
+            "text": "생활 자료 5",
+            "content_scope": false,
+            "group": "section>ol>li>span>a|0",
+            "context": {
+              "heading": "기관 알림",
+              "nearby": "생활 자료 5",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/6bfe9012c7a36d",
+            "text": "생활 자료 6",
+            "content_scope": false,
+            "group": "section>ol>li>span>a|0",
+            "context": {
+              "heading": "기관 알림",
+              "nearby": "생활 자료 6",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/8b466941c5e100",
+            "text": "생활 자료 7",
+            "content_scope": false,
+            "group": "section>ol>li>span>a|0",
+            "context": {
+              "heading": "기관 알림",
+              "nearby": "생활 자료 7",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/070d03f1515780",
+            "text": "생활 자료 8",
+            "content_scope": false,
+            "group": "section>ol>li>span>a|0",
+            "context": {
+              "heading": "기관 알림",
+              "nearby": "생활 자료 8",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/4f012ac2264880",
+            "text": "다음 목록",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "기관 알림",
+              "nearby": "다음 목록",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          }
+        ],
+        "fingerprint": "b5c8485d89ae89e01ecc14febe210ae3eb3ca35b5a8337f8cfb5095a43dc3cd7",
+        "status": 200,
+        "bytes": 814
+      }
+    },
+    "http://dev-101.fixture.test/4f012ac2264880": {
+      "status": 200,
+      "profile": {
+        "title": "기관 알림",
+        "detail": false,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "기관 알림",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/97f815cbf57494",
+            "text": "생활 자료 9",
+            "content_scope": false,
+            "group": "section>ol>li>span>a|0",
+            "context": {
+              "heading": "기관 알림",
+              "nearby": "생활 자료 9",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/3a885ee8df5a9a",
+            "text": "생활 자료 10",
+            "content_scope": false,
+            "group": "section>ol>li>span>a|0",
+            "context": {
+              "heading": "기관 알림",
+              "nearby": "생활 자료 10",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/2d2564a7c8c082",
+            "text": "생활 자료 11",
+            "content_scope": false,
+            "group": "section>ol>li>span>a|0",
+            "context": {
+              "heading": "기관 알림",
+              "nearby": "생활 자료 11",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/3b90889020ddfa",
+            "text": "생활 자료 12",
+            "content_scope": false,
+            "group": "section>ol>li>span>a|0",
+            "context": {
+              "heading": "기관 알림",
+              "nearby": "생활 자료 12",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          }
+        ],
+        "fingerprint": "b5c8485d89ae89e01ecc14febe210ae3eb3ca35b5a8337f8cfb5095a43dc3cd7",
+        "status": 200,
+        "bytes": 747
+      }
+    },
+    "http://dev-101.fixture.test/b2e4e907ca0408": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 6-1",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 6-1",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/d65e3f765d00ec",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 6-1",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "90efa21624f66ad8d754d40e905e041098b938ff3a2ff1a5081e0d6f4232662c",
+        "status": 200,
+        "bytes": 1140
+      }
+    },
+    "http://dev-101.fixture.test/b2fec7ac38893b": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 6-2",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 6-2",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/d65e3f765d00ec",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 6-2",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "4c330af5c2b22a19ca9ddd6e686f36c69543334c6c643925f4f757026a7fc7a3",
+        "status": 200,
+        "bytes": 875
+      }
+    },
+    "http://dev-101.fixture.test/cd4093df7772d1": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 6-3",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 6-3",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/d65e3f765d00ec",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 6-3",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "b69e47508963e308cc9f0d83eb57baedc694920f2a637d3a8730f82413da9881",
+        "status": 200,
+        "bytes": 893
+      }
+    },
+    "http://dev-101.fixture.test/65b974f42c67ce": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 6-4",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 6-4",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/d65e3f765d00ec",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 6-4",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "6709ee7af6019882aa291fe4a131f358fe25c03c1ca37f01f97353f362d792ee",
+        "status": 200,
+        "bytes": 1189
+      }
+    },
+    "http://dev-101.fixture.test/72a1521f5cb8ca": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 6-5",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 6-5",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/4a7b98ff28cd7b",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 6-5",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "8809539e0fae34942aedb47b4a717324969ff9e02ea1737d8ced4a44a4233ef6",
+        "status": 200,
+        "bytes": 1094
+      }
+    },
+    "http://dev-101.fixture.test/6bfe9012c7a36d": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 6-6",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 6-6",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/4a7b98ff28cd7b",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 6-6",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "c8fbf68b13b0ad6cc79f020fff627de7a9a4bdba7578014181d0a1fc17c69e78",
+        "status": 200,
+        "bytes": 889
+      }
+    },
+    "http://dev-101.fixture.test/8b466941c5e100": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 6-7",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 6-7",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/4a7b98ff28cd7b",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 6-7",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "039f6d0cd963c3d6b8acaa016d52762a5be671153f08ec2681724f5c40cf11e3",
+        "status": 200,
+        "bytes": 927
+      }
+    },
+    "http://dev-101.fixture.test/070d03f1515780": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 6-8",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 6-8",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/4a7b98ff28cd7b",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 6-8",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "21ef8f79cb06c38e2a286d4019a90cd8339aed120f26ec8d5130bdc16a17c286",
+        "status": 200,
+        "bytes": 1023
+      }
+    },
+    "http://dev-101.fixture.test/97f815cbf57494": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 6-9",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 6-9",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/4f012ac2264880",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 6-9",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "8809539e0fae34942aedb47b4a717324969ff9e02ea1737d8ced4a44a4233ef6",
+        "status": 200,
+        "bytes": 1045
+      }
+    },
+    "http://dev-101.fixture.test/3a885ee8df5a9a": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 6-10",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 6-10",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/4f012ac2264880",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 6-10",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "07073320819da21d3880b767c5eb21fc25a492f047affc12a176134a69f8380f",
+        "status": 200,
+        "bytes": 977
+      }
+    },
+    "http://dev-101.fixture.test/2d2564a7c8c082": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 6-11",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 6-11",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/4f012ac2264880",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 6-11",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "bb58e677c2488faafc88d4f53c8c18b27e879b243d85bbe4bdede7d1e5350ebe",
+        "status": 200,
+        "bytes": 881
+      }
+    },
+    "http://dev-101.fixture.test/3b90889020ddfa": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 6-12",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 6-12",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/4f012ac2264880",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 6-12",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "67118285ff473bb7920471e1089ac533d67e5a9d0973e33b018c947b22d0b3c4",
+        "status": 200,
+        "bytes": 1018
+      }
+    },
+    "http://dev-101.fixture.test/ff21ebca65c4af": {
+      "status": 200,
+      "profile": {
+        "title": "주민 의견 게시판",
+        "detail": false,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/73d4e0f359146e",
+            "text": "게시글 보기 1",
+            "content_scope": false,
+            "group": "body>main>div[list]>div[listitem]>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 1",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/16fe0f3b23097d",
+            "text": "게시글 보기 2",
+            "content_scope": false,
+            "group": "body>main>div[list]>div[listitem]>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 2",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/0e7f909c8ad743",
+            "text": "게시글 보기 3",
+            "content_scope": false,
+            "group": "body>main>div[list]>div[listitem]>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 3",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/87e402569f91cc",
+            "text": "게시글 보기 4",
+            "content_scope": false,
+            "group": "body>main>div[list]>div[listitem]>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 4",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/11802667ad6fd6",
+            "text": "다음 목록",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "다음 목록",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          }
+        ],
+        "fingerprint": "de3e41cd4036cd399a28089ff2661b4cf56458f3644015663be48dfbd5647e68",
+        "status": 200,
+        "bytes": 882
+      }
+    },
+    "http://dev-101.fixture.test/11802667ad6fd6": {
+      "status": 200,
+      "profile": {
+        "title": "주민 의견 게시판",
+        "detail": false,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/6d0e72d9a55c9c",
+            "text": "게시글 보기 5",
+            "content_scope": false,
+            "group": "body>main>div[list]>div[listitem]>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 5",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/d3df76181261c8",
+            "text": "게시글 보기 6",
+            "content_scope": false,
+            "group": "body>main>div[list]>div[listitem]>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 6",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/c34d48fd5baad9",
+            "text": "게시글 보기 7",
+            "content_scope": false,
+            "group": "body>main>div[list]>div[listitem]>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 7",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/87902ff2b046a3",
+            "text": "게시글 보기 8",
+            "content_scope": false,
+            "group": "body>main>div[list]>div[listitem]>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 8",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/b314fb4e55a0d0",
+            "text": "다음 목록",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "다음 목록",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          }
+        ],
+        "fingerprint": "de3e41cd4036cd399a28089ff2661b4cf56458f3644015663be48dfbd5647e68",
+        "status": 200,
+        "bytes": 882
+      }
+    },
+    "http://dev-101.fixture.test/b314fb4e55a0d0": {
+      "status": 200,
+      "profile": {
+        "title": "주민 의견 게시판",
+        "detail": false,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/f54aa8ffb8b2fb",
+            "text": "게시글 보기 9",
+            "content_scope": false,
+            "group": "body>main>div[list]>div[listitem]>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 9",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/9bcfbfc6d4368d",
+            "text": "게시글 보기 10",
+            "content_scope": false,
+            "group": "body>main>div[list]>div[listitem]>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 10",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/232dc72677a93e",
+            "text": "게시글 보기 11",
+            "content_scope": false,
+            "group": "body>main>div[list]>div[listitem]>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 11",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/d061f97d7cf0ec",
+            "text": "게시글 보기 12",
+            "content_scope": false,
+            "group": "body>main>div[list]>div[listitem]>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "게시글 보기 12",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          }
+        ],
+        "fingerprint": "de3e41cd4036cd399a28089ff2661b4cf56458f3644015663be48dfbd5647e68",
+        "status": 200,
+        "bytes": 815
+      }
+    },
+    "http://dev-101.fixture.test/73d4e0f359146e": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 7-1",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 7-1",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/ff21ebca65c4af",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 7-1",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "90efa21624f66ad8d754d40e905e041098b938ff3a2ff1a5081e0d6f4232662c",
+        "status": 200,
+        "bytes": 983
+      }
+    },
+    "http://dev-101.fixture.test/16fe0f3b23097d": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 7-2",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 7-2",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/ff21ebca65c4af",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 7-2",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "45ec6884e998c9be8a4a75116749729d9baac2bbbec1524cc56015ff78d706d5",
+        "status": 200,
+        "bytes": 937
+      }
+    },
+    "http://dev-101.fixture.test/0e7f909c8ad743": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 7-3",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 7-3",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/ff21ebca65c4af",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 7-3",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "0d3527965fb7074cadca0a5d45c993a74ced2fa629d5e4a80f11fbe81e33d070",
+        "status": 200,
+        "bytes": 1013
+      }
+    },
+    "http://dev-101.fixture.test/87e402569f91cc": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 7-4",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 7-4",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/ff21ebca65c4af",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 7-4",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "3a7e61c7696c597d12ebbde453f591f4d51997e5c9666a5f4f8edc119895523f",
+        "status": 200,
+        "bytes": 1138
+      }
+    },
+    "http://dev-101.fixture.test/6d0e72d9a55c9c": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 7-5",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 7-5",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/11802667ad6fd6",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 7-5",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "8809539e0fae34942aedb47b4a717324969ff9e02ea1737d8ced4a44a4233ef6",
+        "status": 200,
+        "bytes": 937
+      }
+    },
+    "http://dev-101.fixture.test/d3df76181261c8": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 7-6",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 7-6",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/11802667ad6fd6",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 7-6",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "22b6a54cc5a77170a5237a0e2740130d00b3d808edb8dc9987d5a6fb84f41f68",
+        "status": 200,
+        "bytes": 888
+      }
+    },
+    "http://dev-101.fixture.test/c34d48fd5baad9": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 7-7",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 7-7",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/11802667ad6fd6",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 7-7",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "45b28210e73262d5486de0a3e322ef83d5d170e0dd44862eba45464fb6d24523",
+        "status": 200,
+        "bytes": 1189
+      }
+    },
+    "http://dev-101.fixture.test/87902ff2b046a3": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 7-8",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 7-8",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/11802667ad6fd6",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 7-8",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "3292866646358e3c9362692a93635406c42782ea2b172db065d3641212e6f969",
+        "status": 200,
+        "bytes": 1087
+      }
+    },
+    "http://dev-101.fixture.test/f54aa8ffb8b2fb": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 7-9",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 7-9",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/b314fb4e55a0d0",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 7-9",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "8809539e0fae34942aedb47b4a717324969ff9e02ea1737d8ced4a44a4233ef6",
+        "status": 200,
+        "bytes": 891
+      }
+    },
+    "http://dev-101.fixture.test/9bcfbfc6d4368d": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 7-10",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 7-10",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/b314fb4e55a0d0",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 7-10",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "3f31d69068278cf2fa5bbb722004a9d9d89282591d06c2004a3cadb78a0ec06f",
+        "status": 200,
+        "bytes": 981
+      }
+    },
+    "http://dev-101.fixture.test/232dc72677a93e": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 7-11",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 7-11",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/b314fb4e55a0d0",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 7-11",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "ec29fbba2b2e4e10cbac0ec498992cc5e1d00753960319abf2e3cc5314697d74",
+        "status": 200,
+        "bytes": 1060
+      }
+    },
+    "http://dev-101.fixture.test/d061f97d7cf0ec": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 7-12",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 7-12",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/b314fb4e55a0d0",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 7-12",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "d57566a74acac6a715da426b34a1f61aaa192c8e644458b694b6e630d562e0a8",
+        "status": 200,
+        "bytes": 1051
+      }
+    },
+    "http://dev-101.fixture.test/93d1fe272a9ba2": {
+      "status": 200,
+      "profile": {
+        "title": "주민 의견 게시판",
+        "detail": false,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/68ad2bc5b4218d",
+            "text": "생활 자료 1",
+            "content_scope": true,
+            "group": "table>tbody>tr>td>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 1",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/cbd402195c81d9",
+            "text": "생활 자료 2",
+            "content_scope": true,
+            "group": "table>tbody>tr>td>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 2",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/43a2208dfa6e90",
+            "text": "생활 자료 3",
+            "content_scope": true,
+            "group": "table>tbody>tr>td>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 3",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/5f9f187d6f0337",
+            "text": "생활 자료 4",
+            "content_scope": true,
+            "group": "table>tbody>tr>td>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 4",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/2c1aec95727d14",
+            "text": "다음 목록",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "다음 목록",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          }
+        ],
+        "fingerprint": "de3e41cd4036cd399a28089ff2661b4cf56458f3644015663be48dfbd5647e68",
+        "status": 200,
+        "bytes": 841
+      }
+    },
+    "http://dev-101.fixture.test/2c1aec95727d14": {
+      "status": 200,
+      "profile": {
+        "title": "주민 의견 게시판",
+        "detail": false,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/7a87ba5244362a",
+            "text": "생활 자료 5",
+            "content_scope": true,
+            "group": "table>tbody>tr>td>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 5",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/8e434e5a4ef86a",
+            "text": "생활 자료 6",
+            "content_scope": true,
+            "group": "table>tbody>tr>td>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 6",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/74c45103690ef8",
+            "text": "생활 자료 7",
+            "content_scope": true,
+            "group": "table>tbody>tr>td>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 7",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/3c7b8661e29565",
+            "text": "생활 자료 8",
+            "content_scope": true,
+            "group": "table>tbody>tr>td>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 8",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/17c9749f03fe13",
+            "text": "다음 목록",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "다음 목록",
+              "siblings": 1,
+              "outlinks": 6,
+              "parent_detail": false
+            }
+          }
+        ],
+        "fingerprint": "de3e41cd4036cd399a28089ff2661b4cf56458f3644015663be48dfbd5647e68",
+        "status": 200,
+        "bytes": 841
+      }
+    },
+    "http://dev-101.fixture.test/17c9749f03fe13": {
+      "status": 200,
+      "profile": {
+        "title": "주민 의견 게시판",
+        "detail": false,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/afb8d5a8a17d67",
+            "text": "생활 자료 9",
+            "content_scope": true,
+            "group": "table>tbody>tr>td>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 9",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/c5cc17acca78f1",
+            "text": "생활 자료 10",
+            "content_scope": true,
+            "group": "table>tbody>tr>td>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 10",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/5637e2c0e075d1",
+            "text": "생활 자료 11",
+            "content_scope": true,
+            "group": "table>tbody>tr>td>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 11",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/25474355113259",
+            "text": "생활 자료 12",
+            "content_scope": true,
+            "group": "table>tbody>tr>td>a|1",
+            "context": {
+              "heading": "주민 의견 게시판",
+              "nearby": "생활 자료 12",
+              "siblings": 1,
+              "outlinks": 5,
+              "parent_detail": false
+            }
+          }
+        ],
+        "fingerprint": "de3e41cd4036cd399a28089ff2661b4cf56458f3644015663be48dfbd5647e68",
+        "status": 200,
+        "bytes": 774
+      }
+    },
+    "http://dev-101.fixture.test/68ad2bc5b4218d": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 8-1",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 8-1",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/93d1fe272a9ba2",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 8-1",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "d7ffa1215d26f9dd9d993a5e82a1bddba51d352acd6ea3554e2c9abbef322767",
+        "status": 200,
+        "bytes": 929
+      }
+    },
+    "http://dev-101.fixture.test/cbd402195c81d9": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 8-2",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 8-2",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/93d1fe272a9ba2",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 8-2",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "ee7075b489d14b8693323550fe57786926cda0d746b37fa3e53dc1b9a5b84a54",
+        "status": 200,
+        "bytes": 999
+      }
+    },
+    "http://dev-101.fixture.test/43a2208dfa6e90": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 8-3",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 8-3",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/93d1fe272a9ba2",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 8-3",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "06b9566cadef54aa4b8ffd4333939c640a48409c5bb922ce5fad5c9a62ee2141",
+        "status": 200,
+        "bytes": 1048
+      }
+    },
+    "http://dev-101.fixture.test/5f9f187d6f0337": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 8-4",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 8-4",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/93d1fe272a9ba2",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 8-4",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "d404d0c4328b4a0b4da0cdbb172dbdcdcde2f453d5328188437d516f4a3f51d6",
+        "status": 200,
+        "bytes": 979
+      }
+    },
+    "http://dev-101.fixture.test/7a87ba5244362a": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 8-5",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 8-5",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/2c1aec95727d14",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 8-5",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "cbadfe49845697d5dd33f291afb700352ed60e27b88ba1270ebaaa860779e9ef",
+        "status": 200,
+        "bytes": 939
+      }
+    },
+    "http://dev-101.fixture.test/8e434e5a4ef86a": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 8-6",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 8-6",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/2c1aec95727d14",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 8-6",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "f25930ffe12b78c70ebd1361438f05687cb89d25eab85c18cddd32a447832d18",
+        "status": 200,
+        "bytes": 1013
+      }
+    },
+    "http://dev-101.fixture.test/74c45103690ef8": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 8-7",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 8-7",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/2c1aec95727d14",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 8-7",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "dff68c5cf2ebc18b96347c314b6740453c25ac59e4b2ac488c4b868b06d58dde",
+        "status": 200,
+        "bytes": 1138
+      }
+    },
+    "http://dev-101.fixture.test/3c7b8661e29565": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 8-8",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 8-8",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/2c1aec95727d14",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 8-8",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "4c330af5c2b22a19ca9ddd6e686f36c69543334c6c643925f4f757026a7fc7a3",
+        "status": 200,
+        "bytes": 875
+      }
+    },
+    "http://dev-101.fixture.test/afb8d5a8a17d67": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 8-9",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 8-9",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/17c9749f03fe13",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 8-9",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "cbadfe49845697d5dd33f291afb700352ed60e27b88ba1270ebaaa860779e9ef",
+        "status": 200,
+        "bytes": 895
+      }
+    },
+    "http://dev-101.fixture.test/c5cc17acca78f1": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 8-10",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 8-10",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/17c9749f03fe13",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 8-10",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "9d01be47187e55c2dfd2affdc7dd5c867e716dcc8164aefdb63d8415ae5bbb10",
+        "status": 200,
+        "bytes": 1190
+      }
+    },
+    "http://dev-101.fixture.test/5637e2c0e075d1": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 8-11",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 8-11",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/17c9749f03fe13",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 8-11",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "fba53ac92224529720f045e0016f49990d1c9186ec6c33d68da100b68445d947",
+        "status": 200,
+        "bytes": 1093
+      }
+    },
+    "http://dev-101.fixture.test/25474355113259": {
+      "status": 200,
+      "profile": {
+        "title": "생활 기록 8-12",
+        "detail": true,
+        "links": [
+          {
+            "url": "http://dev-101.fixture.test/",
+            "text": "포털 홈",
+            "content_scope": false,
+            "group": "html>body>header>a|0",
+            "context": {
+              "heading": "생활 기록 8-12",
+              "nearby": "포털 홈",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          },
+          {
+            "url": "http://dev-101.fixture.test/17c9749f03fe13",
+            "text": "목록으로",
+            "content_scope": false,
+            "group": "html>body>main>nav>a|0",
+            "context": {
+              "heading": "생활 기록 8-12",
+              "nearby": "목록으로",
+              "siblings": 1,
+              "outlinks": 2,
+              "parent_detail": true
+            }
+          }
+        ],
+        "fingerprint": "fa527a14b7dc9939c63149424cb8a9b9b836cbe1aa810c535d63a00aec1162be",
+        "status": 200,
+        "bytes": 894
+      }
+    }
+  },
+  "budgets": [
+    20,
+    50,
+    100
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "kind": "data_integrity_only_not_model_test",
+  "rows": 2240,
+  "ads": 1120,
+  "non_ad_controls": 1120,
+  "primary_ad_counts": {
+    "HOMOGLYPH": 274,
+    "OFFSCREEN": 274,
+    "TRANSPARENT": 274,
+    "JAMO": 274,
+    "PLAIN": 24
+  },
+  "observed_ad_technique_counts": {
+    "HOMOGLYPH": 354,
+    "OFFSCREEN": 354,
+    "TRANSPARENT": 354,
+    "JAMO": 354
+  },
+  "ad_multi_technique": 240,
+  "normal_with_observed_technique": 696,
+  "homoglyph_subtypes": {
+    "fullwidth-existing-span": 277,
+    "mixed-cyrillic-existing-span": 261,
+    "digit-O-to-0": 31
+  },
+  "homoglyph_source_spans": {
+    "DM": 158,
+    "VIP": 98,
+    "LIVE": 25,
+    "POKER": 13,
+    "Telegram": 155,
+    "ID": 28,
+    "BONUS": 19,
+    "CASINO": 28,
+    "BET": 23,
+    "SLOT": 16,
+    "OPEN": 6
+  },
+  "revision_strata": {
+    "explicit_basic_control": 1200,
+    "rewritten_scenario": 800,
+    "publicweb_supplement": 240
+  },
+  "jamo_subtypes": {
+    "nfd": 141,
+    "partial-syllables": 150,
+    "compat-spaces": 131,
+    "compat": 151
+  },
+  "style_subtypes": {
+    "font-one": 150,
+    "transparent-color": 143,
+    "negative-left": 137,
+    "opacity-zero": 133,
+    "font-zero": 138,
+    "matching-solid-color": 146,
+    "white-on-white": 154,
+    "display-none": 147
+  },
+  "slots": {
+    "comment": 620,
+    "reply": 200,
+    "body": 720,
+    "link": 200,
+    "title": 300,
+    "author": 100,
+    "table": 100
+  },
+  "iframes": 200,
+  "dynamic": 200,
+  "inline_split": 460,
+  "main_pages": 124,
+  "exact_text_context_duplicates": 96,
+  "exact_text_context_style_duplicates": 0,
+  "independent_human_review": false,
+  "model_calls": 0,
+  "evaluation_runs": 0,
+  "training_runs": 0,
+  "source_files_unchanged": true,
+  "html_target_texts_match": true,
+  "unicode_offsets_match": true,
+  "limitations": [
+    "기법은 실제 CSS 관찰이 아닌 요강 기반 합성",
+    "일부 원자료는 검색 결과만 확인",
+    "동일 작성자와 반복 문장군 편향 존재",
+    "1:1은 현실 유병률이 아닌 통제 비율",
+    "모델용 토큰 길이/수집 누락/정확도/지연은 미측정"
+  ]
+}

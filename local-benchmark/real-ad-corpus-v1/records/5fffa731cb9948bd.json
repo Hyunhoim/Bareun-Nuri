@@ -1,0 +1,40 @@
+{
+  "id": "5fffa731cb9948bd",
+  "source": {
+    "id": "5fffa731cb9948bd",
+    "url": "https://gen.go.kr/child/xboard/board.php?mode=view&number=16&tbnum=6&sCat=0&page=3&keyset=&searchword=",
+    "source_scope": "government_board",
+    "captured_at": "2026-09-28T23:03:00.520361+00:00",
+    "rights_status": "unverified_third_party_content",
+    "human_reviewed": false,
+    "raw_file": "raw/5fffa731cb9948bd.html",
+    "byte_file": "raw/5fffa731cb9948bd.bin",
+    "response_sha256": "650c1e7e51f16bd4a15e4eda03f8d82a706b3ee64dda11e9d24687bbcadb5ee9",
+    "decoded_sha256": "650c1e7e51f16bd4a15e4eda03f8d82a706b3ee64dda11e9d24687bbcadb5ee9",
+    "encoding": "utf-8",
+    "status": "captured",
+    "page_title": "이용안내 - 배너모음 (게시물 내용 보기)"
+  },
+  "title": "광주광역시교육청",
+  "raw_text": "광주광역시교육청",
+  "body_xpath": "/html/body/div[1]/div[3]/div/div[3]/div[1]/table[1]/tbody/tr[5]/td",
+  "title_xpath": "/html/body/div[1]/div[3]/div/div[3]/div[1]/table[1]/tbody/tr[1]/td",
+  "source_kind": "real_web_post",
+  "extraction": "static_HTML_lxml_itertext",
+  "comments_status": "not_extracted_or_labeled",
+  "technique_observed": null,
+  "body_sha256": "0d29710ce17b7b05a20dbef571b725c56ef30377fde2e46ccc409c8de6b9238f",
+  "label": null,
+  "human_reviewed": false,
+  "outgoing_links": [
+    {
+      "text": "",
+      "href": "#none;"
+    },
+    {
+      "text": "",
+      "href": "#none;"
+    }
+  ],
+  "notes": "No CSS technique claim from static text; listed neighbours are excluded from owned context."
+}

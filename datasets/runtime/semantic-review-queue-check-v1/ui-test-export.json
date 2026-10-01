@@ -1,0 +1,441 @@
+{
+  "dataset": "semantic-review-queue-v1",
+  "input_sha256": "bfdce88df2147150ca9d8699cd4fb36bc1e1fadfc6aa9f8933846ebd6caa444b",
+  "reviewer": "user",
+  "answers": [
+    {
+      "id": "6272d03a324a11b099c34dc9",
+      "purpose": "observed",
+      "label": "uncertain",
+      "reason": "UI TEST ONLY - NOT HUMAN GOLD",
+      "reviewed": true
+    },
+    {
+      "id": "88b6675099a3f45421ecf9a8",
+      "purpose": "observed",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "7c7b54bae4dde493fcf1bb51",
+      "purpose": "observed",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "0c29aa9a76ffd60e676fda96",
+      "purpose": "observed",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "c71e67b7d7f643bf3ff7c9ad",
+      "purpose": "observed",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "027145610423fa6308b143b7",
+      "purpose": "observed",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "02d02ff8721e20372bc6831a",
+      "purpose": "observed",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "30011e9f117f781b0cc2bd2b",
+      "purpose": "observed",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "60c30f636b6a42e249c7f37b",
+      "purpose": "observed",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "e3ce8204e53cdcd1ba833c24",
+      "purpose": "observed",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "be380b13df54fd80aee6a637",
+      "purpose": "observed",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "2c15fe84deca852dca296c00",
+      "purpose": "observed",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "42cecd369a6d382c210a1609",
+      "purpose": "observed",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "ee42330008226a5219f3d865",
+      "purpose": "observed",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "c74f358093e210966cddfd7f",
+      "purpose": "observed",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "9310e2114318a39beed3dd73",
+      "purpose": "observed",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "2ac677b7ac6e8151c25e2909",
+      "purpose": "observed",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "1c2c52f8b50869bde6784133",
+      "purpose": "observed",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "c8b57f08a85898738d5647c0",
+      "purpose": "observed",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "cc06d2f1716f141052a7d5c1",
+      "purpose": "observed",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "1c9d23a0d8c6dcd3721ab8ed",
+      "purpose": "observed",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "6e6edbc61fa29e52382e5173",
+      "purpose": "observed",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "669f90921f908887156a8a78",
+      "purpose": "observed",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "30a9e6f2f65447e0624ec747",
+      "purpose": "observed",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "4f0e961237df0d52e6636cbb",
+      "purpose": "observed",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "5b7604a5c42ee4390d38cc61",
+      "purpose": "observed",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "61e2961ad9461c75e15c6ae9",
+      "purpose": "observed",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "fbad654862d73a872c410a30",
+      "purpose": "observed",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "c629b8017b39b8ca7056f209",
+      "purpose": "observed",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "c073ae1f7b278797d1e0175a",
+      "purpose": "observed",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "de06422f7368cb10f5fe475d",
+      "purpose": "observed",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "eec648f30e81254080e9aaa2",
+      "purpose": "training_candidate",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "793bc7fcd2ac98631d20e796",
+      "purpose": "training_candidate",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "3496fb9570a14566caf3db30",
+      "purpose": "training_candidate",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "625d37d5751d0f9753a98036",
+      "purpose": "training_candidate",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "addc663d719a5b37696e5f85",
+      "purpose": "training_candidate",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "c91785b06eb8a93f01dd6375",
+      "purpose": "training_candidate",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "215f8a14a1ad4e5842ff15ed",
+      "purpose": "training_candidate",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "f556c156538678eac93f4f7c",
+      "purpose": "training_candidate",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "278a75c083da588e84e99509",
+      "purpose": "training_candidate",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "0a120544633db1afb66c67b3",
+      "purpose": "training_candidate",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "28b531856a1496cb406b7a30",
+      "purpose": "training_candidate",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "fc6036203aa0877c47711bdf",
+      "purpose": "training_candidate",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "de30a96eca90438be8c803af",
+      "purpose": "training_candidate",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "d3a8663da3bde94aaf964678",
+      "purpose": "training_candidate",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "bb20743745b8f8c55186d70c",
+      "purpose": "training_candidate",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "149e717540063d2c1fc26971",
+      "purpose": "training_candidate",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "8a6ad9b736eea40e253ef5f7",
+      "purpose": "training_candidate",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "514a9d412a1de7dc4a385238",
+      "purpose": "training_candidate",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "59317d1b348fc6a35c4c3c74",
+      "purpose": "training_candidate",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "9634c8194d989cc565ba07c9",
+      "purpose": "training_candidate",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "ba9d5eab0634fbec6dfb44a1",
+      "purpose": "training_candidate",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "da343c057902f7d1173d3d75",
+      "purpose": "training_candidate",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "592c14a72a569cc65bef6c5b",
+      "purpose": "training_candidate",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "c774542dcc722907f0eca61a",
+      "purpose": "training_candidate",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "c3ddaf54ceb9953bf6fa7528",
+      "purpose": "training_candidate",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "37869d613da0098487244e37",
+      "purpose": "training_candidate",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "182e364e82163d8c994a6f67",
+      "purpose": "training_candidate",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "a5241e7f3aa1bde60494b761",
+      "purpose": "training_candidate",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "4a1ac3975aa378db8b1273ae",
+      "purpose": "training_candidate",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "138a7d80c6027e9c066723e4",
+      "purpose": "training_candidate",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    },
+    {
+      "id": "b89fd34ff3506ada9530b480",
+      "purpose": "training_candidate",
+      "label": "",
+      "reason": "",
+      "reviewed": false
+    }
+  ]
+}

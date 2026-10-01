@@ -1,0 +1,45 @@
+{
+  "rows": 12,
+  "groups": 7,
+  "provisional_labels": {
+    "0": 6,
+    "1": 4,
+    "None": 2
+  },
+  "guard_counts": {
+    "klue": 1,
+    "kc": 1,
+    "ko": 1
+  },
+  "host_overlaps": {
+    "train": 0,
+    "development": 0,
+    "observed": 0,
+    "previous_supplement": 0
+  },
+  "exact_overlaps": {
+    "train": 0,
+    "development": 0,
+    "observed": 0,
+    "previous_supplement": 0
+  },
+  "max_char5_jaccard": 0.04059040590405904,
+  "model_predictions": 0,
+  "api_calls": 0,
+  "eligible_for_training": 0,
+  "new_human_labels": 0,
+  "source_hashes": {
+    ".runtime\\semantic-real-supplement2-v1\\inputs.json": "788141b967dd67ce0807b325ea4366b1f22c409e97cd1aae02250819670f3743",
+    ".runtime\\semantic-real-supplement2-extra-v1\\inputs.json": "567fa46e2bdf7f0ef4281b6aa416a537fd32e5b28f8736fb1443c76ac6420e4e"
+  },
+  "archived_plan": [
+    ".runtime\\semantic-real-supplement2-v1\\initial-plan.md"
+  ],
+  "script_sha256": "4280793532778a7ef28f3bb20dd75ac40df81a3caf9e9ddd47ff9c4cdef5f0ba",
+  "outputs": {
+    "candidates.jsonl": "b9d7eaa0e3afc6ece38c873fb7c575ccdc71400e7d3d28c099d115af3398016e",
+    "human-answers-template.json": "785cce6b82e4ce9a1d5b9a89d114d6a2cc1fb007dd88cc72f40f5d5dbdef0bbb",
+    "review-inputs.json": "99c54a3965c62db56f38a47693bf3f7c93035094512a6af9a0c44385a5f200c3",
+    "review.html": "1588e0b01abb6ec9dc03778a3a870b5b3349070c3b16a8838c5f4d9b20628f9c"
+  }
+}

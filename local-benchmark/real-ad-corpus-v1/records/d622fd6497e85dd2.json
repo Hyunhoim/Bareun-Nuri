@@ -1,0 +1,36 @@
+{
+  "id": "d622fd6497e85dd2",
+  "source": {
+    "id": "d622fd6497e85dd2",
+    "url": "https://hrd.jeonbuk.go.kr/board/view.training?boardId=BBS_0000016&menuCd=DOM_000000103001000000&startPage=4&dataSid=13311",
+    "source_scope": "government_board",
+    "captured_at": "2026-09-28T23:08:46.155199+00:00",
+    "rights_status": "unverified_third_party_content",
+    "human_reviewed": false,
+    "raw_file": "raw/d622fd6497e85dd2.html",
+    "byte_file": "raw/d622fd6497e85dd2.bin",
+    "response_sha256": "8da6cbd3b5ebabe74fd2e059cea5d02bda50c3bb53ff0ab77897189c5473e111",
+    "decoded_sha256": "8da6cbd3b5ebabe74fd2e059cea5d02bda50c3bb53ff0ab77897189c5473e111",
+    "encoding": "utf-8",
+    "status": "captured",
+    "page_title": "홈 > 소통마당 > 자유게시판 |상세보기"
+  },
+  "title": "문의드립니다.",
+  "raw_text": "문의드립니다.\nLG인터넷",
+  "body_xpath": "/html/body/div/div[3]/div/div[2]/div[2]/div[3]/div",
+  "title_xpath": "/html/body/div/div[3]/div/div[2]/div[2]/div[3]/dl[1]",
+  "source_kind": "real_web_post",
+  "extraction": "static_HTML_lxml_itertext",
+  "comments_status": "not_extracted_or_labeled",
+  "technique_observed": null,
+  "body_sha256": "85fd900516ab7879d613c6b2ddab82515c6c054f2cf91d366a1873bf2a46b631",
+  "label": null,
+  "human_reviewed": false,
+  "outgoing_links": [
+    {
+      "text": "LG인터넷",
+      "href": "http://interstore.shop/"
+    }
+  ],
+  "notes": "No CSS technique claim from static text; listed neighbours are excluded from owned context."
+}

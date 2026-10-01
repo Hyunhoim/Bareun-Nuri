@@ -1,0 +1,1 @@
+setTimeout(()=>{for(const t of document.querySelectorAll("template")){t.replaceWith(t.content.cloneNode(true));}},120);

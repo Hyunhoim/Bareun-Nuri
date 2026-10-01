@@ -1,0 +1,27 @@
+[
+  {
+    "node_id": "fragment_0_1",
+    "context_source": "target",
+    "evidence_quote": "참여 신청하기",
+    "context_summary": "대상의 서비스 이용 안내",
+    "author_purpose": "solicitation",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "서비스 문맥 확인: 불법대상; 서비스 근거",
+    "service_relation": "불법대상",
+    "target_judgment": {
+      "node_id": "fragment_0_1",
+      "context_source": "target",
+      "evidence_quote": "참여 신청하기",
+      "context_summary": "대상의 서비스 이용 안내",
+      "author_purpose": "solicitation",
+      "is_violation": true,
+      "techniques": [],
+      "observed_techniques": [],
+      "needs_review": false,
+      "reason": "대상의 서비스 이용 안내"
+    }
+  }
+]

@@ -1,0 +1,6656 @@
+{
+  "klue": {
+    "train": {
+      "n": 956,
+      "limit": 256,
+      "max_tokens": 1115,
+      "p50_tokens": 53.0,
+      "p95_tokens": 322,
+      "truncated": 321,
+      "target_truncated": 212,
+      "context_absent": 227,
+      "truncated_ids": [
+        "real-c276a879eb8a17c5",
+        "real-c276a879eb8a17c5-jamo",
+        "real-c276a879eb8a17c5-fullwidth",
+        "real-c276a879eb8a17c5-confusable",
+        "real-c276a879eb8a17c5-zero_width",
+        "real-c276a879eb8a17c5-spaced",
+        "real-ddb877efdb6b2b4d",
+        "real-ddb877efdb6b2b4d-jamo",
+        "real-ddb877efdb6b2b4d-fullwidth",
+        "real-ddb877efdb6b2b4d-zero_width",
+        "real-ddb877efdb6b2b4d-spaced",
+        "real-8eb69cbf73ac878f",
+        "real-8eb69cbf73ac878f-jamo",
+        "real-8eb69cbf73ac878f-fullwidth",
+        "real-8eb69cbf73ac878f-zero_width",
+        "real-8eb69cbf73ac878f-spaced",
+        "real-41eaea6d351f5a20",
+        "real-41eaea6d351f5a20-jamo",
+        "real-41eaea6d351f5a20-fullwidth",
+        "real-41eaea6d351f5a20-confusable",
+        "real-41eaea6d351f5a20-zero_width",
+        "real-41eaea6d351f5a20-spaced",
+        "real-c3980d29f083c6f5",
+        "real-c3980d29f083c6f5-jamo",
+        "real-c3980d29f083c6f5-fullwidth",
+        "real-c3980d29f083c6f5-zero_width",
+        "real-c3980d29f083c6f5-spaced",
+        "real-1611ac49586932a8",
+        "real-1611ac49586932a8-jamo",
+        "real-1611ac49586932a8-zero_width",
+        "real-1611ac49586932a8-spaced",
+        "real-6ea2773f87758901",
+        "real-6ea2773f87758901-jamo",
+        "real-6ea2773f87758901-fullwidth",
+        "real-6ea2773f87758901-confusable",
+        "real-6ea2773f87758901-zero_width",
+        "real-6ea2773f87758901-spaced",
+        "real-c8dd8c73c2e28010",
+        "real-c8dd8c73c2e28010-jamo",
+        "real-c8dd8c73c2e28010-fullwidth",
+        "real-c8dd8c73c2e28010-confusable",
+        "real-c8dd8c73c2e28010-zero_width",
+        "real-c8dd8c73c2e28010-spaced",
+        "real-ad11c3d9bd5ab778",
+        "real-ad11c3d9bd5ab778-jamo",
+        "real-ad11c3d9bd5ab778-fullwidth",
+        "real-ad11c3d9bd5ab778-zero_width",
+        "real-ad11c3d9bd5ab778-spaced",
+        "real-d73c684da131ca08",
+        "real-d73c684da131ca08-jamo",
+        "real-d73c684da131ca08-fullwidth",
+        "real-d73c684da131ca08-zero_width",
+        "real-d73c684da131ca08-spaced",
+        "real-51f9e2b32de44d3f",
+        "real-51f9e2b32de44d3f-jamo",
+        "real-51f9e2b32de44d3f-confusable",
+        "real-51f9e2b32de44d3f-zero_width",
+        "real-51f9e2b32de44d3f-spaced",
+        "real-f7a101fd2327eaae",
+        "real-f7a101fd2327eaae-jamo",
+        "real-f7a101fd2327eaae-fullwidth",
+        "real-f7a101fd2327eaae-confusable",
+        "real-f7a101fd2327eaae-zero_width",
+        "real-f7a101fd2327eaae-spaced",
+        "real-01a1a8f8e4166970",
+        "real-01a1a8f8e4166970-jamo",
+        "real-01a1a8f8e4166970-fullwidth",
+        "real-01a1a8f8e4166970-confusable",
+        "real-01a1a8f8e4166970-zero_width",
+        "real-01a1a8f8e4166970-spaced",
+        "real-95f06c05c9581d57",
+        "real-95f06c05c9581d57-jamo",
+        "real-95f06c05c9581d57-fullwidth",
+        "real-95f06c05c9581d57-confusable",
+        "real-95f06c05c9581d57-zero_width",
+        "real-95f06c05c9581d57-spaced",
+        "real-7bf60dca994e81ed",
+        "real-7bf60dca994e81ed-jamo",
+        "real-7bf60dca994e81ed-fullwidth",
+        "real-7bf60dca994e81ed-confusable",
+        "real-7bf60dca994e81ed-zero_width",
+        "real-7bf60dca994e81ed-spaced",
+        "real-3c7497aaef8a125a",
+        "real-3c7497aaef8a125a-jamo",
+        "real-3c7497aaef8a125a-fullwidth",
+        "real-3c7497aaef8a125a-confusable",
+        "real-3c7497aaef8a125a-zero_width",
+        "real-3c7497aaef8a125a-spaced",
+        "real-4856aed8286e495f",
+        "real-4856aed8286e495f-jamo",
+        "real-4856aed8286e495f-confusable",
+        "real-4856aed8286e495f-zero_width",
+        "real-4856aed8286e495f-spaced",
+        "real-04d6b7a6b7dc7787",
+        "real-04d6b7a6b7dc7787-jamo",
+        "real-04d6b7a6b7dc7787-fullwidth",
+        "real-04d6b7a6b7dc7787-confusable",
+        "real-04d6b7a6b7dc7787-zero_width",
+        "real-04d6b7a6b7dc7787-spaced",
+        "real-a9e9fa59d4f00673",
+        "real-a9e9fa59d4f00673-jamo",
+        "real-a9e9fa59d4f00673-fullwidth",
+        "real-a9e9fa59d4f00673-confusable",
+        "real-a9e9fa59d4f00673-zero_width",
+        "real-a9e9fa59d4f00673-spaced",
+        "real-4380ee374f710cb8",
+        "real-4380ee374f710cb8-jamo",
+        "real-4380ee374f710cb8-confusable",
+        "real-4380ee374f710cb8-zero_width",
+        "real-4380ee374f710cb8-spaced",
+        "real-2f5fc9eca65e14ce",
+        "real-2f5fc9eca65e14ce-jamo",
+        "real-2f5fc9eca65e14ce-fullwidth",
+        "real-2f5fc9eca65e14ce-zero_width",
+        "real-2f5fc9eca65e14ce-spaced",
+        "real-388e7ba31afcae0c",
+        "real-388e7ba31afcae0c-jamo",
+        "real-388e7ba31afcae0c-fullwidth",
+        "real-388e7ba31afcae0c-confusable",
+        "real-388e7ba31afcae0c-zero_width",
+        "real-388e7ba31afcae0c-spaced",
+        "real-bd85f5532a64fcf3",
+        "real-bd85f5532a64fcf3-jamo",
+        "real-bd85f5532a64fcf3-fullwidth",
+        "real-bd85f5532a64fcf3-confusable",
+        "real-bd85f5532a64fcf3-zero_width",
+        "real-bd85f5532a64fcf3-spaced",
+        "real-7429fcdbde6a4d74-spaced",
+        "real-31451af422f25b5f",
+        "real-31451af422f25b5f-jamo",
+        "real-31451af422f25b5f-fullwidth",
+        "real-31451af422f25b5f-zero_width",
+        "real-31451af422f25b5f-spaced",
+        "real-7227cfdb512f26d4",
+        "real-7227cfdb512f26d4-jamo",
+        "real-7227cfdb512f26d4-zero_width",
+        "real-7227cfdb512f26d4-spaced",
+        "real-29d3e77c1c01ec83",
+        "real-29d3e77c1c01ec83-jamo",
+        "real-29d3e77c1c01ec83-fullwidth",
+        "real-29d3e77c1c01ec83-confusable",
+        "real-29d3e77c1c01ec83-zero_width",
+        "real-29d3e77c1c01ec83-spaced",
+        "reviewed-f9bb9781e7a3dcfac0",
+        "reviewed-f9bb9781e7a3dcfac0-jamo",
+        "reviewed-f9bb9781e7a3dcfac0-fullwidth",
+        "reviewed-f9bb9781e7a3dcfac0-zero_width",
+        "reviewed-f9bb9781e7a3dcfac0-spaced",
+        "reviewed-364cd8ce84d53606cb",
+        "reviewed-364cd8ce84d53606cb-jamo",
+        "reviewed-364cd8ce84d53606cb-fullwidth",
+        "reviewed-364cd8ce84d53606cb-zero_width",
+        "reviewed-364cd8ce84d53606cb-spaced",
+        "reviewed-bc1abf2fb585fe56a0",
+        "reviewed-bc1abf2fb585fe56a0-jamo",
+        "reviewed-bc1abf2fb585fe56a0-fullwidth",
+        "reviewed-bc1abf2fb585fe56a0-zero_width",
+        "reviewed-bc1abf2fb585fe56a0-spaced",
+        "reviewed-6e3ab70b08df32c408",
+        "reviewed-6e3ab70b08df32c408-jamo",
+        "reviewed-6e3ab70b08df32c408-fullwidth",
+        "reviewed-6e3ab70b08df32c408-zero_width",
+        "reviewed-6e3ab70b08df32c408-spaced",
+        "role-00-0",
+        "role-00-0-jamo",
+        "role-00-0-fullwidth",
+        "role-00-0-confusable",
+        "role-00-0-zero_width",
+        "role-00-0-spaced",
+        "role-00-1",
+        "role-00-1-jamo",
+        "role-00-1-fullwidth",
+        "role-00-1-confusable",
+        "role-00-1-zero_width",
+        "role-00-1-spaced",
+        "role-01-0",
+        "role-01-0-jamo",
+        "role-01-0-fullwidth",
+        "role-01-0-zero_width",
+        "role-01-0-spaced",
+        "role-01-1",
+        "role-01-1-jamo",
+        "role-01-1-fullwidth",
+        "role-01-1-zero_width",
+        "role-01-1-spaced",
+        "role-02-0",
+        "role-02-0-jamo",
+        "role-02-0-fullwidth",
+        "role-02-0-zero_width",
+        "role-02-0-spaced",
+        "role-02-1",
+        "role-02-1-jamo",
+        "role-02-1-fullwidth",
+        "role-02-1-zero_width",
+        "role-02-1-spaced",
+        "role-03-0",
+        "role-03-0-jamo",
+        "role-03-0-fullwidth",
+        "role-03-0-confusable",
+        "role-03-0-zero_width",
+        "role-03-0-spaced",
+        "role-03-1",
+        "role-03-1-jamo",
+        "role-03-1-fullwidth",
+        "role-03-1-confusable",
+        "role-03-1-zero_width",
+        "role-03-1-spaced",
+        "role-04-0",
+        "role-04-0-jamo",
+        "role-04-0-fullwidth",
+        "role-04-0-zero_width",
+        "role-04-0-spaced",
+        "role-04-1",
+        "role-04-1-jamo",
+        "role-04-1-fullwidth",
+        "role-04-1-zero_width",
+        "role-04-1-spaced",
+        "role-05-0",
+        "role-05-0-jamo",
+        "role-05-0-fullwidth",
+        "role-05-0-confusable",
+        "role-05-0-zero_width",
+        "role-05-0-spaced",
+        "role-05-1",
+        "role-05-1-jamo",
+        "role-05-1-fullwidth",
+        "role-05-1-confusable",
+        "role-05-1-zero_width",
+        "role-05-1-spaced",
+        "role-06-0",
+        "role-06-0-jamo",
+        "role-06-0-fullwidth",
+        "role-06-0-confusable",
+        "role-06-0-zero_width",
+        "role-06-0-spaced",
+        "role-06-1",
+        "role-06-1-jamo",
+        "role-06-1-fullwidth",
+        "role-06-1-confusable",
+        "role-06-1-zero_width",
+        "role-06-1-spaced",
+        "role-07-0",
+        "role-07-0-jamo",
+        "role-07-0-fullwidth",
+        "role-07-0-confusable",
+        "role-07-0-zero_width",
+        "role-07-0-spaced",
+        "role-07-1",
+        "role-07-1-jamo",
+        "role-07-1-fullwidth",
+        "role-07-1-confusable",
+        "role-07-1-zero_width",
+        "role-07-1-spaced",
+        "role-08-0",
+        "role-08-0-jamo",
+        "role-08-0-fullwidth",
+        "role-08-0-zero_width",
+        "role-08-0-spaced",
+        "role-08-1",
+        "role-08-1-jamo",
+        "role-08-1-fullwidth",
+        "role-08-1-zero_width",
+        "role-08-1-spaced",
+        "role-09-0",
+        "role-09-0-jamo",
+        "role-09-0-fullwidth",
+        "role-09-0-zero_width",
+        "role-09-0-spaced",
+        "role-09-1",
+        "role-09-1-jamo",
+        "role-09-1-fullwidth",
+        "role-09-1-zero_width",
+        "role-09-1-spaced",
+        "role-10-0",
+        "role-10-0-jamo",
+        "role-10-0-fullwidth",
+        "role-10-0-confusable",
+        "role-10-0-zero_width",
+        "role-10-0-spaced",
+        "role-10-1",
+        "role-10-1-jamo",
+        "role-10-1-fullwidth",
+        "role-10-1-confusable",
+        "role-10-1-zero_width",
+        "role-10-1-spaced",
+        "role-13-0",
+        "role-13-0-jamo",
+        "role-13-0-fullwidth",
+        "role-13-0-confusable",
+        "role-13-0-zero_width",
+        "role-13-0-spaced",
+        "role-13-1",
+        "role-13-1-jamo",
+        "role-13-1-fullwidth",
+        "role-13-1-confusable",
+        "role-13-1-zero_width",
+        "role-13-1-spaced",
+        "role-14-0",
+        "role-14-0-jamo",
+        "role-14-0-fullwidth",
+        "role-14-0-confusable",
+        "role-14-0-zero_width",
+        "role-14-0-spaced",
+        "role-14-1",
+        "role-14-1-jamo",
+        "role-14-1-fullwidth",
+        "role-14-1-confusable",
+        "role-14-1-zero_width",
+        "role-14-1-spaced",
+        "role-15-0",
+        "role-15-0-jamo",
+        "role-15-0-fullwidth",
+        "role-15-0-confusable",
+        "role-15-0-zero_width",
+        "role-15-0-spaced",
+        "role-15-1",
+        "role-15-1-jamo",
+        "role-15-1-fullwidth",
+        "role-15-1-confusable",
+        "role-15-1-zero_width",
+        "role-15-1-spaced"
+      ],
+      "policy": "context_reserve96_target_remainder",
+      "changed_rows": 321,
+      "allocations": [
+        {
+          "id": "real-c276a879eb8a17c5",
+          "target_kept": 234,
+          "target_total": 254,
+          "context_kept": 20,
+          "context_total": 20
+        },
+        {
+          "id": "real-c276a879eb8a17c5-jamo",
+          "target_kept": 234,
+          "target_total": 254,
+          "context_kept": 20,
+          "context_total": 20
+        },
+        {
+          "id": "real-c276a879eb8a17c5-fullwidth",
+          "target_kept": 234,
+          "target_total": 254,
+          "context_kept": 20,
+          "context_total": 20
+        },
+        {
+          "id": "real-c276a879eb8a17c5-confusable",
+          "target_kept": 234,
+          "target_total": 255,
+          "context_kept": 20,
+          "context_total": 20
+        },
+        {
+          "id": "real-c276a879eb8a17c5-zero_width",
+          "target_kept": 234,
+          "target_total": 254,
+          "context_kept": 20,
+          "context_total": 20
+        },
+        {
+          "id": "real-c276a879eb8a17c5-spaced",
+          "target_kept": 234,
+          "target_total": 268,
+          "context_kept": 20,
+          "context_total": 20
+        },
+        {
+          "id": "real-ddb877efdb6b2b4d",
+          "target_kept": 227,
+          "target_total": 245,
+          "context_kept": 27,
+          "context_total": 27
+        },
+        {
+          "id": "real-ddb877efdb6b2b4d-jamo",
+          "target_kept": 227,
+          "target_total": 245,
+          "context_kept": 27,
+          "context_total": 27
+        },
+        {
+          "id": "real-ddb877efdb6b2b4d-fullwidth",
+          "target_kept": 228,
+          "target_total": 240,
+          "context_kept": 26,
+          "context_total": 26
+        },
+        {
+          "id": "real-ddb877efdb6b2b4d-zero_width",
+          "target_kept": 227,
+          "target_total": 245,
+          "context_kept": 27,
+          "context_total": 27
+        },
+        {
+          "id": "real-ddb877efdb6b2b4d-spaced",
+          "target_kept": 227,
+          "target_total": 258,
+          "context_kept": 27,
+          "context_total": 27
+        },
+        {
+          "id": "real-8eb69cbf73ac878f",
+          "target_kept": 235,
+          "target_total": 268,
+          "context_kept": 19,
+          "context_total": 19
+        },
+        {
+          "id": "real-8eb69cbf73ac878f-jamo",
+          "target_kept": 235,
+          "target_total": 268,
+          "context_kept": 19,
+          "context_total": 19
+        },
+        {
+          "id": "real-8eb69cbf73ac878f-fullwidth",
+          "target_kept": 235,
+          "target_total": 266,
+          "context_kept": 19,
+          "context_total": 19
+        },
+        {
+          "id": "real-8eb69cbf73ac878f-zero_width",
+          "target_kept": 235,
+          "target_total": 268,
+          "context_kept": 19,
+          "context_total": 19
+        },
+        {
+          "id": "real-8eb69cbf73ac878f-spaced",
+          "target_kept": 235,
+          "target_total": 273,
+          "context_kept": 19,
+          "context_total": 19
+        },
+        {
+          "id": "real-41eaea6d351f5a20",
+          "target_kept": 232,
+          "target_total": 252,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-41eaea6d351f5a20-jamo",
+          "target_kept": 232,
+          "target_total": 252,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-41eaea6d351f5a20-fullwidth",
+          "target_kept": 232,
+          "target_total": 247,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-41eaea6d351f5a20-confusable",
+          "target_kept": 232,
+          "target_total": 253,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-41eaea6d351f5a20-zero_width",
+          "target_kept": 232,
+          "target_total": 252,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-41eaea6d351f5a20-spaced",
+          "target_kept": 232,
+          "target_total": 261,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-c3980d29f083c6f5",
+          "target_kept": 226,
+          "target_total": 291,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "real-c3980d29f083c6f5-jamo",
+          "target_kept": 226,
+          "target_total": 291,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "real-c3980d29f083c6f5-fullwidth",
+          "target_kept": 227,
+          "target_total": 285,
+          "context_kept": 27,
+          "context_total": 27
+        },
+        {
+          "id": "real-c3980d29f083c6f5-zero_width",
+          "target_kept": 226,
+          "target_total": 291,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "real-c3980d29f083c6f5-spaced",
+          "target_kept": 227,
+          "target_total": 294,
+          "context_kept": 27,
+          "context_total": 27
+        },
+        {
+          "id": "real-1611ac49586932a8",
+          "target_kept": 235,
+          "target_total": 239,
+          "context_kept": 19,
+          "context_total": 19
+        },
+        {
+          "id": "real-1611ac49586932a8-jamo",
+          "target_kept": 235,
+          "target_total": 239,
+          "context_kept": 19,
+          "context_total": 19
+        },
+        {
+          "id": "real-1611ac49586932a8-zero_width",
+          "target_kept": 235,
+          "target_total": 239,
+          "context_kept": 19,
+          "context_total": 19
+        },
+        {
+          "id": "real-1611ac49586932a8-spaced",
+          "target_kept": 234,
+          "target_total": 246,
+          "context_kept": 20,
+          "context_total": 20
+        },
+        {
+          "id": "real-6ea2773f87758901",
+          "target_kept": 232,
+          "target_total": 283,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-6ea2773f87758901-jamo",
+          "target_kept": 232,
+          "target_total": 283,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-6ea2773f87758901-fullwidth",
+          "target_kept": 236,
+          "target_total": 243,
+          "context_kept": 18,
+          "context_total": 18
+        },
+        {
+          "id": "real-6ea2773f87758901-confusable",
+          "target_kept": 232,
+          "target_total": 282,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-6ea2773f87758901-zero_width",
+          "target_kept": 232,
+          "target_total": 283,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-6ea2773f87758901-spaced",
+          "target_kept": 231,
+          "target_total": 287,
+          "context_kept": 23,
+          "context_total": 23
+        },
+        {
+          "id": "real-c8dd8c73c2e28010",
+          "target_kept": 235,
+          "target_total": 240,
+          "context_kept": 19,
+          "context_total": 19
+        },
+        {
+          "id": "real-c8dd8c73c2e28010-jamo",
+          "target_kept": 235,
+          "target_total": 240,
+          "context_kept": 19,
+          "context_total": 19
+        },
+        {
+          "id": "real-c8dd8c73c2e28010-fullwidth",
+          "target_kept": 235,
+          "target_total": 236,
+          "context_kept": 19,
+          "context_total": 19
+        },
+        {
+          "id": "real-c8dd8c73c2e28010-confusable",
+          "target_kept": 235,
+          "target_total": 237,
+          "context_kept": 19,
+          "context_total": 19
+        },
+        {
+          "id": "real-c8dd8c73c2e28010-zero_width",
+          "target_kept": 235,
+          "target_total": 240,
+          "context_kept": 19,
+          "context_total": 19
+        },
+        {
+          "id": "real-c8dd8c73c2e28010-spaced",
+          "target_kept": 235,
+          "target_total": 250,
+          "context_kept": 19,
+          "context_total": 19
+        },
+        {
+          "id": "real-ad11c3d9bd5ab778",
+          "target_kept": 236,
+          "target_total": 265,
+          "context_kept": 18,
+          "context_total": 18
+        },
+        {
+          "id": "real-ad11c3d9bd5ab778-jamo",
+          "target_kept": 236,
+          "target_total": 265,
+          "context_kept": 18,
+          "context_total": 18
+        },
+        {
+          "id": "real-ad11c3d9bd5ab778-fullwidth",
+          "target_kept": 236,
+          "target_total": 257,
+          "context_kept": 18,
+          "context_total": 18
+        },
+        {
+          "id": "real-ad11c3d9bd5ab778-zero_width",
+          "target_kept": 236,
+          "target_total": 265,
+          "context_kept": 18,
+          "context_total": 18
+        },
+        {
+          "id": "real-ad11c3d9bd5ab778-spaced",
+          "target_kept": 236,
+          "target_total": 274,
+          "context_kept": 18,
+          "context_total": 18
+        },
+        {
+          "id": "real-d73c684da131ca08",
+          "target_kept": 237,
+          "target_total": 265,
+          "context_kept": 17,
+          "context_total": 17
+        },
+        {
+          "id": "real-d73c684da131ca08-jamo",
+          "target_kept": 237,
+          "target_total": 265,
+          "context_kept": 17,
+          "context_total": 17
+        },
+        {
+          "id": "real-d73c684da131ca08-fullwidth",
+          "target_kept": 237,
+          "target_total": 263,
+          "context_kept": 17,
+          "context_total": 17
+        },
+        {
+          "id": "real-d73c684da131ca08-zero_width",
+          "target_kept": 237,
+          "target_total": 265,
+          "context_kept": 17,
+          "context_total": 17
+        },
+        {
+          "id": "real-d73c684da131ca08-spaced",
+          "target_kept": 237,
+          "target_total": 276,
+          "context_kept": 17,
+          "context_total": 17
+        },
+        {
+          "id": "real-51f9e2b32de44d3f",
+          "target_kept": 233,
+          "target_total": 258,
+          "context_kept": 21,
+          "context_total": 21
+        },
+        {
+          "id": "real-51f9e2b32de44d3f-jamo",
+          "target_kept": 233,
+          "target_total": 258,
+          "context_kept": 21,
+          "context_total": 21
+        },
+        {
+          "id": "real-51f9e2b32de44d3f-confusable",
+          "target_kept": 233,
+          "target_total": 255,
+          "context_kept": 21,
+          "context_total": 21
+        },
+        {
+          "id": "real-51f9e2b32de44d3f-zero_width",
+          "target_kept": 233,
+          "target_total": 258,
+          "context_kept": 21,
+          "context_total": 21
+        },
+        {
+          "id": "real-51f9e2b32de44d3f-spaced",
+          "target_kept": 233,
+          "target_total": 268,
+          "context_kept": 21,
+          "context_total": 21
+        },
+        {
+          "id": "real-f7a101fd2327eaae",
+          "target_kept": 239,
+          "target_total": 270,
+          "context_kept": 15,
+          "context_total": 15
+        },
+        {
+          "id": "real-f7a101fd2327eaae-jamo",
+          "target_kept": 239,
+          "target_total": 270,
+          "context_kept": 15,
+          "context_total": 15
+        },
+        {
+          "id": "real-f7a101fd2327eaae-fullwidth",
+          "target_kept": 243,
+          "target_total": 254,
+          "context_kept": 11,
+          "context_total": 11
+        },
+        {
+          "id": "real-f7a101fd2327eaae-confusable",
+          "target_kept": 243,
+          "target_total": 266,
+          "context_kept": 11,
+          "context_total": 11
+        },
+        {
+          "id": "real-f7a101fd2327eaae-zero_width",
+          "target_kept": 239,
+          "target_total": 270,
+          "context_kept": 15,
+          "context_total": 15
+        },
+        {
+          "id": "real-f7a101fd2327eaae-spaced",
+          "target_kept": 234,
+          "target_total": 275,
+          "context_kept": 20,
+          "context_total": 20
+        },
+        {
+          "id": "real-01a1a8f8e4166970",
+          "target_kept": 222,
+          "target_total": 263,
+          "context_kept": 32,
+          "context_total": 32
+        },
+        {
+          "id": "real-01a1a8f8e4166970-jamo",
+          "target_kept": 222,
+          "target_total": 263,
+          "context_kept": 32,
+          "context_total": 32
+        },
+        {
+          "id": "real-01a1a8f8e4166970-fullwidth",
+          "target_kept": 228,
+          "target_total": 257,
+          "context_kept": 26,
+          "context_total": 26
+        },
+        {
+          "id": "real-01a1a8f8e4166970-confusable",
+          "target_kept": 226,
+          "target_total": 259,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "real-01a1a8f8e4166970-zero_width",
+          "target_kept": 222,
+          "target_total": 263,
+          "context_kept": 32,
+          "context_total": 32
+        },
+        {
+          "id": "real-01a1a8f8e4166970-spaced",
+          "target_kept": 220,
+          "target_total": 271,
+          "context_kept": 34,
+          "context_total": 34
+        },
+        {
+          "id": "real-95f06c05c9581d57",
+          "target_kept": 210,
+          "target_total": 278,
+          "context_kept": 44,
+          "context_total": 44
+        },
+        {
+          "id": "real-95f06c05c9581d57-jamo",
+          "target_kept": 210,
+          "target_total": 278,
+          "context_kept": 44,
+          "context_total": 44
+        },
+        {
+          "id": "real-95f06c05c9581d57-fullwidth",
+          "target_kept": 221,
+          "target_total": 262,
+          "context_kept": 33,
+          "context_total": 33
+        },
+        {
+          "id": "real-95f06c05c9581d57-confusable",
+          "target_kept": 214,
+          "target_total": 270,
+          "context_kept": 40,
+          "context_total": 40
+        },
+        {
+          "id": "real-95f06c05c9581d57-zero_width",
+          "target_kept": 210,
+          "target_total": 278,
+          "context_kept": 44,
+          "context_total": 44
+        },
+        {
+          "id": "real-95f06c05c9581d57-spaced",
+          "target_kept": 209,
+          "target_total": 278,
+          "context_kept": 45,
+          "context_total": 45
+        },
+        {
+          "id": "real-7bf60dca994e81ed",
+          "target_kept": 217,
+          "target_total": 271,
+          "context_kept": 37,
+          "context_total": 37
+        },
+        {
+          "id": "real-7bf60dca994e81ed-jamo",
+          "target_kept": 217,
+          "target_total": 271,
+          "context_kept": 37,
+          "context_total": 37
+        },
+        {
+          "id": "real-7bf60dca994e81ed-fullwidth",
+          "target_kept": 235,
+          "target_total": 248,
+          "context_kept": 19,
+          "context_total": 19
+        },
+        {
+          "id": "real-7bf60dca994e81ed-confusable",
+          "target_kept": 221,
+          "target_total": 263,
+          "context_kept": 33,
+          "context_total": 33
+        },
+        {
+          "id": "real-7bf60dca994e81ed-zero_width",
+          "target_kept": 217,
+          "target_total": 271,
+          "context_kept": 37,
+          "context_total": 37
+        },
+        {
+          "id": "real-7bf60dca994e81ed-spaced",
+          "target_kept": 217,
+          "target_total": 272,
+          "context_kept": 37,
+          "context_total": 37
+        },
+        {
+          "id": "real-3c7497aaef8a125a",
+          "target_kept": 216,
+          "target_total": 272,
+          "context_kept": 38,
+          "context_total": 38
+        },
+        {
+          "id": "real-3c7497aaef8a125a-jamo",
+          "target_kept": 216,
+          "target_total": 272,
+          "context_kept": 38,
+          "context_total": 38
+        },
+        {
+          "id": "real-3c7497aaef8a125a-fullwidth",
+          "target_kept": 234,
+          "target_total": 249,
+          "context_kept": 20,
+          "context_total": 20
+        },
+        {
+          "id": "real-3c7497aaef8a125a-confusable",
+          "target_kept": 220,
+          "target_total": 264,
+          "context_kept": 34,
+          "context_total": 34
+        },
+        {
+          "id": "real-3c7497aaef8a125a-zero_width",
+          "target_kept": 216,
+          "target_total": 272,
+          "context_kept": 38,
+          "context_total": 38
+        },
+        {
+          "id": "real-3c7497aaef8a125a-spaced",
+          "target_kept": 216,
+          "target_total": 277,
+          "context_kept": 38,
+          "context_total": 38
+        },
+        {
+          "id": "real-4856aed8286e495f",
+          "target_kept": 220,
+          "target_total": 244,
+          "context_kept": 34,
+          "context_total": 34
+        },
+        {
+          "id": "real-4856aed8286e495f-jamo",
+          "target_kept": 220,
+          "target_total": 244,
+          "context_kept": 34,
+          "context_total": 34
+        },
+        {
+          "id": "real-4856aed8286e495f-confusable",
+          "target_kept": 222,
+          "target_total": 242,
+          "context_kept": 32,
+          "context_total": 32
+        },
+        {
+          "id": "real-4856aed8286e495f-zero_width",
+          "target_kept": 220,
+          "target_total": 244,
+          "context_kept": 34,
+          "context_total": 34
+        },
+        {
+          "id": "real-4856aed8286e495f-spaced",
+          "target_kept": 220,
+          "target_total": 246,
+          "context_kept": 34,
+          "context_total": 34
+        },
+        {
+          "id": "real-04d6b7a6b7dc7787",
+          "target_kept": 222,
+          "target_total": 258,
+          "context_kept": 32,
+          "context_total": 32
+        },
+        {
+          "id": "real-04d6b7a6b7dc7787-jamo",
+          "target_kept": 222,
+          "target_total": 258,
+          "context_kept": 32,
+          "context_total": 32
+        },
+        {
+          "id": "real-04d6b7a6b7dc7787-fullwidth",
+          "target_kept": 226,
+          "target_total": 241,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "real-04d6b7a6b7dc7787-confusable",
+          "target_kept": 226,
+          "target_total": 248,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "real-04d6b7a6b7dc7787-zero_width",
+          "target_kept": 222,
+          "target_total": 258,
+          "context_kept": 32,
+          "context_total": 32
+        },
+        {
+          "id": "real-04d6b7a6b7dc7787-spaced",
+          "target_kept": 221,
+          "target_total": 262,
+          "context_kept": 33,
+          "context_total": 33
+        },
+        {
+          "id": "real-a9e9fa59d4f00673",
+          "target_kept": 224,
+          "target_total": 247,
+          "context_kept": 30,
+          "context_total": 30
+        },
+        {
+          "id": "real-a9e9fa59d4f00673-jamo",
+          "target_kept": 224,
+          "target_total": 247,
+          "context_kept": 30,
+          "context_total": 30
+        },
+        {
+          "id": "real-a9e9fa59d4f00673-fullwidth",
+          "target_kept": 226,
+          "target_total": 243,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "real-a9e9fa59d4f00673-confusable",
+          "target_kept": 226,
+          "target_total": 245,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "real-a9e9fa59d4f00673-zero_width",
+          "target_kept": 224,
+          "target_total": 247,
+          "context_kept": 30,
+          "context_total": 30
+        },
+        {
+          "id": "real-a9e9fa59d4f00673-spaced",
+          "target_kept": 223,
+          "target_total": 253,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "real-4380ee374f710cb8",
+          "target_kept": 220,
+          "target_total": 244,
+          "context_kept": 34,
+          "context_total": 34
+        },
+        {
+          "id": "real-4380ee374f710cb8-jamo",
+          "target_kept": 220,
+          "target_total": 244,
+          "context_kept": 34,
+          "context_total": 34
+        },
+        {
+          "id": "real-4380ee374f710cb8-confusable",
+          "target_kept": 222,
+          "target_total": 242,
+          "context_kept": 32,
+          "context_total": 32
+        },
+        {
+          "id": "real-4380ee374f710cb8-zero_width",
+          "target_kept": 220,
+          "target_total": 244,
+          "context_kept": 34,
+          "context_total": 34
+        },
+        {
+          "id": "real-4380ee374f710cb8-spaced",
+          "target_kept": 220,
+          "target_total": 247,
+          "context_kept": 34,
+          "context_total": 34
+        },
+        {
+          "id": "real-2f5fc9eca65e14ce",
+          "target_kept": 238,
+          "target_total": 271,
+          "context_kept": 16,
+          "context_total": 16
+        },
+        {
+          "id": "real-2f5fc9eca65e14ce-jamo",
+          "target_kept": 238,
+          "target_total": 271,
+          "context_kept": 16,
+          "context_total": 16
+        },
+        {
+          "id": "real-2f5fc9eca65e14ce-fullwidth",
+          "target_kept": 238,
+          "target_total": 260,
+          "context_kept": 16,
+          "context_total": 16
+        },
+        {
+          "id": "real-2f5fc9eca65e14ce-zero_width",
+          "target_kept": 238,
+          "target_total": 271,
+          "context_kept": 16,
+          "context_total": 16
+        },
+        {
+          "id": "real-2f5fc9eca65e14ce-spaced",
+          "target_kept": 238,
+          "target_total": 280,
+          "context_kept": 16,
+          "context_total": 16
+        },
+        {
+          "id": "real-388e7ba31afcae0c",
+          "target_kept": 224,
+          "target_total": 269,
+          "context_kept": 30,
+          "context_total": 30
+        },
+        {
+          "id": "real-388e7ba31afcae0c-jamo",
+          "target_kept": 224,
+          "target_total": 269,
+          "context_kept": 30,
+          "context_total": 30
+        },
+        {
+          "id": "real-388e7ba31afcae0c-fullwidth",
+          "target_kept": 224,
+          "target_total": 264,
+          "context_kept": 30,
+          "context_total": 30
+        },
+        {
+          "id": "real-388e7ba31afcae0c-confusable",
+          "target_kept": 224,
+          "target_total": 265,
+          "context_kept": 30,
+          "context_total": 30
+        },
+        {
+          "id": "real-388e7ba31afcae0c-zero_width",
+          "target_kept": 224,
+          "target_total": 269,
+          "context_kept": 30,
+          "context_total": 30
+        },
+        {
+          "id": "real-388e7ba31afcae0c-spaced",
+          "target_kept": 224,
+          "target_total": 272,
+          "context_kept": 30,
+          "context_total": 30
+        },
+        {
+          "id": "real-bd85f5532a64fcf3",
+          "target_kept": 235,
+          "target_total": 255,
+          "context_kept": 19,
+          "context_total": 19
+        },
+        {
+          "id": "real-bd85f5532a64fcf3-jamo",
+          "target_kept": 235,
+          "target_total": 255,
+          "context_kept": 19,
+          "context_total": 19
+        },
+        {
+          "id": "real-bd85f5532a64fcf3-fullwidth",
+          "target_kept": 235,
+          "target_total": 237,
+          "context_kept": 19,
+          "context_total": 19
+        },
+        {
+          "id": "real-bd85f5532a64fcf3-confusable",
+          "target_kept": 235,
+          "target_total": 246,
+          "context_kept": 19,
+          "context_total": 19
+        },
+        {
+          "id": "real-bd85f5532a64fcf3-zero_width",
+          "target_kept": 235,
+          "target_total": 255,
+          "context_kept": 19,
+          "context_total": 19
+        },
+        {
+          "id": "real-bd85f5532a64fcf3-spaced",
+          "target_kept": 235,
+          "target_total": 262,
+          "context_kept": 19,
+          "context_total": 19
+        },
+        {
+          "id": "real-7429fcdbde6a4d74-spaced",
+          "target_kept": 248,
+          "target_total": 249,
+          "context_kept": 6,
+          "context_total": 6
+        },
+        {
+          "id": "real-31451af422f25b5f",
+          "target_kept": 232,
+          "target_total": 314,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-31451af422f25b5f-jamo",
+          "target_kept": 232,
+          "target_total": 314,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-31451af422f25b5f-fullwidth",
+          "target_kept": 232,
+          "target_total": 306,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-31451af422f25b5f-zero_width",
+          "target_kept": 232,
+          "target_total": 314,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-31451af422f25b5f-spaced",
+          "target_kept": 232,
+          "target_total": 317,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-7227cfdb512f26d4",
+          "target_kept": 238,
+          "target_total": 290,
+          "context_kept": 16,
+          "context_total": 16
+        },
+        {
+          "id": "real-7227cfdb512f26d4-jamo",
+          "target_kept": 238,
+          "target_total": 290,
+          "context_kept": 16,
+          "context_total": 16
+        },
+        {
+          "id": "real-7227cfdb512f26d4-zero_width",
+          "target_kept": 238,
+          "target_total": 290,
+          "context_kept": 16,
+          "context_total": 16
+        },
+        {
+          "id": "real-7227cfdb512f26d4-spaced",
+          "target_kept": 238,
+          "target_total": 293,
+          "context_kept": 16,
+          "context_total": 16
+        },
+        {
+          "id": "real-29d3e77c1c01ec83",
+          "target_kept": 246,
+          "target_total": 278,
+          "context_kept": 8,
+          "context_total": 8
+        },
+        {
+          "id": "real-29d3e77c1c01ec83-jamo",
+          "target_kept": 246,
+          "target_total": 278,
+          "context_kept": 8,
+          "context_total": 8
+        },
+        {
+          "id": "real-29d3e77c1c01ec83-fullwidth",
+          "target_kept": 246,
+          "target_total": 270,
+          "context_kept": 8,
+          "context_total": 8
+        },
+        {
+          "id": "real-29d3e77c1c01ec83-confusable",
+          "target_kept": 246,
+          "target_total": 276,
+          "context_kept": 8,
+          "context_total": 8
+        },
+        {
+          "id": "real-29d3e77c1c01ec83-zero_width",
+          "target_kept": 246,
+          "target_total": 278,
+          "context_kept": 8,
+          "context_total": 8
+        },
+        {
+          "id": "real-29d3e77c1c01ec83-spaced",
+          "target_kept": 246,
+          "target_total": 283,
+          "context_kept": 8,
+          "context_total": 8
+        },
+        {
+          "id": "reviewed-f9bb9781e7a3dcfac0",
+          "target_kept": 132,
+          "target_total": 132,
+          "context_kept": 122,
+          "context_total": 810
+        },
+        {
+          "id": "reviewed-f9bb9781e7a3dcfac0-jamo",
+          "target_kept": 132,
+          "target_total": 132,
+          "context_kept": 122,
+          "context_total": 810
+        },
+        {
+          "id": "reviewed-f9bb9781e7a3dcfac0-fullwidth",
+          "target_kept": 132,
+          "target_total": 132,
+          "context_kept": 122,
+          "context_total": 772
+        },
+        {
+          "id": "reviewed-f9bb9781e7a3dcfac0-zero_width",
+          "target_kept": 132,
+          "target_total": 132,
+          "context_kept": 122,
+          "context_total": 810
+        },
+        {
+          "id": "reviewed-f9bb9781e7a3dcfac0-spaced",
+          "target_kept": 136,
+          "target_total": 136,
+          "context_kept": 118,
+          "context_total": 821
+        },
+        {
+          "id": "reviewed-364cd8ce84d53606cb",
+          "target_kept": 158,
+          "target_total": 311,
+          "context_kept": 96,
+          "context_total": 716
+        },
+        {
+          "id": "reviewed-364cd8ce84d53606cb-jamo",
+          "target_kept": 158,
+          "target_total": 311,
+          "context_kept": 96,
+          "context_total": 716
+        },
+        {
+          "id": "reviewed-364cd8ce84d53606cb-fullwidth",
+          "target_kept": 158,
+          "target_total": 307,
+          "context_kept": 96,
+          "context_total": 682
+        },
+        {
+          "id": "reviewed-364cd8ce84d53606cb-zero_width",
+          "target_kept": 158,
+          "target_total": 311,
+          "context_kept": 96,
+          "context_total": 716
+        },
+        {
+          "id": "reviewed-364cd8ce84d53606cb-spaced",
+          "target_kept": 158,
+          "target_total": 319,
+          "context_kept": 96,
+          "context_total": 724
+        },
+        {
+          "id": "reviewed-bc1abf2fb585fe56a0",
+          "target_kept": 158,
+          "target_total": 366,
+          "context_kept": 96,
+          "context_total": 656
+        },
+        {
+          "id": "reviewed-bc1abf2fb585fe56a0-jamo",
+          "target_kept": 158,
+          "target_total": 366,
+          "context_kept": 96,
+          "context_total": 656
+        },
+        {
+          "id": "reviewed-bc1abf2fb585fe56a0-fullwidth",
+          "target_kept": 158,
+          "target_total": 354,
+          "context_kept": 96,
+          "context_total": 627
+        },
+        {
+          "id": "reviewed-bc1abf2fb585fe56a0-zero_width",
+          "target_kept": 158,
+          "target_total": 366,
+          "context_kept": 96,
+          "context_total": 656
+        },
+        {
+          "id": "reviewed-bc1abf2fb585fe56a0-spaced",
+          "target_kept": 158,
+          "target_total": 369,
+          "context_kept": 96,
+          "context_total": 662
+        },
+        {
+          "id": "reviewed-6e3ab70b08df32c408",
+          "target_kept": 158,
+          "target_total": 425,
+          "context_kept": 96,
+          "context_total": 678
+        },
+        {
+          "id": "reviewed-6e3ab70b08df32c408-jamo",
+          "target_kept": 158,
+          "target_total": 425,
+          "context_kept": 96,
+          "context_total": 678
+        },
+        {
+          "id": "reviewed-6e3ab70b08df32c408-fullwidth",
+          "target_kept": 158,
+          "target_total": 376,
+          "context_kept": 96,
+          "context_total": 664
+        },
+        {
+          "id": "reviewed-6e3ab70b08df32c408-zero_width",
+          "target_kept": 158,
+          "target_total": 425,
+          "context_kept": 96,
+          "context_total": 678
+        },
+        {
+          "id": "reviewed-6e3ab70b08df32c408-spaced",
+          "target_kept": 158,
+          "target_total": 427,
+          "context_kept": 96,
+          "context_total": 686
+        },
+        {
+          "id": "role-00-0",
+          "target_kept": 212,
+          "target_total": 254,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-00-0-jamo",
+          "target_kept": 212,
+          "target_total": 254,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-00-0-fullwidth",
+          "target_kept": 212,
+          "target_total": 254,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-00-0-confusable",
+          "target_kept": 212,
+          "target_total": 255,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-00-0-zero_width",
+          "target_kept": 212,
+          "target_total": 254,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-00-0-spaced",
+          "target_kept": 210,
+          "target_total": 268,
+          "context_kept": 44,
+          "context_total": 44
+        },
+        {
+          "id": "role-00-1",
+          "target_kept": 223,
+          "target_total": 254,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-00-1-jamo",
+          "target_kept": 223,
+          "target_total": 254,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-00-1-fullwidth",
+          "target_kept": 223,
+          "target_total": 254,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-00-1-confusable",
+          "target_kept": 223,
+          "target_total": 255,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-00-1-zero_width",
+          "target_kept": 223,
+          "target_total": 254,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-00-1-spaced",
+          "target_kept": 223,
+          "target_total": 268,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-01-0",
+          "target_kept": 212,
+          "target_total": 245,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-01-0-jamo",
+          "target_kept": 212,
+          "target_total": 245,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-01-0-fullwidth",
+          "target_kept": 212,
+          "target_total": 240,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-01-0-zero_width",
+          "target_kept": 212,
+          "target_total": 245,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-01-0-spaced",
+          "target_kept": 210,
+          "target_total": 258,
+          "context_kept": 44,
+          "context_total": 44
+        },
+        {
+          "id": "role-01-1",
+          "target_kept": 223,
+          "target_total": 245,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-01-1-jamo",
+          "target_kept": 223,
+          "target_total": 245,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-01-1-fullwidth",
+          "target_kept": 223,
+          "target_total": 240,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-01-1-zero_width",
+          "target_kept": 223,
+          "target_total": 245,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-01-1-spaced",
+          "target_kept": 223,
+          "target_total": 258,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-02-0",
+          "target_kept": 212,
+          "target_total": 268,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-02-0-jamo",
+          "target_kept": 212,
+          "target_total": 268,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-02-0-fullwidth",
+          "target_kept": 212,
+          "target_total": 266,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-02-0-zero_width",
+          "target_kept": 212,
+          "target_total": 268,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-02-0-spaced",
+          "target_kept": 210,
+          "target_total": 273,
+          "context_kept": 44,
+          "context_total": 44
+        },
+        {
+          "id": "role-02-1",
+          "target_kept": 223,
+          "target_total": 268,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-02-1-jamo",
+          "target_kept": 223,
+          "target_total": 268,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-02-1-fullwidth",
+          "target_kept": 223,
+          "target_total": 266,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-02-1-zero_width",
+          "target_kept": 223,
+          "target_total": 268,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-02-1-spaced",
+          "target_kept": 223,
+          "target_total": 273,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-03-0",
+          "target_kept": 212,
+          "target_total": 252,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-03-0-jamo",
+          "target_kept": 212,
+          "target_total": 252,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-03-0-fullwidth",
+          "target_kept": 212,
+          "target_total": 247,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-03-0-confusable",
+          "target_kept": 212,
+          "target_total": 253,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-03-0-zero_width",
+          "target_kept": 212,
+          "target_total": 252,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-03-0-spaced",
+          "target_kept": 210,
+          "target_total": 261,
+          "context_kept": 44,
+          "context_total": 44
+        },
+        {
+          "id": "role-03-1",
+          "target_kept": 223,
+          "target_total": 252,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-03-1-jamo",
+          "target_kept": 223,
+          "target_total": 252,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-03-1-fullwidth",
+          "target_kept": 223,
+          "target_total": 247,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-03-1-confusable",
+          "target_kept": 223,
+          "target_total": 253,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-03-1-zero_width",
+          "target_kept": 223,
+          "target_total": 252,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-03-1-spaced",
+          "target_kept": 223,
+          "target_total": 261,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-04-0",
+          "target_kept": 212,
+          "target_total": 291,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-04-0-jamo",
+          "target_kept": 212,
+          "target_total": 291,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-04-0-fullwidth",
+          "target_kept": 212,
+          "target_total": 285,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-04-0-zero_width",
+          "target_kept": 212,
+          "target_total": 291,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-04-0-spaced",
+          "target_kept": 210,
+          "target_total": 294,
+          "context_kept": 44,
+          "context_total": 44
+        },
+        {
+          "id": "role-04-1",
+          "target_kept": 223,
+          "target_total": 291,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-04-1-jamo",
+          "target_kept": 223,
+          "target_total": 291,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-04-1-fullwidth",
+          "target_kept": 223,
+          "target_total": 285,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-04-1-zero_width",
+          "target_kept": 223,
+          "target_total": 291,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-04-1-spaced",
+          "target_kept": 223,
+          "target_total": 294,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-05-0",
+          "target_kept": 212,
+          "target_total": 239,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-05-0-jamo",
+          "target_kept": 212,
+          "target_total": 239,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-05-0-fullwidth",
+          "target_kept": 212,
+          "target_total": 231,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-05-0-confusable",
+          "target_kept": 212,
+          "target_total": 233,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-05-0-zero_width",
+          "target_kept": 212,
+          "target_total": 239,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-05-0-spaced",
+          "target_kept": 210,
+          "target_total": 246,
+          "context_kept": 44,
+          "context_total": 44
+        },
+        {
+          "id": "role-05-1",
+          "target_kept": 223,
+          "target_total": 239,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-05-1-jamo",
+          "target_kept": 223,
+          "target_total": 239,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-05-1-fullwidth",
+          "target_kept": 223,
+          "target_total": 231,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-05-1-confusable",
+          "target_kept": 223,
+          "target_total": 233,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-05-1-zero_width",
+          "target_kept": 223,
+          "target_total": 239,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-05-1-spaced",
+          "target_kept": 223,
+          "target_total": 246,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-06-0",
+          "target_kept": 212,
+          "target_total": 283,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-06-0-jamo",
+          "target_kept": 212,
+          "target_total": 283,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-06-0-fullwidth",
+          "target_kept": 212,
+          "target_total": 243,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-06-0-confusable",
+          "target_kept": 212,
+          "target_total": 282,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-06-0-zero_width",
+          "target_kept": 212,
+          "target_total": 283,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-06-0-spaced",
+          "target_kept": 210,
+          "target_total": 287,
+          "context_kept": 44,
+          "context_total": 44
+        },
+        {
+          "id": "role-06-1",
+          "target_kept": 223,
+          "target_total": 283,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-06-1-jamo",
+          "target_kept": 223,
+          "target_total": 283,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-06-1-fullwidth",
+          "target_kept": 223,
+          "target_total": 243,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-06-1-confusable",
+          "target_kept": 223,
+          "target_total": 282,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-06-1-zero_width",
+          "target_kept": 223,
+          "target_total": 283,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-06-1-spaced",
+          "target_kept": 223,
+          "target_total": 287,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-07-0",
+          "target_kept": 212,
+          "target_total": 240,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-07-0-jamo",
+          "target_kept": 212,
+          "target_total": 240,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-07-0-fullwidth",
+          "target_kept": 212,
+          "target_total": 236,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-07-0-confusable",
+          "target_kept": 212,
+          "target_total": 237,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-07-0-zero_width",
+          "target_kept": 212,
+          "target_total": 240,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-07-0-spaced",
+          "target_kept": 210,
+          "target_total": 250,
+          "context_kept": 44,
+          "context_total": 44
+        },
+        {
+          "id": "role-07-1",
+          "target_kept": 223,
+          "target_total": 240,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-07-1-jamo",
+          "target_kept": 223,
+          "target_total": 240,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-07-1-fullwidth",
+          "target_kept": 223,
+          "target_total": 236,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-07-1-confusable",
+          "target_kept": 223,
+          "target_total": 237,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-07-1-zero_width",
+          "target_kept": 223,
+          "target_total": 240,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-07-1-spaced",
+          "target_kept": 223,
+          "target_total": 250,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-08-0",
+          "target_kept": 212,
+          "target_total": 265,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-08-0-jamo",
+          "target_kept": 212,
+          "target_total": 265,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-08-0-fullwidth",
+          "target_kept": 212,
+          "target_total": 257,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-08-0-zero_width",
+          "target_kept": 212,
+          "target_total": 265,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-08-0-spaced",
+          "target_kept": 210,
+          "target_total": 274,
+          "context_kept": 44,
+          "context_total": 44
+        },
+        {
+          "id": "role-08-1",
+          "target_kept": 223,
+          "target_total": 265,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-08-1-jamo",
+          "target_kept": 223,
+          "target_total": 265,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-08-1-fullwidth",
+          "target_kept": 223,
+          "target_total": 257,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-08-1-zero_width",
+          "target_kept": 223,
+          "target_total": 265,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-08-1-spaced",
+          "target_kept": 223,
+          "target_total": 274,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-09-0",
+          "target_kept": 212,
+          "target_total": 265,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-09-0-jamo",
+          "target_kept": 212,
+          "target_total": 265,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-09-0-fullwidth",
+          "target_kept": 212,
+          "target_total": 263,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-09-0-zero_width",
+          "target_kept": 212,
+          "target_total": 265,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-09-0-spaced",
+          "target_kept": 210,
+          "target_total": 276,
+          "context_kept": 44,
+          "context_total": 44
+        },
+        {
+          "id": "role-09-1",
+          "target_kept": 223,
+          "target_total": 265,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-09-1-jamo",
+          "target_kept": 223,
+          "target_total": 265,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-09-1-fullwidth",
+          "target_kept": 223,
+          "target_total": 263,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-09-1-zero_width",
+          "target_kept": 223,
+          "target_total": 265,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-09-1-spaced",
+          "target_kept": 223,
+          "target_total": 276,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-10-0",
+          "target_kept": 212,
+          "target_total": 258,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-10-0-jamo",
+          "target_kept": 212,
+          "target_total": 258,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-10-0-fullwidth",
+          "target_kept": 212,
+          "target_total": 233,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-10-0-confusable",
+          "target_kept": 212,
+          "target_total": 255,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-10-0-zero_width",
+          "target_kept": 212,
+          "target_total": 258,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-10-0-spaced",
+          "target_kept": 210,
+          "target_total": 268,
+          "context_kept": 44,
+          "context_total": 44
+        },
+        {
+          "id": "role-10-1",
+          "target_kept": 223,
+          "target_total": 258,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-10-1-jamo",
+          "target_kept": 223,
+          "target_total": 258,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-10-1-fullwidth",
+          "target_kept": 223,
+          "target_total": 233,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-10-1-confusable",
+          "target_kept": 223,
+          "target_total": 255,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-10-1-zero_width",
+          "target_kept": 223,
+          "target_total": 258,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-10-1-spaced",
+          "target_kept": 223,
+          "target_total": 268,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-13-0",
+          "target_kept": 212,
+          "target_total": 270,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-13-0-jamo",
+          "target_kept": 212,
+          "target_total": 270,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-13-0-fullwidth",
+          "target_kept": 212,
+          "target_total": 254,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-13-0-confusable",
+          "target_kept": 212,
+          "target_total": 266,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-13-0-zero_width",
+          "target_kept": 212,
+          "target_total": 270,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-13-0-spaced",
+          "target_kept": 210,
+          "target_total": 275,
+          "context_kept": 44,
+          "context_total": 44
+        },
+        {
+          "id": "role-13-1",
+          "target_kept": 223,
+          "target_total": 270,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-13-1-jamo",
+          "target_kept": 223,
+          "target_total": 270,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-13-1-fullwidth",
+          "target_kept": 223,
+          "target_total": 254,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-13-1-confusable",
+          "target_kept": 223,
+          "target_total": 266,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-13-1-zero_width",
+          "target_kept": 223,
+          "target_total": 270,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-13-1-spaced",
+          "target_kept": 223,
+          "target_total": 275,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-14-0",
+          "target_kept": 212,
+          "target_total": 263,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-14-0-jamo",
+          "target_kept": 212,
+          "target_total": 263,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-14-0-fullwidth",
+          "target_kept": 212,
+          "target_total": 257,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-14-0-confusable",
+          "target_kept": 212,
+          "target_total": 259,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-14-0-zero_width",
+          "target_kept": 212,
+          "target_total": 263,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-14-0-spaced",
+          "target_kept": 210,
+          "target_total": 271,
+          "context_kept": 44,
+          "context_total": 44
+        },
+        {
+          "id": "role-14-1",
+          "target_kept": 223,
+          "target_total": 263,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-14-1-jamo",
+          "target_kept": 223,
+          "target_total": 263,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-14-1-fullwidth",
+          "target_kept": 223,
+          "target_total": 257,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-14-1-confusable",
+          "target_kept": 223,
+          "target_total": 259,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-14-1-zero_width",
+          "target_kept": 223,
+          "target_total": 263,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-14-1-spaced",
+          "target_kept": 223,
+          "target_total": 271,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-15-0",
+          "target_kept": 212,
+          "target_total": 278,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-15-0-jamo",
+          "target_kept": 212,
+          "target_total": 278,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-15-0-fullwidth",
+          "target_kept": 212,
+          "target_total": 262,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-15-0-confusable",
+          "target_kept": 212,
+          "target_total": 270,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-15-0-zero_width",
+          "target_kept": 212,
+          "target_total": 278,
+          "context_kept": 42,
+          "context_total": 42
+        },
+        {
+          "id": "role-15-0-spaced",
+          "target_kept": 210,
+          "target_total": 278,
+          "context_kept": 44,
+          "context_total": 44
+        },
+        {
+          "id": "role-15-1",
+          "target_kept": 223,
+          "target_total": 278,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-15-1-jamo",
+          "target_kept": 223,
+          "target_total": 278,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-15-1-fullwidth",
+          "target_kept": 223,
+          "target_total": 262,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-15-1-confusable",
+          "target_kept": 223,
+          "target_total": 270,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-15-1-zero_width",
+          "target_kept": 223,
+          "target_total": 278,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-15-1-spaced",
+          "target_kept": 223,
+          "target_total": 278,
+          "context_kept": 31,
+          "context_total": 31
+        }
+      ]
+    },
+    "dev": {
+      "n": 90,
+      "limit": 256,
+      "max_tokens": 77,
+      "p50_tokens": 61.0,
+      "p95_tokens": 75,
+      "truncated": 0,
+      "target_truncated": 0,
+      "context_absent": 0,
+      "truncated_ids": [],
+      "policy": "context_reserve96_target_remainder",
+      "changed_rows": 0,
+      "allocations": []
+    },
+    "conflict_groups": 0,
+    "token_unique": 518
+  },
+  "kc": {
+    "train": {
+      "n": 956,
+      "limit": 256,
+      "max_tokens": 944,
+      "p50_tokens": 45.0,
+      "p95_tokens": 290,
+      "truncated": 176,
+      "target_truncated": 49,
+      "context_absent": 53,
+      "truncated_ids": [
+        "real-8eb69cbf73ac878f-spaced",
+        "real-c3980d29f083c6f5",
+        "real-c3980d29f083c6f5-jamo",
+        "real-c3980d29f083c6f5-fullwidth",
+        "real-c3980d29f083c6f5-zero_width",
+        "real-c3980d29f083c6f5-spaced",
+        "real-6ea2773f87758901",
+        "real-6ea2773f87758901-jamo",
+        "real-6ea2773f87758901-confusable",
+        "real-6ea2773f87758901-zero_width",
+        "real-6ea2773f87758901-spaced",
+        "real-ad11c3d9bd5ab778-spaced",
+        "real-d73c684da131ca08-spaced",
+        "real-51f9e2b32de44d3f-spaced",
+        "real-f7a101fd2327eaae",
+        "real-f7a101fd2327eaae-jamo",
+        "real-f7a101fd2327eaae-fullwidth",
+        "real-f7a101fd2327eaae-confusable",
+        "real-f7a101fd2327eaae-zero_width",
+        "real-f7a101fd2327eaae-spaced",
+        "real-01a1a8f8e4166970",
+        "real-01a1a8f8e4166970-jamo",
+        "real-01a1a8f8e4166970-fullwidth",
+        "real-01a1a8f8e4166970-confusable",
+        "real-01a1a8f8e4166970-zero_width",
+        "real-01a1a8f8e4166970-spaced",
+        "real-95f06c05c9581d57",
+        "real-95f06c05c9581d57-jamo",
+        "real-95f06c05c9581d57-fullwidth",
+        "real-95f06c05c9581d57-confusable",
+        "real-95f06c05c9581d57-zero_width",
+        "real-95f06c05c9581d57-spaced",
+        "real-7bf60dca994e81ed",
+        "real-7bf60dca994e81ed-jamo",
+        "real-7bf60dca994e81ed-confusable",
+        "real-7bf60dca994e81ed-zero_width",
+        "real-7bf60dca994e81ed-spaced",
+        "real-3c7497aaef8a125a",
+        "real-3c7497aaef8a125a-jamo",
+        "real-3c7497aaef8a125a-fullwidth",
+        "real-3c7497aaef8a125a-confusable",
+        "real-3c7497aaef8a125a-zero_width",
+        "real-3c7497aaef8a125a-spaced",
+        "real-a9e9fa59d4f00673",
+        "real-a9e9fa59d4f00673-jamo",
+        "real-a9e9fa59d4f00673-zero_width",
+        "real-a9e9fa59d4f00673-spaced",
+        "real-2f5fc9eca65e14ce-spaced",
+        "real-388e7ba31afcae0c",
+        "real-388e7ba31afcae0c-jamo",
+        "real-388e7ba31afcae0c-fullwidth",
+        "real-388e7ba31afcae0c-confusable",
+        "real-388e7ba31afcae0c-zero_width",
+        "real-388e7ba31afcae0c-spaced",
+        "real-31451af422f25b5f",
+        "real-31451af422f25b5f-jamo",
+        "real-31451af422f25b5f-fullwidth",
+        "real-31451af422f25b5f-zero_width",
+        "real-31451af422f25b5f-spaced",
+        "real-7227cfdb512f26d4-spaced",
+        "reviewed-f9bb9781e7a3dcfac0",
+        "reviewed-f9bb9781e7a3dcfac0-jamo",
+        "reviewed-f9bb9781e7a3dcfac0-fullwidth",
+        "reviewed-f9bb9781e7a3dcfac0-zero_width",
+        "reviewed-f9bb9781e7a3dcfac0-spaced",
+        "reviewed-364cd8ce84d53606cb",
+        "reviewed-364cd8ce84d53606cb-jamo",
+        "reviewed-364cd8ce84d53606cb-fullwidth",
+        "reviewed-364cd8ce84d53606cb-zero_width",
+        "reviewed-364cd8ce84d53606cb-spaced",
+        "reviewed-bc1abf2fb585fe56a0",
+        "reviewed-bc1abf2fb585fe56a0-jamo",
+        "reviewed-bc1abf2fb585fe56a0-fullwidth",
+        "reviewed-bc1abf2fb585fe56a0-zero_width",
+        "reviewed-bc1abf2fb585fe56a0-spaced",
+        "reviewed-6e3ab70b08df32c408",
+        "reviewed-6e3ab70b08df32c408-jamo",
+        "reviewed-6e3ab70b08df32c408-fullwidth",
+        "reviewed-6e3ab70b08df32c408-zero_width",
+        "reviewed-6e3ab70b08df32c408-spaced",
+        "role-00-0-spaced",
+        "role-00-1-spaced",
+        "role-01-0-spaced",
+        "role-02-0",
+        "role-02-0-jamo",
+        "role-02-0-fullwidth",
+        "role-02-0-zero_width",
+        "role-02-0-spaced",
+        "role-02-1",
+        "role-02-1-jamo",
+        "role-02-1-fullwidth",
+        "role-02-1-zero_width",
+        "role-02-1-spaced",
+        "role-03-0-spaced",
+        "role-04-0",
+        "role-04-0-jamo",
+        "role-04-0-fullwidth",
+        "role-04-0-zero_width",
+        "role-04-0-spaced",
+        "role-04-1",
+        "role-04-1-jamo",
+        "role-04-1-fullwidth",
+        "role-04-1-zero_width",
+        "role-04-1-spaced",
+        "role-05-0-spaced",
+        "role-06-0",
+        "role-06-0-jamo",
+        "role-06-0-confusable",
+        "role-06-0-zero_width",
+        "role-06-0-spaced",
+        "role-06-1",
+        "role-06-1-jamo",
+        "role-06-1-confusable",
+        "role-06-1-zero_width",
+        "role-06-1-spaced",
+        "role-07-0-spaced",
+        "role-08-0",
+        "role-08-0-jamo",
+        "role-08-0-zero_width",
+        "role-08-0-spaced",
+        "role-08-1-spaced",
+        "role-09-0",
+        "role-09-0-jamo",
+        "role-09-0-fullwidth",
+        "role-09-0-zero_width",
+        "role-09-0-spaced",
+        "role-09-1",
+        "role-09-1-jamo",
+        "role-09-1-zero_width",
+        "role-09-1-spaced",
+        "role-10-0",
+        "role-10-0-jamo",
+        "role-10-0-confusable",
+        "role-10-0-zero_width",
+        "role-10-0-spaced",
+        "role-10-1",
+        "role-10-1-jamo",
+        "role-10-1-confusable",
+        "role-10-1-zero_width",
+        "role-10-1-spaced",
+        "role-13-0",
+        "role-13-0-jamo",
+        "role-13-0-fullwidth",
+        "role-13-0-confusable",
+        "role-13-0-zero_width",
+        "role-13-0-spaced",
+        "role-13-1",
+        "role-13-1-jamo",
+        "role-13-1-fullwidth",
+        "role-13-1-confusable",
+        "role-13-1-zero_width",
+        "role-13-1-spaced",
+        "role-14-0",
+        "role-14-0-jamo",
+        "role-14-0-fullwidth",
+        "role-14-0-confusable",
+        "role-14-0-zero_width",
+        "role-14-0-spaced",
+        "role-14-1",
+        "role-14-1-jamo",
+        "role-14-1-fullwidth",
+        "role-14-1-confusable",
+        "role-14-1-zero_width",
+        "role-14-1-spaced",
+        "role-15-0",
+        "role-15-0-jamo",
+        "role-15-0-fullwidth",
+        "role-15-0-confusable",
+        "role-15-0-zero_width",
+        "role-15-0-spaced",
+        "role-15-1",
+        "role-15-1-jamo",
+        "role-15-1-fullwidth",
+        "role-15-1-confusable",
+        "role-15-1-zero_width",
+        "role-15-1-spaced"
+      ],
+      "policy": "context_reserve96_target_remainder",
+      "changed_rows": 176,
+      "allocations": [
+        {
+          "id": "real-8eb69cbf73ac878f-spaced",
+          "target_kept": 230,
+          "target_total": 235,
+          "context_kept": 24,
+          "context_total": 24
+        },
+        {
+          "id": "real-c3980d29f083c6f5",
+          "target_kept": 224,
+          "target_total": 231,
+          "context_kept": 30,
+          "context_total": 30
+        },
+        {
+          "id": "real-c3980d29f083c6f5-jamo",
+          "target_kept": 224,
+          "target_total": 231,
+          "context_kept": 30,
+          "context_total": 30
+        },
+        {
+          "id": "real-c3980d29f083c6f5-fullwidth",
+          "target_kept": 225,
+          "target_total": 228,
+          "context_kept": 29,
+          "context_total": 29
+        },
+        {
+          "id": "real-c3980d29f083c6f5-zero_width",
+          "target_kept": 224,
+          "target_total": 231,
+          "context_kept": 30,
+          "context_total": 30
+        },
+        {
+          "id": "real-c3980d29f083c6f5-spaced",
+          "target_kept": 225,
+          "target_total": 239,
+          "context_kept": 29,
+          "context_total": 29
+        },
+        {
+          "id": "real-6ea2773f87758901",
+          "target_kept": 229,
+          "target_total": 255,
+          "context_kept": 25,
+          "context_total": 25
+        },
+        {
+          "id": "real-6ea2773f87758901-jamo",
+          "target_kept": 229,
+          "target_total": 255,
+          "context_kept": 25,
+          "context_total": 25
+        },
+        {
+          "id": "real-6ea2773f87758901-confusable",
+          "target_kept": 229,
+          "target_total": 254,
+          "context_kept": 25,
+          "context_total": 25
+        },
+        {
+          "id": "real-6ea2773f87758901-zero_width",
+          "target_kept": 229,
+          "target_total": 255,
+          "context_kept": 25,
+          "context_total": 25
+        },
+        {
+          "id": "real-6ea2773f87758901-spaced",
+          "target_kept": 228,
+          "target_total": 261,
+          "context_kept": 26,
+          "context_total": 26
+        },
+        {
+          "id": "real-ad11c3d9bd5ab778-spaced",
+          "target_kept": 233,
+          "target_total": 235,
+          "context_kept": 21,
+          "context_total": 21
+        },
+        {
+          "id": "real-d73c684da131ca08-spaced",
+          "target_kept": 232,
+          "target_total": 243,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-51f9e2b32de44d3f-spaced",
+          "target_kept": 233,
+          "target_total": 241,
+          "context_kept": 21,
+          "context_total": 21
+        },
+        {
+          "id": "real-f7a101fd2327eaae",
+          "target_kept": 226,
+          "target_total": 252,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "real-f7a101fd2327eaae-jamo",
+          "target_kept": 226,
+          "target_total": 252,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "real-f7a101fd2327eaae-fullwidth",
+          "target_kept": 229,
+          "target_total": 237,
+          "context_kept": 25,
+          "context_total": 25
+        },
+        {
+          "id": "real-f7a101fd2327eaae-confusable",
+          "target_kept": 229,
+          "target_total": 249,
+          "context_kept": 25,
+          "context_total": 25
+        },
+        {
+          "id": "real-f7a101fd2327eaae-zero_width",
+          "target_kept": 226,
+          "target_total": 252,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "real-f7a101fd2327eaae-spaced",
+          "target_kept": 226,
+          "target_total": 258,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "real-01a1a8f8e4166970",
+          "target_kept": 222,
+          "target_total": 236,
+          "context_kept": 32,
+          "context_total": 32
+        },
+        {
+          "id": "real-01a1a8f8e4166970-jamo",
+          "target_kept": 222,
+          "target_total": 236,
+          "context_kept": 32,
+          "context_total": 32
+        },
+        {
+          "id": "real-01a1a8f8e4166970-fullwidth",
+          "target_kept": 227,
+          "target_total": 231,
+          "context_kept": 27,
+          "context_total": 27
+        },
+        {
+          "id": "real-01a1a8f8e4166970-confusable",
+          "target_kept": 225,
+          "target_total": 233,
+          "context_kept": 29,
+          "context_total": 29
+        },
+        {
+          "id": "real-01a1a8f8e4166970-zero_width",
+          "target_kept": 222,
+          "target_total": 236,
+          "context_kept": 32,
+          "context_total": 32
+        },
+        {
+          "id": "real-01a1a8f8e4166970-spaced",
+          "target_kept": 221,
+          "target_total": 244,
+          "context_kept": 33,
+          "context_total": 33
+        },
+        {
+          "id": "real-95f06c05c9581d57",
+          "target_kept": 211,
+          "target_total": 259,
+          "context_kept": 43,
+          "context_total": 43
+        },
+        {
+          "id": "real-95f06c05c9581d57-jamo",
+          "target_kept": 211,
+          "target_total": 259,
+          "context_kept": 43,
+          "context_total": 43
+        },
+        {
+          "id": "real-95f06c05c9581d57-fullwidth",
+          "target_kept": 221,
+          "target_total": 246,
+          "context_kept": 33,
+          "context_total": 33
+        },
+        {
+          "id": "real-95f06c05c9581d57-confusable",
+          "target_kept": 214,
+          "target_total": 253,
+          "context_kept": 40,
+          "context_total": 40
+        },
+        {
+          "id": "real-95f06c05c9581d57-zero_width",
+          "target_kept": 211,
+          "target_total": 259,
+          "context_kept": 43,
+          "context_total": 43
+        },
+        {
+          "id": "real-95f06c05c9581d57-spaced",
+          "target_kept": 210,
+          "target_total": 260,
+          "context_kept": 44,
+          "context_total": 44
+        },
+        {
+          "id": "real-7bf60dca994e81ed",
+          "target_kept": 218,
+          "target_total": 252,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "real-7bf60dca994e81ed-jamo",
+          "target_kept": 218,
+          "target_total": 252,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "real-7bf60dca994e81ed-confusable",
+          "target_kept": 221,
+          "target_total": 246,
+          "context_kept": 33,
+          "context_total": 33
+        },
+        {
+          "id": "real-7bf60dca994e81ed-zero_width",
+          "target_kept": 218,
+          "target_total": 252,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "real-7bf60dca994e81ed-spaced",
+          "target_kept": 218,
+          "target_total": 253,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "real-3c7497aaef8a125a",
+          "target_kept": 215,
+          "target_total": 255,
+          "context_kept": 39,
+          "context_total": 39
+        },
+        {
+          "id": "real-3c7497aaef8a125a-jamo",
+          "target_kept": 215,
+          "target_total": 255,
+          "context_kept": 39,
+          "context_total": 39
+        },
+        {
+          "id": "real-3c7497aaef8a125a-fullwidth",
+          "target_kept": 232,
+          "target_total": 235,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-3c7497aaef8a125a-confusable",
+          "target_kept": 218,
+          "target_total": 249,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "real-3c7497aaef8a125a-zero_width",
+          "target_kept": 215,
+          "target_total": 255,
+          "context_kept": 39,
+          "context_total": 39
+        },
+        {
+          "id": "real-3c7497aaef8a125a-spaced",
+          "target_kept": 215,
+          "target_total": 261,
+          "context_kept": 39,
+          "context_total": 39
+        },
+        {
+          "id": "real-a9e9fa59d4f00673",
+          "target_kept": 224,
+          "target_total": 227,
+          "context_kept": 30,
+          "context_total": 30
+        },
+        {
+          "id": "real-a9e9fa59d4f00673-jamo",
+          "target_kept": 224,
+          "target_total": 227,
+          "context_kept": 30,
+          "context_total": 30
+        },
+        {
+          "id": "real-a9e9fa59d4f00673-zero_width",
+          "target_kept": 224,
+          "target_total": 227,
+          "context_kept": 30,
+          "context_total": 30
+        },
+        {
+          "id": "real-a9e9fa59d4f00673-spaced",
+          "target_kept": 223,
+          "target_total": 235,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "real-2f5fc9eca65e14ce-spaced",
+          "target_kept": 240,
+          "target_total": 246,
+          "context_kept": 14,
+          "context_total": 14
+        },
+        {
+          "id": "real-388e7ba31afcae0c",
+          "target_kept": 228,
+          "target_total": 240,
+          "context_kept": 26,
+          "context_total": 26
+        },
+        {
+          "id": "real-388e7ba31afcae0c-jamo",
+          "target_kept": 228,
+          "target_total": 240,
+          "context_kept": 26,
+          "context_total": 26
+        },
+        {
+          "id": "real-388e7ba31afcae0c-fullwidth",
+          "target_kept": 228,
+          "target_total": 235,
+          "context_kept": 26,
+          "context_total": 26
+        },
+        {
+          "id": "real-388e7ba31afcae0c-confusable",
+          "target_kept": 228,
+          "target_total": 236,
+          "context_kept": 26,
+          "context_total": 26
+        },
+        {
+          "id": "real-388e7ba31afcae0c-zero_width",
+          "target_kept": 228,
+          "target_total": 240,
+          "context_kept": 26,
+          "context_total": 26
+        },
+        {
+          "id": "real-388e7ba31afcae0c-spaced",
+          "target_kept": 228,
+          "target_total": 247,
+          "context_kept": 26,
+          "context_total": 26
+        },
+        {
+          "id": "real-31451af422f25b5f",
+          "target_kept": 234,
+          "target_total": 255,
+          "context_kept": 20,
+          "context_total": 20
+        },
+        {
+          "id": "real-31451af422f25b5f-jamo",
+          "target_kept": 234,
+          "target_total": 255,
+          "context_kept": 20,
+          "context_total": 20
+        },
+        {
+          "id": "real-31451af422f25b5f-fullwidth",
+          "target_kept": 234,
+          "target_total": 250,
+          "context_kept": 20,
+          "context_total": 20
+        },
+        {
+          "id": "real-31451af422f25b5f-zero_width",
+          "target_kept": 234,
+          "target_total": 255,
+          "context_kept": 20,
+          "context_total": 20
+        },
+        {
+          "id": "real-31451af422f25b5f-spaced",
+          "target_kept": 234,
+          "target_total": 262,
+          "context_kept": 20,
+          "context_total": 20
+        },
+        {
+          "id": "real-7227cfdb512f26d4-spaced",
+          "target_kept": 238,
+          "target_total": 239,
+          "context_kept": 16,
+          "context_total": 16
+        },
+        {
+          "id": "reviewed-f9bb9781e7a3dcfac0",
+          "target_kept": 100,
+          "target_total": 100,
+          "context_kept": 154,
+          "context_total": 687
+        },
+        {
+          "id": "reviewed-f9bb9781e7a3dcfac0-jamo",
+          "target_kept": 100,
+          "target_total": 100,
+          "context_kept": 154,
+          "context_total": 687
+        },
+        {
+          "id": "reviewed-f9bb9781e7a3dcfac0-fullwidth",
+          "target_kept": 100,
+          "target_total": 100,
+          "context_kept": 154,
+          "context_total": 654
+        },
+        {
+          "id": "reviewed-f9bb9781e7a3dcfac0-zero_width",
+          "target_kept": 100,
+          "target_total": 100,
+          "context_kept": 154,
+          "context_total": 687
+        },
+        {
+          "id": "reviewed-f9bb9781e7a3dcfac0-spaced",
+          "target_kept": 107,
+          "target_total": 107,
+          "context_kept": 147,
+          "context_total": 710
+        },
+        {
+          "id": "reviewed-364cd8ce84d53606cb",
+          "target_kept": 158,
+          "target_total": 256,
+          "context_kept": 96,
+          "context_total": 596
+        },
+        {
+          "id": "reviewed-364cd8ce84d53606cb-jamo",
+          "target_kept": 158,
+          "target_total": 256,
+          "context_kept": 96,
+          "context_total": 596
+        },
+        {
+          "id": "reviewed-364cd8ce84d53606cb-fullwidth",
+          "target_kept": 158,
+          "target_total": 254,
+          "context_kept": 96,
+          "context_total": 565
+        },
+        {
+          "id": "reviewed-364cd8ce84d53606cb-zero_width",
+          "target_kept": 158,
+          "target_total": 256,
+          "context_kept": 96,
+          "context_total": 596
+        },
+        {
+          "id": "reviewed-364cd8ce84d53606cb-spaced",
+          "target_kept": 158,
+          "target_total": 270,
+          "context_kept": 96,
+          "context_total": 612
+        },
+        {
+          "id": "reviewed-bc1abf2fb585fe56a0",
+          "target_kept": 158,
+          "target_total": 302,
+          "context_kept": 96,
+          "context_total": 546
+        },
+        {
+          "id": "reviewed-bc1abf2fb585fe56a0-jamo",
+          "target_kept": 158,
+          "target_total": 302,
+          "context_kept": 96,
+          "context_total": 546
+        },
+        {
+          "id": "reviewed-bc1abf2fb585fe56a0-fullwidth",
+          "target_kept": 158,
+          "target_total": 292,
+          "context_kept": 96,
+          "context_total": 521
+        },
+        {
+          "id": "reviewed-bc1abf2fb585fe56a0-zero_width",
+          "target_kept": 158,
+          "target_total": 302,
+          "context_kept": 96,
+          "context_total": 546
+        },
+        {
+          "id": "reviewed-bc1abf2fb585fe56a0-spaced",
+          "target_kept": 158,
+          "target_total": 310,
+          "context_kept": 96,
+          "context_total": 561
+        },
+        {
+          "id": "reviewed-6e3ab70b08df32c408",
+          "target_kept": 158,
+          "target_total": 353,
+          "context_kept": 96,
+          "context_total": 567
+        },
+        {
+          "id": "reviewed-6e3ab70b08df32c408-jamo",
+          "target_kept": 158,
+          "target_total": 353,
+          "context_kept": 96,
+          "context_total": 567
+        },
+        {
+          "id": "reviewed-6e3ab70b08df32c408-fullwidth",
+          "target_kept": 158,
+          "target_total": 309,
+          "context_kept": 96,
+          "context_total": 556
+        },
+        {
+          "id": "reviewed-6e3ab70b08df32c408-zero_width",
+          "target_kept": 158,
+          "target_total": 353,
+          "context_kept": 96,
+          "context_total": 567
+        },
+        {
+          "id": "reviewed-6e3ab70b08df32c408-spaced",
+          "target_kept": 158,
+          "target_total": 359,
+          "context_kept": 96,
+          "context_total": 583
+        },
+        {
+          "id": "role-00-0-spaced",
+          "target_kept": 216,
+          "target_total": 227,
+          "context_kept": 38,
+          "context_total": 38
+        },
+        {
+          "id": "role-00-1-spaced",
+          "target_kept": 226,
+          "target_total": 227,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-01-0-spaced",
+          "target_kept": 216,
+          "target_total": 221,
+          "context_kept": 38,
+          "context_total": 38
+        },
+        {
+          "id": "role-02-0",
+          "target_kept": 218,
+          "target_total": 229,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-02-0-jamo",
+          "target_kept": 218,
+          "target_total": 229,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-02-0-fullwidth",
+          "target_kept": 218,
+          "target_total": 227,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-02-0-zero_width",
+          "target_kept": 218,
+          "target_total": 229,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-02-0-spaced",
+          "target_kept": 216,
+          "target_total": 235,
+          "context_kept": 38,
+          "context_total": 38
+        },
+        {
+          "id": "role-02-1",
+          "target_kept": 226,
+          "target_total": 229,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-02-1-jamo",
+          "target_kept": 226,
+          "target_total": 229,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-02-1-fullwidth",
+          "target_kept": 226,
+          "target_total": 227,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-02-1-zero_width",
+          "target_kept": 226,
+          "target_total": 229,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-02-1-spaced",
+          "target_kept": 226,
+          "target_total": 235,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-03-0-spaced",
+          "target_kept": 216,
+          "target_total": 219,
+          "context_kept": 38,
+          "context_total": 38
+        },
+        {
+          "id": "role-04-0",
+          "target_kept": 218,
+          "target_total": 231,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-04-0-jamo",
+          "target_kept": 218,
+          "target_total": 231,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-04-0-fullwidth",
+          "target_kept": 218,
+          "target_total": 228,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-04-0-zero_width",
+          "target_kept": 218,
+          "target_total": 231,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-04-0-spaced",
+          "target_kept": 216,
+          "target_total": 239,
+          "context_kept": 38,
+          "context_total": 38
+        },
+        {
+          "id": "role-04-1",
+          "target_kept": 226,
+          "target_total": 231,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-04-1-jamo",
+          "target_kept": 226,
+          "target_total": 231,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-04-1-fullwidth",
+          "target_kept": 226,
+          "target_total": 228,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-04-1-zero_width",
+          "target_kept": 226,
+          "target_total": 231,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-04-1-spaced",
+          "target_kept": 226,
+          "target_total": 239,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-05-0-spaced",
+          "target_kept": 216,
+          "target_total": 221,
+          "context_kept": 38,
+          "context_total": 38
+        },
+        {
+          "id": "role-06-0",
+          "target_kept": 218,
+          "target_total": 255,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-06-0-jamo",
+          "target_kept": 218,
+          "target_total": 255,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-06-0-confusable",
+          "target_kept": 218,
+          "target_total": 254,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-06-0-zero_width",
+          "target_kept": 218,
+          "target_total": 255,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-06-0-spaced",
+          "target_kept": 216,
+          "target_total": 261,
+          "context_kept": 38,
+          "context_total": 38
+        },
+        {
+          "id": "role-06-1",
+          "target_kept": 226,
+          "target_total": 255,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-06-1-jamo",
+          "target_kept": 226,
+          "target_total": 255,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-06-1-confusable",
+          "target_kept": 226,
+          "target_total": 254,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-06-1-zero_width",
+          "target_kept": 226,
+          "target_total": 255,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-06-1-spaced",
+          "target_kept": 226,
+          "target_total": 261,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-07-0-spaced",
+          "target_kept": 216,
+          "target_total": 222,
+          "context_kept": 38,
+          "context_total": 38
+        },
+        {
+          "id": "role-08-0",
+          "target_kept": 218,
+          "target_total": 221,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-08-0-jamo",
+          "target_kept": 218,
+          "target_total": 221,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-08-0-zero_width",
+          "target_kept": 218,
+          "target_total": 221,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-08-0-spaced",
+          "target_kept": 216,
+          "target_total": 235,
+          "context_kept": 38,
+          "context_total": 38
+        },
+        {
+          "id": "role-08-1-spaced",
+          "target_kept": 226,
+          "target_total": 235,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-09-0",
+          "target_kept": 218,
+          "target_total": 229,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-09-0-jamo",
+          "target_kept": 218,
+          "target_total": 229,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-09-0-fullwidth",
+          "target_kept": 218,
+          "target_total": 226,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-09-0-zero_width",
+          "target_kept": 218,
+          "target_total": 229,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-09-0-spaced",
+          "target_kept": 216,
+          "target_total": 243,
+          "context_kept": 38,
+          "context_total": 38
+        },
+        {
+          "id": "role-09-1",
+          "target_kept": 226,
+          "target_total": 229,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-09-1-jamo",
+          "target_kept": 226,
+          "target_total": 229,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-09-1-zero_width",
+          "target_kept": 226,
+          "target_total": 229,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-09-1-spaced",
+          "target_kept": 226,
+          "target_total": 243,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-10-0",
+          "target_kept": 218,
+          "target_total": 232,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-10-0-jamo",
+          "target_kept": 218,
+          "target_total": 232,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-10-0-confusable",
+          "target_kept": 218,
+          "target_total": 229,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-10-0-zero_width",
+          "target_kept": 218,
+          "target_total": 232,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-10-0-spaced",
+          "target_kept": 216,
+          "target_total": 241,
+          "context_kept": 38,
+          "context_total": 38
+        },
+        {
+          "id": "role-10-1",
+          "target_kept": 226,
+          "target_total": 232,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-10-1-jamo",
+          "target_kept": 226,
+          "target_total": 232,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-10-1-confusable",
+          "target_kept": 226,
+          "target_total": 229,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-10-1-zero_width",
+          "target_kept": 226,
+          "target_total": 232,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-10-1-spaced",
+          "target_kept": 226,
+          "target_total": 241,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-13-0",
+          "target_kept": 218,
+          "target_total": 252,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-13-0-jamo",
+          "target_kept": 218,
+          "target_total": 252,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-13-0-fullwidth",
+          "target_kept": 218,
+          "target_total": 237,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-13-0-confusable",
+          "target_kept": 218,
+          "target_total": 249,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-13-0-zero_width",
+          "target_kept": 218,
+          "target_total": 252,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-13-0-spaced",
+          "target_kept": 216,
+          "target_total": 258,
+          "context_kept": 38,
+          "context_total": 38
+        },
+        {
+          "id": "role-13-1",
+          "target_kept": 226,
+          "target_total": 252,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-13-1-jamo",
+          "target_kept": 226,
+          "target_total": 252,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-13-1-fullwidth",
+          "target_kept": 226,
+          "target_total": 237,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-13-1-confusable",
+          "target_kept": 226,
+          "target_total": 249,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-13-1-zero_width",
+          "target_kept": 226,
+          "target_total": 252,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-13-1-spaced",
+          "target_kept": 226,
+          "target_total": 258,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-14-0",
+          "target_kept": 218,
+          "target_total": 236,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-14-0-jamo",
+          "target_kept": 218,
+          "target_total": 236,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-14-0-fullwidth",
+          "target_kept": 218,
+          "target_total": 231,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-14-0-confusable",
+          "target_kept": 218,
+          "target_total": 233,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-14-0-zero_width",
+          "target_kept": 218,
+          "target_total": 236,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-14-0-spaced",
+          "target_kept": 216,
+          "target_total": 244,
+          "context_kept": 38,
+          "context_total": 38
+        },
+        {
+          "id": "role-14-1",
+          "target_kept": 226,
+          "target_total": 236,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-14-1-jamo",
+          "target_kept": 226,
+          "target_total": 236,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-14-1-fullwidth",
+          "target_kept": 226,
+          "target_total": 231,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-14-1-confusable",
+          "target_kept": 226,
+          "target_total": 233,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-14-1-zero_width",
+          "target_kept": 226,
+          "target_total": 236,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-14-1-spaced",
+          "target_kept": 226,
+          "target_total": 244,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-15-0",
+          "target_kept": 218,
+          "target_total": 259,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-15-0-jamo",
+          "target_kept": 218,
+          "target_total": 259,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-15-0-fullwidth",
+          "target_kept": 218,
+          "target_total": 246,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-15-0-confusable",
+          "target_kept": 218,
+          "target_total": 253,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-15-0-zero_width",
+          "target_kept": 218,
+          "target_total": 259,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "role-15-0-spaced",
+          "target_kept": 216,
+          "target_total": 260,
+          "context_kept": 38,
+          "context_total": 38
+        },
+        {
+          "id": "role-15-1",
+          "target_kept": 226,
+          "target_total": 259,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-15-1-jamo",
+          "target_kept": 226,
+          "target_total": 259,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-15-1-fullwidth",
+          "target_kept": 226,
+          "target_total": 246,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-15-1-confusable",
+          "target_kept": 226,
+          "target_total": 253,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-15-1-zero_width",
+          "target_kept": 226,
+          "target_total": 259,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "role-15-1-spaced",
+          "target_kept": 226,
+          "target_total": 260,
+          "context_kept": 28,
+          "context_total": 28
+        }
+      ]
+    },
+    "dev": {
+      "n": 90,
+      "limit": 256,
+      "max_tokens": 66,
+      "p50_tokens": 51.0,
+      "p95_tokens": 62,
+      "truncated": 0,
+      "target_truncated": 0,
+      "context_absent": 0,
+      "truncated_ids": [],
+      "policy": "context_reserve96_target_remainder",
+      "changed_rows": 0,
+      "allocations": []
+    },
+    "conflict_groups": 0,
+    "token_unique": 518
+  },
+  "ko": {
+    "train": {
+      "n": 956,
+      "limit": 256,
+      "max_tokens": 1116,
+      "p50_tokens": 52.0,
+      "p95_tokens": 326,
+      "truncated": 322,
+      "target_truncated": 239,
+      "context_absent": 239,
+      "truncated_ids": [
+        "real-c276a879eb8a17c5",
+        "real-c276a879eb8a17c5-jamo",
+        "real-c276a879eb8a17c5-fullwidth",
+        "real-c276a879eb8a17c5-confusable",
+        "real-c276a879eb8a17c5-zero_width",
+        "real-c276a879eb8a17c5-spaced",
+        "real-ddb877efdb6b2b4d",
+        "real-ddb877efdb6b2b4d-jamo",
+        "real-ddb877efdb6b2b4d-fullwidth",
+        "real-ddb877efdb6b2b4d-zero_width",
+        "real-ddb877efdb6b2b4d-spaced",
+        "real-8eb69cbf73ac878f",
+        "real-8eb69cbf73ac878f-jamo",
+        "real-8eb69cbf73ac878f-fullwidth",
+        "real-8eb69cbf73ac878f-zero_width",
+        "real-8eb69cbf73ac878f-spaced",
+        "real-41eaea6d351f5a20",
+        "real-41eaea6d351f5a20-jamo",
+        "real-41eaea6d351f5a20-fullwidth",
+        "real-41eaea6d351f5a20-confusable",
+        "real-41eaea6d351f5a20-zero_width",
+        "real-41eaea6d351f5a20-spaced",
+        "real-c3980d29f083c6f5",
+        "real-c3980d29f083c6f5-jamo",
+        "real-c3980d29f083c6f5-fullwidth",
+        "real-c3980d29f083c6f5-zero_width",
+        "real-c3980d29f083c6f5-spaced",
+        "real-1611ac49586932a8",
+        "real-1611ac49586932a8-jamo",
+        "real-1611ac49586932a8-fullwidth",
+        "real-1611ac49586932a8-confusable",
+        "real-1611ac49586932a8-zero_width",
+        "real-1611ac49586932a8-spaced",
+        "real-6ea2773f87758901",
+        "real-6ea2773f87758901-jamo",
+        "real-6ea2773f87758901-fullwidth",
+        "real-6ea2773f87758901-confusable",
+        "real-6ea2773f87758901-zero_width",
+        "real-6ea2773f87758901-spaced",
+        "real-c8dd8c73c2e28010",
+        "real-c8dd8c73c2e28010-jamo",
+        "real-c8dd8c73c2e28010-fullwidth",
+        "real-c8dd8c73c2e28010-confusable",
+        "real-c8dd8c73c2e28010-zero_width",
+        "real-c8dd8c73c2e28010-spaced",
+        "real-ad11c3d9bd5ab778",
+        "real-ad11c3d9bd5ab778-jamo",
+        "real-ad11c3d9bd5ab778-fullwidth",
+        "real-ad11c3d9bd5ab778-zero_width",
+        "real-ad11c3d9bd5ab778-spaced",
+        "real-d73c684da131ca08",
+        "real-d73c684da131ca08-jamo",
+        "real-d73c684da131ca08-fullwidth",
+        "real-d73c684da131ca08-zero_width",
+        "real-d73c684da131ca08-spaced",
+        "real-51f9e2b32de44d3f",
+        "real-51f9e2b32de44d3f-jamo",
+        "real-51f9e2b32de44d3f-fullwidth",
+        "real-51f9e2b32de44d3f-confusable",
+        "real-51f9e2b32de44d3f-zero_width",
+        "real-51f9e2b32de44d3f-spaced",
+        "real-f7a101fd2327eaae",
+        "real-f7a101fd2327eaae-jamo",
+        "real-f7a101fd2327eaae-fullwidth",
+        "real-f7a101fd2327eaae-confusable",
+        "real-f7a101fd2327eaae-zero_width",
+        "real-f7a101fd2327eaae-spaced",
+        "real-01a1a8f8e4166970",
+        "real-01a1a8f8e4166970-jamo",
+        "real-01a1a8f8e4166970-fullwidth",
+        "real-01a1a8f8e4166970-confusable",
+        "real-01a1a8f8e4166970-zero_width",
+        "real-01a1a8f8e4166970-spaced",
+        "real-95f06c05c9581d57",
+        "real-95f06c05c9581d57-jamo",
+        "real-95f06c05c9581d57-fullwidth",
+        "real-95f06c05c9581d57-confusable",
+        "real-95f06c05c9581d57-zero_width",
+        "real-95f06c05c9581d57-spaced",
+        "real-7bf60dca994e81ed",
+        "real-7bf60dca994e81ed-jamo",
+        "real-7bf60dca994e81ed-fullwidth",
+        "real-7bf60dca994e81ed-confusable",
+        "real-7bf60dca994e81ed-zero_width",
+        "real-7bf60dca994e81ed-spaced",
+        "real-3c7497aaef8a125a",
+        "real-3c7497aaef8a125a-jamo",
+        "real-3c7497aaef8a125a-fullwidth",
+        "real-3c7497aaef8a125a-confusable",
+        "real-3c7497aaef8a125a-zero_width",
+        "real-3c7497aaef8a125a-spaced",
+        "real-4856aed8286e495f",
+        "real-4856aed8286e495f-jamo",
+        "real-4856aed8286e495f-confusable",
+        "real-4856aed8286e495f-zero_width",
+        "real-4856aed8286e495f-spaced",
+        "real-04d6b7a6b7dc7787",
+        "real-04d6b7a6b7dc7787-jamo",
+        "real-04d6b7a6b7dc7787-fullwidth",
+        "real-04d6b7a6b7dc7787-confusable",
+        "real-04d6b7a6b7dc7787-zero_width",
+        "real-04d6b7a6b7dc7787-spaced",
+        "real-a9e9fa59d4f00673",
+        "real-a9e9fa59d4f00673-jamo",
+        "real-a9e9fa59d4f00673-fullwidth",
+        "real-a9e9fa59d4f00673-confusable",
+        "real-a9e9fa59d4f00673-zero_width",
+        "real-a9e9fa59d4f00673-spaced",
+        "real-4380ee374f710cb8",
+        "real-4380ee374f710cb8-jamo",
+        "real-4380ee374f710cb8-confusable",
+        "real-4380ee374f710cb8-zero_width",
+        "real-4380ee374f710cb8-spaced",
+        "real-2f5fc9eca65e14ce",
+        "real-2f5fc9eca65e14ce-jamo",
+        "real-2f5fc9eca65e14ce-fullwidth",
+        "real-2f5fc9eca65e14ce-zero_width",
+        "real-2f5fc9eca65e14ce-spaced",
+        "real-388e7ba31afcae0c",
+        "real-388e7ba31afcae0c-jamo",
+        "real-388e7ba31afcae0c-fullwidth",
+        "real-388e7ba31afcae0c-confusable",
+        "real-388e7ba31afcae0c-zero_width",
+        "real-388e7ba31afcae0c-spaced",
+        "real-bd85f5532a64fcf3",
+        "real-bd85f5532a64fcf3-jamo",
+        "real-bd85f5532a64fcf3-confusable",
+        "real-bd85f5532a64fcf3-zero_width",
+        "real-bd85f5532a64fcf3-spaced",
+        "real-31451af422f25b5f",
+        "real-31451af422f25b5f-jamo",
+        "real-31451af422f25b5f-fullwidth",
+        "real-31451af422f25b5f-zero_width",
+        "real-31451af422f25b5f-spaced",
+        "real-7227cfdb512f26d4",
+        "real-7227cfdb512f26d4-jamo",
+        "real-7227cfdb512f26d4-zero_width",
+        "real-7227cfdb512f26d4-spaced",
+        "real-29d3e77c1c01ec83",
+        "real-29d3e77c1c01ec83-jamo",
+        "real-29d3e77c1c01ec83-fullwidth",
+        "real-29d3e77c1c01ec83-confusable",
+        "real-29d3e77c1c01ec83-zero_width",
+        "real-29d3e77c1c01ec83-spaced",
+        "reviewed-f9bb9781e7a3dcfac0",
+        "reviewed-f9bb9781e7a3dcfac0-jamo",
+        "reviewed-f9bb9781e7a3dcfac0-fullwidth",
+        "reviewed-f9bb9781e7a3dcfac0-zero_width",
+        "reviewed-f9bb9781e7a3dcfac0-spaced",
+        "reviewed-364cd8ce84d53606cb",
+        "reviewed-364cd8ce84d53606cb-jamo",
+        "reviewed-364cd8ce84d53606cb-fullwidth",
+        "reviewed-364cd8ce84d53606cb-zero_width",
+        "reviewed-364cd8ce84d53606cb-spaced",
+        "reviewed-bc1abf2fb585fe56a0",
+        "reviewed-bc1abf2fb585fe56a0-jamo",
+        "reviewed-bc1abf2fb585fe56a0-fullwidth",
+        "reviewed-bc1abf2fb585fe56a0-zero_width",
+        "reviewed-bc1abf2fb585fe56a0-spaced",
+        "reviewed-6e3ab70b08df32c408",
+        "reviewed-6e3ab70b08df32c408-jamo",
+        "reviewed-6e3ab70b08df32c408-fullwidth",
+        "reviewed-6e3ab70b08df32c408-zero_width",
+        "reviewed-6e3ab70b08df32c408-spaced",
+        "role-00-0",
+        "role-00-0-jamo",
+        "role-00-0-fullwidth",
+        "role-00-0-confusable",
+        "role-00-0-zero_width",
+        "role-00-0-spaced",
+        "role-00-1",
+        "role-00-1-jamo",
+        "role-00-1-fullwidth",
+        "role-00-1-confusable",
+        "role-00-1-zero_width",
+        "role-00-1-spaced",
+        "role-01-0",
+        "role-01-0-jamo",
+        "role-01-0-fullwidth",
+        "role-01-0-zero_width",
+        "role-01-0-spaced",
+        "role-01-1",
+        "role-01-1-jamo",
+        "role-01-1-fullwidth",
+        "role-01-1-zero_width",
+        "role-01-1-spaced",
+        "role-02-0",
+        "role-02-0-jamo",
+        "role-02-0-fullwidth",
+        "role-02-0-zero_width",
+        "role-02-0-spaced",
+        "role-02-1",
+        "role-02-1-jamo",
+        "role-02-1-fullwidth",
+        "role-02-1-zero_width",
+        "role-02-1-spaced",
+        "role-03-0",
+        "role-03-0-jamo",
+        "role-03-0-fullwidth",
+        "role-03-0-confusable",
+        "role-03-0-zero_width",
+        "role-03-0-spaced",
+        "role-03-1",
+        "role-03-1-jamo",
+        "role-03-1-fullwidth",
+        "role-03-1-confusable",
+        "role-03-1-zero_width",
+        "role-03-1-spaced",
+        "role-04-0",
+        "role-04-0-jamo",
+        "role-04-0-fullwidth",
+        "role-04-0-zero_width",
+        "role-04-0-spaced",
+        "role-04-1",
+        "role-04-1-jamo",
+        "role-04-1-fullwidth",
+        "role-04-1-zero_width",
+        "role-04-1-spaced",
+        "role-05-0",
+        "role-05-0-jamo",
+        "role-05-0-fullwidth",
+        "role-05-0-confusable",
+        "role-05-0-zero_width",
+        "role-05-0-spaced",
+        "role-05-1",
+        "role-05-1-jamo",
+        "role-05-1-fullwidth",
+        "role-05-1-confusable",
+        "role-05-1-zero_width",
+        "role-05-1-spaced",
+        "role-06-0",
+        "role-06-0-jamo",
+        "role-06-0-fullwidth",
+        "role-06-0-confusable",
+        "role-06-0-zero_width",
+        "role-06-0-spaced",
+        "role-06-1",
+        "role-06-1-jamo",
+        "role-06-1-fullwidth",
+        "role-06-1-confusable",
+        "role-06-1-zero_width",
+        "role-06-1-spaced",
+        "role-07-0",
+        "role-07-0-jamo",
+        "role-07-0-fullwidth",
+        "role-07-0-confusable",
+        "role-07-0-zero_width",
+        "role-07-0-spaced",
+        "role-07-1",
+        "role-07-1-jamo",
+        "role-07-1-fullwidth",
+        "role-07-1-confusable",
+        "role-07-1-zero_width",
+        "role-07-1-spaced",
+        "role-08-0",
+        "role-08-0-jamo",
+        "role-08-0-fullwidth",
+        "role-08-0-zero_width",
+        "role-08-0-spaced",
+        "role-08-1",
+        "role-08-1-jamo",
+        "role-08-1-fullwidth",
+        "role-08-1-zero_width",
+        "role-08-1-spaced",
+        "role-09-0",
+        "role-09-0-jamo",
+        "role-09-0-fullwidth",
+        "role-09-0-zero_width",
+        "role-09-0-spaced",
+        "role-09-1",
+        "role-09-1-jamo",
+        "role-09-1-fullwidth",
+        "role-09-1-zero_width",
+        "role-09-1-spaced",
+        "role-10-0",
+        "role-10-0-jamo",
+        "role-10-0-fullwidth",
+        "role-10-0-confusable",
+        "role-10-0-zero_width",
+        "role-10-0-spaced",
+        "role-10-1",
+        "role-10-1-jamo",
+        "role-10-1-fullwidth",
+        "role-10-1-confusable",
+        "role-10-1-zero_width",
+        "role-10-1-spaced",
+        "role-13-0",
+        "role-13-0-jamo",
+        "role-13-0-fullwidth",
+        "role-13-0-confusable",
+        "role-13-0-zero_width",
+        "role-13-0-spaced",
+        "role-13-1",
+        "role-13-1-jamo",
+        "role-13-1-fullwidth",
+        "role-13-1-confusable",
+        "role-13-1-zero_width",
+        "role-13-1-spaced",
+        "role-14-0",
+        "role-14-0-jamo",
+        "role-14-0-fullwidth",
+        "role-14-0-confusable",
+        "role-14-0-zero_width",
+        "role-14-0-spaced",
+        "role-14-1",
+        "role-14-1-jamo",
+        "role-14-1-fullwidth",
+        "role-14-1-confusable",
+        "role-14-1-zero_width",
+        "role-14-1-spaced",
+        "role-15-0",
+        "role-15-0-jamo",
+        "role-15-0-fullwidth",
+        "role-15-0-confusable",
+        "role-15-0-zero_width",
+        "role-15-0-spaced",
+        "role-15-1",
+        "role-15-1-jamo",
+        "role-15-1-fullwidth",
+        "role-15-1-confusable",
+        "role-15-1-zero_width",
+        "role-15-1-spaced"
+      ],
+      "policy": "context_reserve96_target_remainder",
+      "changed_rows": 322,
+      "allocations": [
+        {
+          "id": "real-c276a879eb8a17c5",
+          "target_kept": 230,
+          "target_total": 259,
+          "context_kept": 24,
+          "context_total": 24
+        },
+        {
+          "id": "real-c276a879eb8a17c5-jamo",
+          "target_kept": 230,
+          "target_total": 259,
+          "context_kept": 24,
+          "context_total": 24
+        },
+        {
+          "id": "real-c276a879eb8a17c5-fullwidth",
+          "target_kept": 230,
+          "target_total": 259,
+          "context_kept": 24,
+          "context_total": 24
+        },
+        {
+          "id": "real-c276a879eb8a17c5-confusable",
+          "target_kept": 230,
+          "target_total": 260,
+          "context_kept": 24,
+          "context_total": 24
+        },
+        {
+          "id": "real-c276a879eb8a17c5-zero_width",
+          "target_kept": 230,
+          "target_total": 259,
+          "context_kept": 24,
+          "context_total": 24
+        },
+        {
+          "id": "real-c276a879eb8a17c5-spaced",
+          "target_kept": 230,
+          "target_total": 268,
+          "context_kept": 24,
+          "context_total": 24
+        },
+        {
+          "id": "real-ddb877efdb6b2b4d",
+          "target_kept": 223,
+          "target_total": 253,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "real-ddb877efdb6b2b4d-jamo",
+          "target_kept": 223,
+          "target_total": 253,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "real-ddb877efdb6b2b4d-fullwidth",
+          "target_kept": 224,
+          "target_total": 248,
+          "context_kept": 30,
+          "context_total": 30
+        },
+        {
+          "id": "real-ddb877efdb6b2b4d-zero_width",
+          "target_kept": 223,
+          "target_total": 253,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "real-ddb877efdb6b2b4d-spaced",
+          "target_kept": 223,
+          "target_total": 263,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "real-8eb69cbf73ac878f",
+          "target_kept": 231,
+          "target_total": 276,
+          "context_kept": 23,
+          "context_total": 23
+        },
+        {
+          "id": "real-8eb69cbf73ac878f-jamo",
+          "target_kept": 231,
+          "target_total": 276,
+          "context_kept": 23,
+          "context_total": 23
+        },
+        {
+          "id": "real-8eb69cbf73ac878f-fullwidth",
+          "target_kept": 231,
+          "target_total": 274,
+          "context_kept": 23,
+          "context_total": 23
+        },
+        {
+          "id": "real-8eb69cbf73ac878f-zero_width",
+          "target_kept": 231,
+          "target_total": 276,
+          "context_kept": 23,
+          "context_total": 23
+        },
+        {
+          "id": "real-8eb69cbf73ac878f-spaced",
+          "target_kept": 231,
+          "target_total": 279,
+          "context_kept": 23,
+          "context_total": 23
+        },
+        {
+          "id": "real-41eaea6d351f5a20",
+          "target_kept": 229,
+          "target_total": 258,
+          "context_kept": 25,
+          "context_total": 25
+        },
+        {
+          "id": "real-41eaea6d351f5a20-jamo",
+          "target_kept": 229,
+          "target_total": 258,
+          "context_kept": 25,
+          "context_total": 25
+        },
+        {
+          "id": "real-41eaea6d351f5a20-fullwidth",
+          "target_kept": 229,
+          "target_total": 253,
+          "context_kept": 25,
+          "context_total": 25
+        },
+        {
+          "id": "real-41eaea6d351f5a20-confusable",
+          "target_kept": 229,
+          "target_total": 259,
+          "context_kept": 25,
+          "context_total": 25
+        },
+        {
+          "id": "real-41eaea6d351f5a20-zero_width",
+          "target_kept": 229,
+          "target_total": 258,
+          "context_kept": 25,
+          "context_total": 25
+        },
+        {
+          "id": "real-41eaea6d351f5a20-spaced",
+          "target_kept": 229,
+          "target_total": 266,
+          "context_kept": 25,
+          "context_total": 25
+        },
+        {
+          "id": "real-c3980d29f083c6f5",
+          "target_kept": 222,
+          "target_total": 301,
+          "context_kept": 32,
+          "context_total": 32
+        },
+        {
+          "id": "real-c3980d29f083c6f5-jamo",
+          "target_kept": 222,
+          "target_total": 301,
+          "context_kept": 32,
+          "context_total": 32
+        },
+        {
+          "id": "real-c3980d29f083c6f5-fullwidth",
+          "target_kept": 223,
+          "target_total": 295,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "real-c3980d29f083c6f5-zero_width",
+          "target_kept": 222,
+          "target_total": 301,
+          "context_kept": 32,
+          "context_total": 32
+        },
+        {
+          "id": "real-c3980d29f083c6f5-spaced",
+          "target_kept": 223,
+          "target_total": 302,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "real-1611ac49586932a8",
+          "target_kept": 232,
+          "target_total": 245,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-1611ac49586932a8-jamo",
+          "target_kept": 232,
+          "target_total": 245,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-1611ac49586932a8-fullwidth",
+          "target_kept": 233,
+          "target_total": 240,
+          "context_kept": 21,
+          "context_total": 21
+        },
+        {
+          "id": "real-1611ac49586932a8-confusable",
+          "target_kept": 233,
+          "target_total": 242,
+          "context_kept": 21,
+          "context_total": 21
+        },
+        {
+          "id": "real-1611ac49586932a8-zero_width",
+          "target_kept": 232,
+          "target_total": 245,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-1611ac49586932a8-spaced",
+          "target_kept": 231,
+          "target_total": 249,
+          "context_kept": 23,
+          "context_total": 23
+        },
+        {
+          "id": "real-6ea2773f87758901",
+          "target_kept": 229,
+          "target_total": 279,
+          "context_kept": 25,
+          "context_total": 25
+        },
+        {
+          "id": "real-6ea2773f87758901-jamo",
+          "target_kept": 229,
+          "target_total": 279,
+          "context_kept": 25,
+          "context_total": 25
+        },
+        {
+          "id": "real-6ea2773f87758901-fullwidth",
+          "target_kept": 232,
+          "target_total": 247,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-6ea2773f87758901-confusable",
+          "target_kept": 229,
+          "target_total": 279,
+          "context_kept": 25,
+          "context_total": 25
+        },
+        {
+          "id": "real-6ea2773f87758901-zero_width",
+          "target_kept": 229,
+          "target_total": 279,
+          "context_kept": 25,
+          "context_total": 25
+        },
+        {
+          "id": "real-6ea2773f87758901-spaced",
+          "target_kept": 228,
+          "target_total": 283,
+          "context_kept": 26,
+          "context_total": 26
+        },
+        {
+          "id": "real-c8dd8c73c2e28010",
+          "target_kept": 232,
+          "target_total": 241,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-c8dd8c73c2e28010-jamo",
+          "target_kept": 232,
+          "target_total": 241,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-c8dd8c73c2e28010-fullwidth",
+          "target_kept": 232,
+          "target_total": 239,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-c8dd8c73c2e28010-confusable",
+          "target_kept": 232,
+          "target_total": 240,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-c8dd8c73c2e28010-zero_width",
+          "target_kept": 232,
+          "target_total": 241,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-c8dd8c73c2e28010-spaced",
+          "target_kept": 232,
+          "target_total": 250,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-ad11c3d9bd5ab778",
+          "target_kept": 232,
+          "target_total": 271,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-ad11c3d9bd5ab778-jamo",
+          "target_kept": 232,
+          "target_total": 271,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-ad11c3d9bd5ab778-fullwidth",
+          "target_kept": 232,
+          "target_total": 263,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-ad11c3d9bd5ab778-zero_width",
+          "target_kept": 232,
+          "target_total": 271,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-ad11c3d9bd5ab778-spaced",
+          "target_kept": 232,
+          "target_total": 279,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-d73c684da131ca08",
+          "target_kept": 233,
+          "target_total": 271,
+          "context_kept": 21,
+          "context_total": 21
+        },
+        {
+          "id": "real-d73c684da131ca08-jamo",
+          "target_kept": 233,
+          "target_total": 271,
+          "context_kept": 21,
+          "context_total": 21
+        },
+        {
+          "id": "real-d73c684da131ca08-fullwidth",
+          "target_kept": 233,
+          "target_total": 268,
+          "context_kept": 21,
+          "context_total": 21
+        },
+        {
+          "id": "real-d73c684da131ca08-zero_width",
+          "target_kept": 233,
+          "target_total": 271,
+          "context_kept": 21,
+          "context_total": 21
+        },
+        {
+          "id": "real-d73c684da131ca08-spaced",
+          "target_kept": 233,
+          "target_total": 281,
+          "context_kept": 21,
+          "context_total": 21
+        },
+        {
+          "id": "real-51f9e2b32de44d3f",
+          "target_kept": 229,
+          "target_total": 259,
+          "context_kept": 25,
+          "context_total": 25
+        },
+        {
+          "id": "real-51f9e2b32de44d3f-jamo",
+          "target_kept": 229,
+          "target_total": 259,
+          "context_kept": 25,
+          "context_total": 25
+        },
+        {
+          "id": "real-51f9e2b32de44d3f-fullwidth",
+          "target_kept": 229,
+          "target_total": 238,
+          "context_kept": 25,
+          "context_total": 25
+        },
+        {
+          "id": "real-51f9e2b32de44d3f-confusable",
+          "target_kept": 229,
+          "target_total": 258,
+          "context_kept": 25,
+          "context_total": 25
+        },
+        {
+          "id": "real-51f9e2b32de44d3f-zero_width",
+          "target_kept": 229,
+          "target_total": 259,
+          "context_kept": 25,
+          "context_total": 25
+        },
+        {
+          "id": "real-51f9e2b32de44d3f-spaced",
+          "target_kept": 229,
+          "target_total": 266,
+          "context_kept": 25,
+          "context_total": 25
+        },
+        {
+          "id": "real-f7a101fd2327eaae",
+          "target_kept": 240,
+          "target_total": 270,
+          "context_kept": 14,
+          "context_total": 14
+        },
+        {
+          "id": "real-f7a101fd2327eaae-jamo",
+          "target_kept": 240,
+          "target_total": 270,
+          "context_kept": 14,
+          "context_total": 14
+        },
+        {
+          "id": "real-f7a101fd2327eaae-fullwidth",
+          "target_kept": 243,
+          "target_total": 256,
+          "context_kept": 11,
+          "context_total": 11
+        },
+        {
+          "id": "real-f7a101fd2327eaae-confusable",
+          "target_kept": 243,
+          "target_total": 267,
+          "context_kept": 11,
+          "context_total": 11
+        },
+        {
+          "id": "real-f7a101fd2327eaae-zero_width",
+          "target_kept": 240,
+          "target_total": 270,
+          "context_kept": 14,
+          "context_total": 14
+        },
+        {
+          "id": "real-f7a101fd2327eaae-spaced",
+          "target_kept": 235,
+          "target_total": 276,
+          "context_kept": 19,
+          "context_total": 19
+        },
+        {
+          "id": "real-01a1a8f8e4166970",
+          "target_kept": 223,
+          "target_total": 266,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "real-01a1a8f8e4166970-jamo",
+          "target_kept": 223,
+          "target_total": 266,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "real-01a1a8f8e4166970-fullwidth",
+          "target_kept": 228,
+          "target_total": 261,
+          "context_kept": 26,
+          "context_total": 26
+        },
+        {
+          "id": "real-01a1a8f8e4166970-confusable",
+          "target_kept": 226,
+          "target_total": 263,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "real-01a1a8f8e4166970-zero_width",
+          "target_kept": 223,
+          "target_total": 266,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "real-01a1a8f8e4166970-spaced",
+          "target_kept": 221,
+          "target_total": 272,
+          "context_kept": 33,
+          "context_total": 33
+        },
+        {
+          "id": "real-95f06c05c9581d57",
+          "target_kept": 211,
+          "target_total": 283,
+          "context_kept": 43,
+          "context_total": 43
+        },
+        {
+          "id": "real-95f06c05c9581d57-jamo",
+          "target_kept": 211,
+          "target_total": 283,
+          "context_kept": 43,
+          "context_total": 43
+        },
+        {
+          "id": "real-95f06c05c9581d57-fullwidth",
+          "target_kept": 221,
+          "target_total": 269,
+          "context_kept": 33,
+          "context_total": 33
+        },
+        {
+          "id": "real-95f06c05c9581d57-confusable",
+          "target_kept": 214,
+          "target_total": 277,
+          "context_kept": 40,
+          "context_total": 40
+        },
+        {
+          "id": "real-95f06c05c9581d57-zero_width",
+          "target_kept": 211,
+          "target_total": 283,
+          "context_kept": 43,
+          "context_total": 43
+        },
+        {
+          "id": "real-95f06c05c9581d57-spaced",
+          "target_kept": 210,
+          "target_total": 284,
+          "context_kept": 44,
+          "context_total": 44
+        },
+        {
+          "id": "real-7bf60dca994e81ed",
+          "target_kept": 218,
+          "target_total": 276,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "real-7bf60dca994e81ed-jamo",
+          "target_kept": 218,
+          "target_total": 276,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "real-7bf60dca994e81ed-fullwidth",
+          "target_kept": 235,
+          "target_total": 255,
+          "context_kept": 19,
+          "context_total": 19
+        },
+        {
+          "id": "real-7bf60dca994e81ed-confusable",
+          "target_kept": 221,
+          "target_total": 270,
+          "context_kept": 33,
+          "context_total": 33
+        },
+        {
+          "id": "real-7bf60dca994e81ed-zero_width",
+          "target_kept": 218,
+          "target_total": 276,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "real-7bf60dca994e81ed-spaced",
+          "target_kept": 218,
+          "target_total": 277,
+          "context_kept": 36,
+          "context_total": 36
+        },
+        {
+          "id": "real-3c7497aaef8a125a",
+          "target_kept": 217,
+          "target_total": 277,
+          "context_kept": 37,
+          "context_total": 37
+        },
+        {
+          "id": "real-3c7497aaef8a125a-jamo",
+          "target_kept": 217,
+          "target_total": 277,
+          "context_kept": 37,
+          "context_total": 37
+        },
+        {
+          "id": "real-3c7497aaef8a125a-fullwidth",
+          "target_kept": 234,
+          "target_total": 256,
+          "context_kept": 20,
+          "context_total": 20
+        },
+        {
+          "id": "real-3c7497aaef8a125a-confusable",
+          "target_kept": 220,
+          "target_total": 271,
+          "context_kept": 34,
+          "context_total": 34
+        },
+        {
+          "id": "real-3c7497aaef8a125a-zero_width",
+          "target_kept": 217,
+          "target_total": 277,
+          "context_kept": 37,
+          "context_total": 37
+        },
+        {
+          "id": "real-3c7497aaef8a125a-spaced",
+          "target_kept": 217,
+          "target_total": 281,
+          "context_kept": 37,
+          "context_total": 37
+        },
+        {
+          "id": "real-4856aed8286e495f",
+          "target_kept": 220,
+          "target_total": 244,
+          "context_kept": 34,
+          "context_total": 34
+        },
+        {
+          "id": "real-4856aed8286e495f-jamo",
+          "target_kept": 220,
+          "target_total": 244,
+          "context_kept": 34,
+          "context_total": 34
+        },
+        {
+          "id": "real-4856aed8286e495f-confusable",
+          "target_kept": 222,
+          "target_total": 242,
+          "context_kept": 32,
+          "context_total": 32
+        },
+        {
+          "id": "real-4856aed8286e495f-zero_width",
+          "target_kept": 220,
+          "target_total": 244,
+          "context_kept": 34,
+          "context_total": 34
+        },
+        {
+          "id": "real-4856aed8286e495f-spaced",
+          "target_kept": 220,
+          "target_total": 246,
+          "context_kept": 34,
+          "context_total": 34
+        },
+        {
+          "id": "real-04d6b7a6b7dc7787",
+          "target_kept": 224,
+          "target_total": 259,
+          "context_kept": 30,
+          "context_total": 30
+        },
+        {
+          "id": "real-04d6b7a6b7dc7787-jamo",
+          "target_kept": 224,
+          "target_total": 259,
+          "context_kept": 30,
+          "context_total": 30
+        },
+        {
+          "id": "real-04d6b7a6b7dc7787-fullwidth",
+          "target_kept": 227,
+          "target_total": 243,
+          "context_kept": 27,
+          "context_total": 27
+        },
+        {
+          "id": "real-04d6b7a6b7dc7787-confusable",
+          "target_kept": 227,
+          "target_total": 250,
+          "context_kept": 27,
+          "context_total": 27
+        },
+        {
+          "id": "real-04d6b7a6b7dc7787-zero_width",
+          "target_kept": 224,
+          "target_total": 259,
+          "context_kept": 30,
+          "context_total": 30
+        },
+        {
+          "id": "real-04d6b7a6b7dc7787-spaced",
+          "target_kept": 223,
+          "target_total": 263,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "real-a9e9fa59d4f00673",
+          "target_kept": 224,
+          "target_total": 250,
+          "context_kept": 30,
+          "context_total": 30
+        },
+        {
+          "id": "real-a9e9fa59d4f00673-jamo",
+          "target_kept": 224,
+          "target_total": 250,
+          "context_kept": 30,
+          "context_total": 30
+        },
+        {
+          "id": "real-a9e9fa59d4f00673-fullwidth",
+          "target_kept": 226,
+          "target_total": 246,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "real-a9e9fa59d4f00673-confusable",
+          "target_kept": 226,
+          "target_total": 248,
+          "context_kept": 28,
+          "context_total": 28
+        },
+        {
+          "id": "real-a9e9fa59d4f00673-zero_width",
+          "target_kept": 224,
+          "target_total": 250,
+          "context_kept": 30,
+          "context_total": 30
+        },
+        {
+          "id": "real-a9e9fa59d4f00673-spaced",
+          "target_kept": 223,
+          "target_total": 255,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "real-4380ee374f710cb8",
+          "target_kept": 220,
+          "target_total": 244,
+          "context_kept": 34,
+          "context_total": 34
+        },
+        {
+          "id": "real-4380ee374f710cb8-jamo",
+          "target_kept": 220,
+          "target_total": 244,
+          "context_kept": 34,
+          "context_total": 34
+        },
+        {
+          "id": "real-4380ee374f710cb8-confusable",
+          "target_kept": 222,
+          "target_total": 242,
+          "context_kept": 32,
+          "context_total": 32
+        },
+        {
+          "id": "real-4380ee374f710cb8-zero_width",
+          "target_kept": 220,
+          "target_total": 244,
+          "context_kept": 34,
+          "context_total": 34
+        },
+        {
+          "id": "real-4380ee374f710cb8-spaced",
+          "target_kept": 220,
+          "target_total": 247,
+          "context_kept": 34,
+          "context_total": 34
+        },
+        {
+          "id": "real-2f5fc9eca65e14ce",
+          "target_kept": 238,
+          "target_total": 283,
+          "context_kept": 16,
+          "context_total": 16
+        },
+        {
+          "id": "real-2f5fc9eca65e14ce-jamo",
+          "target_kept": 238,
+          "target_total": 283,
+          "context_kept": 16,
+          "context_total": 16
+        },
+        {
+          "id": "real-2f5fc9eca65e14ce-fullwidth",
+          "target_kept": 238,
+          "target_total": 271,
+          "context_kept": 16,
+          "context_total": 16
+        },
+        {
+          "id": "real-2f5fc9eca65e14ce-zero_width",
+          "target_kept": 238,
+          "target_total": 283,
+          "context_kept": 16,
+          "context_total": 16
+        },
+        {
+          "id": "real-2f5fc9eca65e14ce-spaced",
+          "target_kept": 238,
+          "target_total": 289,
+          "context_kept": 16,
+          "context_total": 16
+        },
+        {
+          "id": "real-388e7ba31afcae0c",
+          "target_kept": 224,
+          "target_total": 269,
+          "context_kept": 30,
+          "context_total": 30
+        },
+        {
+          "id": "real-388e7ba31afcae0c-jamo",
+          "target_kept": 224,
+          "target_total": 269,
+          "context_kept": 30,
+          "context_total": 30
+        },
+        {
+          "id": "real-388e7ba31afcae0c-fullwidth",
+          "target_kept": 224,
+          "target_total": 264,
+          "context_kept": 30,
+          "context_total": 30
+        },
+        {
+          "id": "real-388e7ba31afcae0c-confusable",
+          "target_kept": 224,
+          "target_total": 265,
+          "context_kept": 30,
+          "context_total": 30
+        },
+        {
+          "id": "real-388e7ba31afcae0c-zero_width",
+          "target_kept": 224,
+          "target_total": 269,
+          "context_kept": 30,
+          "context_total": 30
+        },
+        {
+          "id": "real-388e7ba31afcae0c-spaced",
+          "target_kept": 224,
+          "target_total": 272,
+          "context_kept": 30,
+          "context_total": 30
+        },
+        {
+          "id": "real-bd85f5532a64fcf3",
+          "target_kept": 235,
+          "target_total": 251,
+          "context_kept": 19,
+          "context_total": 19
+        },
+        {
+          "id": "real-bd85f5532a64fcf3-jamo",
+          "target_kept": 235,
+          "target_total": 251,
+          "context_kept": 19,
+          "context_total": 19
+        },
+        {
+          "id": "real-bd85f5532a64fcf3-confusable",
+          "target_kept": 235,
+          "target_total": 242,
+          "context_kept": 19,
+          "context_total": 19
+        },
+        {
+          "id": "real-bd85f5532a64fcf3-zero_width",
+          "target_kept": 235,
+          "target_total": 251,
+          "context_kept": 19,
+          "context_total": 19
+        },
+        {
+          "id": "real-bd85f5532a64fcf3-spaced",
+          "target_kept": 235,
+          "target_total": 262,
+          "context_kept": 19,
+          "context_total": 19
+        },
+        {
+          "id": "real-31451af422f25b5f",
+          "target_kept": 232,
+          "target_total": 317,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-31451af422f25b5f-jamo",
+          "target_kept": 232,
+          "target_total": 317,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-31451af422f25b5f-fullwidth",
+          "target_kept": 232,
+          "target_total": 309,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-31451af422f25b5f-zero_width",
+          "target_kept": 232,
+          "target_total": 317,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-31451af422f25b5f-spaced",
+          "target_kept": 232,
+          "target_total": 320,
+          "context_kept": 22,
+          "context_total": 22
+        },
+        {
+          "id": "real-7227cfdb512f26d4",
+          "target_kept": 237,
+          "target_total": 294,
+          "context_kept": 17,
+          "context_total": 17
+        },
+        {
+          "id": "real-7227cfdb512f26d4-jamo",
+          "target_kept": 237,
+          "target_total": 294,
+          "context_kept": 17,
+          "context_total": 17
+        },
+        {
+          "id": "real-7227cfdb512f26d4-zero_width",
+          "target_kept": 237,
+          "target_total": 294,
+          "context_kept": 17,
+          "context_total": 17
+        },
+        {
+          "id": "real-7227cfdb512f26d4-spaced",
+          "target_kept": 237,
+          "target_total": 295,
+          "context_kept": 17,
+          "context_total": 17
+        },
+        {
+          "id": "real-29d3e77c1c01ec83",
+          "target_kept": 246,
+          "target_total": 279,
+          "context_kept": 8,
+          "context_total": 8
+        },
+        {
+          "id": "real-29d3e77c1c01ec83-jamo",
+          "target_kept": 246,
+          "target_total": 279,
+          "context_kept": 8,
+          "context_total": 8
+        },
+        {
+          "id": "real-29d3e77c1c01ec83-fullwidth",
+          "target_kept": 246,
+          "target_total": 271,
+          "context_kept": 8,
+          "context_total": 8
+        },
+        {
+          "id": "real-29d3e77c1c01ec83-confusable",
+          "target_kept": 246,
+          "target_total": 277,
+          "context_kept": 8,
+          "context_total": 8
+        },
+        {
+          "id": "real-29d3e77c1c01ec83-zero_width",
+          "target_kept": 246,
+          "target_total": 279,
+          "context_kept": 8,
+          "context_total": 8
+        },
+        {
+          "id": "real-29d3e77c1c01ec83-spaced",
+          "target_kept": 246,
+          "target_total": 283,
+          "context_kept": 8,
+          "context_total": 8
+        },
+        {
+          "id": "reviewed-f9bb9781e7a3dcfac0",
+          "target_kept": 131,
+          "target_total": 131,
+          "context_kept": 123,
+          "context_total": 816
+        },
+        {
+          "id": "reviewed-f9bb9781e7a3dcfac0-jamo",
+          "target_kept": 131,
+          "target_total": 131,
+          "context_kept": 123,
+          "context_total": 816
+        },
+        {
+          "id": "reviewed-f9bb9781e7a3dcfac0-fullwidth",
+          "target_kept": 131,
+          "target_total": 131,
+          "context_kept": 123,
+          "context_total": 777
+        },
+        {
+          "id": "reviewed-f9bb9781e7a3dcfac0-zero_width",
+          "target_kept": 131,
+          "target_total": 131,
+          "context_kept": 123,
+          "context_total": 816
+        },
+        {
+          "id": "reviewed-f9bb9781e7a3dcfac0-spaced",
+          "target_kept": 136,
+          "target_total": 136,
+          "context_kept": 118,
+          "context_total": 823
+        },
+        {
+          "id": "reviewed-364cd8ce84d53606cb",
+          "target_kept": 158,
+          "target_total": 313,
+          "context_kept": 96,
+          "context_total": 720
+        },
+        {
+          "id": "reviewed-364cd8ce84d53606cb-jamo",
+          "target_kept": 158,
+          "target_total": 313,
+          "context_kept": 96,
+          "context_total": 720
+        },
+        {
+          "id": "reviewed-364cd8ce84d53606cb-fullwidth",
+          "target_kept": 158,
+          "target_total": 309,
+          "context_kept": 96,
+          "context_total": 685
+        },
+        {
+          "id": "reviewed-364cd8ce84d53606cb-zero_width",
+          "target_kept": 158,
+          "target_total": 313,
+          "context_kept": 96,
+          "context_total": 720
+        },
+        {
+          "id": "reviewed-364cd8ce84d53606cb-spaced",
+          "target_kept": 158,
+          "target_total": 322,
+          "context_kept": 96,
+          "context_total": 728
+        },
+        {
+          "id": "reviewed-bc1abf2fb585fe56a0",
+          "target_kept": 158,
+          "target_total": 374,
+          "context_kept": 96,
+          "context_total": 655
+        },
+        {
+          "id": "reviewed-bc1abf2fb585fe56a0-jamo",
+          "target_kept": 158,
+          "target_total": 374,
+          "context_kept": 96,
+          "context_total": 655
+        },
+        {
+          "id": "reviewed-bc1abf2fb585fe56a0-fullwidth",
+          "target_kept": 158,
+          "target_total": 361,
+          "context_kept": 96,
+          "context_total": 626
+        },
+        {
+          "id": "reviewed-bc1abf2fb585fe56a0-zero_width",
+          "target_kept": 158,
+          "target_total": 374,
+          "context_kept": 96,
+          "context_total": 655
+        },
+        {
+          "id": "reviewed-bc1abf2fb585fe56a0-spaced",
+          "target_kept": 158,
+          "target_total": 375,
+          "context_kept": 96,
+          "context_total": 660
+        },
+        {
+          "id": "reviewed-6e3ab70b08df32c408",
+          "target_kept": 158,
+          "target_total": 426,
+          "context_kept": 96,
+          "context_total": 684
+        },
+        {
+          "id": "reviewed-6e3ab70b08df32c408-jamo",
+          "target_kept": 158,
+          "target_total": 426,
+          "context_kept": 96,
+          "context_total": 684
+        },
+        {
+          "id": "reviewed-6e3ab70b08df32c408-fullwidth",
+          "target_kept": 158,
+          "target_total": 376,
+          "context_kept": 96,
+          "context_total": 669
+        },
+        {
+          "id": "reviewed-6e3ab70b08df32c408-zero_width",
+          "target_kept": 158,
+          "target_total": 426,
+          "context_kept": 96,
+          "context_total": 684
+        },
+        {
+          "id": "reviewed-6e3ab70b08df32c408-spaced",
+          "target_kept": 158,
+          "target_total": 425,
+          "context_kept": 96,
+          "context_total": 689
+        },
+        {
+          "id": "role-00-0",
+          "target_kept": 213,
+          "target_total": 259,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-00-0-jamo",
+          "target_kept": 213,
+          "target_total": 259,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-00-0-fullwidth",
+          "target_kept": 213,
+          "target_total": 259,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-00-0-confusable",
+          "target_kept": 213,
+          "target_total": 260,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-00-0-zero_width",
+          "target_kept": 213,
+          "target_total": 259,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-00-0-spaced",
+          "target_kept": 211,
+          "target_total": 268,
+          "context_kept": 43,
+          "context_total": 43
+        },
+        {
+          "id": "role-00-1",
+          "target_kept": 223,
+          "target_total": 259,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-00-1-jamo",
+          "target_kept": 223,
+          "target_total": 259,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-00-1-fullwidth",
+          "target_kept": 223,
+          "target_total": 259,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-00-1-confusable",
+          "target_kept": 223,
+          "target_total": 260,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-00-1-zero_width",
+          "target_kept": 223,
+          "target_total": 259,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-00-1-spaced",
+          "target_kept": 223,
+          "target_total": 268,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-01-0",
+          "target_kept": 213,
+          "target_total": 253,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-01-0-jamo",
+          "target_kept": 213,
+          "target_total": 253,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-01-0-fullwidth",
+          "target_kept": 213,
+          "target_total": 248,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-01-0-zero_width",
+          "target_kept": 213,
+          "target_total": 253,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-01-0-spaced",
+          "target_kept": 211,
+          "target_total": 263,
+          "context_kept": 43,
+          "context_total": 43
+        },
+        {
+          "id": "role-01-1",
+          "target_kept": 223,
+          "target_total": 253,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-01-1-jamo",
+          "target_kept": 223,
+          "target_total": 253,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-01-1-fullwidth",
+          "target_kept": 223,
+          "target_total": 248,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-01-1-zero_width",
+          "target_kept": 223,
+          "target_total": 253,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-01-1-spaced",
+          "target_kept": 223,
+          "target_total": 263,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-02-0",
+          "target_kept": 213,
+          "target_total": 276,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-02-0-jamo",
+          "target_kept": 213,
+          "target_total": 276,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-02-0-fullwidth",
+          "target_kept": 213,
+          "target_total": 274,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-02-0-zero_width",
+          "target_kept": 213,
+          "target_total": 276,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-02-0-spaced",
+          "target_kept": 211,
+          "target_total": 279,
+          "context_kept": 43,
+          "context_total": 43
+        },
+        {
+          "id": "role-02-1",
+          "target_kept": 223,
+          "target_total": 276,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-02-1-jamo",
+          "target_kept": 223,
+          "target_total": 276,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-02-1-fullwidth",
+          "target_kept": 223,
+          "target_total": 274,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-02-1-zero_width",
+          "target_kept": 223,
+          "target_total": 276,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-02-1-spaced",
+          "target_kept": 223,
+          "target_total": 279,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-03-0",
+          "target_kept": 213,
+          "target_total": 258,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-03-0-jamo",
+          "target_kept": 213,
+          "target_total": 258,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-03-0-fullwidth",
+          "target_kept": 213,
+          "target_total": 253,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-03-0-confusable",
+          "target_kept": 213,
+          "target_total": 259,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-03-0-zero_width",
+          "target_kept": 213,
+          "target_total": 258,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-03-0-spaced",
+          "target_kept": 211,
+          "target_total": 266,
+          "context_kept": 43,
+          "context_total": 43
+        },
+        {
+          "id": "role-03-1",
+          "target_kept": 223,
+          "target_total": 258,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-03-1-jamo",
+          "target_kept": 223,
+          "target_total": 258,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-03-1-fullwidth",
+          "target_kept": 223,
+          "target_total": 253,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-03-1-confusable",
+          "target_kept": 223,
+          "target_total": 259,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-03-1-zero_width",
+          "target_kept": 223,
+          "target_total": 258,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-03-1-spaced",
+          "target_kept": 223,
+          "target_total": 266,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-04-0",
+          "target_kept": 213,
+          "target_total": 301,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-04-0-jamo",
+          "target_kept": 213,
+          "target_total": 301,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-04-0-fullwidth",
+          "target_kept": 213,
+          "target_total": 295,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-04-0-zero_width",
+          "target_kept": 213,
+          "target_total": 301,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-04-0-spaced",
+          "target_kept": 211,
+          "target_total": 302,
+          "context_kept": 43,
+          "context_total": 43
+        },
+        {
+          "id": "role-04-1",
+          "target_kept": 223,
+          "target_total": 301,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-04-1-jamo",
+          "target_kept": 223,
+          "target_total": 301,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-04-1-fullwidth",
+          "target_kept": 223,
+          "target_total": 295,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-04-1-zero_width",
+          "target_kept": 223,
+          "target_total": 301,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-04-1-spaced",
+          "target_kept": 223,
+          "target_total": 302,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-05-0",
+          "target_kept": 213,
+          "target_total": 245,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-05-0-jamo",
+          "target_kept": 213,
+          "target_total": 245,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-05-0-fullwidth",
+          "target_kept": 213,
+          "target_total": 240,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-05-0-confusable",
+          "target_kept": 213,
+          "target_total": 242,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-05-0-zero_width",
+          "target_kept": 213,
+          "target_total": 245,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-05-0-spaced",
+          "target_kept": 211,
+          "target_total": 249,
+          "context_kept": 43,
+          "context_total": 43
+        },
+        {
+          "id": "role-05-1",
+          "target_kept": 223,
+          "target_total": 245,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-05-1-jamo",
+          "target_kept": 223,
+          "target_total": 245,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-05-1-fullwidth",
+          "target_kept": 223,
+          "target_total": 240,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-05-1-confusable",
+          "target_kept": 223,
+          "target_total": 242,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-05-1-zero_width",
+          "target_kept": 223,
+          "target_total": 245,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-05-1-spaced",
+          "target_kept": 223,
+          "target_total": 249,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-06-0",
+          "target_kept": 213,
+          "target_total": 279,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-06-0-jamo",
+          "target_kept": 213,
+          "target_total": 279,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-06-0-fullwidth",
+          "target_kept": 213,
+          "target_total": 247,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-06-0-confusable",
+          "target_kept": 213,
+          "target_total": 279,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-06-0-zero_width",
+          "target_kept": 213,
+          "target_total": 279,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-06-0-spaced",
+          "target_kept": 211,
+          "target_total": 283,
+          "context_kept": 43,
+          "context_total": 43
+        },
+        {
+          "id": "role-06-1",
+          "target_kept": 223,
+          "target_total": 279,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-06-1-jamo",
+          "target_kept": 223,
+          "target_total": 279,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-06-1-fullwidth",
+          "target_kept": 223,
+          "target_total": 247,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-06-1-confusable",
+          "target_kept": 223,
+          "target_total": 279,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-06-1-zero_width",
+          "target_kept": 223,
+          "target_total": 279,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-06-1-spaced",
+          "target_kept": 223,
+          "target_total": 283,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-07-0",
+          "target_kept": 213,
+          "target_total": 241,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-07-0-jamo",
+          "target_kept": 213,
+          "target_total": 241,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-07-0-fullwidth",
+          "target_kept": 213,
+          "target_total": 239,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-07-0-confusable",
+          "target_kept": 213,
+          "target_total": 240,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-07-0-zero_width",
+          "target_kept": 213,
+          "target_total": 241,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-07-0-spaced",
+          "target_kept": 211,
+          "target_total": 250,
+          "context_kept": 43,
+          "context_total": 43
+        },
+        {
+          "id": "role-07-1",
+          "target_kept": 223,
+          "target_total": 241,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-07-1-jamo",
+          "target_kept": 223,
+          "target_total": 241,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-07-1-fullwidth",
+          "target_kept": 223,
+          "target_total": 239,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-07-1-confusable",
+          "target_kept": 223,
+          "target_total": 240,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-07-1-zero_width",
+          "target_kept": 223,
+          "target_total": 241,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-07-1-spaced",
+          "target_kept": 223,
+          "target_total": 250,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-08-0",
+          "target_kept": 213,
+          "target_total": 271,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-08-0-jamo",
+          "target_kept": 213,
+          "target_total": 271,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-08-0-fullwidth",
+          "target_kept": 213,
+          "target_total": 263,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-08-0-zero_width",
+          "target_kept": 213,
+          "target_total": 271,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-08-0-spaced",
+          "target_kept": 211,
+          "target_total": 279,
+          "context_kept": 43,
+          "context_total": 43
+        },
+        {
+          "id": "role-08-1",
+          "target_kept": 223,
+          "target_total": 271,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-08-1-jamo",
+          "target_kept": 223,
+          "target_total": 271,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-08-1-fullwidth",
+          "target_kept": 223,
+          "target_total": 263,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-08-1-zero_width",
+          "target_kept": 223,
+          "target_total": 271,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-08-1-spaced",
+          "target_kept": 223,
+          "target_total": 279,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-09-0",
+          "target_kept": 213,
+          "target_total": 271,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-09-0-jamo",
+          "target_kept": 213,
+          "target_total": 271,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-09-0-fullwidth",
+          "target_kept": 213,
+          "target_total": 268,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-09-0-zero_width",
+          "target_kept": 213,
+          "target_total": 271,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-09-0-spaced",
+          "target_kept": 211,
+          "target_total": 281,
+          "context_kept": 43,
+          "context_total": 43
+        },
+        {
+          "id": "role-09-1",
+          "target_kept": 223,
+          "target_total": 271,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-09-1-jamo",
+          "target_kept": 223,
+          "target_total": 271,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-09-1-fullwidth",
+          "target_kept": 223,
+          "target_total": 268,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-09-1-zero_width",
+          "target_kept": 223,
+          "target_total": 271,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-09-1-spaced",
+          "target_kept": 223,
+          "target_total": 281,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-10-0",
+          "target_kept": 213,
+          "target_total": 259,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-10-0-jamo",
+          "target_kept": 213,
+          "target_total": 259,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-10-0-fullwidth",
+          "target_kept": 213,
+          "target_total": 238,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-10-0-confusable",
+          "target_kept": 213,
+          "target_total": 258,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-10-0-zero_width",
+          "target_kept": 213,
+          "target_total": 259,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-10-0-spaced",
+          "target_kept": 211,
+          "target_total": 266,
+          "context_kept": 43,
+          "context_total": 43
+        },
+        {
+          "id": "role-10-1",
+          "target_kept": 223,
+          "target_total": 259,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-10-1-jamo",
+          "target_kept": 223,
+          "target_total": 259,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-10-1-fullwidth",
+          "target_kept": 223,
+          "target_total": 238,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-10-1-confusable",
+          "target_kept": 223,
+          "target_total": 258,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-10-1-zero_width",
+          "target_kept": 223,
+          "target_total": 259,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-10-1-spaced",
+          "target_kept": 223,
+          "target_total": 266,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-13-0",
+          "target_kept": 213,
+          "target_total": 270,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-13-0-jamo",
+          "target_kept": 213,
+          "target_total": 270,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-13-0-fullwidth",
+          "target_kept": 213,
+          "target_total": 256,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-13-0-confusable",
+          "target_kept": 213,
+          "target_total": 267,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-13-0-zero_width",
+          "target_kept": 213,
+          "target_total": 270,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-13-0-spaced",
+          "target_kept": 211,
+          "target_total": 276,
+          "context_kept": 43,
+          "context_total": 43
+        },
+        {
+          "id": "role-13-1",
+          "target_kept": 223,
+          "target_total": 270,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-13-1-jamo",
+          "target_kept": 223,
+          "target_total": 270,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-13-1-fullwidth",
+          "target_kept": 223,
+          "target_total": 256,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-13-1-confusable",
+          "target_kept": 223,
+          "target_total": 267,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-13-1-zero_width",
+          "target_kept": 223,
+          "target_total": 270,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-13-1-spaced",
+          "target_kept": 223,
+          "target_total": 276,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-14-0",
+          "target_kept": 213,
+          "target_total": 266,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-14-0-jamo",
+          "target_kept": 213,
+          "target_total": 266,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-14-0-fullwidth",
+          "target_kept": 213,
+          "target_total": 261,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-14-0-confusable",
+          "target_kept": 213,
+          "target_total": 263,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-14-0-zero_width",
+          "target_kept": 213,
+          "target_total": 266,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-14-0-spaced",
+          "target_kept": 211,
+          "target_total": 272,
+          "context_kept": 43,
+          "context_total": 43
+        },
+        {
+          "id": "role-14-1",
+          "target_kept": 223,
+          "target_total": 266,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-14-1-jamo",
+          "target_kept": 223,
+          "target_total": 266,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-14-1-fullwidth",
+          "target_kept": 223,
+          "target_total": 261,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-14-1-confusable",
+          "target_kept": 223,
+          "target_total": 263,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-14-1-zero_width",
+          "target_kept": 223,
+          "target_total": 266,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-14-1-spaced",
+          "target_kept": 223,
+          "target_total": 272,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-15-0",
+          "target_kept": 213,
+          "target_total": 283,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-15-0-jamo",
+          "target_kept": 213,
+          "target_total": 283,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-15-0-fullwidth",
+          "target_kept": 213,
+          "target_total": 269,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-15-0-confusable",
+          "target_kept": 213,
+          "target_total": 277,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-15-0-zero_width",
+          "target_kept": 213,
+          "target_total": 283,
+          "context_kept": 41,
+          "context_total": 41
+        },
+        {
+          "id": "role-15-0-spaced",
+          "target_kept": 211,
+          "target_total": 284,
+          "context_kept": 43,
+          "context_total": 43
+        },
+        {
+          "id": "role-15-1",
+          "target_kept": 223,
+          "target_total": 283,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-15-1-jamo",
+          "target_kept": 223,
+          "target_total": 283,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-15-1-fullwidth",
+          "target_kept": 223,
+          "target_total": 269,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-15-1-confusable",
+          "target_kept": 223,
+          "target_total": 277,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-15-1-zero_width",
+          "target_kept": 223,
+          "target_total": 283,
+          "context_kept": 31,
+          "context_total": 31
+        },
+        {
+          "id": "role-15-1-spaced",
+          "target_kept": 223,
+          "target_total": 284,
+          "context_kept": 31,
+          "context_total": 31
+        }
+      ]
+    },
+    "dev": {
+      "n": 90,
+      "limit": 256,
+      "max_tokens": 79,
+      "p50_tokens": 61.0,
+      "p95_tokens": 73,
+      "truncated": 0,
+      "target_truncated": 0,
+      "context_absent": 0,
+      "truncated_ids": [],
+      "policy": "context_reserve96_target_remainder",
+      "changed_rows": 0,
+      "allocations": []
+    },
+    "conflict_groups": 0,
+    "token_unique": 518
+  }
+}

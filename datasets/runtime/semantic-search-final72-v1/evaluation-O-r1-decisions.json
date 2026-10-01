@@ -1,0 +1,778 @@
+[
+  {
+    "node_id": "n_0d0a42a1a91ba905",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "HOMOGLYPH"
+    ],
+    "needs_review": false,
+    "reason": "정상적인 게시물 제목으로 보임",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_cd5bd299c2d9226f",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "정상적인 링크 텍스트",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_e2f0485a58f25b5c",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "정상적인 링크 텍스트",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_2e1e244f3579b394",
+    "is_violation": true,
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "observed_techniques": [
+      "HOMOGLYPH"
+    ],
+    "needs_review": false,
+    "reason": "사설 경마 관련 불법 광고",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_1f1ac3d6e4074d96",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "OFFSCREEN"
+    ],
+    "needs_review": false,
+    "reason": "불법 거래 유도 댓글 신고 내용",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_b6bb8f8f41bba7d6",
+    "is_violation": true,
+    "techniques": [
+      "JAMO"
+    ],
+    "observed_techniques": [
+      "JAMO"
+    ],
+    "needs_review": false,
+    "reason": "불법 현금 슬롯 게임 광고",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_c2324ecaddb347ff",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "계정 판매 광고",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_dc39f41ddfa52e55",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "JAMO"
+    ],
+    "needs_review": false,
+    "reason": "정상적인 게시물 내용",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_898beb658e47d4c5",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "HOMOGLYPH"
+    ],
+    "needs_review": false,
+    "reason": "주민등록증 재발급 절차 안내",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_dc5262dbb410e48d",
+    "is_violation": true,
+    "techniques": [
+      "TRANSPARENT"
+    ],
+    "observed_techniques": [
+      "TRANSPARENT"
+    ],
+    "needs_review": false,
+    "reason": "차량 절도 및 판매 광고",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_0edaac2fc1824c56",
+    "is_violation": true,
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "observed_techniques": [
+      "HOMOGLYPH"
+    ],
+    "needs_review": false,
+    "reason": "가짜 졸업증명서 제작 광고",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_61f323bf082fd5ef",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "HOMOGLYPH"
+    ],
+    "needs_review": false,
+    "reason": "국어 수업 안내",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_fa9b0140a9eb7ffe",
+    "is_violation": true,
+    "techniques": [
+      "TRANSPARENT"
+    ],
+    "observed_techniques": [
+      "TRANSPARENT"
+    ],
+    "needs_review": false,
+    "reason": "대포통장 구매 광고",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_63115779fb3a4116",
+    "is_violation": true,
+    "techniques": [
+      "OFFSCREEN"
+    ],
+    "observed_techniques": [
+      "OFFSCREEN"
+    ],
+    "needs_review": false,
+    "reason": "위조 경력증명서 제작 광고",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_9ac1a7421a8bee38",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "휴대전화 해킹 광고",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_eb1183fcd5290705",
+    "is_violation": true,
+    "techniques": [
+      "JAMO"
+    ],
+    "observed_techniques": [
+      "JAMO"
+    ],
+    "needs_review": false,
+    "reason": "무등록 도박장 입장 광고",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_b8f028b87fd5f002",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "몰래 감시 앱 설치를 통한 사생활 침해",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_1f618d85b9a70960",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "도난 차량의 번호판 변경 및 판매 시도",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_3f26a811008e2f4a",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "일반적인 연락처 문의",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_2e230555cbefa2c7",
+    "is_violation": true,
+    "techniques": [
+      "OFFSCREEN"
+    ],
+    "observed_techniques": [
+      "OFFSCREEN"
+    ],
+    "needs_review": false,
+    "reason": "불법 약물 거래 제안",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_02c2511a772ce944",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "무허가 룰렛방 운영 및 참여 유도",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_e96932935e372374",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "공연 예약 관련 보조 설명",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_7ae1d876731ecae6",
+    "is_violation": true,
+    "techniques": [
+      "OFFSCREEN"
+    ],
+    "observed_techniques": [
+      "OFFSCREEN"
+    ],
+    "needs_review": false,
+    "reason": "무허가 베팅 참여 유도",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_dbae3dc140fcc048",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "지역 공연장 대관 신청 안내",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_3922a61d577ce24f",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "공 공공기관 직인 위조 제작 상담",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_1efc9a50ee83885b",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "보건소 의약품 폐기 수거일 안내",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_bffc047726243c5e",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "대리 응시자 배정 제안",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_95700c32c14ba5cb",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "훔친 휴대전화 중고 판매 제안",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_eaa402f238d509a3",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "웹 표준 강좌 소개",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_49535e8609cea01a",
+    "is_violation": true,
+    "techniques": [
+      "OFFSCREEN"
+    ],
+    "observed_techniques": [
+      "OFFSCREEN"
+    ],
+    "needs_review": false,
+    "reason": "도난 오토바이 서류 없이 양도 제안",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_a0d66e80ef83f5bc",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "상세 접수 링크",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_5721bb1e08186770",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "처방 없이 마약성 진통제 판매 제안",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_47f0c9305f7eebee",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "온라인 사설 경마 참여 및 판돈 입금을 권유하는 불법 광고",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_8c2150b6cbce3fc5",
+    "is_violation": true,
+    "techniques": [
+      "OFFSCREEN"
+    ],
+    "observed_techniques": [
+      "OFFSCREEN"
+    ],
+    "needs_review": false,
+    "reason": "무허가 도박장에서 판돈을 받는 것을 권유하는 불법 광고",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_859f9aef3c25404c",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "OFFSCREEN"
+    ],
+    "needs_review": false,
+    "reason": "경제사 강의에서 사용되는 용어를 설명하는 정상적인 내용",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_f8558bcf6fcaa976",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "HOMOGLYPH"
+    ],
+    "needs_review": false,
+    "reason": "접근성 실습을 위한 음성 안내 문장",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_977c4ab62a1e059e",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "JAMO"
+    ],
+    "needs_review": false,
+    "reason": "시청 민원실에서 서식을 발급받는 방법에 대한 안내",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_1eb0a49492b9f5e4",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "TRANSPARENT"
+    ],
+    "needs_review": false,
+    "reason": "링크 클릭 유도 문구로 보이나 추가적인 맥락 필요 없음",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_a73eff521e685ecf",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "무등록 현금 바카라 회원 모집 및 입금 유도의 불법 광고",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_60a1efbce4f5ef8a",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "수사기관에 범죄 신고를 알리는 정상적인 게시글",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_b04e8c02e1a2d7ab",
+    "is_violation": true,
+    "techniques": [
+      "OFFSCREEN"
+    ],
+    "observed_techniques": [
+      "OFFSCREEN"
+    ],
+    "needs_review": false,
+    "reason": "공문서 위조 의뢰를 받는 불법 광고",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_297861518e8a6c58",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "사설 주사위방에서의 도박을 권유하는 불법 광고",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_592e295468fa9982",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "OFFSCREEN"
+    ],
+    "needs_review": false,
+    "reason": "상담 진행 방식에 대한 안내",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_8ef9fbcd5031aae3",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "TRANSPARENT"
+    ],
+    "needs_review": false,
+    "reason": "시험 관리 담당자의 공지사항으로 보임",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_7d80c6dac1b8361b",
+    "is_violation": true,
+    "techniques": [
+      "TRANSPARENT"
+    ],
+    "observed_techniques": [
+      "TRANSPARENT"
+    ],
+    "needs_review": false,
+    "reason": "가짜 허가서 제작을 제안하는 불법 광고",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_478851f6f4fec3b6",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "개인 접수 링크로 보임",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_068c2ee2d22cf9d4",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "HOMOGLYPH"
+    ],
+    "needs_review": false,
+    "reason": "예약을 유도하는 링크로 보임",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_3ee0f60edb9c2c7f",
+    "is_violation": true,
+    "techniques": [
+      "TRANSPARENT"
+    ],
+    "observed_techniques": [
+      "TRANSPARENT"
+    ],
+    "needs_review": false,
+    "reason": "처방 없는 마약성 의약품 판매를 유도하는 불법 광고",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_be32ece9bfa35792",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "대리 응시를 통한 자격증 취득 유도",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_7883957b6da3fb2f",
+    "is_violation": true,
+    "techniques": [
+      "TRANSPARENT"
+    ],
+    "observed_techniques": [
+      "TRANSPARENT"
+    ],
+    "needs_review": false,
+    "reason": "문서 위조를 통한 부정행위 조장",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_10575508b2de99e6",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "HOMOGLYPH"
+    ],
+    "needs_review": false,
+    "reason": "정상적인 링크 또는 버튼",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_b6be4ad6560df1c9",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "정상적인 접속 안내",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_3b06e07c7a1c5836",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "OFFSCREEN"
+    ],
+    "needs_review": false,
+    "reason": "메시지 알림 관련 정보",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_57fef0b447205b4e",
+    "is_violation": true,
+    "techniques": [
+      "TRANSPARENT"
+    ],
+    "observed_techniques": [
+      "TRANSPARENT"
+    ],
+    "needs_review": false,
+    "reason": "무자격 시술 예약 유도",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_8730fd2b9e155a8a",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "정상적인 참가자 등록 안내",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_d056d65d3d58b7e5",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "TRANSPARENT"
+    ],
+    "needs_review": false,
+    "reason": "공식 경로 문의",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_472aa952bf77de25",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "무자격 시술 예약 유도",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_70e2cc3890ff3a10",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "JAMO"
+    ],
+    "needs_review": false,
+    "reason": "불법 도박장 이용 거부",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_5e7117d7459d8a35",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "명의 도용 유심 판매",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_4fb5a98cd22a4727",
+    "is_violation": true,
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "observed_techniques": [
+      "HOMOGLYPH"
+    ],
+    "needs_review": false,
+    "reason": "자격 없는 시술자 소개",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_3f66ecbd956bf987",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "JAMO"
+    ],
+    "needs_review": false,
+    "reason": "정상적인 약속 이행 언급",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_6ab567a61233ce78",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "무자격 미용 주사 제공",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_9816847840cd3a02",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "HOMOGLYPH"
+    ],
+    "needs_review": false,
+    "reason": "정상적인 문의 링크",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_39713fc539cb515b",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "OFFSCREEN"
+    ],
+    "needs_review": false,
+    "reason": "정상적인 감사 인사",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_55e2d9ed94eab8aa",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "타인 명의를 이용한 유심 판매 제안",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_f2780753262819b2",
+    "is_violation": true,
+    "techniques": [
+      "TRANSPARENT"
+    ],
+    "observed_techniques": [
+      "TRANSPARENT"
+    ],
+    "needs_review": false,
+    "reason": "불법적인 거래 유도 링크",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_c563344c4540cd06",
+    "is_violation": true,
+    "techniques": [
+      "JAMO"
+    ],
+    "observed_techniques": [
+      "JAMO"
+    ],
+    "needs_review": false,
+    "reason": "배우자 사생활 침해 및 해킹 제안",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_890c058c1211e2aa",
+    "is_violation": true,
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "observed_techniques": [
+      "HOMOGLYPH"
+    ],
+    "needs_review": false,
+    "reason": "대리 응시 제안",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_cc8198b6bfaa8f26",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [
+      "OFFSCREEN"
+    ],
+    "needs_review": true,
+    "reason": "정보 요청 메시지, 맥락 부족으로 추가 검토 필요",
+    "raw_ad_verdict": "benign"
+  },
+  {
+    "node_id": "n_1782372748e205ec",
+    "is_violation": true,
+    "techniques": [
+      "OFFSCREEN"
+    ],
+    "observed_techniques": [
+      "OFFSCREEN"
+    ],
+    "needs_review": false,
+    "reason": "재직증명서 위조 제안",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_408482e0ee69932f",
+    "is_violation": true,
+    "techniques": [
+      "OFFSCREEN"
+    ],
+    "observed_techniques": [
+      "OFFSCREEN"
+    ],
+    "needs_review": false,
+    "reason": "경력증명서 위조 제안",
+    "raw_ad_verdict": "violation"
+  },
+  {
+    "node_id": "n_62c85409f129c281",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "몰래 도청 장치 설치 제안",
+    "raw_ad_verdict": "violation"
+  }
+]

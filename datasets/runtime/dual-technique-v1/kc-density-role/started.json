@@ -1,0 +1,38 @@
+{
+  "source_hash": "8c556c389475ba4619970e454a5fa46c875b6ac7812cfbe9e8f6470f7e489a9a",
+  "train_rows": 2603,
+  "generated_new_rows": 968,
+  "excluded_observed_families": [
+    "리본/silver"
+  ],
+  "inherited_initial_training_overlap_not_erased": true,
+  "lr": 1e-05,
+  "epochs": 2,
+  "seed": 42,
+  "script_hash": "e3c8afc15d03952cf8495c9d92a037b3b76a4b7ed8bcd7adb7c052904dd8bee8",
+  "manifest": {
+    "files": {
+      "train-inputs.json": "0aebeaa9854c0c51f8d30ecea5476726c6d19f1b8c7ba1053327b28bc84dfbec",
+      "train-gold.json": "7be392fd2db185d2aea0076664d75e9accf8024878076594ce9c57d92174bde8",
+      "dev-inputs.json": "2bc5b8f4b66a5858c82c0f87b4a4157c1cd5c5098099a758372277d966220c7c",
+      "dev-gold.json": "bbab05b4a0eaae88d14f3392406e4affdb9031423db287c4fa64c03c4f8b4985",
+      "final-inputs.json": "bf4019737adabe9198d4ea9017af68c4b01ca79bed6a71250b7eb4e4221133bf",
+      "final-gold.json": "d50365d6aec15f8f60d2888d039ed86e882ef12bfca941fa770bbf4cfa7b77e8"
+    },
+    "same_author_synthetic": true,
+    "final_opened": false,
+    "plan_hash": "889acc6ac1811d04499247bcb67dc7ddb166d0e2fde82c96ec97d595832788f0",
+    "train": {
+      "rows": 968,
+      "groups": 40
+    },
+    "dev": {
+      "rows": 300,
+      "groups": 12
+    },
+    "final": {
+      "rows": 236,
+      "groups": 12
+    }
+  }
+}

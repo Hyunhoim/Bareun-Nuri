@@ -1,0 +1,26 @@
+{
+  "target": {
+    "calls": 20,
+    "tokens": 72152,
+    "completionTokens": 15710,
+    "elapsedSec": 277.1489728,
+    "serviceSec": 277.142,
+    "queueSec": 0.007092200000031561
+  },
+  "service": {
+    "calls": 10,
+    "tokens": 37522,
+    "completionTokens": 5616,
+    "elapsedSec": 99.69908720000001,
+    "serviceSec": 99.697,
+    "queueSec": 0.00204749999998603
+  },
+  "quotation": {
+    "calls": 14,
+    "tokens": 21024,
+    "completionTokens": 2926,
+    "elapsedSec": 72.97421080000001,
+    "serviceSec": 53.77799999999999,
+    "queueSec": 19.19704449999996
+  }
+}

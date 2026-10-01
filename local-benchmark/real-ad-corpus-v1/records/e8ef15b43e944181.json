@@ -1,0 +1,31 @@
+{
+  "id": "e8ef15b43e944181",
+  "source": {
+    "id": "e8ef15b43e944181",
+    "url": "https://babychu.co.kr/board/free/read.html?no=65&board_no=5",
+    "source_scope": "private_board",
+    "captured_at": "2026-09-28T23:02:13.390387+00:00",
+    "rights_status": "unverified_third_party_content",
+    "human_reviewed": false,
+    "raw_file": "raw/e8ef15b43e944181.html",
+    "byte_file": "raw/e8ef15b43e944181.bin",
+    "response_sha256": "6dbc0522431b1cda4a40a4b3eb871037405f5d892fae3b537322c582ffaffbb6",
+    "decoded_sha256": "6dbc0522431b1cda4a40a4b3eb871037405f5d892fae3b537322c582ffaffbb6",
+    "encoding": "utf-8",
+    "status": "captured",
+    "page_title": "신생아/유아용품 대표 쇼핑몰, BabyChu~"
+  },
+  "title": "탈퇴 부탁드려요",
+  "raw_text": "탈퇴할 버튼이 없네요\n구매하려고 가입했으나 표기가 없어서 상품이 품절인줄 몰랐네요\n탈퇴 부탁드립니다",
+  "body_xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/form/div/div[1]/table/tbody/tr[4]/td/div",
+  "title_xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/form/div/div[1]/table/tbody/tr[1]/td",
+  "source_kind": "real_web_post",
+  "extraction": "static_HTML_lxml_itertext",
+  "comments_status": "not_extracted_or_labeled",
+  "technique_observed": null,
+  "body_sha256": "b5cc9de19d557cd86a7e5b24cc6f17efa1a7a9d1190fe104d9d436be81d4a7c1",
+  "label": null,
+  "human_reviewed": false,
+  "outgoing_links": [],
+  "notes": "No CSS technique claim from static text; listed neighbours are excluded from owned context."
+}

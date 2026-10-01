@@ -1,0 +1,19 @@
+{
+  "rows": 62,
+  "purposes": {
+    "observed": 31,
+    "training_candidate": 31
+  },
+  "input_sha256": "bfdce88df2147150ca9d8699cd4fb36bc1e1fadfc6aa9f8933846ebd6caa444b",
+  "sources": {
+    ".runtime\\semantic-encoder-real-v1\\review-inputs.json": "4b66a96c339d3ea080cd082c2df0c13d73520b29bc6b3d9885cffd570bd23ace",
+    "local-benchmark\\real-context-supplement-v1\\review-inputs.json": "2a4d1f9706f917dc6128d8461e77681a47fc9d690e4f7417754c148bc06e02c8",
+    "local-benchmark\\real-context-supplement-v2\\review-inputs.json": "99c54a3965c62db56f38a47693bf3f7c93035094512a6af9a0c44385a5f200c3"
+  },
+  "template_sha256": "7cb795163140056f2122a383c033837d26f9a67665a5def50108b1611425623e",
+  "review_html_sha256": "451f17f56c15e1e1b5485793c57f2dc438244ffeabf1acc7431bdedfa0b59cb4",
+  "script_sha256": "06c8e3674df21f8da4738da436430b177c4999d61ed5ad47d16f5b1eaa25a58e",
+  "model_predictions_included": false,
+  "provisional_labels_included": false,
+  "automatic_training": false
+}

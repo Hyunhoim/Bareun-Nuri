@@ -1,0 +1,32 @@
+{
+  "real_candidates": 1636,
+  "pages": 8,
+  "unique_whitespace_normalized_texts": 939,
+  "length_groups_characters_not_tokens": {
+    "under20": 859,
+    "20to350": 71,
+    "over350": 9
+  },
+  "unique_texts_per_host_nonexclusive": {
+    "www.daejeon.go.kr": 47,
+    "www.busan.go.kr": 598,
+    "www.consumer.go.kr": 264,
+    "sports.yeonje.go.kr": 53
+  },
+  "cross_host_duplicate_groups": 17,
+  "source_snapshot_hashes_verified": 28,
+  "inputs_sha256": "ae86a581011527d04faf1bca4180e8f527febb907c09e93b2141ca0743603baf",
+  "training_ready": false,
+  "technique_labels_inferred": 0,
+  "new_training": 0,
+  "final_access": false,
+  "api_calls": 0,
+  "production_files_unchanged": 15,
+  "limitations": [
+    "Saved material is previously observed, not a new holdout.",
+    "Ad-intent normal labels do not establish character-technique absence.",
+    "Same text across hosts must stay in one split; host split alone is insufficient.",
+    "Length bins are inventory only, not a collection or inference filter.",
+    "Local review bank retains original text; do not publish it as synthetic data."
+  ]
+}

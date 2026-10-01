@@ -1,0 +1,17 @@
+{
+  "purpose": "author_data_audit_not_model_evaluation",
+  "before": {
+    "seed_messages": 200,
+    "median_nearest_char_trigram_jaccard": 0.3305,
+    "seed_count_nearest_jaccard_ge_065": 0,
+    "contact_address_targets": 499
+  },
+  "after": {
+    "seed_messages": 200,
+    "median_nearest_char_trigram_jaccard": 0.3017,
+    "seed_count_nearest_jaccard_ge_065": 0,
+    "contact_address_targets": 0
+  },
+  "threshold_note": "0.65 is a descriptive text similarity cutoff, not a generalization acceptance threshold. No training corpus comparison.",
+  "group_warning": "200 seed messages share phrase families; 2000 derivatives are not independent observations."
+}

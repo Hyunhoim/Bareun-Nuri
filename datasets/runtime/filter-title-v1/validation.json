@@ -1,0 +1,1490 @@
+[
+  {
+    "id": "f680a970681e55cc2",
+    "input": {
+      "target": "잔여 시간 예약",
+      "context": "시민 소통\n앞 문맥: 시립 요트체험장 기상 취소분 예약 화면입니다. 안전교육 이수자를 대상으로 합니다."
+    },
+    "label": 0,
+    "group_id": "marina_booking",
+    "semantic_intent": "benign",
+    "review_status": "author_proposed"
+  },
+  {
+    "id": "f4b8d129962d4eb4d",
+    "input": {
+      "target": "잔여 시간 예약",
+      "context": "시민 소통\n앞 문맥: 성매매 예약 받는 사람입니다. 오늘 남은 시간과 성행위 비용을 안내하니 예약금 보내세요."
+    },
+    "label": 1,
+    "group_id": "marina_booking",
+    "semantic_intent": "ad",
+    "review_status": "author_proposed"
+  },
+  {
+    "id": "f5bea8cb095c307b5",
+    "input": {
+      "target": "TEST 장비 반납",
+      "context": "시민 소통\n앞 문맥: 환경교육관에서 빌린 수질 실험 도구의 관리 화면입니다. 사용한 시험관을 반납합니다."
+    },
+    "label": 0,
+    "group_id": "lab_identifier",
+    "semantic_intent": "benign",
+    "review_status": "author_proposed"
+  },
+  {
+    "id": "f22f1a0a841b44bbe",
+    "input": {
+      "target": "TEST 장비 반납",
+      "context": "시민 소통\n앞 문맥: 학교 시험에 대신 응시할 사람을 연결합니다. 의뢰할 분은 과목과 대가를 보내 주세요."
+    },
+    "label": 1,
+    "group_id": "lab_identifier",
+    "semantic_intent": "ad",
+    "review_status": "author_proposed"
+  },
+  {
+    "id": "f26e6747fcdb084f3",
+    "input": {
+      "target": "7357 장비 반납",
+      "context": "시민 소통\n앞 문맥: 환경교육관에서 빌린 수질 실험 도구의 관리 화면입니다. 사용한 시험관을 반납합니다."
+    },
+    "label": 0,
+    "group_id": "lab_identifier",
+    "semantic_intent": "benign",
+    "review_status": "author_proposed"
+  },
+  {
+    "id": "fe4dd3b10dc983265",
+    "input": {
+      "target": "7357 장비 반납",
+      "context": "시민 소통\n앞 문맥: 학교 시험에 대신 응시할 사람을 연결합니다. 의뢰할 분은 과목과 대가를 보내 주세요."
+    },
+    "label": 1,
+    "group_id": "lab_identifier",
+    "semantic_intent": "ad",
+    "review_status": "author_proposed"
+  },
+  {
+    "id": "f4b724bdc938fdc3a",
+    "input": {
+      "target": "유족연금 상담 예약을 했습니다. 가족관계증명서를 우편으로 제출할지 묻습니다. 서류는 어디로 보내면 될까요?",
+      "context": "시민 소통"
+    },
+    "label": 0,
+    "group_id": "pension_case",
+    "semantic_intent": "benign",
+    "review_status": "author_proposed"
+  },
+  {
+    "id": "f911fbc4ef31bc835",
+    "input": {
+      "target": "서류만 보내면 돈을 준다는데 용도와 받는 사람의 소속을 모르겠습니다. 서류는 어디로 보내면 될까요?",
+      "context": "시민 소통"
+    },
+    "label": 1,
+    "group_id": "pension_case",
+    "semantic_intent": "uncertain",
+    "review_status": "author_proposed"
+  },
+  {
+    "id": "fcece1f6d5930693a",
+    "input": {
+      "target": "위치와 사진 부탁드립니다.",
+      "context": "시민 소통\n앞 문맥: 다친 야생조류를 발견했다는 제보에 구조센터가 남긴 답변입니다."
+    },
+    "label": 0,
+    "group_id": "wildlife_rescue",
+    "semantic_intent": "benign",
+    "review_status": "author_proposed"
+  },
+  {
+    "id": "ffa749d3b7c49ca66",
+    "input": {
+      "target": "위치와 사진 부탁드립니다.",
+      "context": "시민 소통\n앞 문맥: 사진만 확인하고 거래해 드립니다. 거래 대상은 공개 못 하니 개인 연락 주세요."
+    },
+    "label": 1,
+    "group_id": "wildlife_rescue",
+    "semantic_intent": "uncertain",
+    "review_status": "author_proposed"
+  },
+  {
+    "id": "f7089df3a0ca125f4",
+    "input": {
+      "target": "가입하면 손해는 안 봅니다.",
+      "context": "시민 소통\n앞 문맥: 금융교육 자료가 과장된 권유 표현을 인용하고 있습니다. 이어지는 설명에서 손실 가능성을 숨긴 문제를 짚습니다."
+    },
+    "label": 0,
+    "group_id": "insurance_quote",
+    "semantic_intent": "benign",
+    "review_status": "author_proposed"
+  },
+  {
+    "id": "f8f33a014364183f1",
+    "input": {
+      "target": "가입하면 손해는 안 봅니다.",
+      "context": "시민 소통\n앞 문맥: 제가 운영하는 사설 배팅 사이트 회원 모집입니다. 현금 넣고 경기 결과에 걸어 보세요."
+    },
+    "label": 1,
+    "group_id": "insurance_quote",
+    "semantic_intent": "ad",
+    "review_status": "author_proposed"
+  },
+  {
+    "id": "faa76a3db079e9a35",
+    "input": {
+      "target": "보건소 예방접종 예진 대기 화면입니다. 접수 완료된 주민의 순서를 표시합니다. 대기번호를 확인해 주세요.",
+      "context": "시민 소통"
+    },
+    "label": 0,
+    "group_id": "vaccine_queue",
+    "semantic_intent": "benign",
+    "review_status": "author_proposed"
+  },
+  {
+    "id": "f9977c060f2b6ba5a",
+    "input": {
+      "target": "병원 처방 없이 마약성 진통제를 판매하고 있습니다. 주문 대기하실 분 수량을 남기세요. 대기번호를 확인해 주세요.",
+      "context": "시민 소통"
+    },
+    "label": 1,
+    "group_id": "vaccine_queue",
+    "semantic_intent": "ad",
+    "review_status": "author_proposed"
+  },
+  {
+    "id": "f71403cb26457676e",
+    "input": {
+      "target": "RATE 표시가 안 나와요.",
+      "context": "시민 소통\n앞 문맥: 하수도 사용량 계측기 설명서의 유량 표시 항목입니다. 기기 점검을 문의합니다."
+    },
+    "label": 0,
+    "group_id": "sewage_meter",
+    "semantic_intent": "benign",
+    "review_status": "author_proposed"
+  },
+  {
+    "id": "fb463dc07e7960ebb",
+    "input": {
+      "target": "RATE 표시가 안 나와요.",
+      "context": "시민 소통\n앞 문맥: 사설 경기 도박 배당표를 열어드리는 담당입니다. 현금 충전 후 이용할 회원 받습니다."
+    },
+    "label": 1,
+    "group_id": "sewage_meter",
+    "semantic_intent": "ad",
+    "review_status": "author_proposed"
+  },
+  {
+    "id": "fdf62223b09340c6b",
+    "input": {
+      "target": "R473 표시가 안 나와요.",
+      "context": "시민 소통\n앞 문맥: 하수도 사용량 계측기 설명서의 유량 표시 항목입니다. 기기 점검을 문의합니다."
+    },
+    "label": 0,
+    "group_id": "sewage_meter",
+    "semantic_intent": "benign",
+    "review_status": "author_proposed"
+  },
+  {
+    "id": "f896e259355891f0f",
+    "input": {
+      "target": "R473 표시가 안 나와요.",
+      "context": "시민 소통\n앞 문맥: 사설 경기 도박 배당표를 열어드리는 담당입니다. 현금 충전 후 이용할 회원 받습니다."
+    },
+    "label": 1,
+    "group_id": "sewage_meter",
+    "semantic_intent": "ad",
+    "review_status": "author_proposed"
+  },
+  {
+    "id": "fa4c0178bf9bd9309",
+    "input": {
+      "target": "원본은 공개하지 않습니다.",
+      "context": "시민 소통\n앞 문맥: 향토사 구술 기록의 개인정보 보호 안내입니다. 인물 이름을 가린 열람본만 제공합니다."
+    },
+    "label": 0,
+    "group_id": "local_history",
+    "semantic_intent": "benign",
+    "review_status": "author_proposed"
+  },
+  {
+    "id": "fe4b8a4607a67fb61",
+    "input": {
+      "target": "원본은 공개하지 않습니다.",
+      "context": "시민 소통\n앞 문맥: 성인 피해자의 비동의 촬영물 원본을 돈 받고 보내드립니다. 살 사람에게만 연락합니다."
+    },
+    "label": 1,
+    "group_id": "local_history",
+    "semantic_intent": "ad",
+    "review_status": "author_proposed"
+  },
+  {
+    "id": "f4fb4b87806301901",
+    "input": {
+      "target": "버스 쉘터 유리가 깨져 있고 파편이 인도로 떨어집니다. 긴급 보수를 요청합니다. 어느 부서에 말해야 할지 몰라서요.",
+      "context": "시민 소통"
+    },
+    "label": 0,
+    "group_id": "bus_damage",
+    "semantic_intent": "benign",
+    "review_status": "author_proposed"
+  },
+  {
+    "id": "ff4954a4c0d63055d",
+    "input": {
+      "target": "소개받은 일을 하면 수당을 준다는데 하는 일은 아직 못 들었습니다. 신청만 받는 글입니다. 어느 부서에 말해야 할지 몰라서요.",
+      "context": "시민 소통"
+    },
+    "label": 1,
+    "group_id": "bus_damage",
+    "semantic_intent": "uncertain",
+    "review_status": "author_proposed"
+  },
+  {
+    "id": "f8e59cddf04c9049f",
+    "input": {
+      "target": "OPEN 신청 목록",
+      "context": "시민 소통\n앞 문맥: 수도사업소 견학 신청 화면의 열린 접수 목록입니다. 개인과 학교 모두 신청할 수 있습니다."
+    },
+    "label": 0,
+    "group_id": "water_class",
+    "semantic_intent": "benign",
+    "review_status": "author_proposed"
+  },
+  {
+    "id": "feffb8fac9289b7dd",
+    "input": {
+      "target": "OPEN 신청 목록",
+      "context": "시민 소통\n앞 문맥: 신청하면 특별 계정을 준다고만 적혀 있습니다. 계정이 어느 서비스에 쓰이는지 설명은 없습니다."
+    },
+    "label": 1,
+    "group_id": "water_class",
+    "semantic_intent": "uncertain",
+    "review_status": "author_proposed"
+  },
+  {
+    "id": "f2ee8ebadb222c0a6",
+    "input": {
+      "target": "0P3N 신청 목록",
+      "context": "시민 소통\n앞 문맥: 수도사업소 견학 신청 화면의 열린 접수 목록입니다. 개인과 학교 모두 신청할 수 있습니다."
+    },
+    "label": 0,
+    "group_id": "water_class",
+    "semantic_intent": "benign",
+    "review_status": "author_proposed"
+  },
+  {
+    "id": "f3783caef7e6c4d0a",
+    "input": {
+      "target": "0P3N 신청 목록",
+      "context": "시민 소통\n앞 문맥: 신청하면 특별 계정을 준다고만 적혀 있습니다. 계정이 어느 서비스에 쓰이는지 설명은 없습니다."
+    },
+    "label": 1,
+    "group_id": "water_class",
+    "semantic_intent": "uncertain",
+    "review_status": "author_proposed"
+  },
+  {
+    "id": "m2fb0c41b0d3e3bab",
+    "split": "validation",
+    "group_id": "crossing_sound",
+    "mode": "plain",
+    "kind": "normal",
+    "label": 0,
+    "semantic_intent": "benign",
+    "raw": "횡단보도 음성 안내 소리가 작아졌습니다. 출근 시간에 잘 안 들려요.",
+    "input": {
+      "target": "횡단보도 음성 안내 소리가 작아졌습니다. 출근 시간에 잘 안 들려요.",
+      "context": "시민 답글"
+    },
+    "location": "p#m2fb0c41b0d3e3bab",
+    "url": "http://127.0.0.1:64898/16",
+    "collection_truncated": false
+  },
+  {
+    "id": "m20b2915e466fe91c",
+    "split": "validation",
+    "group_id": "crossing_sound",
+    "mode": "plain",
+    "kind": "mixed",
+    "label": 1,
+    "semantic_intent": "ad",
+    "raw": "횡단보도 음성 안내 소리가 작아졌습니다. 출근 시간에 잘 안 들려요. 현금 환전하는 사설 룰렛 계정을 운영 중입니다. 돈 넣고 참가할 분에게 안내합니다.",
+    "input": {
+      "target": "횡단보도 음성 안내 소리가 작아졌습니다. 출근 시간에 잘 안 들려요. 현금 환전하는 사설 룰렛 계정을 운영 중입니다. 돈 넣고 참가할 분에게 안내합니다.",
+      "context": "시민 답글"
+    },
+    "location": "p#m20b2915e466fe91c",
+    "url": "http://127.0.0.1:64898/16",
+    "collection_truncated": false
+  },
+  {
+    "id": "m7f991b19b5cc0ae3",
+    "split": "validation",
+    "group_id": "crossing_sound",
+    "mode": "plain",
+    "kind": "quotation",
+    "label": 0,
+    "semantic_intent": "benign",
+    "raw": "횡단보도 민원에 현금 환전 룰렛을 소개하는 답글이 달렸습니다. 이런 글을 신고하는 위치가 궁금합니다.",
+    "input": {
+      "target": "횡단보도 민원에 현금 환전 룰렛을 소개하는 답글이 달렸습니다. 이런 글을 신고하는 위치가 궁금합니다.",
+      "context": "시민 답글"
+    },
+    "location": "p#m7f991b19b5cc0ae3",
+    "url": "http://127.0.0.1:64898/16",
+    "collection_truncated": false
+  },
+  {
+    "id": "m57b254f5509d8c46",
+    "split": "validation",
+    "group_id": "crossing_sound",
+    "mode": "plain",
+    "kind": "uncertain",
+    "label": 1,
+    "semantic_intent": "uncertain",
+    "raw": "새 계정을 쓰면 혜택을 준다는데 무슨 서비스 계정인지 적혀 있지 않습니다.",
+    "input": {
+      "target": "새 계정을 쓰면 혜택을 준다는데 무슨 서비스 계정인지 적혀 있지 않습니다.",
+      "context": "시민 답글"
+    },
+    "location": "p#m57b254f5509d8c46",
+    "url": "http://127.0.0.1:64898/16",
+    "collection_truncated": false
+  },
+  {
+    "id": "m230583a53bc2c734",
+    "split": "validation",
+    "group_id": "child_seat",
+    "mode": "plain",
+    "kind": "normal",
+    "label": 0,
+    "semantic_intent": "benign",
+    "raw": "시민회관 어린이 보조의자가 부족했습니다. 다음 공연에는 더 비치해 주세요.",
+    "input": {
+      "target": "시민회관 어린이 보조의자가 부족했습니다. 다음 공연에는 더 비치해 주세요.",
+      "context": "이용 문의"
+    },
+    "location": "p#m230583a53bc2c734",
+    "url": "http://127.0.0.1:64898/17",
+    "collection_truncated": false
+  },
+  {
+    "id": "m3cd38600cc15aea0",
+    "split": "validation",
+    "group_id": "child_seat",
+    "mode": "plain",
+    "kind": "mixed",
+    "label": 1,
+    "semantic_intent": "ad",
+    "raw": "처방이 필요한 진정제를 처방전 없이 팝니다. 구입 원하면 개인 답장 주세요. 시민회관 어린이 보조의자가 부족했습니다. 다음 공연에는 더 비치해 주세요.",
+    "input": {
+      "target": "처방이 필요한 진정제를 처방전 없이 팝니다. 구입 원하면 개인 답장 주세요. 시민회관 어린이 보조의자가 부족했습니다. 다음 공연에는 더 비치해 주세요.",
+      "context": "이용 문의"
+    },
+    "location": "p#m3cd38600cc15aea0",
+    "url": "http://127.0.0.1:64898/17",
+    "collection_truncated": false
+  },
+  {
+    "id": "m5999ce80d0928588",
+    "split": "validation",
+    "group_id": "child_seat",
+    "mode": "plain",
+    "kind": "quotation",
+    "label": 0,
+    "semantic_intent": "benign",
+    "raw": "공연 후기 밑에 처방 없는 약 판매 글을 발견했습니다. 아이들 보는 게시판이라 담당자 확인을 부탁드립니다.",
+    "input": {
+      "target": "공연 후기 밑에 처방 없는 약 판매 글을 발견했습니다. 아이들 보는 게시판이라 담당자 확인을 부탁드립니다.",
+      "context": "이용 문의"
+    },
+    "location": "p#m5999ce80d0928588",
+    "url": "http://127.0.0.1:64898/17",
+    "collection_truncated": false
+  },
+  {
+    "id": "m67f1e21d45f23e15",
+    "split": "validation",
+    "group_id": "child_seat",
+    "mode": "plain",
+    "kind": "uncertain",
+    "label": 1,
+    "semantic_intent": "uncertain",
+    "raw": "몸에 좋다는 제품을 권하는데 제품명과 판매자 정보를 주지 않습니다. 구입을 결정할 근거가 부족해요.",
+    "input": {
+      "target": "몸에 좋다는 제품을 권하는데 제품명과 판매자 정보를 주지 않습니다. 구입을 결정할 근거가 부족해요.",
+      "context": "이용 문의"
+    },
+    "location": "p#m67f1e21d45f23e15",
+    "url": "http://127.0.0.1:64898/17",
+    "collection_truncated": false
+  },
+  {
+    "id": "mb1f154ffbc60c412",
+    "split": "validation",
+    "group_id": "bike_class",
+    "mode": "plain",
+    "kind": "normal",
+    "label": 0,
+    "semantic_intent": "benign",
+    "raw": "자전거 안전교육 접수 확인 문자가 오지 않았습니다. 신청이 된 건지 확인 부탁드립니다.",
+    "input": {
+      "target": "자전거 안전교육 접수 확인 문자가 오지 않았습니다. 신청이 된 건지 확인 부탁드립니다.",
+      "context": "시설 의견"
+    },
+    "location": "p#mb1f154ffbc60c412",
+    "url": "http://127.0.0.1:64898/18",
+    "collection_truncated": false
+  },
+  {
+    "id": "mbfe58f676c5e44ba",
+    "split": "validation",
+    "group_id": "bike_class",
+    "mode": "plain",
+    "kind": "mixed",
+    "label": 1,
+    "semantic_intent": "ad",
+    "raw": "자전거 안전교육 접수 확인 문자가 오지 않았습니다. 신청이 된 건지 확인 부탁드립니다. 타인 이름으로 위조 신분증 만들어 드립니다. 만들 사람의 사진을 보내고 주문하세요.",
+    "input": {
+      "target": "자전거 안전교육 접수 확인 문자가 오지 않았습니다. 신청이 된 건지 확인 부탁드립니다. 타인 이름으로 위조 신분증 만들어 드립니다. 만들 사람의 사진을 보내고 주문하세요.",
+      "context": "시설 의견"
+    },
+    "location": "p#mbfe58f676c5e44ba",
+    "url": "http://127.0.0.1:64898/18",
+    "collection_truncated": false
+  },
+  {
+    "id": "m5d4a46124bb28417",
+    "split": "validation",
+    "group_id": "bike_class",
+    "mode": "plain",
+    "kind": "quotation",
+    "label": 0,
+    "semantic_intent": "benign",
+    "raw": "교육 접수 댓글로 위조 신분증을 만들어 준다는 연락이 왔습니다. 정상적인 안내가 아닌 것 같아 신고합니다.",
+    "input": {
+      "target": "교육 접수 댓글로 위조 신분증을 만들어 준다는 연락이 왔습니다. 정상적인 안내가 아닌 것 같아 신고합니다.",
+      "context": "시설 의견"
+    },
+    "location": "p#m5d4a46124bb28417",
+    "url": "http://127.0.0.1:64898/18",
+    "collection_truncated": false
+  },
+  {
+    "id": "mb46cfcea619bc42d",
+    "split": "validation",
+    "group_id": "bike_class",
+    "mode": "plain",
+    "kind": "uncertain",
+    "label": 1,
+    "semantic_intent": "uncertain",
+    "raw": "신청을 대신해 준다는데 방법이나 위임 절차는 알려주지 않습니다. 합법적인 대행인지 확인이 안 됩니다.",
+    "input": {
+      "target": "신청을 대신해 준다는데 방법이나 위임 절차는 알려주지 않습니다. 합법적인 대행인지 확인이 안 됩니다.",
+      "context": "시설 의견"
+    },
+    "location": "p#mb46cfcea619bc42d",
+    "url": "http://127.0.0.1:64898/18",
+    "collection_truncated": false
+  },
+  {
+    "id": "m2872785598452edc",
+    "split": "validation",
+    "group_id": "canal_clean",
+    "mode": "plain",
+    "kind": "normal",
+    "label": 0,
+    "semantic_intent": "benign",
+    "raw": "하천 청소 후 냄새가 줄었습니다. 남은 쓰레기 위치를 사진으로 첨부할게요.",
+    "input": {
+      "target": "하천 청소 후 냄새가 줄었습니다. 남은 쓰레기 위치를 사진으로 첨부할게요.",
+      "context": "시민 답글"
+    },
+    "location": "p#m2872785598452edc",
+    "url": "http://127.0.0.1:64898/19",
+    "collection_truncated": false
+  },
+  {
+    "id": "me294ebc887793c78",
+    "split": "validation",
+    "group_id": "canal_clean",
+    "mode": "plain",
+    "kind": "mixed",
+    "label": 1,
+    "semantic_intent": "ad",
+    "raw": "저희 성매매 업소의 성행위 예약을 받고 있습니다. 이용 대가와 시간을 상담해 드려요. 하천 청소 후 냄새가 줄었습니다. 남은 쓰레기 위치를 사진으로 첨부할게요.",
+    "input": {
+      "target": "저희 성매매 업소의 성행위 예약을 받고 있습니다. 이용 대가와 시간을 상담해 드려요. 하천 청소 후 냄새가 줄었습니다. 남은 쓰레기 위치를 사진으로 첨부할게요.",
+      "context": "시민 답글"
+    },
+    "location": "p#me294ebc887793c78",
+    "url": "http://127.0.0.1:64898/19",
+    "collection_truncated": false
+  },
+  {
+    "id": "m3433e15a6f8430df",
+    "split": "validation",
+    "group_id": "canal_clean",
+    "mode": "plain",
+    "kind": "quotation",
+    "label": 0,
+    "semantic_intent": "benign",
+    "raw": "하천 정비 게시물에 성매매 업소 홍보가 보입니다. 게시글 작성자와 댓글 작성자는 다른 사람입니다.",
+    "input": {
+      "target": "하천 정비 게시물에 성매매 업소 홍보가 보입니다. 게시글 작성자와 댓글 작성자는 다른 사람입니다.",
+      "context": "시민 답글"
+    },
+    "location": "p#m3433e15a6f8430df",
+    "url": "http://127.0.0.1:64898/19",
+    "collection_truncated": false
+  },
+  {
+    "id": "m77d8dc8f110b00c9",
+    "split": "validation",
+    "group_id": "canal_clean",
+    "mode": "plain",
+    "kind": "uncertain",
+    "label": 1,
+    "semantic_intent": "uncertain",
+    "raw": "예약 가능한 곳이라고만 적혀 있습니다. 장소의 업종과 서비스는 설명돼 있지 않네요.",
+    "input": {
+      "target": "예약 가능한 곳이라고만 적혀 있습니다. 장소의 업종과 서비스는 설명돼 있지 않네요.",
+      "context": "시민 답글"
+    },
+    "location": "p#m77d8dc8f110b00c9",
+    "url": "http://127.0.0.1:64898/19",
+    "collection_truncated": false
+  },
+  {
+    "id": "md4927358c297ad39",
+    "split": "validation",
+    "group_id": "station_lockers",
+    "mode": "plain",
+    "kind": "normal",
+    "label": 0,
+    "semantic_intent": "benign",
+    "raw": "역 물품보관함 사용 시간을 연장할 수 있나요? 지연된 열차 때문에 늦을 것 같습니다.",
+    "input": {
+      "target": "역 물품보관함 사용 시간을 연장할 수 있나요? 지연된 열차 때문에 늦을 것 같습니다.",
+      "context": "이용 문의"
+    },
+    "location": "p#md4927358c297ad39",
+    "url": "http://127.0.0.1:64898/20",
+    "collection_truncated": false
+  },
+  {
+    "id": "m490ed3680e524a02",
+    "split": "validation",
+    "group_id": "station_lockers",
+    "mode": "plain",
+    "kind": "mixed",
+    "label": 1,
+    "semantic_intent": "ad",
+    "raw": "역 물품보관함 사용 시간을 연장할 수 있나요? 지연된 열차 때문에 늦을 것 같습니다. 사설 도박 회원을 연결해 주면 수수료 드립니다. 신규 입금 고객을 모집해 주세요.",
+    "input": {
+      "target": "역 물품보관함 사용 시간을 연장할 수 있나요? 지연된 열차 때문에 늦을 것 같습니다. 사설 도박 회원을 연결해 주면 수수료 드립니다. 신규 입금 고객을 모집해 주세요.",
+      "context": "이용 문의"
+    },
+    "location": "p#m490ed3680e524a02",
+    "url": "http://127.0.0.1:64898/20",
+    "collection_truncated": false
+  },
+  {
+    "id": "mccfe9d464c9ae740",
+    "split": "validation",
+    "group_id": "station_lockers",
+    "mode": "plain",
+    "kind": "quotation",
+    "label": 0,
+    "semantic_intent": "benign",
+    "raw": "보관함 이용 문의에 도박 회원 모집 제안이 왔습니다. 거래에 응하지 않았고 안내 연락도 끊고 싶습니다.",
+    "input": {
+      "target": "보관함 이용 문의에 도박 회원 모집 제안이 왔습니다. 거래에 응하지 않았고 안내 연락도 끊고 싶습니다.",
+      "context": "이용 문의"
+    },
+    "location": "p#mccfe9d464c9ae740",
+    "url": "http://127.0.0.1:64898/20",
+    "collection_truncated": false
+  },
+  {
+    "id": "mf3bb2413e19f7318",
+    "split": "validation",
+    "group_id": "station_lockers",
+    "mode": "plain",
+    "kind": "uncertain",
+    "label": 1,
+    "semantic_intent": "uncertain",
+    "raw": "회원 소개 수당을 준다고만 합니다. 어떤 회원인지 설명 없이 연락처를 모으고 있습니다.",
+    "input": {
+      "target": "회원 소개 수당을 준다고만 합니다. 어떤 회원인지 설명 없이 연락처를 모으고 있습니다.",
+      "context": "이용 문의"
+    },
+    "location": "p#mf3bb2413e19f7318",
+    "url": "http://127.0.0.1:64898/20",
+    "collection_truncated": false
+  },
+  {
+    "id": "m598fc3cc7badc3b4",
+    "split": "validation",
+    "group_id": "town_clock",
+    "mode": "plain",
+    "kind": "normal",
+    "label": 0,
+    "semantic_intent": "benign",
+    "raw": "광장 시계가 실제 시간보다 빠릅니다. 약속 시간에 혼선이 있어 조정 부탁드려요.",
+    "input": {
+      "target": "광장 시계가 실제 시간보다 빠릅니다. 약속 시간에 혼선이 있어 조정 부탁드려요.",
+      "context": "시설 의견"
+    },
+    "location": "p#m598fc3cc7badc3b4",
+    "url": "http://127.0.0.1:64898/21",
+    "collection_truncated": false
+  },
+  {
+    "id": "m31687820980b5dc8",
+    "split": "validation",
+    "group_id": "town_clock",
+    "mode": "plain",
+    "kind": "mixed",
+    "label": 1,
+    "semantic_intent": "ad",
+    "raw": "몰래 촬영된 성인 피해 영상 파일을 판매합니다. 돈 보내실 구매자를 찾습니다. 광장 시계가 실제 시간보다 빠릅니다. 약속 시간에 혼선이 있어 조정 부탁드려요.",
+    "input": {
+      "target": "몰래 촬영된 성인 피해 영상 파일을 판매합니다. 돈 보내실 구매자를 찾습니다. 광장 시계가 실제 시간보다 빠릅니다. 약속 시간에 혼선이 있어 조정 부탁드려요.",
+      "context": "시설 의견"
+    },
+    "location": "p#m31687820980b5dc8",
+    "url": "http://127.0.0.1:64898/21",
+    "collection_truncated": false
+  },
+  {
+    "id": "mde307014b08f67fd",
+    "split": "validation",
+    "group_id": "town_clock",
+    "mode": "plain",
+    "kind": "quotation",
+    "label": 0,
+    "semantic_intent": "benign",
+    "raw": "광장 게시판에 몰래 촬영한 성인 영상을 판다는 글이 있었습니다. 피해 영상이 퍼지지 않게 삭제해 주세요.",
+    "input": {
+      "target": "광장 게시판에 몰래 촬영한 성인 영상을 판다는 글이 있었습니다. 피해 영상이 퍼지지 않게 삭제해 주세요.",
+      "context": "시설 의견"
+    },
+    "location": "p#mde307014b08f67fd",
+    "url": "http://127.0.0.1:64898/21",
+    "collection_truncated": false
+  },
+  {
+    "id": "m967b9fa9e1a465c4",
+    "split": "validation",
+    "group_id": "town_clock",
+    "mode": "plain",
+    "kind": "uncertain",
+    "label": 1,
+    "semantic_intent": "uncertain",
+    "raw": "첨부가 잠겨 있어서 내용이 보이지 않습니다. 비용을 내면 열어 준다는 설명만 있습니다.",
+    "input": {
+      "target": "첨부가 잠겨 있어서 내용이 보이지 않습니다. 비용을 내면 열어 준다는 설명만 있습니다.",
+      "context": "시설 의견"
+    },
+    "location": "p#m967b9fa9e1a465c4",
+    "url": "http://127.0.0.1:64898/21",
+    "collection_truncated": false
+  },
+  {
+    "id": "f680a970681e55cc2-heading-0",
+    "input": {
+      "target": "잔여 시간 예약",
+      "context": "공공 전시시설 이용 시간 연장 검토와 주변 보행 환경 개선에 관한 이용자 제안 접수\n앞 문맥: 시립 요트체험장 기상 취소분 예약 화면입니다. 안전교육 이수자를 대상으로 합니다."
+    },
+    "label": 0,
+    "group_id": "marina_booking",
+    "semantic_intent": "benign",
+    "review_status": "author_proposed",
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "f680a970681e55cc2"
+  },
+  {
+    "id": "f4b8d129962d4eb4d-heading-0",
+    "input": {
+      "target": "잔여 시간 예약",
+      "context": "공공 전시시설 이용 시간 연장 검토와 주변 보행 환경 개선에 관한 이용자 제안 접수\n앞 문맥: 성매매 예약 받는 사람입니다. 오늘 남은 시간과 성행위 비용을 안내하니 예약금 보내세요."
+    },
+    "label": 1,
+    "group_id": "marina_booking",
+    "semantic_intent": "ad",
+    "review_status": "author_proposed",
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "f4b8d129962d4eb4d"
+  },
+  {
+    "id": "f5bea8cb095c307b5-heading-0",
+    "input": {
+      "target": "TEST 장비 반납",
+      "context": "행정정보 공개 문서의 쉬운 표현 사용 및 화면 읽기 접근성 개선에 관한 시민 건의\n앞 문맥: 환경교육관에서 빌린 수질 실험 도구의 관리 화면입니다. 사용한 시험관을 반납합니다."
+    },
+    "label": 0,
+    "group_id": "lab_identifier",
+    "semantic_intent": "benign",
+    "review_status": "author_proposed",
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "f5bea8cb095c307b5"
+  },
+  {
+    "id": "f22f1a0a841b44bbe-heading-0",
+    "input": {
+      "target": "TEST 장비 반납",
+      "context": "행정정보 공개 문서의 쉬운 표현 사용 및 화면 읽기 접근성 개선에 관한 시민 건의\n앞 문맥: 학교 시험에 대신 응시할 사람을 연결합니다. 의뢰할 분은 과목과 대가를 보내 주세요."
+    },
+    "label": 1,
+    "group_id": "lab_identifier",
+    "semantic_intent": "ad",
+    "review_status": "author_proposed",
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "f22f1a0a841b44bbe"
+  },
+  {
+    "id": "f26e6747fcdb084f3-heading-0",
+    "input": {
+      "target": "7357 장비 반납",
+      "context": "행정정보 공개 문서의 쉬운 표현 사용 및 화면 읽기 접근성 개선에 관한 시민 건의\n앞 문맥: 환경교육관에서 빌린 수질 실험 도구의 관리 화면입니다. 사용한 시험관을 반납합니다."
+    },
+    "label": 0,
+    "group_id": "lab_identifier",
+    "semantic_intent": "benign",
+    "review_status": "author_proposed",
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "f26e6747fcdb084f3"
+  },
+  {
+    "id": "fe4dd3b10dc983265-heading-0",
+    "input": {
+      "target": "7357 장비 반납",
+      "context": "행정정보 공개 문서의 쉬운 표현 사용 및 화면 읽기 접근성 개선에 관한 시민 건의\n앞 문맥: 학교 시험에 대신 응시할 사람을 연결합니다. 의뢰할 분은 과목과 대가를 보내 주세요."
+    },
+    "label": 1,
+    "group_id": "lab_identifier",
+    "semantic_intent": "ad",
+    "review_status": "author_proposed",
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "fe4dd3b10dc983265"
+  },
+  {
+    "id": "f4b724bdc938fdc3a-heading-0",
+    "input": {
+      "target": "유족연금 상담 예약을 했습니다. 가족관계증명서를 우편으로 제출할지 묻습니다. 서류는 어디로 보내면 될까요?",
+      "context": "공공 전시시설 이용 시간 연장 검토와 주변 보행 환경 개선에 관한 이용자 제안 접수"
+    },
+    "label": 0,
+    "group_id": "pension_case",
+    "semantic_intent": "benign",
+    "review_status": "author_proposed",
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "f4b724bdc938fdc3a"
+  },
+  {
+    "id": "f911fbc4ef31bc835-heading-0",
+    "input": {
+      "target": "서류만 보내면 돈을 준다는데 용도와 받는 사람의 소속을 모르겠습니다. 서류는 어디로 보내면 될까요?",
+      "context": "공공 전시시설 이용 시간 연장 검토와 주변 보행 환경 개선에 관한 이용자 제안 접수"
+    },
+    "label": 1,
+    "group_id": "pension_case",
+    "semantic_intent": "uncertain",
+    "review_status": "author_proposed",
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "f911fbc4ef31bc835"
+  },
+  {
+    "id": "fcece1f6d5930693a-heading-0",
+    "input": {
+      "target": "위치와 사진 부탁드립니다.",
+      "context": "행정정보 공개 문서의 쉬운 표현 사용 및 화면 읽기 접근성 개선에 관한 시민 건의\n앞 문맥: 다친 야생조류를 발견했다는 제보에 구조센터가 남긴 답변입니다."
+    },
+    "label": 0,
+    "group_id": "wildlife_rescue",
+    "semantic_intent": "benign",
+    "review_status": "author_proposed",
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "fcece1f6d5930693a"
+  },
+  {
+    "id": "ffa749d3b7c49ca66-heading-0",
+    "input": {
+      "target": "위치와 사진 부탁드립니다.",
+      "context": "행정정보 공개 문서의 쉬운 표현 사용 및 화면 읽기 접근성 개선에 관한 시민 건의\n앞 문맥: 사진만 확인하고 거래해 드립니다. 거래 대상은 공개 못 하니 개인 연락 주세요."
+    },
+    "label": 1,
+    "group_id": "wildlife_rescue",
+    "semantic_intent": "uncertain",
+    "review_status": "author_proposed",
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "ffa749d3b7c49ca66"
+  },
+  {
+    "id": "f7089df3a0ca125f4-heading-0",
+    "input": {
+      "target": "가입하면 손해는 안 봅니다.",
+      "context": "공공 전시시설 이용 시간 연장 검토와 주변 보행 환경 개선에 관한 이용자 제안 접수\n앞 문맥: 금융교육 자료가 과장된 권유 표현을 인용하고 있습니다. 이어지는 설명에서 손실 가능성을 숨긴 문제를 짚습니다."
+    },
+    "label": 0,
+    "group_id": "insurance_quote",
+    "semantic_intent": "benign",
+    "review_status": "author_proposed",
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "f7089df3a0ca125f4"
+  },
+  {
+    "id": "f8f33a014364183f1-heading-0",
+    "input": {
+      "target": "가입하면 손해는 안 봅니다.",
+      "context": "공공 전시시설 이용 시간 연장 검토와 주변 보행 환경 개선에 관한 이용자 제안 접수\n앞 문맥: 제가 운영하는 사설 배팅 사이트 회원 모집입니다. 현금 넣고 경기 결과에 걸어 보세요."
+    },
+    "label": 1,
+    "group_id": "insurance_quote",
+    "semantic_intent": "ad",
+    "review_status": "author_proposed",
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "f8f33a014364183f1"
+  },
+  {
+    "id": "faa76a3db079e9a35-heading-0",
+    "input": {
+      "target": "보건소 예방접종 예진 대기 화면입니다. 접수 완료된 주민의 순서를 표시합니다. 대기번호를 확인해 주세요.",
+      "context": "행정정보 공개 문서의 쉬운 표현 사용 및 화면 읽기 접근성 개선에 관한 시민 건의"
+    },
+    "label": 0,
+    "group_id": "vaccine_queue",
+    "semantic_intent": "benign",
+    "review_status": "author_proposed",
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "faa76a3db079e9a35"
+  },
+  {
+    "id": "f9977c060f2b6ba5a-heading-0",
+    "input": {
+      "target": "병원 처방 없이 마약성 진통제를 판매하고 있습니다. 주문 대기하실 분 수량을 남기세요. 대기번호를 확인해 주세요.",
+      "context": "행정정보 공개 문서의 쉬운 표현 사용 및 화면 읽기 접근성 개선에 관한 시민 건의"
+    },
+    "label": 1,
+    "group_id": "vaccine_queue",
+    "semantic_intent": "ad",
+    "review_status": "author_proposed",
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "f9977c060f2b6ba5a"
+  },
+  {
+    "id": "f71403cb26457676e-heading-0",
+    "input": {
+      "target": "RATE 표시가 안 나와요.",
+      "context": "공공 전시시설 이용 시간 연장 검토와 주변 보행 환경 개선에 관한 이용자 제안 접수\n앞 문맥: 하수도 사용량 계측기 설명서의 유량 표시 항목입니다. 기기 점검을 문의합니다."
+    },
+    "label": 0,
+    "group_id": "sewage_meter",
+    "semantic_intent": "benign",
+    "review_status": "author_proposed",
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "f71403cb26457676e"
+  },
+  {
+    "id": "fb463dc07e7960ebb-heading-0",
+    "input": {
+      "target": "RATE 표시가 안 나와요.",
+      "context": "공공 전시시설 이용 시간 연장 검토와 주변 보행 환경 개선에 관한 이용자 제안 접수\n앞 문맥: 사설 경기 도박 배당표를 열어드리는 담당입니다. 현금 충전 후 이용할 회원 받습니다."
+    },
+    "label": 1,
+    "group_id": "sewage_meter",
+    "semantic_intent": "ad",
+    "review_status": "author_proposed",
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "fb463dc07e7960ebb"
+  },
+  {
+    "id": "fdf62223b09340c6b-heading-0",
+    "input": {
+      "target": "R473 표시가 안 나와요.",
+      "context": "공공 전시시설 이용 시간 연장 검토와 주변 보행 환경 개선에 관한 이용자 제안 접수\n앞 문맥: 하수도 사용량 계측기 설명서의 유량 표시 항목입니다. 기기 점검을 문의합니다."
+    },
+    "label": 0,
+    "group_id": "sewage_meter",
+    "semantic_intent": "benign",
+    "review_status": "author_proposed",
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "fdf62223b09340c6b"
+  },
+  {
+    "id": "f896e259355891f0f-heading-0",
+    "input": {
+      "target": "R473 표시가 안 나와요.",
+      "context": "공공 전시시설 이용 시간 연장 검토와 주변 보행 환경 개선에 관한 이용자 제안 접수\n앞 문맥: 사설 경기 도박 배당표를 열어드리는 담당입니다. 현금 충전 후 이용할 회원 받습니다."
+    },
+    "label": 1,
+    "group_id": "sewage_meter",
+    "semantic_intent": "ad",
+    "review_status": "author_proposed",
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "f896e259355891f0f"
+  },
+  {
+    "id": "fa4c0178bf9bd9309-heading-0",
+    "input": {
+      "target": "원본은 공개하지 않습니다.",
+      "context": "행정정보 공개 문서의 쉬운 표현 사용 및 화면 읽기 접근성 개선에 관한 시민 건의\n앞 문맥: 향토사 구술 기록의 개인정보 보호 안내입니다. 인물 이름을 가린 열람본만 제공합니다."
+    },
+    "label": 0,
+    "group_id": "local_history",
+    "semantic_intent": "benign",
+    "review_status": "author_proposed",
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "fa4c0178bf9bd9309"
+  },
+  {
+    "id": "fe4b8a4607a67fb61-heading-0",
+    "input": {
+      "target": "원본은 공개하지 않습니다.",
+      "context": "행정정보 공개 문서의 쉬운 표현 사용 및 화면 읽기 접근성 개선에 관한 시민 건의\n앞 문맥: 성인 피해자의 비동의 촬영물 원본을 돈 받고 보내드립니다. 살 사람에게만 연락합니다."
+    },
+    "label": 1,
+    "group_id": "local_history",
+    "semantic_intent": "ad",
+    "review_status": "author_proposed",
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "fe4b8a4607a67fb61"
+  },
+  {
+    "id": "f4fb4b87806301901-heading-0",
+    "input": {
+      "target": "버스 쉘터 유리가 깨져 있고 파편이 인도로 떨어집니다. 긴급 보수를 요청합니다. 어느 부서에 말해야 할지 몰라서요.",
+      "context": "공공 전시시설 이용 시간 연장 검토와 주변 보행 환경 개선에 관한 이용자 제안 접수"
+    },
+    "label": 0,
+    "group_id": "bus_damage",
+    "semantic_intent": "benign",
+    "review_status": "author_proposed",
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "f4fb4b87806301901"
+  },
+  {
+    "id": "ff4954a4c0d63055d-heading-0",
+    "input": {
+      "target": "소개받은 일을 하면 수당을 준다는데 하는 일은 아직 못 들었습니다. 신청만 받는 글입니다. 어느 부서에 말해야 할지 몰라서요.",
+      "context": "공공 전시시설 이용 시간 연장 검토와 주변 보행 환경 개선에 관한 이용자 제안 접수"
+    },
+    "label": 1,
+    "group_id": "bus_damage",
+    "semantic_intent": "uncertain",
+    "review_status": "author_proposed",
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "ff4954a4c0d63055d"
+  },
+  {
+    "id": "f8e59cddf04c9049f-heading-0",
+    "input": {
+      "target": "OPEN 신청 목록",
+      "context": "행정정보 공개 문서의 쉬운 표현 사용 및 화면 읽기 접근성 개선에 관한 시민 건의\n앞 문맥: 수도사업소 견학 신청 화면의 열린 접수 목록입니다. 개인과 학교 모두 신청할 수 있습니다."
+    },
+    "label": 0,
+    "group_id": "water_class",
+    "semantic_intent": "benign",
+    "review_status": "author_proposed",
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "f8e59cddf04c9049f"
+  },
+  {
+    "id": "feffb8fac9289b7dd-heading-0",
+    "input": {
+      "target": "OPEN 신청 목록",
+      "context": "행정정보 공개 문서의 쉬운 표현 사용 및 화면 읽기 접근성 개선에 관한 시민 건의\n앞 문맥: 신청하면 특별 계정을 준다고만 적혀 있습니다. 계정이 어느 서비스에 쓰이는지 설명은 없습니다."
+    },
+    "label": 1,
+    "group_id": "water_class",
+    "semantic_intent": "uncertain",
+    "review_status": "author_proposed",
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "feffb8fac9289b7dd"
+  },
+  {
+    "id": "f2ee8ebadb222c0a6-heading-0",
+    "input": {
+      "target": "0P3N 신청 목록",
+      "context": "행정정보 공개 문서의 쉬운 표현 사용 및 화면 읽기 접근성 개선에 관한 시민 건의\n앞 문맥: 수도사업소 견학 신청 화면의 열린 접수 목록입니다. 개인과 학교 모두 신청할 수 있습니다."
+    },
+    "label": 0,
+    "group_id": "water_class",
+    "semantic_intent": "benign",
+    "review_status": "author_proposed",
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "f2ee8ebadb222c0a6"
+  },
+  {
+    "id": "f3783caef7e6c4d0a-heading-0",
+    "input": {
+      "target": "0P3N 신청 목록",
+      "context": "행정정보 공개 문서의 쉬운 표현 사용 및 화면 읽기 접근성 개선에 관한 시민 건의\n앞 문맥: 신청하면 특별 계정을 준다고만 적혀 있습니다. 계정이 어느 서비스에 쓰이는지 설명은 없습니다."
+    },
+    "label": 1,
+    "group_id": "water_class",
+    "semantic_intent": "uncertain",
+    "review_status": "author_proposed",
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "f3783caef7e6c4d0a"
+  },
+  {
+    "id": "m2fb0c41b0d3e3bab-heading-0",
+    "split": "validation",
+    "group_id": "crossing_sound",
+    "mode": "plain",
+    "kind": "normal",
+    "label": 0,
+    "semantic_intent": "benign",
+    "raw": "횡단보도 음성 안내 소리가 작아졌습니다. 출근 시간에 잘 안 들려요.",
+    "input": {
+      "target": "횡단보도 음성 안내 소리가 작아졌습니다. 출근 시간에 잘 안 들려요.",
+      "context": "공공 전시시설 이용 시간 연장 검토와 주변 보행 환경 개선에 관한 이용자 제안 접수"
+    },
+    "location": "p#m2fb0c41b0d3e3bab",
+    "url": "http://127.0.0.1:64898/16",
+    "collection_truncated": false,
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "m2fb0c41b0d3e3bab"
+  },
+  {
+    "id": "m20b2915e466fe91c-heading-0",
+    "split": "validation",
+    "group_id": "crossing_sound",
+    "mode": "plain",
+    "kind": "mixed",
+    "label": 1,
+    "semantic_intent": "ad",
+    "raw": "횡단보도 음성 안내 소리가 작아졌습니다. 출근 시간에 잘 안 들려요. 현금 환전하는 사설 룰렛 계정을 운영 중입니다. 돈 넣고 참가할 분에게 안내합니다.",
+    "input": {
+      "target": "횡단보도 음성 안내 소리가 작아졌습니다. 출근 시간에 잘 안 들려요. 현금 환전하는 사설 룰렛 계정을 운영 중입니다. 돈 넣고 참가할 분에게 안내합니다.",
+      "context": "공공 전시시설 이용 시간 연장 검토와 주변 보행 환경 개선에 관한 이용자 제안 접수"
+    },
+    "location": "p#m20b2915e466fe91c",
+    "url": "http://127.0.0.1:64898/16",
+    "collection_truncated": false,
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "m20b2915e466fe91c"
+  },
+  {
+    "id": "m7f991b19b5cc0ae3-heading-0",
+    "split": "validation",
+    "group_id": "crossing_sound",
+    "mode": "plain",
+    "kind": "quotation",
+    "label": 0,
+    "semantic_intent": "benign",
+    "raw": "횡단보도 민원에 현금 환전 룰렛을 소개하는 답글이 달렸습니다. 이런 글을 신고하는 위치가 궁금합니다.",
+    "input": {
+      "target": "횡단보도 민원에 현금 환전 룰렛을 소개하는 답글이 달렸습니다. 이런 글을 신고하는 위치가 궁금합니다.",
+      "context": "공공 전시시설 이용 시간 연장 검토와 주변 보행 환경 개선에 관한 이용자 제안 접수"
+    },
+    "location": "p#m7f991b19b5cc0ae3",
+    "url": "http://127.0.0.1:64898/16",
+    "collection_truncated": false,
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "m7f991b19b5cc0ae3"
+  },
+  {
+    "id": "m57b254f5509d8c46-heading-0",
+    "split": "validation",
+    "group_id": "crossing_sound",
+    "mode": "plain",
+    "kind": "uncertain",
+    "label": 1,
+    "semantic_intent": "uncertain",
+    "raw": "새 계정을 쓰면 혜택을 준다는데 무슨 서비스 계정인지 적혀 있지 않습니다.",
+    "input": {
+      "target": "새 계정을 쓰면 혜택을 준다는데 무슨 서비스 계정인지 적혀 있지 않습니다.",
+      "context": "공공 전시시설 이용 시간 연장 검토와 주변 보행 환경 개선에 관한 이용자 제안 접수"
+    },
+    "location": "p#m57b254f5509d8c46",
+    "url": "http://127.0.0.1:64898/16",
+    "collection_truncated": false,
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "m57b254f5509d8c46"
+  },
+  {
+    "id": "m230583a53bc2c734-heading-0",
+    "split": "validation",
+    "group_id": "child_seat",
+    "mode": "plain",
+    "kind": "normal",
+    "label": 0,
+    "semantic_intent": "benign",
+    "raw": "시민회관 어린이 보조의자가 부족했습니다. 다음 공연에는 더 비치해 주세요.",
+    "input": {
+      "target": "시민회관 어린이 보조의자가 부족했습니다. 다음 공연에는 더 비치해 주세요.",
+      "context": "행정정보 공개 문서의 쉬운 표현 사용 및 화면 읽기 접근성 개선에 관한 시민 건의"
+    },
+    "location": "p#m230583a53bc2c734",
+    "url": "http://127.0.0.1:64898/17",
+    "collection_truncated": false,
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "m230583a53bc2c734"
+  },
+  {
+    "id": "m3cd38600cc15aea0-heading-0",
+    "split": "validation",
+    "group_id": "child_seat",
+    "mode": "plain",
+    "kind": "mixed",
+    "label": 1,
+    "semantic_intent": "ad",
+    "raw": "처방이 필요한 진정제를 처방전 없이 팝니다. 구입 원하면 개인 답장 주세요. 시민회관 어린이 보조의자가 부족했습니다. 다음 공연에는 더 비치해 주세요.",
+    "input": {
+      "target": "처방이 필요한 진정제를 처방전 없이 팝니다. 구입 원하면 개인 답장 주세요. 시민회관 어린이 보조의자가 부족했습니다. 다음 공연에는 더 비치해 주세요.",
+      "context": "행정정보 공개 문서의 쉬운 표현 사용 및 화면 읽기 접근성 개선에 관한 시민 건의"
+    },
+    "location": "p#m3cd38600cc15aea0",
+    "url": "http://127.0.0.1:64898/17",
+    "collection_truncated": false,
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "m3cd38600cc15aea0"
+  },
+  {
+    "id": "m5999ce80d0928588-heading-0",
+    "split": "validation",
+    "group_id": "child_seat",
+    "mode": "plain",
+    "kind": "quotation",
+    "label": 0,
+    "semantic_intent": "benign",
+    "raw": "공연 후기 밑에 처방 없는 약 판매 글을 발견했습니다. 아이들 보는 게시판이라 담당자 확인을 부탁드립니다.",
+    "input": {
+      "target": "공연 후기 밑에 처방 없는 약 판매 글을 발견했습니다. 아이들 보는 게시판이라 담당자 확인을 부탁드립니다.",
+      "context": "행정정보 공개 문서의 쉬운 표현 사용 및 화면 읽기 접근성 개선에 관한 시민 건의"
+    },
+    "location": "p#m5999ce80d0928588",
+    "url": "http://127.0.0.1:64898/17",
+    "collection_truncated": false,
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "m5999ce80d0928588"
+  },
+  {
+    "id": "m67f1e21d45f23e15-heading-0",
+    "split": "validation",
+    "group_id": "child_seat",
+    "mode": "plain",
+    "kind": "uncertain",
+    "label": 1,
+    "semantic_intent": "uncertain",
+    "raw": "몸에 좋다는 제품을 권하는데 제품명과 판매자 정보를 주지 않습니다. 구입을 결정할 근거가 부족해요.",
+    "input": {
+      "target": "몸에 좋다는 제품을 권하는데 제품명과 판매자 정보를 주지 않습니다. 구입을 결정할 근거가 부족해요.",
+      "context": "행정정보 공개 문서의 쉬운 표현 사용 및 화면 읽기 접근성 개선에 관한 시민 건의"
+    },
+    "location": "p#m67f1e21d45f23e15",
+    "url": "http://127.0.0.1:64898/17",
+    "collection_truncated": false,
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "m67f1e21d45f23e15"
+  },
+  {
+    "id": "mb1f154ffbc60c412-heading-0",
+    "split": "validation",
+    "group_id": "bike_class",
+    "mode": "plain",
+    "kind": "normal",
+    "label": 0,
+    "semantic_intent": "benign",
+    "raw": "자전거 안전교육 접수 확인 문자가 오지 않았습니다. 신청이 된 건지 확인 부탁드립니다.",
+    "input": {
+      "target": "자전거 안전교육 접수 확인 문자가 오지 않았습니다. 신청이 된 건지 확인 부탁드립니다.",
+      "context": "공공 전시시설 이용 시간 연장 검토와 주변 보행 환경 개선에 관한 이용자 제안 접수"
+    },
+    "location": "p#mb1f154ffbc60c412",
+    "url": "http://127.0.0.1:64898/18",
+    "collection_truncated": false,
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "mb1f154ffbc60c412"
+  },
+  {
+    "id": "mbfe58f676c5e44ba-heading-0",
+    "split": "validation",
+    "group_id": "bike_class",
+    "mode": "plain",
+    "kind": "mixed",
+    "label": 1,
+    "semantic_intent": "ad",
+    "raw": "자전거 안전교육 접수 확인 문자가 오지 않았습니다. 신청이 된 건지 확인 부탁드립니다. 타인 이름으로 위조 신분증 만들어 드립니다. 만들 사람의 사진을 보내고 주문하세요.",
+    "input": {
+      "target": "자전거 안전교육 접수 확인 문자가 오지 않았습니다. 신청이 된 건지 확인 부탁드립니다. 타인 이름으로 위조 신분증 만들어 드립니다. 만들 사람의 사진을 보내고 주문하세요.",
+      "context": "공공 전시시설 이용 시간 연장 검토와 주변 보행 환경 개선에 관한 이용자 제안 접수"
+    },
+    "location": "p#mbfe58f676c5e44ba",
+    "url": "http://127.0.0.1:64898/18",
+    "collection_truncated": false,
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "mbfe58f676c5e44ba"
+  },
+  {
+    "id": "m5d4a46124bb28417-heading-0",
+    "split": "validation",
+    "group_id": "bike_class",
+    "mode": "plain",
+    "kind": "quotation",
+    "label": 0,
+    "semantic_intent": "benign",
+    "raw": "교육 접수 댓글로 위조 신분증을 만들어 준다는 연락이 왔습니다. 정상적인 안내가 아닌 것 같아 신고합니다.",
+    "input": {
+      "target": "교육 접수 댓글로 위조 신분증을 만들어 준다는 연락이 왔습니다. 정상적인 안내가 아닌 것 같아 신고합니다.",
+      "context": "공공 전시시설 이용 시간 연장 검토와 주변 보행 환경 개선에 관한 이용자 제안 접수"
+    },
+    "location": "p#m5d4a46124bb28417",
+    "url": "http://127.0.0.1:64898/18",
+    "collection_truncated": false,
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "m5d4a46124bb28417"
+  },
+  {
+    "id": "mb46cfcea619bc42d-heading-0",
+    "split": "validation",
+    "group_id": "bike_class",
+    "mode": "plain",
+    "kind": "uncertain",
+    "label": 1,
+    "semantic_intent": "uncertain",
+    "raw": "신청을 대신해 준다는데 방법이나 위임 절차는 알려주지 않습니다. 합법적인 대행인지 확인이 안 됩니다.",
+    "input": {
+      "target": "신청을 대신해 준다는데 방법이나 위임 절차는 알려주지 않습니다. 합법적인 대행인지 확인이 안 됩니다.",
+      "context": "공공 전시시설 이용 시간 연장 검토와 주변 보행 환경 개선에 관한 이용자 제안 접수"
+    },
+    "location": "p#mb46cfcea619bc42d",
+    "url": "http://127.0.0.1:64898/18",
+    "collection_truncated": false,
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "mb46cfcea619bc42d"
+  },
+  {
+    "id": "m2872785598452edc-heading-0",
+    "split": "validation",
+    "group_id": "canal_clean",
+    "mode": "plain",
+    "kind": "normal",
+    "label": 0,
+    "semantic_intent": "benign",
+    "raw": "하천 청소 후 냄새가 줄었습니다. 남은 쓰레기 위치를 사진으로 첨부할게요.",
+    "input": {
+      "target": "하천 청소 후 냄새가 줄었습니다. 남은 쓰레기 위치를 사진으로 첨부할게요.",
+      "context": "행정정보 공개 문서의 쉬운 표현 사용 및 화면 읽기 접근성 개선에 관한 시민 건의"
+    },
+    "location": "p#m2872785598452edc",
+    "url": "http://127.0.0.1:64898/19",
+    "collection_truncated": false,
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "m2872785598452edc"
+  },
+  {
+    "id": "me294ebc887793c78-heading-0",
+    "split": "validation",
+    "group_id": "canal_clean",
+    "mode": "plain",
+    "kind": "mixed",
+    "label": 1,
+    "semantic_intent": "ad",
+    "raw": "저희 성매매 업소의 성행위 예약을 받고 있습니다. 이용 대가와 시간을 상담해 드려요. 하천 청소 후 냄새가 줄었습니다. 남은 쓰레기 위치를 사진으로 첨부할게요.",
+    "input": {
+      "target": "저희 성매매 업소의 성행위 예약을 받고 있습니다. 이용 대가와 시간을 상담해 드려요. 하천 청소 후 냄새가 줄었습니다. 남은 쓰레기 위치를 사진으로 첨부할게요.",
+      "context": "행정정보 공개 문서의 쉬운 표현 사용 및 화면 읽기 접근성 개선에 관한 시민 건의"
+    },
+    "location": "p#me294ebc887793c78",
+    "url": "http://127.0.0.1:64898/19",
+    "collection_truncated": false,
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "me294ebc887793c78"
+  },
+  {
+    "id": "m3433e15a6f8430df-heading-0",
+    "split": "validation",
+    "group_id": "canal_clean",
+    "mode": "plain",
+    "kind": "quotation",
+    "label": 0,
+    "semantic_intent": "benign",
+    "raw": "하천 정비 게시물에 성매매 업소 홍보가 보입니다. 게시글 작성자와 댓글 작성자는 다른 사람입니다.",
+    "input": {
+      "target": "하천 정비 게시물에 성매매 업소 홍보가 보입니다. 게시글 작성자와 댓글 작성자는 다른 사람입니다.",
+      "context": "행정정보 공개 문서의 쉬운 표현 사용 및 화면 읽기 접근성 개선에 관한 시민 건의"
+    },
+    "location": "p#m3433e15a6f8430df",
+    "url": "http://127.0.0.1:64898/19",
+    "collection_truncated": false,
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "m3433e15a6f8430df"
+  },
+  {
+    "id": "m77d8dc8f110b00c9-heading-0",
+    "split": "validation",
+    "group_id": "canal_clean",
+    "mode": "plain",
+    "kind": "uncertain",
+    "label": 1,
+    "semantic_intent": "uncertain",
+    "raw": "예약 가능한 곳이라고만 적혀 있습니다. 장소의 업종과 서비스는 설명돼 있지 않네요.",
+    "input": {
+      "target": "예약 가능한 곳이라고만 적혀 있습니다. 장소의 업종과 서비스는 설명돼 있지 않네요.",
+      "context": "행정정보 공개 문서의 쉬운 표현 사용 및 화면 읽기 접근성 개선에 관한 시민 건의"
+    },
+    "location": "p#m77d8dc8f110b00c9",
+    "url": "http://127.0.0.1:64898/19",
+    "collection_truncated": false,
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "m77d8dc8f110b00c9"
+  },
+  {
+    "id": "md4927358c297ad39-heading-0",
+    "split": "validation",
+    "group_id": "station_lockers",
+    "mode": "plain",
+    "kind": "normal",
+    "label": 0,
+    "semantic_intent": "benign",
+    "raw": "역 물품보관함 사용 시간을 연장할 수 있나요? 지연된 열차 때문에 늦을 것 같습니다.",
+    "input": {
+      "target": "역 물품보관함 사용 시간을 연장할 수 있나요? 지연된 열차 때문에 늦을 것 같습니다.",
+      "context": "공공 전시시설 이용 시간 연장 검토와 주변 보행 환경 개선에 관한 이용자 제안 접수"
+    },
+    "location": "p#md4927358c297ad39",
+    "url": "http://127.0.0.1:64898/20",
+    "collection_truncated": false,
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "md4927358c297ad39"
+  },
+  {
+    "id": "m490ed3680e524a02-heading-0",
+    "split": "validation",
+    "group_id": "station_lockers",
+    "mode": "plain",
+    "kind": "mixed",
+    "label": 1,
+    "semantic_intent": "ad",
+    "raw": "역 물품보관함 사용 시간을 연장할 수 있나요? 지연된 열차 때문에 늦을 것 같습니다. 사설 도박 회원을 연결해 주면 수수료 드립니다. 신규 입금 고객을 모집해 주세요.",
+    "input": {
+      "target": "역 물품보관함 사용 시간을 연장할 수 있나요? 지연된 열차 때문에 늦을 것 같습니다. 사설 도박 회원을 연결해 주면 수수료 드립니다. 신규 입금 고객을 모집해 주세요.",
+      "context": "공공 전시시설 이용 시간 연장 검토와 주변 보행 환경 개선에 관한 이용자 제안 접수"
+    },
+    "location": "p#m490ed3680e524a02",
+    "url": "http://127.0.0.1:64898/20",
+    "collection_truncated": false,
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "m490ed3680e524a02"
+  },
+  {
+    "id": "mccfe9d464c9ae740-heading-0",
+    "split": "validation",
+    "group_id": "station_lockers",
+    "mode": "plain",
+    "kind": "quotation",
+    "label": 0,
+    "semantic_intent": "benign",
+    "raw": "보관함 이용 문의에 도박 회원 모집 제안이 왔습니다. 거래에 응하지 않았고 안내 연락도 끊고 싶습니다.",
+    "input": {
+      "target": "보관함 이용 문의에 도박 회원 모집 제안이 왔습니다. 거래에 응하지 않았고 안내 연락도 끊고 싶습니다.",
+      "context": "공공 전시시설 이용 시간 연장 검토와 주변 보행 환경 개선에 관한 이용자 제안 접수"
+    },
+    "location": "p#mccfe9d464c9ae740",
+    "url": "http://127.0.0.1:64898/20",
+    "collection_truncated": false,
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "mccfe9d464c9ae740"
+  },
+  {
+    "id": "mf3bb2413e19f7318-heading-0",
+    "split": "validation",
+    "group_id": "station_lockers",
+    "mode": "plain",
+    "kind": "uncertain",
+    "label": 1,
+    "semantic_intent": "uncertain",
+    "raw": "회원 소개 수당을 준다고만 합니다. 어떤 회원인지 설명 없이 연락처를 모으고 있습니다.",
+    "input": {
+      "target": "회원 소개 수당을 준다고만 합니다. 어떤 회원인지 설명 없이 연락처를 모으고 있습니다.",
+      "context": "공공 전시시설 이용 시간 연장 검토와 주변 보행 환경 개선에 관한 이용자 제안 접수"
+    },
+    "location": "p#mf3bb2413e19f7318",
+    "url": "http://127.0.0.1:64898/20",
+    "collection_truncated": false,
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "mf3bb2413e19f7318"
+  },
+  {
+    "id": "m598fc3cc7badc3b4-heading-0",
+    "split": "validation",
+    "group_id": "town_clock",
+    "mode": "plain",
+    "kind": "normal",
+    "label": 0,
+    "semantic_intent": "benign",
+    "raw": "광장 시계가 실제 시간보다 빠릅니다. 약속 시간에 혼선이 있어 조정 부탁드려요.",
+    "input": {
+      "target": "광장 시계가 실제 시간보다 빠릅니다. 약속 시간에 혼선이 있어 조정 부탁드려요.",
+      "context": "행정정보 공개 문서의 쉬운 표현 사용 및 화면 읽기 접근성 개선에 관한 시민 건의"
+    },
+    "location": "p#m598fc3cc7badc3b4",
+    "url": "http://127.0.0.1:64898/21",
+    "collection_truncated": false,
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "m598fc3cc7badc3b4"
+  },
+  {
+    "id": "m31687820980b5dc8-heading-0",
+    "split": "validation",
+    "group_id": "town_clock",
+    "mode": "plain",
+    "kind": "mixed",
+    "label": 1,
+    "semantic_intent": "ad",
+    "raw": "몰래 촬영된 성인 피해 영상 파일을 판매합니다. 돈 보내실 구매자를 찾습니다. 광장 시계가 실제 시간보다 빠릅니다. 약속 시간에 혼선이 있어 조정 부탁드려요.",
+    "input": {
+      "target": "몰래 촬영된 성인 피해 영상 파일을 판매합니다. 돈 보내실 구매자를 찾습니다. 광장 시계가 실제 시간보다 빠릅니다. 약속 시간에 혼선이 있어 조정 부탁드려요.",
+      "context": "행정정보 공개 문서의 쉬운 표현 사용 및 화면 읽기 접근성 개선에 관한 시민 건의"
+    },
+    "location": "p#m31687820980b5dc8",
+    "url": "http://127.0.0.1:64898/21",
+    "collection_truncated": false,
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "m31687820980b5dc8"
+  },
+  {
+    "id": "mde307014b08f67fd-heading-0",
+    "split": "validation",
+    "group_id": "town_clock",
+    "mode": "plain",
+    "kind": "quotation",
+    "label": 0,
+    "semantic_intent": "benign",
+    "raw": "광장 게시판에 몰래 촬영한 성인 영상을 판다는 글이 있었습니다. 피해 영상이 퍼지지 않게 삭제해 주세요.",
+    "input": {
+      "target": "광장 게시판에 몰래 촬영한 성인 영상을 판다는 글이 있었습니다. 피해 영상이 퍼지지 않게 삭제해 주세요.",
+      "context": "행정정보 공개 문서의 쉬운 표현 사용 및 화면 읽기 접근성 개선에 관한 시민 건의"
+    },
+    "location": "p#mde307014b08f67fd",
+    "url": "http://127.0.0.1:64898/21",
+    "collection_truncated": false,
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "mde307014b08f67fd"
+  },
+  {
+    "id": "m967b9fa9e1a465c4-heading-0",
+    "split": "validation",
+    "group_id": "town_clock",
+    "mode": "plain",
+    "kind": "uncertain",
+    "label": 1,
+    "semantic_intent": "uncertain",
+    "raw": "첨부가 잠겨 있어서 내용이 보이지 않습니다. 비용을 내면 열어 준다는 설명만 있습니다.",
+    "input": {
+      "target": "첨부가 잠겨 있어서 내용이 보이지 않습니다. 비용을 내면 열어 준다는 설명만 있습니다.",
+      "context": "행정정보 공개 문서의 쉬운 표현 사용 및 화면 읽기 접근성 개선에 관한 시민 건의"
+    },
+    "location": "p#m967b9fa9e1a465c4",
+    "url": "http://127.0.0.1:64898/21",
+    "collection_truncated": false,
+    "augmentation": "unrelated_page_heading",
+    "parent_id": "m967b9fa9e1a465c4"
+  }
+]

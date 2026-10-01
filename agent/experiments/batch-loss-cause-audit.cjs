@@ -1,0 +1,19 @@
+// API-free audit; score only unchanged targets in companion-replacement requests.
+const fs=require('node:fs'),assert=require('node:assert/strict'),crypto=require('node:crypto');
+const {fixture,jobs}=require('./batch-loss-cause.cjs'),contract=require('../src/core/judgment.cjs').contract(),{parseEnvelope}=require('../src/core/json-envelope.cjs');
+const root='.runtime/batch-loss-cause-v1',read=n=>JSON.parse(fs.readFileSync(root+'/'+n+'.json')),blocks=fixture(),manifest=read('manifest');
+for(const[f,h]of Object.entries(manifest.hashes))assert.equal(crypto.createHash('sha256').update(fs.readFileSync(f)).digest('hex'),h);
+assert.deepEqual(read('inputs'),blocks);assert.equal(read('completion').status,'completed');
+const trace=fs.readFileSync(root+'/trace.jsonl','utf8').trim().split(/\r?\n/).map(JSON.parse),req=trace.filter(x=>x.event==='llm_request'),res=trace.filter(x=>x.event==='llm_response'),records=read('decisions'),calls=read('calls'),rows=[];let i=0;
+for(let round=0;round<2;round++)for(const mode of round?['N','R','B','S']:['S','B','R','N'])for(const block of blocks)for(const job of jobs(block,mode)){
+ const rec=records[i],rq=req.find(x=>x.call_number===i+1),rs=res.find(x=>x.call_number===i+1),call=calls[i];assert.equal(rec.ordinal,i);assert.equal(rec.mode,mode);assert.equal(rec.round,round);assert.equal(rec.block,block.name);assert.deepEqual(rec.targetIds,job.targetIds);
+ assert.equal(call.status,'ok');assert.equal(call.http_status,200);assert.equal(rs.data.choices[0].finish_reason,'stop');assert.equal(rq.body.maxCompletionTokens,512);assert.equal(rq.body.thinking.effort,'none');
+ assert.deepEqual(JSON.parse(rq.body.messages[1].content).candidates,job.candidates.map(c=>contract.initialEvidence(c)));
+ const raw=parseEnvelope(rs.data.choices[0].message.content),validated=contract.validateModelDecisions(Object.entries(raw.decisions).map(([node_id,v])=>({node_id,...v})),job.candidates),saved=new Map(rec.decisions.map(d=>[d.node_id,d]));assert.equal(saved.size,job.candidates.length);
+ for(const d of validated){assert.deepEqual(saved.get(d.node_id),d);if(!job.targetIds.includes(d.node_id))continue;const c=block.candidates.find(c=>c.node_id===d.node_id),label=block.labels.find(l=>l.node_id===d.node_id);assert(label);assert.deepEqual(contract.initialEvidence(c),contract.initialEvidence(job.candidates.find(c=>c.node_id===d.node_id)));rows.push({mode,round,block:block.name,id:d.node_id,text:c.raw_text,ad:label.is_ad,positive:d.is_violation,act:d.publication_act});}i++;
+}
+for(const a of [req,res,records,calls])assert.equal(a.length,48);assert.equal(i,48);
+function score(xs){const tp=xs.filter(x=>x.ad===true&&x.positive).length,fp=xs.filter(x=>x.ad===false&&x.positive).length,fn=xs.filter(x=>x.ad===true&&!x.positive).length;return {n:xs.length,tp,fp,fn,f1:2*tp/(2*tp+fp+fn)};}
+const conditions=[];for(const mode of ['S','B','R','N'])for(let round=0;round<2;round++){const xs=rows.filter(x=>x.mode===mode&&x.round===round);assert.equal(xs.length,32);assert.equal(new Set(xs.map(x=>x.block+'|'+x.id)).size,32);conditions.push({mode,round,...score(xs),blocks:Object.fromEntries(blocks.map(b=>[b.name,score(xs.filter(x=>x.block===b.name))]))});}
+const targets=blocks.flatMap(b=>b.candidates.map(c=>({block:b.name,id:c.node_id,text:c.raw_text,ad:b.labels.find(l=>l.node_id===c.node_id).is_ad,conditions:Object.fromEntries(['S','B','R','N'].map(m=>[m,rows.filter(x=>x.block===b.name&&x.id===c.node_id&&x.mode===m).map(x=>({positive:x.positive,act:x.act}))]))})));
+const output={completion:read('completion'),conditions,targets,verified_calls:i,verified_target_decisions:rows.length,headers:[...new Set(calls.map(c=>c.rate_limit['x-ratelimit-limit-tokens']))]};assert(!fs.existsSync(root+'/audit.json'));fs.writeFileSync(root+'/audit.json',JSON.stringify(output,null,2));console.log(JSON.stringify(output,null,2));

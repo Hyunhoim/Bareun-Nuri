@@ -1,0 +1,16 @@
+{
+  "requests": 455,
+  "targets": 1800,
+  "common_batches_body_identical": 374,
+  "new_batches": 81,
+  "common_raw_and_observations_identical": 3318,
+  "source_archives_verified": 337,
+  "cloned_core_and_store_archived": true,
+  "confirmed_tokens": 785748,
+  "max_output_tokens": 124,
+  "fenced_responses_accepted": 448,
+  "unknown_requests": 0,
+  "saved_decisions_match_raw": true,
+  "api_calls": 0,
+  "scope": "Independent saved-artifact audit. Does not infer new F1 or speed."
+}

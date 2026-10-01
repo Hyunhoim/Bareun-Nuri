@@ -1,0 +1,8409 @@
+{
+  "inputs": [
+    {
+      "id": "e64adfab2ac9f232beb8",
+      "token": "4lpine",
+      "group_id": "시냇물/alpine",
+      "raw_text": "행사 이름은 4lpine입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]4lpine[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "72b7fe7b2257237c2791",
+      "token": "4lpine",
+      "group_id": "시냇물/alpine",
+      "raw_text": "칠판의 4lpine는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]4lpine[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "7988f39969166f342e99",
+      "token": "4lpine",
+      "group_id": "시냇물/alpine",
+      "raw_text": "담당자에게 4lpine 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]4lpine[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "059284207e87d07ea7e4",
+      "token": "4lpine",
+      "group_id": "시냇물/alpine",
+      "raw_text": "남은 자료로는 4lpine가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]4lpine[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "32972948e540045bf1a6",
+      "token": "ALP1NE",
+      "group_id": "시냇물/alpine",
+      "raw_text": "행사 이름은 ALP1NE입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]ALP1NE[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "dd39a2fd88f1fe487da3",
+      "token": "ALP1NE",
+      "group_id": "시냇물/alpine",
+      "raw_text": "칠판의 ALP1NE는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]ALP1NE[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "e7635c05f130383bf0ea",
+      "token": "ALP1NE",
+      "group_id": "시냇물/alpine",
+      "raw_text": "담당자에게 ALP1NE 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]ALP1NE[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "cf471538ae0e68c85698",
+      "token": "ALP1NE",
+      "group_id": "시냇물/alpine",
+      "raw_text": "남은 자료로는 ALP1NE가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]ALP1NE[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "f78951192a0fd9eb7b85",
+      "token": "Alpin3",
+      "group_id": "시냇물/alpine",
+      "raw_text": "행사 이름은 Alpin3입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]Alpin3[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "4f0ee3928b90c9ca6338",
+      "token": "Alpin3",
+      "group_id": "시냇물/alpine",
+      "raw_text": "칠판의 Alpin3는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]Alpin3[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "c07bb601995594338632",
+      "token": "Alpin3",
+      "group_id": "시냇물/alpine",
+      "raw_text": "담당자에게 Alpin3 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]Alpin3[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "7743c19d372f6cd76b31",
+      "token": "Alpin3",
+      "group_id": "시냇물/alpine",
+      "raw_text": "남은 자료로는 Alpin3가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]Alpin3[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "413423f740aa945a74ad",
+      "token": "аlpine",
+      "group_id": "시냇물/alpine",
+      "raw_text": "행사 이름은 аlpine입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]аlpine[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "037f93b44527edf9a9d6",
+      "token": "аlpine",
+      "group_id": "시냇물/alpine",
+      "raw_text": "칠판의 аlpine는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]аlpine[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "f5469a9c3bddcb21f9c4",
+      "token": "аlpine",
+      "group_id": "시냇물/alpine",
+      "raw_text": "담당자에게 аlpine 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]аlpine[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "226f60cec416f6854922",
+      "token": "аlpine",
+      "group_id": "시냇물/alpine",
+      "raw_text": "남은 자료로는 аlpine가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]аlpine[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "2a4bbb7fa1eb2ac1499f",
+      "token": "ALРINE",
+      "group_id": "시냇물/alpine",
+      "raw_text": "행사 이름은 ALРINE입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]ALРINE[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "e2fd9fe196f996323661",
+      "token": "ALРINE",
+      "group_id": "시냇물/alpine",
+      "raw_text": "칠판의 ALРINE는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]ALРINE[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "19ec1ccbc32a89ec37b4",
+      "token": "ALРINE",
+      "group_id": "시냇물/alpine",
+      "raw_text": "담당자에게 ALРINE 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]ALРINE[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "7d4a9edc81b09e300597",
+      "token": "ALРINE",
+      "group_id": "시냇물/alpine",
+      "raw_text": "남은 자료로는 ALРINE가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]ALРINE[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "cd38e14a015f5d85fcbd",
+      "token": "Alpіne",
+      "group_id": "시냇물/alpine",
+      "raw_text": "행사 이름은 Alpіne입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]Alpіne[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "90f05ac4d03a0f0cf0c6",
+      "token": "Alpіne",
+      "group_id": "시냇물/alpine",
+      "raw_text": "칠판의 Alpіne는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]Alpіne[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "2fe57052c927a09e0fb2",
+      "token": "Alpіne",
+      "group_id": "시냇물/alpine",
+      "raw_text": "담당자에게 Alpіne 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]Alpіne[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "54bcdc9978a992b0208e",
+      "token": "Alpіne",
+      "group_id": "시냇물/alpine",
+      "raw_text": "남은 자료로는 Alpіne가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]Alpіne[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "b0af0be16461cc593317",
+      "token": "alpinе",
+      "group_id": "시냇물/alpine",
+      "raw_text": "행사 이름은 alpinе입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]alpinе[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "d514af4c1ddd44952fbb",
+      "token": "alpinе",
+      "group_id": "시냇물/alpine",
+      "raw_text": "칠판의 alpinе는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]alpinе[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "dc359dd2841a19ff4691",
+      "token": "alpinе",
+      "group_id": "시냇물/alpine",
+      "raw_text": "담당자에게 alpinе 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]alpinе[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "a0b8d5561d892621b6bc",
+      "token": "alpinе",
+      "group_id": "시냇물/alpine",
+      "raw_text": "남은 자료로는 alpinе가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]alpinе[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "96da24ba06a51ef2850f",
+      "token": "cypr3ss",
+      "group_id": "기린/cypress",
+      "raw_text": "행사 이름은 cypr3ss입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]cypr3ss[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "5e77c08f42b375c7ee67",
+      "token": "cypr3ss",
+      "group_id": "기린/cypress",
+      "raw_text": "칠판의 cypr3ss는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]cypr3ss[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "66704082da6bc48d04a3",
+      "token": "cypr3ss",
+      "group_id": "기린/cypress",
+      "raw_text": "담당자에게 cypr3ss 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]cypr3ss[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "ab0614a6d4d390ef4428",
+      "token": "cypr3ss",
+      "group_id": "기린/cypress",
+      "raw_text": "남은 자료로는 cypr3ss가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]cypr3ss[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "cc0e245c053f0070e97f",
+      "token": "CYPRE5S",
+      "group_id": "기린/cypress",
+      "raw_text": "행사 이름은 CYPRE5S입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]CYPRE5S[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "2374012124d40e419e52",
+      "token": "CYPRE5S",
+      "group_id": "기린/cypress",
+      "raw_text": "칠판의 CYPRE5S는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]CYPRE5S[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "d6e7862c81bb3ec2fa22",
+      "token": "CYPRE5S",
+      "group_id": "기린/cypress",
+      "raw_text": "담당자에게 CYPRE5S 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]CYPRE5S[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "f0b848109e909ba7e031",
+      "token": "CYPRE5S",
+      "group_id": "기린/cypress",
+      "raw_text": "남은 자료로는 CYPRE5S가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]CYPRE5S[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "8a28312bb828b7d304eb",
+      "token": "Cypres5",
+      "group_id": "기린/cypress",
+      "raw_text": "행사 이름은 Cypres5입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]Cypres5[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "849431dd2cc037b3d10c",
+      "token": "Cypres5",
+      "group_id": "기린/cypress",
+      "raw_text": "칠판의 Cypres5는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]Cypres5[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "daf229f0b7ae38b22c30",
+      "token": "Cypres5",
+      "group_id": "기린/cypress",
+      "raw_text": "담당자에게 Cypres5 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]Cypres5[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "2cbe373f2f125eeb5d4c",
+      "token": "Cypres5",
+      "group_id": "기린/cypress",
+      "raw_text": "남은 자료로는 Cypres5가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]Cypres5[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "db7acdd551f82ab147ed",
+      "token": "сypress",
+      "group_id": "기린/cypress",
+      "raw_text": "행사 이름은 сypress입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]сypress[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "a0befa4cd34e5c368042",
+      "token": "сypress",
+      "group_id": "기린/cypress",
+      "raw_text": "칠판의 сypress는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]сypress[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "365ec308d57de9a4933e",
+      "token": "сypress",
+      "group_id": "기린/cypress",
+      "raw_text": "담당자에게 сypress 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]сypress[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "cf8e08a002d5dcc033c0",
+      "token": "сypress",
+      "group_id": "기린/cypress",
+      "raw_text": "남은 자료로는 сypress가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]сypress[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "932adc6f9df7db4fd1b3",
+      "token": "CYРRESS",
+      "group_id": "기린/cypress",
+      "raw_text": "행사 이름은 CYРRESS입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]CYРRESS[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "40124b82177c59490eb8",
+      "token": "CYРRESS",
+      "group_id": "기린/cypress",
+      "raw_text": "칠판의 CYРRESS는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]CYРRESS[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "86103a24f5cd2516d7b4",
+      "token": "CYРRESS",
+      "group_id": "기린/cypress",
+      "raw_text": "담당자에게 CYРRESS 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]CYРRESS[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "bed430528d24e5bb9912",
+      "token": "CYРRESS",
+      "group_id": "기린/cypress",
+      "raw_text": "남은 자료로는 CYРRESS가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]CYРRESS[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "e8e84626b75530d2c7af",
+      "token": "Cyprеss",
+      "group_id": "기린/cypress",
+      "raw_text": "행사 이름은 Cyprеss입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]Cyprеss[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "d2ffd852fea1898cb24d",
+      "token": "Cyprеss",
+      "group_id": "기린/cypress",
+      "raw_text": "칠판의 Cyprеss는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]Cyprеss[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "cea6f66c4a855584b716",
+      "token": "Cyprеss",
+      "group_id": "기린/cypress",
+      "raw_text": "담당자에게 Cyprеss 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]Cyprеss[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "b0a2cfe5538e16c9b597",
+      "token": "Cyprеss",
+      "group_id": "기린/cypress",
+      "raw_text": "남은 자료로는 Cyprеss가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]Cyprеss[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "b63cbd02fdf1bec10bf0",
+      "token": "cypreѕs",
+      "group_id": "기린/cypress",
+      "raw_text": "행사 이름은 cypreѕs입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]cypreѕs[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "8eb8760a5be3d8a697d6",
+      "token": "cypreѕs",
+      "group_id": "기린/cypress",
+      "raw_text": "칠판의 cypreѕs는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]cypreѕs[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "a85422d86d38dcd34d34",
+      "token": "cypreѕs",
+      "group_id": "기린/cypress",
+      "raw_text": "담당자에게 cypreѕs 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]cypreѕs[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "ee4ca576695d6c71de99",
+      "token": "cypreѕs",
+      "group_id": "기린/cypress",
+      "raw_text": "남은 자료로는 cypreѕs가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]cypreѕs[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "86b33758247941bae6df",
+      "token": "CYPRESЅ",
+      "group_id": "기린/cypress",
+      "raw_text": "행사 이름은 CYPRESЅ입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]CYPRESЅ[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "32496320c2e02a332ccc",
+      "token": "CYPRESЅ",
+      "group_id": "기린/cypress",
+      "raw_text": "칠판의 CYPRESЅ는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]CYPRESЅ[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "1b8b14867919d2046813",
+      "token": "CYPRESЅ",
+      "group_id": "기린/cypress",
+      "raw_text": "담당자에게 CYPRESЅ 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]CYPRESЅ[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "5eb4de625c4ba25f7903",
+      "token": "CYPRESЅ",
+      "group_id": "기린/cypress",
+      "raw_text": "남은 자료로는 CYPRESЅ가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]CYPRESЅ[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "0334a47e7b71f638b846",
+      "token": "8adger",
+      "group_id": "미생물/badger",
+      "raw_text": "행사 이름은 8adger입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]8adger[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "f36383b354f104eeefef",
+      "token": "8adger",
+      "group_id": "미생물/badger",
+      "raw_text": "칠판의 8adger는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]8adger[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "6c7d645e9a14358d9fc4",
+      "token": "8adger",
+      "group_id": "미생물/badger",
+      "raw_text": "담당자에게 8adger 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]8adger[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "36c061c6423fdad707d2",
+      "token": "8adger",
+      "group_id": "미생물/badger",
+      "raw_text": "남은 자료로는 8adger가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]8adger[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "2554deceab26495c33c7",
+      "token": "B4DGER",
+      "group_id": "미생물/badger",
+      "raw_text": "행사 이름은 B4DGER입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]B4DGER[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "44661bb634d27f5eaeec",
+      "token": "B4DGER",
+      "group_id": "미생물/badger",
+      "raw_text": "칠판의 B4DGER는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]B4DGER[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "254d976889daf4a4ec07",
+      "token": "B4DGER",
+      "group_id": "미생물/badger",
+      "raw_text": "담당자에게 B4DGER 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]B4DGER[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "7750602de7577e835b12",
+      "token": "B4DGER",
+      "group_id": "미생물/badger",
+      "raw_text": "남은 자료로는 B4DGER가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]B4DGER[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "40da52946f688c1fc7b2",
+      "token": "Badg3R",
+      "group_id": "미생물/badger",
+      "raw_text": "행사 이름은 Badg3R입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]Badg3R[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "7986580dacf79f9e0506",
+      "token": "Badg3R",
+      "group_id": "미생물/badger",
+      "raw_text": "칠판의 Badg3R는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]Badg3R[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "e2085477d1ff7f633617",
+      "token": "Badg3R",
+      "group_id": "미생물/badger",
+      "raw_text": "담당자에게 Badg3R 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]Badg3R[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "d367c12287d4a35ffd62",
+      "token": "Badg3R",
+      "group_id": "미생물/badger",
+      "raw_text": "남은 자료로는 Badg3R가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]Badg3R[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "92f06445b0e6b89a2d3c",
+      "token": "bаdger",
+      "group_id": "미생물/badger",
+      "raw_text": "행사 이름은 bаdger입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]bаdger[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "ae62ba9c1c37469bab0b",
+      "token": "bаdger",
+      "group_id": "미생물/badger",
+      "raw_text": "칠판의 bаdger는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]bаdger[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "b5a1b22cc900b1d3fd7f",
+      "token": "bаdger",
+      "group_id": "미생물/badger",
+      "raw_text": "담당자에게 bаdger 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]bаdger[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "c3454d2473095d9b55ca",
+      "token": "bаdger",
+      "group_id": "미생물/badger",
+      "raw_text": "남은 자료로는 bаdger가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]bаdger[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "d819355b97018f263a64",
+      "token": "BADGЕR",
+      "group_id": "미생물/badger",
+      "raw_text": "행사 이름은 BADGЕR입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]BADGЕR[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "cbe3f7fe1ae33af0c387",
+      "token": "BADGЕR",
+      "group_id": "미생물/badger",
+      "raw_text": "칠판의 BADGЕR는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]BADGЕR[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "4a4644165b606996687b",
+      "token": "BADGЕR",
+      "group_id": "미생물/badger",
+      "raw_text": "담당자에게 BADGЕR 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]BADGЕR[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "50421ef1a90d2a816a76",
+      "token": "BADGЕR",
+      "group_id": "미생물/badger",
+      "raw_text": "남은 자료로는 BADGЕR가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]BADGЕR[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "0391ac1571c0ed7edac9",
+      "token": "d0lphin",
+      "group_id": "지진/dolphin",
+      "raw_text": "행사 이름은 d0lphin입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]d0lphin[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "d014c56c00d5b514af86",
+      "token": "d0lphin",
+      "group_id": "지진/dolphin",
+      "raw_text": "칠판의 d0lphin는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]d0lphin[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "ff69984b147f1a7b8b4e",
+      "token": "d0lphin",
+      "group_id": "지진/dolphin",
+      "raw_text": "담당자에게 d0lphin 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]d0lphin[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "aff95af92567653502a7",
+      "token": "d0lphin",
+      "group_id": "지진/dolphin",
+      "raw_text": "남은 자료로는 d0lphin가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]d0lphin[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "64118f467bdf34967b02",
+      "token": "DOLPH1N",
+      "group_id": "지진/dolphin",
+      "raw_text": "행사 이름은 DOLPH1N입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]DOLPH1N[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "a57693288f490f29d1fb",
+      "token": "DOLPH1N",
+      "group_id": "지진/dolphin",
+      "raw_text": "칠판의 DOLPH1N는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]DOLPH1N[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "040883d95551c29cfa6e",
+      "token": "DOLPH1N",
+      "group_id": "지진/dolphin",
+      "raw_text": "담당자에게 DOLPH1N 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]DOLPH1N[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "e1a405ffb9cea13ee6ae",
+      "token": "DOLPH1N",
+      "group_id": "지진/dolphin",
+      "raw_text": "남은 자료로는 DOLPH1N가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]DOLPH1N[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "b8119c5d340d7de2c3a2",
+      "token": "Dоlphin",
+      "group_id": "지진/dolphin",
+      "raw_text": "행사 이름은 Dоlphin입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]Dоlphin[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "ad325c3561fd3f55be39",
+      "token": "Dоlphin",
+      "group_id": "지진/dolphin",
+      "raw_text": "칠판의 Dоlphin는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]Dоlphin[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "67253fd3568d8494e23a",
+      "token": "Dоlphin",
+      "group_id": "지진/dolphin",
+      "raw_text": "담당자에게 Dоlphin 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]Dоlphin[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "94843e91711c19d962d7",
+      "token": "Dоlphin",
+      "group_id": "지진/dolphin",
+      "raw_text": "남은 자료로는 Dоlphin가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]Dоlphin[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "71d0aab33faf17206712",
+      "token": "dolрhin",
+      "group_id": "지진/dolphin",
+      "raw_text": "행사 이름은 dolрhin입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]dolрhin[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "a1c40c1b590dbfab64ad",
+      "token": "dolрhin",
+      "group_id": "지진/dolphin",
+      "raw_text": "칠판의 dolрhin는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]dolрhin[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "73ae7725e9e805a74c3a",
+      "token": "dolрhin",
+      "group_id": "지진/dolphin",
+      "raw_text": "담당자에게 dolрhin 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]dolрhin[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "131dd267e1f54d5a7fb6",
+      "token": "dolрhin",
+      "group_id": "지진/dolphin",
+      "raw_text": "남은 자료로는 dolрhin가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]dolрhin[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "303d8c9b2856a2b9a17c",
+      "token": "DOLPHІN",
+      "group_id": "지진/dolphin",
+      "raw_text": "행사 이름은 DOLPHІN입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]DOLPHІN[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "0345208f6ab5e138f0e7",
+      "token": "DOLPHІN",
+      "group_id": "지진/dolphin",
+      "raw_text": "칠판의 DOLPHІN는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]DOLPHІN[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "579e1c3c96c1a39e19c5",
+      "token": "DOLPHІN",
+      "group_id": "지진/dolphin",
+      "raw_text": "담당자에게 DOLPHІN 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]DOLPHІN[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "8dfb6a5cf3167694fbe6",
+      "token": "DOLPHІN",
+      "group_id": "지진/dolphin",
+      "raw_text": "남은 자료로는 DOLPHІN가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]DOLPHІN[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "c4d1be961cc563e88e0c",
+      "token": "3merald",
+      "group_id": "비행기/emerald",
+      "raw_text": "행사 이름은 3merald입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]3merald[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "9bb65681c7f2583f5942",
+      "token": "3merald",
+      "group_id": "비행기/emerald",
+      "raw_text": "칠판의 3merald는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]3merald[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "5726ac95c8f2619988fe",
+      "token": "3merald",
+      "group_id": "비행기/emerald",
+      "raw_text": "담당자에게 3merald 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]3merald[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "ef08d232ee376191990f",
+      "token": "3merald",
+      "group_id": "비행기/emerald",
+      "raw_text": "남은 자료로는 3merald가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]3merald[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "0e5d0a228129ad3b6b1c",
+      "token": "EM3RALD",
+      "group_id": "비행기/emerald",
+      "raw_text": "행사 이름은 EM3RALD입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]EM3RALD[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "c22a3961a8fcd12f8755",
+      "token": "EM3RALD",
+      "group_id": "비행기/emerald",
+      "raw_text": "칠판의 EM3RALD는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]EM3RALD[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "287aa3b4011a5a2ad0fe",
+      "token": "EM3RALD",
+      "group_id": "비행기/emerald",
+      "raw_text": "담당자에게 EM3RALD 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]EM3RALD[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "d4fd5ee7540bd8aab158",
+      "token": "EM3RALD",
+      "group_id": "비행기/emerald",
+      "raw_text": "남은 자료로는 EM3RALD가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]EM3RALD[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "e5b90856a85bcedc6b4c",
+      "token": "Emer4Ld",
+      "group_id": "비행기/emerald",
+      "raw_text": "행사 이름은 Emer4Ld입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]Emer4Ld[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "8052c70252060fbbeafe",
+      "token": "Emer4Ld",
+      "group_id": "비행기/emerald",
+      "raw_text": "칠판의 Emer4Ld는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]Emer4Ld[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "d42e3930db72339883c0",
+      "token": "Emer4Ld",
+      "group_id": "비행기/emerald",
+      "raw_text": "담당자에게 Emer4Ld 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]Emer4Ld[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "759f2a73674cb932965b",
+      "token": "Emer4Ld",
+      "group_id": "비행기/emerald",
+      "raw_text": "남은 자료로는 Emer4Ld가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]Emer4Ld[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "a7ab2f74841098ad3c7e",
+      "token": "еmerald",
+      "group_id": "비행기/emerald",
+      "raw_text": "행사 이름은 еmerald입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]еmerald[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "f20ea27f849193d263a5",
+      "token": "еmerald",
+      "group_id": "비행기/emerald",
+      "raw_text": "칠판의 еmerald는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]еmerald[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "9059fe742fe6a85a8e0c",
+      "token": "еmerald",
+      "group_id": "비행기/emerald",
+      "raw_text": "담당자에게 еmerald 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]еmerald[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "b25fa76a6c4d71c44027",
+      "token": "еmerald",
+      "group_id": "비행기/emerald",
+      "raw_text": "남은 자료로는 еmerald가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]еmerald[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "435311ee6648feceda12",
+      "token": "EMЕRALD",
+      "group_id": "비행기/emerald",
+      "raw_text": "행사 이름은 EMЕRALD입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]EMЕRALD[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "3eeabc8037c6d6e820f9",
+      "token": "EMЕRALD",
+      "group_id": "비행기/emerald",
+      "raw_text": "칠판의 EMЕRALD는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]EMЕRALD[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "ff177843eb78d56efd99",
+      "token": "EMЕRALD",
+      "group_id": "비행기/emerald",
+      "raw_text": "담당자에게 EMЕRALD 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]EMЕRALD[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "82f5466e318dc3710e78",
+      "token": "EMЕRALD",
+      "group_id": "비행기/emerald",
+      "raw_text": "남은 자료로는 EMЕRALD가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]EMЕRALD[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "e8de12158a07bc9b72e1",
+      "token": "Emerаld",
+      "group_id": "비행기/emerald",
+      "raw_text": "행사 이름은 Emerаld입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]Emerаld[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "1322c79cca21ad3af251",
+      "token": "Emerаld",
+      "group_id": "비행기/emerald",
+      "raw_text": "칠판의 Emerаld는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]Emerаld[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "7a45368da61a18966676",
+      "token": "Emerаld",
+      "group_id": "비행기/emerald",
+      "raw_text": "담당자에게 Emerаld 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]Emerаld[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "7d59e08ce959790442a1",
+      "token": "Emerаld",
+      "group_id": "비행기/emerald",
+      "raw_text": "남은 자료로는 Emerаld가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]Emerаld[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "fde4a294301e0d09dbca",
+      "token": "f4lcon",
+      "group_id": "지렁이/falcon",
+      "raw_text": "행사 이름은 f4lcon입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]f4lcon[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "d8db97e956994b7a933c",
+      "token": "f4lcon",
+      "group_id": "지렁이/falcon",
+      "raw_text": "칠판의 f4lcon는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]f4lcon[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "4cf31584a0d1701aa82c",
+      "token": "f4lcon",
+      "group_id": "지렁이/falcon",
+      "raw_text": "담당자에게 f4lcon 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]f4lcon[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "388e3ea9f1fac0132b57",
+      "token": "f4lcon",
+      "group_id": "지렁이/falcon",
+      "raw_text": "남은 자료로는 f4lcon가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]f4lcon[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "4370bfb52d3201db6a4e",
+      "token": "FALC0N",
+      "group_id": "지렁이/falcon",
+      "raw_text": "행사 이름은 FALC0N입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]FALC0N[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "17db213d626d0f5bbc81",
+      "token": "FALC0N",
+      "group_id": "지렁이/falcon",
+      "raw_text": "칠판의 FALC0N는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]FALC0N[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "b5fa4924440a7777f741",
+      "token": "FALC0N",
+      "group_id": "지렁이/falcon",
+      "raw_text": "담당자에게 FALC0N 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]FALC0N[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "be65bf20df3f3e45c6be",
+      "token": "FALC0N",
+      "group_id": "지렁이/falcon",
+      "raw_text": "남은 자료로는 FALC0N가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]FALC0N[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "f524736ba3572c2d8bda",
+      "token": "Fаlcon",
+      "group_id": "지렁이/falcon",
+      "raw_text": "행사 이름은 Fаlcon입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]Fаlcon[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "346436f8ae32fd2cc159",
+      "token": "Fаlcon",
+      "group_id": "지렁이/falcon",
+      "raw_text": "칠판의 Fаlcon는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]Fаlcon[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "85dbab21c12f3c5c8b4c",
+      "token": "Fаlcon",
+      "group_id": "지렁이/falcon",
+      "raw_text": "담당자에게 Fаlcon 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]Fаlcon[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "66283694f30ff69d87f2",
+      "token": "Fаlcon",
+      "group_id": "지렁이/falcon",
+      "raw_text": "남은 자료로는 Fаlcon가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]Fаlcon[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "a004a28ffebab69fbe12",
+      "token": "falсon",
+      "group_id": "지렁이/falcon",
+      "raw_text": "행사 이름은 falсon입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]falсon[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "af1a648150a02fd6bfd4",
+      "token": "falсon",
+      "group_id": "지렁이/falcon",
+      "raw_text": "칠판의 falсon는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]falсon[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "5c55aed622bb8c0216bb",
+      "token": "falсon",
+      "group_id": "지렁이/falcon",
+      "raw_text": "담당자에게 falсon 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]falсon[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "9fdc3fc98bf5deab43aa",
+      "token": "falсon",
+      "group_id": "지렁이/falcon",
+      "raw_text": "남은 자료로는 falсon가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]falсon[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "5b9b30e203e8018b7a28",
+      "token": "FALCОN",
+      "group_id": "지렁이/falcon",
+      "raw_text": "행사 이름은 FALCОN입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]FALCОN[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "c2f04973467bd6d6df5f",
+      "token": "FALCОN",
+      "group_id": "지렁이/falcon",
+      "raw_text": "칠판의 FALCОN는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]FALCОN[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "6316994b71b42cd17908",
+      "token": "FALCОN",
+      "group_id": "지렁이/falcon",
+      "raw_text": "담당자에게 FALCОN 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]FALCОN[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "b80af7a85e46d010408b",
+      "token": "FALCОN",
+      "group_id": "지렁이/falcon",
+      "raw_text": "남은 자료로는 FALCОN가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]FALCОN[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "b8da12f2d447bb3460c8",
+      "token": "g4laxy",
+      "group_id": "기침/galaxy",
+      "raw_text": "행사 이름은 g4laxy입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]g4laxy[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "5b7336d177b52e6c1448",
+      "token": "g4laxy",
+      "group_id": "기침/galaxy",
+      "raw_text": "칠판의 g4laxy는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]g4laxy[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "e6acca47c55d690b46f4",
+      "token": "g4laxy",
+      "group_id": "기침/galaxy",
+      "raw_text": "담당자에게 g4laxy 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]g4laxy[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "afef144f4616ca37fab9",
+      "token": "g4laxy",
+      "group_id": "기침/galaxy",
+      "raw_text": "남은 자료로는 g4laxy가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]g4laxy[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "447e24b3c9091b42fa38",
+      "token": "GAL4XY",
+      "group_id": "기침/galaxy",
+      "raw_text": "행사 이름은 GAL4XY입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]GAL4XY[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "8fdadd9bfdc04e985ef9",
+      "token": "GAL4XY",
+      "group_id": "기침/galaxy",
+      "raw_text": "칠판의 GAL4XY는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]GAL4XY[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "38fda7d249e7aede7b2e",
+      "token": "GAL4XY",
+      "group_id": "기침/galaxy",
+      "raw_text": "담당자에게 GAL4XY 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]GAL4XY[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "48b9a7a62537c7f9b572",
+      "token": "GAL4XY",
+      "group_id": "기침/galaxy",
+      "raw_text": "남은 자료로는 GAL4XY가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]GAL4XY[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "2506edf12516f6c390a0",
+      "token": "Gаlaxy",
+      "group_id": "기침/galaxy",
+      "raw_text": "행사 이름은 Gаlaxy입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]Gаlaxy[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "6dc6aca56aac0da5b8b7",
+      "token": "Gаlaxy",
+      "group_id": "기침/galaxy",
+      "raw_text": "칠판의 Gаlaxy는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]Gаlaxy[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "6721c878fd557295d61b",
+      "token": "Gаlaxy",
+      "group_id": "기침/galaxy",
+      "raw_text": "담당자에게 Gаlaxy 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]Gаlaxy[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "d06024c83e9d62cd9cb1",
+      "token": "Gаlaxy",
+      "group_id": "기침/galaxy",
+      "raw_text": "남은 자료로는 Gаlaxy가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]Gаlaxy[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "2f9da902b8823202b75c",
+      "token": "galаxy",
+      "group_id": "기침/galaxy",
+      "raw_text": "행사 이름은 galаxy입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]galаxy[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "c6be2285b19214eea57e",
+      "token": "galаxy",
+      "group_id": "기침/galaxy",
+      "raw_text": "칠판의 galаxy는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]galаxy[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "d3605ec1ceae8c42448f",
+      "token": "galаxy",
+      "group_id": "기침/galaxy",
+      "raw_text": "담당자에게 galаxy 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]galаxy[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "6bbd2dfd29d764adfbac",
+      "token": "galаxy",
+      "group_id": "기침/galaxy",
+      "raw_text": "남은 자료로는 galаxy가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]galаxy[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "0906267a7bc128a3eab5",
+      "token": "GALAХY",
+      "group_id": "기침/galaxy",
+      "raw_text": "행사 이름은 GALAХY입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]GALAХY[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "c92d2d85c989402a6686",
+      "token": "GALAХY",
+      "group_id": "기침/galaxy",
+      "raw_text": "칠판의 GALAХY는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]GALAХY[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "09e1cd606b63d7c5cebf",
+      "token": "GALAХY",
+      "group_id": "기침/galaxy",
+      "raw_text": "담당자에게 GALAХY 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]GALAХY[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "157b81e8b0dd93bf00be",
+      "token": "GALAХY",
+      "group_id": "기침/galaxy",
+      "raw_text": "남은 자료로는 GALAХY가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]GALAХY[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "f6b99932869e306dd711",
+      "token": "Galaxу",
+      "group_id": "기침/galaxy",
+      "raw_text": "행사 이름은 Galaxу입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]Galaxу[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "5765822b6c09033c1bbc",
+      "token": "Galaxу",
+      "group_id": "기침/galaxy",
+      "raw_text": "칠판의 Galaxу는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]Galaxу[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "f7462a93e4cda222731c",
+      "token": "Galaxу",
+      "group_id": "기침/galaxy",
+      "raw_text": "담당자에게 Galaxу 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]Galaxу[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "8831424ef5680075afb3",
+      "token": "Galaxу",
+      "group_id": "기침/galaxy",
+      "raw_text": "남은 자료로는 Galaxу가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]Galaxу[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "52895c4701272a32aa96",
+      "token": "h3ather",
+      "group_id": "피난/heather",
+      "raw_text": "행사 이름은 h3ather입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]h3ather[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "851fdf416213be372b6d",
+      "token": "h3ather",
+      "group_id": "피난/heather",
+      "raw_text": "칠판의 h3ather는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]h3ather[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "cea317a34ac48afae345",
+      "token": "h3ather",
+      "group_id": "피난/heather",
+      "raw_text": "담당자에게 h3ather 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]h3ather[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "58cc2ab36339257ec515",
+      "token": "h3ather",
+      "group_id": "피난/heather",
+      "raw_text": "남은 자료로는 h3ather가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]h3ather[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "8b5b2e189dffd9d9941d",
+      "token": "HE4THER",
+      "group_id": "피난/heather",
+      "raw_text": "행사 이름은 HE4THER입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]HE4THER[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "163e95a40c6b0cd2c5f0",
+      "token": "HE4THER",
+      "group_id": "피난/heather",
+      "raw_text": "칠판의 HE4THER는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]HE4THER[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "f1d6f5d06b1112dfe324",
+      "token": "HE4THER",
+      "group_id": "피난/heather",
+      "raw_text": "담당자에게 HE4THER 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]HE4THER[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "b8c34a677a53f4198296",
+      "token": "HE4THER",
+      "group_id": "피난/heather",
+      "raw_text": "남은 자료로는 HE4THER가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]HE4THER[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "981fd8c137690ea0f2f7",
+      "token": "Hea7Her",
+      "group_id": "피난/heather",
+      "raw_text": "행사 이름은 Hea7Her입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]Hea7Her[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "182b63e69897cfe541aa",
+      "token": "Hea7Her",
+      "group_id": "피난/heather",
+      "raw_text": "칠판의 Hea7Her는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]Hea7Her[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "b17e3e5e14d978006df4",
+      "token": "Hea7Her",
+      "group_id": "피난/heather",
+      "raw_text": "담당자에게 Hea7Her 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]Hea7Her[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "71b8f6d6a6722a1ac426",
+      "token": "Hea7Her",
+      "group_id": "피난/heather",
+      "raw_text": "남은 자료로는 Hea7Her가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]Hea7Her[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "5bce76a43f727578fbd4",
+      "token": "heath3r",
+      "group_id": "피난/heather",
+      "raw_text": "행사 이름은 heath3r입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]heath3r[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "98574c70bb489dfe8522",
+      "token": "heath3r",
+      "group_id": "피난/heather",
+      "raw_text": "칠판의 heath3r는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]heath3r[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "a5453e1a3784aa16f5aa",
+      "token": "heath3r",
+      "group_id": "피난/heather",
+      "raw_text": "담당자에게 heath3r 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]heath3r[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "24a07456a9ced845b78f",
+      "token": "heath3r",
+      "group_id": "피난/heather",
+      "raw_text": "남은 자료로는 heath3r가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]heath3r[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "c7eab8f34ce462ba8f3b",
+      "token": "HЕATHER",
+      "group_id": "피난/heather",
+      "raw_text": "행사 이름은 HЕATHER입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]HЕATHER[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "8142cb28e035772568fd",
+      "token": "HЕATHER",
+      "group_id": "피난/heather",
+      "raw_text": "칠판의 HЕATHER는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]HЕATHER[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "bad669942834f2ef5724",
+      "token": "HЕATHER",
+      "group_id": "피난/heather",
+      "raw_text": "담당자에게 HЕATHER 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]HЕATHER[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "72196521a68959e20d8f",
+      "token": "HЕATHER",
+      "group_id": "피난/heather",
+      "raw_text": "남은 자료로는 HЕATHER가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]HЕATHER[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "9261aa7a2516e4ae877f",
+      "token": "Heаther",
+      "group_id": "피난/heather",
+      "raw_text": "행사 이름은 Heаther입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]Heаther[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "355c0c96c790793ae66c",
+      "token": "Heаther",
+      "group_id": "피난/heather",
+      "raw_text": "칠판의 Heаther는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]Heаther[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "3463f4189c54a8e7cd51",
+      "token": "Heаther",
+      "group_id": "피난/heather",
+      "raw_text": "담당자에게 Heаther 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]Heаther[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "95007e4b9ccab9168402",
+      "token": "Heаther",
+      "group_id": "피난/heather",
+      "raw_text": "남은 자료로는 Heаther가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]Heаther[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "c8330e716ad069eddca4",
+      "token": "heathеr",
+      "group_id": "피난/heather",
+      "raw_text": "행사 이름은 heathеr입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]heathеr[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "d5da38082a51114f8315",
+      "token": "heathеr",
+      "group_id": "피난/heather",
+      "raw_text": "칠판의 heathеr는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]heathеr[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "ad4fa5c3b2e340cd5d33",
+      "token": "heathеr",
+      "group_id": "피난/heather",
+      "raw_text": "담당자에게 heathеr 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]heathеr[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "19d3b0747356c37eaf9e",
+      "token": "heathеr",
+      "group_id": "피난/heather",
+      "raw_text": "남은 자료로는 heathеr가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]heathеr[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "3af3005125eaad7bc55d",
+      "token": "j4smine",
+      "group_id": "밀가루/jasmine",
+      "raw_text": "행사 이름은 j4smine입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]j4smine[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "2de2296c99c8f3bfde5a",
+      "token": "j4smine",
+      "group_id": "밀가루/jasmine",
+      "raw_text": "칠판의 j4smine는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]j4smine[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "0e1c9c62ebe9e5816469",
+      "token": "j4smine",
+      "group_id": "밀가루/jasmine",
+      "raw_text": "담당자에게 j4smine 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]j4smine[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "830660c8e6caad79079c",
+      "token": "j4smine",
+      "group_id": "밀가루/jasmine",
+      "raw_text": "남은 자료로는 j4smine가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]j4smine[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "44f159d0378a108e82b7",
+      "token": "JA5MINE",
+      "group_id": "밀가루/jasmine",
+      "raw_text": "행사 이름은 JA5MINE입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]JA5MINE[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "27b3212aa2bbcf35477c",
+      "token": "JA5MINE",
+      "group_id": "밀가루/jasmine",
+      "raw_text": "칠판의 JA5MINE는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]JA5MINE[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "1f2a89898d0688fc2d8e",
+      "token": "JA5MINE",
+      "group_id": "밀가루/jasmine",
+      "raw_text": "담당자에게 JA5MINE 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]JA5MINE[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "9f135a9cb00036ffea2f",
+      "token": "JA5MINE",
+      "group_id": "밀가루/jasmine",
+      "raw_text": "남은 자료로는 JA5MINE가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]JA5MINE[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "d7f874ece8cd72a319c9",
+      "token": "Jasm1Ne",
+      "group_id": "밀가루/jasmine",
+      "raw_text": "행사 이름은 Jasm1Ne입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]Jasm1Ne[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "9f810066ee33fc3af986",
+      "token": "Jasm1Ne",
+      "group_id": "밀가루/jasmine",
+      "raw_text": "칠판의 Jasm1Ne는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]Jasm1Ne[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "80245104dafc7372fbd6",
+      "token": "Jasm1Ne",
+      "group_id": "밀가루/jasmine",
+      "raw_text": "담당자에게 Jasm1Ne 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]Jasm1Ne[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "ea257621aab14b1e1ef2",
+      "token": "Jasm1Ne",
+      "group_id": "밀가루/jasmine",
+      "raw_text": "남은 자료로는 Jasm1Ne가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]Jasm1Ne[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "95e8e1ad5d17be7a5500",
+      "token": "jasmin3",
+      "group_id": "밀가루/jasmine",
+      "raw_text": "행사 이름은 jasmin3입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]jasmin3[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "a028e5dc0900e1d8f0d7",
+      "token": "jasmin3",
+      "group_id": "밀가루/jasmine",
+      "raw_text": "칠판의 jasmin3는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]jasmin3[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "de4ce15f194bb0239d91",
+      "token": "jasmin3",
+      "group_id": "밀가루/jasmine",
+      "raw_text": "담당자에게 jasmin3 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]jasmin3[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "5e0adf762a6f5c0a7e76",
+      "token": "jasmin3",
+      "group_id": "밀가루/jasmine",
+      "raw_text": "남은 자료로는 jasmin3가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]jasmin3[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "9c05d0d4c9cf15358ab0",
+      "token": "JАSMINE",
+      "group_id": "밀가루/jasmine",
+      "raw_text": "행사 이름은 JАSMINE입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]JАSMINE[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "d77d779a8d0217024005",
+      "token": "JАSMINE",
+      "group_id": "밀가루/jasmine",
+      "raw_text": "칠판의 JАSMINE는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]JАSMINE[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "ae943cf5079106d139a8",
+      "token": "JАSMINE",
+      "group_id": "밀가루/jasmine",
+      "raw_text": "담당자에게 JАSMINE 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]JАSMINE[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "6794d7e12be091abe565",
+      "token": "JАSMINE",
+      "group_id": "밀가루/jasmine",
+      "raw_text": "남은 자료로는 JАSMINE가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]JАSMINE[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "8499d6bf8485ef8ecabe",
+      "token": "Jaѕmine",
+      "group_id": "밀가루/jasmine",
+      "raw_text": "행사 이름은 Jaѕmine입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]Jaѕmine[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "bb16282ca14d2371fc1b",
+      "token": "Jaѕmine",
+      "group_id": "밀가루/jasmine",
+      "raw_text": "칠판의 Jaѕmine는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]Jaѕmine[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "f53fc46b223a13ea0069",
+      "token": "Jaѕmine",
+      "group_id": "밀가루/jasmine",
+      "raw_text": "담당자에게 Jaѕmine 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]Jaѕmine[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "469a5f199052b86fc3b0",
+      "token": "Jaѕmine",
+      "group_id": "밀가루/jasmine",
+      "raw_text": "남은 자료로는 Jaѕmine가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]Jaѕmine[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "3a6b1d0b7a6dc8371096",
+      "token": "jasmіne",
+      "group_id": "밀가루/jasmine",
+      "raw_text": "행사 이름은 jasmіne입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]jasmіne[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "b6464b3d6e2713e049af",
+      "token": "jasmіne",
+      "group_id": "밀가루/jasmine",
+      "raw_text": "칠판의 jasmіne는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]jasmіne[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "a6ca54fb01e75bfc4170",
+      "token": "jasmіne",
+      "group_id": "밀가루/jasmine",
+      "raw_text": "담당자에게 jasmіne 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]jasmіne[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "d6449b7a720ca9d967bc",
+      "token": "jasmіne",
+      "group_id": "밀가루/jasmine",
+      "raw_text": "남은 자료로는 jasmіne가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]jasmіne[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "e1c3fe6f58e974220e4b",
+      "token": "JASMINЕ",
+      "group_id": "밀가루/jasmine",
+      "raw_text": "행사 이름은 JASMINЕ입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 14,
+      "input": {
+        "target": "행사 이름은 [표기]JASMINЕ[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "f055a549af59e0095c62",
+      "token": "JASMINЕ",
+      "group_id": "밀가루/jasmine",
+      "raw_text": "칠판의 JASMINЕ는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 11,
+      "input": {
+        "target": "칠판의 [표기]JASMINЕ[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "e642ca1806dd9a83d4c0",
+      "token": "JASMINЕ",
+      "group_id": "밀가루/jasmine",
+      "raw_text": "담당자에게 JASMINЕ 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 13,
+      "input": {
+        "target": "담당자에게 [표기]JASMINЕ[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "d8d9f232d160934f8d5b",
+      "token": "JASMINЕ",
+      "group_id": "밀가루/jasmine",
+      "raw_text": "남은 자료로는 JASMINЕ가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 15,
+      "input": {
+        "target": "남은 자료로는 [표기]JASMINЕ[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "c76a987584c52d20f1de",
+      "token": "l4goon",
+      "group_id": "시골/lagoon",
+      "raw_text": "행사 이름은 l4goon입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]l4goon[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "44360dc6d60ac6d8ec5e",
+      "token": "l4goon",
+      "group_id": "시골/lagoon",
+      "raw_text": "칠판의 l4goon는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]l4goon[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "eda9751d8a0510a19a91",
+      "token": "l4goon",
+      "group_id": "시골/lagoon",
+      "raw_text": "담당자에게 l4goon 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]l4goon[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "e5f803a869e354d1c406",
+      "token": "l4goon",
+      "group_id": "시골/lagoon",
+      "raw_text": "남은 자료로는 l4goon가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]l4goon[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "9f141d4be4eb7bf8af2e",
+      "token": "LAG0ON",
+      "group_id": "시골/lagoon",
+      "raw_text": "행사 이름은 LAG0ON입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]LAG0ON[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "bf6eea4a19f6a78e86d2",
+      "token": "LAG0ON",
+      "group_id": "시골/lagoon",
+      "raw_text": "칠판의 LAG0ON는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]LAG0ON[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "8eabf8478853da0524b6",
+      "token": "LAG0ON",
+      "group_id": "시골/lagoon",
+      "raw_text": "담당자에게 LAG0ON 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]LAG0ON[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "039999d0104a6ea6879e",
+      "token": "LAG0ON",
+      "group_id": "시골/lagoon",
+      "raw_text": "남은 자료로는 LAG0ON가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]LAG0ON[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "c56f3ca2c5fc4640fb5a",
+      "token": "Lago0N",
+      "group_id": "시골/lagoon",
+      "raw_text": "행사 이름은 Lago0N입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]Lago0N[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "eac89f71124c35ee56a0",
+      "token": "Lago0N",
+      "group_id": "시골/lagoon",
+      "raw_text": "칠판의 Lago0N는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]Lago0N[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "e121047537b4e5ff8022",
+      "token": "Lago0N",
+      "group_id": "시골/lagoon",
+      "raw_text": "담당자에게 Lago0N 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]Lago0N[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "99c46f4138bebdb039ce",
+      "token": "Lago0N",
+      "group_id": "시골/lagoon",
+      "raw_text": "남은 자료로는 Lago0N가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]Lago0N[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "a6e7bbcba23a2fb895d2",
+      "token": "lаgoon",
+      "group_id": "시골/lagoon",
+      "raw_text": "행사 이름은 lаgoon입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]lаgoon[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "bf1b99a3a5466c195797",
+      "token": "lаgoon",
+      "group_id": "시골/lagoon",
+      "raw_text": "칠판의 lаgoon는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]lаgoon[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "015ec8d070862a3550f2",
+      "token": "lаgoon",
+      "group_id": "시골/lagoon",
+      "raw_text": "담당자에게 lаgoon 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]lаgoon[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "ca05c4408802a33fe7c2",
+      "token": "lаgoon",
+      "group_id": "시골/lagoon",
+      "raw_text": "남은 자료로는 lаgoon가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]lаgoon[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "81f36248c6b99f29b275",
+      "token": "LAGОON",
+      "group_id": "시골/lagoon",
+      "raw_text": "행사 이름은 LAGОON입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]LAGОON[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "eee4ac70cc34f74a5941",
+      "token": "LAGОON",
+      "group_id": "시골/lagoon",
+      "raw_text": "칠판의 LAGОON는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]LAGОON[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "295136c8efa87af47733",
+      "token": "LAGОON",
+      "group_id": "시골/lagoon",
+      "raw_text": "담당자에게 LAGОON 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]LAGОON[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "56fc46c337b8c330c6c5",
+      "token": "LAGОON",
+      "group_id": "시골/lagoon",
+      "raw_text": "남은 자료로는 LAGОON가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]LAGОON[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "5fb541403bedabaa1692",
+      "token": "Lagoоn",
+      "group_id": "시골/lagoon",
+      "raw_text": "행사 이름은 Lagoоn입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]Lagoоn[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "e7b1913a2d1bb4e0c0c7",
+      "token": "Lagoоn",
+      "group_id": "시골/lagoon",
+      "raw_text": "칠판의 Lagoоn는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]Lagoоn[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "5a7918e9d89edfd506b7",
+      "token": "Lagoоn",
+      "group_id": "시골/lagoon",
+      "raw_text": "담당자에게 Lagoоn 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]Lagoоn[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "31dd4befa862c1eaf872",
+      "token": "Lagoоn",
+      "group_id": "시골/lagoon",
+      "raw_text": "남은 자료로는 Lagoоn가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]Lagoоn[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "e3e5e841fee6c5c4a135",
+      "token": "n3ctar",
+      "group_id": "기포/nectar",
+      "raw_text": "행사 이름은 n3ctar입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]n3ctar[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "399e5e02c65a6d8a1f75",
+      "token": "n3ctar",
+      "group_id": "기포/nectar",
+      "raw_text": "칠판의 n3ctar는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]n3ctar[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "4dffc6b4f9c7bfe7ccac",
+      "token": "n3ctar",
+      "group_id": "기포/nectar",
+      "raw_text": "담당자에게 n3ctar 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]n3ctar[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "f1de03cb38b3f382bf5c",
+      "token": "n3ctar",
+      "group_id": "기포/nectar",
+      "raw_text": "남은 자료로는 n3ctar가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]n3ctar[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "9bb7766a9c6915aa160c",
+      "token": "NEC7AR",
+      "group_id": "기포/nectar",
+      "raw_text": "행사 이름은 NEC7AR입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]NEC7AR[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "1244d0fed80482473e11",
+      "token": "NEC7AR",
+      "group_id": "기포/nectar",
+      "raw_text": "칠판의 NEC7AR는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]NEC7AR[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "7816f1fcda3829e8a932",
+      "token": "NEC7AR",
+      "group_id": "기포/nectar",
+      "raw_text": "담당자에게 NEC7AR 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]NEC7AR[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "578c0b683c67bc0c38bb",
+      "token": "NEC7AR",
+      "group_id": "기포/nectar",
+      "raw_text": "남은 자료로는 NEC7AR가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]NEC7AR[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "c6a9b5305741931292fd",
+      "token": "Nect4R",
+      "group_id": "기포/nectar",
+      "raw_text": "행사 이름은 Nect4R입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]Nect4R[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "99b1f831f798aed13e9d",
+      "token": "Nect4R",
+      "group_id": "기포/nectar",
+      "raw_text": "칠판의 Nect4R는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]Nect4R[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "bbed28895e47c22f7fbd",
+      "token": "Nect4R",
+      "group_id": "기포/nectar",
+      "raw_text": "담당자에게 Nect4R 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]Nect4R[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "8da0aa17f1b51fef87cf",
+      "token": "Nect4R",
+      "group_id": "기포/nectar",
+      "raw_text": "남은 자료로는 Nect4R가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]Nect4R[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "3a2bf56a3a848d8c6f73",
+      "token": "nеctar",
+      "group_id": "기포/nectar",
+      "raw_text": "행사 이름은 nеctar입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]nеctar[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "952aecd480319b9773be",
+      "token": "nеctar",
+      "group_id": "기포/nectar",
+      "raw_text": "칠판의 nеctar는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]nеctar[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "084189c6df73b13d8cfa",
+      "token": "nеctar",
+      "group_id": "기포/nectar",
+      "raw_text": "담당자에게 nеctar 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]nеctar[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "aa7f0a80445793d07750",
+      "token": "nеctar",
+      "group_id": "기포/nectar",
+      "raw_text": "남은 자료로는 nеctar가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]nеctar[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "9162fed9b1d10ad4259e",
+      "token": "NEСTAR",
+      "group_id": "기포/nectar",
+      "raw_text": "행사 이름은 NEСTAR입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]NEСTAR[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "6d6342f640b92a21dd81",
+      "token": "NEСTAR",
+      "group_id": "기포/nectar",
+      "raw_text": "칠판의 NEСTAR는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]NEСTAR[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "3c6417a322f509c70c4d",
+      "token": "NEСTAR",
+      "group_id": "기포/nectar",
+      "raw_text": "담당자에게 NEСTAR 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]NEСTAR[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "2397096a6a0eb27e1a4c",
+      "token": "NEСTAR",
+      "group_id": "기포/nectar",
+      "raw_text": "남은 자료로는 NEСTAR가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]NEСTAR[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "4ab55c330805a504f478",
+      "token": "Nectаr",
+      "group_id": "기포/nectar",
+      "raw_text": "행사 이름은 Nectаr입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 13,
+      "input": {
+        "target": "행사 이름은 [표기]Nectаr[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "a95fa10b79f30fbc827b",
+      "token": "Nectаr",
+      "group_id": "기포/nectar",
+      "raw_text": "칠판의 Nectаr는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 10,
+      "input": {
+        "target": "칠판의 [표기]Nectаr[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "99e0d6f727cf17e66948",
+      "token": "Nectаr",
+      "group_id": "기포/nectar",
+      "raw_text": "담당자에게 Nectаr 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 12,
+      "input": {
+        "target": "담당자에게 [표기]Nectаr[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "11602010ea49a4b11e91",
+      "token": "Nectаr",
+      "group_id": "기포/nectar",
+      "raw_text": "남은 자료로는 Nectаr가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 14,
+      "input": {
+        "target": "남은 자료로는 [표기]Nectаr[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "8cf37feebe6a458ba9fd",
+      "token": "0tter",
+      "group_id": "미숫가루/otter",
+      "raw_text": "행사 이름은 0tter입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 12,
+      "input": {
+        "target": "행사 이름은 [표기]0tter[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "043fe8788da003238ebc",
+      "token": "0tter",
+      "group_id": "미숫가루/otter",
+      "raw_text": "칠판의 0tter는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 9,
+      "input": {
+        "target": "칠판의 [표기]0tter[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "8ca842e287df56236fd0",
+      "token": "0tter",
+      "group_id": "미숫가루/otter",
+      "raw_text": "담당자에게 0tter 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 11,
+      "input": {
+        "target": "담당자에게 [표기]0tter[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "35d0f63560b42ed1806b",
+      "token": "0tter",
+      "group_id": "미숫가루/otter",
+      "raw_text": "남은 자료로는 0tter가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 13,
+      "input": {
+        "target": "남은 자료로는 [표기]0tter[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "46a126a4738452b972c2",
+      "token": "O7TER",
+      "group_id": "미숫가루/otter",
+      "raw_text": "행사 이름은 O7TER입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 12,
+      "input": {
+        "target": "행사 이름은 [표기]O7TER[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "3d40365c691c2f062ba7",
+      "token": "O7TER",
+      "group_id": "미숫가루/otter",
+      "raw_text": "칠판의 O7TER는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 9,
+      "input": {
+        "target": "칠판의 [표기]O7TER[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "0915b0bd39330124474b",
+      "token": "O7TER",
+      "group_id": "미숫가루/otter",
+      "raw_text": "담당자에게 O7TER 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 11,
+      "input": {
+        "target": "담당자에게 [표기]O7TER[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "142b7d3fb4da4e3b15c9",
+      "token": "O7TER",
+      "group_id": "미숫가루/otter",
+      "raw_text": "남은 자료로는 O7TER가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 13,
+      "input": {
+        "target": "남은 자료로는 [표기]O7TER[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "e860ced83f90a3883fc7",
+      "token": "Ot7Er",
+      "group_id": "미숫가루/otter",
+      "raw_text": "행사 이름은 Ot7Er입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 12,
+      "input": {
+        "target": "행사 이름은 [표기]Ot7Er[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "c5c402dca8080a167892",
+      "token": "Ot7Er",
+      "group_id": "미숫가루/otter",
+      "raw_text": "칠판의 Ot7Er는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 9,
+      "input": {
+        "target": "칠판의 [표기]Ot7Er[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "a495c191930cc78a0923",
+      "token": "Ot7Er",
+      "group_id": "미숫가루/otter",
+      "raw_text": "담당자에게 Ot7Er 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 11,
+      "input": {
+        "target": "담당자에게 [표기]Ot7Er[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "3c055b0655d263234fe5",
+      "token": "Ot7Er",
+      "group_id": "미숫가루/otter",
+      "raw_text": "남은 자료로는 Ot7Er가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 13,
+      "input": {
+        "target": "남은 자료로는 [표기]Ot7Er[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "d0657fe18580997a309b",
+      "token": "ott3r",
+      "group_id": "미숫가루/otter",
+      "raw_text": "행사 이름은 ott3r입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 12,
+      "input": {
+        "target": "행사 이름은 [표기]ott3r[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "7c3e4c4afb81d41f2c42",
+      "token": "ott3r",
+      "group_id": "미숫가루/otter",
+      "raw_text": "칠판의 ott3r는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 9,
+      "input": {
+        "target": "칠판의 [표기]ott3r[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "6c34aa2579e41a94369c",
+      "token": "ott3r",
+      "group_id": "미숫가루/otter",
+      "raw_text": "담당자에게 ott3r 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 11,
+      "input": {
+        "target": "담당자에게 [표기]ott3r[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "953d3e65b34b7a60a98f",
+      "token": "ott3r",
+      "group_id": "미숫가루/otter",
+      "raw_text": "남은 자료로는 ott3r가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 13,
+      "input": {
+        "target": "남은 자료로는 [표기]ott3r[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "9cbec8c719604ca4a3be",
+      "token": "ОTTER",
+      "group_id": "미숫가루/otter",
+      "raw_text": "행사 이름은 ОTTER입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 12,
+      "input": {
+        "target": "행사 이름은 [표기]ОTTER[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "f71ce2a91bf3c91adbef",
+      "token": "ОTTER",
+      "group_id": "미숫가루/otter",
+      "raw_text": "칠판의 ОTTER는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 9,
+      "input": {
+        "target": "칠판의 [표기]ОTTER[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "0bcf66e81446ac5b834d",
+      "token": "ОTTER",
+      "group_id": "미숫가루/otter",
+      "raw_text": "담당자에게 ОTTER 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 11,
+      "input": {
+        "target": "담당자에게 [표기]ОTTER[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "3a4d33d48f6b57fabba1",
+      "token": "ОTTER",
+      "group_id": "미숫가루/otter",
+      "raw_text": "남은 자료로는 ОTTER가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 13,
+      "input": {
+        "target": "남은 자료로는 [표기]ОTTER[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    },
+    {
+      "id": "b31a95e429fa654ecff2",
+      "token": "Ottеr",
+      "group_id": "미숫가루/otter",
+      "raw_text": "행사 이름은 Ottеr입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+      "start": 7,
+      "end": 12,
+      "input": {
+        "target": "행사 이름은 [표기]Ottеr[/표기]입니다. 사설방 신규 이용자 접수 중이니 메시지 주십시오.",
+        "context": "모집자가 적은 홍보 문장."
+      }
+    },
+    {
+      "id": "1f482e4a32f5bf150cff",
+      "token": "Ottеr",
+      "group_id": "미숫가루/otter",
+      "raw_text": "칠판의 Ottеr는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+      "start": 4,
+      "end": 9,
+      "input": {
+        "target": "칠판의 [표기]Ottеr[/표기]는 같은 단어를 다른 모양의 문자로 써 본 것입니다.",
+        "context": "학생의 문자 표현 실습 기록."
+      }
+    },
+    {
+      "id": "1aca63c0f057f434a4e3",
+      "token": "Ottеr",
+      "group_id": "미숫가루/otter",
+      "raw_text": "담당자에게 Ottеr 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+      "start": 6,
+      "end": 11,
+      "input": {
+        "target": "담당자에게 [표기]Ottеr[/표기] 식별번호를 알려 주면 등록된 항목이 나옵니다. 번호를 다른 글자로 고치면 다른 항목이 됩니다.",
+        "context": "조회에 필요한 원래 식별번호를 옮긴 글."
+      }
+    },
+    {
+      "id": "9083631d430c8cb8638f",
+      "token": "Ottеr",
+      "group_id": "미숫가루/otter",
+      "raw_text": "남은 자료로는 Ottеr가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+      "start": 8,
+      "end": 13,
+      "input": {
+        "target": "남은 자료로는 [표기]Ottеr[/표기]가 별명인지 우회해서 쓴 말인지 구별할 수 없네요.",
+        "context": "그 앞뒤 내용은 확보하지 못했습니다."
+      }
+    }
+  ],
+  "probabilities": [
+    [
+      [
+        5.8388483012095094e-05,
+        0.9998971223831177,
+        4.4529213482746854e-05
+      ],
+      [
+        7.860644836910069e-05,
+        0.9998451471328735,
+        7.619263487868011e-05
+      ]
+    ],
+    [
+      [
+        2.263474016217515e-05,
+        0.9998791217803955,
+        9.821923595154658e-05
+      ],
+      [
+        8.266014629043639e-05,
+        0.9994280934333801,
+        0.0004891801509074867
+      ]
+    ],
+    [
+      [
+        1.1044080565625336e-05,
+        0.9999592304229736,
+        2.9674198231077753e-05
+      ],
+      [
+        0.00020676197891589254,
+        0.9989321827888489,
+        0.0008610195945948362
+      ]
+    ],
+    [
+      [
+        1.1338474905642215e-05,
+        0.9998658895492554,
+        0.00012281036470085382
+      ],
+      [
+        0.002263117814436555,
+        0.19064447283744812,
+        0.8070923686027527
+      ]
+    ],
+    [
+      [
+        5.113342558615841e-05,
+        0.9999092817306519,
+        3.956431828555651e-05
+      ],
+      [
+        9.03216059668921e-05,
+        0.999818742275238,
+        9.095259883906692e-05
+      ]
+    ],
+    [
+      [
+        1.5637271644663997e-05,
+        0.9998929500579834,
+        9.143466013483703e-05
+      ],
+      [
+        0.00014235606067813933,
+        0.9987472295761108,
+        0.00111038435716182
+      ]
+    ],
+    [
+      [
+        1.2587364835781045e-05,
+        0.9999550580978394,
+        3.237434066249989e-05
+      ],
+      [
+        0.00016008615784812719,
+        0.9991927742958069,
+        0.0006471974775195122
+      ]
+    ],
+    [
+      [
+        1.6990708900266327e-05,
+        0.9998069405555725,
+        0.00017604413733351976
+      ],
+      [
+        0.0016257212264463305,
+        0.05279426649212837,
+        0.9455801248550415
+      ]
+    ],
+    [
+      [
+        6.66454725433141e-05,
+        0.9998834133148193,
+        4.992520189261995e-05
+      ],
+      [
+        6.997405580477789e-05,
+        0.9998613595962524,
+        6.863052112748846e-05
+      ]
+    ],
+    [
+      [
+        2.5010152967297472e-05,
+        0.9998444318771362,
+        0.0001305755286011845
+      ],
+      [
+        7.202722918009385e-05,
+        0.9994128942489624,
+        0.0005150905344635248
+      ]
+    ],
+    [
+      [
+        1.1425610864534974e-05,
+        0.9999569654464722,
+        3.156409729854204e-05
+      ],
+      [
+        0.00019071600399911404,
+        0.9989894032478333,
+        0.0008198843570426106
+      ]
+    ],
+    [
+      [
+        1.4133445802144706e-05,
+        0.9998329877853394,
+        0.0001528434077044949
+      ],
+      [
+        0.0018393178470432758,
+        0.0797295942902565,
+        0.9184311032295227
+      ]
+    ],
+    [
+      [
+        5.4710319091100246e-05,
+        0.9999029636383057,
+        4.2295690946048126e-05
+      ],
+      [
+        8.308447286253795e-05,
+        0.9998369216918945,
+        7.99311965238303e-05
+      ]
+    ],
+    [
+      [
+        2.321946703887079e-05,
+        0.9998743534088135,
+        0.00010237222159048542
+      ],
+      [
+        7.97187676653266e-05,
+        0.9994303584098816,
+        0.0004899285268038511
+      ]
+    ],
+    [
+      [
+        1.1087036000390071e-05,
+        0.9999586343765259,
+        3.026314516318962e-05
+      ],
+      [
+        0.00020528031745925546,
+        0.9989263415336609,
+        0.0008684013155288994
+      ]
+    ],
+    [
+      [
+        1.71553656400647e-05,
+        0.9998304843902588,
+        0.00015237191109918058
+      ],
+      [
+        0.0006293944898061454,
+        0.954444169998169,
+        0.044926468282938004
+      ]
+    ],
+    [
+      [
+        5.010109816794284e-05,
+        0.9999033212661743,
+        4.660139529732987e-05
+      ],
+      [
+        7.382946932921186e-05,
+        0.9998372793197632,
+        8.880558016244322e-05
+      ]
+    ],
+    [
+      [
+        2.5132958398899063e-05,
+        0.999852180480957,
+        0.00012267817510291934
+      ],
+      [
+        8.112721116049215e-05,
+        0.9993504881858826,
+        0.0005683772615157068
+      ]
+    ],
+    [
+      [
+        1.1612107300607022e-05,
+        0.9999514818191528,
+        3.686573472805321e-05
+      ],
+      [
+        0.00017580145504325628,
+        0.9989286065101624,
+        0.0008955853409133852
+      ]
+    ],
+    [
+      [
+        2.5450386601733044e-05,
+        0.9997363686561584,
+        0.0002382140519330278
+      ],
+      [
+        0.00047675802488811314,
+        0.9624465107917786,
+        0.0370766706764698
+      ]
+    ],
+    [
+      [
+        6.199130439199507e-05,
+        0.999889612197876,
+        4.8405156121589243e-05
+      ],
+      [
+        8.23574373498559e-05,
+        0.9998397827148438,
+        7.781681779306382e-05
+      ]
+    ],
+    [
+      [
+        3.052216561627574e-05,
+        0.9998065829277039,
+        0.00016294587112497538
+      ],
+      [
+        6.772553024347872e-05,
+        0.9993925094604492,
+        0.0005397220957092941
+      ]
+    ],
+    [
+      [
+        1.113146572606638e-05,
+        0.9999536275863647,
+        3.5189787013223395e-05
+      ],
+      [
+        0.00022579380311071873,
+        0.9986104965209961,
+        0.0011637205025181174
+      ]
+    ],
+    [
+      [
+        4.146922947256826e-05,
+        0.9995673298835754,
+        0.0003912027459591627
+      ],
+      [
+        0.0005342265358194709,
+        0.949263870716095,
+        0.05020188167691231
+      ]
+    ],
+    [
+      [
+        4.909099152428098e-05,
+        0.9999092817306519,
+        4.1628110921010375e-05
+      ],
+      [
+        8.148139750119299e-05,
+        0.9998316764831543,
+        8.686546061653644e-05
+      ]
+    ],
+    [
+      [
+        2.2791160517954268e-05,
+        0.9998574256896973,
+        0.00011978611291851848
+      ],
+      [
+        8.222289761761203e-05,
+        0.9993351101875305,
+        0.0005826788255944848
+      ]
+    ],
+    [
+      [
+        1.0757292329799384e-05,
+        0.9999574422836304,
+        3.1812673114473e-05
+      ],
+      [
+        0.00021287158597260714,
+        0.9988296627998352,
+        0.0009575010626576841
+      ]
+    ],
+    [
+      [
+        1.9024430002900772e-05,
+        0.9997870326042175,
+        0.0001939244830282405
+      ],
+      [
+        0.0006232608575373888,
+        0.9512131214141846,
+        0.048163559287786484
+      ]
+    ],
+    [
+      [
+        1.2567743397084996e-06,
+        0.9999957084655762,
+        3.0075336781010265e-06
+      ],
+      [
+        0.25318604707717896,
+        0.6835981607437134,
+        0.06321582943201065
+      ]
+    ],
+    [
+      [
+        3.844720595225226e-06,
+        0.9999594688415527,
+        3.6636076401919127e-05
+      ],
+      [
+        0.013809449970722198,
+        0.2940105199813843,
+        0.6921800971031189
+      ]
+    ],
+    [
+      [
+        4.033540335512953e-06,
+        0.9999731779098511,
+        2.2798709323978983e-05
+      ],
+      [
+        0.000664825493004173,
+        0.9922716617584229,
+        0.007063491735607386
+      ]
+    ],
+    [
+      [
+        3.601661228458397e-05,
+        0.9997214674949646,
+        0.00024248476256616414
+      ],
+      [
+        0.0013744994066655636,
+        0.0037504262290894985,
+        0.9948750138282776
+      ]
+    ],
+    [
+      [
+        6.6690495259535965e-06,
+        0.9999831914901733,
+        1.0115828445123043e-05
+      ],
+      [
+        0.0006990876863710582,
+        0.9987646341323853,
+        0.0005363008240237832
+      ]
+    ],
+    [
+      [
+        8.976210665423423e-06,
+        0.9999072551727295,
+        8.371572766918689e-05
+      ],
+      [
+        0.00044722913298755884,
+        0.992562472820282,
+        0.006990271620452404
+      ]
+    ],
+    [
+      [
+        1.2105170753784478e-05,
+        0.9999527931213379,
+        3.5048222343903035e-05
+      ],
+      [
+        0.00015187577810138464,
+        0.9990948438644409,
+        0.0007533185416832566
+      ]
+    ],
+    [
+      [
+        2.8937689421582036e-05,
+        0.999749481678009,
+        0.00022163493849802762
+      ],
+      [
+        0.0010093956952914596,
+        0.004205374512821436,
+        0.9947852492332458
+      ]
+    ],
+    [
+      [
+        3.821892823907547e-05,
+        0.999931812286377,
+        3.0009710826561786e-05
+      ],
+      [
+        0.00013210605538915843,
+        0.9997617602348328,
+        0.00010610414028633386
+      ]
+    ],
+    [
+      [
+        1.6816477000247687e-05,
+        0.9998714923858643,
+        0.00011169401841470972
+      ],
+      [
+        0.000128661617054604,
+        0.9987015724182129,
+        0.0011697508161887527
+      ]
+    ],
+    [
+      [
+        1.197856090584537e-05,
+        0.9999548196792603,
+        3.3158350561279804e-05
+      ],
+      [
+        0.00016736515681259334,
+        0.9990515112876892,
+        0.0007811251562088728
+      ]
+    ],
+    [
+      [
+        1.78432328539202e-05,
+        0.9998087286949158,
+        0.00017348429537378252
+      ],
+      [
+        0.0016644641291350126,
+        0.03398615121841431,
+        0.9643493890762329
+      ]
+    ],
+    [
+      [
+        4.3148069380549714e-05,
+        0.9999169111251831,
+        3.9976021071197465e-05
+      ],
+      [
+        9.093515836866572e-05,
+        0.9998130202293396,
+        9.603257058188319e-05
+      ]
+    ],
+    [
+      [
+        2.294717160111759e-05,
+        0.9998644590377808,
+        0.00011260403698543087
+      ],
+      [
+        8.200179581763223e-05,
+        0.9993842840194702,
+        0.0005336421891115606
+      ]
+    ],
+    [
+      [
+        1.0576608474366367e-05,
+        0.9999566078186035,
+        3.2763789931777865e-05
+      ],
+      [
+        0.00021586244110949337,
+        0.9987849593162537,
+        0.0009991386905312538
+      ]
+    ],
+    [
+      [
+        2.6443178285262547e-05,
+        0.9997040629386902,
+        0.00026949206949211657
+      ],
+      [
+        0.0005073990323580801,
+        0.9586275219917297,
+        0.04086512327194214
+      ]
+    ],
+    [
+      [
+        5.027606675866991e-05,
+        0.9999010562896729,
+        4.863280992140062e-05
+      ],
+      [
+        6.803166616009548e-05,
+        0.9998455047607422,
+        8.640059968456626e-05
+      ]
+    ],
+    [
+      [
+        2.68323074124055e-05,
+        0.9998109936714172,
+        0.00016214839706663042
+      ],
+      [
+        7.348496001213789e-05,
+        0.9993497729301453,
+        0.0005767243565060198
+      ]
+    ],
+    [
+      [
+        1.1433502550062258e-05,
+        0.9999520778656006,
+        3.6537658161250874e-05
+      ],
+      [
+        0.0001795817952370271,
+        0.9989228844642639,
+        0.0008975557866506279
+      ]
+    ],
+    [
+      [
+        2.4263266823254526e-05,
+        0.999711811542511,
+        0.0002639265439938754
+      ],
+      [
+        0.0005225632921792567,
+        0.9536355137825012,
+        0.04584197327494621
+      ]
+    ],
+    [
+      [
+        1.5265694628396886e-06,
+        0.9999942779541016,
+        4.165827704127878e-06
+      ],
+      [
+        0.036980826407670975,
+        0.9473788738250732,
+        0.01564027927815914
+      ]
+    ],
+    [
+      [
+        4.914787496090867e-06,
+        0.9999434947967529,
+        5.158333806321025e-05
+      ],
+      [
+        0.005726132541894913,
+        0.7691518664360046,
+        0.22512198984622955
+      ]
+    ],
+    [
+      [
+        9.551988114253618e-06,
+        0.9999536275863647,
+        3.685800766106695e-05
+      ],
+      [
+        0.00018455939425621182,
+        0.9985369443893433,
+        0.0012785287108272314
+      ]
+    ],
+    [
+      [
+        3.045595803996548e-05,
+        0.9997473359107971,
+        0.00022220630489755422
+      ],
+      [
+        0.0013425451470538974,
+        0.005081045441329479,
+        0.9935764670372009
+      ]
+    ],
+    [
+      [
+        6.199130439199507e-05,
+        0.999889612197876,
+        4.8405156121589243e-05
+      ],
+      [
+        8.23574373498559e-05,
+        0.9998397827148438,
+        7.781681779306382e-05
+      ]
+    ],
+    [
+      [
+        3.052216561627574e-05,
+        0.9998065829277039,
+        0.00016294587112497538
+      ],
+      [
+        6.772553024347872e-05,
+        0.9993925094604492,
+        0.0005397220957092941
+      ]
+    ],
+    [
+      [
+        1.113146572606638e-05,
+        0.9999536275863647,
+        3.5189787013223395e-05
+      ],
+      [
+        0.00022579380311071873,
+        0.9986104965209961,
+        0.0011637205025181174
+      ]
+    ],
+    [
+      [
+        4.146922947256826e-05,
+        0.9995673298835754,
+        0.0003912027459591627
+      ],
+      [
+        0.0005342265358194709,
+        0.949263870716095,
+        0.05020188167691231
+      ]
+    ],
+    [
+      [
+        6.199130439199507e-05,
+        0.999889612197876,
+        4.8405156121589243e-05
+      ],
+      [
+        8.23574373498559e-05,
+        0.9998397827148438,
+        7.781681779306382e-05
+      ]
+    ],
+    [
+      [
+        3.052216561627574e-05,
+        0.9998065829277039,
+        0.00016294587112497538
+      ],
+      [
+        6.772553024347872e-05,
+        0.9993925094604492,
+        0.0005397220957092941
+      ]
+    ],
+    [
+      [
+        1.113146572606638e-05,
+        0.9999536275863647,
+        3.5189787013223395e-05
+      ],
+      [
+        0.00022579380311071873,
+        0.9986104965209961,
+        0.0011637205025181174
+      ]
+    ],
+    [
+      [
+        4.146922947256826e-05,
+        0.9995673298835754,
+        0.0003912027459591627
+      ],
+      [
+        0.0005342265358194709,
+        0.949263870716095,
+        0.05020188167691231
+      ]
+    ],
+    [
+      [
+        4.9547012167749926e-05,
+        0.9999078512191772,
+        4.262332004145719e-05
+      ],
+      [
+        8.443128899671137e-05,
+        0.9998258948326111,
+        8.976168464869261e-05
+      ]
+    ],
+    [
+      [
+        2.234484418295324e-05,
+        0.9998863935470581,
+        9.127863449975848e-05
+      ],
+      [
+        8.715385047253221e-05,
+        0.999395489692688,
+        0.0005173393292352557
+      ]
+    ],
+    [
+      [
+        1.0920319255092181e-05,
+        0.9999574422836304,
+        3.1614963518222794e-05
+      ],
+      [
+        0.00021560101595241576,
+        0.9988062381744385,
+        0.0009781833505257964
+      ]
+    ],
+    [
+      [
+        2.0401821529958397e-05,
+        0.9997896552085876,
+        0.00018992929835803807
+      ],
+      [
+        0.0006689899601042271,
+        0.9418413639068604,
+        0.057489603757858276
+      ]
+    ],
+    [
+      [
+        3.467950955382548e-05,
+        0.9999254941940308,
+        3.97754592995625e-05
+      ],
+      [
+        0.00010144993575522676,
+        0.9997860789299011,
+        0.00011250493116676807
+      ]
+    ],
+    [
+      [
+        1.3630133253172971e-05,
+        0.9998822212219238,
+        0.00010416760051157326
+      ],
+      [
+        0.00021971676324028522,
+        0.9975147247314453,
+        0.00226556695997715
+      ]
+    ],
+    [
+      [
+        1.1632027963059954e-05,
+        0.9999537467956543,
+        3.462985478108749e-05
+      ],
+      [
+        0.00017127014871221036,
+        0.9990243911743164,
+        0.0008043770212680101
+      ]
+    ],
+    [
+      [
+        2.732265056692995e-05,
+        0.9997538924217224,
+        0.00021873146761208773
+      ],
+      [
+        0.001279162592254579,
+        0.009468779899179935,
+        0.9892520308494568
+      ]
+    ],
+    [
+      [
+        1.1736058240785496e-06,
+        0.9999963045120239,
+        2.5519752853142563e-06
+      ],
+      [
+        0.16007691621780396,
+        0.805621862411499,
+        0.034301236271858215
+      ]
+    ],
+    [
+      [
+        4.249578523740638e-06,
+        0.9999558925628662,
+        3.985887815360911e-05
+      ],
+      [
+        0.01178780198097229,
+        0.4105442762374878,
+        0.5776678919792175
+      ]
+    ],
+    [
+      [
+        6.624905836360995e-06,
+        0.9999634027481079,
+        3.0006909582880326e-05
+      ],
+      [
+        0.0002760763163678348,
+        0.9974175691604614,
+        0.0023063577245920897
+      ]
+    ],
+    [
+      [
+        3.275997732998803e-05,
+        0.9997487664222717,
+        0.00021850454504601657
+      ],
+      [
+        0.0015592240961268544,
+        0.004605529364198446,
+        0.9938352108001709
+      ]
+    ],
+    [
+      [
+        2.1658697733073495e-05,
+        0.9999498128890991,
+        2.8506634407676756e-05
+      ],
+      [
+        0.00014874807675369084,
+        0.9996956586837769,
+        0.00015563635679427534
+      ]
+    ],
+    [
+      [
+        1.6148514987435192e-05,
+        0.9998525381088257,
+        0.00013127342390362173
+      ],
+      [
+        0.00013878212484996766,
+        0.998468816280365,
+        0.0013923976803198457
+      ]
+    ],
+    [
+      [
+        1.125408562074881e-05,
+        0.999954104423523,
+        3.466548878350295e-05
+      ],
+      [
+        0.0001792574330465868,
+        0.9989070892333984,
+        0.0009136446169577539
+      ]
+    ],
+    [
+      [
+        1.6336542103090324e-05,
+        0.9998140931129456,
+        0.00016959724598564208
+      ],
+      [
+        0.0015432208310812712,
+        0.03523058444261551,
+        0.9632261991500854
+      ]
+    ],
+    [
+      [
+        6.199130439199507e-05,
+        0.999889612197876,
+        4.8405156121589243e-05
+      ],
+      [
+        8.23574373498559e-05,
+        0.9998397827148438,
+        7.781681779306382e-05
+      ]
+    ],
+    [
+      [
+        3.052216561627574e-05,
+        0.9998065829277039,
+        0.00016294587112497538
+      ],
+      [
+        6.772553024347872e-05,
+        0.9993925094604492,
+        0.0005397220957092941
+      ]
+    ],
+    [
+      [
+        1.113146572606638e-05,
+        0.9999536275863647,
+        3.5189787013223395e-05
+      ],
+      [
+        0.00022579380311071873,
+        0.9986104965209961,
+        0.0011637205025181174
+      ]
+    ],
+    [
+      [
+        4.146922947256826e-05,
+        0.9995673298835754,
+        0.0003912027459591627
+      ],
+      [
+        0.0005342265358194709,
+        0.949263870716095,
+        0.05020188167691231
+      ]
+    ],
+    [
+      [
+        1.0643302630342077e-06,
+        0.9999957084655762,
+        3.2799007385619916e-06
+      ],
+      [
+        0.08735352009534836,
+        0.8708025217056274,
+        0.04184398800134659
+      ]
+    ],
+    [
+      [
+        4.860129138251068e-06,
+        0.9999446868896484,
+        5.047466038377024e-05
+      ],
+      [
+        0.009339926764369011,
+        0.49571919441223145,
+        0.49494078755378723
+      ]
+    ],
+    [
+      [
+        5.6911590036179405e-06,
+        0.9999662637710571,
+        2.7993506591883488e-05
+      ],
+      [
+        0.00037828509812243283,
+        0.9963744282722473,
+        0.003247313667088747
+      ]
+    ],
+    [
+      [
+        3.311121690785512e-05,
+        0.9997225403785706,
+        0.0002443754638079554
+      ],
+      [
+        0.0012258278438821435,
+        0.004875713959336281,
+        0.9938983917236328
+      ]
+    ],
+    [
+      [
+        7.679618079237116e-07,
+        0.9999972581863403,
+        2.0313723325671162e-06
+      ],
+      [
+        0.28115272521972656,
+        0.6367183923721313,
+        0.0821288600564003
+      ]
+    ],
+    [
+      [
+        4.261657068127533e-06,
+        0.9999531507492065,
+        4.256626561982557e-05
+      ],
+      [
+        0.009057536721229553,
+        0.30660638213157654,
+        0.6843360662460327
+      ]
+    ],
+    [
+      [
+        8.428460205323063e-06,
+        0.9999605417251587,
+        3.1040523026604205e-05
+      ],
+      [
+        0.00019900866027455777,
+        0.9985803365707397,
+        0.0012206104584038258
+      ]
+    ],
+    [
+      [
+        3.961528273066506e-05,
+        0.9996966123580933,
+        0.0002637964498717338
+      ],
+      [
+        0.001143227331340313,
+        0.002938242396339774,
+        0.9959185719490051
+      ]
+    ],
+    [
+      [
+        3.484962007860304e-06,
+        0.9999889135360718,
+        7.589234428451164e-06
+      ],
+      [
+        0.0014980870764702559,
+        0.9975135326385498,
+        0.000988431042060256
+      ]
+    ],
+    [
+      [
+        6.624584784731269e-06,
+        0.9999293088912964,
+        6.403331644833088e-05
+      ],
+      [
+        0.0007241843268275261,
+        0.988451361656189,
+        0.010824481956660748
+      ]
+    ],
+    [
+      [
+        1.1058973541366868e-05,
+        0.9999535083770752,
+        3.542883132467978e-05
+      ],
+      [
+        0.00016823211626615375,
+        0.998935878276825,
+        0.0008959249826148152
+      ]
+    ],
+    [
+      [
+        1.660684938542545e-05,
+        0.9998292922973633,
+        0.00015404424630105495
+      ],
+      [
+        0.0015103932237252593,
+        0.015207410790026188,
+        0.9832821488380432
+      ]
+    ],
+    [
+      [
+        2.077253611787455e-06,
+        0.9999926090240479,
+        5.3090434448677115e-06
+      ],
+      [
+        0.012563103809952736,
+        0.9816802740097046,
+        0.005756639875471592
+      ]
+    ],
+    [
+      [
+        5.568037067860132e-06,
+        0.9999455213546753,
+        4.893496588920243e-05
+      ],
+      [
+        0.0016046541277319193,
+        0.9706751704216003,
+        0.027720173820853233
+      ]
+    ],
+    [
+      [
+        9.599636541679502e-06,
+        0.9999570846557617,
+        3.3341868402203545e-05
+      ],
+      [
+        0.00018957850988954306,
+        0.9987228512763977,
+        0.001087577547878027
+      ]
+    ],
+    [
+      [
+        1.9712535504368134e-05,
+        0.9998219609260559,
+        0.00015837162209209055
+      ],
+      [
+        0.001644135219976306,
+        0.011086875572800636,
+        0.9872689247131348
+      ]
+    ],
+    [
+      [
+        6.199130439199507e-05,
+        0.999889612197876,
+        4.8405156121589243e-05
+      ],
+      [
+        8.23574373498559e-05,
+        0.9998397827148438,
+        7.781681779306382e-05
+      ]
+    ],
+    [
+      [
+        3.052216561627574e-05,
+        0.9998065829277039,
+        0.00016294587112497538
+      ],
+      [
+        6.772553024347872e-05,
+        0.9993925094604492,
+        0.0005397220957092941
+      ]
+    ],
+    [
+      [
+        1.113146572606638e-05,
+        0.9999536275863647,
+        3.5189787013223395e-05
+      ],
+      [
+        0.00022579380311071873,
+        0.9986104965209961,
+        0.0011637205025181174
+      ]
+    ],
+    [
+      [
+        4.146922947256826e-05,
+        0.9995673298835754,
+        0.0003912027459591627
+      ],
+      [
+        0.0005342265358194709,
+        0.949263870716095,
+        0.05020188167691231
+      ]
+    ],
+    [
+      [
+        4.7299981815740466e-05,
+        0.9999121427536011,
+        4.050116694997996e-05
+      ],
+      [
+        8.996016549644992e-05,
+        0.9998239874839783,
+        8.613728277850896e-05
+      ]
+    ],
+    [
+      [
+        2.362141094636172e-05,
+        0.9998679161071777,
+        0.00010845774522749707
+      ],
+      [
+        8.14559607533738e-05,
+        0.9994157552719116,
+        0.0005028549348935485
+      ]
+    ],
+    [
+      [
+        1.1390944564482197e-05,
+        0.9999575614929199,
+        3.0992301617516205e-05
+      ],
+      [
+        0.00019784258620347828,
+        0.9989629983901978,
+        0.0008391963201574981
+      ]
+    ],
+    [
+      [
+        1.2752717339026276e-05,
+        0.9998632669448853,
+        0.00012394464283715934
+      ],
+      [
+        0.002375116804614663,
+        0.11459948122501373,
+        0.8830254077911377
+      ]
+    ],
+    [
+      [
+        1.2851666724600364e-05,
+        0.9999687671661377,
+        1.8344826457905583e-05
+      ],
+      [
+        0.0002773689047899097,
+        0.9994465708732605,
+        0.0002760775969363749
+      ]
+    ],
+    [
+      [
+        1.4803434169152752e-05,
+        0.9998701810836792,
+        0.00011499382526380941
+      ],
+      [
+        0.00017282152839470655,
+        0.9981561303138733,
+        0.00167105405125767
+      ]
+    ],
+    [
+      [
+        1.1222165085200686e-05,
+        0.9999518394470215,
+        3.697038846439682e-05
+      ],
+      [
+        0.0001643761497689411,
+        0.9989782571792603,
+        0.0008574381936341524
+      ]
+    ],
+    [
+      [
+        2.477941416145768e-05,
+        0.9997549653053284,
+        0.00022019719472154975
+      ],
+      [
+        0.0011007606517523527,
+        0.009371659718453884,
+        0.9895275235176086
+      ]
+    ],
+    [
+      [
+        1.1087280427091173e-06,
+        0.999996542930603,
+        2.3098778001440223e-06
+      ],
+      [
+        0.17292162775993347,
+        0.794194221496582,
+        0.032884106040000916
+      ]
+    ],
+    [
+      [
+        3.351922259753337e-06,
+        0.9999651908874512,
+        3.151388227706775e-05
+      ],
+      [
+        0.01261853612959385,
+        0.4782557785511017,
+        0.5091257095336914
+      ]
+    ],
+    [
+      [
+        7.053167792037129e-06,
+        0.9999638795852661,
+        2.9020566216786392e-05
+      ],
+      [
+        0.00024849295732565224,
+        0.9979578256607056,
+        0.0017937029479071498
+      ]
+    ],
+    [
+      [
+        3.1696057703811675e-05,
+        0.9997592568397522,
+        0.00020908609440084547
+      ],
+      [
+        0.0016492996364831924,
+        0.005162018816918135,
+        0.993188738822937
+      ]
+    ],
+    [
+      [
+        4.803919364348985e-05,
+        0.9999117851257324,
+        4.017827086499892e-05
+      ],
+      [
+        8.89302755240351e-05,
+        0.9998214840888977,
+        8.959222031990066e-05
+      ]
+    ],
+    [
+      [
+        2.2509100745082833e-05,
+        0.9998766183853149,
+        0.00010088513226946816
+      ],
+      [
+        8.530146442353725e-05,
+        0.9993832111358643,
+        0.0005314414738677442
+      ]
+    ],
+    [
+      [
+        1.1148271369165741e-05,
+        0.9999573230743408,
+        3.152827775920741e-05
+      ],
+      [
+        0.0002053742209682241,
+        0.9988754391670227,
+        0.0009191156714223325
+      ]
+    ],
+    [
+      [
+        2.1019148334744386e-05,
+        0.999794065952301,
+        0.0001849005202529952
+      ],
+      [
+        0.0005940980627201498,
+        0.9568116664886475,
+        0.042594294995069504
+      ]
+    ],
+    [
+      [
+        6.199130439199507e-05,
+        0.999889612197876,
+        4.8405156121589243e-05
+      ],
+      [
+        8.23574373498559e-05,
+        0.9998397827148438,
+        7.781681779306382e-05
+      ]
+    ],
+    [
+      [
+        3.052216561627574e-05,
+        0.9998065829277039,
+        0.00016294587112497538
+      ],
+      [
+        6.772553024347872e-05,
+        0.9993925094604492,
+        0.0005397220957092941
+      ]
+    ],
+    [
+      [
+        1.113146572606638e-05,
+        0.9999536275863647,
+        3.5189787013223395e-05
+      ],
+      [
+        0.00022579380311071873,
+        0.9986104965209961,
+        0.0011637205025181174
+      ]
+    ],
+    [
+      [
+        4.146922947256826e-05,
+        0.9995673298835754,
+        0.0003912027459591627
+      ],
+      [
+        0.0005342265358194709,
+        0.949263870716095,
+        0.05020188167691231
+      ]
+    ],
+    [
+      [
+        3.3155515666294377e-06,
+        0.9999899864196777,
+        6.731189387210179e-06
+      ],
+      [
+        0.0020258573349565268,
+        0.9965502023696899,
+        0.00142395356670022
+      ]
+    ],
+    [
+      [
+        6.809038040955784e-06,
+        0.9999294281005859,
+        6.378295074682683e-05
+      ],
+      [
+        0.0008338692132383585,
+        0.9836993217468262,
+        0.015466850250959396
+      ]
+    ],
+    [
+      [
+        1.0188016858592164e-05,
+        0.9999538660049438,
+        3.5985085560241714e-05
+      ],
+      [
+        0.00018388332682661712,
+        0.9986282587051392,
+        0.001187871559523046
+      ]
+    ],
+    [
+      [
+        1.8688735508476384e-05,
+        0.9998273253440857,
+        0.00015401234850287437
+      ],
+      [
+        0.0017689433880150318,
+        0.018343230709433556,
+        0.979887843132019
+      ]
+    ],
+    [
+      [
+        9.849316029431066e-07,
+        0.9999967813491821,
+        2.1948280846117996e-06
+      ],
+      [
+        0.3542529344558716,
+        0.6044066548347473,
+        0.04134039580821991
+      ]
+    ],
+    [
+      [
+        2.956435992018669e-06,
+        0.9999679327011108,
+        2.9143382562324405e-05
+      ],
+      [
+        0.014203491620719433,
+        0.4847811460494995,
+        0.5010153651237488
+      ]
+    ],
+    [
+      [
+        4.0771037674858235e-06,
+        0.999975323677063,
+        2.0653058527386747e-05
+      ],
+      [
+        0.0005729966214857996,
+        0.9947356581687927,
+        0.00469127157703042
+      ]
+    ],
+    [
+      [
+        2.7638136089080945e-05,
+        0.9997835755348206,
+        0.0001887762191472575
+      ],
+      [
+        0.0015153392450883985,
+        0.0042321705259382725,
+        0.9942525029182434
+      ]
+    ],
+    [
+      [
+        4.247129618306644e-05,
+        0.9999234676361084,
+        3.4095937735401094e-05
+      ],
+      [
+        0.00011203075700905174,
+        0.9997881054878235,
+        9.98834875645116e-05
+      ]
+    ],
+    [
+      [
+        1.7598487829673104e-05,
+        0.9998646974563599,
+        0.00011765307135647163
+      ],
+      [
+        0.00011873468611156568,
+        0.9988476037979126,
+        0.0010336983250454068
+      ]
+    ],
+    [
+      [
+        1.2193117981951218e-05,
+        0.9999544620513916,
+        3.330764593556523e-05
+      ],
+      [
+        0.0001698397973086685,
+        0.9990606904029846,
+        0.0007694698870182037
+      ]
+    ],
+    [
+      [
+        1.8621416529640555e-05,
+        0.9997567534446716,
+        0.00022467339294962585
+      ],
+      [
+        0.0018826796440407634,
+        0.14864806830883026,
+        0.8494692444801331
+      ]
+    ],
+    [
+      [
+        5.406214313552482e-06,
+        0.9999853372573853,
+        9.277116987504996e-06
+      ],
+      [
+        0.0009392164647579193,
+        0.9984625577926636,
+        0.000598225393332541
+      ]
+    ],
+    [
+      [
+        7.4741305979841854e-06,
+        0.9999228715896606,
+        6.966513319639489e-05
+      ],
+      [
+        0.0004275692335795611,
+        0.9934440851211548,
+        0.006128362379968166
+      ]
+    ],
+    [
+      [
+        1.1344062841089908e-05,
+        0.999954104423523,
+        3.449515497777611e-05
+      ],
+      [
+        0.0001679668202996254,
+        0.9989359974861145,
+        0.0008959934930317104
+      ]
+    ],
+    [
+      [
+        1.8686398107092828e-05,
+        0.9998137354850769,
+        0.0001676241954555735
+      ],
+      [
+        0.0013438946334645152,
+        0.011069509200751781,
+        0.9875866174697876
+      ]
+    ],
+    [
+      [
+        4.120981975574978e-05,
+        0.9999161958694458,
+        4.256818283465691e-05
+      ],
+      [
+        8.42288282001391e-05,
+        0.9998149275779724,
+        0.00010081802611239254
+      ]
+    ],
+    [
+      [
+        1.964213151950389e-05,
+        0.999850869178772,
+        0.00012949055235367268
+      ],
+      [
+        9.335860522696748e-05,
+        0.9991607666015625,
+        0.0007459259359166026
+      ]
+    ],
+    [
+      [
+        1.0578793990134727e-05,
+        0.9999573230743408,
+        3.203989763278514e-05
+      ],
+      [
+        0.0002079719415633008,
+        0.998822033405304,
+        0.0009700160007923841
+      ]
+    ],
+    [
+      [
+        1.2075307495251764e-05,
+        0.9998537302017212,
+        0.00013416368165053427
+      ],
+      [
+        0.0025998784694820642,
+        0.3082534670829773,
+        0.6891466379165649
+      ]
+    ],
+    [
+      [
+        6.199130439199507e-05,
+        0.999889612197876,
+        4.8405156121589243e-05
+      ],
+      [
+        8.23574373498559e-05,
+        0.9998397827148438,
+        7.781681779306382e-05
+      ]
+    ],
+    [
+      [
+        3.052216561627574e-05,
+        0.9998065829277039,
+        0.00016294587112497538
+      ],
+      [
+        6.772553024347872e-05,
+        0.9993925094604492,
+        0.0005397220957092941
+      ]
+    ],
+    [
+      [
+        1.113146572606638e-05,
+        0.9999536275863647,
+        3.5189787013223395e-05
+      ],
+      [
+        0.00022579380311071873,
+        0.9986104965209961,
+        0.0011637205025181174
+      ]
+    ],
+    [
+      [
+        4.146922947256826e-05,
+        0.9995673298835754,
+        0.0003912027459591627
+      ],
+      [
+        0.0005342265358194709,
+        0.949263870716095,
+        0.05020188167691231
+      ]
+    ],
+    [
+      [
+        1.4180623111315072e-06,
+        0.9999959468841553,
+        2.6359523417340824e-06
+      ],
+      [
+        0.05031934380531311,
+        0.940407395362854,
+        0.009273219853639603
+      ]
+    ],
+    [
+      [
+        3.1304400636145147e-06,
+        0.9999699592590332,
+        2.6886502382694744e-05
+      ],
+      [
+        0.009391630068421364,
+        0.7682526111602783,
+        0.22235576808452606
+      ]
+    ],
+    [
+      [
+        1.0700045095290989e-05,
+        0.9999563694000244,
+        3.296059730928391e-05
+      ],
+      [
+        0.00016973860329017043,
+        0.9989063739776611,
+        0.0009238580241799355
+      ]
+    ],
+    [
+      [
+        2.7920856155105866e-05,
+        0.9997871518135071,
+        0.00018498125427868217
+      ],
+      [
+        0.0016840096795931458,
+        0.005727984011173248,
+        0.9925879836082458
+      ]
+    ],
+    [
+      [
+        1.5851586567805498e-06,
+        0.999994158744812,
+        4.240947873768164e-06
+      ],
+      [
+        0.013842535205185413,
+        0.9755489826202393,
+        0.010608475655317307
+      ]
+    ],
+    [
+      [
+        6.240409675228875e-06,
+        0.999937891960144,
+        5.583860183833167e-05
+      ],
+      [
+        0.0023586563766002655,
+        0.9306949973106384,
+        0.0669463649392128
+      ]
+    ],
+    [
+      [
+        1.0248712897009682e-05,
+        0.9999551773071289,
+        3.454170291661285e-05
+      ],
+      [
+        0.0001780054299160838,
+        0.9987667798995972,
+        0.0010552891762927175
+      ]
+    ],
+    [
+      [
+        2.9635684768436477e-05,
+        0.999750554561615,
+        0.00021976971765980124
+      ],
+      [
+        0.0011789592681452632,
+        0.005682020448148251,
+        0.9931389689445496
+      ]
+    ],
+    [
+      [
+        5.880761818843894e-06,
+        0.9999837875366211,
+        1.0275793101754971e-05
+      ],
+      [
+        0.0007270757923834026,
+        0.998755931854248,
+        0.0005169633659534156
+      ]
+    ],
+    [
+      [
+        6.326221409835853e-06,
+        0.9999386072158813,
+        5.50870863662567e-05
+      ],
+      [
+        0.0005584437167271972,
+        0.9920917749404907,
+        0.007349787279963493
+      ]
+    ],
+    [
+      [
+        1.1714715583366342e-05,
+        0.9999513626098633,
+        3.6920970160281286e-05
+      ],
+      [
+        0.00016125995898619294,
+        0.9989759922027588,
+        0.0008627300267107785
+      ]
+    ],
+    [
+      [
+        1.5173520296229981e-05,
+        0.9998455047607422,
+        0.00013927039981354028
+      ],
+      [
+        0.0017786985263228416,
+        0.02088247239589691,
+        0.9773387312889099
+      ]
+    ],
+    [
+      [
+        3.7918709949735785e-06,
+        0.999988317489624,
+        7.845587788324337e-06
+      ],
+      [
+        0.0021134240087121725,
+        0.9962255954742432,
+        0.0016609909944236279
+      ]
+    ],
+    [
+      [
+        6.500615654658759e-06,
+        0.999930739402771,
+        6.277201464399695e-05
+      ],
+      [
+        0.0012333671329542994,
+        0.9705696105957031,
+        0.02819698303937912
+      ]
+    ],
+    [
+      [
+        1.1441130482126027e-05,
+        0.9999533891677856,
+        3.5198067052988335e-05
+      ],
+      [
+        0.00016023304488044232,
+        0.9989675283432007,
+        0.0008722265483811498
+      ]
+    ],
+    [
+      [
+        2.438248338876292e-05,
+        0.9997820258140564,
+        0.00019362507737241685
+      ],
+      [
+        0.0013814234407618642,
+        0.009345971047878265,
+        0.9892725944519043
+      ]
+    ],
+    [
+      [
+        6.199130439199507e-05,
+        0.999889612197876,
+        4.8405156121589243e-05
+      ],
+      [
+        8.23574373498559e-05,
+        0.9998397827148438,
+        7.781681779306382e-05
+      ]
+    ],
+    [
+      [
+        3.052216561627574e-05,
+        0.9998065829277039,
+        0.00016294587112497538
+      ],
+      [
+        6.772553024347872e-05,
+        0.9993925094604492,
+        0.0005397220957092941
+      ]
+    ],
+    [
+      [
+        1.113146572606638e-05,
+        0.9999536275863647,
+        3.5189787013223395e-05
+      ],
+      [
+        0.00022579380311071873,
+        0.9986104965209961,
+        0.0011637205025181174
+      ]
+    ],
+    [
+      [
+        4.146922947256826e-05,
+        0.9995673298835754,
+        0.0003912027459591627
+      ],
+      [
+        0.0005342265358194709,
+        0.949263870716095,
+        0.05020188167691231
+      ]
+    ],
+    [
+      [
+        5.468723247759044e-05,
+        0.9998995065689087,
+        4.581332177622244e-05
+      ],
+      [
+        7.602239929838106e-05,
+        0.9998428821563721,
+        8.109972259262577e-05
+      ]
+    ],
+    [
+      [
+        2.446229882480111e-05,
+        0.9998475313186646,
+        0.0001279576972592622
+      ],
+      [
+        7.902754441602156e-05,
+        0.9993677735328674,
+        0.0005531734204851091
+      ]
+    ],
+    [
+      [
+        1.1042453479603864e-05,
+        0.9999558925628662,
+        3.3049971534637734e-05
+      ],
+      [
+        0.00020224372565280646,
+        0.998867392539978,
+        0.0009304267005063593
+      ]
+    ],
+    [
+      [
+        2.0727286027977243e-05,
+        0.9997749924659729,
+        0.00020431693701539189
+      ],
+      [
+        0.0005415654741227627,
+        0.9600182771682739,
+        0.03944018855690956
+      ]
+    ],
+    [
+      [
+        2.6533149139140733e-05,
+        0.999945878982544,
+        2.762304211501032e-05
+      ],
+      [
+        0.0001398686581524089,
+        0.9997298121452332,
+        0.0001303003227803856
+      ]
+    ],
+    [
+      [
+        1.685079769231379e-05,
+        0.9998942613601685,
+        8.892657933756709e-05
+      ],
+      [
+        0.00011019530211342499,
+        0.9991288781166077,
+        0.0007609634194523096
+      ]
+    ],
+    [
+      [
+        1.1421532690292224e-05,
+        0.9999566078186035,
+        3.1999137718230486e-05
+      ],
+      [
+        0.00018798417295329273,
+        0.9989631175994873,
+        0.0008489096653647721
+      ]
+    ],
+    [
+      [
+        1.176072510133963e-05,
+        0.9998600482940674,
+        0.00012820848496630788
+      ],
+      [
+        0.001957180444151163,
+        0.06222569942474365,
+        0.9358171820640564
+      ]
+    ],
+    [
+      [
+        1.4461586033576168e-05,
+        0.9999681711196899,
+        1.7393585949321277e-05
+      ],
+      [
+        0.00025683280546218157,
+        0.9995288848876953,
+        0.0002143227175110951
+      ]
+    ],
+    [
+      [
+        6.294515515037347e-06,
+        0.9999409914016724,
+        5.269172106636688e-05
+      ],
+      [
+        0.000534613209310919,
+        0.9929078817367554,
+        0.00655752420425415
+      ]
+    ],
+    [
+      [
+        1.2130449249525554e-05,
+        0.9999542236328125,
+        3.35851036652457e-05
+      ],
+      [
+        0.0001547522988403216,
+        0.9991474151611328,
+        0.0006978153251111507
+      ]
+    ],
+    [
+      [
+        1.881332900666166e-05,
+        0.9998152852058411,
+        0.00016596032946836203
+      ],
+      [
+        0.001203445834107697,
+        0.007284845225512981,
+        0.9915116429328918
+      ]
+    ],
+    [
+      [
+        1.4900165297149215e-06,
+        0.9999951124191284,
+        3.406465793887037e-06
+      ],
+      [
+        0.048628341406583786,
+        0.932410478591919,
+        0.01896113157272339
+      ]
+    ],
+    [
+      [
+        3.902282969647786e-06,
+        0.9999619722366333,
+        3.4148761187680066e-05
+      ],
+      [
+        0.008321309462189674,
+        0.690014123916626,
+        0.3016645312309265
+      ]
+    ],
+    [
+      [
+        6.0076908994233236e-06,
+        0.999966025352478,
+        2.7997290089842863e-05
+      ],
+      [
+        0.0003273897455073893,
+        0.9969333410263062,
+        0.0027392928022891283
+      ]
+    ],
+    [
+      [
+        2.7316187697579153e-05,
+        0.9997871518135071,
+        0.00018555069982539862
+      ],
+      [
+        0.0016779807629063725,
+        0.006948562804609537,
+        0.9913734793663025
+      ]
+    ],
+    [
+      [
+        2.2950653146835975e-06,
+        0.9999938011169434,
+        3.909984116035048e-06
+      ],
+      [
+        0.010494439862668514,
+        0.9863570928573608,
+        0.0031485273502767086
+      ]
+    ],
+    [
+      [
+        4.717301180789946e-06,
+        0.9999474287033081,
+        4.7855071898084134e-05
+      ],
+      [
+        0.001741953892633319,
+        0.9632859230041504,
+        0.03497214987874031
+      ]
+    ],
+    [
+      [
+        1.0138319339603186e-05,
+        0.9999591112136841,
+        3.0730650905752555e-05
+      ],
+      [
+        0.00017905420099850744,
+        0.9988436698913574,
+        0.0009773039491847157
+      ]
+    ],
+    [
+      [
+        2.509829391783569e-05,
+        0.9997861981391907,
+        0.00018877167894970626
+      ],
+      [
+        0.0015611706767231226,
+        0.007796844467520714,
+        0.9906418919563293
+      ]
+    ],
+    [
+      [
+        6.199130439199507e-05,
+        0.999889612197876,
+        4.8405156121589243e-05
+      ],
+      [
+        8.23574373498559e-05,
+        0.9998397827148438,
+        7.781681779306382e-05
+      ]
+    ],
+    [
+      [
+        3.052216561627574e-05,
+        0.9998065829277039,
+        0.00016294587112497538
+      ],
+      [
+        6.772553024347872e-05,
+        0.9993925094604492,
+        0.0005397220957092941
+      ]
+    ],
+    [
+      [
+        1.113146572606638e-05,
+        0.9999536275863647,
+        3.5189787013223395e-05
+      ],
+      [
+        0.00022579380311071873,
+        0.9986104965209961,
+        0.0011637205025181174
+      ]
+    ],
+    [
+      [
+        4.146922947256826e-05,
+        0.9995673298835754,
+        0.0003912027459591627
+      ],
+      [
+        0.0005342265358194709,
+        0.949263870716095,
+        0.05020188167691231
+      ]
+    ],
+    [
+      [
+        4.6959139581304044e-05,
+        0.9999117851257324,
+        4.1291419620392844e-05
+      ],
+      [
+        8.224066550610587e-05,
+        0.9998284578323364,
+        8.922423876356333e-05
+      ]
+    ],
+    [
+      [
+        2.3018004867481068e-05,
+        0.999860405921936,
+        0.00011656866990961134
+      ],
+      [
+        8.591093501308933e-05,
+        0.9992986917495728,
+        0.000615389144513756
+      ]
+    ],
+    [
+      [
+        1.1005147825926542e-05,
+        0.9999563694000244,
+        3.262499740230851e-05
+      ],
+      [
+        0.00020424176182132214,
+        0.9988201260566711,
+        0.0009755889186635613
+      ]
+    ],
+    [
+      [
+        1.3019618563703261e-05,
+        0.999840497970581,
+        0.0001465001842007041
+      ],
+      [
+        0.0023168271873146296,
+        0.46082428097724915,
+        0.536858856678009
+      ]
+    ],
+    [
+      [
+        5.263679486233741e-05,
+        0.9999051094055176,
+        4.229686965118162e-05
+      ],
+      [
+        8.018035441637039e-05,
+        0.999839186668396,
+        8.061870175879449e-05
+      ]
+    ],
+    [
+      [
+        2.2305044694803655e-05,
+        0.9998593330383301,
+        0.00011839959915960208
+      ],
+      [
+        8.304508810397238e-05,
+        0.9993448853492737,
+        0.0005721027846448123
+      ]
+    ],
+    [
+      [
+        1.066984623321332e-05,
+        0.9999587535858154,
+        3.056101195397787e-05
+      ],
+      [
+        0.00020783941727131605,
+        0.9988597631454468,
+        0.0009324511629529297
+      ]
+    ],
+    [
+      [
+        1.465467175876256e-05,
+        0.9998086094856262,
+        0.00017676007701084018
+      ],
+      [
+        0.0011119807604700327,
+        0.8689994215965271,
+        0.1298886388540268
+      ]
+    ],
+    [
+      [
+        1.3757778560830047e-06,
+        0.9999953508377075,
+        3.288274456281215e-06
+      ],
+      [
+        0.05880175903439522,
+        0.9265483021736145,
+        0.01464996300637722
+      ]
+    ],
+    [
+      [
+        4.50911147709121e-06,
+        0.9999481439590454,
+        4.73132349725347e-05
+      ],
+      [
+        0.0032218662090599537,
+        0.92542564868927,
+        0.07135239988565445
+      ]
+    ],
+    [
+      [
+        8.692911251273472e-06,
+        0.9999600648880005,
+        3.1201725505525246e-05
+      ],
+      [
+        0.0002043043205048889,
+        0.9985936284065247,
+        0.0012020906433463097
+      ]
+    ],
+    [
+      [
+        3.14285462081898e-05,
+        0.9997349381446838,
+        0.00023366662207990885
+      ],
+      [
+        0.001186341978609562,
+        0.004332009702920914,
+        0.9944816827774048
+      ]
+    ],
+    [
+      [
+        1.3359464219320216e-06,
+        0.9999949932098389,
+        3.6254061797080794e-06
+      ],
+      [
+        0.018750933930277824,
+        0.9716631770133972,
+        0.009585924446582794
+      ]
+    ],
+    [
+      [
+        5.708967364626005e-06,
+        0.9999376535415649,
+        5.664704804075882e-05
+      ],
+      [
+        0.001965924398973584,
+        0.9380788803100586,
+        0.0599551647901535
+      ]
+    ],
+    [
+      [
+        1.0315514373360202e-05,
+        0.9999556541442871,
+        3.402628135518171e-05
+      ],
+      [
+        0.0001707759074633941,
+        0.9988364577293396,
+        0.0009927949868142605
+      ]
+    ],
+    [
+      [
+        2.993163070641458e-05,
+        0.9997442364692688,
+        0.00022579569485969841
+      ],
+      [
+        0.0010605196002870798,
+        0.005198849830776453,
+        0.9937406182289124
+      ]
+    ],
+    [
+      [
+        1.222290848090779e-06,
+        0.9999966621398926,
+        2.1444755020638695e-06
+      ],
+      [
+        0.3934191167354584,
+        0.5671245455741882,
+        0.0394563265144825
+      ]
+    ],
+    [
+      [
+        3.2468406061525457e-06,
+        0.9999663829803467,
+        3.0385681384359486e-05
+      ],
+      [
+        0.013626093976199627,
+        0.2058350294828415,
+        0.7805389165878296
+      ]
+    ],
+    [
+      [
+        4.389543391880579e-06,
+        0.9999743700027466,
+        2.127419793396257e-05
+      ],
+      [
+        0.00044958791113458574,
+        0.9959839582443237,
+        0.0035664609167724848
+      ]
+    ],
+    [
+      [
+        3.674221079563722e-05,
+        0.999716579914093,
+        0.00024669754202477634
+      ],
+      [
+        0.001211751950904727,
+        0.0028833511751145124,
+        0.9959048628807068
+      ]
+    ],
+    [
+      [
+        2.5771278160391375e-06,
+        0.9999927282333374,
+        4.6961167754489e-06
+      ],
+      [
+        0.00802567694336176,
+        0.9893362522125244,
+        0.002638002159073949
+      ]
+    ],
+    [
+      [
+        6.046943781257141e-06,
+        0.9999325275421143,
+        6.147564272396266e-05
+      ],
+      [
+        0.0010417228331789374,
+        0.9774585366249084,
+        0.021499721333384514
+      ]
+    ],
+    [
+      [
+        1.0051604476757348e-05,
+        0.9999569654464722,
+        3.3022563002305105e-05
+      ],
+      [
+        0.00017738902533892542,
+        0.998773992061615,
+        0.0010485649108886719
+      ]
+    ],
+    [
+      [
+        2.4589928216300905e-05,
+        0.9997796416282654,
+        0.00019580165098886937
+      ],
+      [
+        0.001445826725102961,
+        0.0106809725984931,
+        0.9878732562065125
+      ]
+    ],
+    [
+      [
+        6.206359103089198e-05,
+        0.999883770942688,
+        5.4189280490390956e-05
+      ],
+      [
+        6.129053508630022e-05,
+        0.9998657703399658,
+        7.296737021533772e-05
+      ]
+    ],
+    [
+      [
+        2.7385893190512434e-05,
+        0.9998294115066528,
+        0.00014317251043394208
+      ],
+      [
+        6.921107706148177e-05,
+        0.9994359612464905,
+        0.0004948033601976931
+      ]
+    ],
+    [
+      [
+        1.2213014088047203e-05,
+        0.9999512434005737,
+        3.6513625673251227e-05
+      ],
+      [
+        0.00016537593910470605,
+        0.9990672469139099,
+        0.0007673589279875159
+      ]
+    ],
+    [
+      [
+        2.1576890503638424e-05,
+        0.9997398257255554,
+        0.00023859093198552728
+      ],
+      [
+        0.0006246569682843983,
+        0.9374820590019226,
+        0.0618932880461216
+      ]
+    ],
+    [
+      [
+        6.199130439199507e-05,
+        0.999889612197876,
+        4.8405156121589243e-05
+      ],
+      [
+        8.23574373498559e-05,
+        0.9998397827148438,
+        7.781681779306382e-05
+      ]
+    ],
+    [
+      [
+        3.052216561627574e-05,
+        0.9998065829277039,
+        0.00016294587112497538
+      ],
+      [
+        6.772553024347872e-05,
+        0.9993925094604492,
+        0.0005397220957092941
+      ]
+    ],
+    [
+      [
+        1.113146572606638e-05,
+        0.9999536275863647,
+        3.5189787013223395e-05
+      ],
+      [
+        0.00022579380311071873,
+        0.9986104965209961,
+        0.0011637205025181174
+      ]
+    ],
+    [
+      [
+        4.146922947256826e-05,
+        0.9995673298835754,
+        0.0003912027459591627
+      ],
+      [
+        0.0005342265358194709,
+        0.949263870716095,
+        0.05020188167691231
+      ]
+    ],
+    [
+      [
+        6.199130439199507e-05,
+        0.999889612197876,
+        4.8405156121589243e-05
+      ],
+      [
+        8.23574373498559e-05,
+        0.9998397827148438,
+        7.781681779306382e-05
+      ]
+    ],
+    [
+      [
+        3.052216561627574e-05,
+        0.9998065829277039,
+        0.00016294587112497538
+      ],
+      [
+        6.772553024347872e-05,
+        0.9993925094604492,
+        0.0005397220957092941
+      ]
+    ],
+    [
+      [
+        1.113146572606638e-05,
+        0.9999536275863647,
+        3.5189787013223395e-05
+      ],
+      [
+        0.00022579380311071873,
+        0.9986104965209961,
+        0.0011637205025181174
+      ]
+    ],
+    [
+      [
+        4.146922947256826e-05,
+        0.9995673298835754,
+        0.0003912027459591627
+      ],
+      [
+        0.0005342265358194709,
+        0.949263870716095,
+        0.05020188167691231
+      ]
+    ],
+    [
+      [
+        6.199130439199507e-05,
+        0.999889612197876,
+        4.8405156121589243e-05
+      ],
+      [
+        8.23574373498559e-05,
+        0.9998397827148438,
+        7.781681779306382e-05
+      ]
+    ],
+    [
+      [
+        3.052216561627574e-05,
+        0.9998065829277039,
+        0.00016294587112497538
+      ],
+      [
+        6.772553024347872e-05,
+        0.9993925094604492,
+        0.0005397220957092941
+      ]
+    ],
+    [
+      [
+        1.113146572606638e-05,
+        0.9999536275863647,
+        3.5189787013223395e-05
+      ],
+      [
+        0.00022579380311071873,
+        0.9986104965209961,
+        0.0011637205025181174
+      ]
+    ],
+    [
+      [
+        4.146922947256826e-05,
+        0.9995673298835754,
+        0.0003912027459591627
+      ],
+      [
+        0.0005342265358194709,
+        0.949263870716095,
+        0.05020188167691231
+      ]
+    ],
+    [
+      [
+        1.5334744603023864e-06,
+        0.9999954700469971,
+        3.0107210022833897e-06
+      ],
+      [
+        0.0970691666007042,
+        0.8844388723373413,
+        0.018492016941308975
+      ]
+    ],
+    [
+      [
+        4.114782313990872e-06,
+        0.9999610185623169,
+        3.48150497302413e-05
+      ],
+      [
+        0.010683238506317139,
+        0.6866147518157959,
+        0.3027019798755646
+      ]
+    ],
+    [
+      [
+        5.736801085731713e-06,
+        0.9999699592590332,
+        2.426561877655331e-05
+      ],
+      [
+        0.00038390993722714484,
+        0.9967952370643616,
+        0.0028208112344145775
+      ]
+    ],
+    [
+      [
+        2.8447660952224396e-05,
+        0.9997814297676086,
+        0.0001901232753880322
+      ],
+      [
+        0.0015892955707386136,
+        0.004755512811243534,
+        0.9936552047729492
+      ]
+    ],
+    [
+      [
+        4.983825419913046e-05,
+        0.9999065399169922,
+        4.364969936432317e-05
+      ],
+      [
+        8.41942528495565e-05,
+        0.9998268485069275,
+        8.895492646843195e-05
+      ]
+    ],
+    [
+      [
+        2.1821244445163757e-05,
+        0.9998563528060913,
+        0.0001217760072904639
+      ],
+      [
+        9.015096293296665e-05,
+        0.9992049336433411,
+        0.0007048964616842568
+      ]
+    ],
+    [
+      [
+        1.1534386430867016e-05,
+        0.999956488609314,
+        3.202532752766274e-05
+      ],
+      [
+        0.00018505778280086815,
+        0.9989901185035706,
+        0.0008247584919445217
+      ]
+    ],
+    [
+      [
+        1.575914393470157e-05,
+        0.9998260140419006,
+        0.00015822297427803278
+      ],
+      [
+        0.0016251318156719208,
+        0.03753774240612984,
+        0.9608371257781982
+      ]
+    ],
+    [
+      [
+        5.955896085652057e-06,
+        0.9999856948852539,
+        8.397317287744954e-06
+      ],
+      [
+        0.0010836098808795214,
+        0.9982450008392334,
+        0.0006714383489452302
+      ]
+    ],
+    [
+      [
+        5.786820111097768e-06,
+        0.9999421834945679,
+        5.197901919018477e-05
+      ],
+      [
+        0.0011800642823800445,
+        0.9780134558677673,
+        0.02080651745200157
+      ]
+    ],
+    [
+      [
+        1.1461029316706117e-05,
+        0.9999544620513916,
+        3.4125783713534474e-05
+      ],
+      [
+        0.000156895985128358,
+        0.9990537762641907,
+        0.0007893143920227885
+      ]
+    ],
+    [
+      [
+        1.9657334632938728e-05,
+        0.9998034834861755,
+        0.00017685629427433014
+      ],
+      [
+        0.0013578450307250023,
+        0.009709839709103107,
+        0.9889322519302368
+      ]
+    ],
+    [
+      [
+        2.5045503207365982e-05,
+        0.9999474287033081,
+        2.752203363343142e-05
+      ],
+      [
+        0.00014527539315167814,
+        0.9997132420539856,
+        0.00014145243039820343
+      ]
+    ],
+    [
+      [
+        1.946854536072351e-05,
+        0.9998519420623779,
+        0.00012859415437560529
+      ],
+      [
+        0.00010175876377616078,
+        0.9990037083625793,
+        0.0008945599547587335
+      ]
+    ],
+    [
+      [
+        1.1156307664350607e-05,
+        0.9999560117721558,
+        3.277039650129154e-05
+      ],
+      [
+        0.0001781968749128282,
+        0.9989355206489563,
+        0.0008863385301083326
+      ]
+    ],
+    [
+      [
+        1.4687878319818992e-05,
+        0.9998345375061035,
+        0.00015079551667440683
+      ],
+      [
+        0.0017309989780187607,
+        0.04194255545735359,
+        0.9563264846801758
+      ]
+    ],
+    [
+      [
+        6.199130439199507e-05,
+        0.999889612197876,
+        4.8405156121589243e-05
+      ],
+      [
+        8.23574373498559e-05,
+        0.9998397827148438,
+        7.781681779306382e-05
+      ]
+    ],
+    [
+      [
+        3.052216561627574e-05,
+        0.9998065829277039,
+        0.00016294587112497538
+      ],
+      [
+        6.772553024347872e-05,
+        0.9993925094604492,
+        0.0005397220957092941
+      ]
+    ],
+    [
+      [
+        1.113146572606638e-05,
+        0.9999536275863647,
+        3.5189787013223395e-05
+      ],
+      [
+        0.00022579380311071873,
+        0.9986104965209961,
+        0.0011637205025181174
+      ]
+    ],
+    [
+      [
+        4.146922947256826e-05,
+        0.9995673298835754,
+        0.0003912027459591627
+      ],
+      [
+        0.0005342265358194709,
+        0.949263870716095,
+        0.05020188167691231
+      ]
+    ],
+    [
+      [
+        4.987839929526672e-05,
+        0.999904990196228,
+        4.509637437877245e-05
+      ],
+      [
+        7.446017843903974e-05,
+        0.9998388290405273,
+        8.668634109199047e-05
+      ]
+    ],
+    [
+      [
+        2.0454494006116875e-05,
+        0.9998760223388672,
+        0.00010349362855777144
+      ],
+      [
+        9.462321759201586e-05,
+        0.9992917776107788,
+        0.0006136044394224882
+      ]
+    ],
+    [
+      [
+        1.1236484169785399e-05,
+        0.9999548196792603,
+        3.389954872545786e-05
+      ],
+      [
+        0.0001882367068901658,
+        0.9989352822303772,
+        0.0008764637750573456
+      ]
+    ],
+    [
+      [
+        1.4729410395375453e-05,
+        0.9997991919517517,
+        0.00018604092474561185
+      ],
+      [
+        0.0009089283994399011,
+        0.9004340767860413,
+        0.09865701198577881
+      ]
+    ],
+    [
+      [
+        1.2207641475470155e-06,
+        0.9999961853027344,
+        2.5945812467398355e-06
+      ],
+      [
+        0.11316438764333725,
+        0.8686890006065369,
+        0.01814662292599678
+      ]
+    ],
+    [
+      [
+        3.7545821669482393e-06,
+        0.9999552965164185,
+        4.09024978580419e-05
+      ],
+      [
+        0.005737722851336002,
+        0.8334663510322571,
+        0.16079595685005188
+      ]
+    ],
+    [
+      [
+        1.0047539035440423e-05,
+        0.9999595880508423,
+        3.0369656087714247e-05
+      ],
+      [
+        0.00018465534958522767,
+        0.9988540410995483,
+        0.0009612826397642493
+      ]
+    ],
+    [
+      [
+        3.033834946108982e-05,
+        0.9997550845146179,
+        0.00021459169511217624
+      ],
+      [
+        0.0014113564975559711,
+        0.0038052061572670937,
+        0.9947834610939026
+      ]
+    ],
+    [
+      [
+        6.496590503957123e-05,
+        0.9998897314071655,
+        4.531235754257068e-05
+      ],
+      [
+        8.137121767504141e-05,
+        0.9998462200164795,
+        7.242616266012192e-05
+      ]
+    ],
+    [
+      [
+        2.2888518287800252e-05,
+        0.999843955039978,
+        0.00013312656665220857
+      ],
+      [
+        9.179172775475308e-05,
+        0.9991760849952698,
+        0.0007321074372157454
+      ]
+    ],
+    [
+      [
+        1.2445584616216365e-05,
+        0.9999551773071289,
+        3.241166632506065e-05
+      ],
+      [
+        0.0001696112158242613,
+        0.9990881681442261,
+        0.0007421678747050464
+      ]
+    ],
+    [
+      [
+        1.7839727661339566e-05,
+        0.9998038411140442,
+        0.0001783714978955686
+      ],
+      [
+        0.0016697259852662683,
+        0.05142508074641228,
+        0.946905255317688
+      ]
+    ],
+    [
+      [
+        3.959627792937681e-05,
+        0.9999260902404785,
+        3.430987271713093e-05
+      ],
+      [
+        0.00010543692769715562,
+        0.999797523021698,
+        9.710351150715724e-05
+      ]
+    ],
+    [
+      [
+        1.313959637627704e-05,
+        0.9998924732208252,
+        9.435721585759893e-05
+      ],
+      [
+        0.0001829092507250607,
+        0.99811851978302,
+        0.001698658219538629
+      ]
+    ],
+    [
+      [
+        1.1757178072002716e-05,
+        0.9999570846557617,
+        3.110658872174099e-05
+      ],
+      [
+        0.0001827982923714444,
+        0.9990600943565369,
+        0.0007570719462819397
+      ]
+    ],
+    [
+      [
+        1.711727600195445e-05,
+        0.999812662601471,
+        0.00017029032460413873
+      ],
+      [
+        0.0017244367627426982,
+        0.033953070640563965,
+        0.9643224477767944
+      ]
+    ],
+    [
+      [
+        4.4528111175168306e-05,
+        0.9999182224273682,
+        3.725398346432485e-05
+      ],
+      [
+        9.310544555773959e-05,
+        0.9998173117637634,
+        8.966253517428413e-05
+      ]
+    ],
+    [
+      [
+        1.9349381545907818e-05,
+        0.9998644590377808,
+        0.00011612962407525629
+      ],
+      [
+        9.338384552393109e-05,
+        0.9991956353187561,
+        0.0007109464495442808
+      ]
+    ],
+    [
+      [
+        1.0626096809573937e-05,
+        0.9999594688415527,
+        2.995769500557799e-05
+      ],
+      [
+        0.0002041977713815868,
+        0.9988974332809448,
+        0.0008983190055005252
+      ]
+    ],
+    [
+      [
+        1.294646062888205e-05,
+        0.9998399019241333,
+        0.00014716987789142877
+      ],
+      [
+        0.0018211528658866882,
+        0.052948977798223495,
+        0.9452298879623413
+      ]
+    ],
+    [
+      [
+        5.405361298471689e-05,
+        0.9998995065689087,
+        4.647281821235083e-05
+      ],
+      [
+        7.488686969736591e-05,
+        0.999840497970581,
+        8.454734779661521e-05
+      ]
+    ],
+    [
+      [
+        2.5388104404555634e-05,
+        0.9998477697372437,
+        0.00012680355575866997
+      ],
+      [
+        7.551314047304913e-05,
+        0.9993950128555298,
+        0.000529520504642278
+      ]
+    ],
+    [
+      [
+        1.110855009756051e-05,
+        0.9999556541442871,
+        3.3226147934328765e-05
+      ],
+      [
+        0.0002007994771702215,
+        0.9988399147987366,
+        0.0009593155700713396
+      ]
+    ],
+    [
+      [
+        2.2347829144564457e-05,
+        0.9997642636299133,
+        0.00021338574879337102
+      ],
+      [
+        0.0005870002787560225,
+        0.9497513771057129,
+        0.04966157302260399
+      ]
+    ],
+    [
+      [
+        2.540223613323178e-05,
+        0.9999455213546753,
+        2.9117560188751668e-05
+      ],
+      [
+        0.00012983998749405146,
+        0.9997333884239197,
+        0.00013670467888005078
+      ]
+    ],
+    [
+      [
+        1.8662542061065324e-05,
+        0.9998437166213989,
+        0.00013762596063315868
+      ],
+      [
+        0.00011886286665685475,
+        0.9987194538116455,
+        0.0011616706615313888
+      ]
+    ],
+    [
+      [
+        1.1291168448224198e-05,
+        0.9999536275863647,
+        3.509581438265741e-05
+      ],
+      [
+        0.0001747761998558417,
+        0.9989057779312134,
+        0.0009194705635309219
+      ]
+    ],
+    [
+      [
+        1.5575968063785695e-05,
+        0.9998254179954529,
+        0.00015899413847364485
+      ],
+      [
+        0.0017744132783263922,
+        0.04296198487281799,
+        0.9552635550498962
+      ]
+    ],
+    [
+      [
+        4.927533882437274e-05,
+        0.9999077320098877,
+        4.301877925172448e-05
+      ],
+      [
+        8.649802475702018e-05,
+        0.9998224377632141,
+        9.106541983783245e-05
+      ]
+    ],
+    [
+      [
+        3.1732808565720916e-05,
+        0.9997641444206238,
+        0.00020407442934811115
+      ],
+      [
+        6.187398685142398e-05,
+        0.99940025806427,
+        0.0005378104979172349
+      ]
+    ],
+    [
+      [
+        1.1032954716938548e-05,
+        0.9999545812606812,
+        3.4341814171057194e-05
+      ],
+      [
+        0.0002181145828217268,
+        0.9987062215805054,
+        0.0010756010888144374
+      ]
+    ],
+    [
+      [
+        2.764565942925401e-05,
+        0.9997000694274902,
+        0.0002723319048527628
+      ],
+      [
+        0.0006044466281309724,
+        0.9425157904624939,
+        0.05687979981303215
+      ]
+    ],
+    [
+      [
+        5.590822547674179e-05,
+        0.9998955726623535,
+        4.8563117161393166e-05
+      ],
+      [
+        7.261649443535134e-05,
+        0.9998490810394287,
+        7.827334047760814e-05
+      ]
+    ],
+    [
+      [
+        2.720610427786596e-05,
+        0.9998145699501038,
+        0.0001582456025062129
+      ],
+      [
+        7.441092748194933e-05,
+        0.9993634819984436,
+        0.0005621296004392207
+      ]
+    ],
+    [
+      [
+        1.1439284207881428e-05,
+        0.9999550580978394,
+        3.352299245307222e-05
+      ],
+      [
+        0.000196495748241432,
+        0.9989023208618164,
+        0.0009011399233713746
+      ]
+    ],
+    [
+      [
+        1.5383095160359517e-05,
+        0.9998032450675964,
+        0.00018145078502129763
+      ],
+      [
+        0.0021906893234699965,
+        0.2779224216938019,
+        0.7198869585990906
+      ]
+    ],
+    [
+      [
+        1.1551400120879407e-06,
+        0.9999966621398926,
+        2.124767661371152e-06
+      ],
+      [
+        0.16215933859348297,
+        0.8127122521400452,
+        0.02512838877737522
+      ]
+    ],
+    [
+      [
+        3.139569344057236e-06,
+        0.999968409538269,
+        2.840580782503821e-05
+      ],
+      [
+        0.014967557974159718,
+        0.4221128821372986,
+        0.562919557094574
+      ]
+    ],
+    [
+      [
+        9.244305147149134e-06,
+        0.9999592304229736,
+        3.152755743940361e-05
+      ],
+      [
+        0.00018285357509739697,
+        0.9987382292747498,
+        0.0010788979707285762
+      ]
+    ],
+    [
+      [
+        3.208770795026794e-05,
+        0.9997623562812805,
+        0.00020561774726957083
+      ],
+      [
+        0.001766202156431973,
+        0.004147459752857685,
+        0.9940863847732544
+      ]
+    ],
+    [
+      [
+        1.5881473700574134e-06,
+        0.9999961853027344,
+        2.2706567506247666e-06
+      ],
+      [
+        0.3819446563720703,
+        0.5927674770355225,
+        0.025287900120019913
+      ]
+    ],
+    [
+      [
+        3.185982222930761e-06,
+        0.9999682903289795,
+        2.8531507268780842e-05
+      ],
+      [
+        0.015239564701914787,
+        0.5146763324737549,
+        0.4700841009616852
+      ]
+    ],
+    [
+      [
+        3.939531779906247e-06,
+        0.9999768733978271,
+        1.919852729770355e-05
+      ],
+      [
+        0.0006633345037698746,
+        0.9935203194618225,
+        0.005816347431391478
+      ]
+    ],
+    [
+      [
+        3.3033244108082727e-05,
+        0.9997509121894836,
+        0.00021611036208923906
+      ],
+      [
+        0.0015537828439846635,
+        0.003792303381487727,
+        0.9946539402008057
+      ]
+    ],
+    [
+      [
+        6.199130439199507e-05,
+        0.999889612197876,
+        4.8405156121589243e-05
+      ],
+      [
+        8.23574373498559e-05,
+        0.9998397827148438,
+        7.781681779306382e-05
+      ]
+    ],
+    [
+      [
+        3.052216561627574e-05,
+        0.9998065829277039,
+        0.00016294587112497538
+      ],
+      [
+        6.772553024347872e-05,
+        0.9993925094604492,
+        0.0005397220957092941
+      ]
+    ],
+    [
+      [
+        1.113146572606638e-05,
+        0.9999536275863647,
+        3.5189787013223395e-05
+      ],
+      [
+        0.00022579380311071873,
+        0.9986104965209961,
+        0.0011637205025181174
+      ]
+    ],
+    [
+      [
+        4.146922947256826e-05,
+        0.9995673298835754,
+        0.0003912027459591627
+      ],
+      [
+        0.0005342265358194709,
+        0.949263870716095,
+        0.05020188167691231
+      ]
+    ],
+    [
+      [
+        9.930338819685858e-06,
+        0.999977707862854,
+        1.2331523066677619e-05
+      ],
+      [
+        0.0006316561484709382,
+        0.9990050196647644,
+        0.0003634044260252267
+      ]
+    ],
+    [
+      [
+        8.296698979393113e-06,
+        0.9999159574508667,
+        7.569415174657479e-05
+      ],
+      [
+        0.0005090973572805524,
+        0.9927719235420227,
+        0.006719022989273071
+      ]
+    ],
+    [
+      [
+        1.1107853424618952e-05,
+        0.9999557733535767,
+        3.316938818898052e-05
+      ],
+      [
+        0.00017967716848943383,
+        0.9989302754402161,
+        0.0008900409447960556
+      ]
+    ],
+    [
+      [
+        2.0591915017575957e-05,
+        0.9998103976249695,
+        0.00016899795446079224
+      ],
+      [
+        0.0014886459102854133,
+        0.009099203161895275,
+        0.989412248134613
+      ]
+    ]
+  ],
+  "predictions": [
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ]
+  ],
+  "scope": "diagnostic interventions, original gold is not a valid unchanged task label after information removal"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "b9a3270b0a8d4088",
+  "source": {
+    "id": "b9a3270b0a8d4088",
+    "url": "https://hrd.jeonbuk.go.kr/board/view.training?boardId=BBS_0000016&menuCd=DOM_000000103001000000&startPage=4&dataSid=13441",
+    "source_scope": "government_board",
+    "captured_at": "2026-09-28T23:08:44.756014+00:00",
+    "rights_status": "unverified_third_party_content",
+    "human_reviewed": false,
+    "raw_file": "raw/b9a3270b0a8d4088.html",
+    "byte_file": "raw/b9a3270b0a8d4088.bin",
+    "response_sha256": "cb5ba0a4e35a160c014f6718b7b68bfc470526b566f697a716f4daa6294165cb",
+    "decoded_sha256": "cb5ba0a4e35a160c014f6718b7b68bfc470526b566f697a716f4daa6294165cb",
+    "encoding": "utf-8",
+    "status": "captured",
+    "page_title": "홈 > 소통마당 > 자유게시판 |상세보기"
+  },
+  "title": "답변드립니다.",
+  "raw_text": "전북특별자치도 도정에 관심 가져주심에 감사드립니다.\n전북특별자치도는 공무직근로자의 중앙부처, 시도 및 시군구와 인사교류를 시행하지 않고 있습니다.\n채용 등 기타 자세한 사항은 전북특별자치도청 총무과 공무원노사팀(063-280-2250)으로 문의하여 주시기 바랍니다.\n감사합니다.",
+  "body_xpath": "/html/body/div/div[3]/div/div[2]/div[2]/div[3]/div",
+  "title_xpath": "/html/body/div/div[3]/div/div[2]/div[2]/div[3]/dl[1]",
+  "source_kind": "real_web_post",
+  "extraction": "static_HTML_lxml_itertext",
+  "comments_status": "not_extracted_or_labeled",
+  "technique_observed": null,
+  "body_sha256": "4e5d454b5296800706da186bbffdcdbc65db29941e18eff82650e6180f85846b",
+  "label": null,
+  "human_reviewed": false,
+  "outgoing_links": [],
+  "notes": "No CSS technique claim from static text; listed neighbours are excluded from owned context."
+}

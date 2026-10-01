@@ -1,0 +1,252 @@
+{
+  "old-dev": {
+    "old_uts_tp_lost": 32,
+    "old_uts_tp_recovered": 0,
+    "old_uts_h": {
+      "confusion": [
+        [
+          48,
+          0,
+          0
+        ],
+        [
+          0,
+          24,
+          0
+        ],
+        [
+          0,
+          0,
+          24
+        ]
+      ],
+      "macro_f1": 1.0,
+      "strict_f1": 1.0,
+      "normal_false": 0,
+      "uncertain_false": 0
+    },
+    "selected_h": {
+      "confusion": [
+        [
+          16,
+          32,
+          0
+        ],
+        [
+          3,
+          21,
+          0
+        ],
+        [
+          0,
+          20,
+          4
+        ]
+      ],
+      "macro_f1": 0.3987719722448142,
+      "strict_f1": 0.47761194029850745,
+      "normal_false": 3,
+      "uncertain_false": 0
+    }
+  },
+  "old-final": {
+    "old_uts_tp_lost": 19,
+    "old_uts_tp_recovered": 7,
+    "old_uts_h": {
+      "confusion": [
+        [
+          36,
+          0,
+          12
+        ],
+        [
+          0,
+          24,
+          0
+        ],
+        [
+          0,
+          0,
+          24
+        ]
+      ],
+      "macro_f1": 0.8857142857142857,
+      "strict_f1": 0.8571428571428571,
+      "normal_false": 0,
+      "uncertain_false": 0
+    },
+    "selected_h": {
+      "confusion": [
+        [
+          24,
+          24,
+          0
+        ],
+        [
+          3,
+          21,
+          0
+        ],
+        [
+          0,
+          22,
+          2
+        ]
+      ],
+      "macro_f1": 0.4184615384615385,
+      "strict_f1": 0.64,
+      "normal_false": 3,
+      "uncertain_false": 0
+    }
+  },
+  "historical-dev": {
+    "old_uts_tp_lost": 14,
+    "old_uts_tp_recovered": 0,
+    "old_uts_h": {
+      "confusion": [
+        [
+          24,
+          0,
+          0
+        ],
+        [
+          0,
+          12,
+          8
+        ],
+        [
+          0,
+          0,
+          12
+        ]
+      ],
+      "macro_f1": 0.8333333333333334,
+      "strict_f1": 1.0,
+      "normal_false": 0,
+      "uncertain_false": 0
+    },
+    "selected_h": {
+      "confusion": [
+        [
+          10,
+          14,
+          0
+        ],
+        [
+          1,
+          15,
+          4
+        ],
+        [
+          1,
+          8,
+          3
+        ]
+      ],
+      "macro_f1": 0.46588693957115007,
+      "strict_f1": 0.5555555555555556,
+      "normal_false": 1,
+      "uncertain_false": 1
+    }
+  },
+  "historical-evaluation": {
+    "old_uts_tp_lost": 16,
+    "old_uts_tp_recovered": 0,
+    "old_uts_h": {
+      "confusion": [
+        [
+          24,
+          0,
+          0
+        ],
+        [
+          0,
+          13,
+          7
+        ],
+        [
+          0,
+          0,
+          12
+        ]
+      ],
+      "macro_f1": 0.8540241120886282,
+      "strict_f1": 1.0,
+      "normal_false": 0,
+      "uncertain_false": 0
+    },
+    "selected_h": {
+      "confusion": [
+        [
+          8,
+          16,
+          0
+        ],
+        [
+          2,
+          16,
+          2
+        ],
+        [
+          2,
+          10,
+          0
+        ]
+      ],
+      "macro_f1": 0.3201911589008363,
+      "strict_f1": 0.4444444444444444,
+      "normal_false": 2,
+      "uncertain_false": 2
+    }
+  },
+  "hangul": {
+    "old_uts_tp_lost": 5,
+    "old_uts_tp_recovered": 0,
+    "old_uts_h": {
+      "confusion": [
+        [
+          16,
+          0,
+          0
+        ],
+        [
+          11,
+          7,
+          6
+        ],
+        [
+          1,
+          0,
+          7
+        ]
+      ],
+      "macro_f1": 0.6151840990550668,
+      "strict_f1": 0.7272727272727273,
+      "normal_false": 11,
+      "uncertain_false": 1
+    },
+    "selected_h": {
+      "confusion": [
+        [
+          11,
+          5,
+          0
+        ],
+        [
+          6,
+          18,
+          0
+        ],
+        [
+          3,
+          5,
+          0
+        ]
+      ],
+      "macro_f1": 0.4344729344729345,
+      "strict_f1": 0.6111111111111112,
+      "normal_false": 6,
+      "uncertain_false": 3
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "verifiedAt": "2026-09-21T17:52:34.764Z",
+  "dataset_sha256": "0aced96f99d46c2a69742d9e35efbb184a921639b49b2aed720e25a51549946a",
+  "topPages": 101,
+  "subpages": 100,
+  "frameDocuments": 16,
+  "verifiedCases": 300,
+  "counts": {
+    "cases": 300,
+    "positive_elements": 120,
+    "negative_elements": 180,
+    "findings": 160,
+    "per_technique": {
+      "HOMOGLYPH": 40,
+      "JAMO": 40,
+      "TRANSPARENT": 40,
+      "OFFSCREEN": 40
+    }
+  },
+  "surfaces": {
+    "title": 40,
+    "body": 80,
+    "comment": 60,
+    "reply": 40,
+    "author": 20,
+    "signature": 20,
+    "link": 20,
+    "attachment": 20
+  },
+  "transports": {
+    "static": 264,
+    "dynamic": 24,
+    "iframe": 12
+  },
+  "scorerChecks": [
+    "perfect-160",
+    "empty",
+    "equivalent-selector",
+    "duplicate",
+    "normal-false-positive",
+    "wrong-url",
+    "invalid-technique"
+  ],
+  "browser": "153.0.4234.48",
+  "note": "Fixture/scorer checks only; no LLM calls or accuracy measurement."
+}

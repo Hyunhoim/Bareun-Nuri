@@ -1,0 +1,31 @@
+{
+  "id": "299805bb40efa274",
+  "source": {
+    "id": "299805bb40efa274",
+    "url": "https://babychu.co.kr/board/product/read.html?no=56&board_no=8",
+    "source_scope": "private_board",
+    "captured_at": "2026-09-28T23:02:17.853750+00:00",
+    "rights_status": "unverified_third_party_content",
+    "human_reviewed": false,
+    "raw_file": "raw/299805bb40efa274.html",
+    "byte_file": "raw/299805bb40efa274.bin",
+    "response_sha256": "cb721b838eb263a688b9ebba0a8f5606e49bfa3dc32b47f3de31639c3db586bd",
+    "decoded_sha256": "cb721b838eb263a688b9ebba0a8f5606e49bfa3dc32b47f3de31639c3db586bd",
+    "encoding": "utf-8",
+    "status": "captured",
+    "page_title": "신생아/유아용품 대표 쇼핑몰, BabyChu~"
+  },
+  "title": "불량이요",
+  "raw_text": "아기 배밀리 쿠션이 박음질 불량이에요.\n교환 부탁드려요",
+  "body_xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/form/div/div[1]/table/tbody/tr[4]/td/div",
+  "title_xpath": "/html/body/div[2]/div[1]/div[2]/div[1]/div[1]/form/div/div[1]/table/tbody/tr[1]/td",
+  "source_kind": "real_web_post",
+  "extraction": "static_HTML_lxml_itertext",
+  "comments_status": "not_extracted_or_labeled",
+  "technique_observed": null,
+  "body_sha256": "b76b28a93d9dbb4ee17d7766cf2dd04077fe77fd063bb0fa806203ad3516eef4",
+  "label": null,
+  "human_reviewed": false,
+  "outgoing_links": [],
+  "notes": "No CSS technique claim from static text; listed neighbours are excluded from owned context."
+}

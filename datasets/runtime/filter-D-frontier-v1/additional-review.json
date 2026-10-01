@@ -1,0 +1,1122 @@
+[
+  {
+    "review_id": "R001",
+    "input": {
+      "target": "简体中文",
+      "context": "Home : 주민참여예산\n앞 문맥: English\n앞 문맥: 日本語\n뒤 문맥: 繁體中文"
+    },
+    "locations": [
+      {
+        "id": "6f2bda2a1fae70dc138fb9e8",
+        "url": "http://127.0.0.1:19160/yesan/index",
+        "selector": "html > body > header > div:nth-of-type(1) > div > div > div > div:nth-of-type(2) > select > option:nth-of-type(3)"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R002",
+    "input": {
+      "target": "2. 부산시는 서비스에 게시된 내용을 사전 통지한 날로부터 3일 경과 후 편집, 이동할 수 있는 권리를 보유합니다.",
+      "context": "로그인 : 부산광역시"
+    },
+    "locations": [
+      {
+        "id": "97e5df24b42e5cac4cb22164",
+        "url": "http://127.0.0.1:19160/member/login?referUrl=https://www.busan.go.kr/siminopen/index",
+        "selector": "html > body > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > ul:nth-of-type(4) > li:nth-of-type(2)"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R003",
+    "input": {
+      "target": "2. 부산시는 필요하다고 인정되는 경우 이 약관의 내용을 변경할 수 있습니다. 변경된 약관은 서비스 화면에 공지하며, 공지 후 7일 이내에 거부의사를 표시하지 아니하고 서비스를 계속 사용할 경우 약관의 변경 사항에 동의한 것으로 간주합니다.",
+      "context": "로그인 : 부산광역시"
+    },
+    "locations": [
+      {
+        "id": "134ea0aad077a1cbaee39aef",
+        "url": "http://127.0.0.1:19160/member/login?referUrl=https://www.busan.go.kr/siminopen/index",
+        "selector": "html > body > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > ul > li:nth-of-type(2)"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R004",
+    "input": {
+      "target": "BDI 현안연구과제 보고서",
+      "context": "로그인 : 부산광역시"
+    },
+    "locations": [
+      {
+        "id": "f10851dafe8b501b09c92fb9",
+        "url": "http://127.0.0.1:19160/member/login?referUrl=https://www.busan.go.kr/siminopen/index",
+        "selector": "html > body > header > div:nth-of-type(1) > div > div:nth-of-type(6) > div > div > ul > li:nth-of-type(3) > ul > li:nth-of-type(2) > ul > li:nth-of-type(8) > ul > li:nth-of-type(2) > a"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R005",
+    "input": {
+      "target": "부산 지역사 도서관",
+      "context": "로그인 : 부산광역시"
+    },
+    "locations": [
+      {
+        "id": "14bc9eeec03a55e6c6d006f3",
+        "url": "http://127.0.0.1:19160/member/login?referUrl=https://www.busan.go.kr/siminopen/index",
+        "selector": "html > body > header > div:nth-of-type(1) > div > div:nth-of-type(6) > div > div > ul > li:nth-of-type(4) > ul > li:nth-of-type(5) > ul > li:nth-of-type(8) > a"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R006",
+    "input": {
+      "target": "부산광역시의회",
+      "context": "로그인 : 부산광역시"
+    },
+    "locations": [
+      {
+        "id": "ce451d1089bd49c09f91938f",
+        "url": "http://127.0.0.1:19160/member/login?referUrl=https://www.busan.go.kr/siminopen/index",
+        "selector": "html > body > footer > div:nth-of-type(2) > div > div > div:nth-of-type(2) > ul > li > ul > li:nth-of-type(3) > a"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R007",
+    "input": {
+      "target": "부패공직자 제재현황",
+      "context": "로그인 : 부산광역시"
+    },
+    "locations": [
+      {
+        "id": "c7f3ec1742814e10f41745d4",
+        "url": "http://127.0.0.1:19160/member/login?referUrl=https://www.busan.go.kr/siminopen/index",
+        "selector": "html > body > header > div:nth-of-type(1) > div > div:nth-of-type(6) > div > div > ul > li:nth-of-type(3) > ul > li:nth-of-type(5) > ul > li:nth-of-type(9) > a"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R008",
+    "input": {
+      "target": "시민고충처리위원회 운영",
+      "context": "로그인 : 부산광역시"
+    },
+    "locations": [
+      {
+        "id": "16774b36bb7ff2547ae8918f",
+        "url": "http://127.0.0.1:19160/member/login?referUrl=https://www.busan.go.kr/siminopen/index",
+        "selector": "html > body > header > div:nth-of-type(1) > div > div:nth-of-type(6) > div > div > ul > li:nth-of-type(3) > ul > li:nth-of-type(5) > ul > li:nth-of-type(15) > ul > li:nth-of-type(2) > a"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R009",
+    "input": {
+      "target": "시정사진",
+      "context": "로그인 : 부산광역시"
+    },
+    "locations": [
+      {
+        "id": "e75647b80030c509d8d5685b",
+        "url": "http://127.0.0.1:19160/member/login?referUrl=https://www.busan.go.kr/siminopen/index",
+        "selector": "html > body > header > div:nth-of-type(1) > div > div:nth-of-type(3) > ul > li:nth-of-type(2) > ul > li:nth-of-type(7) > a > span"
+      },
+      {
+        "id": "312c162d7a4116ab991a6239",
+        "url": "http://127.0.0.1:19160/member/login?referUrl=https://www.busan.go.kr/siminopen/index",
+        "selector": "html > body > header > div:nth-of-type(1) > div > div:nth-of-type(6) > div > div > ul > li:nth-of-type(2) > ul > li:nth-of-type(7) > a > span"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R010",
+    "input": {
+      "target": "자치경찰위원회",
+      "context": "로그인 : 부산광역시"
+    },
+    "locations": [
+      {
+        "id": "68c9711152cc4617d4b03b9d",
+        "url": "http://127.0.0.1:19160/member/login?referUrl=https://www.busan.go.kr/siminopen/index",
+        "selector": "html > body > footer > div:nth-of-type(2) > div > div > div:nth-of-type(2) > ul > li > ul > li:nth-of-type(7) > a"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R011",
+    "input": {
+      "target": "회원의 ID, PASSWORD 분실 등으로 인해 발생한 손해는 부산시가 책임을 지지 않습니다.",
+      "context": "로그인 : 부산광역시"
+    },
+    "locations": [
+      {
+        "id": "4eb9e4a3867e6361695914d3",
+        "url": "http://127.0.0.1:19160/member/login?referUrl=https://www.busan.go.kr/siminopen/index",
+        "selector": "html > body > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(2) > ul > li:nth-of-type(1)"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R012",
+    "input": {
+      "target": "최초 1회 휴대폰(본인명의)인증 시 로그인 완료됩니다.",
+      "context": "로그인 : 부산광역시\n뒤 문맥: 도움말"
+    },
+    "locations": [
+      {
+        "id": "cc2086fa2b4c166c9226fa25",
+        "url": "http://127.0.0.1:19160/member/login?referUrl=https://www.busan.go.kr/siminopen/index",
+        "selector": "html > body > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(3) > div > div:nth-of-type(1) > p:nth-of-type(1) > span"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R013",
+    "input": {
+      "target": "본청",
+      "context": "로그인 : 부산광역시\n뒤 문맥: 실국본부 설치 수"
+    },
+    "locations": [
+      {
+        "id": "3a26581d9c5011056f270c49",
+        "url": "http://127.0.0.1:19160/member/login?referUrl=https://www.busan.go.kr/siminopen/index",
+        "selector": "html > body > header > div:nth-of-type(1) > div > div:nth-of-type(6) > div > div > ul > li:nth-of-type(3) > ul > li:nth-of-type(2) > ul > li:nth-of-type(11) > ul > li:nth-of-type(3) > a"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R014",
+    "input": {
+      "target": "부산광역시 BUSAN METROPOLITAN CITY",
+      "context": "로그인 : 부산광역시\n뒤 문맥: 통합검색\n뒤 문맥: 사이트맵"
+    },
+    "locations": [
+      {
+        "id": "8dde0c193ff624bbc90be3ad",
+        "url": "http://127.0.0.1:19160/member/login?referUrl=https://www.busan.go.kr/siminopen/index",
+        "selector": "html > body > header > div:nth-of-type(1) > div > div:nth-of-type(1) > h1 > a > span"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R015",
+    "input": {
+      "target": "\n\t\t\n\t\t\t\n\t\t\t\t프린트\n\t\t\t\t북마크\n\t\t\t\t\n\t\t\t\t\tSNS 공유하기\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t네이버밴드\n\t\t\t\t\t\t\t카카오스토리\n\t\t\t\t\t\t\t트위터\n\t\t\t\t\t\t\t페이스북\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t현재 본문 위치 :\n\t\t홈 >\n\t\t시민생각 > 시민생각",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?"
+    },
+    "locations": [
+      {
+        "id": "b4549cdd1dfab0048b826923",
+        "url": "https://www.busan.go.kr/siminopen/siminthink01/1720012?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=",
+        "selector": "html > body > div:nth-of-type(2) > div:nth-of-type(1) > div"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R016",
+    "input": {
+      "target": "행정서비스헌장",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?"
+    },
+    "locations": [
+      {
+        "id": "240b49e51da0aed4c8297a49",
+        "url": "https://www.busan.go.kr/siminopen/siminthink01/1720012?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=",
+        "selector": "html > body > footer > div:nth-of-type(1) > ul > li:nth-of-type(4)"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R017",
+    "input": {
+      "target": "시민생각",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n뒤 문맥: 하위메뉴 닫기"
+    },
+    "locations": [
+      {
+        "id": "619662039f61f2f95fc59f98",
+        "url": "https://www.busan.go.kr/siminopen/siminthink01/1720012?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=",
+        "selector": "html > body > header > div:nth-of-type(2) > nav > div:nth-of-type(2) > ul > li:nth-of-type(1) > a > strong"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R018",
+    "input": {
+      "target": "자료실",
+      "context": "시민생각 - 2026 부산문화글판 봄편 문안 선정작?\n앞 문맥: 시민생각"
+    },
+    "locations": [
+      {
+        "id": "097ffcb63ea5aa392f8701d7",
+        "url": "https://www.busan.go.kr/siminopen/siminthink01/1720012?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=",
+        "selector": "html > body > header > div:nth-of-type(2) > nav > div:nth-of-type(2) > ul > li:nth-of-type(1) > div > ul > li:nth-of-type(2) > a > strong"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R019",
+    "input": {
+      "target": "English",
+      "context": "시민생각 - 고립·은둔 청년 동료지원가 일자리 확대사업\n뒤 문맥: 日本語\n뒤 문맥: 简体中文\n뒤 문맥: 繁體中文"
+    },
+    "locations": [
+      {
+        "id": "5bc8abe70f88298fad817ce9",
+        "url": "https://www.busan.go.kr/siminopen/siminthink01/1724431?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=",
+        "selector": "html > body > header > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(1) > select > option:nth-of-type(1)"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R020",
+    "input": {
+      "target": "繁體中文",
+      "context": "시민생각 - 고립·은둔 청년 동료지원가 일자리 확대사업\n앞 문맥: English\n앞 문맥: 日本語\n앞 문맥: 简体中文"
+    },
+    "locations": [
+      {
+        "id": "7edae7c0c6965bbf9c6866d6",
+        "url": "https://www.busan.go.kr/siminopen/siminthink01/1724431?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=",
+        "selector": "html > body > header > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(1) > select > option:nth-of-type(4)"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R021",
+    "input": {
+      "target": "현재 본문 위치 :",
+      "context": "시민생각 - 고립·은둔 청년 동료지원가 일자리 확대사업\n앞 문맥: 프린트\n앞 문맥: 북마크\n뒤 문맥: 홈\n뒤 문맥: 시민생각"
+    },
+    "locations": [
+      {
+        "id": "9f646df0beeee9007bc5e934",
+        "url": "https://www.busan.go.kr/siminopen/siminthink01/1724431?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=",
+        "selector": "html > body > div:nth-of-type(2) > div:nth-of-type(1) > div > span:nth-of-type(1)"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R022",
+    "input": {
+      "target": "분류",
+      "context": "시민생각 - 교육 자원의 불평등과 지역 간 교육격차 해소를 위한 정책 제안\n뒤 문맥: \n\t\t\t\t\t\t\t복지(건강)"
+    },
+    "locations": [
+      {
+        "id": "fcf8d383c4d4a54984c2ffaf",
+        "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753825?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+        "selector": "html > body > div:nth-of-type(2) > main > div > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > span"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R023",
+    "input": {
+      "target": "\n\t\t\t\t\t\t2026-09-10",
+      "context": "시민생각 - 교육 자원의 불평등과 지역 간 교육격차 해소를 위한 정책 제안\n앞 문맥: 작성일"
+    },
+    "locations": [
+      {
+        "id": "1388a6777a3e76fe79e37949",
+        "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753825?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+        "selector": "html > body > div:nth-of-type(2) > main > div > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2)"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R024",
+    "input": {
+      "target": "행정서비스헌장",
+      "context": "시민생각 - 부산 15분 도시의 장애인 이동 접근성 불평등과 배리어 프리 도시를 위한 정책 제안"
+    },
+    "locations": [
+      {
+        "id": "27e3ac421342f41ff51635c2",
+        "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753833?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+        "selector": "html > body > footer > div:nth-of-type(1) > ul > li:nth-of-type(4)"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R025",
+    "input": {
+      "target": "简体中文",
+      "context": "시민생각 - 부산 15분 도시의 장애인 이동 접근성 불평등과 배리어 프리 도시를 위한 정책 제안\n앞 문맥: English\n앞 문맥: 日本語\n뒤 문맥: 繁體中文"
+    },
+    "locations": [
+      {
+        "id": "6ce95f698ff091faacb61fce",
+        "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753833?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+        "selector": "html > body > header > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(1) > select > option:nth-of-type(3)"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R026",
+    "input": {
+      "target": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t되돌아가기\n\t\t\t\t전체목록\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "context": "시민생각 - 부산 관광 숙박업의 비가시적 해양오염원 관리 방안 연구 – 세탁 폐수 미세 섬유 저감 정책 제안\n앞 문맥: \n\t\t\t\t부산 관광 숙박업의 비가시적 해양오염원 관리 방안 연구 – 세탁 폐수 미세 섬유 저감 정책 제안진행중\n\t\t\t\t\t\t\t\n앞 문맥: 진행중"
+    },
+    "locations": [
+      {
+        "id": "cf47cd1914e9598123e59b78",
+        "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753830?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+        "selector": "html > body > div:nth-of-type(2) > main > div > div:nth-of-type(1) > div:nth-of-type(6)"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R027",
+    "input": {
+      "target": "\n\t\t\t\t\t\t2026-09-16 ~\n\t\t\t\t\t\t\t2026-10-16",
+      "context": "시민생각 - 부산 관광 숙박업의 비가시적 해양오염원 관리 방안 연구 – 세탁 폐수 미세 섬유 저감 정책 제안\n앞 문맥: 참여기간"
+    },
+    "locations": [
+      {
+        "id": "a8bad390cca70450c89cedcd",
+        "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753830?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+        "selector": "html > body > div:nth-of-type(2) > main > div > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2)"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R028",
+    "input": {
+      "target": "\n\t\t\t\t\t\t\t2026-09-16 ~\n\t\t\t\t\t\t\t\t2026-10-16",
+      "context": "시민생각 - 부산 관광 숙박업의 비가시적 해양오염원 관리 방안 연구 – 세탁 폐수 미세 섬유 저감 정책 제안\n앞 문맥: 참여기간"
+    },
+    "locations": [
+      {
+        "id": "8b704b796c0d1ba4da4aca8f",
+        "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753830?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+        "selector": "html > body > div:nth-of-type(2) > main > div > div:nth-of-type(1) > div:nth-of-type(5) > p > span:nth-of-type(2)"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R029",
+    "input": {
+      "target": "자료분류 B2C-018은 행정 문서 색인입니다.",
+      "context": "시민생각 - 부산시 플랫폼 노동자 근로환경 개선을 위한 정책제안"
+    },
+    "locations": [
+      {
+        "id": "df7a73c213ac00db0cab75b2",
+        "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753993?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+        "selector": "p#r96cb02ffb05be8be28"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R030",
+    "input": {
+      "target": "(우 47545) 부산광역시 연제구 중앙대로 1001(연산동)",
+      "context": "시민생각 - 부산시 플랫폼 노동자 근로환경 개선을 위한 정책제안\n뒤 문맥: ☎(051)120 (평일 08:30-18:30, ※야간/공휴일 등 근무시간외는 당직실 전환)\n뒤 문맥: Copyright © Busan Metropolitan City. All rights reserved."
+    },
+    "locations": [
+      {
+        "id": "2e06d78cb5d57e42ce0db7fe",
+        "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753993?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+        "selector": "html > body > footer > div:nth-of-type(2) > address > span:nth-of-type(1)"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R031",
+    "input": {
+      "target": "English",
+      "context": "시민생각 - 부산시 플랫폼 노동자 근로환경 개선을 위한 정책제안\n뒤 문맥: 日本語\n뒤 문맥: 简体中文\n뒤 문맥: 繁體中文"
+    },
+    "locations": [
+      {
+        "id": "d579b140a1137415abd966a8",
+        "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753993?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+        "selector": "html > body > header > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(1) > select > option:nth-of-type(1)"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R032",
+    "input": {
+      "target": "\n\t\t\t\t\t\t2026-09-11",
+      "context": "시민생각 - 부산시 플랫폼 노동자 근로환경 개선을 위한 정책제안\n앞 문맥: 작성일"
+    },
+    "locations": [
+      {
+        "id": "644a5e0a4be222b1f0d316e7",
+        "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753993?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+        "selector": "html > body > div:nth-of-type(2) > main > div > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2)"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R033",
+    "input": {
+      "target": "\n\t\t\t\t\t\t\t148",
+      "context": "시민생각 - 부산의 응급의료 공간적 불평등 해소를 위한 골든타임 확보 정책 제안\n앞 문맥: 번호"
+    },
+    "locations": [
+      {
+        "id": "4bb42ed52c12d40987203b36",
+        "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753990?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+        "selector": "html > body > div:nth-of-type(2) > main > div > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > div:nth-of-type(2)"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R034",
+    "input": {
+      "target": "현재 본문 위치 :",
+      "context": "시민생각 - 부산의 응급의료 공간적 불평등 해소를 위한 골든타임 확보 정책 제안\n앞 문맥: 프린트\n앞 문맥: 북마크\n뒤 문맥: 홈\n뒤 문맥: 시민생각"
+    },
+    "locations": [
+      {
+        "id": "ea98b93ac2187aaf961c2acb",
+        "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753990?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+        "selector": "html > body > div:nth-of-type(2) > div:nth-of-type(1) > div > span:nth-of-type(1)"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R035",
+    "input": {
+      "target": "\n\t\t\n\t\t\t\n\t\t\t\t프린트\n\t\t\t\t북마크\n\t\t\t\t\n\t\t\t\t\tSNS 공유하기\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t네이버밴드\n\t\t\t\t\t\t\t카카오스토리\n\t\t\t\t\t\t\t트위터\n\t\t\t\t\t\t\t페이스북\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t현재 본문 위치 :\n\t\t홈 >\n\t\t시민생각 > 시민생각",
+      "context": "시민생각 - 북항돔구장 재원 기부로 모으는건 안될까요"
+    },
+    "locations": [
+      {
+        "id": "8a373507650869387bc988b7",
+        "url": "https://www.busan.go.kr/siminopen/siminthink01/1727166?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=",
+        "selector": "html > body > div:nth-of-type(2) > div:nth-of-type(1) > div"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R036",
+    "input": {
+      "target": "개인정보 처리방침",
+      "context": "시민생각 - 청년 빌리지 & 부산 중소기업 일자리 창출 인센티브 사업 제안"
+    },
+    "locations": [
+      {
+        "id": "5cb376b0ad555dedebc77c61",
+        "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753994?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+        "selector": "html > body > footer > div:nth-of-type(1) > ul > li:nth-of-type(3)"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R037",
+    "input": {
+      "target": "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t되돌아가기\n\t\t\t\t전체목록\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "context": "시민생각 - 청년 빌리지 & 부산 중소기업 일자리 창출 인센티브 사업 제안\n앞 문맥: \n\t\t\t\t청년 빌리지 & 부산 중소기업 일자리 창출 인센티브 사업 제안진행중\n\t\t\t\t\t\t\tCASINO ㅅ ㅏ ㅅ ㅓ ㄹ  ㅎ ㅕ ㄴ ㄱ ㅡ ㅁ  ㄹ ㅜ ㄹ ㄹ ㅔ ㅅ  ㅊ ㅏ ㅁ ㄱ ㅏ  ㅎ ㅚ ㅇ ㅝ ㄴ  ㄷ ㅡ ㅇ ㄹ ㅗ ㄱ ㄱ ㅘ  ㅍ ㅏ ㄴ ㄷ ㅗ ㄴ  ㅊ ㅜ ㅇ ㅈ ㅓ ㄴ  ㅈ ㅓ ㅂ ㅅ ㅜ "
+    },
+    "locations": [
+      {
+        "id": "f9b7fe22f53269dd373d6c9f",
+        "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753994?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+        "selector": "html > body > div:nth-of-type(2) > main > div > div:nth-of-type(1) > div:nth-of-type(6)"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R038",
+    "input": {
+      "target": "시민생각",
+      "context": "시민생각\n앞 문맥: \n\t\t\n\t\t\t\n\t\t\t\t프린트\n\t\t\t\t북마크\n\t\t\t\t\n\t\t\t\t\tSNS 공유하기\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t네이버밴드\n\t\t\t\t\t\t\t카카오스토리\n\t\t\t\t\t\t\t트위터\n\t\t\t\t\t\t\t페이스북\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t현재 본문 위치 :\n\t\t홈 >\n\t\t시민생각 > 시민생각"
+    },
+    "locations": [
+      {
+        "id": "8884a91a2332344d755245a8",
+        "url": "http://127.0.0.1:19160/siminopen/siminthink01",
+        "selector": "html > body > div:nth-of-type(2) > h3"
+      },
+      {
+        "id": "1674a8181899b7915ce71c09",
+        "url": "http://127.0.0.1:19160/siminopen/siminthink01?curPage=1",
+        "selector": "html > body > div:nth-of-type(2) > h3"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R039",
+    "input": {
+      "target": "행정서비스헌장",
+      "context": "시민열린마루 소개\n앞 문맥: 약관\n앞 문맥: 저작권 보호정책\n앞 문맥: 개인정보 처리방침\n뒤 문맥: 뷰어다운로드\n뒤 문맥: 시청 찾아오시는길\n뒤 문맥: 주차안내"
+    },
+    "locations": [
+      {
+        "id": "eef49c90fc3dfd4742e81cf9",
+        "url": "http://127.0.0.1:19160/siminopen/index",
+        "selector": "html > body > footer > div:nth-of-type(1) > ul > li:nth-of-type(4) > a"
+      },
+      {
+        "id": "850884bbd03d348217d976a3",
+        "url": "http://127.0.0.1:19160/siminopen/",
+        "selector": "html > body > footer > div:nth-of-type(1) > ul > li:nth-of-type(4) > a"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R040",
+    "input": {
+      "target": "2014년 3월 이후 정보목록",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "locations": [
+      {
+        "id": "8fec4e20439c0f8f1b0f9bbf",
+        "url": "https://www.busan.go.kr/nbnews/1623079?curPage=190&srchBeginDt=2024-01-08&srchEndDt=2025-01-08&srchKey=&srchText=",
+        "selector": "html > body > header > div:nth-of-type(1) > div > div:nth-of-type(6) > div > div > ul > li:nth-of-type(3) > ul > li:nth-of-type(2) > ul > li:nth-of-type(2) > ul > li:nth-of-type(1) > ul > li:nth-of-type(1) > a"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R041",
+    "input": {
+      "target": "简体中文",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "locations": [
+      {
+        "id": "99de23ed710d381a414ede75",
+        "url": "https://www.busan.go.kr/nbnews/1623079?curPage=190&srchBeginDt=2024-01-08&srchEndDt=2025-01-08&srchKey=&srchText=",
+        "selector": "html > body > header > div:nth-of-type(1) > div > div:nth-of-type(2) > ul > li:nth-of-type(7) > ul > li:nth-of-type(3)"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R042",
+    "input": {
+      "target": "부산의 인물",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "locations": [
+      {
+        "id": "7c59f98b256c2e66fd918c5b",
+        "url": "https://www.busan.go.kr/nbnews/1623079?curPage=190&srchBeginDt=2024-01-08&srchEndDt=2025-01-08&srchKey=&srchText=",
+        "selector": "html > body > header > div:nth-of-type(1) > div > div:nth-of-type(3) > ul > li:nth-of-type(4) > ul > li:nth-of-type(4) > a > span"
+      },
+      {
+        "id": "5d378ac6ba158d72e2cf49f9",
+        "url": "https://www.busan.go.kr/nbnews/1623079?curPage=190&srchBeginDt=2024-01-08&srchEndDt=2025-01-08&srchKey=&srchText=",
+        "selector": "html > body > header > div:nth-of-type(1) > div > div:nth-of-type(6) > div > div > ul > li:nth-of-type(4) > ul > li:nth-of-type(4) > a > span"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R043",
+    "input": {
+      "target": "시민고충처리위원회",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "locations": [
+      {
+        "id": "b468b9b01e1aa6de0fa2d216",
+        "url": "https://www.busan.go.kr/nbnews/1623079?curPage=190&srchBeginDt=2024-01-08&srchEndDt=2025-01-08&srchKey=&srchText=",
+        "selector": "html > body > header > div:nth-of-type(1) > div > div:nth-of-type(6) > div > div > ul > li:nth-of-type(3) > ul > li:nth-of-type(5) > ul > li:nth-of-type(15) > a"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R044",
+    "input": {
+      "target": "시정역사",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "locations": [
+      {
+        "id": "e5abb4f77a16124becde80dc",
+        "url": "https://www.busan.go.kr/nbnews/1623079?curPage=190&srchBeginDt=2024-01-08&srchEndDt=2025-01-08&srchKey=&srchText=",
+        "selector": "html > body > header > div:nth-of-type(1) > div > div:nth-of-type(6) > div > div > ul > li:nth-of-type(4) > ul > li:nth-of-type(5) > ul > li:nth-of-type(5) > a"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R045",
+    "input": {
+      "target": "아동보호종합센터",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "locations": [
+      {
+        "id": "5ef2b9f05c80a843e9369260",
+        "url": "https://www.busan.go.kr/nbnews/1623079?curPage=190&srchBeginDt=2024-01-08&srchEndDt=2025-01-08&srchKey=&srchText=",
+        "selector": "html > body > footer > div:nth-of-type(2) > div > div > div:nth-of-type(1) > ul > li > ul > li:nth-of-type(20) > a"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R046",
+    "input": {
+      "target": "인구정책 브리핑",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "locations": [
+      {
+        "id": "6964edfabcc4e3e661eb3b05",
+        "url": "https://www.busan.go.kr/nbnews/1623079?curPage=190&srchBeginDt=2024-01-08&srchEndDt=2025-01-08&srchKey=&srchText=",
+        "selector": "html > body > header > div:nth-of-type(1) > div > div:nth-of-type(6) > div > div > ul > li:nth-of-type(3) > ul > li:nth-of-type(1) > ul > li:nth-of-type(6) > a"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R047",
+    "input": {
+      "target": "청렴게시판",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시"
+    },
+    "locations": [
+      {
+        "id": "5e8fbcd18eda49af808ee5d0",
+        "url": "https://www.busan.go.kr/nbnews/1623079?curPage=190&srchBeginDt=2024-01-08&srchEndDt=2025-01-08&srchKey=&srchText=",
+        "selector": "html > body > header > div:nth-of-type(1) > div > div:nth-of-type(6) > div > div > ul > li:nth-of-type(3) > ul > li:nth-of-type(5) > ul > li:nth-of-type(8) > a"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R048",
+    "input": {
+      "target": "이윤희",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n뒤 문맥: 2024-04-17\n뒤 문맥: 3289"
+    },
+    "locations": [
+      {
+        "id": "66d6ae7cf8b251aef12aaab1",
+        "url": "https://www.busan.go.kr/nbnews/1623079?curPage=190&srchBeginDt=2024-01-08&srchEndDt=2025-01-08&srchKey=&srchText=",
+        "selector": "html > body > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > dl > dd:nth-of-type(1)"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R049",
+    "input": {
+      "target": "트위터",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n앞 문맥: 공유하기 열기\n앞 문맥: 네이버 밴드\n앞 문맥: 카카오톡\n뒤 문맥: 페이스북"
+    },
+    "locations": [
+      {
+        "id": "1ff1cf33a3ba2d7524ae78fd",
+        "url": "https://www.busan.go.kr/nbnews/1623079?curPage=190&srchBeginDt=2024-01-08&srchEndDt=2025-01-08&srchKey=&srchText=",
+        "selector": "html > body > div:nth-of-type(2) > div:nth-of-type(1) > div > ul > li:nth-of-type(1) > div > ul > li:nth-of-type(3) > a"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R050",
+    "input": {
+      "target": "3289",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n앞 문맥: 이윤희\n앞 문맥: 2024-04-17"
+    },
+    "locations": [
+      {
+        "id": "4691d21cae693cdab258ca85",
+        "url": "https://www.busan.go.kr/nbnews/1623079?curPage=190&srchBeginDt=2024-01-08&srchEndDt=2025-01-08&srchKey=&srchText=",
+        "selector": "html > body > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > dl > dd:nth-of-type(3)"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R051",
+    "input": {
+      "target": "네이버 블로그",
+      "context": "온라인 시민참여플랫폼 「시민열린마루」 참여이벤트 : 부산소식 : 새소식 : 통합 공지사항 : 부산광역시\n앞 문맥: 인스타그램\n앞 문맥: 트위터\n앞 문맥: 페이스북\n뒤 문맥: 카카오스토리\n뒤 문맥: 유튜브채널\n뒤 문맥: 부산영어방송재단"
+    },
+    "locations": [
+      {
+        "id": "a116521adf41545ffa230323",
+        "url": "https://www.busan.go.kr/nbnews/1623079?curPage=190&srchBeginDt=2024-01-08&srchEndDt=2025-01-08&srchKey=&srchText=",
+        "selector": "html > body > footer > div:nth-of-type(3) > div > article:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(4) > span"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R052",
+    "input": {
+      "target": "日本語",
+      "context": "자료실\n앞 문맥: English\n뒤 문맥: 简体中文\n뒤 문맥: 繁體中文"
+    },
+    "locations": [
+      {
+        "id": "b25831719f92fcb6a74e5932",
+        "url": "http://127.0.0.1:19160/siminopen/siminthink02",
+        "selector": "html > body > header > div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(1) > select > option:nth-of-type(2)"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R053",
+    "input": {
+      "target": "행정감면서비스",
+      "context": "자유게시판 | 알림마당 | 부산광역시 연제구 체육시설통합예약"
+    },
+    "locations": [
+      {
+        "id": "943af3de0176f2026d2a4166",
+        "url": "https://sports.yeonje.go.kr/subpage/index/92/view/FREE/YEONJE/8613/0",
+        "selector": "html > body > div:nth-of-type(2) > div:nth-of-type(1) > div > div > ul > li:nth-of-type(5) > ul > li:nth-of-type(3) > a"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R054",
+    "input": {
+      "target": "2. 부산시는 이용자의 귀책사유로 인한 서비스이용의 장애에 대하여 책임을 지지 않습니다.",
+      "context": "회원가입(1단계 약관동의) : 부산광역시"
+    },
+    "locations": [
+      {
+        "id": "f635863758e23795be7eb244",
+        "url": "http://127.0.0.1:19160/member/register-step01",
+        "selector": "html > body > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7) > ul:nth-of-type(1) > li:nth-of-type(2)"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  },
+  {
+    "review_id": "R055",
+    "input": {
+      "target": "회원은 매 접속 종료 시 확실히 로그아웃을 하셔야 합니다.\n\t\t\t\t\t\t\t\t",
+      "context": "회원가입(1단계 약관동의) : 부산광역시"
+    },
+    "locations": [
+      {
+        "id": "8a79c5b6e8e8d10c2a0c304e",
+        "url": "http://127.0.0.1:19160/member/register-step01",
+        "selector": "html > body > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > ul:nth-of-type(1) > li:nth-of-type(2) > ul > li:nth-of-type(2)"
+      }
+    ],
+    "answer": null,
+    "allowed_answers": {
+      "NORMAL": "대상과 귀속 문맥상 광고 권유 아님",
+      "PASS": "광고 가능성 또는 근거 부족으로 HCX 전달 필요"
+    },
+    "human_reviewed": false
+  }
+]

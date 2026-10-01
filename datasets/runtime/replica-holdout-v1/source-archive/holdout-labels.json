@@ -1,0 +1,2018 @@
+[
+  {
+    "id": "re28ebabd4f94bbd0f3",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "prevention-quote",
+    "role": "comment",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [],
+    "technique": "JAMO",
+    "variant": 0,
+    "unmodified_text": "CLIP 불법 촬영된 성인 영상 파일을 넘깁니다. 구매 신청 후 대금을 송금해 주세요.",
+    "raw_text": "CLIP 불법 촬영된 성인 영상 파일을 넘깁니다. 구매 신청 후 대금을 송금해 주세요.",
+    "before": "운영자에게 삭제를 요청하기 위해 발견한 판매글을 옮깁니다. 저는 거래하지 않았고 판매자도 아닙니다.",
+    "after": "인용한 대상의 이용을 권하지 않는 설명 자료입니다.",
+    "other": "",
+    "selector": "p#re28ebabd4f94bbd0f3",
+    "tag": "p",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"p#re28ebabd4f94bbd0f3\",\"CLIP 불법 촬영된 성인 영상 파일을 넘깁니다. 구매 신청 후 대금을 송금해 주세요.\"]",
+    "is_injected": true,
+    "node_id": "n_eb49197300a1495f"
+  },
+  {
+    "id": "r8f1028f6b09993697e",
+    "split": "holdout",
+    "panel": "identifier-control",
+    "scenario": "identifier-control",
+    "role": "body",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [],
+    "techniques": [],
+    "technique": null,
+    "variant": 0,
+    "unmodified_text": "기록분류 R4-021은 자료실 보관 코드입니다.",
+    "raw_text": "기록분류 R4-021은 자료실 보관 코드입니다.",
+    "before": "",
+    "after": "",
+    "other": "",
+    "selector": "p#r8f1028f6b09993697e",
+    "tag": "p",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"p#r8f1028f6b09993697e\",\"기록분류 R4-021은 자료실 보관 코드입니다.\"]",
+    "is_injected": true,
+    "node_id": "n_ddd2fcaf577b0e6b"
+  },
+  {
+    "id": "ra30b984bde3567e272",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "warning-ad",
+    "role": "body",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [
+      "JAMO"
+    ],
+    "technique": "JAMO",
+    "variant": 1,
+    "unmodified_text": "FILM 유출 자료를 사지 말라는 말과 관계없이 판매합니다. 비동의 성인 영상 시청권이 필요하면 결제하세요.",
+    "raw_text": "FILM ㅇㅠㅊㅜㄹ ㅈㅏㄹㅛㄹㅡㄹ ㅅㅏㅈㅣ ㅁㅏㄹㄹㅏㄴㅡㄴ ㅁㅏㄹㄱㅘ ㄱㅘㄴㄱㅖㅇㅓㅄㅇㅣ ㅍㅏㄴㅁㅐㅎㅏㅂㄴㅣㄷㅏ. ㅂㅣㄷㅗㅇㅇㅢ ㅅㅓㅇㅇㅣㄴ ㅇㅕㅇㅅㅏㅇ ㅅㅣㅊㅓㅇㄱㅝㄴㅇㅣ ㅍㅣㄹㅇㅛㅎㅏㅁㅕㄴ ㄱㅕㄹㅈㅔㅎㅏㅅㅔㅇㅛ.",
+    "before": "",
+    "after": "",
+    "other": "비동의 성인 영상 유포에 가담하지 말고 피해 지원 창구를 이용하세요.",
+    "selector": "p#ra30b984bde3567e272",
+    "tag": "p",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"p#ra30b984bde3567e272\",\"FILM ㅇㅠㅊㅜㄹ ㅈㅏㄹㅛㄹㅡㄹ ㅅㅏㅈㅣ ㅁㅏㄹㄹㅏㄴㅡㄴ ㅁㅏㄹㄱㅘ ㄱㅘㄴㄱㅖㅇㅓㅄㅇㅣ ㅍㅏㄴㅁㅐㅎㅏㅂㄴㅣㄷㅏ. ㅂㅣㄷㅗㅇㅇㅢ ㅅㅓㅇㅇㅣㄴ ㅇㅕㅇㅅㅏㅇ ㅅㅣㅊㅓㅇㄱㅝㄴㅇㅣ ㅍㅣㄹㅇㅛㅎㅏㅁㅕㄴ ㄱㅕㄹㅈㅔㅎㅏㅅㅔㅇㅛ.\"]",
+    "is_injected": true,
+    "node_id": "n_4dfcb8b3bb31d5fc"
+  },
+  {
+    "id": "r7abd8b34ebc9093180",
+    "split": "holdout",
+    "panel": "identifier-control",
+    "scenario": "identifier-control",
+    "role": "body",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [],
+    "techniques": [],
+    "technique": null,
+    "variant": 0,
+    "unmodified_text": "제품코드 M240은 시청 안내 모니터 식별자입니다.",
+    "raw_text": "제품코드 M240은 시청 안내 모니터 식별자입니다.",
+    "before": "",
+    "after": "",
+    "other": "",
+    "selector": "p#r7abd8b34ebc9093180",
+    "tag": "p",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"p#r7abd8b34ebc9093180\",\"제품코드 M240은 시청 안내 모니터 식별자입니다.\"]",
+    "is_injected": true,
+    "node_id": "n_dc8d3fd8feff44b3"
+  },
+  {
+    "id": "rfa12275b90f8eacca9",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "author",
+    "role": "author",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [
+      "JAMO"
+    ],
+    "technique": "JAMO",
+    "variant": 2,
+    "unmodified_text": "CLIP 불법성인촬영파일구매연결",
+    "raw_text": "CLIP ㅂ​ㅜ​ㄹ​ㅂ​ㅓ​ㅂ​ㅅ​ㅓ​ㅇ​ㅇ​ㅣ​ㄴ​ㅊ​ㅘ​ㄹ​ㅇ​ㅕ​ㅇ​ㅍ​ㅏ​ㅇ​ㅣ​ㄹ​ㄱ​ㅜ​ㅁ​ㅐ​ㅇ​ㅕ​ㄴ​ㄱ​ㅕ​ㄹ​",
+    "before": "",
+    "after": "",
+    "other": "",
+    "selector": "strong#rfa12275b90f8eacca9",
+    "tag": "strong",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"strong#rfa12275b90f8eacca9\",\"CLIP ㅂ​ㅜ​ㄹ​ㅂ​ㅓ​ㅂ​ㅅ​ㅓ​ㅇ​ㅇ​ㅣ​ㄴ​ㅊ​ㅘ​ㄹ​ㅇ​ㅕ​ㅇ​ㅍ​ㅏ​ㅇ​ㅣ​ㄹ​ㄱ​ㅜ​ㅁ​ㅐ​ㅇ​ㅕ​ㄴ​ㄱ​ㅕ​ㄹ​\"]",
+    "is_injected": true,
+    "node_id": "n_238aef1c53f196f5"
+  },
+  {
+    "id": "r5a86fc7e6169534926",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "prevention-quote",
+    "role": "body",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [],
+    "technique": "HOMOGLYPH",
+    "variant": 0,
+    "unmodified_text": "RACE 사설 경륜 판돈을 받는 중입니다. 출전 결과에 현금을 걸 회원은 운영자에게 연락하세요.",
+    "raw_text": "ＲＡＣＥ 사설 경륜 판돈을 받는 중입니다. 출전 결과에 현금을 걸 회원은 운영자에게 연락하세요.",
+    "before": "학부모 연수 질문지에 실린 거절 대상 문장입니다. 참여를 권하는 취지로 읽지 않도록 토론합니다.",
+    "after": "인용한 대상의 이용을 권하지 않는 설명 자료입니다.",
+    "other": "",
+    "selector": "p#r5a86fc7e6169534926",
+    "tag": "p",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"p#r5a86fc7e6169534926\",\"ＲＡＣＥ 사설 경륜 판돈을 받는 중입니다. 출전 결과에 현금을 걸 회원은 운영자에게 연락하세요.\"]",
+    "is_injected": true,
+    "node_id": "n_5b0a19e1c72602be"
+  },
+  {
+    "id": "rd73025cf07c4d6e3fa",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "report-quote",
+    "role": "body",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [],
+    "technique": "JAMO",
+    "variant": 1,
+    "unmodified_text": "RACE 사설 경륜 현금 배당 참가 신청 접수 중",
+    "raw_text": "RACE ㅅㅏㅅㅓㄹ ㄱㅕㅇㄹㅠㄴ ㅎㅕㄴㄱㅡㅁ ㅂㅐㄷㅏㅇ ㅊㅏㅁㄱㅏ ㅅㅣㄴㅊㅓㅇ ㅈㅓㅂㅅㅜ ㅈㅜㅇ",
+    "before": "정보 윤리 교재에서 다음 제목의 불법 이용 유도 방식을 분석합니다. 참가 신청을 받는 자료가 아닙니다.",
+    "after": "인용한 대상의 이용을 권하지 않는 설명 자료입니다.",
+    "other": "",
+    "selector": "p#rd73025cf07c4d6e3fa",
+    "tag": "p",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"p#rd73025cf07c4d6e3fa\",\"RACE ㅅㅏㅅㅓㄹ ㄱㅕㅇㄹㅠㄴ ㅎㅕㄴㄱㅡㅁ ㅂㅐㄷㅏㅇ ㅊㅏㅁㄱㅏ ㅅㅣㄴㅊㅓㅇ ㅈㅓㅂㅅㅜ ㅈㅜㅇ\"]",
+    "is_injected": true,
+    "node_id": "n_28811093a077b7df"
+  },
+  {
+    "id": "r655f243b2052d88e75",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "other-comment",
+    "role": "comment",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [
+      "OFFSCREEN"
+    ],
+    "technique": "OFFSCREEN",
+    "variant": 2,
+    "unmodified_text": "RACE 사설 도박 경주에 참가할 회원을 모읍니다. 배팅 금액을 내고 현금 배당에 참여하세요.",
+    "raw_text": "RACE 사설 도박 경주에 참가할 회원을 모읍니다. 배팅 금액을 내고 현금 배당에 참여하세요.",
+    "before": "",
+    "after": "",
+    "other": "유료 범죄 광고를 신고하는 별도의 댓글입니다. 거래 제안에 답하지 마세요.",
+    "selector": "p#r655f243b2052d88e75",
+    "tag": "p",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"p#r655f243b2052d88e75\",\"RACE 사설 도박 경주에 참가할 회원을 모읍니다. 배팅 금액을 내고 현금 배당에 참여하세요.\"]",
+    "is_injected": true,
+    "node_id": "n_114c9ac1412e9353"
+  },
+  {
+    "id": "rba15d5e0efab40cd7f",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "linked",
+    "role": "link",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "technique": "HOMOGLYPH",
+    "variant": 2,
+    "unmodified_text": "READ 상세 연결",
+    "raw_text": "R34D 상세 연결",
+    "before": "FILM 동의 없이 유포한 성인 영상의 판매 목록입니다. 구입하실 분은 다음 연결에서 결제하세요.",
+    "after": "",
+    "other": "",
+    "selector": "a#rba15d5e0efab40cd7f",
+    "tag": "a",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"a#rba15d5e0efab40cd7f\",\"R34D 상세 연결\"]",
+    "is_injected": true,
+    "node_id": "n_d9243a16528ecf73"
+  },
+  {
+    "id": "r674c19a84fd2218cb4",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "linked",
+    "role": "link",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [
+      "TRANSPARENT"
+    ],
+    "technique": "TRANSPARENT",
+    "variant": 1,
+    "unmodified_text": "HELP 담당자 문의",
+    "raw_text": "HELP 담당자 문의",
+    "before": "CLIP 몰래 촬영한 성인 영상 파일 구입 신청입니다. 송금할 구매자는 아래에서 주문을 남겨 주세요.",
+    "after": "",
+    "other": "",
+    "selector": "a#r674c19a84fd2218cb4",
+    "tag": "a",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"a#r674c19a84fd2218cb4\",\"HELP 담당자 문의\"]",
+    "is_injected": true,
+    "node_id": "n_e20bfdda95b06a16"
+  },
+  {
+    "id": "r93bc35c9c21d6acdcb",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "direct",
+    "role": "body",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "technique": "HOMOGLYPH",
+    "variant": 1,
+    "unmodified_text": "POKER 허가 없이 운영하는 현금 포커방으로 초대합니다. 참가 자금을 송금하면 바로 자리를 배정합니다.",
+    "raw_text": "РОKЕR 허가 없이 운영하는 현금 포커방으로 초대합니다. 참가 자금을 송금하면 바로 자리를 배정합니다.",
+    "before": "",
+    "after": "",
+    "other": "",
+    "selector": "p#r93bc35c9c21d6acdcb",
+    "tag": "p",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"p#r93bc35c9c21d6acdcb\",\"РОKЕR 허가 없이 운영하는 현금 포커방으로 초대합니다. 참가 자금을 송금하면 바로 자리를 배정합니다.\"]",
+    "is_injected": true,
+    "node_id": "n_8c9b13fd8c47535c"
+  },
+  {
+    "id": "re52b6c5b6278220f65",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "direct",
+    "role": "body",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [
+      "TRANSPARENT"
+    ],
+    "technique": "TRANSPARENT",
+    "variant": 0,
+    "unmodified_text": "RACE 사설 경륜 판돈을 받는 중입니다. 출전 결과에 현금을 걸 회원은 운영자에게 연락하세요.",
+    "raw_text": "RACE 사설 경륜 판돈을 받는 중입니다. 출전 결과에 현금을 걸 회원은 운영자에게 연락하세요.",
+    "before": "",
+    "after": "",
+    "other": "",
+    "selector": "p#re52b6c5b6278220f65",
+    "tag": "p",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"p#re52b6c5b6278220f65\",\"RACE 사설 경륜 판돈을 받는 중입니다. 출전 결과에 현금을 걸 회원은 운영자에게 연락하세요.\"]",
+    "is_injected": true,
+    "node_id": "n_8a3746b7ee273faf"
+  },
+  {
+    "id": "r8c3f3a28374ec11f6c",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "ordinary-disguised",
+    "role": "title",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [],
+    "technique": "TRANSPARENT",
+    "variant": 2,
+    "unmodified_text": "LESSON 문자 분해와 띄어쓰기를 배우는 평생교육 강좌의 실습 예문입니다.",
+    "raw_text": "LESSON 문자 분해와 띄어쓰기를 배우는 평생교육 강좌의 실습 예문입니다.",
+    "before": "",
+    "after": "",
+    "other": "",
+    "selector": "h3#r8c3f3a28374ec11f6c",
+    "tag": "h3",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"h3#r8c3f3a28374ec11f6c\",\"LESSON 문자 분해와 띄어쓰기를 배우는 평생교육 강좌의 실습 예문입니다.\"]",
+    "is_injected": true,
+    "node_id": "n_a2e835c52edd9bb6"
+  },
+  {
+    "id": "r895fd937d212dea50b",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "neighbor-ad",
+    "role": "comment",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [],
+    "technique": "JAMO",
+    "variant": 1,
+    "unmodified_text": "LESSON 문자 분해와 띄어쓰기를 배우는 평생교육 강좌의 실습 예문입니다.",
+    "raw_text": "LESSON ㅁ ㅜ ㄴ ㅈ ㅏ  ㅂ ㅜ ㄴ ㅎ ㅐ ㅇ ㅘ  ㄸ ㅢ ㅇ ㅓ ㅆ ㅡ ㄱ ㅣ ㄹ ㅡ ㄹ  ㅂ ㅐ ㅇ ㅜ ㄴ ㅡ ㄴ  ㅍ ㅕ ㅇ ㅅ ㅐ ㅇ ㄱ ㅛ ㅇ ㅠ ㄱ  ㄱ ㅏ ㅇ ㅈ ㅘ ㅇ ㅢ  ㅅ ㅣ ㄹ ㅅ ㅡ ㅂ  ㅇ ㅖ ㅁ ㅜ ㄴ ㅇ ㅣ ㅂ ㄴ ㅣ ㄷ ㅏ .",
+    "before": "",
+    "after": "",
+    "other": "POKER 무허가 현금 게임 모임이 새 참가자를 기다립니다. 입금 뒤 비공개 주소로 들어오세요.",
+    "selector": "p#r895fd937d212dea50b",
+    "tag": "p",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"p#r895fd937d212dea50b\",\"LESSON ㅁ ㅜ ㄴ ㅈ ㅏ  ㅂ ㅜ ㄴ ㅎ ㅐ ㅇ ㅘ  ㄸ ㅢ ㅇ ㅓ ㅆ ㅡ ㄱ ㅣ ㄹ ㅡ ㄹ  ㅂ ㅐ ㅇ ㅜ ㄴ ㅡ ㄴ  ㅍ ㅕ ㅇ ㅅ ㅐ ㅇ ㄱ ㅛ ㅇ ㅠ ㄱ  ㄱ ㅏ ㅇ ㅈ ㅘ ㅇ ㅢ  ㅅ ㅣ ㄹ ㅅ ㅡ ㅂ  ㅇ ㅖ ㅁ ㅜ ㄴ ㅇ ㅣ ㅂ ㄴ ㅣ ㄷ ㅏ .\"]",
+    "is_injected": true,
+    "node_id": "n_30e2db1fe379eb38"
+  },
+  {
+    "id": "r04e7051bbbf0a1e36b",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "report-quote",
+    "role": "comment",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [],
+    "technique": "HOMOGLYPH",
+    "variant": 2,
+    "unmodified_text": "FILM 비동의 성인 영상 유출 자료 유료 시청권 판매",
+    "raw_text": "F1LM 비동의 성인 영상 유출 자료 유료 시청권 판매",
+    "before": "시민 기자가 디지털 피해 실태를 보도하며 당시 광고 제목을 보여 줍니다. 제목을 비판적으로 읽어 주세요.",
+    "after": "인용한 대상의 이용을 권하지 않는 설명 자료입니다.",
+    "other": "",
+    "selector": "p#r04e7051bbbf0a1e36b",
+    "tag": "p",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"p#r04e7051bbbf0a1e36b\",\"F1LM 비동의 성인 영상 유출 자료 유료 시청권 판매\"]",
+    "is_injected": true,
+    "node_id": "n_5870a9a3b38c8b25"
+  },
+  {
+    "id": "rc7c577bf3a7e51255f",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "ambiguous",
+    "role": "link",
+    "is_ad": null,
+    "expected_review": true,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [],
+    "technique": "TRANSPARENT",
+    "variant": 2,
+    "unmodified_text": "MORE 다음 내용 살펴보기",
+    "raw_text": "MORE 다음 내용 살펴보기",
+    "before": "",
+    "after": "",
+    "other": "",
+    "selector": "a#rc7c577bf3a7e51255f",
+    "tag": "a",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"a#rc7c577bf3a7e51255f\",\"MORE 다음 내용 살펴보기\"]",
+    "is_injected": true,
+    "node_id": "n_ef9a2032f8116bd3"
+  },
+  {
+    "id": "rae16dd92ec052c2080",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "warning-ad",
+    "role": "body",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "technique": "HOMOGLYPH",
+    "variant": 0,
+    "unmodified_text": "POKER 도박 피해를 막자는 글은 봤습니다. 그래도 저희 비인가 현금방의 참가비를 보내고 카드 게임을 즐겨 보세요.",
+    "raw_text": "ＰＯＫＥＲ 도박 피해를 막자는 글은 봤습니다. 그래도 저희 비인가 현금방의 참가비를 보내고 카드 게임을 즐겨 보세요.",
+    "before": "",
+    "after": "",
+    "other": "불법 게임으로 돈을 잃은 시민을 위한 상담 안내를 적습니다.",
+    "selector": "p#rae16dd92ec052c2080",
+    "tag": "p",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"p#rae16dd92ec052c2080\",\"ＰＯＫＥＲ 도박 피해를 막자는 글은 봤습니다. 그래도 저희 비인가 현금방의 참가비를 보내고 카드 게임을 즐겨 보세요.\"]",
+    "is_injected": true,
+    "node_id": "n_5da9e9a8e4cd7e53"
+  },
+  {
+    "id": "re1fb43540c099d0e48",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "linked",
+    "role": "link",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [
+      "JAMO"
+    ],
+    "technique": "JAMO",
+    "variant": 1,
+    "unmodified_text": "GO 접수하기",
+    "raw_text": "GO ㅈㅓㅂㅅㅜㅎㅏㄱㅣ",
+    "before": "RACE 사설 경주 도박에 판돈을 거는 회원 등록입니다. 현금 배당을 받을 분은 연결을 이용하세요.",
+    "after": "",
+    "other": "",
+    "selector": "a#re1fb43540c099d0e48",
+    "tag": "a",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"a#re1fb43540c099d0e48\",\"GO ㅈㅓㅂㅅㅜㅎㅏㄱㅣ\"]",
+    "is_injected": true,
+    "node_id": "n_aaa5b926cc6c251d"
+  },
+  {
+    "id": "re5c7023477a91b36a9",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "author",
+    "role": "author",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [
+      "OFFSCREEN"
+    ],
+    "technique": "OFFSCREEN",
+    "variant": 2,
+    "unmodified_text": "FILM 비동의성인영상판매접수",
+    "raw_text": "FILM 비동의성인영상판매접수",
+    "before": "",
+    "after": "",
+    "other": "",
+    "selector": "strong#re5c7023477a91b36a9",
+    "tag": "strong",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"strong#re5c7023477a91b36a9\",\"FILM 비동의성인영상판매접수\"]",
+    "is_injected": true,
+    "node_id": "n_e715b9d8f5a3037d"
+  },
+  {
+    "id": "r3513491ebed131a897",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "ambiguous",
+    "role": "body",
+    "is_ad": null,
+    "expected_review": true,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [],
+    "technique": "JAMO",
+    "variant": 2,
+    "unmodified_text": "INFO 조건 문의 접수",
+    "raw_text": "INFO ㅈ​ㅗ​ㄱ​ㅓ​ㄴ​ ㅁ​ㅜ​ㄴ​ㅇ​ㅢ​ ㅈ​ㅓ​ㅂ​ㅅ​ㅜ​",
+    "before": "",
+    "after": "",
+    "other": "",
+    "selector": "p#r3513491ebed131a897",
+    "tag": "p",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"p#r3513491ebed131a897\",\"INFO ㅈ​ㅗ​ㄱ​ㅓ​ㄴ​ ㅁ​ㅜ​ㄴ​ㅇ​ㅢ​ ㅈ​ㅓ​ㅂ​ㅅ​ㅜ​\"]",
+    "is_injected": true,
+    "node_id": "n_35966f20ab163116"
+  },
+  {
+    "id": "rdb7c7f1ab5706e5a1d",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "direct",
+    "role": "body",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [
+      "JAMO"
+    ],
+    "technique": "JAMO",
+    "variant": 2,
+    "unmodified_text": "FILM 피해자가 허락하지 않은 성인 영상을 유료 공개합니다. 시청료를 결제하고 암호를 받아 가세요.",
+    "raw_text": "FILM ㅍ​ㅣ​ㅎ​ㅐ​ㅈ​ㅏ​ㄱ​ㅏ​ ㅎ​ㅓ​ㄹ​ㅏ​ㄱ​ㅎ​ㅏ​ㅈ​ㅣ​ ㅇ​ㅏ​ㄶ​ㅇ​ㅡ​ㄴ​ ㅅ​ㅓ​ㅇ​ㅇ​ㅣ​ㄴ​ ㅇ​ㅕ​ㅇ​ㅅ​ㅏ​ㅇ​ㅇ​ㅡ​ㄹ​ ㅇ​ㅠ​ㄹ​ㅛ​ ㄱ​ㅗ​ㅇ​ㄱ​ㅐ​ㅎ​ㅏ​ㅂ​ㄴ​ㅣ​ㄷ​ㅏ​. ㅅ​ㅣ​ㅊ​ㅓ​ㅇ​ㄹ​ㅛ​ㄹ​ㅡ​ㄹ​ ㄱ​ㅕ​ㄹ​ㅈ​ㅔ​ㅎ​ㅏ​ㄱ​ㅗ​ ㅇ​ㅏ​ㅁ​ㅎ​ㅗ​ㄹ​ㅡ​ㄹ​ ㅂ​ㅏ​ㄷ​ㅇ​ㅏ​ ㄱ​ㅏ​ㅅ​ㅔ​ㅇ​ㅛ​.",
+    "before": "",
+    "after": "",
+    "other": "",
+    "selector": "p#rdb7c7f1ab5706e5a1d",
+    "tag": "p",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"p#rdb7c7f1ab5706e5a1d\",\"FILM ㅍ​ㅣ​ㅎ​ㅐ​ㅈ​ㅏ​ㄱ​ㅏ​ ㅎ​ㅓ​ㄹ​ㅏ​ㄱ​ㅎ​ㅏ​ㅈ​ㅣ​ ㅇ​ㅏ​ㄶ​ㅇ​ㅡ​ㄴ​ ㅅ​ㅓ​ㅇ​ㅇ​ㅣ​ㄴ​ ㅇ​ㅕ​ㅇ​ㅅ​ㅏ​ㅇ​ㅇ​ㅡ​ㄹ​ ㅇ​ㅠ​ㄹ​ㅛ​ ㄱ​ㅗ​ㅇ​ㄱ​ㅐ​ㅎ​ㅏ​ㅂ​ㄴ​ㅣ​ㄷ​ㅏ​. ㅅ​ㅣ​ㅊ​ㅓ​ㅇ​ㄹ​ㅛ​ㄹ​ㅡ​ㄹ​ ㄱ​ㅕ​ㄹ​ㅈ​ㅔ​ㅎ​ㅏ​ㄱ​ㅗ​ ㅇ​ㅏ​ㅁ​ㅎ​ㅗ​ㄹ​ㅡ​ㄹ​ ㅂ​ㅏ​ㄷ​ㅇ​ㅏ​ ㄱ​ㅏ​ㅅ​ㅔ​ㅇ​ㅛ​.\"]",
+    "is_injected": true,
+    "node_id": "n_154dbcdcb5cb80f5"
+  },
+  {
+    "id": "r4ab3a017429170301f",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "title",
+    "role": "title",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "technique": "HOMOGLYPH",
+    "variant": 1,
+    "unmodified_text": "CLIP 성인 불법 촬영 영상 파일 거래 고객 모집",
+    "raw_text": "СLІР 성인 불법 촬영 영상 파일 거래 고객 모집",
+    "before": "",
+    "after": "",
+    "other": "",
+    "selector": "h3#r4ab3a017429170301f",
+    "tag": "h3",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"h3#r4ab3a017429170301f\",\"СLІР 성인 불법 촬영 영상 파일 거래 고객 모집\"]",
+    "is_injected": true,
+    "node_id": "n_c0f2a3d3f8ee8b07"
+  },
+  {
+    "id": "r44b6701cc3177e8bb6",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "linked",
+    "role": "link",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [
+      "OFFSCREEN"
+    ],
+    "technique": "OFFSCREEN",
+    "variant": 1,
+    "unmodified_text": "APPLY 신청 화면",
+    "raw_text": "APPLY 신청 화면",
+    "before": "POKER 무허가 도박장 참가비를 송금할 계좌를 받는 화면입니다. 게임 참여자는 아래 접수로 오세요.",
+    "after": "",
+    "other": "",
+    "selector": "a#r44b6701cc3177e8bb6",
+    "tag": "a",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"a#r44b6701cc3177e8bb6\",\"APPLY 신청 화면\"]",
+    "is_injected": true,
+    "node_id": "n_cfa5dd771bd8f0fc"
+  },
+  {
+    "id": "r971eec952e3389f3c2",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "normal-link",
+    "role": "link",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [],
+    "technique": "JAMO",
+    "variant": 0,
+    "unmodified_text": "HELP 담당자 문의",
+    "raw_text": "HELP 담당자 문의",
+    "before": "HELP 공원 시설 고장을 알리는 공식 신고 창구입니다.",
+    "after": "",
+    "other": "",
+    "selector": "a#r971eec952e3389f3c2",
+    "tag": "a",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"a#r971eec952e3389f3c2\",\"HELP 담당자 문의\"]",
+    "is_injected": true,
+    "node_id": "n_38d2f230be2cb52e"
+  },
+  {
+    "id": "r7ed4dd4793d01b85a4",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "neighbor-ad",
+    "role": "comment",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [],
+    "technique": "HOMOGLYPH",
+    "variant": 1,
+    "unmodified_text": "GUIDE 시청 민원실의 수어 통역 이용 절차를 설명합니다.",
+    "raw_text": "GUІDЕ 시청 민원실의 수어 통역 이용 절차를 설명합니다.",
+    "before": "",
+    "after": "",
+    "other": "CLIP 불법 성인 영상 묶음 판매 접수입니다. 파일을 받을 분은 구매 대금을 보내세요.",
+    "selector": "p#r7ed4dd4793d01b85a4",
+    "tag": "p",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"p#r7ed4dd4793d01b85a4\",\"GUІDЕ 시청 민원실의 수어 통역 이용 절차를 설명합니다.\"]",
+    "is_injected": true,
+    "node_id": "n_22413165b64f97ba"
+  },
+  {
+    "id": "r11733601b7a682044e",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "ordinary-disguised",
+    "role": "body",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [],
+    "technique": "OFFSCREEN",
+    "variant": 2,
+    "unmodified_text": "A11Y 키보드 사용자를 위한 주 메뉴 이동 도움말입니다.",
+    "raw_text": "A11Y 키보드 사용자를 위한 주 메뉴 이동 도움말입니다.",
+    "before": "",
+    "after": "",
+    "other": "",
+    "selector": "p#r11733601b7a682044e",
+    "tag": "p",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"p#r11733601b7a682044e\",\"A11Y 키보드 사용자를 위한 주 메뉴 이동 도움말입니다.\"]",
+    "is_injected": true,
+    "node_id": "n_240fb74c6351d0c5"
+  },
+  {
+    "id": "rda6b140336113f57c4",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "title",
+    "role": "title",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [
+      "OFFSCREEN"
+    ],
+    "technique": "OFFSCREEN",
+    "variant": 0,
+    "unmodified_text": "RACE 사설 경륜 현금 배당 참가 신청 접수 중",
+    "raw_text": "RACE 사설 경륜 현금 배당 참가 신청 접수 중",
+    "before": "",
+    "after": "",
+    "other": "",
+    "selector": "h3#rda6b140336113f57c4",
+    "tag": "h3",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"h3#rda6b140336113f57c4\",\"RACE 사설 경륜 현금 배당 참가 신청 접수 중\"]",
+    "is_injected": true,
+    "node_id": "n_b95aca31444982e0"
+  },
+  {
+    "id": "r5d005d92d8e0a26b1a",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "title",
+    "role": "title",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [
+      "JAMO"
+    ],
+    "technique": "JAMO",
+    "variant": 0,
+    "unmodified_text": "POKER 비인가 현금 도박방 신규 참가자 판돈 납부 안내",
+    "raw_text": "POKER 비인가 현금 도박방 신규 참가자 판돈 납부 안내",
+    "before": "",
+    "after": "",
+    "other": "",
+    "selector": "h3#r5d005d92d8e0a26b1a",
+    "tag": "h3",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"h3#r5d005d92d8e0a26b1a\",\"POKER 비인가 현금 도박방 신규 참가자 판돈 납부 안내\"]",
+    "is_injected": true,
+    "node_id": "n_2c79167aff769899"
+  },
+  {
+    "id": "raa8b068a7779aee47f",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "warning-ad",
+    "role": "body",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [
+      "TRANSPARENT"
+    ],
+    "technique": "TRANSPARENT",
+    "variant": 0,
+    "unmodified_text": "RACE 경고가 붙어 있어도 운영 중입니다. 사설 경륜 도박을 시작하려면 제 계좌에 판돈을 보내세요.",
+    "raw_text": "RACE 경고가 붙어 있어도 운영 중입니다. 사설 경륜 도박을 시작하려면 제 계좌에 판돈을 보내세요.",
+    "before": "",
+    "after": "",
+    "other": "유료 범죄 광고를 신고하는 별도의 댓글입니다. 거래 제안에 답하지 마세요.",
+    "selector": "p#raa8b068a7779aee47f",
+    "tag": "p",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"p#raa8b068a7779aee47f\",\"RACE 경고가 붙어 있어도 운영 중입니다. 사설 경륜 도박을 시작하려면 제 계좌에 판돈을 보내세요.\"]",
+    "is_injected": true,
+    "node_id": "n_e866df596dbeb451"
+  },
+  {
+    "id": "r00cab402a85162f3a4",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "normal-link",
+    "role": "link",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [],
+    "technique": "HOMOGLYPH",
+    "variant": 0,
+    "unmodified_text": "GO 접수하기",
+    "raw_text": "ＧＯ 접수하기",
+    "before": "LESSON 구청의 무료 스마트폰 교육 수강 신청입니다.",
+    "after": "",
+    "other": "",
+    "selector": "a#r00cab402a85162f3a4",
+    "tag": "a",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"a#r00cab402a85162f3a4\",\"ＧＯ 접수하기\"]",
+    "is_injected": true,
+    "node_id": "n_76e8004d967eb9dc"
+  },
+  {
+    "id": "r117ef6aa128e6f6e7c",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "neighbor-ad",
+    "role": "comment",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [],
+    "technique": "TRANSPARENT",
+    "variant": 0,
+    "unmodified_text": "A11Y 키보드 사용자를 위한 주 메뉴 이동 도움말입니다.",
+    "raw_text": "A11Y 키보드 사용자를 위한 주 메뉴 이동 도움말입니다.",
+    "before": "",
+    "after": "",
+    "other": "FILM 당사자 허락 없이 공개된 성인 영상을 팝니다. 원하는 구매자는 금액을 문의해 주세요.",
+    "selector": "p#r117ef6aa128e6f6e7c",
+    "tag": "p",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"p#r117ef6aa128e6f6e7c\",\"A11Y 키보드 사용자를 위한 주 메뉴 이동 도움말입니다.\"]",
+    "is_injected": true,
+    "node_id": "n_38186f7682a6aaa0"
+  },
+  {
+    "id": "r927ae07c9ce4687ac1",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "other-comment",
+    "role": "comment",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [
+      "JAMO"
+    ],
+    "technique": "JAMO",
+    "variant": 0,
+    "unmodified_text": "POKER 무허가 현금 게임 모임이 새 참가자를 기다립니다. 입금 뒤 비공개 주소로 들어오세요.",
+    "raw_text": "POKER 무허가 현금 게임 모임이 새 참가자를 기다립니다. 입금 뒤 비공개 주소로 들어오세요.",
+    "before": "",
+    "after": "",
+    "other": "불법 게임으로 돈을 잃은 시민을 위한 상담 안내를 적습니다.",
+    "selector": "p#r927ae07c9ce4687ac1",
+    "tag": "p",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"p#r927ae07c9ce4687ac1\",\"POKER 무허가 현금 게임 모임이 새 참가자를 기다립니다. 입금 뒤 비공개 주소로 들어오세요.\"]",
+    "is_injected": true,
+    "node_id": "n_eaef0c16093d213f"
+  },
+  {
+    "id": "r5fe9f0626045121112",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "ordinary-disguised",
+    "role": "title",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [],
+    "technique": "HOMOGLYPH",
+    "variant": 2,
+    "unmodified_text": "CIVIC 지역 역사 탐방 해설 봉사자를 찾습니다. 참가 희망자는 문화원에 신청해 주세요.",
+    "raw_text": "C1V1C 지역 역사 탐방 해설 봉사자를 찾습니다. 참가 희망자는 문화원에 신청해 주세요.",
+    "before": "",
+    "after": "",
+    "other": "",
+    "selector": "h3#r5fe9f0626045121112",
+    "tag": "h3",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"h3#r5fe9f0626045121112\",\"C1V1C 지역 역사 탐방 해설 봉사자를 찾습니다. 참가 희망자는 문화원에 신청해 주세요.\"]",
+    "is_injected": true,
+    "node_id": "n_f828845907eb21a4"
+  },
+  {
+    "id": "r37f701676c1378def4",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "report-quote",
+    "role": "body",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [],
+    "technique": "OFFSCREEN",
+    "variant": 0,
+    "unmodified_text": "POKER 비인가 현금 도박방 신규 참가자 판돈 납부 안내",
+    "raw_text": "POKER 비인가 현금 도박방 신규 참가자 판돈 납부 안내",
+    "before": "수사 사례 해설에 증거로 적힌 게시물 제목입니다. 해당 업소를 소개하거나 연결하지 않습니다.",
+    "after": "인용한 대상의 이용을 권하지 않는 설명 자료입니다.",
+    "other": "",
+    "selector": "p#r37f701676c1378def4",
+    "tag": "p",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"p#r37f701676c1378def4\",\"POKER 비인가 현금 도박방 신규 참가자 판돈 납부 안내\"]",
+    "is_injected": true,
+    "node_id": "n_a664d5f59b5f3907"
+  },
+  {
+    "id": "ra2d87bfd53908e0d20",
+    "split": "holdout",
+    "panel": "identifier-control",
+    "scenario": "identifier-control",
+    "role": "body",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [],
+    "techniques": [],
+    "technique": null,
+    "variant": 0,
+    "unmodified_text": "접수번호 D3081은 시설 정비 민원의 번호입니다.",
+    "raw_text": "접수번호 D3081은 시설 정비 민원의 번호입니다.",
+    "before": "",
+    "after": "",
+    "other": "",
+    "selector": "p#ra2d87bfd53908e0d20",
+    "tag": "p",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"p#ra2d87bfd53908e0d20\",\"접수번호 D3081은 시설 정비 민원의 번호입니다.\"]",
+    "is_injected": true,
+    "node_id": "n_2ea59f86711781a3"
+  },
+  {
+    "id": "r336ee5bf52c80491c9",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "normal-link",
+    "role": "link",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [],
+    "technique": "TRANSPARENT",
+    "variant": 1,
+    "unmodified_text": "APPLY 신청 화면",
+    "raw_text": "APPLY 신청 화면",
+    "before": "CIVIC 시민 합창단의 공개 연습 참관을 예약합니다. 관람은 무료입니다.",
+    "after": "",
+    "other": "",
+    "selector": "a#r336ee5bf52c80491c9",
+    "tag": "a",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"a#r336ee5bf52c80491c9\",\"APPLY 신청 화면\"]",
+    "is_injected": true,
+    "node_id": "n_409bfde1ed0ebd00"
+  },
+  {
+    "id": "r1f4e5e9270606281c9",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "direct",
+    "role": "body",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [
+      "OFFSCREEN"
+    ],
+    "technique": "OFFSCREEN",
+    "variant": 0,
+    "unmodified_text": "CLIP 불법 촬영된 성인 영상 파일을 넘깁니다. 구매 신청 후 대금을 송금해 주세요.",
+    "raw_text": "CLIP 불법 촬영된 성인 영상 파일을 넘깁니다. 구매 신청 후 대금을 송금해 주세요.",
+    "before": "",
+    "after": "",
+    "other": "",
+    "selector": "p#r1f4e5e9270606281c9",
+    "tag": "p",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"p#r1f4e5e9270606281c9\",\"CLIP 불법 촬영된 성인 영상 파일을 넘깁니다. 구매 신청 후 대금을 송금해 주세요.\"]",
+    "is_injected": true,
+    "node_id": "n_eaec47b6d3d8d46f"
+  },
+  {
+    "id": "rd533e0095595bdc5d4",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "title",
+    "role": "title",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [
+      "TRANSPARENT"
+    ],
+    "technique": "TRANSPARENT",
+    "variant": 1,
+    "unmodified_text": "FILM 비동의 성인 영상 유출 자료 유료 시청권 판매",
+    "raw_text": "FILM 비동의 성인 영상 유출 자료 유료 시청권 판매",
+    "before": "",
+    "after": "",
+    "other": "",
+    "selector": "h3#rd533e0095595bdc5d4",
+    "tag": "h3",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"h3#rd533e0095595bdc5d4\",\"FILM 비동의 성인 영상 유출 자료 유료 시청권 판매\"]",
+    "is_injected": true,
+    "node_id": "n_7723d1d6b369655c"
+  },
+  {
+    "id": "re74739667752f551d0",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "prevention-quote",
+    "role": "body",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [],
+    "technique": "TRANSPARENT",
+    "variant": 0,
+    "unmodified_text": "POKER 허가 없이 운영하는 현금 포커방으로 초대합니다. 참가 자금을 송금하면 바로 자리를 배정합니다.",
+    "raw_text": "POKER 허가 없이 운영하는 현금 포커방으로 초대합니다. 참가 자금을 송금하면 바로 자리를 배정합니다.",
+    "before": "피해자가 받은 문자를 상담 기록에 남깁니다. 이어지는 내용은 금전 송금을 막기 위해 제시한 발췌문입니다.",
+    "after": "인용한 대상의 이용을 권하지 않는 설명 자료입니다.",
+    "other": "",
+    "selector": "p#re74739667752f551d0",
+    "tag": "p",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"p#re74739667752f551d0\",\"POKER 허가 없이 운영하는 현금 포커방으로 초대합니다. 참가 자금을 송금하면 바로 자리를 배정합니다.\"]",
+    "is_injected": true,
+    "node_id": "n_2e194c8b9db9bffb"
+  },
+  {
+    "id": "r529ab1eb42b1e13ea1",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "normal-link",
+    "role": "link",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [],
+    "technique": "OFFSCREEN",
+    "variant": 2,
+    "unmodified_text": "READ 상세 연결",
+    "raw_text": "READ 상세 연결",
+    "before": "GUIDE 시립 자연학습장의 방문 시간을 확인하는 안내입니다.",
+    "after": "",
+    "other": "",
+    "selector": "a#r529ab1eb42b1e13ea1",
+    "tag": "a",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"a#r529ab1eb42b1e13ea1\",\"READ 상세 연결\"]",
+    "is_injected": true,
+    "node_id": "n_7e95b343db058140"
+  },
+  {
+    "id": "rb4f2a4a05278eeeb29",
+    "split": "holdout",
+    "panel": "identifier-control",
+    "scenario": "identifier-control",
+    "role": "body",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [],
+    "techniques": [],
+    "technique": null,
+    "variant": 0,
+    "unmodified_text": "사업 평가 연도 2028을 기입해 주세요.",
+    "raw_text": "사업 평가 연도 2028을 기입해 주세요.",
+    "before": "",
+    "after": "",
+    "other": "",
+    "selector": "p#rb4f2a4a05278eeeb29",
+    "tag": "p",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"p#rb4f2a4a05278eeeb29\",\"사업 평가 연도 2028을 기입해 주세요.\"]",
+    "is_injected": true,
+    "node_id": "n_8f127a9a276a18ab"
+  },
+  {
+    "id": "r3fb9bffccaf651067b",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "ambiguous",
+    "role": "link",
+    "is_ad": null,
+    "expected_review": true,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [],
+    "technique": "HOMOGLYPH",
+    "variant": 1,
+    "unmodified_text": "CONTACT 이어서 안내받기",
+    "raw_text": "СОNTАСT 이어서 안내받기",
+    "before": "",
+    "after": "",
+    "other": "",
+    "selector": "a#r3fb9bffccaf651067b",
+    "tag": "a",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"a#r3fb9bffccaf651067b\",\"СОNTАСT 이어서 안내받기\"]",
+    "is_injected": true,
+    "node_id": "n_21c59d9d333ca7f8"
+  },
+  {
+    "id": "raaf5fe07efb2a94c19",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "ordinary-disguised",
+    "role": "body",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [],
+    "technique": "JAMO",
+    "variant": 2,
+    "unmodified_text": "GUIDE 시청 민원실의 수어 통역 이용 절차를 설명합니다.",
+    "raw_text": "GUIDE ㅅ​ㅣ​ㅊ​ㅓ​ㅇ​ ㅁ​ㅣ​ㄴ​ㅇ​ㅝ​ㄴ​ㅅ​ㅣ​ㄹ​ㅇ​ㅢ​ ㅅ​ㅜ​ㅇ​ㅓ​ ㅌ​ㅗ​ㅇ​ㅇ​ㅕ​ㄱ​ ㅇ​ㅣ​ㅇ​ㅛ​ㅇ​ ㅈ​ㅓ​ㄹ​ㅊ​ㅏ​ㄹ​ㅡ​ㄹ​ ㅅ​ㅓ​ㄹ​ㅁ​ㅕ​ㅇ​ㅎ​ㅏ​ㅂ​ㄴ​ㅣ​ㄷ​ㅏ​.",
+    "before": "",
+    "after": "",
+    "other": "",
+    "selector": "p#raaf5fe07efb2a94c19",
+    "tag": "p",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"p#raaf5fe07efb2a94c19\",\"GUIDE ㅅ​ㅣ​ㅊ​ㅓ​ㅇ​ ㅁ​ㅣ​ㄴ​ㅇ​ㅝ​ㄴ​ㅅ​ㅣ​ㄹ​ㅇ​ㅢ​ ㅅ​ㅜ​ㅇ​ㅓ​ ㅌ​ㅗ​ㅇ​ㅇ​ㅕ​ㄱ​ ㅇ​ㅣ​ㅇ​ㅛ​ㅇ​ ㅈ​ㅓ​ㄹ​ㅊ​ㅏ​ㄹ​ㅡ​ㄹ​ ㅅ​ㅓ​ㄹ​ㅁ​ㅕ​ㅇ​ㅎ​ㅏ​ㅂ​ㄴ​ㅣ​ㄷ​ㅏ​.\"]",
+    "is_injected": true,
+    "node_id": "n_ec8821c209c73d93"
+  },
+  {
+    "id": "rc5f56535b1cb1a2bb6",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "ambiguous",
+    "role": "body",
+    "is_ad": null,
+    "expected_review": true,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [],
+    "technique": "OFFSCREEN",
+    "variant": 1,
+    "unmodified_text": "DETAIL 별도 내용 확인",
+    "raw_text": "DETAIL 별도 내용 확인",
+    "before": "",
+    "after": "",
+    "other": "",
+    "selector": "p#rc5f56535b1cb1a2bb6",
+    "tag": "p",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"p#rc5f56535b1cb1a2bb6\",\"DETAIL 별도 내용 확인\"]",
+    "is_injected": true,
+    "node_id": "n_2e81c5da13a92993"
+  },
+  {
+    "id": "re52e6fb0f1db6ab1ce",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "author",
+    "role": "author",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "technique": "HOMOGLYPH",
+    "variant": 2,
+    "unmodified_text": "RACE 무허가도박판돈충전안내",
+    "raw_text": "R4C3 무허가도박판돈충전안내",
+    "before": "",
+    "after": "",
+    "other": "",
+    "selector": "strong#re52e6fb0f1db6ab1ce",
+    "tag": "strong",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"strong#re52e6fb0f1db6ab1ce\",\"R4C3 무허가도박판돈충전안내\"]",
+    "is_injected": true,
+    "node_id": "n_57edf1702eb52557"
+  },
+  {
+    "id": "rb82f76f7423d2b091e",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "neighbor-ad",
+    "role": "comment",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [],
+    "technique": "OFFSCREEN",
+    "variant": 0,
+    "unmodified_text": "CIVIC 지역 역사 탐방 해설 봉사자를 찾습니다. 참가 희망자는 문화원에 신청해 주세요.",
+    "raw_text": "CIVIC 지역 역사 탐방 해설 봉사자를 찾습니다. 참가 희망자는 문화원에 신청해 주세요.",
+    "before": "",
+    "after": "",
+    "other": "RACE 사설 도박 경주에 참가할 회원을 모읍니다. 배팅 금액을 내고 현금 배당에 참여하세요.",
+    "selector": "p#rb82f76f7423d2b091e",
+    "tag": "p",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"p#rb82f76f7423d2b091e\",\"CIVIC 지역 역사 탐방 해설 봉사자를 찾습니다. 참가 희망자는 문화원에 신청해 주세요.\"]",
+    "is_injected": true,
+    "node_id": "n_be43abe0f1126d1d"
+  },
+  {
+    "id": "rcbf6644299158a7009",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "author",
+    "role": "author",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [
+      "TRANSPARENT"
+    ],
+    "technique": "TRANSPARENT",
+    "variant": 2,
+    "unmodified_text": "POKER 사설현금게임방가입상담",
+    "raw_text": "POKER 사설현금게임방가입상담",
+    "before": "",
+    "after": "",
+    "other": "",
+    "selector": "strong#rcbf6644299158a7009",
+    "tag": "strong",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"strong#rcbf6644299158a7009\",\"POKER 사설현금게임방가입상담\"]",
+    "is_injected": true,
+    "node_id": "n_4cdf3ce01f68da18"
+  },
+  {
+    "id": "r0e81b74e840fca42de",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "prevention-quote",
+    "role": "comment",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [],
+    "technique": "OFFSCREEN",
+    "variant": 1,
+    "unmodified_text": "FILM 피해자가 허락하지 않은 성인 영상을 유료 공개합니다. 시청료를 결제하고 암호를 받아 가세요.",
+    "raw_text": "FILM 피해자가 허락하지 않은 성인 영상을 유료 공개합니다. 시청료를 결제하고 암호를 받아 가세요.",
+    "before": "온라인 인권 전시에서 범죄 광고가 어떤 표현을 쓰는지 보여 줍니다. 다음 문구는 비판의 대상입니다.",
+    "after": "인용한 대상의 이용을 권하지 않는 설명 자료입니다.",
+    "other": "",
+    "selector": "p#r0e81b74e840fca42de",
+    "tag": "p",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"p#r0e81b74e840fca42de\",\"FILM 피해자가 허락하지 않은 성인 영상을 유료 공개합니다. 시청료를 결제하고 암호를 받아 가세요.\"]",
+    "is_injected": true,
+    "node_id": "n_8b84ae991f899b38"
+  },
+  {
+    "id": "rf1fa11b19e9a81332a",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "other-comment",
+    "role": "comment",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [
+      "TRANSPARENT"
+    ],
+    "technique": "TRANSPARENT",
+    "variant": 2,
+    "unmodified_text": "FILM 당사자 허락 없이 공개된 성인 영상을 팝니다. 원하는 구매자는 금액을 문의해 주세요.",
+    "raw_text": "FILM 당사자 허락 없이 공개된 성인 영상을 팝니다. 원하는 구매자는 금액을 문의해 주세요.",
+    "before": "",
+    "after": "",
+    "other": "비동의 성인 영상 유포에 가담하지 말고 피해 지원 창구를 이용하세요.",
+    "selector": "p#rf1fa11b19e9a81332a",
+    "tag": "p",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"p#rf1fa11b19e9a81332a\",\"FILM 당사자 허락 없이 공개된 성인 영상을 팝니다. 원하는 구매자는 금액을 문의해 주세요.\"]",
+    "is_injected": true,
+    "node_id": "n_392e432dcc3908dd"
+  },
+  {
+    "id": "r3116cff81a28c5969a",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "report-quote",
+    "role": "comment",
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [],
+    "technique": "TRANSPARENT",
+    "variant": 1,
+    "unmodified_text": "CLIP 성인 불법 촬영 영상 파일 거래 고객 모집",
+    "raw_text": "CLIP 성인 불법 촬영 영상 파일 거래 고객 모집",
+    "before": "처리 완료된 신고의 이력을 확인하는 화면입니다. 아래 표현은 차단된 게시물의 제목을 인용한 것입니다.",
+    "after": "인용한 대상의 이용을 권하지 않는 설명 자료입니다.",
+    "other": "",
+    "selector": "p#r3116cff81a28c5969a",
+    "tag": "p",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"p#r3116cff81a28c5969a\",\"CLIP 성인 불법 촬영 영상 파일 거래 고객 모집\"]",
+    "is_injected": true,
+    "node_id": "n_8a7c9d31dc20e898"
+  },
+  {
+    "id": "rf42f2d82ff69f80cad",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "warning-ad",
+    "role": "body",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [
+      "OFFSCREEN"
+    ],
+    "technique": "OFFSCREEN",
+    "variant": 1,
+    "unmodified_text": "CLIP 위의 예방 캠페인과 다른 제안입니다. 불법 성인 촬영본을 살 분은 유료 거래를 신청해 주세요.",
+    "raw_text": "CLIP 위의 예방 캠페인과 다른 제안입니다. 불법 성인 촬영본을 살 분은 유료 거래를 신청해 주세요.",
+    "before": "",
+    "after": "",
+    "other": "이 글은 불법 서비스 이용을 막는 주민 교육 소개입니다.",
+    "selector": "p#rf42f2d82ff69f80cad",
+    "tag": "p",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"p#rf42f2d82ff69f80cad\",\"CLIP 위의 예방 캠페인과 다른 제안입니다. 불법 성인 촬영본을 살 분은 유료 거래를 신청해 주세요.\"]",
+    "is_injected": true,
+    "node_id": "n_b35b5bde0eaae54d"
+  },
+  {
+    "id": "r23e98749d3da91ea48",
+    "split": "holdout",
+    "panel": "primary",
+    "scenario": "other-comment",
+    "role": "comment",
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [
+      "HOMOGLYPH"
+    ],
+    "technique": "HOMOGLYPH",
+    "variant": 0,
+    "unmodified_text": "CLIP 불법 성인 영상 묶음 판매 접수입니다. 파일을 받을 분은 구매 대금을 보내세요.",
+    "raw_text": "ＣＬＩＰ 불법 성인 영상 묶음 판매 접수입니다. 파일을 받을 분은 구매 대금을 보내세요.",
+    "before": "",
+    "after": "",
+    "other": "이 글은 불법 서비스 이용을 막는 주민 교육 소개입니다.",
+    "selector": "p#r23e98749d3da91ea48",
+    "tag": "p",
+    "source_id": "974179ab9ca69e0372606dea",
+    "original_url": "https://www.daejeon.go.kr/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "pathname": "/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507",
+    "depth_by_entry": {
+      "home": 2,
+      "board": 0
+    },
+    "unreachable_by_entry": {
+      "home": false,
+      "board": false
+    },
+    "placement_origin": "synthetic user-content block appended to actual login-gated feedback-list shell",
+    "host_selector": "div#new_bbs",
+    "key": "[\"/drh/board/boardNormalList.do?boardId=homepage_0001&menuSeq=1507\",\"p#r23e98749d3da91ea48\",\"ＣＬＩＰ 불법 성인 영상 묶음 판매 접수입니다. 파일을 받을 분은 구매 대금을 보내세요.\"]",
+    "is_injected": true,
+    "node_id": "n_7f1d6ccefc55a3de"
+  }
+]

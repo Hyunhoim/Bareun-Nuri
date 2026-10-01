@@ -1,0 +1,362 @@
+[
+  {
+    "id": "0",
+    "token": "4lpine",
+    "neighbor_jamo": false,
+    "mode": "original",
+    "input": {
+      "target": "[표기]4lpine[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "id": "1",
+    "token": "4lpine",
+    "neighbor_jamo": false,
+    "mode": "explicit_substitution",
+    "input": {
+      "target": "[표기]4lpine[/표기]",
+      "context": "문자 표기 점검 기록: 원래 영단어 alpine의 1번째 글자 a 대신 숫자 4를 넣어 4lpine로 표시했다."
+    }
+  },
+  {
+    "id": "2",
+    "token": "4lpine",
+    "neighbor_jamo": false,
+    "mode": "literal_identifier",
+    "input": {
+      "target": "[표기]4lpine[/표기]",
+      "context": "제품 대장 기록: 4lpine는 처음부터 이 문자와 숫자로 부여한 식별번호다. 영어 단어를 바꾸거나 글자를 대신 쓴 표기가 아니다."
+    }
+  },
+  {
+    "id": "3",
+    "token": "4lpine",
+    "neighbor_jamo": true,
+    "mode": "original",
+    "input": {
+      "target": "ㅎㅏㄱㄱㅛ [표기]4lpine[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "id": "4",
+    "token": "4lpine",
+    "neighbor_jamo": true,
+    "mode": "explicit_substitution",
+    "input": {
+      "target": "ㅎㅏㄱㄱㅛ [표기]4lpine[/표기]",
+      "context": "문자 표기 점검 기록: 원래 영단어 alpine의 1번째 글자 a 대신 숫자 4를 넣어 4lpine로 표시했다."
+    }
+  },
+  {
+    "id": "5",
+    "token": "4lpine",
+    "neighbor_jamo": true,
+    "mode": "literal_identifier",
+    "input": {
+      "target": "ㅎㅏㄱㄱㅛ [표기]4lpine[/표기]",
+      "context": "제품 대장 기록: 4lpine는 처음부터 이 문자와 숫자로 부여한 식별번호다. 영어 단어를 바꾸거나 글자를 대신 쓴 표기가 아니다."
+    }
+  },
+  {
+    "id": "6",
+    "token": "cypr3ss",
+    "neighbor_jamo": false,
+    "mode": "original",
+    "input": {
+      "target": "[표기]cypr3ss[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "id": "7",
+    "token": "cypr3ss",
+    "neighbor_jamo": false,
+    "mode": "explicit_substitution",
+    "input": {
+      "target": "[표기]cypr3ss[/표기]",
+      "context": "문자 표기 점검 기록: 원래 영단어 cypress의 5번째 글자 e 대신 숫자 3를 넣어 cypr3ss로 표시했다."
+    }
+  },
+  {
+    "id": "8",
+    "token": "cypr3ss",
+    "neighbor_jamo": false,
+    "mode": "literal_identifier",
+    "input": {
+      "target": "[표기]cypr3ss[/표기]",
+      "context": "제품 대장 기록: cypr3ss는 처음부터 이 문자와 숫자로 부여한 식별번호다. 영어 단어를 바꾸거나 글자를 대신 쓴 표기가 아니다."
+    }
+  },
+  {
+    "id": "9",
+    "token": "cypr3ss",
+    "neighbor_jamo": true,
+    "mode": "original",
+    "input": {
+      "target": "ㅎㅏㄱㄱㅛ [표기]cypr3ss[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "id": "10",
+    "token": "cypr3ss",
+    "neighbor_jamo": true,
+    "mode": "explicit_substitution",
+    "input": {
+      "target": "ㅎㅏㄱㄱㅛ [표기]cypr3ss[/표기]",
+      "context": "문자 표기 점검 기록: 원래 영단어 cypress의 5번째 글자 e 대신 숫자 3를 넣어 cypr3ss로 표시했다."
+    }
+  },
+  {
+    "id": "11",
+    "token": "cypr3ss",
+    "neighbor_jamo": true,
+    "mode": "literal_identifier",
+    "input": {
+      "target": "ㅎㅏㄱㄱㅛ [표기]cypr3ss[/표기]",
+      "context": "제품 대장 기록: cypr3ss는 처음부터 이 문자와 숫자로 부여한 식별번호다. 영어 단어를 바꾸거나 글자를 대신 쓴 표기가 아니다."
+    }
+  },
+  {
+    "id": "12",
+    "token": "b4dger",
+    "neighbor_jamo": false,
+    "mode": "original",
+    "input": {
+      "target": "[표기]b4dger[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "id": "13",
+    "token": "b4dger",
+    "neighbor_jamo": false,
+    "mode": "explicit_substitution",
+    "input": {
+      "target": "[표기]b4dger[/표기]",
+      "context": "문자 표기 점검 기록: 원래 영단어 badger의 2번째 글자 a 대신 숫자 4를 넣어 b4dger로 표시했다."
+    }
+  },
+  {
+    "id": "14",
+    "token": "b4dger",
+    "neighbor_jamo": false,
+    "mode": "literal_identifier",
+    "input": {
+      "target": "[표기]b4dger[/표기]",
+      "context": "제품 대장 기록: b4dger는 처음부터 이 문자와 숫자로 부여한 식별번호다. 영어 단어를 바꾸거나 글자를 대신 쓴 표기가 아니다."
+    }
+  },
+  {
+    "id": "15",
+    "token": "b4dger",
+    "neighbor_jamo": true,
+    "mode": "original",
+    "input": {
+      "target": "ㅎㅏㄱㄱㅛ [표기]b4dger[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "id": "16",
+    "token": "b4dger",
+    "neighbor_jamo": true,
+    "mode": "explicit_substitution",
+    "input": {
+      "target": "ㅎㅏㄱㄱㅛ [표기]b4dger[/표기]",
+      "context": "문자 표기 점검 기록: 원래 영단어 badger의 2번째 글자 a 대신 숫자 4를 넣어 b4dger로 표시했다."
+    }
+  },
+  {
+    "id": "17",
+    "token": "b4dger",
+    "neighbor_jamo": true,
+    "mode": "literal_identifier",
+    "input": {
+      "target": "ㅎㅏㄱㄱㅛ [표기]b4dger[/표기]",
+      "context": "제품 대장 기록: b4dger는 처음부터 이 문자와 숫자로 부여한 식별번호다. 영어 단어를 바꾸거나 글자를 대신 쓴 표기가 아니다."
+    }
+  },
+  {
+    "id": "18",
+    "token": "d0lphin",
+    "neighbor_jamo": false,
+    "mode": "original",
+    "input": {
+      "target": "[표기]d0lphin[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "id": "19",
+    "token": "d0lphin",
+    "neighbor_jamo": false,
+    "mode": "explicit_substitution",
+    "input": {
+      "target": "[표기]d0lphin[/표기]",
+      "context": "문자 표기 점검 기록: 원래 영단어 dolphin의 2번째 글자 o 대신 숫자 0를 넣어 d0lphin로 표시했다."
+    }
+  },
+  {
+    "id": "20",
+    "token": "d0lphin",
+    "neighbor_jamo": false,
+    "mode": "literal_identifier",
+    "input": {
+      "target": "[표기]d0lphin[/표기]",
+      "context": "제품 대장 기록: d0lphin는 처음부터 이 문자와 숫자로 부여한 식별번호다. 영어 단어를 바꾸거나 글자를 대신 쓴 표기가 아니다."
+    }
+  },
+  {
+    "id": "21",
+    "token": "d0lphin",
+    "neighbor_jamo": true,
+    "mode": "original",
+    "input": {
+      "target": "ㅎㅏㄱㄱㅛ [표기]d0lphin[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "id": "22",
+    "token": "d0lphin",
+    "neighbor_jamo": true,
+    "mode": "explicit_substitution",
+    "input": {
+      "target": "ㅎㅏㄱㄱㅛ [표기]d0lphin[/표기]",
+      "context": "문자 표기 점검 기록: 원래 영단어 dolphin의 2번째 글자 o 대신 숫자 0를 넣어 d0lphin로 표시했다."
+    }
+  },
+  {
+    "id": "23",
+    "token": "d0lphin",
+    "neighbor_jamo": true,
+    "mode": "literal_identifier",
+    "input": {
+      "target": "ㅎㅏㄱㄱㅛ [표기]d0lphin[/표기]",
+      "context": "제품 대장 기록: d0lphin는 처음부터 이 문자와 숫자로 부여한 식별번호다. 영어 단어를 바꾸거나 글자를 대신 쓴 표기가 아니다."
+    }
+  },
+  {
+    "id": "24",
+    "token": "3merald",
+    "neighbor_jamo": false,
+    "mode": "original",
+    "input": {
+      "target": "[표기]3merald[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "id": "25",
+    "token": "3merald",
+    "neighbor_jamo": false,
+    "mode": "explicit_substitution",
+    "input": {
+      "target": "[표기]3merald[/표기]",
+      "context": "문자 표기 점검 기록: 원래 영단어 emerald의 1번째 글자 e 대신 숫자 3를 넣어 3merald로 표시했다."
+    }
+  },
+  {
+    "id": "26",
+    "token": "3merald",
+    "neighbor_jamo": false,
+    "mode": "literal_identifier",
+    "input": {
+      "target": "[표기]3merald[/표기]",
+      "context": "제품 대장 기록: 3merald는 처음부터 이 문자와 숫자로 부여한 식별번호다. 영어 단어를 바꾸거나 글자를 대신 쓴 표기가 아니다."
+    }
+  },
+  {
+    "id": "27",
+    "token": "3merald",
+    "neighbor_jamo": true,
+    "mode": "original",
+    "input": {
+      "target": "ㅎㅏㄱㄱㅛ [표기]3merald[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "id": "28",
+    "token": "3merald",
+    "neighbor_jamo": true,
+    "mode": "explicit_substitution",
+    "input": {
+      "target": "ㅎㅏㄱㄱㅛ [표기]3merald[/표기]",
+      "context": "문자 표기 점검 기록: 원래 영단어 emerald의 1번째 글자 e 대신 숫자 3를 넣어 3merald로 표시했다."
+    }
+  },
+  {
+    "id": "29",
+    "token": "3merald",
+    "neighbor_jamo": true,
+    "mode": "literal_identifier",
+    "input": {
+      "target": "ㅎㅏㄱㄱㅛ [표기]3merald[/표기]",
+      "context": "제품 대장 기록: 3merald는 처음부터 이 문자와 숫자로 부여한 식별번호다. 영어 단어를 바꾸거나 글자를 대신 쓴 표기가 아니다."
+    }
+  },
+  {
+    "id": "30",
+    "token": "falc0n",
+    "neighbor_jamo": false,
+    "mode": "original",
+    "input": {
+      "target": "[표기]falc0n[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "id": "31",
+    "token": "falc0n",
+    "neighbor_jamo": false,
+    "mode": "explicit_substitution",
+    "input": {
+      "target": "[표기]falc0n[/표기]",
+      "context": "문자 표기 점검 기록: 원래 영단어 falcon의 5번째 글자 o 대신 숫자 0를 넣어 falc0n로 표시했다."
+    }
+  },
+  {
+    "id": "32",
+    "token": "falc0n",
+    "neighbor_jamo": false,
+    "mode": "literal_identifier",
+    "input": {
+      "target": "[표기]falc0n[/표기]",
+      "context": "제품 대장 기록: falc0n는 처음부터 이 문자와 숫자로 부여한 식별번호다. 영어 단어를 바꾸거나 글자를 대신 쓴 표기가 아니다."
+    }
+  },
+  {
+    "id": "33",
+    "token": "falc0n",
+    "neighbor_jamo": true,
+    "mode": "original",
+    "input": {
+      "target": "ㅎㅏㄱㄱㅛ [표기]falc0n[/표기]",
+      "context": "이용 안내"
+    }
+  },
+  {
+    "id": "34",
+    "token": "falc0n",
+    "neighbor_jamo": true,
+    "mode": "explicit_substitution",
+    "input": {
+      "target": "ㅎㅏㄱㄱㅛ [표기]falc0n[/표기]",
+      "context": "문자 표기 점검 기록: 원래 영단어 falcon의 5번째 글자 o 대신 숫자 0를 넣어 falc0n로 표시했다."
+    }
+  },
+  {
+    "id": "35",
+    "token": "falc0n",
+    "neighbor_jamo": true,
+    "mode": "literal_identifier",
+    "input": {
+      "target": "ㅎㅏㄱㄱㅛ [표기]falc0n[/표기]",
+      "context": "제품 대장 기록: falc0n는 처음부터 이 문자와 숫자로 부여한 식별번호다. 영어 단어를 바꾸거나 글자를 대신 쓴 표기가 아니다."
+    }
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "name": "Nuri 1.2",
+  "status": "synthetic_training_candidate_not_trained",
+  "base_model": "klue/roberta-base",
+  "initialize_from_A_or_D": false,
+  "rows": 10000,
+  "labels": {
+    "0": 4000,
+    "1": 2000,
+    "2": 3000,
+    "3": 1000
+  },
+  "label_names": {
+    "0": "illegal_offer",
+    "1": "quotation_or_victim_request",
+    "2": "ordinary_or_legal_offer",
+    "3": "insufficient_evidence"
+  },
+  "scenario_groups": 1000,
+  "topic_families": 20,
+  "discourse_families": 10,
+  "layout_families": 5,
+  "presentation": {
+    "plain": 4000,
+    "jamo": 2000,
+    "homoglyph": 2000,
+    "transparent": 1000,
+    "offscreen": 1000
+  },
+  "human_reviewed": false,
+  "collected_real_dom": false,
+  "final_evaluation_created": false,
+  "split_policy": "training-only; do not randomly split rows. Shared topic/template/source require separate validation authoring. Group alone does not ensure unseen template or topic.",
+  "model_input_fields": [
+    "input.target",
+    "input.context"
+  ],
+  "metadata_must_not_be_model_input": true,
+  "files": {
+    "train.json": "2f57a97dfbd26090f2ff151abbead394c230006c5445b9bc5b003f57bf58e996",
+    "provenance.json": "40408afef47770af3ce445f22cec73316c1201aa60880d5920742feca952c68e",
+    "review.csv": "d491fbf8c904f902ea6912131135dd731b19d5d8b02bc63003f6258ac596a86c"
+  },
+  "generator_sha256": "7b2420e50af1df7cdc9c0568b4fbeb1900041fdd13acd606cd9ebfb86e26c7d2",
+  "topics_sha256": "e76c2c2d731a86cf65690402de9d2e5708bd0b2014caca00e8f01323c9229551"
+}

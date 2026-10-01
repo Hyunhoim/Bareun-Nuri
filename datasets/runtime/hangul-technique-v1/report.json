@@ -1,0 +1,936 @@
+{
+  "existing": {
+    "core": {
+      "confusion": [
+        [
+          16,
+          0,
+          0
+        ],
+        [
+          6,
+          2,
+          0
+        ],
+        [
+          2,
+          0,
+          6
+        ]
+      ],
+      "macro_f1": 0.6857142857142856,
+      "strict_f1": 0.8,
+      "normal_false": 6,
+      "uncertain_false": 2,
+      "count": 32,
+      "base_tp_lost": 0
+    },
+    "boundary": {
+      "confusion": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          8,
+          2,
+          6
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "macro_f1": 0.07407407407407407,
+      "strict_f1": 0.0,
+      "normal_false": 8,
+      "uncertain_false": 0,
+      "count": 16,
+      "base_tp_lost": 0
+    },
+    "gold_ad_context": {
+      "confusion": [
+        [
+          8,
+          0,
+          0
+        ],
+        [
+          6,
+          2,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "macro_f1": 0.3757575757575758,
+      "strict_f1": 0.7272727272727273,
+      "normal_false": 6,
+      "uncertain_false": 0,
+      "count": 16,
+      "base_tp_lost": 0
+    },
+    "posthoc_exclude_weak_circle_shape": {
+      "confusion": [
+        [
+          12,
+          0,
+          0
+        ],
+        [
+          5,
+          1,
+          0
+        ],
+        [
+          2,
+          0,
+          4
+        ]
+      ],
+      "macro_f1": 0.6199692780337941,
+      "strict_f1": 0.7741935483870968,
+      "normal_false": 5,
+      "uncertain_false": 2,
+      "count": 24,
+      "base_tp_lost": 0
+    },
+    "all48": {
+      "confusion": [
+        [
+          16,
+          0,
+          0
+        ],
+        [
+          14,
+          4,
+          6
+        ],
+        [
+          2,
+          0,
+          6
+        ]
+      ],
+      "macro_f1": 0.5174603174603174,
+      "strict_f1": 0.6666666666666666,
+      "normal_false": 14,
+      "uncertain_false": 2,
+      "count": 48,
+      "base_tp_lost": 0
+    },
+    "subtypes": {
+      "cjk_square": {
+        "confusion": [
+          [
+            2,
+            0,
+            0
+          ],
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            0,
+            0,
+            1
+          ]
+        ],
+        "macro_f1": 1.0,
+        "strict_f1": 1.0,
+        "normal_false": 0,
+        "uncertain_false": 0
+      },
+      "digit": {
+        "confusion": [
+          [
+            2,
+            0,
+            0
+          ],
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            0,
+            0,
+            1
+          ]
+        ],
+        "macro_f1": 1.0,
+        "strict_f1": 1.0,
+        "normal_false": 0,
+        "uncertain_false": 0
+      },
+      "latin_circle": {
+        "confusion": [
+          [
+            2,
+            0,
+            0
+          ],
+          [
+            1,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            1
+          ]
+        ],
+        "macro_f1": 0.6,
+        "strict_f1": 0.8,
+        "normal_false": 1,
+        "uncertain_false": 0
+      },
+      "latin_shape": {
+        "confusion": [
+          [
+            2,
+            0,
+            0
+          ],
+          [
+            1,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            1
+          ]
+        ],
+        "macro_f1": 0.6,
+        "strict_f1": 0.8,
+        "normal_false": 1,
+        "uncertain_false": 0
+      },
+      "latin_vertical": {
+        "confusion": [
+          [
+            8,
+            0,
+            0
+          ],
+          [
+            4,
+            0,
+            0
+          ],
+          [
+            2,
+            0,
+            2
+          ]
+        ],
+        "macro_f1": 0.4646464646464647,
+        "strict_f1": 0.7272727272727273,
+        "normal_false": 4,
+        "uncertain_false": 2
+      }
+    },
+    "median_wall_sec": 1.2010052000000542,
+    "errors": [
+      {
+        "id": "7ac44a0fe8f207fd05aa",
+        "label": 1,
+        "panel": "core",
+        "family": "토토",
+        "kind": "latin_circle",
+        "is_ad": true,
+        "reading": "토토",
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 0
+      },
+      {
+        "id": "233bab5b4b2391a6120b",
+        "label": 1,
+        "panel": "core",
+        "family": "카지노",
+        "kind": "latin_vertical",
+        "is_ad": true,
+        "reading": "카지노",
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 0
+      },
+      {
+        "id": "2aafb475832322792e7e",
+        "label": 1,
+        "panel": "core",
+        "family": "카지노",
+        "kind": "latin_vertical",
+        "is_ad": true,
+        "reading": "카지노",
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 0
+      },
+      {
+        "id": "83aa64042c7189f31000",
+        "label": 2,
+        "panel": "core",
+        "family": "카지노",
+        "kind": "latin_vertical",
+        "is_ad": false,
+        "reading": "카지노",
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 0
+      },
+      {
+        "id": "4fe01a33dac48b278b9c",
+        "label": 1,
+        "panel": "core",
+        "family": "마약",
+        "kind": "latin_shape",
+        "is_ad": true,
+        "reading": "마약",
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 0
+      },
+      {
+        "id": "30df4e8e08679de9b3bd",
+        "label": 1,
+        "panel": "core",
+        "family": "비아그라",
+        "kind": "latin_vertical",
+        "is_ad": true,
+        "reading": "비아그라",
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 0
+      },
+      {
+        "id": "d18ff18f9dc96d73c989",
+        "label": 2,
+        "panel": "core",
+        "family": "비아그라",
+        "kind": "latin_vertical",
+        "is_ad": false,
+        "reading": "비아그라",
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 0
+      },
+      {
+        "id": "5db23b92f55ec2125415",
+        "label": 1,
+        "panel": "core",
+        "family": "성인",
+        "kind": "latin_vertical",
+        "is_ad": true,
+        "reading": "성인",
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 0
+      },
+      {
+        "id": "e01d8f40da6d657e6818",
+        "label": 1,
+        "panel": "boundary",
+        "family": "ㅌㅗㅌㅗ",
+        "kind": "JAMO",
+        "is_ad": true,
+        "reading": null,
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 0
+      },
+      {
+        "id": "0d9c80c8bce4b298f07d",
+        "label": 1,
+        "panel": "boundary",
+        "family": "ㅋㅏㅈㅣㄴㅗ",
+        "kind": "JAMO",
+        "is_ad": true,
+        "reading": null,
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 0
+      },
+      {
+        "id": "2390dbc68a3918fba529",
+        "label": 1,
+        "panel": "boundary",
+        "family": "ㅁㅏㅇㅑㄱ",
+        "kind": "JAMO",
+        "is_ad": true,
+        "reading": null,
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 0
+      },
+      {
+        "id": "499479663d4fcc240112",
+        "label": 1,
+        "panel": "boundary",
+        "family": "ㅂㅣㅇㅏㄱㅡㄹㅏ",
+        "kind": "JAMO",
+        "is_ad": true,
+        "reading": null,
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 0
+      },
+      {
+        "id": "42372cfdc2d20014cc73",
+        "label": 1,
+        "panel": "boundary",
+        "family": "ㅌㅗㅌㅗ",
+        "kind": "JAMO",
+        "is_ad": false,
+        "reading": null,
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 0
+      },
+      {
+        "id": "3eb4ce823b707eb69175",
+        "label": 1,
+        "panel": "boundary",
+        "family": "ㅋㅏㅈㅣㄴㅗ",
+        "kind": "JAMO",
+        "is_ad": false,
+        "reading": null,
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 0
+      },
+      {
+        "id": "a6c4c19a477b20e3b0d8",
+        "label": 1,
+        "panel": "boundary",
+        "family": "ㄱㅏㄴㅏ",
+        "kind": "JAMO",
+        "is_ad": false,
+        "reading": null,
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 2
+      },
+      {
+        "id": "c6b01299acac0fbeacdb",
+        "label": 1,
+        "panel": "boundary",
+        "family": "ㅎㅏㄴㄱㅡㄹ",
+        "kind": "JAMO",
+        "is_ad": false,
+        "reading": null,
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 2
+      },
+      {
+        "id": "6562442cf0085e279545",
+        "label": 1,
+        "panel": "boundary",
+        "family": "토토",
+        "kind": "plain",
+        "is_ad": true,
+        "reading": null,
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 0
+      },
+      {
+        "id": "60deb236ac6492be68fb",
+        "label": 1,
+        "panel": "boundary",
+        "family": "카지노",
+        "kind": "plain",
+        "is_ad": true,
+        "reading": null,
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 0
+      },
+      {
+        "id": "0a500e187287fc26b3b1",
+        "label": 1,
+        "panel": "boundary",
+        "family": "0O",
+        "kind": "education",
+        "is_ad": false,
+        "reading": null,
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 2
+      },
+      {
+        "id": "7f7f5cd639aa7bbe777e",
+        "label": 1,
+        "panel": "boundary",
+        "family": "ㅇoO",
+        "kind": "education",
+        "is_ad": false,
+        "reading": null,
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 2
+      },
+      {
+        "id": "81d5025eaba5451f9685",
+        "label": 1,
+        "panel": "boundary",
+        "family": "I1l",
+        "kind": "education",
+        "is_ad": false,
+        "reading": null,
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 2
+      },
+      {
+        "id": "9368987e82378a4ed119",
+        "label": 1,
+        "panel": "boundary",
+        "family": "보건I팀",
+        "kind": "identifier",
+        "is_ad": false,
+        "reading": null,
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 2
+      }
+    ]
+  },
+  "klue_uts": {
+    "core": {
+      "confusion": [
+        [
+          16,
+          0,
+          0
+        ],
+        [
+          3,
+          5,
+          0
+        ],
+        [
+          1,
+          0,
+          7
+        ]
+      ],
+      "macro_f1": 0.8638176638176639,
+      "strict_f1": 0.8888888888888888,
+      "normal_false": 3,
+      "uncertain_false": 1,
+      "count": 32,
+      "base_tp_lost": 0
+    },
+    "boundary": {
+      "confusion": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          8,
+          2,
+          6
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "macro_f1": 0.07407407407407407,
+      "strict_f1": 0.0,
+      "normal_false": 8,
+      "uncertain_false": 0,
+      "count": 16,
+      "base_tp_lost": 0
+    },
+    "gold_ad_context": {
+      "confusion": [
+        [
+          8,
+          0,
+          0
+        ],
+        [
+          3,
+          5,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "macro_f1": 0.5371120107962213,
+      "strict_f1": 0.8421052631578947,
+      "normal_false": 3,
+      "uncertain_false": 0,
+      "count": 16,
+      "base_tp_lost": 0
+    },
+    "posthoc_exclude_weak_circle_shape": {
+      "confusion": [
+        [
+          12,
+          0,
+          0
+        ],
+        [
+          2,
+          4,
+          0
+        ],
+        [
+          1,
+          0,
+          5
+        ]
+      ],
+      "macro_f1": 0.865993265993266,
+      "strict_f1": 0.8888888888888888,
+      "normal_false": 2,
+      "uncertain_false": 1,
+      "count": 24,
+      "base_tp_lost": 0
+    },
+    "all48": {
+      "confusion": [
+        [
+          16,
+          0,
+          0
+        ],
+        [
+          11,
+          7,
+          6
+        ],
+        [
+          1,
+          0,
+          7
+        ]
+      ],
+      "macro_f1": 0.6151840990550668,
+      "strict_f1": 0.7272727272727273,
+      "normal_false": 11,
+      "uncertain_false": 1,
+      "count": 48,
+      "base_tp_lost": 0
+    },
+    "subtypes": {
+      "cjk_square": {
+        "confusion": [
+          [
+            2,
+            0,
+            0
+          ],
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            0,
+            0,
+            1
+          ]
+        ],
+        "macro_f1": 1.0,
+        "strict_f1": 1.0,
+        "normal_false": 0,
+        "uncertain_false": 0
+      },
+      "digit": {
+        "confusion": [
+          [
+            2,
+            0,
+            0
+          ],
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            0,
+            0,
+            1
+          ]
+        ],
+        "macro_f1": 1.0,
+        "strict_f1": 1.0,
+        "normal_false": 0,
+        "uncertain_false": 0
+      },
+      "latin_circle": {
+        "confusion": [
+          [
+            2,
+            0,
+            0
+          ],
+          [
+            1,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            1
+          ]
+        ],
+        "macro_f1": 0.6,
+        "strict_f1": 0.8,
+        "normal_false": 1,
+        "uncertain_false": 0
+      },
+      "latin_shape": {
+        "confusion": [
+          [
+            2,
+            0,
+            0
+          ],
+          [
+            0,
+            1,
+            0
+          ],
+          [
+            0,
+            0,
+            1
+          ]
+        ],
+        "macro_f1": 1.0,
+        "strict_f1": 1.0,
+        "normal_false": 0,
+        "uncertain_false": 0
+      },
+      "latin_vertical": {
+        "confusion": [
+          [
+            8,
+            0,
+            0
+          ],
+          [
+            2,
+            2,
+            0
+          ],
+          [
+            1,
+            0,
+            3
+          ]
+        ],
+        "macro_f1": 0.7886382623224728,
+        "strict_f1": 0.8421052631578947,
+        "normal_false": 2,
+        "uncertain_false": 1
+      }
+    },
+    "median_wall_sec": 2.915335099999993,
+    "errors": [
+      {
+        "id": "7ac44a0fe8f207fd05aa",
+        "label": 1,
+        "panel": "core",
+        "family": "토토",
+        "kind": "latin_circle",
+        "is_ad": true,
+        "reading": "토토",
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 0
+      },
+      {
+        "id": "2aafb475832322792e7e",
+        "label": 1,
+        "panel": "core",
+        "family": "카지노",
+        "kind": "latin_vertical",
+        "is_ad": true,
+        "reading": "카지노",
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 0
+      },
+      {
+        "id": "83aa64042c7189f31000",
+        "label": 2,
+        "panel": "core",
+        "family": "카지노",
+        "kind": "latin_vertical",
+        "is_ad": false,
+        "reading": "카지노",
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 0
+      },
+      {
+        "id": "5db23b92f55ec2125415",
+        "label": 1,
+        "panel": "core",
+        "family": "성인",
+        "kind": "latin_vertical",
+        "is_ad": true,
+        "reading": "성인",
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 0
+      },
+      {
+        "id": "e01d8f40da6d657e6818",
+        "label": 1,
+        "panel": "boundary",
+        "family": "ㅌㅗㅌㅗ",
+        "kind": "JAMO",
+        "is_ad": true,
+        "reading": null,
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 0
+      },
+      {
+        "id": "0d9c80c8bce4b298f07d",
+        "label": 1,
+        "panel": "boundary",
+        "family": "ㅋㅏㅈㅣㄴㅗ",
+        "kind": "JAMO",
+        "is_ad": true,
+        "reading": null,
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 0
+      },
+      {
+        "id": "2390dbc68a3918fba529",
+        "label": 1,
+        "panel": "boundary",
+        "family": "ㅁㅏㅇㅑㄱ",
+        "kind": "JAMO",
+        "is_ad": true,
+        "reading": null,
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 0
+      },
+      {
+        "id": "499479663d4fcc240112",
+        "label": 1,
+        "panel": "boundary",
+        "family": "ㅂㅣㅇㅏㄱㅡㄹㅏ",
+        "kind": "JAMO",
+        "is_ad": true,
+        "reading": null,
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 0
+      },
+      {
+        "id": "42372cfdc2d20014cc73",
+        "label": 1,
+        "panel": "boundary",
+        "family": "ㅌㅗㅌㅗ",
+        "kind": "JAMO",
+        "is_ad": false,
+        "reading": null,
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 0
+      },
+      {
+        "id": "3eb4ce823b707eb69175",
+        "label": 1,
+        "panel": "boundary",
+        "family": "ㅋㅏㅈㅣㄴㅗ",
+        "kind": "JAMO",
+        "is_ad": false,
+        "reading": null,
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 0
+      },
+      {
+        "id": "a6c4c19a477b20e3b0d8",
+        "label": 1,
+        "panel": "boundary",
+        "family": "ㄱㅏㄴㅏ",
+        "kind": "JAMO",
+        "is_ad": false,
+        "reading": null,
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 2
+      },
+      {
+        "id": "c6b01299acac0fbeacdb",
+        "label": 1,
+        "panel": "boundary",
+        "family": "ㅎㅏㄴㄱㅡㄹ",
+        "kind": "JAMO",
+        "is_ad": false,
+        "reading": null,
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 2
+      },
+      {
+        "id": "6562442cf0085e279545",
+        "label": 1,
+        "panel": "boundary",
+        "family": "토토",
+        "kind": "plain",
+        "is_ad": true,
+        "reading": null,
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 0
+      },
+      {
+        "id": "60deb236ac6492be68fb",
+        "label": 1,
+        "panel": "boundary",
+        "family": "카지노",
+        "kind": "plain",
+        "is_ad": true,
+        "reading": null,
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 0
+      },
+      {
+        "id": "0a500e187287fc26b3b1",
+        "label": 1,
+        "panel": "boundary",
+        "family": "0O",
+        "kind": "education",
+        "is_ad": false,
+        "reading": null,
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 2
+      },
+      {
+        "id": "7f7f5cd639aa7bbe777e",
+        "label": 1,
+        "panel": "boundary",
+        "family": "ㅇoO",
+        "kind": "education",
+        "is_ad": false,
+        "reading": null,
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 2
+      },
+      {
+        "id": "81d5025eaba5451f9685",
+        "label": 1,
+        "panel": "boundary",
+        "family": "I1l",
+        "kind": "education",
+        "is_ad": false,
+        "reading": null,
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 2
+      },
+      {
+        "id": "9368987e82378a4ed119",
+        "label": 1,
+        "panel": "boundary",
+        "family": "보건I팀",
+        "kind": "identifier",
+        "is_ad": false,
+        "reading": null,
+        "label_source": "synthetic_author_not_independent_review",
+        "prediction": 2
+      }
+    ]
+  }
+}

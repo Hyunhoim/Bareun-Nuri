@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "independent": true,
+  "created_at": "2026-09-27T07:36:01.560Z",
+  "hashes": {
+    "agent/experiments/digit-span-focus-methods.cjs": "29688b0f78912798addd30b2d03eebf3440f5dcb77277e38f997eddda2024af1",
+    "agent/experiments/digit-span-focus-run.cjs": "184ae691a9182738ab9617acdb63f4699161715541b7a71d1d95ffefef450b1f",
+    "docs/digit-span-focus-plan.md": "efdd9337eae2c7830a10da9cb86e1129dc2cbfb5f1d9f94c39a1204ec6a3fd25"
+  },
+  "checks": {
+    "focused_count": 12,
+    "focused_quote_unknown": true,
+    "parent_quote_request_excluded": true,
+    "links_empty_required": true,
+    "unchanged_data_seal": true
+  },
+  "limits": [
+    "Supersedes prior projection quote-metadata preservation claim; data seal unchanged",
+    "No model requests or outcomes evaluated"
+  ]
+}

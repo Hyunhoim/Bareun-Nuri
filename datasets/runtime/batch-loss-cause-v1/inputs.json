@@ -1,0 +1,2934 @@
+[
+  {
+    "name": "dev-0",
+    "candidates": [
+      {
+        "node_id": "n_091c45b29049d8e4",
+        "raw_text": "접속권 상담",
+        "normalized_text": "접속권 상담",
+        "page_title": "시민 참여 안내",
+        "frame_urls": [],
+        "signals": [],
+        "links": [],
+        "nearby": {},
+        "own_style": {
+          "tag": "p"
+        },
+        "context_evidence": {
+          "target_tag": "p",
+          "scope": {
+            "tag": "li",
+            "role": null,
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "tag": "p",
+              "text": "자세한 것은 따로 이야기합시다.",
+              "quoted": false
+            },
+            {
+              "relation": "target",
+              "tag": "p",
+              "quoted": false
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_0a4264282a73994c",
+        "raw_text": "답글 목록",
+        "normalized_text": "답글 목록",
+        "page_title": "시민 참여 안내",
+        "frame_urls": [],
+        "signals": [],
+        "links": [],
+        "nearby": {
+          "after": "당사자 허락 없는 성인 동영상을 판매합니다."
+        },
+        "own_style": {
+          "tag": "span"
+        },
+        "context_evidence": {
+          "target_tag": "span",
+          "scope": {
+            "tag": "div",
+            "role": null,
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "target",
+              "tag": "span",
+              "quoted": false
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_0cf8bbe90e982338",
+        "raw_text": "무허가 경륜 도박 참가권 판매",
+        "normalized_text": "무허가 경륜 도박 참가권 판매",
+        "page_title": "시민 참여 안내",
+        "frame_urls": [],
+        "signals": [],
+        "links": [],
+        "nearby": {},
+        "own_style": {
+          "tag": "dt"
+        },
+        "context_evidence": {
+          "target_tag": "dt",
+          "scope": {
+            "tag": "dl",
+            "role": null,
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "tag": "p",
+              "text": "단속 통계의 위반 행위 항목입니다.",
+              "quoted": false
+            },
+            {
+              "relation": "target",
+              "tag": "dt",
+              "quoted": false
+            },
+            {
+              "relation": "after",
+              "tag": "p",
+              "text": "이번 분기 적발 건수: 12건.",
+              "quoted": false
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_0d4485f9edc52f8a",
+        "raw_text": "선납 금액 안내",
+        "normalized_text": "선납 금액 안내",
+        "page_title": "시민 참여 안내",
+        "frame_urls": [],
+        "signals": [],
+        "links": [],
+        "nearby": {},
+        "own_style": {
+          "tag": "button"
+        },
+        "context_evidence": {
+          "target_tag": "button",
+          "scope": {
+            "tag": "section",
+            "role": null,
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "tag": "p",
+              "text": "지난번에 말씀드린 건입니다.",
+              "quoted": false
+            },
+            {
+              "relation": "target",
+              "tag": "button",
+              "quoted": false
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_1b06373d75c27bb1",
+        "raw_text": "“현금을 걸고 사설 경주 도박에 들어오세요.”",
+        "normalized_text": "“현금을 걸고 사설 경주 도박에 들어오세요.”",
+        "page_title": "시민 참여 안내",
+        "frame_urls": [],
+        "signals": [],
+        "links": [],
+        "nearby": {},
+        "own_style": {
+          "tag": "blockquote"
+        },
+        "context_evidence": {
+          "target_tag": "blockquote",
+          "scope": {
+            "tag": "div",
+            "role": null,
+            "document_scope": false
+          },
+          "target_quoted": true,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "tag": "p",
+              "text": "피해예방 교육에서 모집 수법을 보여 주는 사례입니다.",
+              "quoted": false
+            },
+            {
+              "relation": "target",
+              "tag": "blockquote",
+              "quoted": true
+            },
+            {
+              "relation": "after",
+              "tag": "p",
+              "text": "이 권유에 응하거나 돈을 보내지 마세요.",
+              "quoted": false
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_2266343fe9220cbf",
+        "raw_text": "배송 요청",
+        "normalized_text": "배송 요청",
+        "page_title": "시민 참여 안내",
+        "frame_urls": [],
+        "signals": [],
+        "links": [],
+        "nearby": {},
+        "own_style": {
+          "tag": "a"
+        },
+        "context_evidence": {
+          "target_tag": "a",
+          "scope": {
+            "tag": "li",
+            "role": null,
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "tag": "p",
+              "text": "비동의 성인 녹화물을 돈 받고 보내 드립니다. 결제한 구매자는 이 연결에서 신청하세요.",
+              "quoted": false
+            },
+            {
+              "relation": "target",
+              "tag": "a",
+              "quoted": false
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_2af7baf8eb57751b",
+        "raw_text": "주문서 작성",
+        "normalized_text": "주문서 작성",
+        "page_title": "시민 참여 안내",
+        "frame_urls": [],
+        "signals": [],
+        "links": [],
+        "nearby": {},
+        "own_style": {
+          "tag": "a"
+        },
+        "context_evidence": {
+          "target_tag": "a",
+          "scope": {
+            "tag": "div",
+            "role": null,
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "tag": "p",
+              "text": "당사자 허락 없는 성인 영상을 판매하는 제 게시물입니다.",
+              "quoted": false
+            },
+            {
+              "relation": "target",
+              "tag": "a",
+              "quoted": false
+            },
+            {
+              "relation": "after",
+              "tag": "p",
+              "text": "위 연결에서 구매 수량을 보내 주세요.",
+              "quoted": false
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_302ff3b4ab6753a7",
+        "raw_text": "비공개 묶음 구매",
+        "normalized_text": "비공개 묶음 구매",
+        "page_title": "시민 참여 안내",
+        "frame_urls": [],
+        "signals": [],
+        "links": [],
+        "nearby": {},
+        "own_style": {
+          "tag": "td"
+        },
+        "context_evidence": {
+          "target_tag": "td",
+          "scope": {
+            "tag": "tr",
+            "role": null,
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "tag": "p",
+              "text": "확인하신 분은 연락 주세요.",
+              "quoted": false
+            },
+            {
+              "relation": "target",
+              "tag": "td",
+              "quoted": false
+            }
+          ]
+        }
+      }
+    ],
+    "labels": [
+      {
+        "node_id": "n_091c45b29049d8e4",
+        "is_ad": null,
+        "scenario": "insufficient"
+      },
+      {
+        "node_id": "n_0a4264282a73994c",
+        "is_ad": false,
+        "scenario": "metadata"
+      },
+      {
+        "node_id": "n_0cf8bbe90e982338",
+        "is_ad": false,
+        "scenario": "noun"
+      },
+      {
+        "node_id": "n_0d4485f9edc52f8a",
+        "is_ad": null,
+        "scenario": "insufficient"
+      },
+      {
+        "node_id": "n_1b06373d75c27bb1",
+        "is_ad": false,
+        "scenario": "quote"
+      },
+      {
+        "node_id": "n_2266343fe9220cbf",
+        "is_ad": true,
+        "scenario": "cta"
+      },
+      {
+        "node_id": "n_2af7baf8eb57751b",
+        "is_ad": true,
+        "scenario": "cta"
+      },
+      {
+        "node_id": "n_302ff3b4ab6753a7",
+        "is_ad": null,
+        "scenario": "insufficient"
+      }
+    ]
+  },
+  {
+    "name": "eval-8",
+    "candidates": [
+      {
+        "node_id": "n_84e120cc153030e5",
+        "raw_text": "참여 금액 확인",
+        "normalized_text": "참여 금액 확인",
+        "page_title": "시민 참여 안내",
+        "frame_urls": [],
+        "signals": [],
+        "links": [],
+        "nearby": {},
+        "own_style": {
+          "tag": "span"
+        },
+        "context_evidence": {
+          "target_tag": "span",
+          "scope": {
+            "tag": "section",
+            "role": null,
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "tag": "p",
+              "text": "아시는 분에게만 설명하겠습니다.",
+              "quoted": false
+            },
+            {
+              "relation": "target",
+              "tag": "span",
+              "quoted": false
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_89f680f8f2683dea",
+        "raw_text": "글쓴이: 푸른나침반",
+        "normalized_text": "글쓴이: 푸른나침반",
+        "page_title": "시민 참여 안내",
+        "frame_urls": [],
+        "signals": [],
+        "links": [],
+        "nearby": {},
+        "own_style": {
+          "tag": "strong"
+        },
+        "context_evidence": {
+          "target_tag": "strong",
+          "scope": {
+            "tag": "li",
+            "role": null,
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "target",
+              "tag": "strong",
+              "quoted": false
+            },
+            {
+              "relation": "after",
+              "tag": "p",
+              "text": "허가 없는 투견 베팅의 판돈을 받습니다. 유료로 참가하세요.",
+              "quoted": false
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_8ae4d105b4fc12c5",
+        "raw_text": "수정일 2026-07-11",
+        "normalized_text": "수정일 2026-07-11",
+        "page_title": "시민 참여 안내",
+        "frame_urls": [],
+        "signals": [],
+        "links": [],
+        "nearby": {},
+        "own_style": {
+          "tag": "small"
+        },
+        "context_evidence": {
+          "target_tag": "small",
+          "scope": {
+            "tag": "div",
+            "role": null,
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "tag": "p",
+              "text": "불법 촬영된 성인 사생활 자료를 돈 받고 제공합니다.",
+              "quoted": false
+            },
+            {
+              "relation": "target",
+              "tag": "small",
+              "quoted": false
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_95e5a6b4e5855d4f",
+        "raw_text": "“불법 투견 도박에 판돈을 내고 합류하십시오.”",
+        "normalized_text": "“불법 투견 도박에 판돈을 내고 합류하십시오.”",
+        "page_title": "시민 참여 안내",
+        "frame_urls": [],
+        "signals": [],
+        "links": [],
+        "nearby": {},
+        "own_style": {
+          "tag": "q"
+        },
+        "context_evidence": {
+          "target_tag": "q",
+          "scope": {
+            "tag": "span",
+            "role": null,
+            "document_scope": false
+          },
+          "target_quoted": true,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "tag": "p",
+              "text": "우리 모임의 실제 초대 문구를 그대로 올립니다.",
+              "quoted": false
+            },
+            {
+              "relation": "target",
+              "tag": "q",
+              "quoted": true
+            },
+            {
+              "relation": "after",
+              "tag": "p",
+              "text": "제가 돈을 받아 참가 명단에 넣어 드립니다.",
+              "quoted": false
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_98588700c26b881a",
+        "raw_text": "“불법 투견 도박에 판돈을 내고 합류하십시오.”",
+        "normalized_text": "“불법 투견 도박에 판돈을 내고 합류하십시오.”",
+        "page_title": "시민 참여 안내",
+        "frame_urls": [],
+        "signals": [],
+        "links": [],
+        "nearby": {},
+        "own_style": {
+          "tag": "q"
+        },
+        "context_evidence": {
+          "target_tag": "q",
+          "scope": {
+            "tag": "span",
+            "role": null,
+            "document_scope": false
+          },
+          "target_quoted": true,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "tag": "p",
+              "text": "학교 신문이 보도한 불법 모집 메시지입니다.",
+              "quoted": false
+            },
+            {
+              "relation": "target",
+              "tag": "q",
+              "quoted": true
+            },
+            {
+              "relation": "after",
+              "tag": "p",
+              "text": "학생들에게 이 거래의 위험을 알리는 기사입니다.",
+              "quoted": false
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_9b55f8a9107f151b",
+        "raw_text": "베팅 신청",
+        "normalized_text": "베팅 신청",
+        "page_title": "시민 참여 안내",
+        "frame_urls": [],
+        "signals": [],
+        "links": [],
+        "nearby": {},
+        "own_style": {
+          "tag": "a"
+        },
+        "context_evidence": {
+          "target_tag": "a",
+          "scope": {
+            "tag": "li",
+            "role": null,
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "tag": "p",
+              "text": "허가 없는 투견 도박을 운영합니다. 돈을 걸 분은 아래에서 참가를 신청하세요.",
+              "quoted": false
+            },
+            {
+              "relation": "target",
+              "tag": "a",
+              "quoted": false
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_a9c16c52a97f6998",
+        "raw_text": "현금 대신 점수표를 쓰는 무료 보드게임 교실",
+        "normalized_text": "현금 대신 점수표를 쓰는 무료 보드게임 교실",
+        "page_title": "시민 참여 안내",
+        "frame_urls": [],
+        "signals": [],
+        "links": [],
+        "nearby": {
+          "before": "불법 마작장에 입장료를 보내세요."
+        },
+        "own_style": {
+          "tag": "span"
+        },
+        "context_evidence": {
+          "target_tag": "span",
+          "scope": {
+            "tag": "div",
+            "role": null,
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "target",
+              "tag": "span",
+              "quoted": false
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_bd3ae0c2362f73a7",
+        "raw_text": "자료 묶음 신청",
+        "normalized_text": "자료 묶음 신청",
+        "page_title": "시민 참여 안내",
+        "frame_urls": [],
+        "signals": [],
+        "links": [],
+        "nearby": {},
+        "own_style": {
+          "tag": "dd"
+        },
+        "context_evidence": {
+          "target_tag": "dd",
+          "scope": {
+            "tag": "dl",
+            "role": null,
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "tag": "p",
+              "text": "내용은 개별 연락으로만 알려 드립니다.",
+              "quoted": false
+            },
+            {
+              "relation": "target",
+              "tag": "dd",
+              "quoted": false
+            }
+          ]
+        }
+      }
+    ],
+    "labels": [
+      {
+        "node_id": "n_84e120cc153030e5",
+        "is_ad": null,
+        "scenario": "insufficient"
+      },
+      {
+        "node_id": "n_89f680f8f2683dea",
+        "is_ad": false,
+        "scenario": "metadata"
+      },
+      {
+        "node_id": "n_8ae4d105b4fc12c5",
+        "is_ad": false,
+        "scenario": "metadata"
+      },
+      {
+        "node_id": "n_95e5a6b4e5855d4f",
+        "is_ad": true,
+        "scenario": "quote"
+      },
+      {
+        "node_id": "n_98588700c26b881a",
+        "is_ad": false,
+        "scenario": "quote"
+      },
+      {
+        "node_id": "n_9b55f8a9107f151b",
+        "is_ad": true,
+        "scenario": "cta"
+      },
+      {
+        "node_id": "n_a9c16c52a97f6998",
+        "is_ad": false,
+        "scenario": "same_role"
+      },
+      {
+        "node_id": "n_bd3ae0c2362f73a7",
+        "is_ad": null,
+        "scenario": "insufficient"
+      }
+    ]
+  },
+  {
+    "name": "eval-16",
+    "candidates": [
+      {
+        "node_id": "n_c3a3885eb8f8335f",
+        "raw_text": "시민 영상제 상영작 해설 모임을 신청하세요.",
+        "normalized_text": "시민 영상제 상영작 해설 모임을 신청하세요.",
+        "page_title": "시민 참여 안내",
+        "frame_urls": [],
+        "signals": [],
+        "links": [],
+        "nearby": {},
+        "own_style": {
+          "tag": "a"
+        },
+        "context_evidence": {
+          "target_tag": "a",
+          "scope": {
+            "tag": "article",
+            "role": null,
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "target",
+              "tag": "a",
+              "quoted": false
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_c3e93ee7f442d254",
+        "raw_text": "이용권 요금 문의",
+        "normalized_text": "이용권 요금 문의",
+        "page_title": "시민 참여 안내",
+        "frame_urls": [],
+        "signals": [],
+        "links": [],
+        "nearby": {},
+        "own_style": {
+          "tag": "a"
+        },
+        "context_evidence": {
+          "target_tag": "a",
+          "scope": {
+            "tag": "article",
+            "role": null,
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "tag": "p",
+              "text": "어제 대화한 내용을 참고해 주세요.",
+              "quoted": false
+            },
+            {
+              "relation": "target",
+              "tag": "a",
+              "quoted": false
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_c539e0f6ab8d17e9",
+        "raw_text": "구독 대금 납부",
+        "normalized_text": "구독 대금 납부",
+        "page_title": "시민 참여 안내",
+        "frame_urls": [],
+        "signals": [],
+        "links": [],
+        "nearby": {},
+        "own_style": {
+          "tag": "a"
+        },
+        "context_evidence": {
+          "target_tag": "a",
+          "scope": {
+            "tag": "section",
+            "role": null,
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "tag": "p",
+              "text": "동의 없이 유출된 성인 사생활 파일을 정기 판매합니다.",
+              "quoted": false
+            },
+            {
+              "relation": "target",
+              "tag": "a",
+              "quoted": false
+            },
+            {
+              "relation": "after",
+              "tag": "p",
+              "text": "위 메뉴에서 제게 요금을 보내세요.",
+              "quoted": false
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_d1877982c938c916",
+        "raw_text": "의견 3건",
+        "normalized_text": "의견 3건",
+        "page_title": "시민 참여 안내",
+        "frame_urls": [],
+        "signals": [],
+        "links": [],
+        "nearby": {
+          "after": "동의 없이 유출된 성인 사생활 파일의 구독료를 받습니다."
+        },
+        "own_style": {
+          "tag": "h4"
+        },
+        "context_evidence": {
+          "target_tag": "h4",
+          "scope": {
+            "tag": "section",
+            "role": null,
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "target",
+              "tag": "h4",
+              "quoted": false
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_eace0e2265b76b7b",
+        "raw_text": "현금 마작장에 초대합니다. 불법 영업이지만 돈을 걸 수 있습니다.",
+        "normalized_text": "현금 마작장에 초대합니다. 불법 영업이지만 돈을 걸 수 있습니다.",
+        "page_title": "시민 참여 안내",
+        "frame_urls": [],
+        "signals": [],
+        "links": [],
+        "nearby": {
+          "before": "도박 피해 예방 상담 주간입니다."
+        },
+        "own_style": {
+          "tag": "span"
+        },
+        "context_evidence": {
+          "target_tag": "span",
+          "scope": {
+            "tag": "div",
+            "role": null,
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "target",
+              "tag": "span",
+              "quoted": false
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_f1937611a5946015",
+        "raw_text": "유출 성인 사생활 파일 정기 구독",
+        "normalized_text": "유출 성인 사생활 파일 정기 구독",
+        "page_title": "시민 참여 안내",
+        "frame_urls": [],
+        "signals": [],
+        "links": [],
+        "nearby": {},
+        "own_style": {
+          "tag": "dd"
+        },
+        "context_evidence": {
+          "target_tag": "dd",
+          "scope": {
+            "tag": "dl",
+            "role": null,
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "tag": "p",
+              "text": "피해 지원 보고서의 유통 유형 분류입니다.",
+              "quoted": false
+            },
+            {
+              "relation": "target",
+              "tag": "dd",
+              "quoted": false
+            },
+            {
+              "relation": "after",
+              "tag": "p",
+              "text": "피해 예방을 위해 조사한 범죄 형태를 뜻합니다.",
+              "quoted": false
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_f4d41a04f9f9ab62",
+        "raw_text": "불법 현금 마작장 입장권 거래",
+        "normalized_text": "불법 현금 마작장 입장권 거래",
+        "page_title": "시민 참여 안내",
+        "frame_urls": [],
+        "signals": [],
+        "links": [],
+        "nearby": {},
+        "own_style": {
+          "tag": "th"
+        },
+        "context_evidence": {
+          "target_tag": "th",
+          "scope": {
+            "tag": "tr",
+            "role": null,
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "before",
+              "tag": "p",
+              "text": "제가 올린 판매 물품명입니다.",
+              "quoted": false
+            },
+            {
+              "relation": "target",
+              "tag": "th",
+              "quoted": false
+            },
+            {
+              "relation": "after",
+              "tag": "p",
+              "text": "입장권 비용을 보내 주시면 위치를 안내합니다.",
+              "quoted": false
+            }
+          ]
+        }
+      },
+      {
+        "node_id": "n_f7329a7a8a959b60",
+        "raw_text": "몰래 촬영된 성인 사생활 파일 구매자를 모집합니다.",
+        "normalized_text": "몰래 촬영된 성인 사생활 파일 구매자를 모집합니다.",
+        "page_title": "시민 참여 안내",
+        "frame_urls": [],
+        "signals": [],
+        "links": [],
+        "nearby": {},
+        "own_style": {
+          "tag": "a"
+        },
+        "context_evidence": {
+          "target_tag": "a",
+          "scope": {
+            "tag": "article",
+            "role": null,
+            "document_scope": false
+          },
+          "target_quoted": false,
+          "truncated": false,
+          "units": [
+            {
+              "relation": "target",
+              "tag": "a",
+              "quoted": false
+            }
+          ]
+        }
+      }
+    ],
+    "labels": [
+      {
+        "node_id": "n_c3a3885eb8f8335f",
+        "is_ad": false,
+        "scenario": "same_role"
+      },
+      {
+        "node_id": "n_c3e93ee7f442d254",
+        "is_ad": null,
+        "scenario": "insufficient"
+      },
+      {
+        "node_id": "n_c539e0f6ab8d17e9",
+        "is_ad": true,
+        "scenario": "cta"
+      },
+      {
+        "node_id": "n_d1877982c938c916",
+        "is_ad": false,
+        "scenario": "metadata"
+      },
+      {
+        "node_id": "n_eace0e2265b76b7b",
+        "is_ad": true,
+        "scenario": "same_role"
+      },
+      {
+        "node_id": "n_f1937611a5946015",
+        "is_ad": false,
+        "scenario": "noun"
+      },
+      {
+        "node_id": "n_f4d41a04f9f9ab62",
+        "is_ad": true,
+        "scenario": "noun"
+      },
+      {
+        "node_id": "n_f7329a7a8a959b60",
+        "is_ad": true,
+        "scenario": "same_role"
+      }
+    ]
+  },
+  {
+    "name": "replica65-0",
+    "candidates": [
+      {
+        "node_id": "n_fd353527dfb5d8b1",
+        "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753990?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+        "location": "p#r948a4672de9a95a9a7",
+        "frame_urls": [],
+        "page_title": "시민생각 - 부산의 응급의료 공간적 불평등 해소를 위한 골든타임 확보 정책 제안",
+        "selector": "p#r948a4672de9a95a9a7",
+        "raw_text": "제품명 X100은 주민센터 프린터의 모델명입니다.",
+        "own_style": {
+          "tag": "p",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 85,
+            "y": 4464.296875,
+            "width": 1270,
+            "height": 24,
+            "right": 1355,
+            "bottom": 4488.296875
+          }
+        },
+        "ancestors": [
+          {
+            "tag": "section",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "static",
+            "rect": {
+              "x": 85,
+              "y": 4464.296875,
+              "width": 1270,
+              "height": 24,
+              "right": 1355,
+              "bottom": 4488.296875
+            }
+          },
+          {
+            "tag": "article",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "font_size": 16,
+            "position": "relative",
+            "rect": {
+              "x": 85,
+              "y": 4464.296875,
+              "width": 1270,
+              "height": 24,
+              "right": 1355,
+              "bottom": 4488.296875
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 18,
+            "position": "static",
+            "rect": {
+              "x": 85,
+              "y": 416.75,
+              "width": 1270,
+              "height": 4031.546875,
+              "right": 1355,
+              "bottom": 4448.296875
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgb(255, 255, 255)",
+            "font_size": 18,
+            "position": "static",
+            "rect": {
+              "x": 70,
+              "y": 386.75,
+              "width": 1330,
+              "height": 4192.546875,
+              "right": 1400,
+              "bottom": 4579.296875
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "static",
+            "rect": {
+              "x": 70,
+              "y": 192,
+              "width": 1300,
+              "height": 4665.015625,
+              "right": 1370,
+              "bottom": 4857.015625
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "relative",
+            "rect": {
+              "x": 70,
+              "y": 192,
+              "width": 1300,
+              "height": 5037.65625,
+              "right": 1370,
+              "bottom": 5229.65625
+            }
+          },
+          {
+            "tag": "main",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "relative",
+            "rect": {
+              "x": 70,
+              "y": 192,
+              "width": 1300,
+              "height": 4997.65625,
+              "right": 1370,
+              "bottom": 5189.65625
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "relative",
+            "rect": {
+              "x": 0,
+              "y": 108,
+              "width": 1440,
+              "height": 5081.65625,
+              "right": 1440,
+              "bottom": 5189.65625
+            }
+          },
+          {
+            "tag": "body",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "static",
+            "rect": {
+              "x": 0,
+              "y": 108,
+              "width": 1440,
+              "height": 5397.265625,
+              "right": 1440,
+              "bottom": 5505.265625
+            }
+          },
+          {
+            "tag": "html",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "static",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 1440,
+              "height": 5505.265625,
+              "right": 1440,
+              "bottom": 5505.265625
+            }
+          }
+        ],
+        "nearby": {
+          "before": "",
+          "after": ""
+        },
+        "context": "제품명 X100은 주민센터 프린터의 모델명입니다.",
+        "context_evidence": {
+          "scope": {
+            "tag": "section",
+            "role": "article",
+            "document_scope": false
+          },
+          "target_tag": "p",
+          "target_quoted": false,
+          "units": [
+            {
+              "relation": "target",
+              "tag": "p",
+              "quoted": false
+            }
+          ],
+          "truncated": false
+        },
+        "links": [],
+        "normalized_text": "제품명 X100은 주민센터 프린터의 모델명입니다.",
+        "signals": []
+      },
+      {
+        "node_id": "n_714a6ca266c340a2",
+        "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753719?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+        "location": "p#r5bb2d729723562b964",
+        "frame_urls": [],
+        "page_title": "시민생각 - 부산 어업 이주노동자의 사회보험 접근 불평등 실태와 어선원 재해보상보험 '다국어 온라인 직접청구권' 제도화",
+        "selector": "p#r5bb2d729723562b964",
+        "raw_text": "CASINO 현금 카드방에서 새 손님을 받습니다. 사설 도박 판돈을 충전하고 이번 판에 참여하세요.",
+        "own_style": {
+          "tag": "p",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgba(0, 0, 0, 0)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 125,
+            "y": 15357.75,
+            "width": 1190,
+            "height": 24,
+            "right": 1315,
+            "bottom": 15381.75
+          }
+        },
+        "ancestors": [
+          {
+            "tag": "blockquote",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "static",
+            "rect": {
+              "x": 125,
+              "y": 15357.75,
+              "width": 1190,
+              "height": 24,
+              "right": 1315,
+              "bottom": 15381.75
+            }
+          },
+          {
+            "tag": "section",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "static",
+            "rect": {
+              "x": 85,
+              "y": 15320.75,
+              "width": 1270,
+              "height": 98,
+              "right": 1355,
+              "bottom": 15418.75
+            }
+          },
+          {
+            "tag": "article",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "font_size": 16,
+            "position": "relative",
+            "rect": {
+              "x": 85,
+              "y": 15320.75,
+              "width": 1270,
+              "height": 98,
+              "right": 1355,
+              "bottom": 15418.75
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 18,
+            "position": "static",
+            "rect": {
+              "x": 85,
+              "y": 416.75,
+              "width": 1270,
+              "height": 14888,
+              "right": 1355,
+              "bottom": 15304.75
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgb(255, 255, 255)",
+            "font_size": 18,
+            "position": "static",
+            "rect": {
+              "x": 70,
+              "y": 386.75,
+              "width": 1330,
+              "height": 15049,
+              "right": 1400,
+              "bottom": 15435.75
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "static",
+            "rect": {
+              "x": 70,
+              "y": 192,
+              "width": 1300,
+              "height": 15521.5,
+              "right": 1370,
+              "bottom": 15713.5
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "relative",
+            "rect": {
+              "x": 70,
+              "y": 192,
+              "width": 1300,
+              "height": 15894.09375,
+              "right": 1370,
+              "bottom": 16086.09375
+            }
+          },
+          {
+            "tag": "main",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "relative",
+            "rect": {
+              "x": 70,
+              "y": 192,
+              "width": 1300,
+              "height": 15854.09375,
+              "right": 1370,
+              "bottom": 16046.09375
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "relative",
+            "rect": {
+              "x": 0,
+              "y": 108,
+              "width": 1440,
+              "height": 15938.09375,
+              "right": 1440,
+              "bottom": 16046.09375
+            }
+          },
+          {
+            "tag": "body",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "static",
+            "rect": {
+              "x": 0,
+              "y": 108,
+              "width": 1440,
+              "height": 16253.6875,
+              "right": 1440,
+              "bottom": 16361.6875
+            }
+          },
+          {
+            "tag": "html",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "static",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 1440,
+              "height": 16361.6875,
+              "right": 1440,
+              "bottom": 16361.6875
+            }
+          }
+        ],
+        "nearby": {
+          "before": "",
+          "after": ""
+        },
+        "context": "CASINO 현금 카드방에서 새 손님을 받습니다. 사설 도박 판돈을 충전하고 이번 판에 참여하세요.",
+        "context_evidence": {
+          "scope": {
+            "tag": "section",
+            "role": "article",
+            "document_scope": false
+          },
+          "target_tag": "p",
+          "target_quoted": true,
+          "units": [
+            {
+              "relation": "before",
+              "tag": "p",
+              "quoted": false,
+              "text": "청소년 상담실에서 받은 유인 문장을 사례로 제시합니다. 아래 요구에 응하지 않는 연습을 합니다."
+            },
+            {
+              "relation": "target",
+              "tag": "p",
+              "quoted": true
+            },
+            {
+              "relation": "after",
+              "tag": "p",
+              "quoted": false,
+              "text": "이 인용문에 응답하거나 돈을 보내라는 뜻이 아닙니다."
+            }
+          ],
+          "truncated": false
+        },
+        "links": [],
+        "normalized_text": "CASINO 현금 카드방에서 새 손님을 받습니다. 사설 도박 판돈을 충전하고 이번 판에 참여하세요.",
+        "signals": [
+          "TRANSPARENT"
+        ]
+      },
+      {
+        "node_id": "n_dcecb0d4abdb636d",
+        "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753833?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+        "location": "p#ra752784116a7ba9804",
+        "frame_urls": [],
+        "page_title": "시민생각 - 부산 15분 도시의 장애인 이동 접근성 불평등과 배리어 프리 도시를 위한 정책 제안",
+        "selector": "p#ra752784116a7ba9804",
+        "raw_text": "ADULT 당사자 동의 없이 유출된 성인 영상을 판매합니다. 구입 대금을 보내면 재생 주소를 드립니다.",
+        "own_style": {
+          "tag": "p",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 85,
+            "y": 5385.796875,
+            "width": 1270,
+            "height": 24,
+            "right": 1355,
+            "bottom": 5409.796875
+          }
+        },
+        "ancestors": [
+          {
+            "tag": "section",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "static",
+            "rect": {
+              "x": 85,
+              "y": 5385.796875,
+              "width": 1270,
+              "height": 24,
+              "right": 1355,
+              "bottom": 5409.796875
+            }
+          },
+          {
+            "tag": "article",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "font_size": 16,
+            "position": "relative",
+            "rect": {
+              "x": 85,
+              "y": 5385.796875,
+              "width": 1270,
+              "height": 24,
+              "right": 1355,
+              "bottom": 5409.796875
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 18,
+            "position": "static",
+            "rect": {
+              "x": 85,
+              "y": 416.75,
+              "width": 1270,
+              "height": 4953.046875,
+              "right": 1355,
+              "bottom": 5369.796875
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgb(255, 255, 255)",
+            "font_size": 18,
+            "position": "static",
+            "rect": {
+              "x": 70,
+              "y": 386.75,
+              "width": 1330,
+              "height": 5114.046875,
+              "right": 1400,
+              "bottom": 5500.796875
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "static",
+            "rect": {
+              "x": 70,
+              "y": 192,
+              "width": 1300,
+              "height": 5586.515625,
+              "right": 1370,
+              "bottom": 5778.515625
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "relative",
+            "rect": {
+              "x": 70,
+              "y": 192,
+              "width": 1300,
+              "height": 5959.15625,
+              "right": 1370,
+              "bottom": 6151.15625
+            }
+          },
+          {
+            "tag": "main",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "relative",
+            "rect": {
+              "x": 70,
+              "y": 192,
+              "width": 1300,
+              "height": 5919.15625,
+              "right": 1370,
+              "bottom": 6111.15625
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "relative",
+            "rect": {
+              "x": 0,
+              "y": 108,
+              "width": 1440,
+              "height": 6003.15625,
+              "right": 1440,
+              "bottom": 6111.15625
+            }
+          },
+          {
+            "tag": "body",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "static",
+            "rect": {
+              "x": 0,
+              "y": 108,
+              "width": 1440,
+              "height": 6318.765625,
+              "right": 1440,
+              "bottom": 6426.765625
+            }
+          },
+          {
+            "tag": "html",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "static",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 1440,
+              "height": 6426.765625,
+              "right": 1440,
+              "bottom": 6426.765625
+            }
+          }
+        ],
+        "nearby": {
+          "before": "",
+          "after": ""
+        },
+        "context": "ADULT 당사자 동의 없이 유출된 성인 영상을 판매합니다. 구입 대금을 보내면 재생 주소를 드립니다.",
+        "context_evidence": {
+          "scope": {
+            "tag": "section",
+            "role": "article",
+            "document_scope": false
+          },
+          "target_tag": "p",
+          "target_quoted": false,
+          "units": [
+            {
+              "relation": "target",
+              "tag": "p",
+              "quoted": false
+            }
+          ],
+          "truncated": false
+        },
+        "links": [],
+        "normalized_text": "ADULT 당사자 동의 없이 유출된 성인 영상을 판매합니다. 구입 대금을 보내면 재생 주소를 드립니다.",
+        "signals": [
+          "JAMO"
+        ]
+      },
+      {
+        "node_id": "n_d2cdf93838c1f6cf",
+        "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753993?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+        "location": "p#r96cb02ffb05be8be28",
+        "frame_urls": [],
+        "page_title": "시민생각 - 부산시 플랫폼 노동자 근로환경 개선을 위한 정책제안",
+        "selector": "p#r96cb02ffb05be8be28",
+        "raw_text": "자료분류 B2C-018은 행정 문서 색인입니다.",
+        "own_style": {
+          "tag": "p",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 85,
+            "y": 9791.71875,
+            "width": 1270,
+            "height": 24,
+            "right": 1355,
+            "bottom": 9815.71875
+          }
+        },
+        "ancestors": [
+          {
+            "tag": "section",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "static",
+            "rect": {
+              "x": 85,
+              "y": 9791.71875,
+              "width": 1270,
+              "height": 24,
+              "right": 1355,
+              "bottom": 9815.71875
+            }
+          },
+          {
+            "tag": "article",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "font_size": 16,
+            "position": "relative",
+            "rect": {
+              "x": 85,
+              "y": 9791.71875,
+              "width": 1270,
+              "height": 24,
+              "right": 1355,
+              "bottom": 9815.71875
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 18,
+            "position": "static",
+            "rect": {
+              "x": 85,
+              "y": 416.75,
+              "width": 1270,
+              "height": 9358.96875,
+              "right": 1355,
+              "bottom": 9775.71875
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgb(255, 255, 255)",
+            "font_size": 18,
+            "position": "static",
+            "rect": {
+              "x": 70,
+              "y": 386.75,
+              "width": 1330,
+              "height": 9519.96875,
+              "right": 1400,
+              "bottom": 9906.71875
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "static",
+            "rect": {
+              "x": 70,
+              "y": 192,
+              "width": 1300,
+              "height": 9992.4375,
+              "right": 1370,
+              "bottom": 10184.4375
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "relative",
+            "rect": {
+              "x": 70,
+              "y": 192,
+              "width": 1300,
+              "height": 10365.09375,
+              "right": 1370,
+              "bottom": 10557.09375
+            }
+          },
+          {
+            "tag": "main",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "relative",
+            "rect": {
+              "x": 70,
+              "y": 192,
+              "width": 1300,
+              "height": 10325.09375,
+              "right": 1370,
+              "bottom": 10517.09375
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "relative",
+            "rect": {
+              "x": 0,
+              "y": 108,
+              "width": 1440,
+              "height": 10409.09375,
+              "right": 1440,
+              "bottom": 10517.09375
+            }
+          },
+          {
+            "tag": "body",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "static",
+            "rect": {
+              "x": 0,
+              "y": 108,
+              "width": 1440,
+              "height": 10724.6875,
+              "right": 1440,
+              "bottom": 10832.6875
+            }
+          },
+          {
+            "tag": "html",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "static",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 1440,
+              "height": 10832.6875,
+              "right": 1440,
+              "bottom": 10832.6875
+            }
+          }
+        ],
+        "nearby": {
+          "before": "",
+          "after": ""
+        },
+        "context": "자료분류 B2C-018은 행정 문서 색인입니다.",
+        "context_evidence": {
+          "scope": {
+            "tag": "section",
+            "role": "article",
+            "document_scope": false
+          },
+          "target_tag": "p",
+          "target_quoted": false,
+          "units": [
+            {
+              "relation": "target",
+              "tag": "p",
+              "quoted": false
+            }
+          ],
+          "truncated": false
+        },
+        "links": [],
+        "normalized_text": "자료분류 B2C-018은 행정 문서 색인입니다.",
+        "signals": [
+          "HOMOGLYPH"
+        ]
+      },
+      {
+        "node_id": "n_bc3ff1172a0c089c",
+        "url": "http://127.0.0.1:19160/siminopen/siminthink01/1754929?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+        "location": "p#rc5ae684421c617948d",
+        "frame_urls": [],
+        "page_title": "시민생각 - 부산 전통시장 개선 정책 제안",
+        "selector": "p#rc5ae684421c617948d",
+        "raw_text": "САSІNО 현금 카드방에서 새 손님을 받습니다. 사설 도박 판돈을 충전하고 이번 판에 참여하세요.",
+        "own_style": {
+          "tag": "p",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 85,
+            "y": 7631.96875,
+            "width": 1270,
+            "height": 24,
+            "right": 1355,
+            "bottom": 7655.96875
+          }
+        },
+        "ancestors": [
+          {
+            "tag": "section",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "static",
+            "rect": {
+              "x": 85,
+              "y": 7631.96875,
+              "width": 1270,
+              "height": 24,
+              "right": 1355,
+              "bottom": 7655.96875
+            }
+          },
+          {
+            "tag": "article",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "font_size": 16,
+            "position": "relative",
+            "rect": {
+              "x": 85,
+              "y": 7631.96875,
+              "width": 1270,
+              "height": 24,
+              "right": 1355,
+              "bottom": 7655.96875
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 18,
+            "position": "static",
+            "rect": {
+              "x": 85,
+              "y": 416.75,
+              "width": 1270,
+              "height": 7199.21875,
+              "right": 1355,
+              "bottom": 7615.96875
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgb(255, 255, 255)",
+            "font_size": 18,
+            "position": "static",
+            "rect": {
+              "x": 70,
+              "y": 386.75,
+              "width": 1330,
+              "height": 7360.21875,
+              "right": 1400,
+              "bottom": 7746.96875
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "static",
+            "rect": {
+              "x": 70,
+              "y": 192,
+              "width": 1300,
+              "height": 7832.6875,
+              "right": 1370,
+              "bottom": 8024.6875
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "relative",
+            "rect": {
+              "x": 70,
+              "y": 192,
+              "width": 1300,
+              "height": 8205.296875,
+              "right": 1370,
+              "bottom": 8397.296875
+            }
+          },
+          {
+            "tag": "main",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "relative",
+            "rect": {
+              "x": 70,
+              "y": 192,
+              "width": 1300,
+              "height": 8165.296875,
+              "right": 1370,
+              "bottom": 8357.296875
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "relative",
+            "rect": {
+              "x": 0,
+              "y": 108,
+              "width": 1440,
+              "height": 8249.296875,
+              "right": 1440,
+              "bottom": 8357.296875
+            }
+          },
+          {
+            "tag": "body",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "static",
+            "rect": {
+              "x": 0,
+              "y": 108,
+              "width": 1440,
+              "height": 8564.90625,
+              "right": 1440,
+              "bottom": 8672.90625
+            }
+          },
+          {
+            "tag": "html",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "static",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 1440,
+              "height": 8672.90625,
+              "right": 1440,
+              "bottom": 8672.90625
+            }
+          }
+        ],
+        "nearby": {
+          "before": "",
+          "after": ""
+        },
+        "context": "САSІNО 현금 카드방에서 새 손님을 받습니다. 사설 도박 판돈을 충전하고 이번 판에 참여하세요.",
+        "context_evidence": {
+          "scope": {
+            "tag": "section",
+            "role": "article",
+            "document_scope": false
+          },
+          "target_tag": "p",
+          "target_quoted": false,
+          "units": [
+            {
+              "relation": "target",
+              "tag": "p",
+              "quoted": false
+            }
+          ],
+          "truncated": false
+        },
+        "links": [],
+        "normalized_text": "САSІNО 현금 카드방에서 새 손님을 받습니다. 사설 도박 판돈을 충전하고 이번 판에 참여하세요.",
+        "signals": [
+          "HOMOGLYPH"
+        ]
+      },
+      {
+        "node_id": "n_6c2239eb9dff5aed",
+        "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753825?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+        "location": "p#r9810ebf841eccb0f4d",
+        "frame_urls": [],
+        "page_title": "시민생각 - 교육 자원의 불평등과 지역 간 교육격차 해소를 위한 정책 제안",
+        "selector": "p#r9810ebf841eccb0f4d",
+        "raw_text": "ACCESS 화면 낭독기에서 공연 날짜를 알리는 접근성 보조 설명입니다.",
+        "own_style": {
+          "tag": "p",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 70,
+            "y": 4354.734375,
+            "width": 1300,
+            "height": 24,
+            "right": 1370,
+            "bottom": 4378.734375
+          }
+        },
+        "ancestors": [
+          {
+            "tag": "section",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "static",
+            "rect": {
+              "x": 70,
+              "y": 4354.734375,
+              "width": 1300,
+              "height": 24,
+              "right": 1370,
+              "bottom": 4378.734375
+            }
+          },
+          {
+            "tag": "article",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "font_size": 16,
+            "position": "relative",
+            "rect": {
+              "x": 70,
+              "y": 4317.734375,
+              "width": 1300,
+              "height": 61,
+              "right": 1370,
+              "bottom": 4378.734375
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "relative",
+            "rect": {
+              "x": 70,
+              "y": 192,
+              "width": 1300,
+              "height": 4173.75,
+              "right": 1370,
+              "bottom": 4365.75
+            }
+          },
+          {
+            "tag": "main",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "relative",
+            "rect": {
+              "x": 70,
+              "y": 192,
+              "width": 1300,
+              "height": 4133.75,
+              "right": 1370,
+              "bottom": 4325.75
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "relative",
+            "rect": {
+              "x": 0,
+              "y": 108,
+              "width": 1440,
+              "height": 4217.75,
+              "right": 1440,
+              "bottom": 4325.75
+            }
+          },
+          {
+            "tag": "body",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "static",
+            "rect": {
+              "x": 0,
+              "y": 108,
+              "width": 1440,
+              "height": 4533.359375,
+              "right": 1440,
+              "bottom": 4641.359375
+            }
+          },
+          {
+            "tag": "html",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "static",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 1440,
+              "height": 4641.359375,
+              "right": 1440,
+              "bottom": 4641.359375
+            }
+          }
+        ],
+        "nearby": {
+          "before": "",
+          "after": ""
+        },
+        "context": "ACCESS 화면 낭독기에서 공연 날짜를 알리는 접근성 보조 설명입니다.",
+        "context_evidence": {
+          "scope": {
+            "tag": "section",
+            "role": "comment",
+            "document_scope": false
+          },
+          "target_tag": "p",
+          "target_quoted": false,
+          "units": [
+            {
+              "relation": "target",
+              "tag": "p",
+              "quoted": false
+            }
+          ],
+          "truncated": false
+        },
+        "links": [],
+        "normalized_text": "ACCESS 화면 낭독기에서 공연 날짜를 알리는 접근성 보조 설명입니다.",
+        "signals": [
+          "TRANSPARENT"
+        ]
+      },
+      {
+        "node_id": "n_1a9436adafc04aa2",
+        "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753994?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+        "location": "a#r990a4d4028852609c8",
+        "frame_urls": [],
+        "page_title": "시민생각 - 청년 빌리지 & 부산 중소기업 일자리 창출 인센티브 사업 제안",
+        "selector": "a#r990a4d4028852609c8",
+        "raw_text": "СОNTАСT 지난 내용대로 문의",
+        "own_style": {
+          "tag": "a",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 85,
+            "y": 9096.609375,
+            "width": 1270,
+            "height": 24,
+            "right": 1355,
+            "bottom": 9120.609375
+          }
+        },
+        "ancestors": [
+          {
+            "tag": "section",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "static",
+            "rect": {
+              "x": 85,
+              "y": 9096.609375,
+              "width": 1270,
+              "height": 24,
+              "right": 1355,
+              "bottom": 9120.609375
+            }
+          },
+          {
+            "tag": "article",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "font_size": 16,
+            "position": "relative",
+            "rect": {
+              "x": 85,
+              "y": 9096.609375,
+              "width": 1270,
+              "height": 24,
+              "right": 1355,
+              "bottom": 9120.609375
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 18,
+            "position": "static",
+            "rect": {
+              "x": 85,
+              "y": 416.75,
+              "width": 1270,
+              "height": 8667.859375,
+              "right": 1355,
+              "bottom": 9084.609375
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgb(255, 255, 255)",
+            "font_size": 18,
+            "position": "static",
+            "rect": {
+              "x": 70,
+              "y": 386.75,
+              "width": 1330,
+              "height": 8828.859375,
+              "right": 1400,
+              "bottom": 9215.609375
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "static",
+            "rect": {
+              "x": 70,
+              "y": 192,
+              "width": 1300,
+              "height": 9301.328125,
+              "right": 1370,
+              "bottom": 9493.328125
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "relative",
+            "rect": {
+              "x": 70,
+              "y": 192,
+              "width": 1300,
+              "height": 9673.9375,
+              "right": 1370,
+              "bottom": 9865.9375
+            }
+          },
+          {
+            "tag": "main",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "relative",
+            "rect": {
+              "x": 70,
+              "y": 192,
+              "width": 1300,
+              "height": 9633.9375,
+              "right": 1370,
+              "bottom": 9825.9375
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "relative",
+            "rect": {
+              "x": 0,
+              "y": 108,
+              "width": 1440,
+              "height": 9717.9375,
+              "right": 1440,
+              "bottom": 9825.9375
+            }
+          },
+          {
+            "tag": "body",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "static",
+            "rect": {
+              "x": 0,
+              "y": 108,
+              "width": 1440,
+              "height": 10033.59375,
+              "right": 1440,
+              "bottom": 10141.59375
+            }
+          },
+          {
+            "tag": "html",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "static",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 1440,
+              "height": 10141.59375,
+              "right": 1440,
+              "bottom": 10141.59375
+            }
+          }
+        ],
+        "nearby": {
+          "before": "",
+          "after": ""
+        },
+        "context": "СОNTАСT 지난 내용대로 문의",
+        "context_evidence": {
+          "scope": {
+            "tag": "section",
+            "role": "article",
+            "document_scope": false
+          },
+          "target_tag": "a",
+          "target_quoted": false,
+          "units": [
+            {
+              "relation": "target",
+              "tag": "a",
+              "quoted": false
+            }
+          ],
+          "truncated": false
+        },
+        "links": [],
+        "normalized_text": "СОNTАСT 지난 내용대로 문의",
+        "signals": [
+          "HOMOGLYPH"
+        ]
+      },
+      {
+        "node_id": "n_55800ab5f62d00c0",
+        "url": "http://127.0.0.1:19160/siminopen/siminthink01/1753828?curPage=&srchBeginDt=&srchEndDt=&srchKey=&srchText=&srchCtgry=",
+        "location": "p#r9edc911a5bf87254ca",
+        "frame_urls": [],
+        "page_title": "시민생각 - 부산 연안 폐어구 지역순환관리체계 구축을 제안합니다.",
+        "selector": "p#r9edc911a5bf87254ca",
+        "raw_text": "운영계획 연도 2027을 확인합니다.",
+        "own_style": {
+          "tag": "p",
+          "opacity": 1,
+          "display": "block",
+          "visibility": "visible",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgb(255, 255, 255)",
+          "font_size": 16,
+          "position": "static",
+          "rect": {
+            "x": 85,
+            "y": 1642.21875,
+            "width": 1270,
+            "height": 24,
+            "right": 1355,
+            "bottom": 1666.21875
+          }
+        },
+        "ancestors": [
+          {
+            "tag": "section",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "static",
+            "rect": {
+              "x": 85,
+              "y": 1642.21875,
+              "width": 1270,
+              "height": 24,
+              "right": 1355,
+              "bottom": 1666.21875
+            }
+          },
+          {
+            "tag": "article",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "font_size": 16,
+            "position": "relative",
+            "rect": {
+              "x": 85,
+              "y": 1642.21875,
+              "width": 1270,
+              "height": 24,
+              "right": 1355,
+              "bottom": 1666.21875
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 18,
+            "position": "static",
+            "rect": {
+              "x": 85,
+              "y": 416.75,
+              "width": 1270,
+              "height": 1209.46875,
+              "right": 1355,
+              "bottom": 1626.21875
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgb(255, 255, 255)",
+            "font_size": 18,
+            "position": "static",
+            "rect": {
+              "x": 70,
+              "y": 386.75,
+              "width": 1330,
+              "height": 1370.46875,
+              "right": 1400,
+              "bottom": 1757.21875
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "static",
+            "rect": {
+              "x": 70,
+              "y": 192,
+              "width": 1300,
+              "height": 1842.9375,
+              "right": 1370,
+              "bottom": 2034.9375
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "relative",
+            "rect": {
+              "x": 70,
+              "y": 192,
+              "width": 1300,
+              "height": 2215.546875,
+              "right": 1370,
+              "bottom": 2407.546875
+            }
+          },
+          {
+            "tag": "main",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "relative",
+            "rect": {
+              "x": 70,
+              "y": 192,
+              "width": 1300,
+              "height": 2175.546875,
+              "right": 1370,
+              "bottom": 2367.546875
+            }
+          },
+          {
+            "tag": "div",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "relative",
+            "rect": {
+              "x": 0,
+              "y": 108,
+              "width": 1440,
+              "height": 2259.546875,
+              "right": 1440,
+              "bottom": 2367.546875
+            }
+          },
+          {
+            "tag": "body",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "static",
+            "rect": {
+              "x": 0,
+              "y": 108,
+              "width": 1440,
+              "height": 2575.15625,
+              "right": 1440,
+              "bottom": 2683.15625
+            }
+          },
+          {
+            "tag": "html",
+            "opacity": 1,
+            "display": "block",
+            "visibility": "visible",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "font_size": 16,
+            "position": "static",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 1440,
+              "height": 2683.15625,
+              "right": 1440,
+              "bottom": 2683.15625
+            }
+          }
+        ],
+        "nearby": {
+          "before": "",
+          "after": ""
+        },
+        "context": "운영계획 연도 2027을 확인합니다.",
+        "context_evidence": {
+          "scope": {
+            "tag": "section",
+            "role": "article",
+            "document_scope": false
+          },
+          "target_tag": "p",
+          "target_quoted": false,
+          "units": [
+            {
+              "relation": "target",
+              "tag": "p",
+              "quoted": false
+            }
+          ],
+          "truncated": false
+        },
+        "links": [],
+        "normalized_text": "운영계획 연도 2027을 확인합니다.",
+        "signals": []
+      }
+    ],
+    "labels": [
+      {
+        "node_id": "n_fd353527dfb5d8b1",
+        "is_ad": false,
+        "scenario": "identifier-control"
+      },
+      {
+        "node_id": "n_714a6ca266c340a2",
+        "is_ad": false,
+        "scenario": "primary"
+      },
+      {
+        "node_id": "n_dcecb0d4abdb636d",
+        "is_ad": true,
+        "scenario": "primary"
+      },
+      {
+        "node_id": "n_d2cdf93838c1f6cf",
+        "is_ad": false,
+        "scenario": "identifier-control"
+      },
+      {
+        "node_id": "n_bc3ff1172a0c089c",
+        "is_ad": true,
+        "scenario": "primary"
+      },
+      {
+        "node_id": "n_6c2239eb9dff5aed",
+        "is_ad": false,
+        "scenario": "primary"
+      },
+      {
+        "node_id": "n_1a9436adafc04aa2",
+        "is_ad": null,
+        "scenario": "primary"
+      },
+      {
+        "node_id": "n_55800ab5f62d00c0",
+        "is_ad": false,
+        "scenario": "identifier-control"
+      }
+    ]
+  }
+]

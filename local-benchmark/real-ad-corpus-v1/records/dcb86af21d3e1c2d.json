@@ -1,0 +1,36 @@
+{
+  "id": "dcb86af21d3e1c2d",
+  "source": {
+    "id": "dcb86af21d3e1c2d",
+    "url": "https://hrd.jeonbuk.go.kr/board/view.training?boardId=BBS_0000016&menuCd=DOM_000000103001000000&startPage=4&dataSid=13322",
+    "source_scope": "government_board",
+    "captured_at": "2026-09-28T23:08:45.813165+00:00",
+    "rights_status": "unverified_third_party_content",
+    "human_reviewed": false,
+    "raw_file": "raw/dcb86af21d3e1c2d.html",
+    "byte_file": "raw/dcb86af21d3e1c2d.bin",
+    "response_sha256": "925c9c7d5acdacba500de1d7d079057c984973023c38b8f9fd5c79ad039f17f4",
+    "decoded_sha256": "925c9c7d5acdacba500de1d7d079057c984973023c38b8f9fd5c79ad039f17f4",
+    "encoding": "utf-8",
+    "status": "captured",
+    "page_title": "홈 > 소통마당 > 자유게시판 |상세보기"
+  },
+  "title": "정보 감사합니다.",
+  "raw_text": "정보 감사합니다.\n유플러스인터넷",
+  "body_xpath": "/html/body/div/div[3]/div/div[2]/div[2]/div[3]/div",
+  "title_xpath": "/html/body/div/div[3]/div/div[2]/div[2]/div[3]/dl[1]",
+  "source_kind": "real_web_post",
+  "extraction": "static_HTML_lxml_itertext",
+  "comments_status": "not_extracted_or_labeled",
+  "technique_observed": null,
+  "body_sha256": "da7f06e5c59652ee4b502a4fc5c1395d861da2d4540352021d990d9a4fb795c0",
+  "label": null,
+  "human_reviewed": false,
+  "outgoing_links": [
+    {
+      "text": "유플러스인터넷",
+      "href": "http://interstore.shop"
+    }
+  ],
+  "notes": "No CSS technique claim from static text; listed neighbours are excluded from owned context."
+}

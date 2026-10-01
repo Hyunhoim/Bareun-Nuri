@@ -1,0 +1,410 @@
+[
+  {
+    "scenario": "quote",
+    "variant": 0,
+    "scope": {
+      "tag": "section",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [
+      "디지털 시민교육에서 위험한 모집 사례를 소개합니다. 다음 발췌문은 경고를 위한 예시이고 해당 서비스 이용을 권장하지 않습니다."
+    ],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "quote",
+    "variant": 1,
+    "scope": {
+      "tag": "section",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [
+      "디지털 시민교육에서 위험한 모집 사례를 소개합니다. 다음 발췌문은 경고를 위한 예시이고 해당 서비스 이용을 권장하지 않습니다."
+    ],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "quote",
+    "variant": 2,
+    "scope": {
+      "tag": "section",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [
+      "디지털 시민교육에서 위험한 모집 사례를 소개합니다. 다음 발췌문은 경고를 위한 예시이고 해당 서비스 이용을 권장하지 않습니다."
+    ],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "quote",
+    "variant": 3,
+    "scope": {
+      "tag": "section",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [
+      "디지털 시민교육에서 위험한 모집 사례를 소개합니다. 다음 발췌문은 경고를 위한 예시이고 해당 서비스 이용을 권장하지 않습니다."
+    ],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "warning-ad",
+    "variant": 0,
+    "scope": {
+      "tag": "section",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [
+      "별도 게시글"
+    ],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "warning-ad",
+    "variant": 1,
+    "scope": {
+      "tag": "section",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [
+      "별도 게시글"
+    ],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "warning-ad",
+    "variant": 2,
+    "scope": {
+      "tag": "section",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [
+      "별도 게시글"
+    ],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "warning-ad",
+    "variant": 3,
+    "scope": {
+      "tag": "section",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [
+      "별도 게시글"
+    ],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "other-comment",
+    "variant": 0,
+    "scope": {
+      "tag": "div",
+      "role": "listitem",
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "other-comment",
+    "variant": 1,
+    "scope": {
+      "tag": "div",
+      "role": "listitem",
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "other-comment",
+    "variant": 2,
+    "scope": {
+      "tag": "div",
+      "role": "listitem",
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "other-comment",
+    "variant": 3,
+    "scope": {
+      "tag": "div",
+      "role": "listitem",
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "neighbor-ad",
+    "variant": 0,
+    "scope": {
+      "tag": "div",
+      "role": "listitem",
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "neighbor-ad",
+    "variant": 1,
+    "scope": {
+      "tag": "div",
+      "role": "listitem",
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "neighbor-ad",
+    "variant": 2,
+    "scope": {
+      "tag": "div",
+      "role": "listitem",
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "neighbor-ad",
+    "variant": 3,
+    "scope": {
+      "tag": "div",
+      "role": "listitem",
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "linked",
+    "variant": 0,
+    "scope": {
+      "tag": "section",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [
+      "비공개 현금 배팅 모임으로 연결하는 신청 버튼입니다. 판돈을 낼 참가자는 아래에서 등록하세요."
+    ],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "linked",
+    "variant": 1,
+    "scope": {
+      "tag": "section",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [
+      "비공개 현금 배팅 모임으로 연결하는 신청 버튼입니다. 판돈을 낼 참가자는 아래에서 등록하세요."
+    ],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "linked",
+    "variant": 2,
+    "scope": {
+      "tag": "section",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [
+      "비공개 현금 배팅 모임으로 연결하는 신청 버튼입니다. 판돈을 낼 참가자는 아래에서 등록하세요."
+    ],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "linked",
+    "variant": 3,
+    "scope": {
+      "tag": "section",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [
+      "비공개 현금 배팅 모임으로 연결하는 신청 버튼입니다. 판돈을 낼 참가자는 아래에서 등록하세요."
+    ],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "insufficient",
+    "variant": 0,
+    "scope": {
+      "tag": "section",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "insufficient",
+    "variant": 1,
+    "scope": {
+      "tag": "section",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "insufficient",
+    "variant": 2,
+    "scope": {
+      "tag": "section",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "insufficient",
+    "variant": 3,
+    "scope": {
+      "tag": "section",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "direct",
+    "variant": 0,
+    "scope": {
+      "tag": "section",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "direct",
+    "variant": 1,
+    "scope": {
+      "tag": "section",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "direct",
+    "variant": 2,
+    "scope": {
+      "tag": "section",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "direct",
+    "variant": 3,
+    "scope": {
+      "tag": "section",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "ordinary",
+    "variant": 0,
+    "scope": {
+      "tag": "section",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "ordinary",
+    "variant": 1,
+    "scope": {
+      "tag": "section",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "ordinary",
+    "variant": 2,
+    "scope": {
+      "tag": "section",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  },
+  {
+    "scenario": "ordinary",
+    "variant": 3,
+    "scope": {
+      "tag": "section",
+      "role": null,
+      "document_scope": false
+    },
+    "relations": [],
+    "observation_match": true,
+    "unresolved": 0
+  }
+]

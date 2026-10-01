@@ -1,0 +1,166 @@
+{
+  "api_calls": 0,
+  "controlled_false_positives": [
+    {
+      "node_id": "n_7ab5bb7eb25d71d9",
+      "raw_text": "ADULT 당사자 동의 없이 유출된 성인 영상을 판매합니다. 구입 대금을 보내면 재생 주소를 드립니다.",
+      "context": {
+        "scope": {
+          "tag": "section",
+          "role": "comment",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": true,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "성범죄 피해 지원 교육의 증거 문구입니다. 이 표현은 서비스 안내가 아니라 피해 양상을 설명하는 자료입니다."
+          },
+          {
+            "relation": "target",
+            "tag": "p",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "quoted": false,
+            "text": "이 인용문에 응답하거나 돈을 보내라는 뜻이 아닙니다."
+          }
+        ],
+        "truncated": false
+      },
+      "baseline_judged": false,
+      "baseline_act": null,
+      "new_act": "이용권유",
+      "baseline_call": null,
+      "new_call": 357,
+      "same_full_request": null,
+      "classification": "newly exposed previously unjudged normal quotation"
+    },
+    {
+      "node_id": "n_46bf7379b7a02c62",
+      "raw_text": "VIDEO 동의 없는 성인 영상 유출본 결제 이용자 모집",
+      "context": {
+        "scope": {
+          "tag": "section",
+          "role": "comment",
+          "document_scope": false
+        },
+        "target_tag": "p",
+        "target_quoted": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "quoted": false,
+            "text": "디지털 문해력 실습에서 비판할 대상 문구를 적었습니다. 이 서비스의 거래 창구를 소개하지 않습니다."
+          },
+          {
+            "relation": "target",
+            "tag": "p",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "quoted": false,
+            "text": "이 인용문에 응답하거나 돈을 보내라는 뜻이 아닙니다."
+          }
+        ],
+        "truncated": false
+      },
+      "baseline_judged": false,
+      "baseline_act": null,
+      "new_act": "이용권유",
+      "baseline_call": null,
+      "new_call": 384,
+      "same_full_request": null,
+      "classification": "newly exposed previously unjudged normal quotation"
+    }
+  ],
+  "outside_positives": [
+    {
+      "node_id": "n_9ce5481324532042",
+      "raw_text": "\n\t\t\t\t부산 어업 이주노동자의 사회보험 접근 불평등 실태와  어선원 재해보상보험 \"다국어 온라인 직접청구권\"  제도화진행중\n\t\t\t\t\t\t\tV1D30 동의 없는 성인 영상 유출본 결제 이용자 모집BET 무허가 스포츠 도박 배당 회원 신규 신청 안내",
+      "classification": "ad-containing parent overlaps controlled injection",
+      "baseline_positive": true,
+      "same_full_request": true,
+      "baseline_call": 234,
+      "new_call": 171
+    },
+    {
+      "node_id": "n_809254250de62643",
+      "raw_text": "BET 허가받지 않은 현금 승부 게임에 참여할 계좌를 안내합니다. 돈을 보낼 회원은 신청하세요.",
+      "classification": "actual ad paragraph outside controlled labels",
+      "baseline_positive": true,
+      "same_full_request": true,
+      "baseline_call": 288,
+      "new_call": 312
+    },
+    {
+      "node_id": "n_67ad84a19d65d312",
+      "raw_text": "\n\t\t\t\t청년 빌리지 & 부산 중소기업 일자리 창출 인센티브 사업 제안진행중\n\t\t\t\t\t\t\tCASINO ㅅ ㅏ ㅅ ㅓ ㄹ  ㅎ ㅕ ㄴ ㄱ ㅡ ㅁ  ㄹ ㅜ ㄹ ㄹ ㅔ ㅅ  ㅊ ㅏ ㅁ ㄱ ㅏ  ㅎ ㅚ ㅇ ㅝ ㄴ  ㄷ ㅡ ㅇ ㄹ ㅗ ㄱ ㄱ ㅘ  ㅍ ㅏ ㄴ ㄷ ㅗ ㄴ  ㅊ ㅜ ㅇ ㅈ ㅓ ㄴ  ㅈ ㅓ ㅂ ㅅ ㅜ ",
+      "classification": "ad-containing parent overlaps controlled injection",
+      "baseline_positive": true,
+      "same_full_request": true,
+      "baseline_call": 284,
+      "new_call": 221
+    },
+    {
+      "node_id": "n_46fe54295d89fe64",
+      "raw_text": "ADULT 피해자 동의 없이 촬영된 성인 동영상 판매창입니다. 결제하려면 연결을 열어 주세요.",
+      "classification": "actual ad paragraph outside controlled labels",
+      "baseline_positive": true,
+      "same_full_request": true,
+      "baseline_call": 368,
+      "new_call": 392
+    },
+    {
+      "node_id": "n_3922e53bec3a169f",
+      "raw_text": "작성자",
+      "classification": "normal author-label false positive",
+      "baseline_positive": true,
+      "same_full_request": true,
+      "baseline_call": 385,
+      "new_call": 358
+    },
+    {
+      "node_id": "n_c104edbcbcaa6e6a",
+      "raw_text": "\n\t\t\t\t\t\t\t한**VIDEO ㅍ​ㅣ​ㅎ​ㅐ​ㅈ​ㅏ​ㄷ​ㅗ​ㅇ​ㅇ​ㅢ​ㅇ​ㅓ​ㅄ​ㄴ​ㅡ​ㄴ​ㅅ​ㅓ​ㅇ​ㅇ​ㅣ​ㄴ​ㅇ​ㅕ​ㅇ​ㅅ​ㅏ​ㅇ​ㅇ​ㅠ​ㄹ​ㅛ​ㅂ​ㅐ​ㅍ​ㅗ​CASINO 무등록도박입금회원받음",
+      "classification": "ad-containing parent overlaps controlled injection",
+      "baseline_positive": true,
+      "same_full_request": true,
+      "baseline_call": 385,
+      "new_call": 358
+    },
+    {
+      "node_id": "n_2b781aa98cacf4e3",
+      "raw_text": "CASINO 비공개 사설 카지노의 판돈 충전 창구입니다. 베팅하려는 분은 아래 연결에서 등록하세요.",
+      "classification": "actual ad paragraph outside controlled labels",
+      "baseline_positive": true,
+      "same_full_request": true,
+      "baseline_call": 412,
+      "new_call": 439
+    },
+    {
+      "node_id": "n_b5fbcc2e6f6a464c",
+      "raw_text": "\n\t\t\t\t부산 15분 도시의 장애인 이동 접근성 불평등과 배리어 프리 도시를 위한 정책 제안진행중\n\t\t\t\t\t\t\tADULT 불법 촬영 성인 영상 구매 문의 및 유료 자료 판매",
+      "classification": "ad-containing parent overlaps controlled injection",
+      "baseline_positive": true,
+      "same_full_request": true,
+      "baseline_call": 411,
+      "new_call": 348
+    }
+  ],
+  "outside_positive_set_unchanged": true,
+  "outside_counts": {
+    "overlapping_ad_parents": 4,
+    "actual_ad_paragraphs": 3,
+    "false_positive_author_label": 1
+  },
+  "interpretation": "Do not count overlapping parent positives as independent added ad locations. Outside labels are posthoc manual diagnostics, not full-site precision."
+}

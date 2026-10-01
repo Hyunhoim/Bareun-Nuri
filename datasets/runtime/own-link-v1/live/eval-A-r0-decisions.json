@@ -1,0 +1,222 @@
+[
+  {
+    "node_id": "n_03c56e93e62f6d69",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 이용권유 · 대상 원문: 예약하기",
+    "publication_act": "이용권유",
+    "raw_ad_verdict": "violation",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_0acd324bfa623f28",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 일반정보 · 대상 원문: 접속 안내",
+    "publication_act": "일반정보",
+    "raw_ad_verdict": "benign",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_11fb4176e07ed9d7",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 인용보도 · 대상 원문: 참여 접수",
+    "publication_act": "인용보도",
+    "raw_ad_verdict": "benign",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_142e815e6ae443c4",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 일반정보 · 대상 원문: 별도 상담",
+    "publication_act": "일반정보",
+    "raw_ad_verdict": "benign",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_15ab1b0da1a0cf8f",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 인용보도 · 대상 원문: 요금 납부",
+    "publication_act": "인용보도",
+    "raw_ad_verdict": "benign",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_1adda20a9070b221",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 이용권유 · 대상 원문: 요금 납부",
+    "publication_act": "이용권유",
+    "raw_ad_verdict": "violation",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_3a2a4bfc785f1097",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 이용권유 · 대상 원문: 상담 연결",
+    "publication_act": "이용권유",
+    "raw_ad_verdict": "violation",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_41c51734b41770b2",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 이용권유 · 대상 원문: 배송 요청",
+    "publication_act": "이용권유",
+    "raw_ad_verdict": "violation",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_498df7a83d2ddd9e",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 인용보도 · 대상 원문: 파일 구입",
+    "publication_act": "인용보도",
+    "raw_ad_verdict": "benign",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_5ebf4cb32aba0c23",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 일반정보 · 대상 원문: 예약하기",
+    "publication_act": "일반정보",
+    "raw_ad_verdict": "benign",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_62f6469d3d8f16b0",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 인용보도 · 대상 원문: 구독 결제",
+    "publication_act": "인용보도",
+    "raw_ad_verdict": "benign",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_7aac4b4536a64d0f",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 일반정보 · 대상 원문: 전용 안내",
+    "publication_act": "일반정보",
+    "raw_ad_verdict": "benign",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_89b5ba756e6bcaa1",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 일반정보 · 대상 원문: 자료 받기",
+    "publication_act": "일반정보",
+    "raw_ad_verdict": "benign",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_90006a56872e7780",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 이용권유 · 대상 원문: 파일 구입",
+    "publication_act": "이용권유",
+    "raw_ad_verdict": "violation",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_b5a4ecb851a647e1",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 일반정보 · 대상 원문: 배송 요청",
+    "publication_act": "일반정보",
+    "raw_ad_verdict": "benign",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_bbd71a8d324c178a",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 이용권유 · 대상 원문: 접속 안내",
+    "publication_act": "이용권유",
+    "raw_ad_verdict": "violation",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_c9a085b5c58720d0",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 이용권유 · 대상 원문: 참여 접수",
+    "publication_act": "이용권유",
+    "raw_ad_verdict": "violation",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_d76fed7e009d4a75",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 일반정보 · 대상 원문: 상담 연결",
+    "publication_act": "일반정보",
+    "raw_ad_verdict": "benign",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_e8c5d1554cc622d8",
+    "is_violation": true,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": false,
+    "reason": "모델이 선택한 게시행위: 이용권유 · 대상 원문: 구독 결제",
+    "publication_act": "이용권유",
+    "raw_ad_verdict": "violation",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  },
+  {
+    "node_id": "n_ed415c1341f008dc",
+    "is_violation": false,
+    "techniques": [],
+    "observed_techniques": [],
+    "needs_review": true,
+    "reason": "모델이 선택한 게시행위: 판단불가 · 대상 원문: 가입 창구",
+    "publication_act": "판단불가",
+    "raw_ad_verdict": "uncertain",
+    "reason_source": "code_generated_category_and_target_not_model_explanation"
+  }
+]

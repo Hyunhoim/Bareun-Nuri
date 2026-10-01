@@ -1,0 +1,15 @@
+{
+  "input_sha256": "3c970c765bd6855b27f1a1dfe12a4bd64c98dbf30c708d405ef81686a58347db",
+  "gold_sha256": "c5b29b122b18dfe4d3904b057d8bf6c2e83f75598abc9cd51346cb618882746b",
+  "models": {
+    "existing": "86db2f1d24b325e64954171438cf5df46c4beaa0a15a9ceb3dd27d1abe385194",
+    "klue_uts": "5165ad21b7b818e52b08534a1f744fa7a038c189600bb246aca4e7903e468428"
+  },
+  "training_overlap_exact": 0,
+  "training_token_overlap": 0,
+  "core_rows": 32,
+  "boundary_rows": 16,
+  "core_word_families": 6,
+  "synthetic": true,
+  "new_final_holdout": false
+}

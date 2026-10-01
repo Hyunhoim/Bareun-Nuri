@@ -1,0 +1,482 @@
+[
+  {
+    "id": "exa-draft-1-1",
+    "group_id": "employment",
+    "split": "unassigned_train_candidate",
+    "provenance": "assistant_authored_synthetic_draft",
+    "input_draft": {
+      "target": "급여 받은 이력이 없어도 재직·급여 서류를 만들어 드려요. 금융기관 제출용이며 발급 회사는 실제 근무처와 무관합니다. 필요한 분은 쪽지 주세요.",
+      "context": "생활 상담 / 게시글 본문"
+    },
+    "suggested_label": 0,
+    "intent_kind": "direct",
+    "planned_technique": "HOMOGLYPH",
+    "technique_verified": false,
+    "dom_collected": false,
+    "review": {
+      "status": "pending",
+      "label": null,
+      "note": ""
+    }
+  },
+  {
+    "id": "exa-draft-1-2",
+    "group_id": "employment",
+    "split": "unassigned_train_candidate",
+    "provenance": "assistant_authored_synthetic_draft",
+    "input_draft": {
+      "target": "이번 주 접수분에 같이 넣어드릴게요.",
+      "context": "같은 게시글 앞 문장: 실제로 다닌 적 없는 회사의 재직서류를 대신 제작합니다. 대출 심사에 내실 분의 주문을 받습니다."
+    },
+    "suggested_label": 0,
+    "intent_kind": "owned_cta",
+    "planned_technique": "JAMO",
+    "technique_verified": false,
+    "dom_collected": false,
+    "review": {
+      "status": "pending",
+      "label": null,
+      "note": ""
+    }
+  },
+  {
+    "id": "exa-draft-1-3",
+    "group_id": "employment",
+    "split": "unassigned_train_candidate",
+    "provenance": "assistant_authored_synthetic_draft",
+    "input_draft": {
+      "target": "이번 주 접수분에 같이 넣어드릴게요.",
+      "context": "같은 글: 위조 재직서류를 주문하도록 유도한 메시지를 보관해 제보합니다. 받은 문장 중 한 부분을 아래에 옮깁니다."
+    },
+    "suggested_label": 1,
+    "intent_kind": "prevention",
+    "planned_technique": "TRANSPARENT",
+    "technique_verified": false,
+    "dom_collected": false,
+    "review": {
+      "status": "pending",
+      "label": null,
+      "note": ""
+    }
+  },
+  {
+    "id": "exa-draft-1-4",
+    "group_id": "employment",
+    "split": "unassigned_train_candidate",
+    "provenance": "assistant_authored_synthetic_draft",
+    "input_draft": {
+      "target": "제 이름으로 만든 서류를 다른 곳에도 보낼까 걱정됩니다. 자료를 지우라고 요구한 대화도 남겨야 하나요?",
+      "context": "같은 글: 취업 서류를 정상적으로 발급해 준다는 말을 믿고 비용을 보냈는데, 경력이 허위로 적혀 있었습니다."
+    },
+    "suggested_label": 2,
+    "intent_kind": "victim",
+    "planned_technique": "OFFSCREEN",
+    "technique_verified": false,
+    "dom_collected": false,
+    "review": {
+      "status": "pending",
+      "label": null,
+      "note": ""
+    }
+  },
+  {
+    "id": "exa-draft-1-5",
+    "group_id": "employment",
+    "split": "unassigned_train_candidate",
+    "provenance": "assistant_authored_synthetic_draft",
+    "input_draft": {
+      "target": "이번 주 접수분에 같이 넣어드릴게요.",
+      "context": "같은 작성자의 답글 앞 문장: 구직자 이력서 문장 교정 모임의 신청서를 취합하고 있습니다. 경력 내용은 본인이 확인한 사실만 사용합니다."
+    },
+    "suggested_label": 2,
+    "intent_kind": "legitimate",
+    "planned_technique": "HOMOGLYPH",
+    "technique_verified": false,
+    "dom_collected": false,
+    "review": {
+      "status": "pending",
+      "label": null,
+      "note": ""
+    }
+  },
+  {
+    "id": "exa-draft-1-6",
+    "group_id": "employment",
+    "split": "unassigned_train_candidate",
+    "provenance": "assistant_authored_synthetic_draft",
+    "input_draft": {
+      "target": "이번 주 접수분에 같이 넣어드릴게요.",
+      "context": "페이지에는 작성자와 날짜만 보입니다. 별도 댓글 작성자는 재직서류 위조 제안을 받았다고 적었습니다. 대상 글의 이전 내용은 수집되지 않았습니다."
+    },
+    "suggested_label": 3,
+    "intent_kind": "uncertain",
+    "planned_technique": "JAMO",
+    "technique_verified": false,
+    "dom_collected": false,
+    "review": {
+      "status": "pending",
+      "label": null,
+      "note": ""
+    }
+  },
+  {
+    "id": "exa-draft-2-1",
+    "group_id": "wager",
+    "split": "unassigned_train_candidate",
+    "provenance": "assistant_authored_synthetic_draft",
+    "input_draft": {
+      "target": "올해 체육관 이용 시간이 바뀌었다네요. 그리고 현금을 걸고 승패를 맞히는 제가 운영하는 사설 배구방도 새 참가자를 받습니다. 들어올 분만 답글 주세요.",
+      "context": "동네 운동 게시판 / 게시물 본문"
+    },
+    "suggested_label": 0,
+    "intent_kind": "mixed",
+    "planned_technique": "JAMO",
+    "technique_verified": false,
+    "dom_collected": false,
+    "review": {
+      "status": "pending",
+      "label": null,
+      "note": ""
+    }
+  },
+  {
+    "id": "exa-draft-2-2",
+    "group_id": "wager",
+    "split": "unassigned_train_candidate",
+    "provenance": "assistant_authored_synthetic_draft",
+    "input_draft": {
+      "target": "“주말 경기 같이 보실 분”이라고 남기시면 됩니다.",
+      "context": "같은 댓글: 방송 시청 모임이 아니라 판돈을 걸고 배당을 받는 사설 배구 도박방 신청입니다. 제가 참여자를 모으고 있습니다."
+    },
+    "suggested_label": 0,
+    "intent_kind": "quoted_offer",
+    "planned_technique": "TRANSPARENT",
+    "technique_verified": false,
+    "dom_collected": false,
+    "review": {
+      "status": "pending",
+      "label": null,
+      "note": ""
+    }
+  },
+  {
+    "id": "exa-draft-2-3",
+    "group_id": "wager",
+    "split": "unassigned_train_candidate",
+    "provenance": "assistant_authored_synthetic_draft",
+    "input_draft": {
+      "target": "“주말 경기 같이 보실 분”이라고 남기시면 됩니다.",
+      "context": "같은 게시글: 청소년에게 전송된 사설 도박방 모집 메시지를 학교에 전달하려고 원문을 옮겼습니다. 다음은 모집자가 사용한 문장입니다."
+    },
+    "suggested_label": 1,
+    "intent_kind": "prevention",
+    "planned_technique": "OFFSCREEN",
+    "technique_verified": false,
+    "dom_collected": false,
+    "review": {
+      "status": "pending",
+      "label": null,
+      "note": ""
+    }
+  },
+  {
+    "id": "exa-draft-2-4",
+    "group_id": "wager",
+    "split": "unassigned_train_candidate",
+    "provenance": "assistant_authored_synthetic_draft",
+    "input_draft": {
+      "target": "판돈을 돌려준다는 사람이 신분증을 더 달라고 합니다. 이미 보낸 사진은 어떻게 보호해야 하나요?",
+      "context": "같은 글: 사설 경기 도박방을 탈퇴했습니다. 다시 참여하려는 것이 아니라 개인정보 피해를 막고 싶습니다."
+    },
+    "suggested_label": 2,
+    "intent_kind": "victim",
+    "planned_technique": "HOMOGLYPH",
+    "technique_verified": false,
+    "dom_collected": false,
+    "review": {
+      "status": "pending",
+      "label": null,
+      "note": ""
+    }
+  },
+  {
+    "id": "exa-draft-2-5",
+    "group_id": "wager",
+    "split": "unassigned_train_candidate",
+    "provenance": "assistant_authored_synthetic_draft",
+    "input_draft": {
+      "target": "승강기 수리가 끝났는지 아시는 분 있나요?",
+      "context": "대상 댓글과 다른 작성자의 앞 댓글: 현금 배팅을 받는 사설 경기방 이용자를 모집합니다. 대상 댓글 본문에는 그 거래와 관련된 내용이 없습니다."
+    },
+    "suggested_label": 2,
+    "intent_kind": "other_author",
+    "planned_technique": "JAMO",
+    "technique_verified": false,
+    "dom_collected": false,
+    "review": {
+      "status": "pending",
+      "label": null,
+      "note": ""
+    }
+  },
+  {
+    "id": "exa-draft-2-6",
+    "group_id": "wager",
+    "split": "unassigned_train_candidate",
+    "provenance": "assistant_authored_synthetic_draft",
+    "input_draft": {
+      "target": "남은 자리 두 분만 더 받을게요.",
+      "context": "게시글 제목은 주말 일정입니다. 본문은 권한 오류로 수집되지 않았고 참가 비용이나 행사 내용은 확인되지 않았습니다."
+    },
+    "suggested_label": 3,
+    "intent_kind": "uncertain",
+    "planned_technique": "TRANSPARENT",
+    "technique_verified": false,
+    "dom_collected": false,
+    "review": {
+      "status": "pending",
+      "label": null,
+      "note": ""
+    }
+  },
+  {
+    "id": "exa-draft-3-1",
+    "group_id": "medicine",
+    "split": "unassigned_train_candidate",
+    "provenance": "assistant_authored_synthetic_draft",
+    "input_draft": {
+      "target": "제 처방으로 받은 수면제를 남겨 두었습니다. 다른 분께 돈 받고 나누려고 하니 필요한 수량을 쪽지로 적어주세요.",
+      "context": "주민 게시판 / 게시글 본문"
+    },
+    "suggested_label": 0,
+    "intent_kind": "direct",
+    "planned_technique": "TRANSPARENT",
+    "technique_verified": false,
+    "dom_collected": false,
+    "review": {
+      "status": "pending",
+      "label": null,
+      "note": ""
+    }
+  },
+  {
+    "id": "exa-draft-3-2",
+    "group_id": "medicine",
+    "split": "unassigned_train_candidate",
+    "provenance": "assistant_authored_synthetic_draft",
+    "input_draft": {
+      "target": "개별로 수량 확인하고 보내드려요.",
+      "context": "같은 글의 뒤 문장: 판매하는 것은 제 명의로 처방받은 수면제입니다. 구매자의 처방전은 받지 않고 개인 간 거래로 진행합니다."
+    },
+    "suggested_label": 0,
+    "intent_kind": "owned_cta",
+    "planned_technique": "OFFSCREEN",
+    "technique_verified": false,
+    "dom_collected": false,
+    "review": {
+      "status": "pending",
+      "label": null,
+      "note": ""
+    }
+  },
+  {
+    "id": "exa-draft-3-3",
+    "group_id": "medicine",
+    "split": "unassigned_train_candidate",
+    "provenance": "assistant_authored_synthetic_draft",
+    "input_draft": {
+      "target": "개별로 수량 확인하고 보내드려요.",
+      "context": "같은 글: 처방받은 약을 개인이 다시 파는 메시지를 수신했습니다. 거래를 막기 위해 신고하려는데 판매자가 보낸 아래 문장이 증거가 될까요?"
+    },
+    "suggested_label": 1,
+    "intent_kind": "prevention",
+    "planned_technique": "HOMOGLYPH",
+    "technique_verified": false,
+    "dom_collected": false,
+    "review": {
+      "status": "pending",
+      "label": null,
+      "note": ""
+    }
+  },
+  {
+    "id": "exa-draft-3-4",
+    "group_id": "medicine",
+    "split": "unassigned_train_candidate",
+    "provenance": "assistant_authored_synthetic_draft",
+    "input_draft": {
+      "target": "구입한 알약의 포장과 결제 화면만 남아 있습니다. 환불 요구를 먼저 해야 하는지 상담받고 싶습니다.",
+      "context": "같은 글: 개인 판매자가 처방 수면제라고 한 약을 샀습니다. 추가 주문은 하지 않았고 피해 상담을 찾는 중입니다."
+    },
+    "suggested_label": 2,
+    "intent_kind": "victim",
+    "planned_technique": "JAMO",
+    "technique_verified": false,
+    "dom_collected": false,
+    "review": {
+      "status": "pending",
+      "label": null,
+      "note": ""
+    }
+  },
+  {
+    "id": "exa-draft-3-5",
+    "group_id": "medicine",
+    "split": "unassigned_train_candidate",
+    "provenance": "assistant_authored_synthetic_draft",
+    "input_draft": {
+      "target": "개별로 수량 확인하고 보내드려요.",
+      "context": "같은 게시글: 보건소에서 배포하는 복약 기록 수첩을 마을별로 신청받습니다. 의약품 판매가 아닌 무료 인쇄물 배부입니다."
+    },
+    "suggested_label": 2,
+    "intent_kind": "legitimate",
+    "planned_technique": "TRANSPARENT",
+    "technique_verified": false,
+    "dom_collected": false,
+    "review": {
+      "status": "pending",
+      "label": null,
+      "note": ""
+    }
+  },
+  {
+    "id": "exa-draft-3-6",
+    "group_id": "medicine",
+    "split": "unassigned_train_candidate",
+    "provenance": "assistant_authored_synthetic_draft",
+    "input_draft": {
+      "target": "개별로 수량 확인하고 보내드려요.",
+      "context": "같은 글의 상품 설명 부분이 잘려 있습니다. 다른 이용자는 약 봉투 정리법을 질문했지만 대상 작성자와의 관계는 확인되지 않습니다."
+    },
+    "suggested_label": 3,
+    "intent_kind": "uncertain",
+    "planned_technique": "OFFSCREEN",
+    "technique_verified": false,
+    "dom_collected": false,
+    "review": {
+      "status": "pending",
+      "label": null,
+      "note": ""
+    }
+  },
+  {
+    "id": "exa-draft-4-1",
+    "group_id": "account",
+    "split": "unassigned_train_candidate",
+    "provenance": "assistant_authored_synthetic_draft",
+    "input_draft": {
+      "target": "남의 계정에서 빼낸 로그인 정보를 묶어 판매합니다. 소유자 동의는 받지 않았습니다. 구매 문의는 이 글의 쪽지로 받습니다.",
+      "context": "지역 정보 나눔 / 게시글 본문"
+    },
+    "suggested_label": 0,
+    "intent_kind": "direct",
+    "planned_technique": "OFFSCREEN",
+    "technique_verified": false,
+    "dom_collected": false,
+    "review": {
+      "status": "pending",
+      "label": null,
+      "note": ""
+    }
+  },
+  {
+    "id": "exa-draft-4-2",
+    "group_id": "account",
+    "split": "unassigned_train_candidate",
+    "provenance": "assistant_authored_synthetic_draft",
+    "input_draft": {
+      "target": "목록에서 골라 번호만 남겨주세요.",
+      "context": "같은 게시물 앞 문장: 타인 동의 없이 탈취한 쇼핑 계정의 로그인 정보를 유료로 넘기는 판매 글입니다."
+    },
+    "suggested_label": 0,
+    "intent_kind": "owned_cta",
+    "planned_technique": "HOMOGLYPH",
+    "technique_verified": false,
+    "dom_collected": false,
+    "review": {
+      "status": "pending",
+      "label": null,
+      "note": ""
+    }
+  },
+  {
+    "id": "exa-draft-4-3",
+    "group_id": "account",
+    "split": "unassigned_train_candidate",
+    "provenance": "assistant_authored_synthetic_draft",
+    "input_draft": {
+      "target": "목록에서 골라 번호만 남겨주세요.",
+      "context": "같은 글: 제 계정이 거래 목록에 올라왔습니다. 판매 문구를 아래에 복사했으니 플랫폼 신고에 필요한 항목을 알려주세요."
+    },
+    "suggested_label": 1,
+    "intent_kind": "prevention",
+    "planned_technique": "JAMO",
+    "technique_verified": false,
+    "dom_collected": false,
+    "review": {
+      "status": "pending",
+      "label": null,
+      "note": ""
+    }
+  },
+  {
+    "id": "exa-draft-4-4",
+    "group_id": "account",
+    "split": "unassigned_train_candidate",
+    "provenance": "assistant_authored_synthetic_draft",
+    "input_draft": {
+      "target": "거래한 상대에게 비밀번호를 바꾸라고 요구했지만 답이 없습니다. 고객센터에 어떤 자료를 제출해야 할까요?",
+      "context": "같은 작성자의 앞 문장: 계정을 양도한 적이 없는데 제 로그인 정보가 판매됐다는 알림을 받았습니다."
+    },
+    "suggested_label": 2,
+    "intent_kind": "victim",
+    "planned_technique": "TRANSPARENT",
+    "technique_verified": false,
+    "dom_collected": false,
+    "review": {
+      "status": "pending",
+      "label": null,
+      "note": ""
+    }
+  },
+  {
+    "id": "exa-draft-4-5",
+    "group_id": "account",
+    "split": "unassigned_train_candidate",
+    "provenance": "assistant_authored_synthetic_draft",
+    "input_draft": {
+      "target": "문의는 평일 오후에 답변드리겠습니다.",
+      "context": "대상은 게시판 관리자의 이용시간 안내입니다. 아래 별도 이용자 댓글에는 타인의 로그인 정보를 판매한다는 내용이 있지만 작성자가 다릅니다."
+    },
+    "suggested_label": 2,
+    "intent_kind": "other_author",
+    "planned_technique": "OFFSCREEN",
+    "technique_verified": false,
+    "dom_collected": false,
+    "review": {
+      "status": "pending",
+      "label": null,
+      "note": ""
+    }
+  },
+  {
+    "id": "exa-draft-4-6",
+    "group_id": "account",
+    "split": "unassigned_train_candidate",
+    "provenance": "assistant_authored_synthetic_draft",
+    "input_draft": {
+      "target": "목록에서 골라 번호만 남겨주세요.",
+      "context": "목록을 표시하는 iframe이 로딩되지 않았습니다. 대상 문구 외에는 분류와 작성일만 수집됐습니다."
+    },
+    "suggested_label": 3,
+    "intent_kind": "uncertain",
+    "planned_technique": "HOMOGLYPH",
+    "technique_verified": false,
+    "dom_collected": false,
+    "review": {
+      "status": "pending",
+      "label": null,
+      "note": ""
+    }
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "correction": "Evaluation-only verified local-server canonical aliases; not crawl/request changes.",
+  "old_facts_preserved": true,
+  "baseline_metrics_unchanged": true,
+  "query_order_alias_verified": true,
+  "query_value_change_not_merged": true,
+  "unknown_routes_and_external_origins_not_normalized": true,
+  "catalog_collision_count": 0,
+  "gold_collision_count": 0,
+  "candidate_collision_count": 0,
+  "request_url_example_preserved": "http://127.0.0.1:19160/siminopen/siminthink01/1753990?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=",
+  "gold_manifest_sha256": "2b80e59d41ae17607bb65c1bce0501557b432f569ec558f59c81bcc724e5eb6a",
+  "result_sha256": "0816aa8b835fe8255ade51b2d26fc7e705b4348caaa570270230e26174f31130",
+  "evaluator_sha256": "4e6aa4f695539f19c7f8384a13f70abcb401e6f1829b6f4b309f104e9ccf793c",
+  "api_calls": 0,
+  "browser_calls": 0
+}

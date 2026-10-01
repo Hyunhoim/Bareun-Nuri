@@ -1,0 +1,642 @@
+[
+  {
+    "id": "na2559ee4a6d4cc",
+    "group": "validation-0-0",
+    "split": "validation",
+    "label": 0,
+    "input": {
+      "target": "산책로 얘기는 다음에 할게요. 지금은 제가 만든 무허가 현금 배팅 사이트의 이용자를 모으니 참가할 사람은 입금 안내 받아가세요.",
+      "context": "주민 소통 글\n앞 문맥: 내용을 확인해 주세요."
+    }
+  },
+  {
+    "id": "n987ed07aa88553",
+    "group": "validation-0-0",
+    "split": "validation",
+    "label": 0,
+    "input": {
+      "target": "산책로 얘기는 다음에 할게요. 지금은 제가 만든 무허가 현금 배팅 사이트의 이용자를 모으니 참가할 사람은 입금 안내 받아가세요.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "n88d5c26fd547bc",
+    "group": "validation-0-1",
+    "split": "validation",
+    "label": 0,
+    "input": {
+      "target": "공지 잘 읽었어요. 그와 별개로 성인 피해자가 지워 달라고 한 촬영본을 돈 받고 넘기고 있으니 구매할 분만 연락 바랍니다.",
+      "context": "주민 소통 글\n앞 문맥: 내용을 확인해 주세요."
+    }
+  },
+  {
+    "id": "nb0e4c9b70d1875",
+    "group": "validation-0-1",
+    "split": "validation",
+    "label": 0,
+    "input": {
+      "target": "공지 잘 읽었어요. 그와 별개로 성인 피해자가 지워 달라고 한 촬영본을 돈 받고 넘기고 있으니 구매할 분만 연락 바랍니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "n908c40391f47b8",
+    "group": "validation-0-2",
+    "split": "validation",
+    "label": 0,
+    "input": {
+      "target": "오늘 대진에 실제 판돈을 걸 분에게 제 사설 승부방을 열어드립니다. 끝난 뒤 배당금도 계좌로 받을 수 있어요.",
+      "context": "주민 소통 글\n앞 문맥: 내용을 확인해 주세요."
+    }
+  },
+  {
+    "id": "n3032899165edf7",
+    "group": "validation-0-2",
+    "split": "validation",
+    "label": 0,
+    "input": {
+      "target": "오늘 대진에 실제 판돈을 걸 분에게 제 사설 승부방을 열어드립니다. 끝난 뒤 배당금도 계좌로 받을 수 있어요.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "ndbc90f6598554c",
+    "group": "validation-0-3",
+    "split": "validation",
+    "label": 0,
+    "input": {
+      "target": "저녁 식사는 해결했습니다. 남은 시간에 온라인 도박방 같이 하실 분, 제 소개로 현금 칩 구매하시면 됩니다.",
+      "context": "주민 소통 글\n앞 문맥: 내용을 확인해 주세요."
+    }
+  },
+  {
+    "id": "n84f96b8b80def3",
+    "group": "validation-0-3",
+    "split": "validation",
+    "label": 0,
+    "input": {
+      "target": "저녁 식사는 해결했습니다. 남은 시간에 온라인 도박방 같이 하실 분, 제 소개로 현금 칩 구매하시면 됩니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "nab9d966afdda08",
+    "group": "validation-0-4",
+    "split": "validation",
+    "label": 0,
+    "input": {
+      "target": "돈을 받고 회원을 들이는 사설 숫자 게임을 운영합니다. 맞힌 번호의 배당은 현금으로 정산하니 들어오세요.",
+      "context": "주민 소통 글\n앞 문맥: 내용을 확인해 주세요."
+    }
+  },
+  {
+    "id": "n92ef7e64835b17",
+    "group": "validation-0-4",
+    "split": "validation",
+    "label": 0,
+    "input": {
+      "target": "돈을 받고 회원을 들이는 사설 숫자 게임을 운영합니다. 맞힌 번호의 배당은 현금으로 정산하니 들어오세요.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "n07ce2a6d58479b",
+    "group": "validation-0-5",
+    "split": "validation",
+    "label": 0,
+    "input": {
+      "target": "민원 답변은 기다리겠습니다. 여기서는 제가 파는 비동의 성인 촬영 파일 주문도 받습니다.",
+      "context": "주민 소통 글\n앞 문맥: 내용을 확인해 주세요."
+    }
+  },
+  {
+    "id": "nef862c22f43923",
+    "group": "validation-0-5",
+    "split": "validation",
+    "label": 0,
+    "input": {
+      "target": "민원 답변은 기다리겠습니다. 여기서는 제가 파는 비동의 성인 촬영 파일 주문도 받습니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "n75aa0ae69e336b",
+    "group": "validation-0-6",
+    "split": "validation",
+    "label": 0,
+    "input": {
+      "target": "제가 온라인 룰렛방 입금을 담당하고 있어요. 실제 판돈으로 게임하고 남은 칩을 현금으로 받을 고객을 찾습니다.",
+      "context": "주민 소통 글\n앞 문맥: 내용을 확인해 주세요."
+    }
+  },
+  {
+    "id": "nab162938e305db",
+    "group": "validation-0-6",
+    "split": "validation",
+    "label": 0,
+    "input": {
+      "target": "제가 온라인 룰렛방 입금을 담당하고 있어요. 실제 판돈으로 게임하고 남은 칩을 현금으로 받을 고객을 찾습니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "na2d6408290c920",
+    "group": "validation-0-7",
+    "split": "validation",
+    "label": 0,
+    "input": {
+      "target": "이 글의 마지막 안내입니다. 유출된 성인 사생활 원본을 유료로 전송할 테니 받을 분은 신청하세요.",
+      "context": "주민 소통 글\n앞 문맥: 내용을 확인해 주세요."
+    }
+  },
+  {
+    "id": "n47b9fd021dd93b",
+    "group": "validation-0-7",
+    "split": "validation",
+    "label": 0,
+    "input": {
+      "target": "이 글의 마지막 안내입니다. 유출된 성인 사생활 원본을 유료로 전송할 테니 받을 분은 신청하세요.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "na0949e03969aa0",
+    "group": "validation-1-0",
+    "split": "validation",
+    "label": 1,
+    "input": {
+      "target": "지역 잡지에 현금 도박방을 운영하다 적발된 사람의 재판 소식이 실렸습니다. 글쓴이는 판결 내용을 소개했습니다.",
+      "context": "주민 소통 글\n앞 문맥: 내용을 확인해 주세요."
+    }
+  },
+  {
+    "id": "nc8b689a3d34c35",
+    "group": "validation-1-0",
+    "split": "validation",
+    "label": 1,
+    "input": {
+      "target": "지역 잡지에 현금 도박방을 운영하다 적발된 사람의 재판 소식이 실렸습니다. 글쓴이는 판결 내용을 소개했습니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "n02eeb35aaf6d56",
+    "group": "validation-1-1",
+    "split": "validation",
+    "label": 1,
+    "input": {
+      "target": "교사가 사설 배팅 권유 문자를 칠판에 보여줬습니다. 아이들은 어디서 피해가 생기는지 토론했습니다.",
+      "context": "주민 소통 글\n앞 문맥: 내용을 확인해 주세요."
+    }
+  },
+  {
+    "id": "na67c0380b3f1f4",
+    "group": "validation-1-1",
+    "split": "validation",
+    "label": 1,
+    "input": {
+      "target": "교사가 사설 배팅 권유 문자를 칠판에 보여줬습니다. 아이들은 어디서 피해가 생기는지 토론했습니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "n24ebeeaea08d73",
+    "group": "validation-1-2",
+    "split": "validation",
+    "label": 1,
+    "input": {
+      "target": "삭제 이력에 성인 피해 영상의 유료 전송 광고가 적혀 있습니다. 관리자는 처리 결과를 설명했습니다.",
+      "context": "주민 소통 글\n앞 문맥: 내용을 확인해 주세요."
+    }
+  },
+  {
+    "id": "n299e5105e6ca3f",
+    "group": "validation-1-2",
+    "split": "validation",
+    "label": 1,
+    "input": {
+      "target": "삭제 이력에 성인 피해 영상의 유료 전송 광고가 적혀 있습니다. 관리자는 처리 결과를 설명했습니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "n313932016e0d16",
+    "group": "validation-1-3",
+    "split": "validation",
+    "label": 1,
+    "input": {
+      "target": "청소년이 게임 판돈을 마련한 경위를 조사한 보고입니다. 모집에 응하라는 내용은 없습니다.",
+      "context": "주민 소통 글\n앞 문맥: 내용을 확인해 주세요."
+    }
+  },
+  {
+    "id": "nf5725be0545d6e",
+    "group": "validation-1-3",
+    "split": "validation",
+    "label": 1,
+    "input": {
+      "target": "청소년이 게임 판돈을 마련한 경위를 조사한 보고입니다. 모집에 응하라는 내용은 없습니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "n1fa6caeba832d3",
+    "group": "validation-1-4",
+    "split": "validation",
+    "label": 1,
+    "input": {
+      "target": "회복 모임 발표자는 카지노 충전으로 돈을 잃었다고 말했습니다. 발표를 정리해 상담 자료로 남겼습니다.",
+      "context": "주민 소통 글\n앞 문맥: 내용을 확인해 주세요."
+    }
+  },
+  {
+    "id": "n648fc90e84b663",
+    "group": "validation-1-4",
+    "split": "validation",
+    "label": 1,
+    "input": {
+      "target": "회복 모임 발표자는 카지노 충전으로 돈을 잃었다고 말했습니다. 발표를 정리해 상담 자료로 남겼습니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "n2c389882387dbf",
+    "group": "validation-1-5",
+    "split": "validation",
+    "label": 1,
+    "input": {
+      "target": "성인 유출자료 판매가 어떻게 신고됐는지 보도하는 뉴스입니다. 피해자의 신원은 공개하지 않았습니다.",
+      "context": "주민 소통 글\n앞 문맥: 내용을 확인해 주세요."
+    }
+  },
+  {
+    "id": "nfab0674673dffc",
+    "group": "validation-1-5",
+    "split": "validation",
+    "label": 1,
+    "input": {
+      "target": "성인 유출자료 판매가 어떻게 신고됐는지 보도하는 뉴스입니다. 피해자의 신원은 공개하지 않았습니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "n0987e7c383567f",
+    "group": "validation-1-6",
+    "split": "validation",
+    "label": 1,
+    "input": {
+      "target": "우편함에서 발견한 현금 배팅 광고지를 폐기했습니다. 수거 업무 일지에 적힌 기록입니다.",
+      "context": "주민 소통 글\n앞 문맥: 내용을 확인해 주세요."
+    }
+  },
+  {
+    "id": "n6ccf6d1936a6be",
+    "group": "validation-1-6",
+    "split": "validation",
+    "label": 1,
+    "input": {
+      "target": "우편함에서 발견한 현금 배팅 광고지를 폐기했습니다. 수거 업무 일지에 적힌 기록입니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "nd203931fcc4575",
+    "group": "validation-1-7",
+    "split": "validation",
+    "label": 1,
+    "input": {
+      "target": "기관은 온라인 도박 광고 사례를 분석한 연구 결과를 공개했습니다. 실제 가입 경로는 제공하지 않았습니다.",
+      "context": "주민 소통 글\n앞 문맥: 내용을 확인해 주세요."
+    }
+  },
+  {
+    "id": "n677fea1482d1e8",
+    "group": "validation-1-7",
+    "split": "validation",
+    "label": 1,
+    "input": {
+      "target": "기관은 온라인 도박 광고 사례를 분석한 연구 결과를 공개했습니다. 실제 가입 경로는 제공하지 않았습니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "naaaa68f0f1faa0",
+    "group": "validation-2-0",
+    "split": "validation",
+    "label": 2,
+    "input": {
+      "target": "내 돈을 찾으려면 또 넣으라는 사설 도박방의 요구를 받았습니다. 더 보내기 전에 상담원과 이야기하고 싶어요.",
+      "context": "주민 소통 글\n앞 문맥: 내용을 확인해 주세요."
+    }
+  },
+  {
+    "id": "n58c0b235890b42",
+    "group": "validation-2-0",
+    "split": "validation",
+    "label": 2,
+    "input": {
+      "target": "내 돈을 찾으려면 또 넣으라는 사설 도박방의 요구를 받았습니다. 더 보내기 전에 상담원과 이야기하고 싶어요.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "nfc069064d04d54",
+    "group": "validation-2-1",
+    "split": "validation",
+    "label": 2,
+    "input": {
+      "target": "성인이 된 뒤 촬영된 제 사생활 영상이 허락 없이 팔립니다. 제거를 도와줄 기관 연락처가 필요합니다.",
+      "context": "주민 소통 글\n앞 문맥: 내용을 확인해 주세요."
+    }
+  },
+  {
+    "id": "ndcf41e19a772d7",
+    "group": "validation-2-1",
+    "split": "validation",
+    "label": 2,
+    "input": {
+      "target": "성인이 된 뒤 촬영된 제 사생활 영상이 허락 없이 팔립니다. 제거를 도와줄 기관 연락처가 필요합니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "n69af17bc284872",
+    "group": "validation-2-2",
+    "split": "validation",
+    "label": 2,
+    "input": {
+      "target": "친척이 현금 카지노 가입을 권하는 메시지를 계속 보냅니다. 그만 받도록 지원받을 수 있을까요?",
+      "context": "주민 소통 글\n앞 문맥: 내용을 확인해 주세요."
+    }
+  },
+  {
+    "id": "ne2952009192b4b",
+    "group": "validation-2-2",
+    "split": "validation",
+    "label": 2,
+    "input": {
+      "target": "친척이 현금 카지노 가입을 권하는 메시지를 계속 보냅니다. 그만 받도록 지원받을 수 있을까요?",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "n062e1f07ab08cd",
+    "group": "validation-2-3",
+    "split": "validation",
+    "label": 2,
+    "input": {
+      "target": "시립 수영장 환불금이 다른 계좌로 갔습니다. 수강 취소 기록과 함께 확인해 주세요.",
+      "context": "주민 소통 글\n앞 문맥: 내용을 확인해 주세요."
+    }
+  },
+  {
+    "id": "n5519e4030edcde",
+    "group": "validation-2-3",
+    "split": "validation",
+    "label": 2,
+    "input": {
+      "target": "시립 수영장 환불금이 다른 계좌로 갔습니다. 수강 취소 기록과 함께 확인해 주세요.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "nf0820e3917eb30",
+    "group": "validation-2-4",
+    "split": "validation",
+    "label": 2,
+    "input": {
+      "target": "마을버스 충전기에 지폐가 걸렸습니다. 기계에서 돈을 돌려받을 접수처를 알려주세요.",
+      "context": "주민 소통 글\n앞 문맥: 내용을 확인해 주세요."
+    }
+  },
+  {
+    "id": "n495b4e85594b77",
+    "group": "validation-2-4",
+    "split": "validation",
+    "label": 2,
+    "input": {
+      "target": "마을버스 충전기에 지폐가 걸렸습니다. 기계에서 돈을 돌려받을 접수처를 알려주세요.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "nff05dd4022c729",
+    "group": "validation-2-5",
+    "split": "validation",
+    "label": 2,
+    "input": {
+      "target": "훔쳐 간 제 성인 사진을 판다는 연락을 받았습니다. 증거를 보존하면서 경찰 상담을 받고 싶습니다.",
+      "context": "주민 소통 글\n앞 문맥: 내용을 확인해 주세요."
+    }
+  },
+  {
+    "id": "n659d767704c192",
+    "group": "validation-2-5",
+    "split": "validation",
+    "label": 2,
+    "input": {
+      "target": "훔쳐 간 제 성인 사진을 판다는 연락을 받았습니다. 증거를 보존하면서 경찰 상담을 받고 싶습니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "n71204c8dfe78f5",
+    "group": "validation-2-6",
+    "split": "validation",
+    "label": 2,
+    "input": {
+      "target": "다음 문서로 이동하는 접근성 버튼입니다. 마우스를 쓰기 어려운 이용자도 누를 수 있습니다.",
+      "context": "주민 소통 글\n앞 문맥: 내용을 확인해 주세요."
+    }
+  },
+  {
+    "id": "ne6e8191de6f383",
+    "group": "validation-2-6",
+    "split": "validation",
+    "label": 2,
+    "input": {
+      "target": "다음 문서로 이동하는 접근성 버튼입니다. 마우스를 쓰기 어려운 이용자도 누를 수 있습니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "n74e77a53e5c625",
+    "group": "validation-2-7",
+    "split": "validation",
+    "label": 2,
+    "input": {
+      "target": "도서관 시민 강의는 무료입니다. 예약 후 참석이 어려우면 취소만 해주시면 됩니다.",
+      "context": "주민 소통 글\n앞 문맥: 내용을 확인해 주세요."
+    }
+  },
+  {
+    "id": "nbe20dbcc521012",
+    "group": "validation-2-7",
+    "split": "validation",
+    "label": 2,
+    "input": {
+      "target": "도서관 시민 강의는 무료입니다. 예약 후 참석이 어려우면 취소만 해주시면 됩니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "n8b08db0fcc3047",
+    "group": "validation-3-0",
+    "split": "validation",
+    "label": 3,
+    "input": {
+      "target": "신규 이용자를 모집한다는 안내만 있습니다. 이용하는 서비스의 종류는 공개하지 않았습니다.",
+      "context": "주민 소통 글\n앞 문맥: 내용을 확인해 주세요."
+    }
+  },
+  {
+    "id": "n0d4d45147e38c2",
+    "group": "validation-3-0",
+    "split": "validation",
+    "label": 3,
+    "input": {
+      "target": "신규 이용자를 모집한다는 안내만 있습니다. 이용하는 서비스의 종류는 공개하지 않았습니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "n7f15ce2007e325",
+    "group": "validation-3-1",
+    "split": "validation",
+    "label": 3,
+    "input": {
+      "target": "입장할 분에게 따로 이야기하겠습니다. 어떤 장소나 활동인지는 이 글에 없습니다.",
+      "context": "주민 소통 글\n앞 문맥: 내용을 확인해 주세요."
+    }
+  },
+  {
+    "id": "n3b5c5f39b9258e",
+    "group": "validation-3-1",
+    "split": "validation",
+    "label": 3,
+    "input": {
+      "target": "입장할 분에게 따로 이야기하겠습니다. 어떤 장소나 활동인지는 이 글에 없습니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "nb27d0a33335704",
+    "group": "validation-3-2",
+    "split": "validation",
+    "label": 3,
+    "input": {
+      "target": "여기로 신청하면 된다는 답변입니다. 신청 대상이 무엇인지 앞선 대화는 남아 있지 않습니다.",
+      "context": "주민 소통 글\n앞 문맥: 내용을 확인해 주세요."
+    }
+  },
+  {
+    "id": "n36007b29a1b7fb",
+    "group": "validation-3-2",
+    "split": "validation",
+    "label": 3,
+    "input": {
+      "target": "여기로 신청하면 된다는 답변입니다. 신청 대상이 무엇인지 앞선 대화는 남아 있지 않습니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "nec7f6ec6bedd87",
+    "group": "validation-3-3",
+    "split": "validation",
+    "label": 3,
+    "input": {
+      "target": "연락하면 제공한다는 물건의 이름은 적혀 있지 않습니다. 지금은 신청 의사만 받고 있습니다.",
+      "context": "주민 소통 글\n앞 문맥: 내용을 확인해 주세요."
+    }
+  },
+  {
+    "id": "nf4abb5c3814c4e",
+    "group": "validation-3-3",
+    "split": "validation",
+    "label": 3,
+    "input": {
+      "target": "연락하면 제공한다는 물건의 이름은 적혀 있지 않습니다. 지금은 신청 의사만 받고 있습니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "ne9d1959c56704e",
+    "group": "validation-3-4",
+    "split": "validation",
+    "label": 3,
+    "input": {
+      "target": "회원에게 보내는 공지인데 어느 서비스의 회원인지 표시가 없습니다. 가입을 원하는 분의 문의를 받는다고 합니다.",
+      "context": "주민 소통 글\n앞 문맥: 내용을 확인해 주세요."
+    }
+  },
+  {
+    "id": "nff86ee1f2b2fb7",
+    "group": "validation-3-4",
+    "split": "validation",
+    "label": 3,
+    "input": {
+      "target": "회원에게 보내는 공지인데 어느 서비스의 회원인지 표시가 없습니다. 가입을 원하는 분의 문의를 받는다고 합니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "n31b408bc6872cd",
+    "group": "validation-3-5",
+    "split": "validation",
+    "label": 3,
+    "input": {
+      "target": "예약을 받겠다고만 적혀 있습니다. 무엇을 예약하는지 알 수 있는 설명은 찾을 수 없습니다.",
+      "context": "주민 소통 글\n앞 문맥: 내용을 확인해 주세요."
+    }
+  },
+  {
+    "id": "n06bf71d466df61",
+    "group": "validation-3-5",
+    "split": "validation",
+    "label": 3,
+    "input": {
+      "target": "예약을 받겠다고만 적혀 있습니다. 무엇을 예약하는지 알 수 있는 설명은 찾을 수 없습니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "n9fe521a4d010ee",
+    "group": "validation-3-6",
+    "split": "validation",
+    "label": 3,
+    "input": {
+      "target": "다음 단계로 연결해준다는 메시지입니다. 연결 대상의 내용이 빠진 상태로 신청을 받습니다.",
+      "context": "주민 소통 글\n앞 문맥: 내용을 확인해 주세요."
+    }
+  },
+  {
+    "id": "n2ee59af7b8a43a",
+    "group": "validation-3-6",
+    "split": "validation",
+    "label": 3,
+    "input": {
+      "target": "다음 단계로 연결해준다는 메시지입니다. 연결 대상의 내용이 빠진 상태로 신청을 받습니다.",
+      "context": "주민 소통 글"
+    }
+  },
+  {
+    "id": "nc1e1dcc365a825",
+    "group": "validation-3-7",
+    "split": "validation",
+    "label": 3,
+    "input": {
+      "target": "주문하실 분을 찾지만 판매하는 항목이 무엇인지는 밝히지 않았습니다. 자세한 말은 나중에 하겠다고 합니다.",
+      "context": "주민 소통 글\n앞 문맥: 내용을 확인해 주세요."
+    }
+  },
+  {
+    "id": "ne094a48a2364c6",
+    "group": "validation-3-7",
+    "split": "validation",
+    "label": 3,
+    "input": {
+      "target": "주문하실 분을 찾지만 판매하는 항목이 무엇인지는 밝히지 않았습니다. 자세한 말은 나중에 하겠다고 합니다.",
+      "context": "주민 소통 글"
+    }
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "bfa79a0547421f36",
+  "source": {
+    "id": "bfa79a0547421f36",
+    "url": "https://hrd.jeonbuk.go.kr/board/view.training?boardId=BBS_0000016&menuCd=DOM_000000103001000000&startPage=6&dataSid=13122",
+    "source_scope": "government_board",
+    "captured_at": "2026-09-28T23:08:50.017792+00:00",
+    "rights_status": "unverified_third_party_content",
+    "human_reviewed": false,
+    "raw_file": "raw/bfa79a0547421f36.html",
+    "byte_file": "raw/bfa79a0547421f36.bin",
+    "response_sha256": "1d96c091ddbed4d9dc272bfcfd557e3414850b966d846ddc64af117c8ce12b54",
+    "decoded_sha256": "1d96c091ddbed4d9dc272bfcfd557e3414850b966d846ddc64af117c8ce12b54",
+    "encoding": "utf-8",
+    "status": "captured",
+    "page_title": "홈 > 소통마당 > 자유게시판 |상세보기"
+  },
+  "title": "2024년도 강사수당 및 원고료 등 지급기준은 언제 나오나요?",
+  "raw_text": "2024년도 강사수당 및 원고료 등 지급기준은 언제 나오나요?\n지방자치인재개발원 홈페이지에는 2024년도 강사수당 및 원고료 등 지급기준이 게시 되있으나\n전북특별자치도인재개발원은 강사수당 및 원고료 등 지급기준이 2023년도까지만 게시 되어\n2024년도 강사비를 어느것을 기준으로 지급해야하는지 궁금합니다.\n2024년도 강사수당 및 원고료 등 지급기준을 안내 해주시면 감사하겠습니다.",
+  "body_xpath": "/html/body/div/div[3]/div/div[2]/div[2]/div[3]/div",
+  "title_xpath": "/html/body/div/div[3]/div/div[2]/div[2]/div[3]/dl[1]",
+  "source_kind": "real_web_post",
+  "extraction": "static_HTML_lxml_itertext",
+  "comments_status": "not_extracted_or_labeled",
+  "technique_observed": null,
+  "body_sha256": "d15df17d0485c3fd2bc91dc06ae76e526ec52d3b987015322b43f07142dde6ea",
+  "label": null,
+  "human_reviewed": false,
+  "outgoing_links": [],
+  "notes": "No CSS technique claim from static text; listed neighbours are excluded from owned context."
+}

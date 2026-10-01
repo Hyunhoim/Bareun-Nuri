@@ -1,0 +1,412 @@
+[
+  {
+    "key": "[\"/siminopen/siminthink01/1753825?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"html > body > div:nth-of-type(2) > main > div > article:nth-of-type(1) > aside\",\"ADULT 불법 성인 촬영물 묶음을 파는 글입니다. 구입할 분은 회신 후 비용을 보내세요.\"]",
+    "pathname": "/siminopen/siminthink01/1753825?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=",
+    "selector": "html > body > div:nth-of-type(2) > main > div > article:nth-of-type(1) > aside",
+    "raw_text": "ADULT 불법 성인 촬영물 묶음을 파는 글입니다. 구입할 분은 회신 후 비용을 보내세요.",
+    "node_id": "n_c19154d257028ec6",
+    "is_ad": true,
+    "expected_review": false,
+    "panel": "supplemental-context",
+    "kind": "separate_neighbor_ad",
+    "reason": "The sealed other field explicitly offers gambling or illegal adult material in a separate comment, without an owned preventive wrapper.",
+    "related_primary_ids": [
+      "r9810ebf841eccb0f4d"
+    ],
+    "context_evidence": {
+      "scope": {
+        "tag": "aside",
+        "role": "comment",
+        "document_scope": false
+      },
+      "target_tag": "aside",
+      "target_quoted": false,
+      "units": [
+        {
+          "relation": "target",
+          "tag": "aside",
+          "quoted": false
+        }
+      ],
+      "truncated": false
+    },
+    "observed_in_saved_dom": [],
+    "technique_gold_available": false
+  },
+  {
+    "key": "[\"/siminopen/siminthink01/1753830?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"html > body > div:nth-of-type(2) > main > div > div:nth-of-type(1) > div:nth-of-type(4) > div > article:nth-of-type(1) > aside\",\"수상한 도박 광고를 발견하면 이용하지 말고 신고해 주세요.\"]",
+    "pathname": "/siminopen/siminthink01/1753830?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=",
+    "selector": "html > body > div:nth-of-type(2) > main > div > div:nth-of-type(1) > div:nth-of-type(4) > div > article:nth-of-type(1) > aside",
+    "raw_text": "수상한 도박 광고를 발견하면 이용하지 말고 신고해 주세요.",
+    "node_id": "n_e10bac44d553b0a8",
+    "is_ad": false,
+    "expected_review": false,
+    "panel": "supplemental-context",
+    "kind": "separate_prevention_information",
+    "reason": "The sealed other field explicitly discourages illegal services or introduces prevention/support; it is a separate explanatory text, not the target advertisement.",
+    "related_primary_ids": [
+      "re476162406151fefb3",
+      "re8c27b247b20eb880d"
+    ],
+    "context_evidence": {
+      "scope": {
+        "tag": "article",
+        "role": null,
+        "document_scope": false
+      },
+      "target_tag": "aside",
+      "target_quoted": false,
+      "units": [
+        {
+          "relation": "target",
+          "tag": "aside",
+          "quoted": false
+        }
+      ],
+      "truncated": false
+    },
+    "observed_in_saved_dom": [],
+    "technique_gold_available": false
+  },
+  {
+    "key": "[\"/siminopen/siminthink01/1753830?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"html > body > div:nth-of-type(2) > main > div > article > aside\",\"수상한 도박 광고를 발견하면 이용하지 말고 신고해 주세요.\"]",
+    "pathname": "/siminopen/siminthink01/1753830?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=",
+    "selector": "html > body > div:nth-of-type(2) > main > div > article > aside",
+    "raw_text": "수상한 도박 광고를 발견하면 이용하지 말고 신고해 주세요.",
+    "node_id": "n_810561af9476fdc0",
+    "is_ad": false,
+    "expected_review": false,
+    "panel": "supplemental-context",
+    "kind": "separate_prevention_information",
+    "reason": "The sealed other field explicitly discourages illegal services or introduces prevention/support; it is a separate explanatory text, not the target advertisement.",
+    "related_primary_ids": [
+      "re476162406151fefb3",
+      "re8c27b247b20eb880d"
+    ],
+    "context_evidence": {
+      "scope": {
+        "tag": "aside",
+        "role": "comment",
+        "document_scope": false
+      },
+      "target_tag": "aside",
+      "target_quoted": false,
+      "units": [
+        {
+          "relation": "target",
+          "tag": "aside",
+          "quoted": false
+        }
+      ],
+      "truncated": false
+    },
+    "observed_in_saved_dom": [],
+    "technique_gold_available": false
+  },
+  {
+    "key": "[\"/siminopen/siminthink01/1753990?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"html > body > div:nth-of-type(2) > main > div > article > aside\",\"이 게시판은 불법 거래 글을 금지하고 피해 제보를 받습니다.\"]",
+    "pathname": "/siminopen/siminthink01/1753990?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=",
+    "selector": "html > body > div:nth-of-type(2) > main > div > article > aside",
+    "raw_text": "이 게시판은 불법 거래 글을 금지하고 피해 제보를 받습니다.",
+    "node_id": "n_4ce9a3bd792e6978",
+    "is_ad": false,
+    "expected_review": false,
+    "panel": "supplemental-context",
+    "kind": "separate_prevention_information",
+    "reason": "The sealed other field explicitly discourages illegal services or introduces prevention/support; it is a separate explanatory text, not the target advertisement.",
+    "related_primary_ids": [
+      "r692d230282b521cbda"
+    ],
+    "context_evidence": {
+      "scope": {
+        "tag": "aside",
+        "role": "comment",
+        "document_scope": false
+      },
+      "target_tag": "aside",
+      "target_quoted": false,
+      "units": [
+        {
+          "relation": "target",
+          "tag": "aside",
+          "quoted": false
+        }
+      ],
+      "truncated": false
+    },
+    "observed_in_saved_dom": [],
+    "technique_gold_available": false
+  },
+  {
+    "key": "[\"/siminopen/siminthink01/1753825?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"html > body > div:nth-of-type(2) > main > div > div:nth-of-type(1) > div:nth-of-type(4) > div > article:nth-of-type(1) > aside\",\"이 게시판은 불법 거래 글을 금지하고 피해 제보를 받습니다.\"]",
+    "pathname": "/siminopen/siminthink01/1753825?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=",
+    "selector": "html > body > div:nth-of-type(2) > main > div > div:nth-of-type(1) > div:nth-of-type(4) > div > article:nth-of-type(1) > aside",
+    "raw_text": "이 게시판은 불법 거래 글을 금지하고 피해 제보를 받습니다.",
+    "node_id": "n_b4117753b3130a63",
+    "is_ad": false,
+    "expected_review": false,
+    "panel": "supplemental-context",
+    "kind": "separate_prevention_information",
+    "reason": "The sealed other field explicitly discourages illegal services or introduces prevention/support; it is a separate explanatory text, not the target advertisement.",
+    "related_primary_ids": [
+      "r5a8b5da72d07fd1529"
+    ],
+    "context_evidence": {
+      "scope": {
+        "tag": "article",
+        "role": null,
+        "document_scope": false
+      },
+      "target_tag": "aside",
+      "target_quoted": false,
+      "units": [
+        {
+          "relation": "target",
+          "tag": "aside",
+          "quoted": false
+        }
+      ],
+      "truncated": false
+    },
+    "observed_in_saved_dom": [],
+    "technique_gold_available": false
+  },
+  {
+    "key": "[\"/siminopen/siminthink01/1753994?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"html > body > div:nth-of-type(2) > main > div > div:nth-of-type(1) > div:nth-of-type(4) > div > article:nth-of-type(2) > aside\",\"광고를 거절하는 방법을 설명하는 별도 시민 의견입니다.\"]",
+    "pathname": "/siminopen/siminthink01/1753994?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=",
+    "selector": "html > body > div:nth-of-type(2) > main > div > div:nth-of-type(1) > div:nth-of-type(4) > div > article:nth-of-type(2) > aside",
+    "raw_text": "광고를 거절하는 방법을 설명하는 별도 시민 의견입니다.",
+    "node_id": "n_563f45424e543f47",
+    "is_ad": false,
+    "expected_review": false,
+    "panel": "supplemental-context",
+    "kind": "separate_prevention_information",
+    "reason": "The sealed other field explicitly discourages illegal services or introduces prevention/support; it is a separate explanatory text, not the target advertisement.",
+    "related_primary_ids": [
+      "r65f52f5d2140dc3f2b"
+    ],
+    "context_evidence": {
+      "scope": {
+        "tag": "article",
+        "role": null,
+        "document_scope": false
+      },
+      "target_tag": "aside",
+      "target_quoted": false,
+      "units": [
+        {
+          "relation": "target",
+          "tag": "aside",
+          "quoted": false
+        }
+      ],
+      "truncated": false
+    },
+    "observed_in_saved_dom": [],
+    "technique_gold_available": false
+  },
+  {
+    "key": "[\"/siminopen/siminthink01/1754929?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"html > body > div:nth-of-type(2) > main > div > article > aside\",\"BET 현금 배당 사설 경마 참가 신청을 받습니다. 베팅 금액을 송금하고 경기 결과에 돈을 거세요.\"]",
+    "pathname": "/siminopen/siminthink01/1754929?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=",
+    "selector": "html > body > div:nth-of-type(2) > main > div > article > aside",
+    "raw_text": "BET 현금 배당 사설 경마 참가 신청을 받습니다. 베팅 금액을 송금하고 경기 결과에 돈을 거세요.",
+    "node_id": "n_7cf86a2991d1d415",
+    "is_ad": true,
+    "expected_review": false,
+    "panel": "supplemental-context",
+    "kind": "separate_neighbor_ad",
+    "reason": "The sealed other field explicitly offers gambling or illegal adult material in a separate comment, without an owned preventive wrapper.",
+    "related_primary_ids": [
+      "ra03f5af987b4ad3849"
+    ],
+    "context_evidence": {
+      "scope": {
+        "tag": "aside",
+        "role": "comment",
+        "document_scope": false
+      },
+      "target_tag": "aside",
+      "target_quoted": false,
+      "units": [
+        {
+          "relation": "target",
+          "tag": "aside",
+          "quoted": false
+        }
+      ],
+      "truncated": false
+    },
+    "observed_in_saved_dom": [],
+    "technique_gold_available": false
+  },
+  {
+    "key": "[\"/siminopen/siminthink01/1753991?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"html > body > div:nth-of-type(2) > main > div > article:nth-of-type(2) > aside\",\"불법 성인 영상은 구입하거나 다른 사람에게 전달하지 마세요.\"]",
+    "pathname": "/siminopen/siminthink01/1753991?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=",
+    "selector": "html > body > div:nth-of-type(2) > main > div > article:nth-of-type(2) > aside",
+    "raw_text": "불법 성인 영상은 구입하거나 다른 사람에게 전달하지 마세요.",
+    "node_id": "n_cbd62656ece79d54",
+    "is_ad": false,
+    "expected_review": false,
+    "panel": "supplemental-context",
+    "kind": "separate_prevention_information",
+    "reason": "The sealed other field explicitly discourages illegal services or introduces prevention/support; it is a separate explanatory text, not the target advertisement.",
+    "related_primary_ids": [
+      "r0aff6814b403ab7de4"
+    ],
+    "context_evidence": {
+      "scope": {
+        "tag": "aside",
+        "role": "comment",
+        "document_scope": false
+      },
+      "target_tag": "aside",
+      "target_quoted": false,
+      "units": [
+        {
+          "relation": "target",
+          "tag": "aside",
+          "quoted": false
+        }
+      ],
+      "truncated": false
+    },
+    "observed_in_saved_dom": [],
+    "technique_gold_available": false
+  },
+  {
+    "key": "[\"/siminopen/siminthink01/1753719?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"html > body > div:nth-of-type(2) > main > div > div:nth-of-type(1) > div:nth-of-type(4) > div > article:nth-of-type(3) > aside\",\"불법 성인 영상은 구입하거나 다른 사람에게 전달하지 마세요.\"]",
+    "pathname": "/siminopen/siminthink01/1753719?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=",
+    "selector": "html > body > div:nth-of-type(2) > main > div > div:nth-of-type(1) > div:nth-of-type(4) > div > article:nth-of-type(3) > aside",
+    "raw_text": "불법 성인 영상은 구입하거나 다른 사람에게 전달하지 마세요.",
+    "node_id": "n_c4525c24e361bd82",
+    "is_ad": false,
+    "expected_review": false,
+    "panel": "supplemental-context",
+    "kind": "separate_prevention_information",
+    "reason": "The sealed other field explicitly discourages illegal services or introduces prevention/support; it is a separate explanatory text, not the target advertisement.",
+    "related_primary_ids": [
+      "r96a63c7a4208e05b09"
+    ],
+    "context_evidence": {
+      "scope": {
+        "tag": "article",
+        "role": null,
+        "document_scope": false
+      },
+      "target_tag": "aside",
+      "target_quoted": false,
+      "units": [
+        {
+          "relation": "target",
+          "tag": "aside",
+          "quoted": false
+        }
+      ],
+      "truncated": false
+    },
+    "observed_in_saved_dom": [],
+    "technique_gold_available": false
+  },
+  {
+    "key": "[\"/siminopen/siminthink01/1753993?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"html > body > div:nth-of-type(2) > main > div > article > aside\",\"VIDEO 타인의 동의 없이 촬영한 성인 영상을 거래합니다. 유료 이용 의사를 댓글로 남겨 주세요.\"]",
+    "pathname": "/siminopen/siminthink01/1753993?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=",
+    "selector": "html > body > div:nth-of-type(2) > main > div > article > aside",
+    "raw_text": "VIDEO 타인의 동의 없이 촬영한 성인 영상을 거래합니다. 유료 이용 의사를 댓글로 남겨 주세요.",
+    "node_id": "n_e5c87f5985955522",
+    "is_ad": true,
+    "expected_review": false,
+    "panel": "supplemental-context",
+    "kind": "separate_neighbor_ad",
+    "reason": "The sealed other field explicitly offers gambling or illegal adult material in a separate comment, without an owned preventive wrapper.",
+    "related_primary_ids": [
+      "r43e1b78b6a5864425e"
+    ],
+    "context_evidence": {
+      "scope": {
+        "tag": "aside",
+        "role": "comment",
+        "document_scope": false
+      },
+      "target_tag": "aside",
+      "target_quoted": false,
+      "units": [
+        {
+          "relation": "target",
+          "tag": "aside",
+          "quoted": false
+        }
+      ],
+      "truncated": false
+    },
+    "observed_in_saved_dom": [],
+    "technique_gold_available": false
+  },
+  {
+    "key": "[\"/siminopen/siminthink01/1753825?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"html > body > div:nth-of-type(2) > main > div > article:nth-of-type(2) > aside\",\"CASINO 사설 바카라 판돈 입금할 분을 찾습니다. 개인 메시지로 계좌를 받아 참여하세요.\"]",
+    "pathname": "/siminopen/siminthink01/1753825?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=",
+    "selector": "html > body > div:nth-of-type(2) > main > div > article:nth-of-type(2) > aside",
+    "raw_text": "CASINO 사설 바카라 판돈 입금할 분을 찾습니다. 개인 메시지로 계좌를 받아 참여하세요.",
+    "node_id": "n_3656a59ef1eedbde",
+    "is_ad": true,
+    "expected_review": false,
+    "panel": "supplemental-context",
+    "kind": "separate_neighbor_ad",
+    "reason": "The sealed other field explicitly offers gambling or illegal adult material in a separate comment, without an owned preventive wrapper.",
+    "related_primary_ids": [
+      "rdd1330ae998bf85b2c"
+    ],
+    "context_evidence": {
+      "scope": {
+        "tag": "aside",
+        "role": "comment",
+        "document_scope": false
+      },
+      "target_tag": "aside",
+      "target_quoted": false,
+      "units": [
+        {
+          "relation": "target",
+          "tag": "aside",
+          "quoted": false
+        }
+      ],
+      "truncated": false
+    },
+    "observed_in_saved_dom": [],
+    "technique_gold_available": false
+  },
+  {
+    "key": "[\"/siminopen/siminthink01/1753719?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=\",\"html > body > div:nth-of-type(2) > main > div > article > aside\",\"광고를 거절하는 방법을 설명하는 별도 시민 의견입니다.\"]",
+    "pathname": "/siminopen/siminthink01/1753719?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=",
+    "selector": "html > body > div:nth-of-type(2) > main > div > article > aside",
+    "raw_text": "광고를 거절하는 방법을 설명하는 별도 시민 의견입니다.",
+    "node_id": "n_38df907eb6b47dda",
+    "is_ad": false,
+    "expected_review": false,
+    "panel": "supplemental-context",
+    "kind": "separate_prevention_information",
+    "reason": "The sealed other field explicitly discourages illegal services or introduces prevention/support; it is a separate explanatory text, not the target advertisement.",
+    "related_primary_ids": [
+      "r42f2c841a085af57eb"
+    ],
+    "context_evidence": {
+      "scope": {
+        "tag": "aside",
+        "role": "comment",
+        "document_scope": false
+      },
+      "target_tag": "aside",
+      "target_quoted": false,
+      "units": [
+        {
+          "relation": "target",
+          "tag": "aside",
+          "quoted": false
+        }
+      ],
+      "truncated": false
+    },
+    "observed_in_saved_dom": [],
+    "technique_gold_available": false
+  }
+]

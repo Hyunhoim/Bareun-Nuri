@@ -1,0 +1,9 @@
+{
+  "v2_sha256": "2c63df03a90a07bb7f20af7cd007717f0fa442ab8a93a5b7e794b789a5f5a8b0",
+  "user_review": "Naturalness of existing v2 confirmed; no inferred gold approval",
+  "new_semantic_scenarios": 40,
+  "new_paired_views": 80,
+  "training_run": false,
+  "final_holdout_accessed": false,
+  "split_policy": "All rows are training candidates, not validation/test. Keep group_id and leakage_family together. Also group v2/v3 shared scenario and lexical families before any future split; prefer separately authored validation sources."
+}

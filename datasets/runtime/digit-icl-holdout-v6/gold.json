@@ -1,0 +1,338 @@
+[
+  {
+    "node_id": "n_b2012f1b6429ada3",
+    "family": "dance",
+    "role": "pure",
+    "classification": "substitution",
+    "reading": "DANCE"
+  },
+  {
+    "node_id": "n_b2770f44adbb941c",
+    "family": "dance",
+    "role": "mixed",
+    "classification": "substitution",
+    "reading": "2DANCE"
+  },
+  {
+    "node_id": "n_6aeda73d09315562",
+    "family": "dance",
+    "role": "identifier",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_c464df484e2c01ee",
+    "family": "dance",
+    "role": "ambiguous",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_822503826a8220b8",
+    "family": "peace",
+    "role": "pure",
+    "classification": "substitution",
+    "reading": "PEACE"
+  },
+  {
+    "node_id": "n_c77f1a845a4f0f30",
+    "family": "peace",
+    "role": "mixed",
+    "classification": "substitution",
+    "reading": "PEACE4"
+  },
+  {
+    "node_id": "n_1641048422910e39",
+    "family": "peace",
+    "role": "identifier",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_393fc69f361f5a6d",
+    "family": "peace",
+    "role": "ambiguous",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_9cd520a5b9eabfe9",
+    "family": "heart",
+    "role": "pure",
+    "classification": "substitution",
+    "reading": "HEART"
+  },
+  {
+    "node_id": "n_1df4b7a89e2e162a",
+    "family": "heart",
+    "role": "mixed",
+    "classification": "substitution",
+    "reading": "3HEART"
+  },
+  {
+    "node_id": "n_16354fa23549f4fd",
+    "family": "heart",
+    "role": "identifier",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_9a5b31ac3bffeaab",
+    "family": "heart",
+    "role": "ambiguous",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_9bb64cb5194212ae",
+    "family": "laugh",
+    "role": "pure",
+    "classification": "substitution",
+    "reading": "LAUGH"
+  },
+  {
+    "node_id": "n_724ab957a9aabe10",
+    "family": "laugh",
+    "role": "mixed",
+    "classification": "substitution",
+    "reading": "LAUGH8"
+  },
+  {
+    "node_id": "n_dcb3b3cc377c1659",
+    "family": "laugh",
+    "role": "identifier",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_79a3e1beb9708d35",
+    "family": "laugh",
+    "role": "ambiguous",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_2e6fe3b5a8f11b6a",
+    "family": "trust",
+    "role": "pure",
+    "classification": "substitution",
+    "reading": "TRUST"
+  },
+  {
+    "node_id": "n_e5fb4be664967cd4",
+    "family": "trust",
+    "role": "mixed",
+    "classification": "substitution",
+    "reading": "5TRUST"
+  },
+  {
+    "node_id": "n_5438885b6449b71d",
+    "family": "trust",
+    "role": "identifier",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_225f21e0b30dbe00",
+    "family": "trust",
+    "role": "ambiguous",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_dad6c44a7c4ffe76",
+    "family": "night",
+    "role": "pure",
+    "classification": "substitution",
+    "reading": "NIGHT"
+  },
+  {
+    "node_id": "n_4e80a2b9dcad6a7a",
+    "family": "night",
+    "role": "mixed",
+    "classification": "substitution",
+    "reading": "NIGHT3"
+  },
+  {
+    "node_id": "n_5dff5aefb20b2dc7",
+    "family": "night",
+    "role": "identifier",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_009c4efcd852d43e",
+    "family": "night",
+    "role": "ambiguous",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_afc14c6d2582a8fc",
+    "family": "awake",
+    "role": "pure",
+    "classification": "substitution",
+    "reading": "AWAKE"
+  },
+  {
+    "node_id": "n_e66146b8838b04f7",
+    "family": "awake",
+    "role": "mixed",
+    "classification": "substitution",
+    "reading": "4AWAKE"
+  },
+  {
+    "node_id": "n_407c57e57049ebc2",
+    "family": "awake",
+    "role": "identifier",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_bad53c5d5e66050b",
+    "family": "awake",
+    "role": "ambiguous",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_6a94fa9d81f98e63",
+    "family": "gentle",
+    "role": "pure",
+    "classification": "substitution",
+    "reading": "GENTLE"
+  },
+  {
+    "node_id": "n_a505e7f1c7a1a461",
+    "family": "gentle",
+    "role": "mixed",
+    "classification": "substitution",
+    "reading": "GENTLE2"
+  },
+  {
+    "node_id": "n_1b3fdc937264a63d",
+    "family": "gentle",
+    "role": "identifier",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_51024588a121462c",
+    "family": "gentle",
+    "role": "ambiguous",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_f28f82bbabbb25da",
+    "family": "sweet",
+    "role": "pure",
+    "classification": "substitution",
+    "reading": "SWEET"
+  },
+  {
+    "node_id": "n_a4716cad5b8cf85c",
+    "family": "sweet",
+    "role": "mixed",
+    "classification": "substitution",
+    "reading": "6SWEET"
+  },
+  {
+    "node_id": "n_e5dc2413dde30c37",
+    "family": "sweet",
+    "role": "identifier",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_76a14f450b6af850",
+    "family": "sweet",
+    "role": "ambiguous",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_09a88227763ea9e2",
+    "family": "story",
+    "role": "pure",
+    "classification": "substitution",
+    "reading": "STORY"
+  },
+  {
+    "node_id": "n_5b8b4b71bc833d41",
+    "family": "story",
+    "role": "mixed",
+    "classification": "substitution",
+    "reading": "STORY5"
+  },
+  {
+    "node_id": "n_60e81089859c10b5",
+    "family": "story",
+    "role": "identifier",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_d59540557df93051",
+    "family": "story",
+    "role": "ambiguous",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_ecfd5f89b3e9db47",
+    "family": "start",
+    "role": "pure",
+    "classification": "substitution",
+    "reading": "START"
+  },
+  {
+    "node_id": "n_9540c873ecb6ef5b",
+    "family": "start",
+    "role": "mixed",
+    "classification": "substitution",
+    "reading": "7START"
+  },
+  {
+    "node_id": "n_2674823da3ff29b6",
+    "family": "start",
+    "role": "identifier",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_45c78a947ca0aa94",
+    "family": "start",
+    "role": "ambiguous",
+    "classification": "uncertain",
+    "reading": null
+  },
+  {
+    "node_id": "n_db2a55bd13d61175",
+    "family": "ready",
+    "role": "pure",
+    "classification": "substitution",
+    "reading": "READY"
+  },
+  {
+    "node_id": "n_4f904072166b10f0",
+    "family": "ready",
+    "role": "mixed",
+    "classification": "substitution",
+    "reading": "READY9"
+  },
+  {
+    "node_id": "n_cbd3595952adb43d",
+    "family": "ready",
+    "role": "identifier",
+    "classification": "literal",
+    "reading": null
+  },
+  {
+    "node_id": "n_ecca23894e407d95",
+    "family": "ready",
+    "role": "ambiguous",
+    "classification": "uncertain",
+    "reading": null
+  }
+]

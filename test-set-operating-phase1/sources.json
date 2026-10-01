@@ -1,0 +1,252 @@
+{
+  "retrieved_on": "2026-09-30",
+  "purpose": "운영 테스트 phase 1: 현실적인 광고 표현/게시판 구성 참고. 모델 학습 및 평가 실행 없음.",
+  "limitations": "게시판 원문 전체나 실제 불법 콘텐츠 파일을 내려받지 않았다. 아래의 열람 수준을 구분한다. 실제 광고의 CSS/Unicode 은닉 적용은 검증하지 못했으므로 4종 기법 적용은 전부 모집요강 기반 합성이다. 모든 테스트 문장은 새로 작성했다. 연락처/운영자/실서비스 주소는 복사하지 않았다. 추가 출처 역시 광고 표기의 빈도를 대표하는 표본이 아니다. 행별 source_ids는 해당 도메인의 패턴 참고자료 목록이며 그 문장이 실제 수집됐음을 뜻하지 않는다.",
+  "sources": [
+    {
+      "id": "forgery-report",
+      "kind": "reported_advertisement",
+      "url": "https://www.donga.com/news/Opinion/article/all/20260106/133105651/2",
+      "access": "search_snippet_only",
+      "title": "마약·성매매 광고의 포털 노출 관련 사설",
+      "observed": "신분증 위조 검색에 불법 업자의 메신저 ID 광고가 노출된 사례를 언급함.",
+      "use": "위조 신분증 판매성 문구의 배경 참고. 실제 판매처/제작법/가격은 사용하지 않음."
+    },
+    {
+      "id": "sim-report",
+      "kind": "reported_police_case",
+      "url": "https://nwww.newsis.com/view/NISX20260820_0003755577",
+      "access": "search_snippet_only",
+      "title": "소액대출 미끼 대포유심 유통 조직 검거",
+      "observed": "광고 문자로 사람을 모집하고 타인 명의 유심을 범죄 조직에 유통한 사건.",
+      "use": "대포유심 모집/판매 시나리오의 배경 참고. 직접 게시판 광고 확보가 아님."
+    },
+    {
+      "id": "sextrade-reservations",
+      "kind": "reported_advertisement",
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=779887",
+      "access": "search_snippet_only",
+      "title": "불법 성매매 업소의 온라인 홍보 보도",
+      "observed": "인터넷 카페의 상담·출장예약 게시판과 후기 게시판을 언급함.",
+      "use": "예약/상담 유도 형태 참고. 특정 업소나 연락처는 사용하지 않음."
+    },
+    {
+      "id": "rules",
+      "kind": "organizer_rules",
+      "url": null,
+      "local_path": "C:/Users/alvin/Downloads/공공 웹사이트 불법광고 탐지 도구 개발 공모전 모집요강.hwpx",
+      "access": "original_hwpx_read",
+      "title": "공공 웹사이트 불법광고 탐지 도구 개발 공모전 모집요강",
+      "observed": "붙임1의 4종 정의, 붙임4의 전각 영문 및 자모 예시. 발음 치환은 명시돼 있지 않음.",
+      "use": "기법 정답 정의와 HTML 합성 방식"
+    },
+    {
+      "id": "board-spam",
+      "kind": "public_board_ad_text",
+      "url": "https://nmrjs.co.kr/article/자유게시판/5/34328/",
+      "access": "opened_page_text",
+      "title": "일반 사업체 자유게시판의 카지노 홍보성 글",
+      "observed": "게시글 제목·작성자·본문에 카지노/슬롯/보너스 관련 검색어와 서비스 주소가 반복됨. 작성일·이전다음글·댓글 입력 영역 존재.",
+      "use": "반복 검색어형 광고 및 제목/작성자/본문 배치. 사이트 운영자와 게시글 작성자를 동일시하지 않음."
+    },
+    {
+      "id": "board-bonus",
+      "kind": "public_board_ad_text",
+      "url": "https://echloe.co.kr/article/자유게시판/5/245/",
+      "access": "search_snippet_only_open_failed",
+      "title": "일반 사업체 자유게시판의 신규충전 홍보 글",
+      "observed": "검색 결과에 첫충/매충·충전 보너스·추천 가입 표현과 HTML 조각이 노출됨. 원 페이지 열람 실패.",
+      "use": "가입/충전 유도 표현만 참고. 페이지 전체 수집/은닉 검증으로 주장하지 않음."
+    },
+    {
+      "id": "gambling-prevention",
+      "kind": "public_institution_prevention",
+      "url": "https://www.cbe.go.kr/upload/dept-21/na/bbs_1661/2024/12/94C4A31D-1C61-E0D2-C0ED-3ACD32A04F2E.pdf",
+      "access": "opened_pdf_text",
+      "title": "청소년 도박문제 동향 리포트 2024년 11월",
+      "observed": "카지노/슬롯/바카라 관련 광고 유인, 첫충·매충·환전·놀이터 표현에 대한 예방 설명.",
+      "use": "광고 표현의 의미 확인, 예방/피해 상담 대조. 원문 장문 복제 없음."
+    },
+    {
+      "id": "drug-community",
+      "kind": "community_ad_search_evidence",
+      "url": "https://www.reddit.com/r/u_ice7077/comments/hapb2d",
+      "access": "search_snippet_only_open_failed",
+      "title": "커뮤니티의 아이스 판매성 게시물 검색 결과",
+      "observed": "아이스 판매/구입 검색어 반복과 메신저 구매 상담 유도. 원 페이지 열람 실패.",
+      "use": "판매·상담 유도 및 반복 키워드 말투. 판매자 연락처는 재현하지 않음."
+    },
+    {
+      "id": "drug-report",
+      "kind": "professional_public_report",
+      "url": "https://common.health.kr/shared/healthkr/pharmreview/다크넷과%20불법약물거래(1).pdf",
+      "access": "opened_pdf_text",
+      "title": "다크넷과 불법약물거래(1)",
+      "observed": "공개 온라인 판매 광고와 메신저 유도, 마약류 은어를 설명한 자료.",
+      "use": "마약 판매성 표현의 도메인 참고. 거래 절차·가격·전달 위치는 재현하지 않음."
+    },
+    {
+      "id": "adult-report",
+      "kind": "reported_police_case",
+      "url": "https://www.kns.tv/news/articleView.html?idxno=998556",
+      "access": "opened_page_text",
+      "title": "경기남부경찰청 텔레그램 박제방 운영자 검거 보도",
+      "observed": "불법촬영물 등의 유포 채널과 광고 수익을 보도함.",
+      "use": "성인 비동의 유출물 유료방이라는 합성 시나리오의 배경만 참고. 실제 광고 문구나 영상 수집 아님. 미성년자 관련 콘텐츠는 생성하지 않음."
+    },
+    {
+      "id": "sextrade-report",
+      "kind": "reported_police_case",
+      "url": "https://www.khan.co.kr/article/201905222145005",
+      "access": "opened_page_text",
+      "title": "회원 70만명 국내 최대 성매매 포털 적발 보도",
+      "observed": "업소·지역별 게시판과 광고 운영을 보도함.",
+      "use": "성매매 업소 예약·홍보 시나리오 배경. 직접 광고 원문 확보로 주장하지 않음."
+    },
+    {
+      "id": "public-abuse-report",
+      "kind": "reported_public_site_abuse",
+      "url": "https://www.mk.co.kr/news/society/11469576",
+      "access": "opened_page_text",
+      "title": "공공기관 사이트의 불법거래 광고 노출 보도",
+      "observed": "공공 사이트 검색 URL에 마약·대포통장·돈세탁 관련 광고가 노출되는 사례.",
+      "use": "불법거래 도메인과 문구 참고만 함. 검색 URL 발굴이나 추가 기법은 이번 세트에 포함하지 않음."
+    },
+    {
+      "id": "public-board-layout",
+      "kind": "public_institution_layout",
+      "url": "https://www.busan.go.kr/siminopen/siminthink01",
+      "access": "opened_page_text",
+      "title": "부산광역시 시민생각",
+      "observed": "로그인/회원가입, 분류 탭, 검색, 목록, 진행상태, 페이지 이동 구성.",
+      "use": "일반 공공 게시판 화면 구성 참고. 부산 사이트에 광고가 있다는 증거가 아니며 HTML 복제본도 아님."
+    },
+    {
+      "id": "police-categories",
+      "kind": "official_category_reference",
+      "url": "https://ecrm.police.go.kr/minwon/crs/quick/cyber1",
+      "access": "opened_page_text",
+      "title": "경찰청 사이버범죄 신고시스템 범죄 분류",
+      "observed": "불법 재화·서비스 광고, 불법촬영물 유포 등을 구분함.",
+      "use": "일반 성인/의약품/금융 정보 전체를 불법 광고로 라벨링하지 않기 위한 범위 참고. 법률 자동판정 자료가 아님."
+    },
+    {
+      "id": "yju-qna-snippet",
+      "kind": "pattern_reference",
+      "url": "https://healthcare.yju.ac.kr/index.php?document_srl=171572&mid=board_oxFv04&page=3",
+      "access": "search_snippet_only_open_failed",
+      "title": "교육기관 입시 Q&A 검색 결과",
+      "observed": "교육기관 Q&A에 첫충·매충 혜택과 가입 유도 홍보 글이 검색됨. 현재 원문 접근 실패.",
+      "use": "제목에 혜택을 나열하고 현금 게임 가입을 유도하는 형태 참고. 게시판 운영자의 광고라고 해석하지 않음."
+    },
+    {
+      "id": "wipo-ad-analysis",
+      "kind": "pattern_reference",
+      "url": "https://www.wipo.int/edocs/mdocs/mdocs/en/wipo_ace_14/wipo_ace_14_10_ppt.pdf",
+      "access": "opened_pdf_text",
+      "title": "WIPO 저작권 침해 웹사이트·광고 분석 발표자료",
+      "observed": "한국어 도박 배너의 영문 게임명·보너스·충전 혜택 표현이 포함됨.",
+      "use": "일반적인 광고 구성과 혼합 문자 사용 맥락 참고. 이번에 만든 Unicode 치환이 실물에 있었다는 의미 아님."
+    },
+    {
+      "id": "fn-drug-ad-report",
+      "kind": "pattern_reference",
+      "url": "https://www.fnnews.com/news/201712241647521071",
+      "access": "opened_page_text",
+      "title": "SNS 마약 판매 광고 관련 보도",
+      "observed": "판매 은어와 반복 홍보, 상담 유도 문장을 기사에서 확인. 2017년 자료.",
+      "use": "판매 상담 말투 참고. 현재 유행 빈도 증거가 아니며 거래 실행 내용·연락처 복제 없음."
+    },
+    {
+      "id": "segye-account-ad-report",
+      "kind": "pattern_reference",
+      "url": "https://www.segye.com/newsView/20130630022724",
+      "access": "opened_page_text",
+      "title": "인터넷 통장 임대차 광고 보도",
+      "observed": "계좌를 빌리는 명목의 대가 제시와 게시판 모집 광고를 보도. 2013년 자료.",
+      "use": "단순 통장 판매 외 임대·대여 모집의 시나리오 참고. 현재 출현 비율로 사용하지 않음."
+    },
+    {
+      "id": "account-qna-snippet",
+      "kind": "pattern_reference",
+      "url": "https://salondewang.cafe24.com/article/qa/6/76398/",
+      "access": "search_snippet_only",
+      "title": "일반 상품 Q&A의 통장 거래 홍보 검색 결과",
+      "observed": "상품 Q&A에 통장 매입·대여 검색어와 연락 유도가 반복됨.",
+      "use": "상관없는 게시판에 키워드 나열형 광고가 삽입되는 형태 참고. 실제 ID·판매 연락처 제외."
+    },
+    {
+      "id": "gen-banner-141",
+      "url": "https://www.gen.go.kr/child/xboard/board.php?mode=view&number=141&tbnum=6&sCat=0&page=1&keyset=&searchword=",
+      "kind": "public_institution_user_post",
+      "access": "browser_dom_verified_previous_turn_2026-09-30",
+      "title": "교육청 어린이 누리집 배너 게시판의 도박 홍보",
+      "observed": "안전·피해 예방 설명 뒤 가입과 도박 이용을 권유하는 긴 본문. 목록은 이미지와 링크, 본문은 td.con_box 내부 p/br.",
+      "use": "안전 안내와 가입 권유가 함께 있는 문맥, 일반 HTML 배너 게시판 구조. 게시자 주장일 뿐 기관의 권고가 아님."
+    },
+    {
+      "id": "gen-banner-107",
+      "url": "https://gen.go.kr/child/xboard/board.php?keyset=&mode=view&number=107&page=1&sCat=0&searchword=&tbnum=6",
+      "kind": "public_institution_user_post",
+      "access": "search_returned_full_text_not_live_dom",
+      "title": "교육청 게시판의 검증·후기·FAQ형 도박 홍보",
+      "observed": "혜택·후기·피해 주의·질문답변과 이용 권유가 결합된 장문 홍보. 검색엔진이 반환한 텍스트를 읽었으며 현재 DOM 재확인 아님.",
+      "use": "FAQ·추천·조건 설명형 권유의 형식 참고. 수치나 서비스 신뢰성 주장 복제 없음."
+    },
+    {
+      "id": "gen-banner-144",
+      "url": "https://www.gen.go.kr/child/xboard/board.php?mode=view&number=144&tbnum=6&sCat=0&page=1&keyset=&searchword=",
+      "kind": "public_institution_user_post",
+      "access": "live_browser_rendered_text_2026-09-30",
+      "title": "교육청 배너 게시판의 성인 사이트 홍보",
+      "observed": "검색 유도, 자료관·VIP·제휴·FAQ·최신 주소 안내를 포함한 성인 사이트 홍보 글이 본문에 노출됨.",
+      "use": "홍보의 형식만 참고. 실제 영상·당사자 동의 여부·법적 불법성은 확인하지 않음. 합성 양성의 무동의 설정은 새로 작성한 사실임."
+    },
+    {
+      "id": "nongsaro-comments",
+      "url": "https://www.nongsaro.go.kr/portal/ps/psx/psxa/mlrdCurationDtl.ps?curaCnt=294&curationNo=428&menuId=PS03974&pageIndex=1&sCtgCode=&sSortType=rdcnt&sType=all&sWord=",
+      "kind": "public_institution_user_comments",
+      "access": "live_browser_dom_and_web_text_2026-09-30",
+      "title": "농촌진흥청 농사로 정상 농업 글의 도박 홍보 댓글",
+      "observed": "정상 농업 본문과 분리된 댓글에 도박 키워드·URL 나열, 일상/영어 문장 뒤 홍보, 이스케이프된 링크 코드가 존재. p.commt_txt / .replyTogArea.comnt를 확인. 긴 대상 하나는 9958자로 관측됨. 일부 댓글에 U+00AD(SOFT HYPHEN)가 실제 포함됨을 DOM에서 확인했다. 이것만으로 JAMO나 HOMOGLYPH라고 판단하지 않는다.",
+      "use": "댓글 귀속, 일반 텍스트로 보이는 HTML 코드, 검색어 반복과 혼합 문맥 형식. 실제 광고 주소·작성자 개인정보·농업 글 전체는 복제하지 않음. U+00AD는 이번 필수 4종 정답에 억지 편입하지 않으며 새 탐지 기능을 추가하지 않는다."
+    },
+    {
+      "id": "sen-search-only-quarantine",
+      "url": "https://e-book.sen.go.kr/news/2026-05-16-토토사이트-먹튀검증사이트-보증업체/",
+      "kind": "unverified_search_result",
+      "access": "search_text_only_live_browser_http_failure",
+      "title": "교육기관 도메인 검색 결과의 보안 보고서형 홍보 의심",
+      "observed": "검색 결과에 도박 사이트 안전성 안내가 나타났으나 직접 접근은 실패함.",
+      "use": "확인 보류. 현재 게시 상태·침해 원인을 단정하지 않고 합성 정답의 출처로 사용하지 않음."
+    },
+    {
+      "id": "daejeon-search-only-quarantine",
+      "url": "https://www.daejeon.go.kr/drh/board/boardNormalView.do?boardId=normal_0167&menuSeq=1547&ntatcSeq=1033258",
+      "kind": "unverified_search_result",
+      "access": "search_snippet_only_open_failed",
+      "title": "대전시 게시판의 수익·가입 유도 검색 결과",
+      "observed": "카지노 관련 사이트와 가입·게시판 홍보를 언급하는 검색 결과. 현재 원문 열람 실패.",
+      "use": "불법성 및 현재 본문 확인 보류. 정답 사례에 넣지 않음."
+    },
+    {
+      "id": "public-normal-police",
+      "url": "https://www.police.go.kr/user/bbs/BD_selectBbs.do?q_bbsCode=1013&q_bbscttSn=20251128032110807",
+      "kind": "public_normal_context_reference",
+      "access": "search_returned_text",
+      "title": "경찰청 게시판의 전세금 피해 문의",
+      "observed": "먹튀라는 단어가 도박 광고가 아닌 피해 문의에 사용됨.",
+      "use": "키워드만으로 광고를 판단하지 않기 위한 대조 범위 확인. 실제 피해자의 사연·개인정보를 복제하지 않음."
+    },
+    {
+      "id": "public-normal-seosan",
+      "url": "https://www.seosan.go.kr/www/selectBbsNttView.do?bbsNo=121&integrDeptCode=&key=1346&nttNo=330505&pageIndex=24&searchCnd=all&searchCtgry=&searchKrwd=",
+      "kind": "public_normal_context_reference",
+      "access": "search_returned_text",
+      "title": "서산시 자유게시판의 정책 논의",
+      "observed": "지원금 관련 정책 논의에서 먹튀라는 표현을 사용함.",
+      "use": "위험 키워드의 존재와 광고 의도를 분리. 정치적 주장이나 특정인 정보는 새 자료에 복제하지 않음."
+    }
+  ],
+  "revision": "1.2"
+}

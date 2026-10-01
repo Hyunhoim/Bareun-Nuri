@@ -1,66 +1,46 @@
-# spam-ad-detector
+# Bareun-Nuri · Test_set
 
-공공 웹사이트 불법광고 탐지 도구. **React → Spring Boot → Node.js Pipeline → HCX-007**으로 URL 탐색, 광고 판정, 원문 근거 확인 및 결과 다운로드를 제공합니다.
+지금까지 사용한 합성 사이트, 학습·개발검증·회귀 자료와 핵심 검증 보고서를 보존하는 브랜치입니다. 운영 실행 코드는 `Agent_core`, 백엔드는 `Backend`에 있습니다. 모델 가중치·API 키·가상환경·반복 실행의 대용량 원응답 로그는 포함하지 않습니다.
 
-`main`은 제출용 통합 기준선입니다. 현재는 로컬 웹 실행을 검증한 베이스라인이며, 최종 대회 제출물 완성을 의미하지 않습니다. 빌드·실행에 필요한 소스와 설정만 관리하며 테스트 사이트, 평가 정답, 실험 기록은 개발 브랜치에서 관리합니다.
+## 자료 위치
 
-## 첫 고도화 테스트셋
-
-`Test_set` 브랜치에는 [test-set-v2](test-set-v2/README.md)를 추가했습니다. `test-set-v2/start.cmd`를 실행하고 **http://127.0.0.1:8780/advanced/** 에 접속하세요. 시작 화면과 하위 100페이지, 광고 120개·정상 180개를 포함한 개발·진단 세트입니다. [검증 기록](test-set-v2/VALIDATION.md)을 함께 확인하세요. 기존 `local-benchmark/`도 유지합니다.
-
-## 실행
-
-Windows x64, Node.js 22.12 이상 또는 24, Microsoft Edge가 필요합니다.
-
-1. 이 저장소를 clone합니다.
-2. `agent/.env.example`을 `agent/.env`로 복사하고 `CLOVASTUDIO_API_KEY`를 입력합니다. Mock 연결 확인만 할 때는 키가 필요 없습니다.
-3. `start.cmd`를 실행합니다. 최초 실행 시 Java 21, Maven, npm 의존성을 프로젝트 내부에 다운로드하므로 인터넷이 필요합니다.
-4. 자동으로 열리는 **http://127.0.0.1:8766**에서 검사할 URL을 입력합니다. 기본 모드는 **Mock**이며, 실제 판정은 **HCX-007** 모드를 선택합니다.
-5. 실행 터미널에서 Ctrl+C로 종료합니다.
-
-화면의 초기 로컬 URL은 테스트 사이트가 별도로 실행 중일 때만 사용할 수 있습니다. 테스트 사이트가 필요하면 `Test_set` 브랜치를 별도 폴더에 checkout하고 그 안의 `local-benchmark/start.cmd`를 실행하세요.
-
-API 키는 서버의 `agent/.env` 또는 환경변수에서만 읽습니다. 키 파일·실행 데이터·다운로드된 도구·빌드 산출물은 Git에 포함하지 않습니다.
-
-## 구성과 브랜치
-
-| 브랜치 | 담당 범위 |
+|경로|내용|
 |---|---|
-| [main](https://github.com/Hyunhoim/spam-ad-detector/tree/main) | 최소 실행 구성과 README. 검증된 변경만 통합 |
-| [Frontend](https://github.com/Hyunhoim/spam-ad-detector/tree/Frontend) | `frontend/`: React 화면, 진행 상태, 결과 표시 |
-| [Backend](https://github.com/Hyunhoim/spam-ad-detector/tree/Backend) | `backend/`: 작업 API, 프로세스 제어, 결과 저장 및 웹 통합 검증 |
-| [Agent_core](https://github.com/Hyunhoim/spam-ad-detector/tree/Agent_core) | `agent/`: 채택한 Pipeline의 수집·정규화·HCX 판정과 회귀 검사 |
-| [Test_set](https://github.com/Hyunhoim/spam-ad-detector/tree/Test_set) | `local-benchmark/`: 합성 사이트·채점기·평가 자료 및 연결용 사이트 |
+|`local-benchmark/public`, `private`|초기 공공기관형 사이트와 분리된 정답|
+|`test-set-v2` ~ `test-set-v5`|100페이지 진단, 혼합 사이트, 탐색 정책·깊이·영역 검증 자료|
+|`test-set-contest-v1`|4종 위장 기법과 정상 대조 평가|
+|`test-set-digit-v2`, `test-set-digit-v3`|숫자·닮은꼴 치환 대조 자료|
+|`test-set-operating-phase1`|실제 공공웹 형식을 참고·보강한 운영 평가|
+|`test-set-operating-phase2`|정상500/광고500, 단일·복합 기법 합성 평가|
+|`local-benchmark/*data*`, `nuri-1.2`, `real-*`, `semantic-*`|분류기·SLM 학습 및 검수·문맥 검증 자료|
+|`datasets/runtime`|과거 `.runtime`에 저장됐던 입력·정답·추가 학습 자료·복제본의 별도 보존|
+|`docs`|실험 계획·결과·채택/미채택 판단 및 개발 계약|
+|`agent/experiments`, `local-benchmark/*.{cjs,py}`|당시의 생성·검증·채점 도구(연구 이력)|
 
-개발 브랜치들도 독립적으로 웹 앱을 실행할 수 있도록 공통 실행 기반을 포함합니다. 담당 범위는 폴더로 구분합니다. `main`으로 반영할 때는 담당 실행 코드의 커밋만 선택하며, 실험·평가 자료까지 브랜치 전체를 무조건 병합하지 않습니다. 특히 평가 정답은 Agent 입력으로 전달하지 않습니다.
+`dataset-inventory.json`에 원본 경로, 보존 경로, 크기, SHA-256을 기록했습니다. 파일명의 final/holdout 표기는 작성 당시 명칭이며, 현재 미사용 평가셋임을 뜻하지 않습니다. 이미 소비한 최종 자료는 재학습하지 않고 회귀 검사로 취급합니다. 문서의 `.runtime/...` 경로는 과거 실행 위치이며 보존 데이터는 `datasets/runtime/...`에서 찾습니다. 모델·원응답 로그를 요구하는 과거 스크립트는 이 브랜치만으로 모든 실험을 재실행할 수 없습니다.
 
-```text
-start.cmd             전체 앱 실행
-scripts/              실행 준비·빌드·브라우저 열기
-frontend/             React + TypeScript + Vite
-backend/              Java 21 + Spring Boot 3.5
-agent/                Node.js Pipeline + HCX-007 어댑터
-```
+## 먼저 읽을 검증 문서
 
-## 빌드와 동작 확인
+- `docs/phase2-improvement-report.md`: 최신 R 프롬프트·격리 자동 복구 채택. 첫25분 F1 81.21%, 재개 후90.05%, 기존 정탐 손실12개도 포함.
+- `docs/phase2-operating-report.md`: Phase2 최초 운영 기준선과 미판정·의미 누락.
+- `docs/hcx-throughput-goal-report.md`: 동시 실행·결과 반영·저장 병목 개선.
+- `docs/dual-technique-report.md`: JAMO/HOMOGLYPH 모델 비교와 일반화 한계.
+- `docs/crawl-contract.md`: 탐색 경계·예산·재개 계약.
+
+다른 모델과 필터·탐색 정책의 실패 기록도 함께 보존합니다. 예전 문서의 '현재 운영'은 작성 당시 상태입니다. 최신 운영은 `Agent_core` README와 최신 채택 보고서를 따릅니다.
+
+## 사이트 실행
+
+기존 각 폴더의 README를 따릅니다. 예: `node test-set-v5/server.cjs dev-a`. 정적 public 사이트를 간단히 확인할 때는:
 
 ```powershell
-# 빌드만
-powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/run.ps1 -Action build
-# 브라우저 자동 열기 없이 실행
-powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/run.ps1 -NoBrowser
-# Agent 자모 처리 및 Pipeline 판정 계약 검사
-npm.cmd test --prefix agent
+py -m http.server 8781 --bind 127.0.0.1 --directory test-set-operating-phase2/public
 ```
 
-웹 통합 검증은 `Backend` 브랜치의 `scripts/verify-web.cjs`에서 실행합니다. `--live` 옵션은 실제 HCX API 비용이 발생합니다.
+정답·검수 자료가 있는 상위 루트를 웹 서버로 공개하지 마세요. 기법 평가는 실제 브라우저의 DOM·스타일·좌표 수집을 거쳐야 하며, 문구만 읽은 결과와 구분합니다. 연구 도구의 API 실행 옵션은 비용을 발생시킬 수 있으므로 코드의 실행 조건을 확인한 뒤 사용합니다.
 
-2026-09-22 연결 검증: 웹에서 2페이지·5후보를 수집하고 HCX-007 API 1회, 2,513토큰, 약 8.1초로 완료했습니다. 검사 취소, 동시 실행 제한, 한도 초과 오류, JSON 다운로드 및 재시작 후 이력 보존도 확인했습니다. 이는 전체 정확도나 새로운 홀드아웃 일반화 성능의 증거가 아닙니다.
+## 해석 범위
 
-## 현재 실행 범위
+Phase2는 1,000독립 실게시물이 아니라200의미원고×5기법 변형입니다. 실수집·원문 인용·구조 참고 합성을 각 자료의 출처 기록대로 구분합니다. 광고 정답은 작성한 위치 기준이며 미라벨 주변 요소를 자동으로 정상 처리하지 않습니다. 자료 내 불법광고 문구·주소는 탐지 검증용 기록이며 실제 서비스 이용을 권하지 않습니다.
 
-- 로컬 `127.0.0.1` 전용, 동시 검사 1개. 진행 상태는 1초 간격으로 조회합니다.
-- 같은 origin과 시작 URL의 첫 경로 구간을 탐색합니다. 모든 하위 페이지 발견을 보장하지 않으며 로그인·폼 제출·무한 스크롤은 지원하지 않습니다.
-- 최대 200페이지, 10,000후보, 300 API 호출, 1,800초. 한도 초과는 실패이며 중단 지점에서 이어서 검사는 지원하지 않습니다.
-- 결과와 이력은 `.runtime/jobs/`에 저장합니다. 판정 보류는 정상으로 합치지 않고, 원문 근거와 함께 검토하도록 표시합니다.
-- 이 저장소는 소스 기반 실행 구성입니다. 단일 실행 파일 배포, 다중 사용자 인증 및 공개 서버 배포는 아직 포함하지 않습니다.
+대형 수집 복제본 세 묶음은 `datasets/runtime/*.zip`으로 무손실 압축했습니다. `dataset-inventory.json`의 archive/entry와 원본 SHA-256으로 검증할 수 있습니다. 압축을 해당 runtime 폴더에 풀면 원래 디렉터리 구조가 복원됩니다.

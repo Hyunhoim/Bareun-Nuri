@@ -1,0 +1,20 @@
+const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict');
+const {pathToFileURL}=require('node:url');
+const {chromium}=require('../agent/node_modules/playwright');
+const root='.runtime/semantic-encoder-real-v1';
+(async()=>{const browser=await chromium.launch({channel:'msedge',headless:true});try{
+ const page=await browser.newPage(),errors=[];page.on('pageerror',e=>errors.push(e.message));
+ await page.goto(pathToFileURL(path.resolve(root,'review.html')).href);
+ const n=JSON.parse(fs.readFileSync(root+'/review-inputs.json')).length;
+ assert.equal(await page.locator('article').count(),n);
+ assert.equal(await page.locator('article select').count(),n);
+ assert.equal(await page.locator('article a').count(),0,'Advertiser text must not become clickable markup');
+ await page.locator('article select').first().selectOption('0');
+ await page.locator('article textarea').first().fill('UI TEST ONLY - not a human annotation');
+ assert.match(await page.locator('#progress').innerText(),new RegExp('1/'+n));
+ await page.reload();assert.equal(await page.locator('article select').first().inputValue(),'0');
+ await page.evaluate(()=>localStorage.clear());await page.reload();await page.evaluate(()=>scrollTo(0,0));
+ await page.screenshot({path:root+'/review-ui.png',fullPage:false});assert.deepEqual(errors,[]);
+ fs.writeFileSync(root+'/ui-check.json',JSON.stringify({passed:true,cards:n,escaping:true,persistence:true,errors,isolated_browser_context:true,human_answers_created:false},null,2));
+ console.log('PASS blind review rendering, safe text, controls and isolated persistence; no human answer file created');
+}finally{await browser.close()}})().catch(e=>{console.error(e);process.exitCode=1});

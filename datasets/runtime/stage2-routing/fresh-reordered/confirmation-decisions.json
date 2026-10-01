@@ -1,0 +1,57 @@
+[
+  {
+    "reason": "사용자가 추가 내용을 확인하도록 유도하는 행동을 제안함",
+    "role": "action",
+    "node_id": "n_c6742177926cc776"
+  },
+  {
+    "reason": "버튼이지만 클릭 시 어떤 기능이 실행되는지 명시되지 않아 문맥이 필요함",
+    "role": "reference",
+    "node_id": "n_843774c0a959ba10"
+  },
+  {
+    "reason": "서비스를 받는 방법에 대한 안내 페이지로 이동시키는 행동을 유도함",
+    "role": "action",
+    "node_id": "n_adf741304a0c6784"
+  },
+  {
+    "reason": "검토 과정에 대한 세부 내용이 뒤에 이어질 것으로 보이므로 문맥이 필요함",
+    "role": "reference",
+    "node_id": "n_db52154acd15375d"
+  },
+  {
+    "reason": "야간 이용 가능 시간 안내",
+    "role": "action",
+    "node_id": "n_cd33fe5f4b81178d"
+  },
+  {
+    "reason": "신규 고객을 위한 절차/혜택 암시로 문맥 필요",
+    "role": "reference",
+    "node_id": "n_ee91843edd1d4e75"
+  },
+  {
+    "reason": "첫 방문 시 혜택 제공 안내",
+    "role": "action",
+    "node_id": "n_38bb4f01f5d21e75"
+  },
+  {
+    "reason": "문서 묶음이라는 항목 표시 자체",
+    "role": "information",
+    "node_id": "n_dc005d5850454a80"
+  },
+  {
+    "reason": "신청서 제출 행위를 직접 제안하여 이용 절차를 안내함",
+    "role": "action",
+    "node_id": "n_bb0fded7a7682910"
+  },
+  {
+    "reason": "'아래 창구'의 구체적 위치나 접근 방법이 명시되지 않아 추가 정보 필요",
+    "role": "reference",
+    "node_id": "n_a83565d56ca41895"
+  },
+  {
+    "reason": "참여 대상이나 방식에 대한 구체적 정보가 없어 문맥 파악 필요",
+    "role": "reference",
+    "node_id": "n_6f6f03da3f870b78"
+  }
+]

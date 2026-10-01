@@ -1,0 +1,213 @@
+{
+  "entry_url": "http://127.0.0.1/fragments/",
+  "candidates": [
+    {
+      "node_id": "fragment_0_1",
+      "selector": "#fragment_0_1",
+      "raw_text": "참여 신청하기",
+      "normalized_text": "참여 신청하기",
+      "links": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "text": "사설 현금 도박방의 참여자를 받는 페이지입니다."
+          },
+          {
+            "relation": "target",
+            "tag": "a"
+          }
+        ],
+        "truncated": false
+      }
+    },
+    {
+      "node_id": "fragment_0_2",
+      "selector": "#fragment_0_2",
+      "raw_text": "참여 신청하기",
+      "normalized_text": "참여 신청하기",
+      "links": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "text": "시청이 운영하는 무료 생활체육 교실의 참여 접수 페이지입니다."
+          },
+          {
+            "relation": "target",
+            "tag": "a"
+          }
+        ],
+        "truncated": false
+      }
+    },
+    {
+      "node_id": "fragment_1_1",
+      "selector": "#fragment_1_1",
+      "raw_text": "열람권 구매",
+      "normalized_text": "열람권 구매",
+      "links": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "text": "불법 촬영 영상을 모아 파는 저장소의 이용 안내입니다."
+          },
+          {
+            "relation": "target",
+            "tag": "a"
+          }
+        ],
+        "truncated": false
+      }
+    },
+    {
+      "node_id": "fragment_1_2",
+      "selector": "#fragment_1_2",
+      "raw_text": "열람권 구매",
+      "normalized_text": "열람권 구매",
+      "links": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "text": "시립 전자도서관의 합법적인 전자책 구독 안내입니다."
+          },
+          {
+            "relation": "target",
+            "tag": "a"
+          }
+        ],
+        "truncated": false
+      }
+    },
+    {
+      "node_id": "fragment_2_1",
+      "selector": "#fragment_2_1",
+      "raw_text": "계정 만들기",
+      "normalized_text": "계정 만들기",
+      "links": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "text": "미등록 온라인 카지노의 현금 베팅 회원 등록 창구입니다."
+          },
+          {
+            "relation": "target",
+            "tag": "a"
+          }
+        ],
+        "truncated": false
+      }
+    },
+    {
+      "node_id": "fragment_2_2",
+      "selector": "#fragment_2_2",
+      "raw_text": "계정 만들기",
+      "normalized_text": "계정 만들기",
+      "links": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "text": "주민 민원 처리 결과를 조회하는 공공기관 회원 등록 창구입니다."
+          },
+          {
+            "relation": "target",
+            "tag": "a"
+          }
+        ],
+        "truncated": false
+      }
+    },
+    {
+      "node_id": "fragment_3_1",
+      "selector": "#fragment_3_1",
+      "raw_text": "입장하기",
+      "normalized_text": "입장하기",
+      "links": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "text": "동의 없이 유포된 사적 성인 영상의 유료 교환방입니다."
+          },
+          {
+            "relation": "target",
+            "tag": "a"
+          }
+        ],
+        "truncated": false
+      }
+    },
+    {
+      "node_id": "fragment_3_2",
+      "selector": "#fragment_3_2",
+      "raw_text": "입장하기",
+      "normalized_text": "입장하기",
+      "links": [],
+      "frame_urls": [],
+      "context_evidence": {
+        "scope": {
+          "tag": "article",
+          "document_scope": false
+        },
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "text": "주민자치회 공개 화상 회의실입니다."
+          },
+          {
+            "relation": "target",
+            "tag": "a"
+          }
+        ],
+        "truncated": false
+      }
+    }
+  ]
+}

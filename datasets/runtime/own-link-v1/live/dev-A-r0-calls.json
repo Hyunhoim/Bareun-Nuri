@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "role": "judge",
+    "provider": "hcx",
+    "started_at": "2026-09-25T17:59:21.282Z",
+    "usage": {
+      "prompt_tokens": 1356,
+      "completion_tokens": 115,
+      "total_tokens": 1471
+    },
+    "reserved_tokens": 0,
+    "queue_wait_sec": 0.00004089999999996507,
+    "sent_at_ms": 1790359161282,
+    "http_status": 200,
+    "rate_limit": {
+      "x-ratelimit-limit-requests": "60",
+      "x-ratelimit-limit-tokens": "60000",
+      "x-ratelimit-remaining-requests": "58",
+      "x-ratelimit-remaining-tokens": "56184",
+      "x-ratelimit-reset-requests": "60s",
+      "x-ratelimit-reset-tokens": "60s"
+    },
+    "model_returned": "HCX-007",
+    "status": "ok",
+    "elapsed_sec": 2.3623277,
+    "finished_at_ms": 1790359163644,
+    "service_sec": 2.362
+  },
+  {
+    "number": 2,
+    "role": "judge",
+    "provider": "hcx",
+    "started_at": "2026-09-25T17:59:33.759Z",
+    "usage": {
+      "prompt_tokens": 1405,
+      "completion_tokens": 109,
+      "total_tokens": 1514
+    },
+    "reserved_tokens": 0,
+    "queue_wait_sec": 0.00005049999999937427,
+    "sent_at_ms": 1790359173759,
+    "http_status": 200,
+    "rate_limit": {
+      "x-ratelimit-limit-requests": "60",
+      "x-ratelimit-limit-tokens": "60000",
+      "x-ratelimit-remaining-requests": "47",
+      "x-ratelimit-remaining-tokens": "35346",
+      "x-ratelimit-reset-requests": "48s",
+      "x-ratelimit-reset-tokens": "48s"
+    },
+    "model_returned": "HCX-007",
+    "status": "ok",
+    "elapsed_sec": 1.9998773999999995,
+    "finished_at_ms": 1790359175759,
+    "service_sec": 2
+  },
+  {
+    "number": 3,
+    "role": "judge",
+    "provider": "hcx",
+    "started_at": "2026-09-25T18:00:22.701Z",
+    "usage": {
+      "prompt_tokens": 1341,
+      "completion_tokens": 101,
+      "total_tokens": 1442
+    },
+    "reserved_tokens": 0,
+    "queue_wait_sec": 0.00014020000000164145,
+    "sent_at_ms": 1790359222701,
+    "http_status": 200,
+    "rate_limit": {
+      "x-ratelimit-limit-requests": "60",
+      "x-ratelimit-limit-tokens": "60000",
+      "x-ratelimit-remaining-requests": "58",
+      "x-ratelimit-remaining-tokens": "56222",
+      "x-ratelimit-reset-requests": "60s",
+      "x-ratelimit-reset-tokens": "60s"
+    },
+    "model_returned": "HCX-007",
+    "status": "ok",
+    "elapsed_sec": 2.085946100000001,
+    "finished_at_ms": 1790359224787,
+    "service_sec": 2.086
+  },
+  {
+    "number": 4,
+    "role": "judge",
+    "provider": "hcx",
+    "started_at": "2026-09-25T18:00:35.562Z",
+    "usage": {
+      "prompt_tokens": 1339,
+      "completion_tokens": 109,
+      "total_tokens": 1448
+    },
+    "reserved_tokens": 0,
+    "queue_wait_sec": 0.000013900000005378387,
+    "sent_at_ms": 1790359235562,
+    "http_status": 200,
+    "rate_limit": {
+      "x-ratelimit-limit-requests": "60",
+      "x-ratelimit-limit-tokens": "60000",
+      "x-ratelimit-remaining-requests": "47",
+      "x-ratelimit-remaining-tokens": "34476",
+      "x-ratelimit-reset-requests": "47s",
+      "x-ratelimit-reset-tokens": "47s"
+    },
+    "model_returned": "HCX-007",
+    "status": "ok",
+    "elapsed_sec": 2.2354447999999976,
+    "finished_at_ms": 1790359237798,
+    "service_sec": 2.236
+  },
+  {
+    "number": 5,
+    "role": "judge",
+    "provider": "hcx",
+    "started_at": "2026-09-25T18:01:23.701Z",
+    "usage": {
+      "prompt_tokens": 1321,
+      "completion_tokens": 107,
+      "total_tokens": 1428
+    },
+    "reserved_tokens": 0,
+    "queue_wait_sec": 0.0000087000000057742,
+    "sent_at_ms": 1790359283701,
+    "http_status": 200,
+    "rate_limit": {
+      "x-ratelimit-limit-requests": "60",
+      "x-ratelimit-limit-tokens": "60000",
+      "x-ratelimit-remaining-requests": "59",
+      "x-ratelimit-remaining-tokens": "58167",
+      "x-ratelimit-reset-requests": "60s",
+      "x-ratelimit-reset-tokens": "60s"
+    },
+    "model_returned": "HCX-007",
+    "status": "ok",
+    "elapsed_sec": 2.1826123999999982,
+    "finished_at_ms": 1790359285884,
+    "service_sec": 2.183
+  }
+]

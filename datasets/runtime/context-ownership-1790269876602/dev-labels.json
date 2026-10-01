@@ -1,0 +1,386 @@
+[
+  {
+    "node_id": "n_4c355840878beb70",
+    "scenario": "quote",
+    "variant": 0,
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_a1bbca53d99ed120",
+    "scenario": "quote",
+    "variant": 1,
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_160974f939f1fca8",
+    "scenario": "quote",
+    "variant": 2,
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_8873e618aac83a71",
+    "scenario": "quote",
+    "variant": 3,
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_b7ccf347c1874cd2",
+    "scenario": "warning-ad",
+    "variant": 0,
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [
+      "HOMOGLYPH"
+    ]
+  },
+  {
+    "node_id": "n_481bc7f9bb7c12ed",
+    "scenario": "warning-ad",
+    "variant": 1,
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [
+      "JAMO"
+    ]
+  },
+  {
+    "node_id": "n_ef294cc6c3eb8e97",
+    "scenario": "warning-ad",
+    "variant": 2,
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [
+      "TRANSPARENT"
+    ]
+  },
+  {
+    "node_id": "n_218d490dc07ab0d3",
+    "scenario": "warning-ad",
+    "variant": 3,
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [
+      "OFFSCREEN"
+    ]
+  },
+  {
+    "node_id": "n_a3afde478b85c65c",
+    "scenario": "other-comment",
+    "variant": 0,
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [
+      "HOMOGLYPH"
+    ]
+  },
+  {
+    "node_id": "n_7c8a1dfb15db7dea",
+    "scenario": "other-comment",
+    "variant": 1,
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [
+      "JAMO"
+    ]
+  },
+  {
+    "node_id": "n_00d4a934b4a72317",
+    "scenario": "other-comment",
+    "variant": 2,
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [
+      "TRANSPARENT"
+    ]
+  },
+  {
+    "node_id": "n_5b7b239c144ee1c4",
+    "scenario": "other-comment",
+    "variant": 3,
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [
+      "OFFSCREEN"
+    ]
+  },
+  {
+    "node_id": "n_46c001d660db83c0",
+    "scenario": "neighbor-ad",
+    "variant": 0,
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_c36f917681025c36",
+    "scenario": "neighbor-ad",
+    "variant": 1,
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_ee3a0860de4cb93e",
+    "scenario": "neighbor-ad",
+    "variant": 2,
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_46b6b4ac02953417",
+    "scenario": "neighbor-ad",
+    "variant": 3,
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_96dc20ddaf458eac",
+    "scenario": "linked",
+    "variant": 0,
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [
+      "HOMOGLYPH"
+    ]
+  },
+  {
+    "node_id": "n_2e03cabde298cf6f",
+    "scenario": "linked",
+    "variant": 1,
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [
+      "JAMO"
+    ]
+  },
+  {
+    "node_id": "n_3f37bc8b59688cda",
+    "scenario": "linked",
+    "variant": 2,
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [
+      "TRANSPARENT"
+    ]
+  },
+  {
+    "node_id": "n_e3c78f0590bdb61d",
+    "scenario": "linked",
+    "variant": 3,
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [
+      "OFFSCREEN"
+    ]
+  },
+  {
+    "node_id": "n_e884fe84a2b3d311",
+    "scenario": "insufficient",
+    "variant": 0,
+    "is_ad": null,
+    "expected_review": true,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_10960c48f627ebee",
+    "scenario": "insufficient",
+    "variant": 1,
+    "is_ad": null,
+    "expected_review": true,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_a1f2ef119d0c5ca7",
+    "scenario": "insufficient",
+    "variant": 2,
+    "is_ad": null,
+    "expected_review": true,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_f13a0a33f3d8ae16",
+    "scenario": "insufficient",
+    "variant": 3,
+    "is_ad": null,
+    "expected_review": true,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_802f646936371e2b",
+    "scenario": "direct",
+    "variant": 0,
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": [
+      "HOMOGLYPH"
+    ]
+  },
+  {
+    "node_id": "n_0a3326266d201cdb",
+    "scenario": "direct",
+    "variant": 1,
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": [
+      "JAMO"
+    ]
+  },
+  {
+    "node_id": "n_ecf666849b18da0b",
+    "scenario": "direct",
+    "variant": 2,
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": [
+      "TRANSPARENT"
+    ]
+  },
+  {
+    "node_id": "n_af2b82c3f6aba9fa",
+    "scenario": "direct",
+    "variant": 3,
+    "is_ad": true,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": [
+      "OFFSCREEN"
+    ]
+  },
+  {
+    "node_id": "n_7045b588ef17d2f4",
+    "scenario": "ordinary",
+    "variant": 0,
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "HOMOGLYPH"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_7a1e4e52ae4ce9bd",
+    "scenario": "ordinary",
+    "variant": 1,
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "JAMO"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_326df5d1f44314e6",
+    "scenario": "ordinary",
+    "variant": 2,
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "TRANSPARENT"
+    ],
+    "techniques": []
+  },
+  {
+    "node_id": "n_dbc9a5ca4394c130",
+    "scenario": "ordinary",
+    "variant": 3,
+    "is_ad": false,
+    "expected_review": false,
+    "observed": [
+      "OFFSCREEN"
+    ],
+    "techniques": []
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "epoch": 1,
+  "loss": 0.03409404594688413,
+  "development": {
+    "JAMO": {
+      "confusion": [
+        [
+          336,
+          0,
+          0
+        ],
+        [
+          0,
+          276,
+          0
+        ],
+        [
+          0,
+          0,
+          12
+        ]
+      ],
+      "macro_f1": 1.0,
+      "strict_f1": 1.0,
+      "normal_false": 0,
+      "uncertain_false": 0
+    },
+    "HOMOGLYPH": {
+      "confusion": [
+        [
+          240,
+          0,
+          0
+        ],
+        [
+          0,
+          372,
+          0
+        ],
+        [
+          0,
+          0,
+          12
+        ]
+      ],
+      "macro_f1": 1.0,
+      "strict_f1": 1.0,
+      "normal_false": 0,
+      "uncertain_false": 0
+    },
+    "positive_macro_f1": 1.0,
+    "min_f1": 1.0,
+    "normal_false": 0,
+    "uncertain_false": 0,
+    "exact_state_accuracy": 1.0,
+    "rows": 624
+  },
+  "seconds": 51.53196119999939
+}

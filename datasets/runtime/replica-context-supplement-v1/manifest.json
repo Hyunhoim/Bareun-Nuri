@@ -1,0 +1,75 @@
+{
+  "created_at": "2026-09-24T21:51:44.591Z",
+  "status": "sealed supplemental post-hoc denominator correction",
+  "not_new_holdout": true,
+  "predictions_read_during_labeling": false,
+  "prior_aggregate_results_known": true,
+  "source_sha256": {
+    ".runtime\\replica-intent-data-v1\\dev-gold.json": "fd314fbff5d18b6b9200efbb5a6058d94f4bacc7e0f8c026f8b69f25b400deb2",
+    ".runtime\\replica-intent-data-v1\\dev-full-evidence.json": "57dd78c0d46a09bddd83eb7d9310c6a8692dd4a4ed03053f5818576d126467b3",
+    ".runtime\\replica-intent-data-v1\\holdout-gold.json": "48f914e783c058eb7236ed226d110b36d991330b268b01860cce13be8a1e8db6",
+    ".runtime\\replica-intent-data-v1\\holdout-full-evidence.json": "bce03e33f676d86b88e1393c3aafbe00584e34e7ca15a4ec00cd1dab91163009",
+    ".runtime\\replica-intent-data-v1\\manifest.json": "6c62510a703f1837280ab299c9a122c6c4dd15358f086a54b972c18cc466f268"
+  },
+  "gold_sha256": {
+    "dev-supplemental-gold.json": "cc9b9334da0ed47c4b408d05c8ea876a04abe7f09b92d4c26a8db0964afd4c83",
+    "dev-controlled-gold.json": "831f94b5183a31a0947a4b750b5872e82622df6ffe022c6ea57f610804faf31c",
+    "holdout-supplemental-gold.json": "fe46292bf3c2dc7b1bb879e314671c742784a4ac13cd491c312393a2b74cd782",
+    "holdout-controlled-gold.json": "6a792a9f2270d24b6ba13a85a9633ee969f9ca0495758e8f105b2166917f307a"
+  },
+  "counts": {
+    "dev": {
+      "primary": {
+        "positions": 52,
+        "ads": 24,
+        "normal": 24,
+        "ambiguous": 4
+      },
+      "supplement": {
+        "positions": 12,
+        "ads": 4,
+        "normal": 8,
+        "ambiguous": 0
+      },
+      "known_controlled": {
+        "positions": 64,
+        "ads": 28,
+        "normal": 32,
+        "ambiguous": 4,
+        "definite": 60
+      },
+      "plain_supplement_with_no_confirmed_observation": 12
+    },
+    "holdout": {
+      "primary": {
+        "positions": 52,
+        "ads": 24,
+        "normal": 24,
+        "ambiguous": 4
+      },
+      "supplement": {
+        "positions": 12,
+        "ads": 4,
+        "normal": 8,
+        "ambiguous": 0
+      },
+      "known_controlled": {
+        "positions": 64,
+        "ads": 28,
+        "normal": 32,
+        "ambiguous": 4,
+        "definite": 60
+      },
+      "plain_supplement_with_no_confirmed_observation": 12
+    }
+  },
+  "limits": [
+    "Original primary52 gold unchanged. Supplemental labels were derived only from sealed source other fields and matching saved DOM leaf candidates.",
+    "This repairs previously omitted controlled context positions; it is a post-hoc factual correction, not a pre-registered blind holdout.",
+    "Source public-site text and other unlabelled contextual leaves are not exhaustively labelled. Known-controlled precision/recall is not full-site precision/recall.",
+    "Primary4-technique metrics retain original scope; supplemental plain advertisements have no4-technique gold and must not be counted as missed technique findings.",
+    "All before/after fields were deliberately not automatically labelled; their role can differ from whole-container intent."
+  ],
+  "api_calls": 0,
+  "browser_calls": 0
+}

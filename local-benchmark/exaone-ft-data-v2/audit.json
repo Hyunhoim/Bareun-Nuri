@@ -1,0 +1,36 @@
+{
+  "rows": 200,
+  "scenario_groups": 20,
+  "labels": {
+    "0": 80,
+    "1": 30,
+    "2": 60,
+    "3": 30
+  },
+  "modes": {
+    "OFFSCREEN": 30,
+    "HOMOGLYPH": 30,
+    "MIXED": 20,
+    "TRANSPARENT": 30,
+    "PLAIN": 60,
+    "JAMO": 30
+  },
+  "categories": {
+    "illegal": 40,
+    "adult": 40,
+    "drugs": 40,
+    "sextrade": 40,
+    "gambling": 40
+  },
+  "training_ready": false,
+  "reviewed": 0,
+  "exact_pair_overlap_observed221": 0,
+  "independent_holdout": false,
+  "limitations": [
+    "Synthetic template-based contrast corpus, not 200 independently collected posts",
+    "Authored explanations and missing-object labels need human review",
+    "Twenty related groups must never be split by individual row",
+    "Homoglyph coverage is navigation labels only; embedded loanwords, natural identifiers and broader digit replacements still needed",
+    "No sealed evaluation was read"
+  ]
+}

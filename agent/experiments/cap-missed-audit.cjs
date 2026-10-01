@@ -1,0 +1,12 @@
+// Audit the selected missed-target replay against its original live request bodies.
+const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict'),crypto=require('node:crypto');
+const root=path.resolve(process.argv[2]),input=path.resolve(process.argv[3]),read=p=>JSON.parse(fs.readFileSync(p)),m=read(path.join(root,'manifest.json')),origin=read(path.join(input,'origin.json'));
+assert.equal(read(path.join(root,'completion.json')).status,'completed');for(const[f,h]of Object.entries(m.hashes))assert.equal(crypto.createHash('sha256').update(fs.readFileSync(f)).digest('hex'),h);
+const j=require('../src/core/judgment.cjs').contract(),withoutCap=b=>{const v=structuredClone(b);delete v.maxCompletionTokens;return v;};
+let tokens=0,calls=0;const rows={},decisions={};
+for(const condition of m.sequence){const n=condition.name,trace=fs.readFileSync(path.join(root,n+'-trace.jsonl'),'utf8').trim().split('\n').map(JSON.parse),qs=trace.filter(x=>x.event==='llm_request'),rs=trace.filter(x=>x.event==='llm_response'),ledger=read(path.join(root,n+'-calls.json'));assert.equal(qs.length,3);assert.equal(rs.length,3);assert.equal(ledger.length,3);assert.deepEqual(qs.map(q=>withoutCap(q.body)),origin.original_bodies.map(withoutCap));const by=new Map();
+ for(let i=0;i<qs.length;i++){const q=qs[i],r=rs.find(x=>x.call_number===q.call_number),c=ledger.find(x=>x.number===q.call_number),g=m.groups[i],items=read(g.evidence).candidates,saved=read(path.join(root,n+'-'+g.name+'-decisions.json'));assert.equal(q.body.maxCompletionTokens,condition.maxTokens);assert.equal(c.http_status,200);assert.equal(c.status,'ok');assert.equal(r.data.choices[0].finish_reason,'stop');const obj=JSON.parse(r.data.choices[0].message.content.trim().replace(/^```(?:json)?\s*\n([\s\S]*?)\n```$/,'$1'));const ds=j.validateModelDecisions(Object.entries(obj.decisions).map(([node_id,v])=>({node_id,...v})),items);assert.deepEqual(ds,saved);for(const d of ds)by.set(d.node_id,d);tokens+=r.data.usage.total_tokens;calls++;}
+ decisions[n]=by;rows[n]=origin.targets.map(id=>({node_id:id,act:by.get(id).publication_act,advertisement:by.get(id).raw_ad_verdict==='violation'}));
+}
+const result={calls,tokens,finish_stop:calls,original_batch_body_equal_except_cap:true,targets:rows,scope:'Post-run diagnostic of three observed misses, not independent evaluation. Unknown peers are not assumed normal.'};
+fs.writeFileSync(path.join(root,'request-audit.json'),JSON.stringify(result,null,2));console.log(JSON.stringify(result));

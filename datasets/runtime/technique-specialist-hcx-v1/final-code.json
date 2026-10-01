@@ -1,0 +1,1934 @@
+[
+  {
+    "id": "ca9565d995208fdf",
+    "label": 2,
+    "observations": {
+      "node_id": "ca9565d995208fdf",
+      "url": "http://127.0.0.1:64920/final/ca9565d995208fdf.html",
+      "location": "article > p",
+      "raw_text": "사설 도박방에서 선지급 도와드립니다. 신청 화면의 4dvance 선택 후 가입하셔서 현금을 충전해 주세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "df30fe2c02d578e2",
+    "label": 2,
+    "observations": {
+      "node_id": "df30fe2c02d578e2",
+      "url": "http://127.0.0.1:64920/final/df30fe2c02d578e2.html",
+      "location": "article > p",
+      "raw_text": "현금 도박 사이트가 4dvance라며 선지급를 내세운 문자를 보내왔네요. 이런 광고 차단을 요청합니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "cb57d86260dcb334",
+    "label": 2,
+    "observations": {
+      "node_id": "cb57d86260dcb334",
+      "url": "http://127.0.0.1:64920/final/cb57d86260dcb334.html",
+      "location": "article > p",
+      "raw_text": "24시간 선지급가 되는 사설 도박방입니다. 4dvance24 접수 중이니 회원 가입해서 이용하세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "4d4ce987577f1eb3",
+    "label": 0,
+    "observations": {
+      "node_id": "4d4ce987577f1eb3",
+      "url": "http://127.0.0.1:64920/final/4d4ce987577f1eb3.html",
+      "location": "article > p",
+      "raw_text": "선지급 안내 화면에서 보이는 аdvance 항목의 글꼴을 바꿔 달라는 의견입니다.",
+      "version": 1,
+      "observations": [
+        {
+          "technique": "HOMOGLYPH",
+          "coverage": "text-span",
+          "evidence": [
+            {
+              "technique": "HOMOGLYPH",
+              "reason": "mixed-script-confusable",
+              "start": 16,
+              "end": 23,
+              "text": "аdvance",
+              "reading": "advance"
+            }
+          ]
+        }
+      ],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "6a38227d656f7153",
+    "label": 2,
+    "observations": {
+      "node_id": "6a38227d656f7153",
+      "url": "http://127.0.0.1:64920/final/6a38227d656f7153.html",
+      "location": "article > p",
+      "raw_text": "도박방 이용자 모집합니다. 신청서 관리키 4dvance를 복사해 주세요. 그 숫자가 신청서 번호라 바꾸면 안 됩니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "e16b6790f2a9af1f",
+    "label": 2,
+    "observations": {
+      "node_id": "e16b6790f2a9af1f",
+      "url": "http://127.0.0.1:64920/final/e16b6790f2a9af1f.html",
+      "location": "article > p",
+      "raw_text": "납품받은 기기에는 4dvance라는 형식번호가 부착되어 있어요. 동일 형식 부품 재고를 확인하고 싶습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "e6d03fb2336b0926",
+    "label": 2,
+    "observations": {
+      "node_id": "e6d03fb2336b0926",
+      "url": "http://127.0.0.1:64920/final/e6d03fb2336b0926.html",
+      "location": "article > p",
+      "raw_text": "사진 아래 4dvance가 있었는데 무슨 표시인지 잘 모르겠습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "d23a9792770ff5fa",
+    "label": 2,
+    "observations": {
+      "node_id": "d23a9792770ff5fa",
+      "url": "http://127.0.0.1:64920/final/d23a9792770ff5fa.html",
+      "location": "article > p",
+      "raw_text": "본문이 삭제되어 4dvance라는 이름 외에는 알 수 없습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "e25fd20c5fe87338",
+    "label": 2,
+    "observations": {
+      "node_id": "e25fd20c5fe87338",
+      "url": "http://127.0.0.1:64920/final/e25fd20c5fe87338.html",
+      "location": "article > p",
+      "raw_text": "사설 도박방에서 입장 도와드립니다. 신청 화면의 3ntrance 선택 후 가입하셔서 현금을 충전해 주세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "61865301e3649ad6",
+    "label": 2,
+    "observations": {
+      "node_id": "61865301e3649ad6",
+      "url": "http://127.0.0.1:64920/final/61865301e3649ad6.html",
+      "location": "article > p",
+      "raw_text": "현금 도박 사이트가 3ntrance라며 입장를 내세운 문자를 보내왔네요. 이런 광고 차단을 요청합니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "5b6095c3224edef0",
+    "label": 2,
+    "observations": {
+      "node_id": "5b6095c3224edef0",
+      "url": "http://127.0.0.1:64920/final/5b6095c3224edef0.html",
+      "location": "article > p",
+      "raw_text": "24시간 입장가 되는 사설 도박방입니다. 3ntrance24 접수 중이니 회원 가입해서 이용하세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "30a8abf63ebe8872",
+    "label": 0,
+    "observations": {
+      "node_id": "30a8abf63ebe8872",
+      "url": "http://127.0.0.1:64920/final/30a8abf63ebe8872.html",
+      "location": "article > p",
+      "raw_text": "입장 안내 화면에서 보이는 ｅｎｔｒａｎｃｅ 항목의 글꼴을 바꿔 달라는 의견입니다.",
+      "version": 1,
+      "observations": [
+        {
+          "technique": "HOMOGLYPH",
+          "coverage": "text-span",
+          "evidence": [
+            {
+              "technique": "HOMOGLYPH",
+              "reason": "compatibility-letter-or-number",
+              "start": 15,
+              "end": 23,
+              "text": "ｅｎｔｒａｎｃｅ",
+              "reading": "entrance"
+            }
+          ]
+        }
+      ],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "343983b10c0797fc",
+    "label": 2,
+    "observations": {
+      "node_id": "343983b10c0797fc",
+      "url": "http://127.0.0.1:64920/final/343983b10c0797fc.html",
+      "location": "article > p",
+      "raw_text": "도박방 이용자 모집합니다. 신청서 관리키 3ntrance를 복사해 주세요. 그 숫자가 신청서 번호라 바꾸면 안 됩니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "e4030d1bc4701df1",
+    "label": 2,
+    "observations": {
+      "node_id": "e4030d1bc4701df1",
+      "url": "http://127.0.0.1:64920/final/e4030d1bc4701df1.html",
+      "location": "article > p",
+      "raw_text": "납품받은 기기에는 3ntrance라는 형식번호가 부착되어 있어요. 동일 형식 부품 재고를 확인하고 싶습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "4323fe14da26c3bb",
+    "label": 2,
+    "observations": {
+      "node_id": "4323fe14da26c3bb",
+      "url": "http://127.0.0.1:64920/final/4323fe14da26c3bb.html",
+      "location": "article > p",
+      "raw_text": "사진 아래 3ntrance가 있었는데 무슨 표시인지 잘 모르겠습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "50bce78d137897fb",
+    "label": 2,
+    "observations": {
+      "node_id": "50bce78d137897fb",
+      "url": "http://127.0.0.1:64920/final/50bce78d137897fb.html",
+      "location": "article > p",
+      "raw_text": "본문이 삭제되어 3ntrance라는 이름 외에는 알 수 없습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "0496430161f8f5fc",
+    "label": 2,
+    "observations": {
+      "node_id": "0496430161f8f5fc",
+      "url": "http://127.0.0.1:64920/final/0496430161f8f5fc.html",
+      "location": "article > p",
+      "raw_text": "사설 도박방에서 교환권 도와드립니다. 신청 화면의 v0ucher 선택 후 가입하셔서 현금을 충전해 주세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 28,
+          "end": 35,
+          "text": "v0ucher"
+        }
+      ]
+    }
+  },
+  {
+    "id": "518510999f8d94da",
+    "label": 2,
+    "observations": {
+      "node_id": "518510999f8d94da",
+      "url": "http://127.0.0.1:64920/final/518510999f8d94da.html",
+      "location": "article > p",
+      "raw_text": "현금 도박 사이트가 v0ucher라며 교환권를 내세운 문자를 보내왔네요. 이런 광고 차단을 요청합니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 11,
+          "end": 20,
+          "text": "v0ucher라며"
+        }
+      ]
+    }
+  },
+  {
+    "id": "68ce647ead496c72",
+    "label": 2,
+    "observations": {
+      "node_id": "68ce647ead496c72",
+      "url": "http://127.0.0.1:64920/final/68ce647ead496c72.html",
+      "location": "article > p",
+      "raw_text": "24시간 교환권가 되는 사설 도박방입니다. v0ucher24 접수 중이니 회원 가입해서 이용하세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 24,
+          "end": 33,
+          "text": "v0ucher24"
+        }
+      ]
+    }
+  },
+  {
+    "id": "369bb5f3b4b3e25c",
+    "label": 0,
+    "observations": {
+      "node_id": "369bb5f3b4b3e25c",
+      "url": "http://127.0.0.1:64920/final/369bb5f3b4b3e25c.html",
+      "location": "article > p",
+      "raw_text": "교환권 안내 화면에서 보이는 vоucher 항목의 글꼴을 바꿔 달라는 의견입니다.",
+      "version": 1,
+      "observations": [
+        {
+          "technique": "HOMOGLYPH",
+          "coverage": "text-span",
+          "evidence": [
+            {
+              "technique": "HOMOGLYPH",
+              "reason": "mixed-script-confusable",
+              "start": 16,
+              "end": 23,
+              "text": "vоucher",
+              "reading": "voucher"
+            }
+          ]
+        }
+      ],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "5972088b1ce7589b",
+    "label": 2,
+    "observations": {
+      "node_id": "5972088b1ce7589b",
+      "url": "http://127.0.0.1:64920/final/5972088b1ce7589b.html",
+      "location": "article > p",
+      "raw_text": "도박방 이용자 모집합니다. 신청서 관리키 v0ucher를 복사해 주세요. 그 숫자가 신청서 번호라 바꾸면 안 됩니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 23,
+          "end": 31,
+          "text": "v0ucher를"
+        }
+      ]
+    }
+  },
+  {
+    "id": "778c281c4ac5ffbb",
+    "label": 2,
+    "observations": {
+      "node_id": "778c281c4ac5ffbb",
+      "url": "http://127.0.0.1:64920/final/778c281c4ac5ffbb.html",
+      "location": "article > p",
+      "raw_text": "납품받은 기기에는 v0ucher라는 형식번호가 부착되어 있어요. 동일 형식 부품 재고를 확인하고 싶습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 10,
+          "end": 19,
+          "text": "v0ucher라는"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0daae664895977f3",
+    "label": 2,
+    "observations": {
+      "node_id": "0daae664895977f3",
+      "url": "http://127.0.0.1:64920/final/0daae664895977f3.html",
+      "location": "article > p",
+      "raw_text": "사진 아래 v0ucher가 있었는데 무슨 표시인지 잘 모르겠습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 6,
+          "end": 14,
+          "text": "v0ucher가"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f679e592cde464bd",
+    "label": 2,
+    "observations": {
+      "node_id": "f679e592cde464bd",
+      "url": "http://127.0.0.1:64920/final/f679e592cde464bd.html",
+      "location": "article > p",
+      "raw_text": "본문이 삭제되어 v0ucher라는 이름 외에는 알 수 없습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 9,
+          "end": 18,
+          "text": "v0ucher라는"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2dec4cb3e82a78c9",
+    "label": 2,
+    "observations": {
+      "node_id": "2dec4cb3e82a78c9",
+      "url": "http://127.0.0.1:64920/final/2dec4cb3e82a78c9.html",
+      "location": "article > p",
+      "raw_text": "사설 도박방에서 출금 도와드립니다. 신청 화면의 c4shout 선택 후 가입하셔서 현금을 충전해 주세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 27,
+          "end": 34,
+          "text": "c4shout"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fc4b97ec8212c71c",
+    "label": 2,
+    "observations": {
+      "node_id": "fc4b97ec8212c71c",
+      "url": "http://127.0.0.1:64920/final/fc4b97ec8212c71c.html",
+      "location": "article > p",
+      "raw_text": "현금 도박 사이트가 c4shout라며 출금를 내세운 문자를 보내왔네요. 이런 광고 차단을 요청합니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 11,
+          "end": 20,
+          "text": "c4shout라며"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fb0c7a940492b801",
+    "label": 2,
+    "observations": {
+      "node_id": "fb0c7a940492b801",
+      "url": "http://127.0.0.1:64920/final/fb0c7a940492b801.html",
+      "location": "article > p",
+      "raw_text": "24시간 출금가 되는 사설 도박방입니다. c4shout24 접수 중이니 회원 가입해서 이용하세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 23,
+          "end": 32,
+          "text": "c4shout24"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3dd19d143b590d43",
+    "label": 0,
+    "observations": {
+      "node_id": "3dd19d143b590d43",
+      "url": "http://127.0.0.1:64920/final/3dd19d143b590d43.html",
+      "location": "article > p",
+      "raw_text": "출금 안내 화면에서 보이는 ｃａｓｈｏｕｔ 항목의 글꼴을 바꿔 달라는 의견입니다.",
+      "version": 1,
+      "observations": [
+        {
+          "technique": "HOMOGLYPH",
+          "coverage": "text-span",
+          "evidence": [
+            {
+              "technique": "HOMOGLYPH",
+              "reason": "compatibility-letter-or-number",
+              "start": 15,
+              "end": 22,
+              "text": "ｃａｓｈｏｕｔ",
+              "reading": "cashout"
+            }
+          ]
+        }
+      ],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "b5feaf6a82e557e0",
+    "label": 2,
+    "observations": {
+      "node_id": "b5feaf6a82e557e0",
+      "url": "http://127.0.0.1:64920/final/b5feaf6a82e557e0.html",
+      "location": "article > p",
+      "raw_text": "도박방 이용자 모집합니다. 신청서 관리키 c4shout를 복사해 주세요. 그 숫자가 신청서 번호라 바꾸면 안 됩니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 23,
+          "end": 31,
+          "text": "c4shout를"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6be02883762a1e38",
+    "label": 2,
+    "observations": {
+      "node_id": "6be02883762a1e38",
+      "url": "http://127.0.0.1:64920/final/6be02883762a1e38.html",
+      "location": "article > p",
+      "raw_text": "납품받은 기기에는 c4shout라는 형식번호가 부착되어 있어요. 동일 형식 부품 재고를 확인하고 싶습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 10,
+          "end": 19,
+          "text": "c4shout라는"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3962628a1821e876",
+    "label": 2,
+    "observations": {
+      "node_id": "3962628a1821e876",
+      "url": "http://127.0.0.1:64920/final/3962628a1821e876.html",
+      "location": "article > p",
+      "raw_text": "사진 아래 c4shout가 있었는데 무슨 표시인지 잘 모르겠습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 6,
+          "end": 14,
+          "text": "c4shout가"
+        }
+      ]
+    }
+  },
+  {
+    "id": "037d372905ac7e8b",
+    "label": 2,
+    "observations": {
+      "node_id": "037d372905ac7e8b",
+      "url": "http://127.0.0.1:64920/final/037d372905ac7e8b.html",
+      "location": "article > p",
+      "raw_text": "본문이 삭제되어 c4shout라는 이름 외에는 알 수 없습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 9,
+          "end": 18,
+          "text": "c4shout라는"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d9533df971d5e2e7",
+    "label": 2,
+    "observations": {
+      "node_id": "d9533df971d5e2e7",
+      "url": "http://127.0.0.1:64920/final/d9533df971d5e2e7.html",
+      "location": "article > p",
+      "raw_text": "사설 도박방에서 영수증 도와드립니다. 신청 화면의 r3ceipt 선택 후 가입하셔서 현금을 충전해 주세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 28,
+          "end": 35,
+          "text": "r3ceipt"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ff1bbaff1614ec5e",
+    "label": 2,
+    "observations": {
+      "node_id": "ff1bbaff1614ec5e",
+      "url": "http://127.0.0.1:64920/final/ff1bbaff1614ec5e.html",
+      "location": "article > p",
+      "raw_text": "현금 도박 사이트가 r3ceipt라며 영수증를 내세운 문자를 보내왔네요. 이런 광고 차단을 요청합니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 11,
+          "end": 20,
+          "text": "r3ceipt라며"
+        }
+      ]
+    }
+  },
+  {
+    "id": "839f9aa704ef862a",
+    "label": 2,
+    "observations": {
+      "node_id": "839f9aa704ef862a",
+      "url": "http://127.0.0.1:64920/final/839f9aa704ef862a.html",
+      "location": "article > p",
+      "raw_text": "24시간 영수증가 되는 사설 도박방입니다. r3ceipt24 접수 중이니 회원 가입해서 이용하세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 24,
+          "end": 33,
+          "text": "r3ceipt24"
+        }
+      ]
+    }
+  },
+  {
+    "id": "67c6781c80b02eda",
+    "label": 0,
+    "observations": {
+      "node_id": "67c6781c80b02eda",
+      "url": "http://127.0.0.1:64920/final/67c6781c80b02eda.html",
+      "location": "article > p",
+      "raw_text": "영수증 안내 화면에서 보이는 rеceipt 항목의 글꼴을 바꿔 달라는 의견입니다.",
+      "version": 1,
+      "observations": [
+        {
+          "technique": "HOMOGLYPH",
+          "coverage": "text-span",
+          "evidence": [
+            {
+              "technique": "HOMOGLYPH",
+              "reason": "mixed-script-confusable",
+              "start": 16,
+              "end": 23,
+              "text": "rеceipt",
+              "reading": "receipt"
+            }
+          ]
+        }
+      ],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "bf2135c88a958154",
+    "label": 2,
+    "observations": {
+      "node_id": "bf2135c88a958154",
+      "url": "http://127.0.0.1:64920/final/bf2135c88a958154.html",
+      "location": "article > p",
+      "raw_text": "도박방 이용자 모집합니다. 신청서 관리키 r3ceipt를 복사해 주세요. 그 숫자가 신청서 번호라 바꾸면 안 됩니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 23,
+          "end": 31,
+          "text": "r3ceipt를"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b46ce1a09429f44b",
+    "label": 2,
+    "observations": {
+      "node_id": "b46ce1a09429f44b",
+      "url": "http://127.0.0.1:64920/final/b46ce1a09429f44b.html",
+      "location": "article > p",
+      "raw_text": "납품받은 기기에는 r3ceipt라는 형식번호가 부착되어 있어요. 동일 형식 부품 재고를 확인하고 싶습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 10,
+          "end": 19,
+          "text": "r3ceipt라는"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3539f08a710f87ad",
+    "label": 2,
+    "observations": {
+      "node_id": "3539f08a710f87ad",
+      "url": "http://127.0.0.1:64920/final/3539f08a710f87ad.html",
+      "location": "article > p",
+      "raw_text": "사진 아래 r3ceipt가 있었는데 무슨 표시인지 잘 모르겠습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 6,
+          "end": 14,
+          "text": "r3ceipt가"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6b785e87611ac3ae",
+    "label": 2,
+    "observations": {
+      "node_id": "6b785e87611ac3ae",
+      "url": "http://127.0.0.1:64920/final/6b785e87611ac3ae.html",
+      "location": "article > p",
+      "raw_text": "본문이 삭제되어 r3ceipt라는 이름 외에는 알 수 없습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 9,
+          "end": 18,
+          "text": "r3ceipt라는"
+        }
+      ]
+    }
+  },
+  {
+    "id": "656bdc10a43eddb5",
+    "label": 2,
+    "observations": {
+      "node_id": "656bdc10a43eddb5",
+      "url": "http://127.0.0.1:64920/final/656bdc10a43eddb5.html",
+      "location": "article > p",
+      "raw_text": "사설 도박방에서 예약 도와드립니다. 신청 화면의 r3serve 선택 후 가입하셔서 현금을 충전해 주세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 27,
+          "end": 34,
+          "text": "r3serve"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5352c1aac3a82f14",
+    "label": 2,
+    "observations": {
+      "node_id": "5352c1aac3a82f14",
+      "url": "http://127.0.0.1:64920/final/5352c1aac3a82f14.html",
+      "location": "article > p",
+      "raw_text": "현금 도박 사이트가 r3serve라며 예약를 내세운 문자를 보내왔네요. 이런 광고 차단을 요청합니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 11,
+          "end": 20,
+          "text": "r3serve라며"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8fb59983557b77e7",
+    "label": 2,
+    "observations": {
+      "node_id": "8fb59983557b77e7",
+      "url": "http://127.0.0.1:64920/final/8fb59983557b77e7.html",
+      "location": "article > p",
+      "raw_text": "24시간 예약가 되는 사설 도박방입니다. r3serve24 접수 중이니 회원 가입해서 이용하세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 23,
+          "end": 32,
+          "text": "r3serve24"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d3e6336caa4f6a57",
+    "label": 0,
+    "observations": {
+      "node_id": "d3e6336caa4f6a57",
+      "url": "http://127.0.0.1:64920/final/d3e6336caa4f6a57.html",
+      "location": "article > p",
+      "raw_text": "예약 안내 화면에서 보이는 ｒｅｓｅｒｖｅ 항목의 글꼴을 바꿔 달라는 의견입니다.",
+      "version": 1,
+      "observations": [
+        {
+          "technique": "HOMOGLYPH",
+          "coverage": "text-span",
+          "evidence": [
+            {
+              "technique": "HOMOGLYPH",
+              "reason": "compatibility-letter-or-number",
+              "start": 15,
+              "end": 22,
+              "text": "ｒｅｓｅｒｖｅ",
+              "reading": "reserve"
+            }
+          ]
+        }
+      ],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "6a897f637d97078c",
+    "label": 2,
+    "observations": {
+      "node_id": "6a897f637d97078c",
+      "url": "http://127.0.0.1:64920/final/6a897f637d97078c.html",
+      "location": "article > p",
+      "raw_text": "도박방 이용자 모집합니다. 신청서 관리키 r3serve를 복사해 주세요. 그 숫자가 신청서 번호라 바꾸면 안 됩니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 23,
+          "end": 31,
+          "text": "r3serve를"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c681fe369678d7ec",
+    "label": 2,
+    "observations": {
+      "node_id": "c681fe369678d7ec",
+      "url": "http://127.0.0.1:64920/final/c681fe369678d7ec.html",
+      "location": "article > p",
+      "raw_text": "납품받은 기기에는 r3serve라는 형식번호가 부착되어 있어요. 동일 형식 부품 재고를 확인하고 싶습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 10,
+          "end": 19,
+          "text": "r3serve라는"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2e1c2fddd686e318",
+    "label": 2,
+    "observations": {
+      "node_id": "2e1c2fddd686e318",
+      "url": "http://127.0.0.1:64920/final/2e1c2fddd686e318.html",
+      "location": "article > p",
+      "raw_text": "사진 아래 r3serve가 있었는데 무슨 표시인지 잘 모르겠습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 6,
+          "end": 14,
+          "text": "r3serve가"
+        }
+      ]
+    }
+  },
+  {
+    "id": "411791d0b7d50330",
+    "label": 2,
+    "observations": {
+      "node_id": "411791d0b7d50330",
+      "url": "http://127.0.0.1:64920/final/411791d0b7d50330.html",
+      "location": "article > p",
+      "raw_text": "본문이 삭제되어 r3serve라는 이름 외에는 알 수 없습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 9,
+          "end": 18,
+          "text": "r3serve라는"
+        }
+      ]
+    }
+  },
+  {
+    "id": "015d2806e2a0f409",
+    "label": 2,
+    "observations": {
+      "node_id": "015d2806e2a0f409",
+      "url": "http://127.0.0.1:64920/final/015d2806e2a0f409.html",
+      "location": "article > p",
+      "raw_text": "사설 도박방에서 채널 도와드립니다. 신청 화면의 ch4nnel 선택 후 가입하셔서 현금을 충전해 주세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 27,
+          "end": 34,
+          "text": "ch4nnel"
+        }
+      ]
+    }
+  },
+  {
+    "id": "882fa015810e4521",
+    "label": 2,
+    "observations": {
+      "node_id": "882fa015810e4521",
+      "url": "http://127.0.0.1:64920/final/882fa015810e4521.html",
+      "location": "article > p",
+      "raw_text": "현금 도박 사이트가 ch4nnel라며 채널를 내세운 문자를 보내왔네요. 이런 광고 차단을 요청합니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 11,
+          "end": 20,
+          "text": "ch4nnel라며"
+        }
+      ]
+    }
+  },
+  {
+    "id": "06fd21312e4bd458",
+    "label": 2,
+    "observations": {
+      "node_id": "06fd21312e4bd458",
+      "url": "http://127.0.0.1:64920/final/06fd21312e4bd458.html",
+      "location": "article > p",
+      "raw_text": "24시간 채널가 되는 사설 도박방입니다. ch4nnel24 접수 중이니 회원 가입해서 이용하세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 23,
+          "end": 32,
+          "text": "ch4nnel24"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9d641b8ca9c7d868",
+    "label": 0,
+    "observations": {
+      "node_id": "9d641b8ca9c7d868",
+      "url": "http://127.0.0.1:64920/final/9d641b8ca9c7d868.html",
+      "location": "article > p",
+      "raw_text": "채널 안내 화면에서 보이는 сhannel 항목의 글꼴을 바꿔 달라는 의견입니다.",
+      "version": 1,
+      "observations": [
+        {
+          "technique": "HOMOGLYPH",
+          "coverage": "text-span",
+          "evidence": [
+            {
+              "technique": "HOMOGLYPH",
+              "reason": "mixed-script-confusable",
+              "start": 15,
+              "end": 22,
+              "text": "сhannel",
+              "reading": "channel"
+            }
+          ]
+        }
+      ],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "32bbb5e40e1719e0",
+    "label": 2,
+    "observations": {
+      "node_id": "32bbb5e40e1719e0",
+      "url": "http://127.0.0.1:64920/final/32bbb5e40e1719e0.html",
+      "location": "article > p",
+      "raw_text": "도박방 이용자 모집합니다. 신청서 관리키 ch4nnel를 복사해 주세요. 그 숫자가 신청서 번호라 바꾸면 안 됩니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 23,
+          "end": 31,
+          "text": "ch4nnel를"
+        }
+      ]
+    }
+  },
+  {
+    "id": "571a4c90c6ddb3dd",
+    "label": 2,
+    "observations": {
+      "node_id": "571a4c90c6ddb3dd",
+      "url": "http://127.0.0.1:64920/final/571a4c90c6ddb3dd.html",
+      "location": "article > p",
+      "raw_text": "납품받은 기기에는 ch4nnel라는 형식번호가 부착되어 있어요. 동일 형식 부품 재고를 확인하고 싶습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 10,
+          "end": 19,
+          "text": "ch4nnel라는"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9a40025ddf2bccee",
+    "label": 2,
+    "observations": {
+      "node_id": "9a40025ddf2bccee",
+      "url": "http://127.0.0.1:64920/final/9a40025ddf2bccee.html",
+      "location": "article > p",
+      "raw_text": "사진 아래 ch4nnel가 있었는데 무슨 표시인지 잘 모르겠습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 6,
+          "end": 14,
+          "text": "ch4nnel가"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2772336db39099e0",
+    "label": 2,
+    "observations": {
+      "node_id": "2772336db39099e0",
+      "url": "http://127.0.0.1:64920/final/2772336db39099e0.html",
+      "location": "article > p",
+      "raw_text": "본문이 삭제되어 ch4nnel라는 이름 외에는 알 수 없습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 9,
+          "end": 18,
+          "text": "ch4nnel라는"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a14114cdfc58763a",
+    "label": 2,
+    "observations": {
+      "node_id": "a14114cdfc58763a",
+      "url": "http://127.0.0.1:64920/final/a14114cdfc58763a.html",
+      "location": "article > p",
+      "raw_text": "사설 도박방에서 조언 도와드립니다. 신청 화면의 4dvice 선택 후 가입하셔서 현금을 충전해 주세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "224c42fc4ae002e5",
+    "label": 2,
+    "observations": {
+      "node_id": "224c42fc4ae002e5",
+      "url": "http://127.0.0.1:64920/final/224c42fc4ae002e5.html",
+      "location": "article > p",
+      "raw_text": "현금 도박 사이트가 4dvice라며 조언를 내세운 문자를 보내왔네요. 이런 광고 차단을 요청합니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "440eb611f793170f",
+    "label": 2,
+    "observations": {
+      "node_id": "440eb611f793170f",
+      "url": "http://127.0.0.1:64920/final/440eb611f793170f.html",
+      "location": "article > p",
+      "raw_text": "24시간 조언가 되는 사설 도박방입니다. 4dvice24 접수 중이니 회원 가입해서 이용하세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "8789152273aae6bb",
+    "label": 0,
+    "observations": {
+      "node_id": "8789152273aae6bb",
+      "url": "http://127.0.0.1:64920/final/8789152273aae6bb.html",
+      "location": "article > p",
+      "raw_text": "조언 안내 화면에서 보이는 ａｄｖｉｃｅ 항목의 글꼴을 바꿔 달라는 의견입니다.",
+      "version": 1,
+      "observations": [
+        {
+          "technique": "HOMOGLYPH",
+          "coverage": "text-span",
+          "evidence": [
+            {
+              "technique": "HOMOGLYPH",
+              "reason": "compatibility-letter-or-number",
+              "start": 15,
+              "end": 21,
+              "text": "ａｄｖｉｃｅ",
+              "reading": "advice"
+            }
+          ]
+        }
+      ],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "81404f3d28fdeee6",
+    "label": 2,
+    "observations": {
+      "node_id": "81404f3d28fdeee6",
+      "url": "http://127.0.0.1:64920/final/81404f3d28fdeee6.html",
+      "location": "article > p",
+      "raw_text": "도박방 이용자 모집합니다. 신청서 관리키 4dvice를 복사해 주세요. 그 숫자가 신청서 번호라 바꾸면 안 됩니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "846850ac9545517a",
+    "label": 2,
+    "observations": {
+      "node_id": "846850ac9545517a",
+      "url": "http://127.0.0.1:64920/final/846850ac9545517a.html",
+      "location": "article > p",
+      "raw_text": "납품받은 기기에는 4dvice라는 형식번호가 부착되어 있어요. 동일 형식 부품 재고를 확인하고 싶습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "81123890968bbe72",
+    "label": 2,
+    "observations": {
+      "node_id": "81123890968bbe72",
+      "url": "http://127.0.0.1:64920/final/81123890968bbe72.html",
+      "location": "article > p",
+      "raw_text": "사진 아래 4dvice가 있었는데 무슨 표시인지 잘 모르겠습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "16bedeb3c2a07388",
+    "label": 2,
+    "observations": {
+      "node_id": "16bedeb3c2a07388",
+      "url": "http://127.0.0.1:64920/final/16bedeb3c2a07388.html",
+      "location": "article > p",
+      "raw_text": "본문이 삭제되어 4dvice라는 이름 외에는 알 수 없습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "f4331d5b71673785",
+    "label": 2,
+    "observations": {
+      "node_id": "f4331d5b71673785",
+      "url": "http://127.0.0.1:64920/final/f4331d5b71673785.html",
+      "location": "article > p",
+      "raw_text": "사설 도박방에서 갱신처리 도와드립니다. 신청 화면의 r3newal 선택 후 가입하셔서 현금을 충전해 주세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 29,
+          "end": 36,
+          "text": "r3newal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "750d400bf45c7707",
+    "label": 2,
+    "observations": {
+      "node_id": "750d400bf45c7707",
+      "url": "http://127.0.0.1:64920/final/750d400bf45c7707.html",
+      "location": "article > p",
+      "raw_text": "현금 도박 사이트가 r3newal라며 갱신처리를 내세운 문자를 보내왔네요. 이런 광고 차단을 요청합니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 11,
+          "end": 20,
+          "text": "r3newal라며"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fa94bc3966a9879b",
+    "label": 2,
+    "observations": {
+      "node_id": "fa94bc3966a9879b",
+      "url": "http://127.0.0.1:64920/final/fa94bc3966a9879b.html",
+      "location": "article > p",
+      "raw_text": "24시간 갱신처리가 되는 사설 도박방입니다. r3newal24 접수 중이니 회원 가입해서 이용하세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 25,
+          "end": 34,
+          "text": "r3newal24"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cc096dd93a2b490d",
+    "label": 0,
+    "observations": {
+      "node_id": "cc096dd93a2b490d",
+      "url": "http://127.0.0.1:64920/final/cc096dd93a2b490d.html",
+      "location": "article > p",
+      "raw_text": "갱신처리 안내 화면에서 보이는 rеnewal 항목의 글꼴을 바꿔 달라는 의견입니다.",
+      "version": 1,
+      "observations": [
+        {
+          "technique": "HOMOGLYPH",
+          "coverage": "text-span",
+          "evidence": [
+            {
+              "technique": "HOMOGLYPH",
+              "reason": "mixed-script-confusable",
+              "start": 17,
+              "end": 24,
+              "text": "rеnewal",
+              "reading": "renewal"
+            }
+          ]
+        }
+      ],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "844172bc980bab10",
+    "label": 2,
+    "observations": {
+      "node_id": "844172bc980bab10",
+      "url": "http://127.0.0.1:64920/final/844172bc980bab10.html",
+      "location": "article > p",
+      "raw_text": "도박방 이용자 모집합니다. 신청서 관리키 r3newal를 복사해 주세요. 그 숫자가 신청서 번호라 바꾸면 안 됩니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 23,
+          "end": 31,
+          "text": "r3newal를"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1d45a0bf947a2bd4",
+    "label": 2,
+    "observations": {
+      "node_id": "1d45a0bf947a2bd4",
+      "url": "http://127.0.0.1:64920/final/1d45a0bf947a2bd4.html",
+      "location": "article > p",
+      "raw_text": "납품받은 기기에는 r3newal라는 형식번호가 부착되어 있어요. 동일 형식 부품 재고를 확인하고 싶습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 10,
+          "end": 19,
+          "text": "r3newal라는"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1a9e2d82ef91465e",
+    "label": 2,
+    "observations": {
+      "node_id": "1a9e2d82ef91465e",
+      "url": "http://127.0.0.1:64920/final/1a9e2d82ef91465e.html",
+      "location": "article > p",
+      "raw_text": "사진 아래 r3newal가 있었는데 무슨 표시인지 잘 모르겠습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 6,
+          "end": 14,
+          "text": "r3newal가"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9cf69a7a18c02f48",
+    "label": 2,
+    "observations": {
+      "node_id": "9cf69a7a18c02f48",
+      "url": "http://127.0.0.1:64920/final/9cf69a7a18c02f48.html",
+      "location": "article > p",
+      "raw_text": "본문이 삭제되어 r3newal라는 이름 외에는 알 수 없습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 9,
+          "end": 18,
+          "text": "r3newal라는"
+        }
+      ]
+    }
+  },
+  {
+    "id": "00d8de94f12269a9",
+    "label": 2,
+    "observations": {
+      "node_id": "00d8de94f12269a9",
+      "url": "http://127.0.0.1:64920/final/00d8de94f12269a9.html",
+      "location": "article > p",
+      "raw_text": "사설 도박방에서 보관기관 도와드립니다. 신청 화면의 d3positary 선택 후 가입하셔서 현금을 충전해 주세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 29,
+          "end": 39,
+          "text": "d3positary"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4968c993c208ebc9",
+    "label": 2,
+    "observations": {
+      "node_id": "4968c993c208ebc9",
+      "url": "http://127.0.0.1:64920/final/4968c993c208ebc9.html",
+      "location": "article > p",
+      "raw_text": "현금 도박 사이트가 d3positary라며 보관기관를 내세운 문자를 보내왔네요. 이런 광고 차단을 요청합니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 11,
+          "end": 23,
+          "text": "d3positary라며"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8a9f505b5cb2052c",
+    "label": 2,
+    "observations": {
+      "node_id": "8a9f505b5cb2052c",
+      "url": "http://127.0.0.1:64920/final/8a9f505b5cb2052c.html",
+      "location": "article > p",
+      "raw_text": "24시간 보관기관가 되는 사설 도박방입니다. d3positary24 접수 중이니 회원 가입해서 이용하세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 25,
+          "end": 37,
+          "text": "d3positary24"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ca1cd0f6a4fe4c8c",
+    "label": 0,
+    "observations": {
+      "node_id": "ca1cd0f6a4fe4c8c",
+      "url": "http://127.0.0.1:64920/final/ca1cd0f6a4fe4c8c.html",
+      "location": "article > p",
+      "raw_text": "보관기관 안내 화면에서 보이는 ｄｅｐｏｓｉｔａｒｙ 항목의 글꼴을 바꿔 달라는 의견입니다.",
+      "version": 1,
+      "observations": [
+        {
+          "technique": "HOMOGLYPH",
+          "coverage": "text-span",
+          "evidence": [
+            {
+              "technique": "HOMOGLYPH",
+              "reason": "compatibility-letter-or-number",
+              "start": 17,
+              "end": 27,
+              "text": "ｄｅｐｏｓｉｔａｒｙ",
+              "reading": "depositary"
+            }
+          ]
+        }
+      ],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "dd1a78759ef8e772",
+    "label": 2,
+    "observations": {
+      "node_id": "dd1a78759ef8e772",
+      "url": "http://127.0.0.1:64920/final/dd1a78759ef8e772.html",
+      "location": "article > p",
+      "raw_text": "도박방 이용자 모집합니다. 신청서 관리키 d3positary를 복사해 주세요. 그 숫자가 신청서 번호라 바꾸면 안 됩니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 23,
+          "end": 34,
+          "text": "d3positary를"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4e27cdb09614d188",
+    "label": 2,
+    "observations": {
+      "node_id": "4e27cdb09614d188",
+      "url": "http://127.0.0.1:64920/final/4e27cdb09614d188.html",
+      "location": "article > p",
+      "raw_text": "납품받은 기기에는 d3positary라는 형식번호가 부착되어 있어요. 동일 형식 부품 재고를 확인하고 싶습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 10,
+          "end": 22,
+          "text": "d3positary라는"
+        }
+      ]
+    }
+  },
+  {
+    "id": "441facd5f01dd25b",
+    "label": 2,
+    "observations": {
+      "node_id": "441facd5f01dd25b",
+      "url": "http://127.0.0.1:64920/final/441facd5f01dd25b.html",
+      "location": "article > p",
+      "raw_text": "사진 아래 d3positary가 있었는데 무슨 표시인지 잘 모르겠습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 6,
+          "end": 17,
+          "text": "d3positary가"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7aa9fcf92f6543e6",
+    "label": 2,
+    "observations": {
+      "node_id": "7aa9fcf92f6543e6",
+      "url": "http://127.0.0.1:64920/final/7aa9fcf92f6543e6.html",
+      "location": "article > p",
+      "raw_text": "본문이 삭제되어 d3positary라는 이름 외에는 알 수 없습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 9,
+          "end": 21,
+          "text": "d3positary라는"
+        }
+      ]
+    }
+  },
+  {
+    "id": "297934b8e3ee8573",
+    "label": 2,
+    "observations": {
+      "node_id": "297934b8e3ee8573",
+      "url": "http://127.0.0.1:64920/final/297934b8e3ee8573.html",
+      "location": "article > p",
+      "raw_text": "사설 도박방에서 참여 도와드립니다. 신청 화면의 p4rticipation 선택 후 가입하셔서 현금을 충전해 주세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 27,
+          "end": 40,
+          "text": "p4rticipation"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d1bea266ddd68ce8",
+    "label": 2,
+    "observations": {
+      "node_id": "d1bea266ddd68ce8",
+      "url": "http://127.0.0.1:64920/final/d1bea266ddd68ce8.html",
+      "location": "article > p",
+      "raw_text": "현금 도박 사이트가 p4rticipation라며 참여를 내세운 문자를 보내왔네요. 이런 광고 차단을 요청합니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 11,
+          "end": 26,
+          "text": "p4rticipation라며"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f0d959e11ccfb894",
+    "label": 2,
+    "observations": {
+      "node_id": "f0d959e11ccfb894",
+      "url": "http://127.0.0.1:64920/final/f0d959e11ccfb894.html",
+      "location": "article > p",
+      "raw_text": "24시간 참여가 되는 사설 도박방입니다. p4rticipation24 접수 중이니 회원 가입해서 이용하세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 23,
+          "end": 38,
+          "text": "p4rticipation24"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f3c325d09aeabf10",
+    "label": 0,
+    "observations": {
+      "node_id": "f3c325d09aeabf10",
+      "url": "http://127.0.0.1:64920/final/f3c325d09aeabf10.html",
+      "location": "article > p",
+      "raw_text": "참여 안내 화면에서 보이는 рarticipation 항목의 글꼴을 바꿔 달라는 의견입니다.",
+      "version": 1,
+      "observations": [
+        {
+          "technique": "HOMOGLYPH",
+          "coverage": "text-span",
+          "evidence": [
+            {
+              "technique": "HOMOGLYPH",
+              "reason": "mixed-script-confusable",
+              "start": 15,
+              "end": 28,
+              "text": "рarticipation",
+              "reading": "participation"
+            }
+          ]
+        }
+      ],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "645ceb60ccde32c3",
+    "label": 2,
+    "observations": {
+      "node_id": "645ceb60ccde32c3",
+      "url": "http://127.0.0.1:64920/final/645ceb60ccde32c3.html",
+      "location": "article > p",
+      "raw_text": "도박방 이용자 모집합니다. 신청서 관리키 p4rticipation를 복사해 주세요. 그 숫자가 신청서 번호라 바꾸면 안 됩니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 23,
+          "end": 37,
+          "text": "p4rticipation를"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2dbc2b8eb3c35667",
+    "label": 2,
+    "observations": {
+      "node_id": "2dbc2b8eb3c35667",
+      "url": "http://127.0.0.1:64920/final/2dbc2b8eb3c35667.html",
+      "location": "article > p",
+      "raw_text": "납품받은 기기에는 p4rticipation라는 형식번호가 부착되어 있어요. 동일 형식 부품 재고를 확인하고 싶습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 10,
+          "end": 25,
+          "text": "p4rticipation라는"
+        }
+      ]
+    }
+  },
+  {
+    "id": "14371e956207374d",
+    "label": 2,
+    "observations": {
+      "node_id": "14371e956207374d",
+      "url": "http://127.0.0.1:64920/final/14371e956207374d.html",
+      "location": "article > p",
+      "raw_text": "사진 아래 p4rticipation가 있었는데 무슨 표시인지 잘 모르겠습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 6,
+          "end": 20,
+          "text": "p4rticipation가"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a618f3148a98ab3d",
+    "label": 2,
+    "observations": {
+      "node_id": "a618f3148a98ab3d",
+      "url": "http://127.0.0.1:64920/final/a618f3148a98ab3d.html",
+      "location": "article > p",
+      "raw_text": "본문이 삭제되어 p4rticipation라는 이름 외에는 알 수 없습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 9,
+          "end": 24,
+          "text": "p4rticipation라는"
+        }
+      ]
+    }
+  },
+  {
+    "id": "16f7b8a289e8487f",
+    "label": 2,
+    "observations": {
+      "node_id": "16f7b8a289e8487f",
+      "url": "http://127.0.0.1:64920/final/16f7b8a289e8487f.html",
+      "location": "article > p",
+      "raw_text": "사설 도박방에서 수수료 도와드립니다. 신청 화면의 c0mmission 선택 후 가입하셔서 현금을 충전해 주세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 28,
+          "end": 38,
+          "text": "c0mmission"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d64e830c24db51bf",
+    "label": 2,
+    "observations": {
+      "node_id": "d64e830c24db51bf",
+      "url": "http://127.0.0.1:64920/final/d64e830c24db51bf.html",
+      "location": "article > p",
+      "raw_text": "현금 도박 사이트가 c0mmission라며 수수료를 내세운 문자를 보내왔네요. 이런 광고 차단을 요청합니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 11,
+          "end": 23,
+          "text": "c0mmission라며"
+        }
+      ]
+    }
+  },
+  {
+    "id": "41be304c5e611fbd",
+    "label": 2,
+    "observations": {
+      "node_id": "41be304c5e611fbd",
+      "url": "http://127.0.0.1:64920/final/41be304c5e611fbd.html",
+      "location": "article > p",
+      "raw_text": "24시간 수수료가 되는 사설 도박방입니다. c0mmission24 접수 중이니 회원 가입해서 이용하세요.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 24,
+          "end": 36,
+          "text": "c0mmission24"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7cd23a8b794c6e2a",
+    "label": 0,
+    "observations": {
+      "node_id": "7cd23a8b794c6e2a",
+      "url": "http://127.0.0.1:64920/final/7cd23a8b794c6e2a.html",
+      "location": "article > p",
+      "raw_text": "수수료 안내 화면에서 보이는 ｃｏｍｍｉｓｓｉｏｎ 항목의 글꼴을 바꿔 달라는 의견입니다.",
+      "version": 1,
+      "observations": [
+        {
+          "technique": "HOMOGLYPH",
+          "coverage": "text-span",
+          "evidence": [
+            {
+              "technique": "HOMOGLYPH",
+              "reason": "compatibility-letter-or-number",
+              "start": 16,
+              "end": 26,
+              "text": "ｃｏｍｍｉｓｓｉｏｎ",
+              "reading": "commission"
+            }
+          ]
+        }
+      ],
+      "unresolved": []
+    }
+  },
+  {
+    "id": "5c11a2d64542d27c",
+    "label": 2,
+    "observations": {
+      "node_id": "5c11a2d64542d27c",
+      "url": "http://127.0.0.1:64920/final/5c11a2d64542d27c.html",
+      "location": "article > p",
+      "raw_text": "도박방 이용자 모집합니다. 신청서 관리키 c0mmission를 복사해 주세요. 그 숫자가 신청서 번호라 바꾸면 안 됩니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 23,
+          "end": 34,
+          "text": "c0mmission를"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0ac311cdb4a98f9a",
+    "label": 2,
+    "observations": {
+      "node_id": "0ac311cdb4a98f9a",
+      "url": "http://127.0.0.1:64920/final/0ac311cdb4a98f9a.html",
+      "location": "article > p",
+      "raw_text": "납품받은 기기에는 c0mmission라는 형식번호가 부착되어 있어요. 동일 형식 부품 재고를 확인하고 싶습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 10,
+          "end": 22,
+          "text": "c0mmission라는"
+        }
+      ]
+    }
+  },
+  {
+    "id": "613fd0f31bd9cb1e",
+    "label": 2,
+    "observations": {
+      "node_id": "613fd0f31bd9cb1e",
+      "url": "http://127.0.0.1:64920/final/613fd0f31bd9cb1e.html",
+      "location": "article > p",
+      "raw_text": "사진 아래 c0mmission가 있었는데 무슨 표시인지 잘 모르겠습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 6,
+          "end": 17,
+          "text": "c0mmission가"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a03d56ca6cae5aa7",
+    "label": 2,
+    "observations": {
+      "node_id": "a03d56ca6cae5aa7",
+      "url": "http://127.0.0.1:64920/final/a03d56ca6cae5aa7.html",
+      "location": "article > p",
+      "raw_text": "본문이 삭제되어 c0mmission라는 이름 외에는 알 수 없습니다.",
+      "version": 1,
+      "observations": [],
+      "unresolved": [
+        {
+          "technique": "HOMOGLYPH",
+          "reason": "ambiguous-script-or-digit-substitution",
+          "start": 9,
+          "end": 21,
+          "text": "c0mmission라는"
+        }
+      ]
+    }
+  }
+]

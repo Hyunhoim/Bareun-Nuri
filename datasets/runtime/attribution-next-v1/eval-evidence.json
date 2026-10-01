@@ -1,0 +1,898 @@
+{
+  "candidates": [
+    {
+      "node_id": "n_06ca8789a3d4712d",
+      "raw_text": "불법 현금 마작장 입장권 거래",
+      "normalized_text": "불법 현금 마작장 입장권 거래",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "signals": [],
+      "links": [],
+      "nearby": {},
+      "own_style": {
+        "tag": "th"
+      },
+      "context_evidence": {
+        "target_tag": "th",
+        "scope": {
+          "tag": "tr",
+          "role": null,
+          "document_scope": false
+        },
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "text": "법률 강의의 목차 항목입니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "tag": "th",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "text": "불법 영업 중개의 처벌 사례를 공부합니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    {
+      "node_id": "n_09b726b9f9e51ffa",
+      "raw_text": "유출 성인 사생활 파일 정기 구독",
+      "normalized_text": "유출 성인 사생활 파일 정기 구독",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "signals": [],
+      "links": [],
+      "nearby": {},
+      "own_style": {
+        "tag": "dd"
+      },
+      "context_evidence": {
+        "target_tag": "dd",
+        "scope": {
+          "tag": "dl",
+          "role": null,
+          "document_scope": false
+        },
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "text": "제가 파는 상품의 이름입니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "tag": "dd",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "text": "구독료를 결제할 분을 찾습니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    {
+      "node_id": "n_0ee185f0f1942c5a",
+      "raw_text": "게시판: 동네 소식",
+      "normalized_text": "게시판: 동네 소식",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "signals": [],
+      "links": [],
+      "nearby": {},
+      "own_style": {
+        "tag": "span"
+      },
+      "context_evidence": {
+        "target_tag": "span",
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "span",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "text": "불법 현금 마작장의 손님을 모집합니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    {
+      "node_id": "n_253cf17f9a7cc570",
+      "raw_text": "자리 선점",
+      "normalized_text": "자리 선점",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "signals": [],
+      "links": [],
+      "nearby": {},
+      "own_style": {
+        "tag": "a"
+      },
+      "context_evidence": {
+        "target_tag": "a",
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "text": "불법 현금 마작에 참여할 손님은 이 연결에서 판돈을 내고 예약하세요.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    {
+      "node_id": "n_42b6d1852d06b863",
+      "raw_text": "“불법 촬영된 성인 사생활 파일을 유료 제공합니다.”",
+      "normalized_text": "“불법 촬영된 성인 사생활 파일을 유료 제공합니다.”",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "signals": [],
+      "links": [],
+      "nearby": {},
+      "own_style": {
+        "tag": "blockquote"
+      },
+      "context_evidence": {
+        "target_tag": "blockquote",
+        "scope": {
+          "tag": "section",
+          "role": null,
+          "document_scope": false
+        },
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "text": "삭제 요청을 받은 글의 표현을 심의 문서에 인용합니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "tag": "blockquote",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "text": "판매 공지가 아니라 삭제 심의 대상의 기록입니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    {
+      "node_id": "n_45b3cdded65e879a",
+      "raw_text": "별도 공간 입장",
+      "normalized_text": "별도 공간 입장",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "signals": [],
+      "links": [],
+      "nearby": {},
+      "own_style": {
+        "tag": "button"
+      },
+      "context_evidence": {
+        "target_tag": "button",
+        "scope": {
+          "tag": "li",
+          "role": null,
+          "document_scope": false
+        },
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "text": "미리 안내받은 분 대상입니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "tag": "button",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    {
+      "node_id": "n_6700aa4f8497a56a",
+      "raw_text": "자료 구매하기",
+      "normalized_text": "자료 구매하기",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "signals": [],
+      "links": [],
+      "nearby": {},
+      "own_style": {
+        "tag": "button"
+      },
+      "context_evidence": {
+        "target_tag": "button",
+        "scope": {
+          "tag": "div",
+          "role": null,
+          "document_scope": false
+        },
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "text": "불법 촬영된 성인 사생활 자료를 제공하는 유료 창구입니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "tag": "button",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    {
+      "node_id": "n_70ea906eafa4e8d6",
+      "raw_text": "“불법 촬영된 성인 사생활 파일을 유료 제공합니다.”",
+      "normalized_text": "“불법 촬영된 성인 사생활 파일을 유료 제공합니다.”",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "signals": [],
+      "links": [],
+      "nearby": {},
+      "own_style": {
+        "tag": "blockquote"
+      },
+      "context_evidence": {
+        "target_tag": "blockquote",
+        "scope": {
+          "tag": "section",
+          "role": null,
+          "document_scope": false
+        },
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "text": "문의가 많아 제 판매 공지를 다시 옮겨 적습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "tag": "blockquote",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "text": "파일 대금을 입금하면 받는 방법을 알려 드려요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    {
+      "node_id": "n_84e120cc153030e5",
+      "raw_text": "참여 금액 확인",
+      "normalized_text": "참여 금액 확인",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "signals": [],
+      "links": [],
+      "nearby": {},
+      "own_style": {
+        "tag": "span"
+      },
+      "context_evidence": {
+        "target_tag": "span",
+        "scope": {
+          "tag": "section",
+          "role": null,
+          "document_scope": false
+        },
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "text": "아시는 분에게만 설명하겠습니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "tag": "span",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    {
+      "node_id": "n_89f680f8f2683dea",
+      "raw_text": "글쓴이: 푸른나침반",
+      "normalized_text": "글쓴이: 푸른나침반",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "signals": [],
+      "links": [],
+      "nearby": {},
+      "own_style": {
+        "tag": "strong"
+      },
+      "context_evidence": {
+        "target_tag": "strong",
+        "scope": {
+          "tag": "li",
+          "role": null,
+          "document_scope": false
+        },
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "strong",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "text": "허가 없는 투견 베팅의 판돈을 받습니다. 유료로 참가하세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    {
+      "node_id": "n_8ae4d105b4fc12c5",
+      "raw_text": "수정일 2026-07-11",
+      "normalized_text": "수정일 2026-07-11",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "signals": [],
+      "links": [],
+      "nearby": {},
+      "own_style": {
+        "tag": "small"
+      },
+      "context_evidence": {
+        "target_tag": "small",
+        "scope": {
+          "tag": "div",
+          "role": null,
+          "document_scope": false
+        },
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "text": "불법 촬영된 성인 사생활 자료를 돈 받고 제공합니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "tag": "small",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    {
+      "node_id": "n_95e5a6b4e5855d4f",
+      "raw_text": "“불법 투견 도박에 판돈을 내고 합류하십시오.”",
+      "normalized_text": "“불법 투견 도박에 판돈을 내고 합류하십시오.”",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "signals": [],
+      "links": [],
+      "nearby": {},
+      "own_style": {
+        "tag": "q"
+      },
+      "context_evidence": {
+        "target_tag": "q",
+        "scope": {
+          "tag": "span",
+          "role": null,
+          "document_scope": false
+        },
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "text": "우리 모임의 실제 초대 문구를 그대로 올립니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "tag": "q",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "text": "제가 돈을 받아 참가 명단에 넣어 드립니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    {
+      "node_id": "n_98588700c26b881a",
+      "raw_text": "“불법 투견 도박에 판돈을 내고 합류하십시오.”",
+      "normalized_text": "“불법 투견 도박에 판돈을 내고 합류하십시오.”",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "signals": [],
+      "links": [],
+      "nearby": {},
+      "own_style": {
+        "tag": "q"
+      },
+      "context_evidence": {
+        "target_tag": "q",
+        "scope": {
+          "tag": "span",
+          "role": null,
+          "document_scope": false
+        },
+        "target_quoted": true,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "text": "학교 신문이 보도한 불법 모집 메시지입니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "tag": "q",
+            "quoted": true
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "text": "학생들에게 이 거래의 위험을 알리는 기사입니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    {
+      "node_id": "n_9b55f8a9107f151b",
+      "raw_text": "베팅 신청",
+      "normalized_text": "베팅 신청",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "signals": [],
+      "links": [],
+      "nearby": {},
+      "own_style": {
+        "tag": "a"
+      },
+      "context_evidence": {
+        "target_tag": "a",
+        "scope": {
+          "tag": "li",
+          "role": null,
+          "document_scope": false
+        },
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "text": "허가 없는 투견 도박을 운영합니다. 돈을 걸 분은 아래에서 참가를 신청하세요.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    {
+      "node_id": "n_a9c16c52a97f6998",
+      "raw_text": "현금 대신 점수표를 쓰는 무료 보드게임 교실",
+      "normalized_text": "현금 대신 점수표를 쓰는 무료 보드게임 교실",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "signals": [],
+      "links": [],
+      "nearby": {
+        "before": "불법 마작장에 입장료를 보내세요."
+      },
+      "own_style": {
+        "tag": "span"
+      },
+      "context_evidence": {
+        "target_tag": "span",
+        "scope": {
+          "tag": "div",
+          "role": null,
+          "document_scope": false
+        },
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "span",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    {
+      "node_id": "n_bd3ae0c2362f73a7",
+      "raw_text": "자료 묶음 신청",
+      "normalized_text": "자료 묶음 신청",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "signals": [],
+      "links": [],
+      "nearby": {},
+      "own_style": {
+        "tag": "dd"
+      },
+      "context_evidence": {
+        "target_tag": "dd",
+        "scope": {
+          "tag": "dl",
+          "role": null,
+          "document_scope": false
+        },
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "text": "내용은 개별 연락으로만 알려 드립니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "tag": "dd",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    {
+      "node_id": "n_c3a3885eb8f8335f",
+      "raw_text": "시민 영상제 상영작 해설 모임을 신청하세요.",
+      "normalized_text": "시민 영상제 상영작 해설 모임을 신청하세요.",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "signals": [],
+      "links": [],
+      "nearby": {},
+      "own_style": {
+        "tag": "a"
+      },
+      "context_evidence": {
+        "target_tag": "a",
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    {
+      "node_id": "n_c3e93ee7f442d254",
+      "raw_text": "이용권 요금 문의",
+      "normalized_text": "이용권 요금 문의",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "signals": [],
+      "links": [],
+      "nearby": {},
+      "own_style": {
+        "tag": "a"
+      },
+      "context_evidence": {
+        "target_tag": "a",
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "text": "어제 대화한 내용을 참고해 주세요.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    {
+      "node_id": "n_c539e0f6ab8d17e9",
+      "raw_text": "구독 대금 납부",
+      "normalized_text": "구독 대금 납부",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "signals": [],
+      "links": [],
+      "nearby": {},
+      "own_style": {
+        "tag": "a"
+      },
+      "context_evidence": {
+        "target_tag": "a",
+        "scope": {
+          "tag": "section",
+          "role": null,
+          "document_scope": false
+        },
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "text": "동의 없이 유출된 성인 사생활 파일을 정기 판매합니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "text": "위 메뉴에서 제게 요금을 보내세요.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    {
+      "node_id": "n_d1877982c938c916",
+      "raw_text": "의견 3건",
+      "normalized_text": "의견 3건",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "signals": [],
+      "links": [],
+      "nearby": {
+        "after": "동의 없이 유출된 성인 사생활 파일의 구독료를 받습니다."
+      },
+      "own_style": {
+        "tag": "h4"
+      },
+      "context_evidence": {
+        "target_tag": "h4",
+        "scope": {
+          "tag": "section",
+          "role": null,
+          "document_scope": false
+        },
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "h4",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    {
+      "node_id": "n_eace0e2265b76b7b",
+      "raw_text": "현금 마작장에 초대합니다. 불법 영업이지만 돈을 걸 수 있습니다.",
+      "normalized_text": "현금 마작장에 초대합니다. 불법 영업이지만 돈을 걸 수 있습니다.",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "signals": [],
+      "links": [],
+      "nearby": {
+        "before": "도박 피해 예방 상담 주간입니다."
+      },
+      "own_style": {
+        "tag": "span"
+      },
+      "context_evidence": {
+        "target_tag": "span",
+        "scope": {
+          "tag": "div",
+          "role": null,
+          "document_scope": false
+        },
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "span",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    {
+      "node_id": "n_f1937611a5946015",
+      "raw_text": "유출 성인 사생활 파일 정기 구독",
+      "normalized_text": "유출 성인 사생활 파일 정기 구독",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "signals": [],
+      "links": [],
+      "nearby": {},
+      "own_style": {
+        "tag": "dd"
+      },
+      "context_evidence": {
+        "target_tag": "dd",
+        "scope": {
+          "tag": "dl",
+          "role": null,
+          "document_scope": false
+        },
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "text": "피해 지원 보고서의 유통 유형 분류입니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "tag": "dd",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "text": "피해 예방을 위해 조사한 범죄 형태를 뜻합니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    {
+      "node_id": "n_f4d41a04f9f9ab62",
+      "raw_text": "불법 현금 마작장 입장권 거래",
+      "normalized_text": "불법 현금 마작장 입장권 거래",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "signals": [],
+      "links": [],
+      "nearby": {},
+      "own_style": {
+        "tag": "th"
+      },
+      "context_evidence": {
+        "target_tag": "th",
+        "scope": {
+          "tag": "tr",
+          "role": null,
+          "document_scope": false
+        },
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "before",
+            "tag": "p",
+            "text": "제가 올린 판매 물품명입니다.",
+            "quoted": false
+          },
+          {
+            "relation": "target",
+            "tag": "th",
+            "quoted": false
+          },
+          {
+            "relation": "after",
+            "tag": "p",
+            "text": "입장권 비용을 보내 주시면 위치를 안내합니다.",
+            "quoted": false
+          }
+        ]
+      }
+    },
+    {
+      "node_id": "n_f7329a7a8a959b60",
+      "raw_text": "몰래 촬영된 성인 사생활 파일 구매자를 모집합니다.",
+      "normalized_text": "몰래 촬영된 성인 사생활 파일 구매자를 모집합니다.",
+      "page_title": "시민 참여 안내",
+      "frame_urls": [],
+      "signals": [],
+      "links": [],
+      "nearby": {},
+      "own_style": {
+        "tag": "a"
+      },
+      "context_evidence": {
+        "target_tag": "a",
+        "scope": {
+          "tag": "article",
+          "role": null,
+          "document_scope": false
+        },
+        "target_quoted": false,
+        "truncated": false,
+        "units": [
+          {
+            "relation": "target",
+            "tag": "a",
+            "quoted": false
+          }
+        ]
+      }
+    }
+  ]
+}

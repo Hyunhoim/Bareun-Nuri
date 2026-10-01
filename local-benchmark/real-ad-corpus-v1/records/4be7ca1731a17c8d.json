@@ -1,0 +1,40 @@
+{
+  "id": "4be7ca1731a17c8d",
+  "source": {
+    "id": "4be7ca1731a17c8d",
+    "url": "https://gen.go.kr/child/xboard/board.php?mode=view&number=14&tbnum=6&sCat=0&page=3&keyset=&searchword=",
+    "source_scope": "government_board",
+    "captured_at": "2026-09-28T23:03:01.291372+00:00",
+    "rights_status": "unverified_third_party_content",
+    "human_reviewed": false,
+    "raw_file": "raw/4be7ca1731a17c8d.html",
+    "byte_file": "raw/4be7ca1731a17c8d.bin",
+    "response_sha256": "db6c4c4380cd7961926a8673c8680a5342bd2a80bd77848a0ce12142ad28b952",
+    "decoded_sha256": "db6c4c4380cd7961926a8673c8680a5342bd2a80bd77848a0ce12142ad28b952",
+    "encoding": "utf-8",
+    "status": "captured",
+    "page_title": "이용안내 - 배너모음 (게시물 내용 보기)"
+  },
+  "title": "안전신문고",
+  "raw_text": "안전신문고",
+  "body_xpath": "/html/body/div[1]/div[3]/div/div[3]/div[1]/table[1]/tbody/tr[5]/td",
+  "title_xpath": "/html/body/div[1]/div[3]/div/div[3]/div[1]/table[1]/tbody/tr[1]/td",
+  "source_kind": "real_web_post",
+  "extraction": "static_HTML_lxml_itertext",
+  "comments_status": "not_extracted_or_labeled",
+  "technique_observed": null,
+  "body_sha256": "9e54b17899d5f4217e73051ef73ec3e3ce0d8e1a9ea8d405100d29640ca73bb9",
+  "label": null,
+  "human_reviewed": false,
+  "outgoing_links": [
+    {
+      "text": "",
+      "href": "#none;"
+    },
+    {
+      "text": "",
+      "href": "#none;"
+    }
+  ],
+  "notes": "No CSS technique claim from static text; listed neighbours are excluded from owned context."
+}

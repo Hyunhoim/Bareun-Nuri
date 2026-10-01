@@ -1,0 +1,414 @@
+{
+  "origin": "http://127.0.0.1:65343",
+  "targets": 80,
+  "counts": {
+    "ad": 32,
+    "normal": 40,
+    "ambiguous": 8
+  },
+  "source": "independently authored synthetic HTML; actual browser evidence; target-only semantic evaluation",
+  "scope": "Not training data. No dynamic/iframe or real-world prevalence claims. All 8 ambiguous labels excluded from binary F1.",
+  "audit": [
+    {
+      "id": "node-001",
+      "node_id": "n_cbecc43761e831ef",
+      "context_units": 1
+    },
+    {
+      "id": "node-002",
+      "node_id": "n_41b8195d09cc85db",
+      "context_units": 1
+    },
+    {
+      "id": "node-003",
+      "node_id": "n_5b67e006a760dada",
+      "context_units": 3
+    },
+    {
+      "id": "node-004",
+      "node_id": "n_1b2cc09724435fda",
+      "context_units": 2
+    },
+    {
+      "id": "node-005",
+      "node_id": "n_8e308b4b861fc27f",
+      "context_units": 1
+    },
+    {
+      "id": "node-006",
+      "node_id": "n_be99138dc869b6a8",
+      "context_units": 3
+    },
+    {
+      "id": "node-007",
+      "node_id": "n_e8904820106e634c",
+      "context_units": 3
+    },
+    {
+      "id": "node-008",
+      "node_id": "n_c1c737466002f367",
+      "context_units": 1
+    },
+    {
+      "id": "node-009",
+      "node_id": "n_d245151bbd00a5d9",
+      "context_units": 1
+    },
+    {
+      "id": "node-010",
+      "node_id": "n_247e2de955eea41a",
+      "context_units": 1
+    },
+    {
+      "id": "node-011",
+      "node_id": "n_e0910ebcf967ac7d",
+      "context_units": 3
+    },
+    {
+      "id": "node-012",
+      "node_id": "n_d3a9ae0db211d41c",
+      "context_units": 1
+    },
+    {
+      "id": "node-013",
+      "node_id": "n_a57a1b4a9f1ce200",
+      "context_units": 2
+    },
+    {
+      "id": "node-014",
+      "node_id": "n_542cca765e724b50",
+      "context_units": 1
+    },
+    {
+      "id": "node-015",
+      "node_id": "n_d3e4ecc952474553",
+      "context_units": 2
+    },
+    {
+      "id": "node-016",
+      "node_id": "n_a530ae6ff53dc8ca",
+      "context_units": 1
+    },
+    {
+      "id": "node-017",
+      "node_id": "n_54b236c88fbb42c2",
+      "context_units": 1
+    },
+    {
+      "id": "node-018",
+      "node_id": "n_f2f8f9e344616ca6",
+      "context_units": 1
+    },
+    {
+      "id": "node-019",
+      "node_id": "n_d4384cc2b10d91bc",
+      "context_units": 3
+    },
+    {
+      "id": "node-020",
+      "node_id": "n_fd6d5bbdc70c9dd0",
+      "context_units": 1
+    },
+    {
+      "id": "node-021",
+      "node_id": "n_ca567ebfcb0ba1f3",
+      "context_units": 2
+    },
+    {
+      "id": "node-022",
+      "node_id": "n_2414e776bfdcca6c",
+      "context_units": 3
+    },
+    {
+      "id": "node-023",
+      "node_id": "n_52e334413c3db1e7",
+      "context_units": 1
+    },
+    {
+      "id": "node-024",
+      "node_id": "n_11159895c905e77a",
+      "context_units": 1
+    },
+    {
+      "id": "node-025",
+      "node_id": "n_3731501fa6e793de",
+      "context_units": 1
+    },
+    {
+      "id": "node-026",
+      "node_id": "n_7a46c69b456163cd",
+      "context_units": 2
+    },
+    {
+      "id": "node-027",
+      "node_id": "n_1c3a5290212b232d",
+      "context_units": 3
+    },
+    {
+      "id": "node-028",
+      "node_id": "n_2eea1592c7ac0adc",
+      "context_units": 2
+    },
+    {
+      "id": "node-029",
+      "node_id": "n_aadcfb270286bcae",
+      "context_units": 1
+    },
+    {
+      "id": "node-030",
+      "node_id": "n_73961bc7fd655b7e",
+      "context_units": 1
+    },
+    {
+      "id": "node-031",
+      "node_id": "n_89c201ee1963f784",
+      "context_units": 1
+    },
+    {
+      "id": "node-032",
+      "node_id": "n_31039443f0acc628",
+      "context_units": 1
+    },
+    {
+      "id": "node-033",
+      "node_id": "n_32bdd52d6003ca72",
+      "context_units": 1
+    },
+    {
+      "id": "node-034",
+      "node_id": "n_b7cb0b29b5c5ca61",
+      "context_units": 1
+    },
+    {
+      "id": "node-035",
+      "node_id": "n_a21afbf140da1e58",
+      "context_units": 1
+    },
+    {
+      "id": "node-036",
+      "node_id": "n_78dbceb467223dcb",
+      "context_units": 3
+    },
+    {
+      "id": "node-037",
+      "node_id": "n_198d6a2ce76d4948",
+      "context_units": 2
+    },
+    {
+      "id": "node-038",
+      "node_id": "n_8fa0587b61cadae1",
+      "context_units": 1
+    },
+    {
+      "id": "node-039",
+      "node_id": "n_205711d7c4b94cb3",
+      "context_units": 1
+    },
+    {
+      "id": "node-040",
+      "node_id": "n_ecc45b5de2e01292",
+      "context_units": 1
+    },
+    {
+      "id": "node-041",
+      "node_id": "n_1134e39a8418dc79",
+      "context_units": 1
+    },
+    {
+      "id": "node-042",
+      "node_id": "n_242802eb566e20a2",
+      "context_units": 1
+    },
+    {
+      "id": "node-043",
+      "node_id": "n_29587438c6ca9c55",
+      "context_units": 1
+    },
+    {
+      "id": "node-044",
+      "node_id": "n_ef7df3659fed4bdf",
+      "context_units": 1
+    },
+    {
+      "id": "node-045",
+      "node_id": "n_691e274e879ecbc6",
+      "context_units": 3
+    },
+    {
+      "id": "node-046",
+      "node_id": "n_31fccf06d832b8ca",
+      "context_units": 1
+    },
+    {
+      "id": "node-047",
+      "node_id": "n_e0c689c7069e2704",
+      "context_units": 3
+    },
+    {
+      "id": "node-048",
+      "node_id": "n_a491f88ddaf51ecf",
+      "context_units": 1
+    },
+    {
+      "id": "node-049",
+      "node_id": "n_a4d47a001a694a72",
+      "context_units": 1
+    },
+    {
+      "id": "node-050",
+      "node_id": "n_18cb8e9b793e9fc1",
+      "context_units": 1
+    },
+    {
+      "id": "node-051",
+      "node_id": "n_d116bf885e08a04c",
+      "context_units": 2
+    },
+    {
+      "id": "node-052",
+      "node_id": "n_cf9c3662724204d3",
+      "context_units": 3
+    },
+    {
+      "id": "node-053",
+      "node_id": "n_7a9586c614635a41",
+      "context_units": 1
+    },
+    {
+      "id": "node-054",
+      "node_id": "n_35fc9942d14307a3",
+      "context_units": 2
+    },
+    {
+      "id": "node-055",
+      "node_id": "n_eb970628eb2fbca8",
+      "context_units": 2
+    },
+    {
+      "id": "node-056",
+      "node_id": "n_154c639e5ea1f6af",
+      "context_units": 1
+    },
+    {
+      "id": "node-057",
+      "node_id": "n_b26a826e357d35d0",
+      "context_units": 2
+    },
+    {
+      "id": "node-058",
+      "node_id": "n_369e9bb74c4feaef",
+      "context_units": 2
+    },
+    {
+      "id": "node-059",
+      "node_id": "n_d55ca7b86f1438b0",
+      "context_units": 2
+    },
+    {
+      "id": "node-060",
+      "node_id": "n_3f347a1864533e31",
+      "context_units": 1
+    },
+    {
+      "id": "node-061",
+      "node_id": "n_2c8edc85dd624b88",
+      "context_units": 1
+    },
+    {
+      "id": "node-062",
+      "node_id": "n_3e5e03c882015519",
+      "context_units": 1
+    },
+    {
+      "id": "node-063",
+      "node_id": "n_1fc688ad6d7b71c6",
+      "context_units": 1
+    },
+    {
+      "id": "node-064",
+      "node_id": "n_726dc47382958882",
+      "context_units": 1
+    },
+    {
+      "id": "node-065",
+      "node_id": "n_3cd20b1ab5915845",
+      "context_units": 1
+    },
+    {
+      "id": "node-066",
+      "node_id": "n_08f08214e5d6b4ca",
+      "context_units": 3
+    },
+    {
+      "id": "node-067",
+      "node_id": "n_19ace2b497ef17fd",
+      "context_units": 1
+    },
+    {
+      "id": "node-068",
+      "node_id": "n_2407afcb3f910962",
+      "context_units": 1
+    },
+    {
+      "id": "node-069",
+      "node_id": "n_a8d7ad918ebffe97",
+      "context_units": 1
+    },
+    {
+      "id": "node-070",
+      "node_id": "n_0c5df6016625acd0",
+      "context_units": 3
+    },
+    {
+      "id": "node-071",
+      "node_id": "n_d862bd5051cfbd0c",
+      "context_units": 1
+    },
+    {
+      "id": "node-072",
+      "node_id": "n_38c59a5549f21483",
+      "context_units": 3
+    },
+    {
+      "id": "node-073",
+      "node_id": "n_521e578e47ce1e4d",
+      "context_units": 1
+    },
+    {
+      "id": "node-074",
+      "node_id": "n_54f72c8e5de045f9",
+      "context_units": 1
+    },
+    {
+      "id": "node-075",
+      "node_id": "n_70e0af86fec49fbc",
+      "context_units": 1
+    },
+    {
+      "id": "node-076",
+      "node_id": "n_67e33c21ee33826c",
+      "context_units": 1
+    },
+    {
+      "id": "node-077",
+      "node_id": "n_f407217c2355fd9e",
+      "context_units": 3
+    },
+    {
+      "id": "node-078",
+      "node_id": "n_a8b3e21c430d21f4",
+      "context_units": 1
+    },
+    {
+      "id": "node-079",
+      "node_id": "n_66bc1cf34db761f6",
+      "context_units": 3
+    },
+    {
+      "id": "node-080",
+      "node_id": "n_ea8cf23021921254",
+      "context_units": 2
+    }
+  ],
+  "created_at": "2026-09-24T18:12:26.504Z"
+}

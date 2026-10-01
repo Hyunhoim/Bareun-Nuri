@@ -1,0 +1,17 @@
+{
+  "created": "2026-09-22T07:45:00.017Z",
+  "files": {
+    "agent/src/core/llm.cjs": "428b0e7e6d3cc43fcfd329dc3ee885b6471b4e64b5c2bcd4d0a0734b2a018274",
+    "agent/experiments/run.cjs": "06b7b26b9829c371830f366927f95bf1fbace21477ce9886e5c3773a66596d92",
+    "agent/experiments/contextualize.cjs": "7252792380dcf59386167046ca7fd87b9e8a96c7608f9e772390f74cfd08b28a",
+    "agent/experiments/target-contract.cjs": "74738cb892775d3aa7049fd4da74f82b6c595dc76e706f01013d03a57e7072d5",
+    "agent/experiments/service-contract.cjs": "cbf6c40e92865bc29b5ec5caad51d2d1f0885b644db1b5a5f27a39a51e15c6a5",
+    "agent/experiments/support-contract.cjs": "0a06318038fed68a9b5df91a4b30cf30f156deddabe18d10cff223c157f3bf86",
+    "agent/experiments/intent-contract.cjs": "e3bf99e0ac661cae90025a157ed67314be98aa15a886cb552885f3e6f92c8f57",
+    "agent/experiments/context-contract.cjs": "f30ee80fcd6f7fdd8717f91a7398fe274e50d8ebaf0ff738be3887870fe26d78",
+    "agent/experiments/rescue-contract.cjs": "0f2180a8dfe2574af4b7414c6b46047f8d2f4068ec92c3ffe8ec73fc791ee270",
+    "agent/experiments/role-contract.cjs": "50ec95542ec3f756591ec1c5ec071a65a693bc8ad9ebaee7eb903fcc862f537b",
+    "agent/experiments/domain-contract.cjs": "8d32c91c3c4dd5dc090232ca851d34052001cd620493fcc91df1c930a655bfd5"
+  },
+  "note": "Final: structural role evidence and explicit service-domain verification; frozen before fresh-set evaluation"
+}

@@ -1,0 +1,392 @@
+{
+  "metrics": {
+    "tp": 22,
+    "fp": 13,
+    "fn": 0,
+    "precision": 0.6285714285714286,
+    "recall": 1.0,
+    "f1": 0.7719298245614035,
+    "macro_f1": 0.2644110275689223,
+    "confusion": [
+      [
+        22,
+        0,
+        0,
+        0
+      ],
+      [
+        8,
+        0,
+        0,
+        0
+      ],
+      [
+        5,
+        9,
+        0,
+        0
+      ],
+      [
+        0,
+        5,
+        0,
+        1
+      ]
+    ],
+    "uncertain_correct": 1,
+    "uncertain_as_ad": 0
+  },
+  "records": [
+    {
+      "id": "diversity-35-0",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 1.684330800024327
+    },
+    {
+      "id": "e7a3e5fab01c",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.7225306999753229
+    },
+    {
+      "id": "77eda51544e5",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.7041459000320174
+    },
+    {
+      "id": "diversity-29-0",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.6998873999691568
+    },
+    {
+      "id": "diversity-26-1",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.6846981000271626
+    },
+    {
+      "id": "5503f379687d",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.7242916999966837
+    },
+    {
+      "id": "65c25f7025a1",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.7139624999836087
+    },
+    {
+      "id": "diversity-04-1",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.6914395000203513
+    },
+    {
+      "id": "2e97c163f106",
+      "panel": null,
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.6974251000210643
+    },
+    {
+      "id": "diversity-04-0",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.6811926999944262
+    },
+    {
+      "id": "77e5e6db9d69",
+      "panel": null,
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.7004091999842785
+    },
+    {
+      "id": "b70757e9423d",
+      "panel": null,
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.729246900009457
+    },
+    {
+      "id": "1859801fd3d8",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.6806118999957107
+    },
+    {
+      "id": "fa1e316da155",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.7138814000063576
+    },
+    {
+      "id": "b93244880c0c",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.6937394000124186
+    },
+    {
+      "id": "diversity-26-0",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.7218687999993563
+    },
+    {
+      "id": "6c8047498f89",
+      "panel": null,
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.7101700999774039
+    },
+    {
+      "id": "diversity-35-1",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.7030486000003293
+    },
+    {
+      "id": "d3b9b7885db5",
+      "panel": null,
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.6966113999951631
+    },
+    {
+      "id": "851ece14fe79",
+      "panel": null,
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.7217579000280239
+    },
+    {
+      "id": "ec064b1d0ffd",
+      "panel": null,
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.7349771999870427
+    },
+    {
+      "id": "e9d6c0f9907d",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.7164147000294179
+    },
+    {
+      "id": "6ae77576daca",
+      "panel": null,
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.6976217999472283
+    },
+    {
+      "id": "5853bb5e7655",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.666912000044249
+    },
+    {
+      "id": "d0607a14dc07",
+      "panel": null,
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.7011292999959551
+    },
+    {
+      "id": "996810111632",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.702273300033994
+    },
+    {
+      "id": "8f99ce7e5a1f",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.6759864999912679
+    },
+    {
+      "id": "3b1b7b8e8b0a",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.7021931000053883
+    },
+    {
+      "id": "3382400e1151",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.64812189998338
+    },
+    {
+      "id": "ed325175b535",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.8638818999752402
+    },
+    {
+      "id": "a59c8cc760f8",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.6717941000242718
+    },
+    {
+      "id": "2918fb129067",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.6674223999725655
+    },
+    {
+      "id": "fc8644dcff7f",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.6776526999892667
+    },
+    {
+      "id": "6b78b260ddc7",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.6865738999913447
+    },
+    {
+      "id": "diversity-29-1",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.6711749999667518
+    },
+    {
+      "id": "9ffffa81e07d",
+      "panel": null,
+      "prediction": 3,
+      "raw": "{\"label\":3}",
+      "seconds": 0.6863678999943659
+    },
+    {
+      "id": "16fd374698dd",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.6322972000343725
+    },
+    {
+      "id": "0645422166fa",
+      "panel": null,
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.6359759999904782
+    },
+    {
+      "id": "e465cff22354",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.636945599981118
+    },
+    {
+      "id": "b55018d0c3ab",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.6294655000092462
+    },
+    {
+      "id": "a4729f2bbce8",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.6517657999647781
+    },
+    {
+      "id": "ed12e4eb282d",
+      "panel": null,
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.6441003999789245
+    },
+    {
+      "id": "diversity-21-1",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.6330260999966413
+    },
+    {
+      "id": "diversity-21-0",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.6675979000283405
+    },
+    {
+      "id": "0a9a268d8157",
+      "panel": null,
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.6896437000250444
+    },
+    {
+      "id": "61afb7e168ee",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.6613416000036523
+    },
+    {
+      "id": "370df6cb6bb1",
+      "panel": null,
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.7134374000015669
+    },
+    {
+      "id": "99149615d2c7",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.6474351999931969
+    },
+    {
+      "id": "73d458f8c34e",
+      "panel": null,
+      "prediction": 0,
+      "raw": "{\"label\":0}",
+      "seconds": 0.6488551000365987
+    },
+    {
+      "id": "1fdbf83002ad",
+      "panel": null,
+      "prediction": 1,
+      "raw": "{\"label\":1}",
+      "seconds": 0.6334972000331618
+    }
+  ],
+  "seconds": 35.45804209995549
+}

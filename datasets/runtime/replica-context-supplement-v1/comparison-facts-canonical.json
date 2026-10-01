@@ -1,0 +1,236 @@
+{
+  "scope": "Post-hoc labelled controlled64 semantic positions; not whole-site truth. Primary4-technique metrics unchanged and not recomputed here.",
+  "split": "dev",
+  "local_server_alias_audit": {
+    "catalog_sha256": "dcc15d7896d8239d4fc2679a9d6fa0f6ed0df3d4b12c195b725425aa87bd7bb8",
+    "server_source_sha256": "843dbe5c68aec5b2fdfb61e7ed7e1429d76086ef3d843be2fcf78f7d8cd57a63",
+    "canonical_source_sha256": "05df35ca15cdbb7129fe93c360a46d69f66efed5119b7aa200f4bd48ffc5138d",
+    "canonical_routes": 63,
+    "rule": "Only exact captured local server routes use its canonical aliases. Query key/value pairs are retained, duplicate-key ordering preserved, no request URL modified."
+  },
+  "gold_manifest_sha256": "2b80e59d41ae17607bb65c1bce0501557b432f569ec558f59c81bcc724e5eb6a",
+  "results": [
+    {
+      "run": "C:\\Users\\alvin\\Documents\\개인 프로젝트\\불법 광고 탐지 도구 경진대회\\.runtime\\replica-worker-board-v1",
+      "checkpoint_sha256": "2624f93c6665b78b52c8fc5e0062c6be71cee9f11921c3d051802428f6215fd2",
+      "status": "partial",
+      "reason": "time_budget",
+      "primary52": {
+        "positions": 52,
+        "ads": 24,
+        "ads_collected": 0,
+        "ads_judged": 0,
+        "normal": 24,
+        "ambiguous": 4,
+        "collected": 0,
+        "judged": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 24,
+        "precision": null,
+        "recall": 0,
+        "f1": 0,
+        "normal_review": 0,
+        "ambiguous_review": 0,
+        "miss_reasons": {
+          "discovered_pending": 24
+        }
+      },
+      "supplement12": {
+        "positions": 12,
+        "ads": 4,
+        "ads_collected": 0,
+        "ads_judged": 0,
+        "normal": 8,
+        "ambiguous": 0,
+        "collected": 0,
+        "judged": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 4,
+        "precision": null,
+        "recall": 0,
+        "f1": 0,
+        "normal_review": 0,
+        "ambiguous_review": 0,
+        "miss_reasons": {
+          "discovered_pending": 4
+        }
+      },
+      "controlled64": {
+        "positions": 64,
+        "ads": 28,
+        "ads_collected": 0,
+        "ads_judged": 0,
+        "normal": 32,
+        "ambiguous": 4,
+        "collected": 0,
+        "judged": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 28,
+        "precision": null,
+        "recall": 0,
+        "f1": 0,
+        "normal_review": 0,
+        "ambiguous_review": 0,
+        "miss_reasons": {
+          "discovered_pending": 28
+        }
+      },
+      "unlabelled_positive_count": 0,
+      "unlabelled_positives": []
+    },
+    {
+      "run": "C:\\Users\\alvin\\Documents\\개인 프로젝트\\불법 광고 탐지 도구 경진대회\\.runtime\\replica-worker-home-v1",
+      "checkpoint_sha256": "38ac20dd6d5ffdfe5357c8f43b0e688d439c83f432f81b78e8b7b9cc02743185",
+      "status": "partial",
+      "reason": "time_budget",
+      "primary52": {
+        "positions": 52,
+        "ads": 24,
+        "ads_collected": 0,
+        "ads_judged": 0,
+        "normal": 24,
+        "ambiguous": 4,
+        "collected": 0,
+        "judged": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 24,
+        "precision": null,
+        "recall": 0,
+        "f1": 0,
+        "normal_review": 0,
+        "ambiguous_review": 0,
+        "miss_reasons": {
+          "address_undiscovered": 24
+        }
+      },
+      "supplement12": {
+        "positions": 12,
+        "ads": 4,
+        "ads_collected": 0,
+        "ads_judged": 0,
+        "normal": 8,
+        "ambiguous": 0,
+        "collected": 0,
+        "judged": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 4,
+        "precision": null,
+        "recall": 0,
+        "f1": 0,
+        "normal_review": 0,
+        "ambiguous_review": 0,
+        "miss_reasons": {
+          "address_undiscovered": 4
+        }
+      },
+      "controlled64": {
+        "positions": 64,
+        "ads": 28,
+        "ads_collected": 0,
+        "ads_judged": 0,
+        "normal": 32,
+        "ambiguous": 4,
+        "collected": 0,
+        "judged": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 28,
+        "precision": null,
+        "recall": 0,
+        "f1": 0,
+        "normal_review": 0,
+        "ambiguous_review": 0,
+        "miss_reasons": {
+          "address_undiscovered": 28
+        }
+      },
+      "unlabelled_positive_count": 0,
+      "unlabelled_positives": []
+    },
+    {
+      "run": "C:\\Users\\alvin\\Documents\\개인 프로젝트\\불법 광고 탐지 도구 경진대회\\.runtime\\replica-worker-role16-board-v1",
+      "checkpoint_sha256": "320d33a81d58aea54aae62970323b664bb2c664548259a41137b085736337552",
+      "status": "partial",
+      "reason": "time_budget",
+      "primary52": {
+        "positions": 52,
+        "ads": 24,
+        "ads_collected": 2,
+        "ads_judged": 1,
+        "normal": 24,
+        "ambiguous": 4,
+        "collected": 5,
+        "judged": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 24,
+        "precision": null,
+        "recall": 0,
+        "f1": 0,
+        "normal_review": 0,
+        "ambiguous_review": 0,
+        "miss_reasons": {
+          "discovered_pending": 22,
+          "collected_not_judged": 1,
+          "judgment_false_negative": 1
+        }
+      },
+      "supplement12": {
+        "positions": 12,
+        "ads": 4,
+        "ads_collected": 1,
+        "ads_judged": 0,
+        "normal": 8,
+        "ambiguous": 0,
+        "collected": 1,
+        "judged": 0,
+        "tp": 0,
+        "fp": 0,
+        "fn": 4,
+        "precision": null,
+        "recall": 0,
+        "f1": 0,
+        "normal_review": 0,
+        "ambiguous_review": 0,
+        "miss_reasons": {
+          "discovered_pending": 3,
+          "collected_not_judged": 1
+        }
+      },
+      "controlled64": {
+        "positions": 64,
+        "ads": 28,
+        "ads_collected": 3,
+        "ads_judged": 1,
+        "normal": 32,
+        "ambiguous": 4,
+        "collected": 6,
+        "judged": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 28,
+        "precision": null,
+        "recall": 0,
+        "f1": 0,
+        "normal_review": 0,
+        "ambiguous_review": 0,
+        "miss_reasons": {
+          "discovered_pending": 25,
+          "collected_not_judged": 2,
+          "judgment_false_negative": 1
+        }
+      },
+      "unlabelled_positive_count": 0,
+      "unlabelled_positives": []
+    }
+  ],
+  "unlabelled_positive_union": [],
+  "unlabelled_positive_union_size": 0,
+  "api_calls": 0,
+  "browser_calls": 0
+}

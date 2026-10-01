@@ -1,0 +1,14 @@
+{
+  "version": "real-context-review-v1",
+  "created_at": "2026-09-28T06:53:57.978Z",
+  "items": 18,
+  "pages": 5,
+  "source": "live public websites, unmodified content",
+  "injected_ads": 0,
+  "labels_completed": 0,
+  "training_ready": false,
+  "independent_human_review": "pending user",
+  "selection": "read-only diagnostic sample of title/body/comment/reply/FAQ/attachment; length>=20; dates/navigation excluded; no model predictions used",
+  "tokenizer_view_sha256": "3538d6b90daa5c5d35c5daea46b95bac1d54c7e11d669c705c2db4ead1c2c71f",
+  "items_sha256": "c39972095f8c31b1b444c426a555f5e1f59eefe39fcdf79b9ac370a55a73234a"
+}
