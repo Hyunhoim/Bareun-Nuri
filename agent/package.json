@@ -1,6 +1,0 @@
-{
-  "name": "public-ad-agent", "version": "0.1.0", "private": true,
-  "engines": { "node": ">=22" },
-  "scripts": { "test": "node src/core/jamo.cjs && node test.cjs", "start": "node src/worker.cjs" },
-  "dependencies": { "playwright": "1.62.1" }
-}

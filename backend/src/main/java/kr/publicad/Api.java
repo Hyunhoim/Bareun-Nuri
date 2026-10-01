@@ -16,8 +16,8 @@ import org.springframework.web.server.ResponseStatusException;
 public class Api {
     public record ScanRequest(@NotBlank @Size(max=2048) String url,
         @NotNull @Pattern(regexp="hcx|mock") String provider,
-        @Min(1) @Max(200) int maxPages,@Min(1) @Max(10000) int maxNodes,
-        @Min(1) @Max(300) int maxCalls,@Min(1) @Max(1800) int timeoutSeconds) {}
+        @Min(1) @Max(200) int maxPages,@Min(0) @Max(10000) int maxNodes,
+        @Min(1) @Max(600) int maxCalls,@Min(1) @Max(1500) int timeoutSeconds) {}
     private final Jobs jobs;
     public Api(Jobs jobs) {this.jobs=jobs;}
     @GetMapping("/health") public Map<String,Object> health() {return Map.of("app","public-ad-baseline","status","ok","version","0.1.0");}
@@ -27,6 +27,11 @@ public class Api {
         return ResponseEntity.status(202).body(jobs.start(request));
     }
     @PostMapping("/jobs/{id}/cancel") public ObjectNode cancel(@PathVariable String id) throws IOException {return jobs.cancel(id);}
+    @PostMapping("/jobs/{id}/resume") public ObjectNode resume(@PathVariable String id) throws IOException {return jobs.resume(id);}
+    @PostMapping("/jobs/{id}/finish") public ObjectNode finish(@PathVariable String id) throws IOException {return jobs.finish(id);}
+    @GetMapping("/jobs/{id}/segments/{segment}/result") public ResponseEntity<Object> segment(@PathVariable String id,@PathVariable int segment) throws IOException {
+        return ResponseEntity.ok().header(HttpHeaders.CONTENT_DISPOSITION,"attachment; filename=\"result-segment-"+segment+".json\"").body(jobs.segmentResult(id,segment));
+    }
     @GetMapping("/jobs/{id}/result") public ResponseEntity<Object> result(@PathVariable String id) throws IOException {
         ObjectNode job=jobs.get(id);
         if(!job.has("result")) throw new ResponseStatusException(HttpStatus.CONFLICT,"완료된 결과가 없습니다.");

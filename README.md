@@ -1,62 +1,42 @@
-# spam-ad-detector
+# Bareun-Nuri · Backend
 
-공공 웹사이트 불법광고 탐지 도구. **React → Spring Boot → Node.js Pipeline → HCX-007**으로 URL 탐색, 광고 판정, 원문 근거 확인 및 결과 다운로드를 제공합니다.
+Java 21 / Spring Boot 3.5.16 백엔드 전용 브랜치입니다. `backend/src`, `backend/pom.xml` 및 이 README만 두며 Agent와 프런트 구현·실험 데이터는 포함하지 않습니다.
 
-`main`은 제출용 통합 기준선입니다. 현재는 로컬 웹 실행을 검증한 베이스라인이며, 최종 대회 제출물 완성을 의미하지 않습니다. 빌드·실행에 필요한 소스와 설정만 관리하며 테스트 사이트, 평가 정답, 실험 기록은 개발 브랜치에서 관리합니다.
+## 빌드와 실행
 
-## 실행
-
-Windows x64, Node.js 22.12 이상 또는 24, Microsoft Edge가 필요합니다.
-
-1. 이 저장소를 clone합니다.
-2. `agent/.env.example`을 `agent/.env`로 복사하고 `CLOVASTUDIO_API_KEY`를 입력합니다. Mock 연결 확인만 할 때는 키가 필요 없습니다.
-3. `start.cmd`를 실행합니다. 최초 실행 시 Java 21, Maven, npm 의존성을 프로젝트 내부에 다운로드하므로 인터넷이 필요합니다.
-4. 자동으로 열리는 **http://127.0.0.1:8766**에서 검사할 URL을 입력합니다. 기본 모드는 **Mock**이며, 실제 판정은 **HCX-007** 모드를 선택합니다.
-5. 실행 터미널에서 Ctrl+C로 종료합니다.
-
-화면의 초기 로컬 URL은 테스트 사이트가 별도로 실행 중일 때만 사용할 수 있습니다. 테스트 사이트가 필요하면 `Test_set` 브랜치를 별도 폴더에 checkout하고 그 안의 `local-benchmark/start.cmd`를 실행하세요.
-
-API 키는 서버의 `agent/.env` 또는 환경변수에서만 읽습니다. 키 파일·실행 데이터·다운로드된 도구·빌드 산출물은 Git에 포함하지 않습니다.
-
-## 구성과 브랜치
-
-| 브랜치 | 담당 범위 |
-|---|---|
-| [main](https://github.com/Hyunhoim/spam-ad-detector/tree/main) | 최소 실행 구성과 README. 검증된 변경만 통합 |
-| [Frontend](https://github.com/Hyunhoim/spam-ad-detector/tree/Frontend) | `frontend/`: React 화면, 진행 상태, 결과 표시 |
-| [Backend](https://github.com/Hyunhoim/spam-ad-detector/tree/Backend) | `backend/`: 작업 API, 프로세스 제어, 결과 저장 및 웹 통합 검증 |
-| [Agent_core](https://github.com/Hyunhoim/spam-ad-detector/tree/Agent_core) | `agent/`: 채택한 Pipeline의 수집·정규화·HCX 판정과 회귀 검사 |
-| [Test_set](https://github.com/Hyunhoim/spam-ad-detector/tree/Test_set) | `local-benchmark/`: 합성 사이트·채점기·평가 자료 및 연결용 사이트 |
-
-개발 브랜치들도 독립적으로 웹 앱을 실행할 수 있도록 공통 실행 기반을 포함합니다. 담당 범위는 폴더로 구분합니다. `main`으로 반영할 때는 담당 실행 코드의 커밋만 선택하며, 실험·평가 자료까지 브랜치 전체를 무조건 병합하지 않습니다. 특히 평가 정답은 Agent 입력으로 전달하지 않습니다.
-
-```text
-start.cmd             전체 앱 실행
-scripts/              실행 준비·빌드·브라우저 열기
-frontend/             React + TypeScript + Vite
-backend/              Java 21 + Spring Boot 3.5
-agent/                Node.js Pipeline + HCX-007 어댑터
-```
-
-## 빌드와 동작 확인
+Java 21과 Maven을 설치하고 저장소 루트에서 실행합니다.
 
 ```powershell
-# 빌드만
-powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/run.ps1 -Action build
-# 브라우저 자동 열기 없이 실행
-powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/run.ps1 -NoBrowser
-# Agent 자모 처리 및 Pipeline 판정 계약 검사
-npm.cmd test --prefix agent
+mvn -f backend/pom.xml '-Dmaven.compiler.useIncrementalCompilation=false' -DskipTests package
+$env:APP_ROOT='C:\경로\Bareun-Nuri-Agent_core'
+$env:NODE_EXECUTABLE='node'
+java -Dfile.encoding=UTF-8 -jar backend/target/public-ad-backend.jar
 ```
 
-웹 통합 검증은 `Backend` 브랜치의 `scripts/verify-web.cjs`에서 실행합니다. `--live` 옵션은 실제 HCX API 비용이 발생합니다.
+PowerShell이 Maven의 점(.) 포함 인수를 분리하면 `'-Dmaven.compiler.useIncrementalCompilation=false'`처럼 따옴표로 감쌉니다. `APP_ROOT`에는 `Agent_core`를 체크아웃하고 해당 README에 따라 설치한 루트를 지정합니다. 백엔드는 `$APP_ROOT/agent/src/worker.cjs`를 실행하고 `$APP_ROOT/.runtime/jobs`에 작업을 저장합니다. 기본 주소는 `http://127.0.0.1:8766`입니다.
 
-2026-09-22 연결 검증: 웹에서 2페이지·5후보를 수집하고 HCX-007 API 1회, 2,513토큰, 약 8.1초로 완료했습니다. 검사 취소, 동시 실행 제한, 한도 초과 오류, JSON 다운로드 및 재시작 후 이력 보존도 확인했습니다. 이는 전체 정확도나 새로운 홀드아웃 일반화 성능의 증거가 아닙니다.
+이 브랜치에는 프런트 화면이 없습니다. `../frontend/dist`가 존재할 때만 기존 Maven 리소스 설정으로 함께 패키징됩니다. 프런트 없이도 REST API를 실행할 수 있습니다.
 
-## 현재 실행 범위
+## API
 
-- 로컬 `127.0.0.1` 전용, 동시 검사 1개. 진행 상태는 1초 간격으로 조회합니다.
-- 같은 origin과 시작 URL의 첫 경로 구간을 탐색합니다. 모든 하위 페이지 발견을 보장하지 않으며 로그인·폼 제출·무한 스크롤은 지원하지 않습니다.
-- 최대 200페이지, 10,000후보, 300 API 호출, 1,800초. 한도 초과는 실패이며 중단 지점에서 이어서 검사는 지원하지 않습니다.
-- 결과와 이력은 `.runtime/jobs/`에 저장합니다. 판정 보류는 정상으로 합치지 않고, 원문 근거와 함께 검토하도록 표시합니다.
-- 이 저장소는 소스 기반 실행 구성입니다. 단일 실행 파일 배포, 다중 사용자 인증 및 공개 서버 배포는 아직 포함하지 않습니다.
+|메서드·경로|역할|
+|---|---|
+|GET `/api/health`|상태 확인|
+|GET `/api/jobs` · `/api/jobs/{id}`|작업 목록·진행 상태|
+|POST `/api/jobs`|검사 시작|
+|POST `/api/jobs/{id}/cancel`|중단 요청|
+|POST `/api/jobs/{id}/resume`|검증된 체크포인트에서 재개|
+|POST `/api/jobs/{id}/finish`|사용자가 검사 종료|
+|GET `/api/jobs/{id}/result`|누적 결과|
+|GET `/api/jobs/{id}/segments/{segment}/result`|구간별 결과|
+
+```powershell
+$body=@{url='https://검사할-공공기관-주소/';provider='hcx';maxPages=200;maxNodes=0;maxCalls=600;timeoutSeconds=1500}|ConvertTo-Json
+Invoke-RestMethod http://127.0.0.1:8766/api/jobs -Method Post -ContentType application/json -Headers @{'X-Local-Client'='public-ad-ui'} -Body $body
+```
+
+실제 HCX 호출에는 비용이 발생합니다. 키는 Agent 체크아웃의 `agent/.env`에만 저장합니다. 한 번에 한 작업을 실행하며, 진행 중 결과 파일을 불안정하게 읽지 않고 완료·부분 결과를 구분합니다. 미확인 전송 상태의 재개는409로 거부하며 준비된 요청과 영속 저장된 복구 결과는 안전하게 이어갑니다. 25분 상한은 이 API에서 강제합니다.
+
+## 검증
+
+2026-10-01 기준 패키징 및 실제 로컬 HTTP를 통한 작업 상태·재개·409 거부를 검증했습니다. 운영 실험 근거는 `Test_set` 브랜치의 `docs/phase2-improvement-report.md`입니다. 모델·데이터·API 키·빌드 산출물은 이 브랜치에 두지 않습니다.
