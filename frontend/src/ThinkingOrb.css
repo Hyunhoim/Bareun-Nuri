@@ -1,0 +1,20 @@
+.thinking-orb{position:relative;width:180px;height:180px;flex:0 0 180px;isolation:isolate;transition:opacity .6s,filter .6s}
+.orb-surface{position:absolute;inset:0;border-radius:50%;overflow:hidden;animation:orb-breathe 6s ease-in-out infinite}
+.orb-surface canvas{width:100%!important;height:100%!important;display:block}
+.orb-halo{position:absolute;inset:30px;border-radius:50%;background:radial-gradient(circle,#c9bcf64d,transparent 70%);box-shadow:0 0 40px #b1c8f233}
+.orb-spark{position:absolute;width:4px;height:4px;border-radius:50%;background:#a3a0db;left:50%;top:50%;opacity:.7}
+.spark-a{animation:orb-orbit 12s linear infinite}.spark-b{animation:orb-orbit 18s linear infinite reverse;width:3px;height:3px}
+.orb-idle{transform:scale(.87);opacity:.8}.orb-idle .orb-spark{opacity:0}
+.orb-paused{filter:saturate(.3);opacity:.65}.orb-complete .orb-status-mark{color:#367866}.orb-complete .orb-status-mark,.orb-error .orb-status-mark{font-family:"Segoe UI Emoji","Apple Color Emoji",sans-serif;font-size:64px;line-height:1;color:#a54444}
+.orb-paused *{animation-play-state:paused!important}
+.orb-status-mark{position:absolute;inset:0;display:grid;place-items:center;font-size:24px;color:#70738c}
+.orb-ripple{position:absolute;inset:35px;border:1px solid #8b83ce;border-radius:50%;animation:orb-ripple 1.2s ease-out forwards;pointer-events:none}
+.orb-fallback .orb-surface{inset:25px;background:radial-gradient(circle at 30% 25%,#fff 0,#dcd8fc 23%,#abb8f1 50%,#7bbbd6 75%,#8b7ece 100%);box-shadow:inset -12px -12px 25px #7775b340,0 0 25px #aca5ef40}
+@keyframes orb-breathe{50%{transform:scale(.94)}}@keyframes orb-orbit{from{transform:rotate(0deg) translateX(78px)}to{transform:rotate(360deg) translateX(78px)}}@keyframes orb-ripple{from{opacity:.8;transform:scale(.8)}to{opacity:0;transform:scale(1.8)}}
+@media(max-width:1150px){.thinking-orb{width:140px;height:140px;flex-basis:140px}.orb-spark{display:none}}
+@media(max-width:600px){.thinking-orb{align-self:center;width:160px;height:160px;flex-basis:160px}}
+@media(prefers-reduced-motion:reduce){.thinking-orb *{animation:none!important}.orb-ripple{display:none}}
+
+.monitor .thinking-orb.orb-error{filter:none}.orb-error.orb-fallback .orb-surface{background:radial-gradient(circle at 35% 30%,#ffd9dc,#e9656c 48%,#9e2630 85%)}
+.orb-error .orb-halo{background:radial-gradient(circle,#f7c6c6,transparent 70%)}
+.orb-error .orb-spark{background:#d75858}

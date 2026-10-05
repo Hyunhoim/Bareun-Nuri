@@ -1,0 +1,12 @@
+.tools/
+.runtime/
+Bareun-Nuri 제출/
+**/node_modules/
+frontend/dist/
+backend/target/
+**/.env
+**/.env.*
+!**/.env.example
+**/__pycache__/
+**/graphify-out/
+*.log
