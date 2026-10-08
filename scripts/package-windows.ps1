@@ -6,10 +6,10 @@ $env:npm_config_cache=Join-Path $project '.tools/npm-cache'
 $release=Join-Path $project 'Bareun-Nuri 제출'
 $run=Join-Path $release '01_실행'
 $source=Join-Path $release '02_소스코드'
-$exeName=if(Test-Path "$run/바른누리_실행기.exe"){'바른누리_실행기.exe'}else{'Bareun-Nuri.exe'}
+$exeName='바른누리_실행기.exe'
 function CopyTree($from,$to) {
     New-Item -ItemType Directory -Force $to | Out-Null
-    & robocopy $from $to /E /XD node_modules __pycache__ .git .runtime target dist graphify-out /XF .env *.pyc /NFL /NDL /NJH /NJS | Out-Null
+    & robocopy $from $to /E /XD node_modules __pycache__ .git .runtime target dist graphify-out /XF .env *.pyc README.md package-model.py /NFL /NDL /NJH /NJS | Out-Null
     if($LASTEXITCODE -ge 8){throw "Copy failed: $from"}
 }
 if(-not $SkipBuild){& "$PSScriptRoot/run.ps1" -Action build;if($LASTEXITCODE -ne 0){throw 'Build failed'}}
@@ -27,6 +27,9 @@ CopyTree "$project/agent/antispoof" "$run/app/agent/antispoof"
 CopyTree "$project/agent/models" "$run/app/agent/models"
 # Only runtime dependencies; never copy credentials, experiment data, or developer jobs.
 Copy-Item agent/package*.json "$run/app/agent/"
+$package=Get-Content -Raw agent/package.json | ConvertFrom-Json
+$package.scripts=[pscustomobject]@{start='node src/worker.cjs'}
+[IO.File]::WriteAllText("$run/app/agent/package.json",($package|ConvertTo-Json -Depth 20),[Text.UTF8Encoding]::new($false))
 & npm.cmd ci --prefix "$run/app/agent" --omit=dev --ignore-scripts --no-fund --no-audit
 if($LASTEXITCODE -ne 0){throw 'Agent dependency install failed'}
 Copy-Item backend/target/public-ad-backend.jar "$run/app/backend/"
@@ -48,9 +51,13 @@ if(Test-Path "$run/app/licenses"){CopyTree "$run/app/licenses" "$source/licenses
 CopyTree "$project/agent/src" "$source/agent/src"
 CopyTree "$project/agent/antispoof" "$source/agent/antispoof"
 Copy-Item agent/package*.json "$source/agent/"
-Copy-Item agent/README.md "$source/agent/"
+$package.scripts=[pscustomobject]@{start='node src/worker.cjs';test='node ../scripts/verify-submission.cjs --source'}
+[IO.File]::WriteAllText("$source/agent/package.json",($package|ConvertTo-Json -Depth 20),[Text.UTF8Encoding]::new($false))
+$readme=if(Test-Path "$project/docs/제출_소스코드_README.md"){"$project/docs/제출_소스코드_README.md"}else{"$project/README.md"}
+Copy-Item -LiteralPath $readme -Destination "$source/README.md"
 New-Item -ItemType Directory -Force "$source/scripts" | Out-Null
-foreach($file in @('Launcher.cs','package-windows.ps1','prepare-portable-python.py','requirements-windows.txt','verify-portable.cjs','verify-history-errors.cjs','verify-launcher-repeat.ps1','run.ps1','bootstrap.cjs','open-browser.ps1')){
+foreach($file in @('Launcher.cs','brand-logo.ico','package-windows.ps1','prepare-portable-python.py','requirements-windows.txt','verify-submission.cjs','run.ps1','bootstrap.cjs','open-browser.ps1')){
     if(Test-Path "$PSScriptRoot/$file"){Copy-Item "$PSScriptRoot/$file" "$source/scripts/"}
 }
+if(Test-Path "$project/docs/사용설명서.md"){Copy-Item -LiteralPath "$project/docs/사용설명서.md" -Destination "$release/사용설명서.md"}
 Write-Host "Packaged: $run"

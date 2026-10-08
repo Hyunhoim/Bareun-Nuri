@@ -34,7 +34,7 @@ const server=http.createServer((req,res)=>{
 async function main(){
   await new Promise(resolve=>server.listen(0,'127.0.0.1',resolve));const base=`http://127.0.0.1:${server.address().port}`;
   try{
-    const result=await collect(base+'/checks/',{maxPages:2,maxNodes:200});
+    const result=await collect(base+'/checks/',{channel:'chromium',maxPages:2,maxNodes:200});
     for(const [id,text] of texts){const found=result.candidates.filter(c=>c.selector.endsWith('#'+id));assert.equal(found.length,1,id);assert.equal(found[0].raw_text,text,id);}
     assert(result.candidates.some(c=>c.selector==='span#concealed'&&c.signals.includes('TRANSPARENT')));
     assert(result.candidates.some(c=>c.selector==='p#deferred'));
@@ -51,10 +51,10 @@ async function main(){
     assert(JSON.stringify(result.candidates.find(c=>c.selector==='span#local-author').context_evidence).includes('작성자에 관한 인용 설명'));
     assert(result.pages.every(p=>p.readiness.settled));
     assert(!result.candidates.some(c=>c.raw_text==='별'||c.raw_text.includes('setTimeout')));
-    const busy=await collect(base+'/busy/',{maxPages:1,maxNodes:20,readiness:{minimumMs:200,quietMs:100,maximumMs:600}});
+    const busy=await collect(base+'/busy/',{channel:'chromium',maxPages:1,maxNodes:20,readiness:{minimumMs:200,quietMs:100,maximumMs:600}});
     assert.equal(busy.pages[0].readiness.settled,false);
     const controller=new AbortController(),timer=setTimeout(()=>controller.abort(Error('test cancelled')),400);
-    try{await assert.rejects(()=>collect(base+'/busy/',{signal:controller.signal}),error=>{
+    try{await assert.rejects(()=>collect(base+'/busy/',{channel:'chromium',signal:controller.signal}),error=>{
       assert(controller.signal.aborted);assert.equal(controller.signal.reason.message,'test cancelled');
       assert.match(error.message,/test cancelled|closed|net::ERR_ABORTED/);return true;
     });}finally{clearTimeout(timer);}

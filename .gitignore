@@ -1,12 +1,17 @@
+# Local tools and generated packages
 .tools/
 .runtime/
 Bareun-Nuri 제출/
 **/node_modules/
 frontend/dist/
 backend/target/
+# Credentials and user inspection history
 **/.env
 **/.env.*
 !**/.env.example
+*.log
+# Interpreter and development caches
 **/__pycache__/
 **/graphify-out/
-*.log
+# Locally generated Git LFS hooks (when a global hooksPath is configured)
+hooks/

@@ -7,7 +7,7 @@
   },
   "scripts": {
     "start": "node src/worker.cjs",
-    "test": "node ../scripts/verify-source.cjs && node src/core/jamo.cjs && node collect.test.cjs"
+    "test": "node ../scripts/verify-submission.cjs --source && node ../scripts/verify-source.cjs && node src/core/jamo.cjs && node collect.test.cjs"
   },
   "dependencies": {
     "playwright": "1.62.1"

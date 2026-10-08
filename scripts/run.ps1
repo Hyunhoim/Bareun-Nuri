@@ -1,4 +1,4 @@
-param([ValidateSet('run','build')][string]$Action='run', [switch]$NoBrowser)
+﻿param([ValidateSet('run','build')][string]$Action='run', [switch]$NoBrowser)
 $ErrorActionPreference='Stop'
 $projectRoot=Split-Path -Parent $PSScriptRoot
 Set-Location -LiteralPath $projectRoot
@@ -26,7 +26,7 @@ foreach($part in @('agent','frontend')) {
 if($LASTEXITCODE -ne 0) { throw 'Frontend build failed.' }
 $maven=Join-Path $projectRoot '.tools\apache-maven-3.9.11\bin\mvn.cmd'
 $repository=Join-Path $projectRoot '.tools\m2'
-& $maven "-Dmaven.repo.local=$repository" -B -ntp -f backend/pom.xml package
+& $maven "-Dmaven.repo.local=$repository" -B -ntp -f backend/pom.xml clean package
 if($LASTEXITCODE -ne 0) { throw 'Backend build failed.' }
 if($Action -eq 'build') { exit 0 }
 try {
