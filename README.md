@@ -1,58 +1,35 @@
-<h1><img src="frontend/public/brand-logo.png" width="45" alt="바른누리 로고" valign="middle" /> 바른누리 · Bareun-Nuri</h1>
-
-**공공 웹사이트의 불법광고 의심 문구와 위장 기법을 찾아 근거를 남기는 검사 도구**
+<h1><img src="frontend/public/brand-logo.png" width="48" alt="바른누리 로고" valign="middle" /> 바른누리 · Bareun-Nuri</h1>
 
 ## Overview
 
-공공 웹사이트의 게시글과 댓글에서 의심 광고를 검토할 수 있도록 원문과 URL, 요소 위치, 탐지 기법을 수집합니다. 같은 문구가 실제 홍보인지 안내문 속 인용인지 구별하는 데 문맥을 사용하고, 글자 위장과 시각적 은닉은 별도의 로컬 분석 경로에서 확인합니다.
+바른누리는 **공공 웹사이트의 불법광고 의심 문구를 찾아 검토할 근거를 남기는 도구**입니다. 게시글과 댓글을 수집하고, 광고 의도와 문구를 숨기는 기법을 분석해 원문·URL·요소 위치와 함께 보여줍니다.
 
 ## Features & Demo
 
-| 사용자 흐름 | 구현 |
-| --- | --- |
-| 검사 시작 | 입력 URL을 기준으로 동일 출처 링크를 탐색하고, 방문 페이지의 게시글·댓글과 접근 가능한 iframe을 검사합니다. |
-| 결과 확인 | 닮은꼴 문자(HOMOGLYPH), 자모 분해(JAMO), 투명 텍스트(TRANSPARENT), 화면 밖 은닉(OFFSCREEN)을 원문·위치와 함께 표시합니다. |
-| 일시 중지·재개 | 25분 구간으로 검사하고 완료된 판정과 탐색 상태를 저장합니다. 대기·제외·미판정 항목도 확인할 수 있습니다. |
-| 결과 저장 | 검사 이력을 조회하고, 검토할 결과를 JSON으로 내보냅니다. |
+### 의심 문구 수집과 탐지 상세
 
-### Demo
+Playwright로 동일 출처 링크와 접근 가능한 iframe을 탐색합니다. OpenAI API는 원문과 주변 문맥을 읽어 광고 의도를 판단합니다. 로컬 모델과 문자·DOM 분석은 닮은꼴 문자, 자모 분해, 투명 텍스트, 화면 밖 은닉을 확인합니다.
 
-![검사 진행과 탐지 근거를 표시하는 바른누리 대시보드](docs/readme/dashboard.webp)
+![바른누리 대시보드의 탐지 목록과 원문·요소 위치·URL이 표시된 상세 패널](docs/readme/dashboard.webp)
 
-**탐지 결과 대시보드** — 로컬에서 실행한 화면 데모입니다. 화면의 가상 데이터로 탐지 목록, 진행률, 근거 상세와 JSON 내보내기를 보여줍니다.
+*로컬 대시보드의 화면 데모. 가상 데이터로 탐지 결과를 열어 원문과 위치를 확인하는 흐름입니다.*
 
-### 핵심 구현
+### 검사 중지·재개와 결과 내보내기
 
-1. **광고 의도와 위장 기법에 서로 다른 근거를 사용합니다.** 광고 여부는 대상 문구와 연결된 문맥을 함께 전달해 모델에 묻고, 응답 형식을 검증합니다. 문자 기법에는 Unicode와 로컬 모델을, 시각적 기법에는 DOM·계산된 스타일·좌표를 사용합니다. [광고 판정](agent/src/core/judgment.cjs) · [기법 분석](agent/src/core/techniques.cjs)
-2. **중단된 검사를 저장된 상태에서 이어갑니다.** 방문할 페이지와 판정 진행 상황을 체크포인트에 기록합니다. 재개 시 완료 판정을 재사용하며 전송 여부가 불명확한 요청은 자동 재호출 대상에서 제외합니다. [구간 검사](agent/src/core/bounded-scan.cjs) · [체크포인트 저장](agent/src/core/bounded-scan-store.cjs)
-3. **결과에서 확인할 위치와 검사 범위를 드러냅니다.** JSON은 URL·요소 위치·탐지 기법 조합별로 결과를 기록합니다. 대시보드에서 원문과 검사 종료 사유, 미처리 항목을 볼 수 있습니다. [결과 생성](agent/src/core/output.cjs) · [대시보드](frontend/src/App.tsx)
+25분 단위로 검사를 진행하고 작업 상태와 완료된 판정을 저장합니다. 대시보드에서 중단된 검사를 재개하고, 대기·제외·미판정 항목과 탐지 결과를 확인합니다. 결과는 JSON으로 내보낼 수 있습니다.
 
 ## Tech Stack
 
-| 영역 | 기술과 코드 위치 |
+| 영역 | 기술 |
 | --- | --- |
-| 대시보드 | React, TypeScript, Ant Design, Recharts · [frontend](frontend/) |
-| 작업 API | Java 21, Spring Boot, Maven · [backend](backend/) |
-| 수집·판정 | Node.js, Playwright/Chromium, OpenAI Responses API · [agent/src](agent/src/) |
-| 로컬 추론 | Python 3.12, CPU PyTorch, KcELECTRA AntiSpoof · [추론 코드](agent/antispoof/) · [모델](agent/models/kcelectra-antispoof-v1/) |
-
-### 아키텍처
-
-```mermaid
-flowchart LR
-    U["React 대시보드"] --> A["Spring Boot · 작업 관리"]
-    A --> N["Node.js 워커"]
-    N --> P["Playwright · 본문과 iframe 수집"]
-    P --> L["OpenAI API · 광고 의도"]
-    P --> T["로컬 CPU 모델 · 문자와 DOM 분석"]
-    L --> O["판정 통합 · JSON"]
-    T --> O
-    O --> A
-```
+| 대시보드 | React, TypeScript, Ant Design, Recharts |
+| 작업 API | Java 21, Spring Boot, Maven |
+| 웹 수집·의도 분석 | Node.js, Playwright, Chromium, OpenAI Responses API |
+| 문자 위장 분석 | Python 3.12, CPU PyTorch, KcELECTRA AntiSpoof |
 
 ## How to Run
 
-**화면 미리보기**는 Node.js 24로 실행할 수 있습니다. 가상 사례의 탐지 상세, 일시 중지·재개, JSON 저장을 확인할 수 있습니다.
+화면 데모는 Node.js 24로 실행합니다. 이 단계에서는 대용량 모델 가중치를 내려받을 필요가 없습니다.
 
 ```powershell
 $env:GIT_LFS_SKIP_SMUDGE = '1'
@@ -63,33 +40,23 @@ npm.cmd ci --prefix frontend
 npm.cmd run dev --prefix frontend
 ```
 
-[대시보드 데모](http://127.0.0.1:5173/?demo=1)를 엽니다. 이 단계에서는 대용량 추론 모델의 다운로드를 건너뜁니다.
+[대시보드 데모](http://127.0.0.1:5173/?demo=1)에서 검사를 시작하고 탐지 항목을 선택해 상세를 엽니다.
 
-**실제 검사**는 Windows 11 x64, Git LFS, Node.js 24, Python 3.12와 `gpt-6-luna` 호출 권한이 있는 OpenAI API 키가 필요합니다. [개발 가이드](README_DEVELOPMENT.md#소스에서-실행)에 따라 LFS 모델, CPU 추론 환경과 Chromium을 준비한 뒤 `.\start.cmd`를 실행합니다. [로컬 대시보드](http://127.0.0.1:8766)에서 키를 등록하면 검사할 수 있습니다. 광고 의도 분석에는 수집한 원문과 관련 문맥이 API에 전송됩니다.
-
-```powershell
-npm.cmd test --prefix agent
-```
-
-검사 결과 원본은 `.runtime/jobs/<작업 ID>/artifacts/result.json`에 저장됩니다.
+실제 검사는 Windows 11 x64, Git LFS, Python 3.12, `gpt-6-luna` 호출 권한이 있는 OpenAI API 키가 필요합니다. [개발 가이드](README_DEVELOPMENT.md#소스에서-실행)에 따라 모델과 Chromium을 준비하고 `.\start.cmd`를 실행합니다. [실제 검사 화면](http://127.0.0.1:8766)에서 키를 등록합니다.
 
 ## Appendix
 
 ### 제출 전 내부 테스트
 
-2026년 10월 8일 개발 환경에서 수행한 [제출본 최종 감사](docs/최종_감사.md) 기록입니다.
+2026년 10월 8일 개발 장비에서 수행한 최종 감사 기록입니다.
 
 | 검증 항목 | 확인 결과 |
 | --- | --- |
-| 모델·CPU 추론 | 매니페스트의 자산 7개 해시 일치, 포함된 CPU Python에서 AntiSpoof 추론 및 JSON 응답 확인 |
-| 브라우저·출력 계약 | 로컬 페이지의 텍스트 수집과 원문 보존, 기법별 결과, 빈 배열, 고유 ID, UTF-8 출력 확인 |
-| Windows 실행기 | 제출 EXE로 서버를 시작해 화면 HTTP 200을 확인하고, 백엔드와 함께 종료되는 동작을 확인 |
-| 소스 재빌드 | 격리한 소스에서 TypeScript·Vite·Maven 빌드 및 C# 실행기 컴파일 성공 |
+| 모델 파일·추론 | 매니페스트 자산 7개의 해시 일치, 포함된 CPU 환경에서 AntiSpoof 추론과 JSON 응답 확인 |
+| 웹 수집·출력 | 로컬 테스트 페이지 수집, 원문 보존, 기법별 결과와 UTF-8 출력 확인 |
+| Windows 실행기 | EXE로 백엔드 시작, 화면 HTTP 200 응답, 실행기와 백엔드 종료 확인 |
+| 소스 재빌드 | TypeScript·Vite·Maven 빌드와 C# 실행기 컴파일 성공 |
 
-감사는 동작과 배포 구조를 확인하는 범위로 진행했습니다. 외부 모델 API 호출은 0회였으며, 탐지 정확도 재측정과 별도 Windows PC 검증은 수행하지 않았습니다.
+이 검증은 실행·배포 구조를 확인한 기록입니다. 외부 모델 API 호출과 탐지 정확도 재측정은 검증 범위에서 제외했습니다.
 
-### 구현 범위
-
-검사는 공개 페이지와 접근 가능한 iframe을 대상으로 합니다. 부분 결과에는 수집·판정이 완료된 범위와 대기·누락 내역이 함께 표시됩니다. 탐지 항목은 원문을 근거로 검토할 단서입니다.
-
-[사용설명서](docs/사용설명서.md) · [설치·테스트·Windows 패키징](README_DEVELOPMENT.md) · [제출 검증 기록](docs/최종_감사.md)
+[최종 감사 보고서](docs/최종_감사.md) · [사용설명서](docs/사용설명서.md) · [검증 명령과 패키징](README_DEVELOPMENT.md)
