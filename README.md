@@ -18,6 +18,19 @@ Playwright로 동일 출처 링크와 접근 가능한 iframe을 탐색합니다
 
 25분 단위로 검사를 진행하고 작업 상태와 완료된 판정을 저장합니다. 대시보드에서 중단된 검사를 재개하고, 대기·제외·미판정 항목과 탐지 결과를 확인합니다. 결과는 JSON으로 내보낼 수 있습니다.
 
+## Architecture
+
+```mermaid
+flowchart TD
+    U["대시보드에서 URL 입력"] --> J["Spring Boot가 검사 작업 시작"]
+    J --> P["Playwright가 페이지와 iframe 수집"]
+    P --> L["OpenAI API로 광고 의도 분석"]
+    P --> T["로컬 모델·문자·DOM으로 기법 분석"]
+    L --> M["판정 통합·출력 검증"]
+    T --> M
+    M --> O["대시보드에 원문·위치 표시 및 JSON 내보내기"]
+```
+
 ## Tech Stack
 
 | 영역 | 기술 |
