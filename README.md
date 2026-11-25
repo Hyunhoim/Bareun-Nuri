@@ -1,100 +1,72 @@
-<div align="center">
-
-<img src="frontend/public/brand-logo.png" width="96" alt="바른누리 로고" />
-
 # 바른누리 · Bareun-Nuri
 
-**LLM 기반 공공 웹사이트 불법광고 탐지 Agent**
+**공공 웹사이트의 불법광고 의심 문구와 위장 기법을 찾아 근거를 남기는 검사 도구**
 
-![React](https://img.shields.io/badge/React-315B89?style=flat-square) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-315B89?style=flat-square) ![Java 21](https://img.shields.io/badge/Java%2021-315B89?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-315B89?style=flat-square) ![Playwright](https://img.shields.io/badge/Playwright-315B89?style=flat-square) ![Python](https://img.shields.io/badge/Python-315B89?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-315B89?style=flat-square) ![KcELECTRA](https://img.shields.io/badge/KcELECTRA-315B89?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-315B89?style=flat-square)
+## 프로젝트 소개
 
-[Overview](#overview) · [Features](#features) · [Architecture](#architecture) · [Tech Stack](#tech-stack) · [How to Run](#how-to-run)
+공공 웹사이트의 게시글과 댓글에서 의심 광고를 검토할 수 있도록 원문과 URL, 요소 위치, 탐지 기법을 수집합니다. 같은 문구가 실제 홍보인지 안내문 속 인용인지 구별하는 데 문맥을 사용하고, 글자 위장과 시각적 은닉은 별도의 로컬 분석 경로에서 확인합니다.
 
-</div>
+## 주요 기능
 
----
-
-## Overview
-
-공공 웹사이트의 게시글, 댓글, 제목, 본문 및 iframe에 포함된 불법광고를 탐색하고 위장·은닉 기법을 식별하는 AI 검사 시스템입니다. 광고 의도에 대한 LLM의 문맥 판단과 로컬 모델 및 결정론적 웹 분석을 분리하여 결합합니다. 결과는 원문, URL, 요소 위치, 탐지 기법과 함께 제공됩니다.
-
-## Features
-
-| 기능 | 설명 |
+| 사용자 흐름 | 구현 |
 | --- | --- |
-| 웹 탐색 | FIFO 기반 동일 출처 링크 탐색, Chromium 재사용, iframe 별도 검사 |
-| 광고 의도 분석 | 대상 문구와 연결된 앞뒤 문맥을 OpenAI Responses API로 분석 |
-| 문자 위장 탐지 | Unicode 문자 분석과 KcELECTRA 기반 AntiSpoof v1.0 CPU 추론 |
-| 시각적 은닉 탐지 | DOM, 계산된 CSS 스타일 및 좌표로 투명 텍스트와 화면 밖 요소 검사 |
-| 검사 관리 | 진행률·탐지 통계·원문 확인, 25분 단위 검사, 저장 후 재개 |
-| 결과 관리 | JSON 내보내기, 검사 이력 조회·필터·삭제, 누락 및 미판정 기록 |
+| 검사 시작 | 입력 URL을 기준으로 동일 출처 링크를 탐색하고, 방문 페이지의 게시글·댓글과 접근 가능한 iframe을 검사합니다. |
+| 결과 확인 | 닮은꼴 문자(HOMOGLYPH), 자모 분해(JAMO), 투명 텍스트(TRANSPARENT), 화면 밖 은닉(OFFSCREEN)을 원문·위치와 함께 표시합니다. |
+| 일시 중지·재개 | 25분 구간으로 검사하고 완료된 판정과 탐색 상태를 저장합니다. 대기·제외·미판정 항목도 확인할 수 있습니다. |
+| 결과 저장 | 검사 이력을 조회하고, 검토할 결과를 JSON으로 내보냅니다. |
 
-탐지 유형은 `HOMOGLYPH`(닮은꼴 문자), `JAMO`(자모 분해), `TRANSPARENT`(투명 텍스트), `OFFSCREEN`(화면 밖 은닉)입니다. 로그인, 폼 제출 및 모든 동적 페이지 탐색을 보장하지 않으며 부분 검사 결과를 사이트 전체의 정상 판정으로 해석하지 않습니다.
+## 아키텍처
 
-## Architecture
-
-~~~mermaid
+```mermaid
 flowchart LR
-  UI["React Dashboard"] --> API["Spring Boot API"]
-  API --> W["Node.js Agent"]
-  W --> P["Playwright / Chromium"]
-  P --> L["LLM: 광고 의도"]
-  P --> M["AntiSpoof CPU / DOM 분석"]
-  L --> V["판정 통합 및 계약 검증"]
-  M --> V
-  V --> J["result.json / 검사 이력"]
-  J --> API
-~~~
+    U["React 대시보드"] --> A["Spring Boot · 작업 관리"]
+    A --> N["Node.js 워커"]
+    N --> P["Playwright · 본문과 iframe 수집"]
+    P --> L["OpenAI API · 광고 의도"]
+    P --> T["로컬 CPU 모델 · 문자와 DOM 분석"]
+    L --> O["판정 통합 · JSON"]
+    T --> O
+    O --> A
+```
 
-- `frontend/`: 사용자 화면, 통계, 결과 및 키 관리
-- `backend/`: 검사 작업 제어, API, 이력 관리
-- `agent/src/`: 수집, 판정, 저장·재개 로직
-- `agent/antispoof/`, `agent/models/`: CPU 추론 서비스 및 Git LFS 모델
-- `scripts/`: 빌드, 패키징 및 검증
-
-## Tech Stack
-
-| Layer | Technology |
+| 영역 | 기술과 코드 위치 |
 | --- | --- |
-| Frontend | React, TypeScript, Ant Design, Recharts |
-| Backend | Java 21, Spring Boot, Maven |
-| Agent | Node.js, Playwright, Chromium |
-| AI | OpenAI Responses API, Python 3.12, PyTorch CPU, KcELECTRA |
-| Distribution | Windows x64 EXE, Git LFS, PowerShell |
+| 대시보드 | React, TypeScript, Ant Design, Recharts · [frontend](frontend/) |
+| 작업 API | Java 21, Spring Boot, Maven · [backend](backend/) |
+| 수집·판정 | Node.js, Playwright/Chromium, OpenAI Responses API · [agent/src](agent/src/) |
+| 로컬 추론 | Python 3.12, CPU PyTorch, KcELECTRA AntiSpoof · [추론 코드](agent/antispoof/) · [모델](agent/models/kcelectra-antispoof-v1/) |
 
-## How to Run
+## 핵심 구현
 
-### 1. Prerequisites
+1. **광고 의도와 위장 기법에 서로 다른 근거를 사용합니다.** 광고 여부는 대상 문구와 연결된 문맥을 함께 전달해 모델에 묻고, 응답 형식을 검증합니다. 문자 기법에는 Unicode와 로컬 모델을, 시각적 기법에는 DOM·계산된 스타일·좌표를 사용합니다. [광고 판정](agent/src/core/judgment.cjs) · [기법 분석](agent/src/core/techniques.cjs)
+2. **중단된 검사를 저장된 상태에서 이어갑니다.** 방문할 페이지와 판정 진행 상황을 체크포인트에 기록합니다. 재개 시 완료 판정을 재사용하며 전송 여부가 불명확한 요청은 자동 재호출 대상에서 제외합니다. [구간 검사](agent/src/core/bounded-scan.cjs) · [체크포인트 저장](agent/src/core/bounded-scan-store.cjs)
+3. **결과에서 확인할 위치와 검사 범위를 드러냅니다.** JSON은 URL·요소 위치·탐지 기법 조합별로 결과를 기록합니다. 대시보드에서 원문과 검사 종료 사유, 미처리 항목을 볼 수 있습니다. [결과 생성](agent/src/core/output.cjs) · [대시보드](frontend/src/App.tsx)
 
-Windows 11 x64, Git LFS, Node.js 24, Python 3.12 및 외부 API 접근이 필요합니다. Java 21과 Maven은 실행 스크립트에서 준비하며 GPU는 필요하지 않습니다.
+## 실행 및 검증
 
-### 2. Install & Start
+**화면 미리보기**는 Node.js 24로 실행할 수 있습니다. 가상 사례의 탐지 상세, 일시 중지·재개, JSON 저장을 확인할 수 있습니다.
 
-~~~powershell
-git lfs install
+```powershell
+$env:GIT_LFS_SKIP_SMUDGE = '1'
 git clone https://github.com/Hyunhoim/Bareun-Nuri.git
+Remove-Item Env:GIT_LFS_SKIP_SMUDGE
 cd Bareun-Nuri
-git lfs pull
-py -3.12 -m venv .runtime/klue-venv
-.runtime/klue-venv/Scripts/python.exe -m pip install torch==2.6.0+cpu --no-deps --index-url https://download.pytorch.org/whl/cpu
-.runtime/klue-venv/Scripts/python.exe -m pip install --no-deps -r scripts/requirements-windows.txt
-npm.cmd ci --prefix agent --no-fund --no-audit
-node agent/node_modules/playwright/cli.js install chromium --only-shell
-Copy-Item agent/.env.example agent/.env
-.\start.cmd
-~~~
+npm.cmd ci --prefix frontend
+npm.cmd run dev --prefix frontend
+```
 
-브라우저에서 http://127.0.0.1:8766 에 접속하여 API 키 관리 화면에서 OpenAI 키를 등록하고 검사 URL을 입력합니다. 운영 설정은 `gpt-6-luna` 모델 접근 권한을 요구합니다. API 키는 커밋하지 말고 외부 전송 정책을 확인하세요.
+[대시보드 데모](http://127.0.0.1:5173/?demo=1)를 엽니다. 이 단계에서는 대용량 추론 모델의 다운로드를 건너뜁니다.
 
-### 3. Build & Verify
+**실제 검사**는 Windows 11 x64, Git LFS, Node.js 24, Python 3.12와 `gpt-6-luna` 호출 권한이 있는 OpenAI API 키가 필요합니다. [개발 가이드](README_DEVELOPMENT.md#소스에서-실행)에 따라 LFS 모델, CPU 추론 환경과 Chromium을 준비한 뒤 `.\start.cmd`를 실행합니다. [로컬 대시보드](http://127.0.0.1:8766)에서 키를 등록하면 검사할 수 있습니다. 광고 의도 분석에는 수집한 원문과 관련 문맥이 API에 전송됩니다.
 
-~~~powershell
-powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/run.ps1 -Action build
+```powershell
 npm.cmd test --prefix agent
-powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/package-windows.ps1 -SkipBuild
-node scripts/verify-submission.cjs --smoke
-~~~
+```
 
-결과 원본은 `.runtime/jobs/<작업 ID>/artifacts/result.json`에 저장됩니다. 패키징 결과는 실행기와 포함 런타임을 함께 배포해야 합니다.
+테스트는 모델 파일 무결성, 출력 계약, 브라우저 수집, 자모 처리 등을 검사합니다. 정상 검사 결과 원본은 `.runtime/jobs/<작업 ID>/artifacts/result.json`에 저장됩니다.
 
-[사용설명서](docs/사용설명서.md) · [상세 실행 및 검증 안내](README_DEVELOPMENT.md)
+## 구현 범위
+
+검사는 공개 페이지와 접근 가능한 iframe을 대상으로 합니다. 부분 결과에는 수집·판정이 완료된 범위와 대기·누락 내역이 함께 표시됩니다. 탐지 항목은 원문을 근거로 검토할 단서입니다.
+
+[사용설명서](docs/사용설명서.md) · [설치·테스트·Windows 패키징](README_DEVELOPMENT.md) · [제출 검증 기록](docs/최종_감사.md)
